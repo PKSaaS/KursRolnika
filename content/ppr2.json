@@ -1,0 +1,913 @@
+{
+  "id": "ppr2",
+  "course": "Podstawy produkcji roślinnej",
+  "title": "Glebowe czynniki środowiska",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Gleba powstaje w wyniku wietrzenia skał pod wpływem czynników klimatycznych oraz działalności organizmów żywych.",
+        "Wytworzenie 2–3 cm warstwy gleby trwa od 200 do 1000 lat.",
+        "Gleba to żywa warstwa skorupy ziemskiej – swoje cechy zawdzięcza organizmom glebowym.",
+        "Glebę stanowi najbardziej powierzchniowa warstwa lądów przekształcona przez czynniki glebowe.",
+        "Istnienie gleby zależy od klimatu, rzeźby terenu, skały macierzystej, świata roślinnego i zwierzęcego oraz człowieka.",
+        "Gleba jest jednym z najcenniejszych zasobów Ziemi – od niej zależy rozwój wszystkich roślin."
+      ]
+    },
+    {
+      "heading": "1. Charakterystyka czynników glebowych",
+      "points": [
+        "Czynniki glebowe – elementy środowiska geograficznego wpływające na powstawanie i rozwój gleb.",
+        "Najważniejsze czynniki: biosfera, podłoże skalne, woda, klimat, działalność człowieka, czas.",
+        "Biosfera (zwierzęta i roślinność) to najważniejszy czynnik glebowy; edafon – zespół organizmów glebowych.",
+        "Najważniejszym źródłem substancji próchniczych są rosnące w glebie rośliny.",
+        "Podłoże skalne tworzy szkielet mineralny; na przepuszczalność największy wpływ ma uziarnienie skał podłoża.",
+        "Denudacja – usuwanie zwietrzeliny z powierzchni skały; przy dużym nachyleniu stoku gleba często pozostaje w stanie inicjalnym.",
+        "Gleby stoków południowych są bogatsze w substancje humusowe niż gleby stoków północnych.",
+        "Dla rozwoju gleb częstotliwość opadów ma większe znaczenie niż ich wielkość.",
+        "Stadia rozwoju gleby: inicjalna, dojrzała, stara; w Polsce gleby młode z plejstocenu i holocenu.",
+        "Gleby kopalne – dawne gleby przykryte później pokrywą skał."
+      ]
+    },
+    {
+      "heading": "Próchnica, odczyn i urodzajność gleby",
+      "points": [
+        "Próchnica zawiera azot, magnez, wapń i fosfor, które stopniowo stają się dostępne dla roślin.",
+        "Słodka próchnica (wysycona kationami zasadowymi) zwiększa liczbę i trwałość gruzełków.",
+        "Ilość próchnicy waha się od kilku procent do setnych części procentu.",
+        "Najtrudniej zwiększyć ilość próchnicy w glebach piaszczystych i suchych (szybka mineralizacja).",
+        "Odczyn: pH poniżej 4,5 bardzo kwaśna; 4,6–5,5 kwaśna; 5,6–6,5 lekko kwaśna; 6,6–7,2 obojętna; powyżej 7,2 zasadowa.",
+        "Gleby w Polsce są przeważnie kwaśne, pH od 4 do 8.",
+        "Zakwaszenie wynika z wymywania wapnia, potasu, magnezu i wzrostu ilości wodoru; usuwa je wapnowanie, nie osuszanie.",
+        "Gleby urodzajne (żyzne) pokrywają potrzeby roślin i dają stale wysokie plony; gleby zasobne mają dużo składników, ale nierozpuszczalnych.",
+        "Poprawa gleb piaszczystych: łubin, seradela, inne motylkowe; glinowanie, lessowanie, wgłębne matowanie torfowe lub kompostowe."
+      ]
+    },
+    {
+      "heading": "2. Powstawanie i budowa gleby",
+      "points": [
+        "Powstawanie gleby poprzedza wietrzenie skały – rozluźnianie, kruszenie i rozdrabnianie składników skalnych.",
+        "Skały kwaśne (65–80% SiO2) wietrzeją trudniej niż zasadowe (mniej niż 52% SiO2).",
+        "Skały z jednego minerału wietrzeją łatwiej niż skały drobnoziarniste.",
+        "Stopień zwietrzenia zależy od intensywności i czasu działania czynników wietrzeniowych.",
+        "Wietrzenie powodują ruch wody i powietrza oraz różnice temperatur; w zwietrzelinie pojawiają się kamyki, żwir, piasek, pył.",
+        "Przemiany chemiczne zachodzą przy udziale wody, kwasów i tlenu; powstają m.in. minerały ilaste.",
+        "Organizmy żywe osiedlające się na skałach powodują ich kruszenie i rozsadzanie.",
+        "Gleba to zewnętrzna powierzchniowa warstwa skorupy ziemskiej."
+      ]
+    },
+    {
+      "heading": "3. Typy gleb",
+      "points": [
+        "Gleby tundrowe: wieloletnia zmarzlina, klimat subpolarny, próchnica 1–2%, płytkie, rzadko uprawiane.",
+        "Gleby brunatne i płowe: klimat umiarkowany ciepły, lasy liściaste i mieszane, próchnica 2–3%, brunatny kolor od związków żelaza.",
+        "Gleby bielicowe: klimat umiarkowany chłodny, podłoże piaszczyste, kwaśne, białawy poziom wymywania; typowe dla lasów iglastych.",
+        "Czarnoziemy: na lessach, próchnica 8–15%, poziom próchniczny do 1 metra; Ukraina, prerie, płd.-wsch. Australia.",
+        "Lateryty: obszary okołorównikowe, czerwonawa barwa, próchnica ok. 1%.",
+        "Gleby astrefowe – zależą od warunków lokalnych i zachowują właściwości skały macierzystej: mady, rędziny, gleby bagienne.",
+        "Mady – doliny rzeczne i delty, żyzne, z osadów wylewów rzek.",
+        "Rędziny – na skałach bogatych w węglan wapnia, płytkie, zasadowe; odmiana śródziemnomorska to terra rossa.",
+        "Gleby bagienne – mało urodzajne; po osuszeniu mogą przekształcić się w czarne ziemie."
+      ]
+    },
+    {
+      "heading": "4. Części składowe gleby",
+      "points": [
+        "Przeciętny skład: składniki mineralne 45%, organiczne 5%, woda 25%, powietrze 25%.",
+        "Minerały glebowe: kwarc, skaleń, łyszczyk, piroksen, amfibola; kwarc jest twardy, odporny na wietrzenie i nie jest składnikiem odżywczym.",
+        "Duża ilość kamieni i żwiru zwiększa przepuszczalność i powoduje wysuszenie gleby.",
+        "Najważniejsze składniki próchnicy to kwasy humusowe; próchnica skleja cząstki w grudki i nadaje glebie ciemną barwę.",
+        "Woda kapilarna – porusza się we wszystkich kierunkach, łatwo przyswajalna.",
+        "Woda błonkowa – błonki wokół grudek, trudno dostępna.",
+        "Woda higroskopijna – najsilniej związana z glebą, niedostępna dla roślin; najwięcej w glebach próchniczych.",
+        "Powietrze glebowe zawiera o wiele więcej dwutlenku węgla niż powietrze atmosferyczne."
+      ]
+    },
+    {
+      "heading": "5. Właściwości fizyczne i chemiczne gleb – profil glebowy",
+      "points": [
+        "Profil glebowy – pionowy przekrój przez glebę od powierzchni do skały macierzystej; bada się go w odkrywce.",
+        "Podstawowy profil ma cztery poziomy, oznaczane niekiedy literami A, B, C i D.",
+        "Poziom próchniczny – najwyższy, główne miejsce akumulacji próchnicy i życia organicznego.",
+        "Poziom wymywania (eluwialny) – zubożony, wymywane są z niego łatwo rozpuszczalne składniki.",
+        "Poziom wmywania (iluwialny) – gromadzą się minerały ilaste, tlenki żelaza i glinu, węglan wapnia, próchnica.",
+        "Czwarty poziom – skała macierzysta, bez procesów glebotwórczych, z widocznymi skutkami wietrzenia.",
+        "Poziom glejowy – przy płytkich wodach gruntowych; odtlenianie, niebieskawy lub zielonkawy kolor od związków żelaza."
+      ]
+    },
+    {
+      "heading": "6. Klasyfikacja gleb w Polsce – typy gleb",
+      "points": [
+        "Podział wg rzeźby: gleby terenów górzystych (górskie, dolin rzecznych, kotlin śródgórskich), terenów równinnych, współczesnych teras rzecznych.",
+        "Klasyfikację typów ustaliło Polskie Towarzystwo Gleboznawcze.",
+        "Gleby brunatne 52% – najczęstsze, średnio urodzajne, powstają w procesie brunatnienia.",
+        "Gleby bielicowe 25% – słabo, średnio i silnie zbielicowane; wymagają intensywnego nawożenia.",
+        "Gleby bagienne 9% – torfowe i mułowo-torfowe; wymagają melioracji i intensywnego nawożenia.",
+        "Mady 5% – wyłącznie w dolinach rzek, najwięcej na Żuławach.",
+        "Gleby płowe 5% – dość żyzne, z silniej wymytymi związkami ilastymi i żelazistymi.",
+        "Czarne ziemie 2% – zbliżone do czarnoziemu, na terenach zabagnionych.",
+        "Czarnoziemy 1% – gleby najwyższej jakości w Polsce.",
+        "Rędziny 1% – ze zwietrzenia skał wapiennych i gipsowych, głównie na wyżynach."
+      ]
+    },
+    {
+      "heading": "Klasy bonitacyjne gleb",
+      "points": [
+        "Bonitacja – ocena jakości gleb pod względem wartości użytkowej (żyzność, stosunki wodne, kultura gleby, trudność uprawy, agroklimat, rzeźba).",
+        "Cele: planowanie produkcji, ewidencja gruntów (podatek gruntowy), scalanie gruntów, wykorzystanie na cele nierolnicze.",
+        "Kryteria: budowa profilu glebowego, stosunki wilgotnościowe, wysokość n.p.m.",
+        "4 grupy gruntów: grunty orne, użytki zielone, grunty pod lasami, grunty pod wodami.",
+        "Grunty orne – 9 klas: I, II, IIIa, IIIb, IVa, IVb, V, VI, VIRz (pod zalesienia).",
+        "Klasa I – najlepsze: czarnoziemy, rędziny kredowe, gleby brunatne, mady; klasa V – słabe, kamieniste lub piaszczyste.",
+        "Użytki zielone, grunty pod lasami i pod wodami – po 6 klas (I–VI).",
+        "Gleby orne I–IIIb to 28,6%, IVa i IVb 39,1%, V i VI 32,3% gruntów ornych.",
+        "Klasy V i VI stanowią aż 42,6% użytków zielonych."
+      ]
+    },
+    {
+      "heading": "Kompleksy przydatności rolniczej i mapy glebowo-rolnicze",
+      "points": [
+        "Kompleksy – zespoły gleb o podobnych właściwościach rolniczych, które mogą być podobnie użytkowane.",
+        "Kryteria: właściwości gleby, położenie klimatyczne, sytuacja geomorfologiczna, stosunki wilgotnościowe.",
+        "Pszenny bardzo dobry (I i II) 3,8%; pszenny dobry (II, IIIa, IIIb) 18,0%; pszenny wadliwy (IIIb, IVa, IVb) 3,1%.",
+        "Żytni bardzo dobry (IIIb) 17,1%; żytni dobry (IVa, IVb) 15,6%; żytni słaby (IVb, V) 18,1%; żytni bardzo słaby (VI) 11,5%.",
+        "Zbożowo-pastewny mocny (IIIb, IVa) 3,9%; zbożowo-pastewny słaby (IVb, V) 3,0%.",
+        "Górskie: pszenny 1,6%, zbożowy 2,0%, owsiano-ziemniaczany 1,2%, owsiano-pastewny 0,5%; kompleks 14 – grunty orne pod użytki zielone.",
+        "Użytki zielone: 1z bardzo dobry i dobry (I, II) 0,7%; 2z średni (III, IV) 5,9%; 3z słaby i bardzo słaby (V, VI) 6,4%.",
+        "Mapa glebowo-rolnicza zawiera kompleksy, typ genetyczny (podtyp), skład mechaniczny i głębokość warstw profilu.",
+        "Mapy umożliwiają rejonizację upraw, dobór systemów uprawy roli, dystrybucję nawozów i dobór sprzętu.",
+        "Rodzaje map: analogowe i cyfrowe."
+      ]
+    },
+    {
+      "heading": "7. Erozja gleb",
+      "points": [
+        "Erozja – mechaniczne niszczenie powierzchni Ziemi przez czynniki zewnętrzne.",
+        "Rodzaje: erozja wodna i erozja wietrzna.",
+        "Erozja wodna polega m.in. na spłukiwaniu cząstek gleby przez wody deszczowe; nasilenie zależy od pokrycia roślinnością.",
+        "Najlepszą osłoną przed erozją są lasy i zbiorowiska trawiaste.",
+        "Erozja szczególnie nasilona w terenach górzystych; inne formy: erozja rzeczna, niszczenie brzegów przez fale.",
+        "Erozja wietrzna – przenoszenie przez wiatr ziaren piasku i próchnicy; przy dużym nasileniu burze pyłowe.",
+        "Burz pyłowych w Polsce jest coraz więcej, zwłaszcza na obszarach z deficytem wody."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Jak długo trwa wytworzenie 2–3 cm warstwy gleby?",
+      "back": "Od 200 do 1000 lat."
+    },
+    {
+      "front": "Gleba – definicja",
+      "back": "Zewnętrzna, powierzchniowa warstwa skorupy ziemskiej (lądów), przekształcona przez czynniki glebowe."
+    },
+    {
+      "front": "Czynniki glebowe",
+      "back": "Elementy środowiska geograficznego wpływające na powstawanie i rozwój gleb."
+    },
+    {
+      "front": "Najważniejsze czynniki glebowe (6)",
+      "back": "Biosfera, podłoże skalne, woda, klimat, działalność człowieka, czas."
+    },
+    {
+      "front": "Najważniejszy czynnik glebowy",
+      "back": "Biosfera, czyli zwierzęta i roślinność."
+    },
+    {
+      "front": "Edafon",
+      "back": "Zespół organizmów glebowych, który decyduje o przebiegu i charakterze procesu glebotwórczego."
+    },
+    {
+      "front": "Najważniejsze źródło substancji próchniczych dla gleby",
+      "back": "Rosnące w glebie rośliny."
+    },
+    {
+      "front": "Co ma największy wpływ na przepuszczalność gleby?",
+      "back": "Uziarnienie (wielkość i kształt ziaren) skał podłoża."
+    },
+    {
+      "front": "Denudacja",
+      "back": "Usuwanie zwietrzeliny z powierzchni skały; jej przebieg zależy od rzeźby terenu."
+    },
+    {
+      "front": "Ekspozycja stoku",
+      "back": "Wystawienie stoku na promienie słoneczne; gleby stoków południowych są bogatsze w substancje humusowe niż północnych."
+    },
+    {
+      "front": "Co jest ważniejsze dla rozwoju gleb: wielkość czy częstotliwość opadów?",
+      "back": "Częstotliwość – najkorzystniejsze są opady równomiernie rozłożone w ciągu roku."
+    },
+    {
+      "front": "Stadia rozwoju gleby",
+      "back": "Gleba inicjalna, gleba dojrzała, gleba stara."
+    },
+    {
+      "front": "Wiek gleb w Polsce",
+      "back": "Gleby młode, powstałe w plejstocenie i holocenie."
+    },
+    {
+      "front": "Gleby kopalne",
+      "back": "Dawne gleby przykryte później pokrywą skał, spotykane w odsłonięciach i odkrywkach geologicznych."
+    },
+    {
+      "front": "Składniki odżywcze zawarte w próchnicy",
+      "back": "Azot, magnez, wapń i fosfor."
+    },
+    {
+      "front": "Słodka próchnica",
+      "back": "Próchnica wysycona kationami o charakterze zasadowym; im jej więcej, tym więcej trwałych gruzełków."
+    },
+    {
+      "front": "W jakich glebach najtrudniej zwiększyć ilość próchnicy?",
+      "back": "W glebach piaszczystych i suchych, gdzie mineralizacja substancji organicznej przebiega bardzo szybko."
+    },
+    {
+      "front": "pH gleby bardzo kwaśnej",
+      "back": "Poniżej 4,5."
+    },
+    {
+      "front": "pH gleby kwaśnej",
+      "back": "4,6–5,5."
+    },
+    {
+      "front": "pH gleby lekko kwaśnej",
+      "back": "5,6–6,5."
+    },
+    {
+      "front": "pH gleby obojętnej",
+      "back": "6,6–7,2."
+    },
+    {
+      "front": "pH gleby zasadowej",
+      "back": "Powyżej 7,2."
+    },
+    {
+      "front": "Zakres pH gleb w Polsce",
+      "back": "Gleby w Polsce są przeważnie kwaśne, ich pH waha się od 4 do 8."
+    },
+    {
+      "front": "Przyczyna zakwaszenia gleby",
+      "back": "Wymywanie wapnia, potasu, magnezu i innych składników zasadowych oraz wzrost ilości wodoru w roztworach glebowych."
+    },
+    {
+      "front": "Jak usunąć zakwaszenie gleby?",
+      "back": "Przez wapnowanie, czyli wprowadzenie związków bogatych w wapń. Samo osuszenie (melioracja) nie zmienia odczynu."
+    },
+    {
+      "front": "Gleby urodzajne (żyzne)",
+      "back": "Gleby pokrywające zapotrzebowanie roślin uprawnych i zapewniające stale wysokie plony."
+    },
+    {
+      "front": "Gleby zasobne",
+      "back": "Gleby z dużą ilością składników pokarmowych, które są jednak nierozpuszczalne w wodzie i roślina nie może ich pobrać."
+    },
+    {
+      "front": "Sposoby podnoszenia urodzajności gleb piaszczystych",
+      "back": "Uprawa łubinu, seradeli i innych motylkowych, glinowanie, lessowanie, wgłębne matowanie torfowe lub kompostowe."
+    },
+    {
+      "front": "Wietrzenie skały",
+      "back": "Rozluźnianie, kruszenie i rozdrabnianie składników skalnych; poprzedza powstawanie gleby."
+    },
+    {
+      "front": "Skały kwaśne a zasadowe – zawartość SiO2",
+      "back": "Kwaśne mają 65–80% SiO2 i wietrzeją trudniej; zasadowe mniej niż 52% SiO2."
+    },
+    {
+      "front": "Które skały wietrzeją łatwiej: jednomineralne czy drobnoziarniste?",
+      "back": "Skały składające się z jednego minerału wietrzeją łatwiej niż skały drobnoziarniste."
+    },
+    {
+      "front": "Gleby tundrowe",
+      "back": "Gleby wieloletniej zmarzliny w klimacie subpolarnym; próchnica 1–2%, bardzo płytkie i rzadko uprawiane."
+    },
+    {
+      "front": "Gleby brunatne i płowe (strefowe)",
+      "back": "Powstają w klimacie umiarkowanym ciepłym pod lasami liściastymi i mieszanymi; próchnica 2–3%, brunatny kolor od związków żelaza."
+    },
+    {
+      "front": "Gleby bielicowe – cechy",
+      "back": "Klimat umiarkowany chłodny, piaszczyste podłoże, odczyn kwaśny, słaby poziom próchniczny, pod nim białawy poziom wymywania; typowe gleby lasów iglastych."
+    },
+    {
+      "front": "Czarnoziemy – cechy",
+      "back": "Gleby na lessach w klimacie umiarkowanym, bardzo żyzne, próchnica 8–15%, poziom próchniczny sięgający do 1 metra."
+    },
+    {
+      "front": "Lateryty",
+      "back": "Gleby obszarów okołorównikowych, czerwonawe od związków żelaza, ubogie w próchnicę (ok. 1%)."
+    },
+    {
+      "front": "Gleby astrefowe",
+      "back": "Gleby powstające niezależnie od klimatu, pod wpływem warunków lokalnych, zachowujące właściwości skały macierzystej: mady, rędziny, gleby bagienne."
+    },
+    {
+      "front": "Mady",
+      "back": "Żyzne gleby dolin rzecznych i delt, powstałe z osadów nanoszonych podczas wylewów rzek. W Polsce 5%, najwięcej na Żuławach."
+    },
+    {
+      "front": "Rędziny",
+      "back": "Gleby na skałach bogatych w węglan wapnia (wapiennych i gipsowych), płytkie, zasobne w próchnicę, o odczynie zasadowym. W Polsce 1%."
+    },
+    {
+      "front": "Terra rossa",
+      "back": "Śródziemnomorska odmiana rędzin."
+    },
+    {
+      "front": "Gleby bagienne",
+      "back": "Mało urodzajne gleby terenów bagiennych (torfowe i mułowo-torfowe); po osuszeniu mogą przejść w czarne ziemie. W Polsce 9%."
+    },
+    {
+      "front": "Przeciętny skład gleby",
+      "back": "Składniki mineralne 45%, składniki organiczne 5%, woda 25%, powietrze 25%."
+    },
+    {
+      "front": "Kwarc w glebie",
+      "back": "Bardzo twardy minerał odporny na wietrzenie, główny składnik granitów, piaskowców i piasków; nie jest składnikiem odżywczym."
+    },
+    {
+      "front": "Kwasy humusowe",
+      "back": "Najważniejsze składniki próchnicy."
+    },
+    {
+      "front": "Rola próchnicy w strukturze gleby",
+      "back": "Skleja cząstki w porowate grudki, zwiększa odporność na wymywanie, wspiera drobnoustroje i nadaje ciemną barwę sprzyjającą ogrzewaniu."
+    },
+    {
+      "front": "Woda kapilarna",
+      "back": "Porusza się we wszystkich kierunkach w najdrobniejszych kanalikach glebowych; łatwo przyswajalna przez rośliny."
+    },
+    {
+      "front": "Woda błonkowa",
+      "back": "Występuje w postaci błonek otaczających grudki gleby; trudno dostępna dla roślin."
+    },
+    {
+      "front": "Woda higroskopijna",
+      "back": "Najsilniej związana z glebą, pochodzi z wilgotnego powietrza; niedostępna dla roślin. Najwięcej jej w glebach próchniczych."
+    },
+    {
+      "front": "Powietrze glebowe a atmosferyczne",
+      "back": "Powietrze glebowe zawiera o wiele więcej dwutlenku węgla niż powietrze atmosferyczne."
+    },
+    {
+      "front": "Profil glebowy",
+      "back": "Pionowy przekrój przez glebę, pokazujący poziomy od powierzchni do skały macierzystej; bada się go w odkrywce."
+    },
+    {
+      "front": "Poziomy podstawowego profilu glebowego",
+      "back": "Cztery poziomy (A, B, C, D): próchniczny, wymywania (eluwialny), wmywania (iluwialny), skała macierzysta."
+    },
+    {
+      "front": "Poziom próchniczny",
+      "back": "Najwyższy poziom glebowy, główne miejsce akumulacji próchnicy i życia organicznego; decyduje o żyzności."
+    },
+    {
+      "front": "Poziom wymywania (eluwialny)",
+      "back": "Warstwa pod poziomem próchnicznym, zubożona w składniki, z której wymywane są łatwo rozpuszczalne składniki mineralne."
+    },
+    {
+      "front": "Poziom wmywania (iluwialny)",
+      "back": "Warstwa, w której gromadzą się minerały ilaste, tlenki żelaza i glinu, węglan wapnia i próchnica przenoszone przez wodę."
+    },
+    {
+      "front": "Poziom glejowy",
+      "back": "Poziom przy płytkich wodach gruntowych, gdzie zachodzi odtlenianie; niebieskawy lub zielonkawy od związków żelaza; typowy dla gleb zabagnionych."
+    },
+    {
+      "front": "Kto ustalił klasyfikację gleb polskich?",
+      "back": "Polskie Towarzystwo Gleboznawcze."
+    },
+    {
+      "front": "Najczęstszy typ gleb w Polsce",
+      "back": "Gleby brunatne – 52%; średnio urodzajne."
+    },
+    {
+      "front": "Brunatnienie",
+      "back": "Wietrzenie minerałów glebowych (głównie glinokrzemianów z żelazem); uwolnione żelazo osadza się na cząstkach i daje brunatną barwę."
+    },
+    {
+      "front": "Udział gleb bielicowych w Polsce",
+      "back": "25%; wyróżnia się gleby słabo, średnio i silnie zbielicowane."
+    },
+    {
+      "front": "Najlepsze gleby w Polsce i ich udział",
+      "back": "Czarnoziemy – 1%; gleby najwyższej jakości."
+    },
+    {
+      "front": "Gleby płowe",
+      "back": "Dość żyzne gleby brunatno-ziemne z silniej wymytymi związkami ilastymi i żelazistymi; 5% gleb Polski."
+    },
+    {
+      "front": "Czarne ziemie",
+      "back": "Gleby zbliżone do czarnoziemu, powstające na terenach zabagnionych, ciemne od próchnicy; 2% gleb Polski."
+    },
+    {
+      "front": "Bonitacja gleb",
+      "back": "Ocena jakości gleb pod względem wartości użytkowej, wyrażana w klasach lub punktach."
+    },
+    {
+      "front": "Trzy kryteria bonitacji",
+      "back": "Budowa profilu glebowego, stosunki wilgotnościowe uwarunkowane położeniem w terenie, wysokość n.p.m."
+    },
+    {
+      "front": "Cztery grupy gruntów w bonitacji",
+      "back": "Grunty orne, użytki zielone, grunty pod lasami, grunty pod wodami."
+    },
+    {
+      "front": "Klasy bonitacyjne gruntów ornych",
+      "back": "9 klas: I, II, IIIa, IIIb, IVa, IVb, V, VI, VIRz."
+    },
+    {
+      "front": "Klasa I gruntów ornych",
+      "back": "Gleby orne najlepsze: czarnoziemy, rędziny kredowe, gleby brunatne, mady."
+    },
+    {
+      "front": "Klasa VIRz",
+      "back": "Gleby orne pod zalesienia."
+    },
+    {
+      "front": "Klasy IVa i IVb",
+      "back": "IVa – gleby orne średniej jakości lepsze; IVb – gleby orne średniej jakości gorsze."
+    },
+    {
+      "front": "Ile klas mają użytki zielone, grunty pod lasami i pod wodami?",
+      "back": "Po 6 klas (I–VI)."
+    },
+    {
+      "front": "Udział klas bonitacyjnych w gruntach ornych Polski",
+      "back": "I–IIIb: 28,6%; IVa i IVb: 39,1%; V i VI: 32,3%."
+    },
+    {
+      "front": "Kompleksy przydatności rolniczej gleb",
+      "back": "Zespoły gleb o podobnych właściwościach rolniczych, które mogą być podobnie użytkowane; zbiorcze typy siedliskowe."
+    },
+    {
+      "front": "Kompleks pszenny bardzo dobry",
+      "back": "Klasy I i II; m.in. burak cukrowy, pszenica, rzepak ozimy; 3,8% powierzchni."
+    },
+    {
+      "front": "Kompleks żytni bardzo słaby (żytnio-łubinowy)",
+      "back": "Klasa VI; żyto, łubin żółty, seradela, ziemniak, wyka ozima; 11,5%."
+    },
+    {
+      "front": "Kompleks żytni słaby",
+      "back": "Klasy IVb i V; żyto, owies, gryka, ziemniak, łubin żółty, seradela, wyka ozima; 18,1%."
+    },
+    {
+      "front": "Kompleksy użytków zielonych",
+      "back": "1z bardzo dobry i dobry (I, II) 0,7%; 2z średni (III, IV) 5,9%; 3z słaby i bardzo słaby (V, VI) 6,4%."
+    },
+    {
+      "front": "Treść mapy glebowo-rolniczej",
+      "back": "Kompleksy rolniczej przydatności gleb, typ genetyczny (podtyp), skład mechaniczny i głębokość zalegania warstw profilu."
+    },
+    {
+      "front": "Zastosowanie map glebowo-rolniczych w rolnictwie",
+      "back": "Rejonizacja upraw, ustalenie systemów uprawy roli, dystrybucja nawozów, dobór sprzętu rolniczego."
+    },
+    {
+      "front": "Erozja gleb",
+      "back": "Mechaniczne niszczenie powierzchni Ziemi przez czynniki zewnętrzne; wyróżnia się erozję wodną i wietrzną."
+    },
+    {
+      "front": "Najlepsza osłona gleb przed erozją",
+      "back": "Lasy i zbiorowiska trawiaste."
+    },
+    {
+      "front": "Erozja wietrzna",
+      "back": "Przenoszenie przez wiatr materiału glebowego (ziaren piasku, próchnicy); przy dużym nasileniu burze pyłowe."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ile trwa wytworzenie 2–3 cm warstwy gleby?",
+      "options": [
+        "10–50 lat",
+        "50–100 lat",
+        "Ponad 10 000 lat",
+        "200–1000 lat"
+      ],
+      "answer": 3,
+      "explain": "Wytworzenie 2–3 cm warstwy gleby trwa od 200 do 1000 lat."
+    },
+    {
+      "q": "Który czynnik glebowy uważany jest za najważniejszy?",
+      "options": [
+        "Klimat",
+        "Biosfera",
+        "Czas",
+        "Woda"
+      ],
+      "answer": 1,
+      "explain": "Biosfera, czyli zwierzęta i roślinność, uważana jest za najważniejszy czynnik glebowy."
+    },
+    {
+      "q": "Edafon to:",
+      "options": [
+        "usuwanie zwietrzeliny ze skały",
+        "poziom wmywania",
+        "odmiana rędziny",
+        "zespół organizmów glebowych"
+      ],
+      "answer": 3,
+      "explain": "Edafon to zespół organizmów glebowych decydujący o procesie glebotwórczym."
+    },
+    {
+      "q": "Denudacja to:",
+      "options": [
+        "wymywanie wapnia z gleby",
+        "gromadzenie próchnicy",
+        "zakwaszanie gleby",
+        "usuwanie zwietrzeliny z powierzchni skały"
+      ],
+      "answer": 3,
+      "explain": "Denudacja to usuwanie zwietrzeliny z powierzchni skały."
+    },
+    {
+      "q": "Gleby których stoków są bogatsze w substancje humusowe?",
+      "options": [
+        "Północnych",
+        "Wschodnich",
+        "Południowych",
+        "Ekspozycja nie ma wpływu"
+      ],
+      "answer": 2,
+      "explain": "Gleby na stokach południowych są bogatsze w substancje humusowe niż na północnych."
+    },
+    {
+      "q": "W Polsce występują gleby powstałe w:",
+      "options": [
+        "trzeciorzędzie",
+        "kredzie",
+        "jurze",
+        "plejstocenie i holocenie"
+      ],
+      "answer": 3,
+      "explain": "W Polsce są gleby młode z plejstocenu i holocenu; gleby trzeciorzędowe są w Afryce."
+    },
+    {
+      "q": "Gleba o pH 5,0 to gleba:",
+      "options": [
+        "kwaśna",
+        "bardzo kwaśna",
+        "lekko kwaśna",
+        "obojętna"
+      ],
+      "answer": 0,
+      "explain": "pH 4,6–5,5 oznacza glebę kwaśną."
+    },
+    {
+      "q": "Jaki zakres pH oznacza glebę obojętną?",
+      "options": [
+        "5,6–6,5",
+        "7,2–8,0",
+        "6,6–7,2",
+        "4,6–5,5"
+      ],
+      "answer": 2,
+      "explain": "Gleba obojętna ma pH 6,6–7,2."
+    },
+    {
+      "q": "Jak usunąć zakwaszenie gleby podmokłej?",
+      "options": [
+        "Wyłącznie przez melioracje odwadniające",
+        "Przez głęboką orkę",
+        "Przez uprawę zbóż",
+        "Przez wapnowanie"
+      ],
+      "answer": 3,
+      "explain": "Zakwaszenie nie ustąpi po osuszeniu, lecz dopiero po zwapnowaniu gleby."
+    },
+    {
+      "q": "Gleby z dużą ilością składników pokarmowych, ale nierozpuszczalnych w wodzie, to gleby:",
+      "options": [
+        "urodzajne",
+        "inicjalne",
+        "zasobne",
+        "astrefowe"
+      ],
+      "answer": 2,
+      "explain": "Takie gleby noszą nazwę zasobnych."
+    },
+    {
+      "q": "Które rośliny uprawia się dla podniesienia urodzajności gleb piaszczystych?",
+      "options": [
+        "Pszenicę i buraki",
+        "Kukurydzę i słonecznik",
+        "Łubin i seradelę",
+        "Rzepak i jęczmień"
+      ],
+      "answer": 2,
+      "explain": "Na glebach piaszczystych uprawia się łubin, seradelę i inne motylkowe."
+    },
+    {
+      "q": "Skały kwaśne zawierają:",
+      "options": [
+        "mniej niż 52% SiO2",
+        "65–80% SiO2",
+        "52–60% SiO2",
+        "ponad 90% SiO2"
+      ],
+      "answer": 1,
+      "explain": "Skały kwaśne mają 65–80% SiO2 i wietrzeją trudniej niż zasadowe."
+    },
+    {
+      "q": "Typowymi glebami lasów iglastych są gleby:",
+      "options": [
+        "bielicowe",
+        "brunatne",
+        "czarnoziemy",
+        "lateryty"
+      ],
+      "answer": 0,
+      "explain": "Gleby bielicowe to typowe gleby lasów iglastych."
+    },
+    {
+      "q": "Zawartość próchnicy w czarnoziemach wynosi:",
+      "options": [
+        "8–15%",
+        "1–2%",
+        "2–3%",
+        "ok. 1%"
+      ],
+      "answer": 0,
+      "explain": "Czarnoziemy zawierają 8–15% próchnicy."
+    },
+    {
+      "q": "Czerwonawa barwa laterytów wynika z:",
+      "options": [
+        "dużej ilości próchnicy",
+        "dużej zawartości związków żelaza",
+        "węglanu wapnia",
+        "kwarcu"
+      ],
+      "answer": 1,
+      "explain": "Duża zawartość związków żelaza nadaje laterytom czerwonawą barwę."
+    },
+    {
+      "q": "Które gleby są glebami astrefowymi?",
+      "options": [
+        "Czarnoziemy, lateryty, bielice",
+        "Gleby tundrowe i brunatne",
+        "Mady, rędziny, gleby bagienne",
+        "Gleby płowe i bielicowe"
+      ],
+      "answer": 2,
+      "explain": "Przykładami gleb astrefowych są mady, rędziny i gleby bagienne."
+    },
+    {
+      "q": "Terra rossa to śródziemnomorska odmiana:",
+      "options": [
+        "rędzin",
+        "mad",
+        "czarnoziemów",
+        "laterytów"
+      ],
+      "answer": 0,
+      "explain": "Na obszarach śródziemnomorskich rędziny tworzą odmianę terra rossa."
+    },
+    {
+      "q": "Jaki jest przeciętny udział wody w składzie gleby?",
+      "options": [
+        "5%",
+        "25%",
+        "45%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "Przeciętnie: mineralne 45%, organiczne 5%, woda 25%, powietrze 25%."
+    },
+    {
+      "q": "Najważniejszymi składnikami próchnicy są:",
+      "options": [
+        "kwasy humusowe",
+        "minerały ilaste",
+        "tlenki glinu",
+        "węglany"
+      ],
+      "answer": 0,
+      "explain": "Najważniejszymi składnikami próchnicy są kwasy humusowe."
+    },
+    {
+      "q": "Która forma wody glebowej jest łatwo przyswajalna przez rośliny?",
+      "options": [
+        "Higroskopijna",
+        "Kapilarna",
+        "Błonkowa",
+        "Żadna"
+      ],
+      "answer": 1,
+      "explain": "Woda kapilarna jest łatwo przyswajalna; błonkowa trudno dostępna, higroskopijna niedostępna."
+    },
+    {
+      "q": "Woda higroskopijna:",
+      "options": [
+        "nie może być wykorzystana przez rośliny",
+        "porusza się we wszystkich kierunkach",
+        "jest łatwo dostępna",
+        "występuje głównie w glebach piaszczystych"
+      ],
+      "answer": 0,
+      "explain": "Siła ssąca korzeni nie przezwycięża przyciągania wody higroskopijnej; najwięcej jej w glebach próchniczych."
+    },
+    {
+      "q": "Powietrze glebowe w porównaniu z atmosferycznym zawiera:",
+      "options": [
+        "więcej tlenu",
+        "więcej azotu",
+        "mniej dwutlenku węgla",
+        "o wiele więcej dwutlenku węgla"
+      ],
+      "answer": 3,
+      "explain": "Powietrze glebowe zawiera o wiele więcej dwutlenku węgla niż atmosferyczne."
+    },
+    {
+      "q": "W którym poziomie gromadzą się minerały ilaste, tlenki żelaza i glinu oraz węglan wapnia?",
+      "options": [
+        "Próchnicznym",
+        "Wymywania (eluwialnym)",
+        "Skale macierzystej",
+        "Wmywania (iluwialnym)"
+      ],
+      "answer": 3,
+      "explain": "Poziom wmywania (iluwialny) to warstwa nagromadzania związków przenoszonych przez wodę."
+    },
+    {
+      "q": "Poziom glejowy ma barwę:",
+      "options": [
+        "niebieskawą lub zielonkawą",
+        "brunatną",
+        "czerwonawą",
+        "białawą"
+      ],
+      "answer": 0,
+      "explain": "Poziom glejowy jest niebieskawy lub zielonkawy od wytrąconych związków żelaza."
+    },
+    {
+      "q": "Jaki typ gleb zajmuje największą powierzchnię w Polsce?",
+      "options": [
+        "Bielicowe",
+        "Mady",
+        "Brunatne",
+        "Bagienne"
+      ],
+      "answer": 2,
+      "explain": "Gleby brunatne stanowią 52% gleb Polski."
+    },
+    {
+      "q": "Jaki udział w Polsce mają gleby bielicowe?",
+      "options": [
+        "25%",
+        "5%",
+        "9%",
+        "52%"
+      ],
+      "answer": 0,
+      "explain": "Gleby bielicowe stanowią 25%."
+    },
+    {
+      "q": "Gdzie w Polsce znajduje się najwięcej mad?",
+      "options": [
+        "Na Mazurach",
+        "Na Podhalu",
+        "Na Żuławach",
+        "Na Wyżynie Lubelskiej"
+      ],
+      "answer": 2,
+      "explain": "Mady występują w dolinach rzek, najwięcej na Żuławach."
+    },
+    {
+      "q": "Rędziny powstają ze zwietrzenia skał:",
+      "options": [
+        "wapiennych i gipsowych",
+        "granitowych",
+        "piaskowcowych",
+        "bazaltowych"
+      ],
+      "answer": 0,
+      "explain": "Rędziny to gleby powstałe ze zwietrzenia skał wapiennych i gipsowych."
+    },
+    {
+      "q": "Które kryterium NIE należy do trzech głównych kryteriów bonitacji gleb?",
+      "options": [
+        "Budowa profilu glebowego",
+        "Odległość od drogi",
+        "Stosunki wilgotnościowe",
+        "Wysokość n.p.m."
+      ],
+      "answer": 1,
+      "explain": "Kryteria to budowa profilu, stosunki wilgotnościowe i wysokość n.p.m."
+    },
+    {
+      "q": "Ile klas bonitacyjnych obejmują grunty orne?",
+      "options": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "Grunty orne obejmują 9 klas: I, II, IIIa, IIIb, IVa, IVb, V, VI, VIRz."
+    },
+    {
+      "q": "Klasa VIRz oznacza:",
+      "options": [
+        "gleby orne najlepsze",
+        "użytki zielone słabe",
+        "gleby orne pod zalesienia",
+        "grunty pod wodami"
+      ],
+      "answer": 2,
+      "explain": "VIRz to gleby orne pod zalesienia."
+    },
+    {
+      "q": "Które gleby zalicza się do klasy I gruntów ornych?",
+      "options": [
+        "Gleby bielicowe i piaszczyste",
+        "Czarnoziemy, rędziny kredowe, gleby brunatne, mady",
+        "Gleby bagienne",
+        "Gleby kamieniste"
+      ],
+      "answer": 1,
+      "explain": "Klasa I to gleby orne najlepsze: czarnoziemy, rędziny kredowe, gleby brunatne, mady."
+    },
+    {
+      "q": "Jaki udział w gruntach ornych Polski mają gleby średniej jakości (IVa i IVb)?",
+      "options": [
+        "28,6%",
+        "32,3%",
+        "39,1%",
+        "42,6%"
+      ],
+      "answer": 2,
+      "explain": "Gleby IVa i IVb stanowią 39,1% gruntów ornych."
+    },
+    {
+      "q": "Klasy V i VI w użytkach zielonych stanowią:",
+      "options": [
+        "42,6%",
+        "12,3%",
+        "28,6%",
+        "32,3%"
+      ],
+      "answer": 0,
+      "explain": "W użytkach zielonych klasy najsłabsze stanowią aż 42,6%."
+    },
+    {
+      "q": "Kompleks pszenny dobry obejmuje klasy:",
+      "options": [
+        "I i II",
+        "IVa i IVb",
+        "II, IIIa i IIIb",
+        "IVb i V"
+      ],
+      "answer": 2,
+      "explain": "Kompleks pszenny dobry to klasy II, IIIa i IIIb (18,0% powierzchni)."
+    },
+    {
+      "q": "Kompleks żytni bardzo słaby nazywany jest również kompleksem:",
+      "options": [
+        "pszenno-żytnim",
+        "zbożowo-pastewnym",
+        "owsiano-ziemniaczanym",
+        "żytnio-łubinowym"
+      ],
+      "answer": 3,
+      "explain": "Kompleks żytni bardzo słaby (klasa VI) to kompleks żytnio-łubinowy."
+    },
+    {
+      "q": "Kompleks 3z na użytkach zielonych oznacza:",
+      "options": [
+        "bardzo dobry i dobry",
+        "słaby i bardzo słaby",
+        "średni",
+        "górski"
+      ],
+      "answer": 1,
+      "explain": "3z to kompleks słaby i bardzo słaby (klasy V i VI), 6,4%."
+    },
+    {
+      "q": "Najlepszą osłoną gleb przed erozją są:",
+      "options": [
+        "uprawy okopowe",
+        "lasy i zbiorowiska trawiaste",
+        "ugory",
+        "uprawy zbóż jarych"
+      ],
+      "answer": 1,
+      "explain": "Najlepszą osłoną gleb przed erozją są lasy i zbiorowiska trawiaste."
+    },
+    {
+      "q": "Burze pyłowe są przejawem erozji:",
+      "options": [
+        "wodnej",
+        "rzecznej",
+        "morskiej",
+        "wietrznej"
+      ],
+      "answer": 3,
+      "explain": "Przy dużym nasileniu erozji wietrznej występują burze pyłowe."
+    }
+  ]
+}

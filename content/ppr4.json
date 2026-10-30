@@ -1,0 +1,759 @@
+{
+  "id": "ppr4",
+  "course": "Podstawy produkcji roślinnej",
+  "title": "Nawożenie",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "1. Podstawy nawożenia",
+      "points": [
+        "Definicje i rodzaje nawozów podaje Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. 2007 Nr 147, poz. 1033 z późn. zm.).",
+        "Nawozy – produkty przeznaczone do dostarczania roślinom składników pokarmowych lub zwiększania żyzności stawów rybnych: mineralne, naturalne, organiczne i organiczno-mineralne (Art. 2 ust. 1.1).",
+        "Nawozy mineralne – nieorganiczne, produkowane w drodze przemian chemicznych, fizycznych lub przerobu surowców mineralnych, w tym wapno nawozowe (także z magnezem) (Art. 2 ust. 1.3).",
+        "Nawozy organiczne – z substancji organicznej lub ich mieszanin, w tym komposty, także z wykorzystaniem dżdżownic (Art. 2 ust. 1.5); organiczno-mineralne – mieszaniny nawozów mineralnych i organicznych (Art. 2 ust. 1.6).",
+        "Nawozy naturalne (Art. 2 ust. 1.4): obornik, gnojówka, gnojowica, odchody zwierząt gospodarskich bez dodatków (z wyjątkiem odchodów pszczół i zwierząt futerkowych), guano.",
+        "Nawozy stosuje się, by utrzymać odpowiednią ilość i proporcje składników (azot, potas, fosfor) oraz jakość gleby (odczyn, pojemność wodna); zbyt duże dawki degradują siedlisko i zanieczyszczają środowisko.",
+        "Dobór nawożenia uwzględnia: typ, rodzaj i gatunek gleby, właściwości fizyczne, chemiczne i fizykochemiczne, stopień kultury roli, klimat, warunki wodno-powietrzne, ukształtowanie terenu.",
+        "Niedobór azotu i fosforu (pierwiastki ruchliwe) – objawy najpierw na starszych liściach; azot: żółtozielone zabarwienie; fosfor: liście matowe, ciemne z odcieniem fioletowym lub purpurowym.",
+        "Potas – zwiędły pokrój, liście niebieskozielone; wapń – młode liście skręcone haczykowato, sucha zgnilizna owoców; magnez – chlorozy przechodzące w nekrozy, plamki między żyłkami dolnych liści; siarka – objawy jak przy azocie (narażone krzyżowe, np. rzepak).",
+        "Żelazo – chlorozy młodych liści; mangan – wrażliwość na niskie temperatury (owies); cynk – „choroba małych liści”; bor – zamieranie wierzchołków (buraki, lucerna); miedź – zaburzenia turgoru; molibden – deformacja pędu."
+      ]
+    },
+    {
+      "heading": "2. Charakterystyka nawozów organicznych",
+      "points": [
+        "Zawierają składniki pokarmowe w postaci związków organicznych; poprawiają właściwości fizyczne, chemiczne i biologiczne gleby.",
+        "Składniki (azot, fosfor, potas) dostępne dopiero po mineralizacji – działanie długotrwałe, stosowanie co 4–6 lat.",
+        "Niewłaściwie przechowywane stanowią zagrożenie (np. toksyczne i rakotwórcze nitrozoaminy, duże dawki azotu dla wód); dawka nawozów naturalnych do 170 kg azotu na 1 ha użytków rolnych rocznie.",
+        "Podział wg pochodzenia: zwierzęce (obornik, gnojówka, gnojowica, guano), roślinne (kompost, słoma, torf, nawozy zielone, resztki pożniwne), niekonwencjonalne (ścieki i osady ściekowe).",
+        "Obornik – przefermentowany kał, mocz i ściółka; w s.m. ok. 0,5% N, 0,3% P, 0,7–1,0% K, 0,5% Ca, 0,2% Mg; rodzaje: świeży, przefermentowany (4–5 miesięcy), słomiasty, kompostowany.",
+        "Gnojowica – płynny nawóz z chowu bezściółkowego (kał, mocz, trochę wody); ok. 0,38% N, 0,2% P, 0,41% K, 0,32% Ca, 0,09% Mg; może zastępować obornik.",
+        "Gnojówka – przefermentowany mocz, nawóz azotowo-potasowy; ok. 0,3–0,6% N, 0,68–0,83% K, 0,01–0,04% P.",
+        "Kompost – z odpadów roślinnych i zwierzęcych; ok. 0,3–0,4% N, 0,4% K, 0,2% P; niezależnie od dawki nie szkodzi uprawom ani glebie.",
+        "Słoma – łodygi i liście dojrzałych roślin po omłocie; w świeżej masie ok. 0,5–0,7% N, 1,5% K, 0,2% P."
+      ]
+    },
+    {
+      "heading": "3. Charakterystyka nawozów mineralnych",
+      "points": [
+        "Nawozy mineralne (sztuczne) – produkt przemysłu chemicznego, jedno- lub wieloskładnikowe; wzbogacają glebę, regulują odczyn, poprawiają właściwości gleby.",
+        "Nawozy azotowe przyspieszają wzrost, ale mogą obniżać jakość technologiczną (mniej cukru w burakach, tłuszczu w rzepaku).",
+        "Formy azotu: amonowe (siarczan amonowy – przedsiewny, zakwaszający), saletrzane (saletra wapniowa – pogłównie), saletrzano-amonowe (saletra amonowa, saletrzak magnezowy), amidowe (mocznik, roztwór saletrzano-mocznikowy – doglebowo i dolistnie).",
+        "Fosforowe – wpływają na jakość plonu, efektywność nawożenia azotem; fosfor w postaci soli kwasu ortofosforowego; przedsiewnie.",
+        "Potasowe – potas w rozpuszczalnych solach, przedsiewnie, najczęściej z fosforowymi.",
+        "Wapniowe i magnezowe – wapnowanie odkwasza glebę; forma tlenkowa do gleb ciężkich, węglanowa do gleb lekkich.",
+        "Mikronawozy – mikroelementy (bor, mangan, miedź, cynk, molibden); wieloskładnikowe – co najmniej dwa składniki (polifoska, potafoska, lubofoska).",
+        "Najniższa bezpieczna dawka – gleby piaszczyste, najwyższa – gleby gliniaste.",
+        "Nadmiar azotu: skażenie roślin, gleby i wód (zatrucia, nowotwory), zakwaszenie gleby, hamowanie pożytecznych bakterii i wzrost toksycznych grzybów."
+      ]
+    },
+    {
+      "heading": "4. Planowanie nawożenia",
+      "points": [
+        "Plany nawożenia uwzględniają jakość gleby (próchnica, struktura, typ), czynniki środowiskowe (pochylenie, erozja, cieki wodne) i potrzeby roślin.",
+        "Obornik – wczesna wiosna (późna jesień tylko z natychmiastowym przyoraniem); do 45 ton na 1 ha; 1 t wnosi ok. 5 kg N, 3 kg P, 7–10 kg K, 5 kg Ca, 2 kg Mg.",
+        "Wykorzystanie składników obornika: gleba lekka 70/30/0/0%, średnia 60/30/10/0%, ciężka 40/30/20/10% (lata I–IV).",
+        "Gnojówka – do 30 m3/ha rocznie; gnojowica – przez cały rok, do 45 m3/ha; kompost – głównie pod okopowe, do 40 ton/ha.",
+        "Potasowe: jesienią (gleby ciężkie), 2/3 jesienią i 1/3 wiosną (lżejsze), tylko wiosną (bardzo lekkie); fosforowe – jesienią (poza glebami kwaśnymi), mączka fosforytowa na gleby kwaśne.",
+        "Wapnowanie od późnego lata do późnej jesieni; gleby lekkie 0,5–1 t/ha co 3–4 lata, cięższe do 2 t/ha co 5 lat; nie łączyć w tym samym roku z obornikiem.",
+        "Magnez 50–100 kg/ha (wyjątkowo do 200 kg/ha); najwięcej pobierają buraki i kukurydza (ponad 50 kg z 1 ha), najmniej zboża (do 30 kg z 1 ha).",
+        "Kodeks Dobrej Praktyki Rolniczej: zakaz nawozów naturalnych i organicznych od początku grudnia do końca lutego; zakaz płynnych nawozów naturalnych w okresie wegetacji.",
+        "Zbocza o nachyleniu ponad 10% bez okrywy – zakaz płynnych nawozów naturalnych i azotowych mineralnych; do 20 m od wód – zakaz nawozów naturalnych, mineralne rozsiewać ręcznie.",
+        "Woda gruntowa powyżej 1,2 m – bez płynnych nawozów naturalnych; płycej niż 1,5 m – zakaz ścieków; nawozy naturalne i organiczne wymieszać z glebą najpóźniej następnego dnia."
+      ]
+    },
+    {
+      "heading": "5. Potrzeby nawozowe roślin",
+      "points": [
+        "Metoda bilansowa – porównanie rozchodów (wynoszenie z plonem, straty w glebie) z przychodami (nawozy organiczne, opady, resztki pożniwne); wynik określa dawkę nawozu mineralnego.",
+        "Przykład: gleba średnia, rzepak ozimy (przedplon) 3,5 t/ha i pszenica ozima 7,0 t/ha; wskaźnik przyswajalnego potasu 1,2, fosforu 1,15.",
+        "Rzepak na 1 t nasion pobiera 47 kg N, 24 kg P, 50 kg K, 8 kg Mg, 8 kg S; na 3,5 t: 165 kg N, 84 kg P, 175 kg K, 28 kg Mg, min. 28 kg S.",
+        "Pszenica na 1 t pobiera 24 kg N, 11 kg P, 21 kg K, 4 kg Mg, 3,5 kg S; na 7 t: 168 kg N, 77 kg P, 147 kg K, 28 kg Mg, 24,5 kg S.",
+        "Potrzeby rzepaku: P = 84 × 1,15 = 96,6 kg/ha; K = 175 × 1,2 = 210 kg/ha.",
+        "Potrzeby pszenicy: P = 77 × 1,15 = 88,6 kg/ha; K = 147 × 1,2 = 176,4 kg/ha.",
+        "Słoma rzepaku zostawia 21,0 kg P (6 kg × 3,5 t) i 140,0 kg K (40 kg × 3,5 t).",
+        "Dawka pod pszenicę: fosfor 88,6 – 21,0 = 67,6 kg/ha; potas 176,4 – 140,0 = 36,4 kg/ha."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Ustawa regulująca definicje i rodzaje nawozów",
+      "back": "Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. 2007 Nr 147, poz. 1033 z późn. zm.)."
+    },
+    {
+      "front": "Nawozy – definicja ustawowa",
+      "back": "Produkty przeznaczone do dostarczania roślinom składników pokarmowych lub zwiększania żyzności stawów rybnych: nawozy mineralne, naturalne, organiczne i organiczno-mineralne (Art. 2 ust. 1.1)."
+    },
+    {
+      "front": "Nawozy mineralne – definicja ustawowa",
+      "back": "Nawozy nieorganiczne produkowane w drodze przemian chemicznych, fizycznych lub przerobu surowców mineralnych, w tym wapno nawozowe (także zawierające magnez) oraz niektóre nawozy pochodzenia organicznego."
+    },
+    {
+      "front": "Nawozy organiczne – definicja ustawowa",
+      "back": "Nawozy wyprodukowane z substancji organicznej lub mieszanin substancji organicznych, w tym komposty, także wyprodukowane z wykorzystaniem dżdżownic."
+    },
+    {
+      "front": "Nawozy naturalne – co obejmują?",
+      "back": "Obornik, gnojówkę, gnojowicę, odchody zwierząt gospodarskich bez dodatków innych substancji (z wyjątkiem odchodów pszczół i zwierząt futerkowych) oraz guano."
+    },
+    {
+      "front": "Cel stosowania nawozów",
+      "back": "Utrzymanie w glebie odpowiedniej ilości i proporcji składników (np. azot, potas, fosfor) oraz jakości gleby (właściwy odczyn, pojemność wodna)."
+    },
+    {
+      "front": "Cechy gleby brane pod uwagę przy doborze nawożenia",
+      "back": "Typ, rodzaj, gatunek gleby; właściwości fizyczne, chemiczne, fizykochemiczne; stopień kultury roli; klimat; warunki wodno-powietrzne; ukształtowanie terenu."
+    },
+    {
+      "front": "Objawy niedoboru azotu",
+      "back": "Zahamowanie wzrostu, sztywny strzelisty pokrój, żółtozielone zabarwienie, ograniczone kwitnienie i plonowanie; objawy najpierw na starszych liściach (pierwiastek ruchliwy)."
+    },
+    {
+      "front": "Objawy niedoboru fosforu",
+      "back": "Zahamowanie wzrostu, sztywny pokrój, liście matowe, ciemne, często z odcieniem fioletowym lub purpurowym; najpierw na starszych liściach."
+    },
+    {
+      "front": "Objawy niedoboru potasu",
+      "back": "Zwiędły pokrój, liście matowe niebieskozielone, skąpy system korzeniowy, skrócone międzywęźla."
+    },
+    {
+      "front": "Objawy niedoboru wapnia",
+      "back": "Młode liście skręcone i zgięte haczykowato, starsze o nieregularnych kształtach, korzenie śluzowate, sucha zgnilizna owoców."
+    },
+    {
+      "front": "Objawy niedoboru magnezu",
+      "back": "Chlorozy przechodzące w nekrozy, zwiędły pokrój, plamki pomiędzy żyłkami w liściach dolnych pięter."
+    },
+    {
+      "front": "Niedobór siarki – objawy i rośliny wrażliwe",
+      "back": "Objawy jak przy niedoborze azotu; szczególnie narażone rośliny krzyżowe (np. rzepak), które zużywają siarkę do budowy olejków eterycznych."
+    },
+    {
+      "front": "Niedobór żelaza",
+      "back": "Chlorozy, zwłaszcza młodych liści; przy długim niedoborze zahamowanie wzrostu pędu."
+    },
+    {
+      "front": "Niedobór manganu",
+      "back": "Chlorozy przechodzące w nekrozy na młodych liściach, zwiększona wrażliwość na niskie temperatury (szczególnie wrażliwy owies)."
+    },
+    {
+      "front": "„Choroba małych liści”",
+      "back": "Objaw niedoboru cynku: skrócenie międzywęźli, liście o mniejszej powierzchni, skupienia małych liści."
+    },
+    {
+      "front": "Niedobór boru",
+      "back": "Zamieranie wierzchołków pędu i korzeni, zamieranie kwiatów, brak owoców; szczególnie wrażliwe buraki i lucerna."
+    },
+    {
+      "front": "Niedobór miedzi i molibdenu",
+      "back": "Miedź: zaburzenia turgoru, nekrotyczne plamy, bielenie młodszych liści. Molibden: zahamowanie rozwoju blaszek, chlorozy młodych liści, deformacja pędu."
+    },
+    {
+      "front": "Nawozy organiczne – charakterystyka",
+      "back": "Zawierają składniki w postaci związków organicznych, poprawiają właściwości fizyczne, chemiczne i biologiczne gleby; są ważnym źródłem próchnicy."
+    },
+    {
+      "front": "Dlaczego nawozy organiczne działają długotrwale i co ile lat je stosować?",
+      "back": "Składniki są dostępne dopiero po mineralizacji w glebie; stosuje się je co 4–6 lat."
+    },
+    {
+      "front": "Zagrożenia od źle przechowywanych nawozów organicznych",
+      "back": "Powstają nitrozoaminy o działaniu toksycznym i rakotwórczym; duże dawki azotu zagrażają wodom gruntowym i powierzchniowym."
+    },
+    {
+      "front": "Maksymalna roczna dawka nawozów naturalnych wg ustawy",
+      "back": "Nie więcej niż 170 kg azotu (całkowitego) na 1 ha użytków rolnych."
+    },
+    {
+      "front": "Podział nawozów organicznych wg pochodzenia",
+      "back": "Zwierzęce (obornik, gnojówka, gnojowica, guano), roślinne (kompost, słoma, torf, nawozy zielone, resztki pożniwne), niekonwencjonalne (ścieki i osady ściekowe)."
+    },
+    {
+      "front": "Obornik – definicja",
+      "back": "Przefermentowany kał, mocz i ściółka; zawiera wszystkie składniki potrzebne roślinom i poprawia właściwości fizyczne gleby."
+    },
+    {
+      "front": "Skład obornika (sucha masa)",
+      "back": "Ok. 0,5% azotu, 0,3% fosforu, 0,7–1,0% potasu, 0,5% wapnia, 0,2% magnezu oraz mikroelementy (bor, miedź, cynk)."
+    },
+    {
+      "front": "Rodzaje obornika",
+      "back": "Świeży (bez fermentacji), przefermentowany (4–5 miesięcy), słomiasty (dużo ściółki), kompostowany (z dodatkiem nawozów mineralnych, torfu, fekaliów lub gliny)."
+    },
+    {
+      "front": "Gnojowica – definicja i skład",
+      "back": "Płynny nawóz z bezściółkowego chowu (kał, mocz z niewielką ilością wody); ok. 0,38% N, 0,2% P, 0,41% K, 0,32% Ca, 0,09% Mg; może zastępować obornik."
+    },
+    {
+      "front": "Gnojówka – definicja i skład",
+      "back": "Przefermentowany mocz zwierząt; nawóz azotowo-potasowy z nieznaczną ilością fosforu: ok. 0,3–0,6% N, 0,68–0,83% K, 0,01–0,04% P."
+    },
+    {
+      "front": "Kompost – definicja i skład",
+      "back": "Nawóz z odpadów roślinnych i zwierzęcych kompostowanych w pryzmach, kompostownikach lub bioreaktorach; ok. 0,3–0,4% N, 0,4% K, 0,2% P."
+    },
+    {
+      "front": "Słoma jako nawóz – skład",
+      "back": "Łodygi i liście roślin po omłocie; w świeżej masie ok. 0,5–0,7% azotu, 1,5% potasu i 0,2% fosforu."
+    },
+    {
+      "front": "Nawozy mineralne – charakterystyka",
+      "back": "Nazywane sztucznymi, wytwarzane przez przemysł chemiczny jako jedno- lub wieloskładnikowe; wzbogacają glebę, regulują odczyn, poprawiają jej właściwości."
+    },
+    {
+      "front": "Negatywny wpływ nawozów azotowych na jakość",
+      "back": "Mogą obniżać jakość technologiczną, np. zawartość cukru w burakach i tłuszczu w nasionach rzepaku."
+    },
+    {
+      "front": "Nawozy amonowe",
+      "back": "Np. siarczan amonowy – nawóz przedsiewny zakwaszający glebę."
+    },
+    {
+      "front": "Nawozy saletrzane i saletrzano-amonowe",
+      "back": "Saletrzane (saletra wapniowa) – pogłównie w okresie wzrostu; saletrzano-amonowe (saletra amonowa, saletrzak magnezowy) – przedsiewnie i pogłównie."
+    },
+    {
+      "front": "Nawozy amidowe",
+      "back": "Mocznik (przedsiewnie i pogłównie) oraz roztwór saletrzano-mocznikowy (doglebowo i dolistnie)."
+    },
+    {
+      "front": "Nawozy fosforowe – działanie i forma",
+      "back": "Wpływają na jakość plonu (nieznacznie na ilość) i efektywność nawożenia azotem; fosfor w postaci soli kwasu ortofosforowego; przedsiewnie."
+    },
+    {
+      "front": "Nawozy potasowe",
+      "back": "Wpływają na rozwój, ilość i jakość plonów; potas w rozpuszczalnych solach; przedsiewnie, najczęściej łącznie z fosforowymi."
+    },
+    {
+      "front": "Forma tlenkowa vs węglanowa nawozów wapniowych",
+      "back": "Tlenkowa – do gleb ciężkich, węglanowa – do gleb lekkich."
+    },
+    {
+      "front": "Mikronawozy",
+      "back": "Zawierają mikroelementy (bor, mangan, miedź, cynk, molibden); polepszają strukturę gleb, zwłaszcza silnie eksploatowanych."
+    },
+    {
+      "front": "Nawozy wieloskładnikowe – przykłady",
+      "back": "Polifoska, potafoska, lubofoska – zawierają co najmniej dwa składniki pokarmowe."
+    },
+    {
+      "front": "Od czego zależy bezpieczna dawka nawozów mineralnych?",
+      "back": "Od rodzaju gleby: najniższa dla gleb piaszczystych, najwyższa dla gleb gliniastych."
+    },
+    {
+      "front": "Szkody nadmiernego nawożenia azotem",
+      "back": "Skażenie roślin, gleby i wód (zatrucia, choroby nowotworowe), zakwaszenie gleby, zahamowanie rozwoju pożytecznych bakterii i wzrost toksycznych grzybów."
+    },
+    {
+      "front": "Czynniki uwzględniane w planie nawożenia",
+      "back": "Jakość gleby (próchnica, struktura, typ), czynniki środowiskowe (pochylenie terenu, erozja, sąsiedztwo cieków) i potrzeby uprawianych roślin."
+    },
+    {
+      "front": "Termin i maksymalna dawka obornika (rozdz. Planowanie nawożenia)",
+      "back": "Wczesna wiosna; późna jesień dopuszczalna przy natychmiastowym przyoraniu; nie więcej niż 45 ton na 1 ha użytków rolnych."
+    },
+    {
+      "front": "Ile składników wnosi 1 tona obornika?",
+      "back": "Ok. 5 kg azotu, 3 kg fosforu, 7–10 kg potasu, 5 kg wapnia, 2 kg magnezu i mikroelementy."
+    },
+    {
+      "front": "Wykorzystanie składników obornika w I roku",
+      "back": "Gleba lekka 70%, średnia 60%, ciężka 40%."
+    },
+    {
+      "front": "Na jakiej glebie składniki obornika działają do IV roku?",
+      "back": "Na glebie ciężkiej: 40% (I rok), 30% (II), 20% (III), 10% (IV)."
+    },
+    {
+      "front": "Maksymalna roczna dawka gnojówki",
+      "back": "30 m3 na 1 ha użytków rolnych; zalecana bez rozcieńczania wczesną wiosną przedsiewnie."
+    },
+    {
+      "front": "Gnojowica – terminy i dawka",
+      "back": "Przez cały rok: zimą pod rośliny jare, ziemniaki, buraki, pastewne; wiosną pod kapustę pastewną i kukurydzę; latem pod rzepak i zboża ozime; do 45 m3/ha rocznie."
+    },
+    {
+      "front": "Maksymalna roczna dawka kompostu",
+      "back": "40 ton na 1 ha użytków rolnych; stosowany jak obornik, głównie pod okopowe."
+    },
+    {
+      "front": "Nawozy azotowe dla roślin wrażliwych na kwaśny odczyn",
+      "back": "Pod jęczmień, buraki stosuje się nawozy obojętne lub zasadowe, np. mocznik."
+    },
+    {
+      "front": "Mączka fosforytowa – kiedy?",
+      "back": "Pod rośliny o długim okresie wegetacji (ziemniaki), dobrze wykorzystujące fosfor (łubiny) oraz na gleby kwaśne."
+    },
+    {
+      "front": "Superfosfat potrójny vs pojedynczy granulowany",
+      "back": "Potrójny – pod rośliny słabo wykorzystujące fosfor (np. jęczmień); pojedynczy – na gleby słabo kwaśne."
+    },
+    {
+      "front": "Terminy nawożenia potasem wg gleby",
+      "back": "Gleby ciężkie – jesienią; lżejsze – 2/3 jesienią i 1/3 wiosną; bardzo lekkie – tylko wiosną."
+    },
+    {
+      "front": "Wapnowanie – termin i zasady",
+      "back": "Od późnego lata do późnej jesieni; wiosną tylko interwencyjnie wapno granulowane; nie stosować w tym samym roku z nawozami organicznymi (zwłaszcza obornikiem)."
+    },
+    {
+      "front": "Dawki wapna na glebach lekkich i cięższych",
+      "back": "Lekkie: 0,5–1 t/ha co 3–4 lata; cięższe: do 2 t/ha co 5 lat."
+    },
+    {
+      "front": "Dawki nawozów magnezowych",
+      "back": "50–100 kg/ha, wyjątkowo jednorazowo do 200 kg/ha."
+    },
+    {
+      "front": "Pobieranie magnezu przez rośliny",
+      "back": "Najwięcej buraki i kukurydza (ponad 50 kg z 1 ha), mniej rzepak, ziemniaki, strączkowe (poniżej 50 kg), najmniej zboża (do 30 kg z 1 ha)."
+    },
+    {
+      "front": "Okres zakazu stosowania nawozów naturalnych i organicznych (KDPR)",
+      "back": "Od początku grudnia do końca lutego."
+    },
+    {
+      "front": "Nawożenie zboczy o nachyleniu powyżej 10%",
+      "back": "Na polach bez okrywy roślinnej zakazane są płynne nawozy naturalne i azotowe nawozy mineralne (ryzyko spływu, głównie fosforu)."
+    },
+    {
+      "front": "Nawożenie w pobliżu wód powierzchniowych",
+      "back": "Do 20 m od wód, stref ochrony wód i pasa nadbrzeżnego – zakaz nawozów naturalnych; mineralne rozsiewa się ręcznie."
+    },
+    {
+      "front": "Gleby zalane, zamarznięte, pod śniegiem",
+      "back": "Zakaz wszystkich nawozów; wyjątek: azotowe na oziminy na glebach powierzchniowo zamarzniętych w odwilży, gdy uzasadniają to względy organizacyjne lub agrotechniczne."
+    },
+    {
+      "front": "Ograniczenia związane z poziomem wody gruntowej",
+      "back": "Woda powyżej 1,2 m – bez płynnych nawozów naturalnych; płycej niż 1,5 m – zakaz nawożenia ściekami."
+    },
+    {
+      "front": "Termin przykrycia nawozów naturalnych i organicznych",
+      "back": "Muszą być przykryte lub wymieszane z glebą nie później niż następnego dnia po zastosowaniu."
+    },
+    {
+      "front": "Azot działający",
+      "back": "Część azotu nawozów naturalnych wykazująca działanie nawozowe jak azot nawozów mineralnych; według niej ustala się dawki nawozów naturalnych."
+    },
+    {
+      "front": "Metoda bilansowa",
+      "back": "Porównanie rozchodów składników (wynoszenie z plonem, straty w glebie) z przychodami (nawozy organiczne, opady, resztki pożniwne); wynik to zalecana dawka nawozu mineralnego."
+    },
+    {
+      "front": "Pobranie składników przez rzepak na 1 t nasion",
+      "back": "47 kg azotu, 24 kg fosforu, 50 kg potasu, 8 kg magnezu, 8 kg siarki."
+    },
+    {
+      "front": "Pobranie składników przez pszenicę na 1 t ziarna",
+      "back": "24 kg azotu, 11 kg fosforu, 21 kg potasu, 4 kg magnezu, 3,5 kg siarki."
+    },
+    {
+      "front": "Wyliczenie dawki fosforu pod pszenicę po rzepaku (przykład)",
+      "back": "77 kg × 1,15 = 88,6 kg/ha; minus 21,0 kg fosforu ze słomy rzepaku = 67,6 kg/ha."
+    },
+    {
+      "front": "Wyliczenie dawki potasu pod pszenicę po rzepaku (przykład)",
+      "back": "147 kg × 1,2 = 176,4 kg/ha; minus 140,0 kg potasu ze słomy rzepaku = 36,4 kg/ha."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Która ustawa definiuje rodzaje nawozów?",
+      "options": [
+        "Ustawa o ochronie roślin",
+        "Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu",
+        "Prawo wodne",
+        "Ustawa o nasiennictwie"
+      ],
+      "answer": 1,
+      "explain": "Definicje podaje Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. 2007 Nr 147, poz. 1033)."
+    },
+    {
+      "q": "Do nawozów naturalnych NIE zalicza się:",
+      "options": [
+        "guana",
+        "gnojowicy",
+        "kompostu",
+        "obornika"
+      ],
+      "answer": 2,
+      "explain": "Kompost to nawóz organiczny; naturalne to obornik, gnojówka, gnojowica, odchody zwierząt gospodarskich i guano."
+    },
+    {
+      "q": "Odchody których zwierząt wyłączono z definicji nawozów naturalnych?",
+      "options": [
+        "Pszczół i zwierząt futerkowych",
+        "Drobiu i trzody",
+        "Bydła i owiec",
+        "Koni i kóz"
+      ],
+      "answer": 0,
+      "explain": "Ustawa wyłącza odchody pszczół i zwierząt futerkowych."
+    },
+    {
+      "q": "Objawy niedoboru azotu i fosforu pojawiają się najpierw na:",
+      "options": [
+        "młodych liściach",
+        "korzeniach",
+        "kwiatach",
+        "starszych liściach"
+      ],
+      "answer": 3,
+      "explain": "Azot i fosfor to pierwiastki ruchliwe – objawy pojawiają się najpierw na starszych liściach."
+    },
+    {
+      "q": "Liście matowe, ciemne z odcieniem fioletowym lub purpurowym wskazują na niedobór:",
+      "options": [
+        "potasu",
+        "fosforu",
+        "wapnia",
+        "żelaza"
+      ],
+      "answer": 1,
+      "explain": "Taki objaw opisano przy niedoborze fosforu."
+    },
+    {
+      "q": "„Choroba małych liści” wynika z niedoboru:",
+      "options": [
+        "cynku",
+        "boru",
+        "miedzi",
+        "manganu"
+      ],
+      "answer": 0,
+      "explain": "Niedobór cynku powoduje skupienia małych liści, stąd nazwa „choroby małych liści”."
+    },
+    {
+      "q": "Rzepak jest szczególnie narażony na niedobór siarki, ponieważ:",
+      "options": [
+        "ma płytki system korzeniowy",
+        "rośnie na glebach kwaśnych",
+        "wykorzystuje ją do budowy olejków eterycznych",
+        "nie pobiera azotu"
+      ],
+      "answer": 2,
+      "explain": "Rośliny krzyżowe, np. rzepak, wykorzystują siarkę do budowy olejków eterycznych."
+    },
+    {
+      "q": "Na niedobór boru szczególnie wrażliwe są:",
+      "options": [
+        "owies i żyto",
+        "ziemniaki i len",
+        "pszenica i kukurydza",
+        "buraki i lucerna"
+      ],
+      "answer": 3,
+      "explain": "Materiał wskazuje buraki oraz lucernę jako szczególnie wrażliwe na niedobór boru."
+    },
+    {
+      "q": "Co ile lat zaleca się stosowanie nawozów organicznych?",
+      "options": [
+        "Co roku",
+        "Co 2–3 lata",
+        "Co 4–6 lat",
+        "Co 8–10 lat"
+      ],
+      "answer": 2,
+      "explain": "Ze względu na długotrwałe działanie nawozy organiczne stosuje się co 4–6 lat."
+    },
+    {
+      "q": "Maksymalna roczna dawka nawozów naturalnych wynosi:",
+      "options": [
+        "170 kg azotu na 1 ha UR",
+        "120 kg azotu na 1 ha UR",
+        "200 kg azotu na 1 ha UR",
+        "250 kg azotu na 1 ha UR"
+      ],
+      "answer": 0,
+      "explain": "Roczna dawka nie może przekraczać 170 kg azotu na 1 ha użytków rolnych."
+    },
+    {
+      "q": "Ścieki i osady ściekowe to nawozy:",
+      "options": [
+        "pochodzenia zwierzęcego",
+        "pochodzenia roślinnego",
+        "mineralne",
+        "niekonwencjonalne"
+      ],
+      "answer": 3,
+      "explain": "Ścieki i osady ściekowe zalicza się do nawozów niekonwencjonalnych."
+    },
+    {
+      "q": "Ile azotu zawiera przeciętnie obornik w suchej masie?",
+      "options": [
+        "Ok. 0,2%",
+        "Ok. 0,5%",
+        "Ok. 1,5%",
+        "Ok. 3%"
+      ],
+      "answer": 1,
+      "explain": "Obornik zawiera ok. 0,5% azotu, 0,3% fosforu, 0,7–1,0% potasu."
+    },
+    {
+      "q": "Obornik przefermentowany poddaje się fermentacji przez:",
+      "options": [
+        "1–2 miesiące",
+        "4–5 miesięcy",
+        "8–10 miesięcy",
+        "2 lata"
+      ],
+      "answer": 1,
+      "explain": "Obornik przefermentowany jest poddany fermentacji przez 4–5 miesięcy."
+    },
+    {
+      "q": "Gnojówka to:",
+      "options": [
+        "przefermentowany mocz zwierząt gospodarskich",
+        "kał i mocz z chowu bezściółkowego",
+        "kał, mocz i ściółka",
+        "rozłożone resztki roślinne"
+      ],
+      "answer": 0,
+      "explain": "Gnojówka to przefermentowany mocz zwierząt – nawóz azotowo-potasowy."
+    },
+    {
+      "q": "Który nawóz organiczny niezależnie od dawki nie szkodzi uprawom ani glebie?",
+      "options": [
+        "Gnojowica",
+        "Gnojówka",
+        "Obornik świeży",
+        "Kompost"
+      ],
+      "answer": 3,
+      "explain": "Materiał podaje, że kompost niezależnie od dawek nie wyrządza szkód ani uprawom, ani glebie."
+    },
+    {
+      "q": "Siarczan amonowy to nawóz:",
+      "options": [
+        "pogłówny alkalizujący",
+        "przedsiewny zakwaszający glebę",
+        "dolistny",
+        "fosforowy"
+      ],
+      "answer": 1,
+      "explain": "Nawozy amonowe (siarczan amonowy) to nawóz przedsiewny zakwaszający glebę."
+    },
+    {
+      "q": "Roztwór saletrzano-mocznikowy należy do nawozów azotowych:",
+      "options": [
+        "amonowych",
+        "saletrzanych",
+        "amidowych",
+        "saletrzano-amonowych"
+      ],
+      "answer": 2,
+      "explain": "Do amidowych należą mocznik i roztwór saletrzano-mocznikowy (doglebowo i dolistnie)."
+    },
+    {
+      "q": "Wapń w formie tlenkowej stosuje się na gleby:",
+      "options": [
+        "ciężkie",
+        "lekkie",
+        "piaszczyste",
+        "torfowe"
+      ],
+      "answer": 0,
+      "explain": "Forma tlenkowa – do gleb ciężkich, węglanowa – do gleb lekkich."
+    },
+    {
+      "q": "Polifoska, potafoska i lubofoska to nawozy:",
+      "options": [
+        "mikronawozy",
+        "wapniowe",
+        "azotowe",
+        "wieloskładnikowe"
+      ],
+      "answer": 3,
+      "explain": "To nawozy wieloskładnikowe zawierające co najmniej dwa składniki pokarmowe."
+    },
+    {
+      "q": "Najniższa bezpieczna dawka nawozów mineralnych przeznaczona jest dla gleb:",
+      "options": [
+        "gliniastych",
+        "piaszczystych",
+        "ilastych",
+        "czarnoziemów"
+      ],
+      "answer": 1,
+      "explain": "Najniższa dawka – dla gleb piaszczystych, najwyższa – dla gliniastych."
+    },
+    {
+      "q": "Ile azotu wprowadza do gleby 1 tona obornika?",
+      "options": [
+        "Ok. 1 kg",
+        "Ok. 3 kg",
+        "Ok. 5 kg",
+        "Ok. 10 kg"
+      ],
+      "answer": 2,
+      "explain": "Jedna tona obornika wprowadza ok. 5 kg azotu, 3 kg fosforu, 7–10 kg potasu."
+    },
+    {
+      "q": "Jaki procent składników obornika wykorzystują rośliny w I roku na glebie lekkiej?",
+      "options": [
+        "40%",
+        "60%",
+        "30%",
+        "70%"
+      ],
+      "answer": 3,
+      "explain": "Tabela 4.1: gleba lekka – 70% w I roku, średnia 60%, ciężka 40%."
+    },
+    {
+      "q": "Maksymalna roczna dawka gnojówki to:",
+      "options": [
+        "30 m3/ha",
+        "45 m3/ha",
+        "40 t/ha",
+        "60 m3/ha"
+      ],
+      "answer": 0,
+      "explain": "Roczna dawka gnojówki nie powinna przekraczać 30 m3 na 1 ha użytków rolnych."
+    },
+    {
+      "q": "Pod jakie rośliny stosuje się gnojowicę latem?",
+      "options": [
+        "Pod rośliny jare i ziemniaki",
+        "Pod kapustę pastewną",
+        "Pod rzepak i zboża ozime",
+        "Pod kukurydzę na kiszonkę"
+      ],
+      "answer": 2,
+      "explain": "Latem gnojowicę stosuje się pod rzepak i zboża ozime."
+    },
+    {
+      "q": "Na glebach bardzo lekkich nawozy potasowe stosuje się:",
+      "options": [
+        "tylko jesienią",
+        "tylko wiosną",
+        "2/3 jesienią i 1/3 wiosną",
+        "zimą na śnieg"
+      ],
+      "answer": 1,
+      "explain": "Na glebach bardzo lekkich potas stosuje się tylko wiosną."
+    },
+    {
+      "q": "Mączkę fosforytową zaleca się stosować:",
+      "options": [
+        "pod jęczmień",
+        "na gleby zasadowe",
+        "dolistnie",
+        "na gleby kwaśne"
+      ],
+      "answer": 3,
+      "explain": "Mączka fosforytowa jest zalecana na gleby kwaśne, pod ziemniaki i łubiny."
+    },
+    {
+      "q": "Na glebach lekkich zaleca się wapnowanie w dawce:",
+      "options": [
+        "0,5–1 t/ha co 3–4 lata",
+        "do 2 t/ha co 5 lat",
+        "3–4 t/ha co roku",
+        "0,1 t/ha co 2 lata"
+      ],
+      "answer": 0,
+      "explain": "Na glebach lekkich: 0,5–1 t/ha co 3–4 lata; na cięższych do 2 t/ha co 5 lat."
+    },
+    {
+      "q": "Które rośliny pobierają z gleby najmniej magnezu?",
+      "options": [
+        "Buraki",
+        "Kukurydza",
+        "Zboża",
+        "Rzepak"
+      ],
+      "answer": 2,
+      "explain": "Najmniej magnezu pobierają zboża (do 30 kg z 1 ha)."
+    },
+    {
+      "q": "W jakim okresie nie wolno stosować nawozów naturalnych i organicznych wg KDPR?",
+      "options": [
+        "Od początku listopada do końca stycznia",
+        "Od początku grudnia do końca lutego",
+        "Od połowy października do połowy marca",
+        "Tylko w styczniu"
+      ],
+      "answer": 1,
+      "explain": "Od początku grudnia do końca lutego nie wolno stosować nawozów naturalnych oraz organicznych."
+    },
+    {
+      "q": "Zakaz stosowania płynnych nawozów naturalnych i azotowych mineralnych dotyczy pól bez okrywy o nachyleniu większym niż:",
+      "options": [
+        "5%",
+        "15%",
+        "20%",
+        "10%"
+      ],
+      "answer": 3,
+      "explain": "Zakaz dotyczy pól pozbawionych okrywy roślinnej o nachyleniu większym niż 10%."
+    },
+    {
+      "q": "W jakiej odległości od wód powierzchniowych obowiązuje zakaz stosowania nawozów naturalnych?",
+      "options": [
+        "Do 20 m",
+        "Do 5 m",
+        "Do 50 m",
+        "Do 100 m"
+      ],
+      "answer": 0,
+      "explain": "W odległości do 20 m od wód obowiązuje zakaz nawozów naturalnych; mineralne rozsiewa się ręcznie."
+    },
+    {
+      "q": "Grunty, na których woda gruntowa występuje płycej niż 1,5 m, są wyłączone z nawożenia:",
+      "options": [
+        "wapnem",
+        "nawozami potasowymi",
+        "ściekami",
+        "kompostem"
+      ],
+      "answer": 2,
+      "explain": "Grunty z wodą gruntową płycej niż 1,5 m wyłączone są z nawożenia ściekami."
+    },
+    {
+      "q": "Nawozy naturalne i organiczne należy przykryć lub wymieszać z glebą:",
+      "options": [
+        "w ciągu tygodnia",
+        "przed zimą",
+        "w ciągu miesiąca",
+        "nie później niż następnego dnia"
+      ],
+      "answer": 3,
+      "explain": "Muszą być przykryte lub wymieszane z glebą nie później niż następnego dnia po zastosowaniu."
+    },
+    {
+      "q": "Metoda bilansowa określania potrzeb nawozowych polega na:",
+      "options": [
+        "porównaniu rozchodów składników z ich przychodami",
+        "analizie barwy liści",
+        "pomiarze odczynu gleby",
+        "ustaleniu dawki wg wysokości plonu przedplonu"
+      ],
+      "answer": 0,
+      "explain": "Metoda bilansowa porównuje rozchody (wynoszenie z plonem, straty) z przychodami (nawozy organiczne, opady, resztki)."
+    },
+    {
+      "q": "Ile azotu pobiera rzepak na wytworzenie 1 t nasion?",
+      "options": [
+        "24 kg",
+        "47 kg",
+        "50 kg",
+        "165 kg"
+      ],
+      "answer": 1,
+      "explain": "Rzepak z plonem 1 t nasion pobiera 47 kg azotu (165 kg na 3,5 t)."
+    },
+    {
+      "q": "W przykładzie z materiału dawka fosforu pod pszenicę ozimą po rzepaku wynosi:",
+      "options": [
+        "88,6 kg/ha",
+        "96,6 kg/ha",
+        "67,6 kg/ha",
+        "36,4 kg/ha"
+      ],
+      "answer": 2,
+      "explain": "88,6 kg/ha potrzeb minus 21,0 kg fosforu z przyoranej słomy rzepaku = 67,6 kg/ha."
+    }
+  ]
+}

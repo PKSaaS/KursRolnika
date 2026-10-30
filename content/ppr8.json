@@ -1,0 +1,696 @@
+{
+ "id": "ppr8",
+ "course": "Podstawy produkcji roślinnej",
+ "title": "Przechowywanie i sprzedaż płodów rolnych",
+ "number": "VIII",
+ "notes": [
+  {
+   "heading": "Wprowadzenie",
+   "points": [
+    "Od pradawnych czasów o losach ludzkości decydował dostęp do żywności i wody przez cały rok.",
+    "Metody magazynowania rozwijano od prymitywnych dołów ziemnych, przez nowoczesne przechowalnie, po chłodnie.",
+    "Stare metody przechowywania w wielu rejonach nadal są jedynym sposobem utrzymania świeżości płodów przez cały rok.",
+    "Przechowywanie i sprzedaż płodów rolnych to codzienne działania w otoczeniu gospodarstwa."
+   ]
+  },
+  {
+   "heading": "1. Wymagania dotyczące przechowywania płodów rolnych",
+   "points": [
+    "Jakość przechowywanych płodów zależy od: doboru odmiany i stanowiska, przebiegu wegetacji, dojrzałości i terminu zbioru, pogody podczas zbioru, zdrowotności, sposobu przechowywania, wilgotności produktów i warunków w przechowalni (temperatura, wilgotność względna, skład powietrza).",
+    "Wybór odmiany poprzedza zapoznanie się z jej kartą technologiczną; nie wszystkie rośliny nadają się do długotrwałego przechowywania.",
+    "Suche i chłodne warunki podczas zbioru pozwalają uzyskać plon zadowalającej jakości; zboże zebrane w deszczu bez wysuszenia ulegnie zepsuciu.",
+    "Zboże z kombajnu nie jest jednorodne – należy je oczyścić i sortować; czystość wpływa na przebieg suszenia i wilgotność ziarna.",
+    "Ziarno suszy się najczęściej konwekcyjnie (podgrzane powietrze przepływa wokół ziarniaków); samonagrzewanie pogarsza jakość i powoduje ubytki suchej masy.",
+    "Przechowalnia chroni przed warunkami atmosferycznymi, szkodnikami, gryzoniami i ptakami oraz zanieczyszczeniem odpadami; magazyny powinny umożliwiać sortowanie, mycie, konfekcjonowanie i pakowanie.",
+    "Rodzaje magazynów: prymitywne (kopce, ziemianki, piwnice), tradycyjne podłogowe (płaskie: jednokondygnacyjne, wielopoziomowe), wieżowe – silosy (płaskodenne, lejowe, spedycyjne).",
+    "Magazyn podłogowy: okna min. 1,5–2 m od podłogi; ziarno o wilgotności poniżej 15% można składować w warstwie wyższej niż 1,5 m; ziarno o wilgotności ponad 16–17% trzeba przerzucać i suszyć; ziarno poniżej 13–14% można przechowywać kilka lat.",
+    "Silosy przechowują produkty sypkie (zboża, rzepak, kukurydzę, strączkowe); schładzają ziarno do 5–10°C; zasady: całkowite opróżnianie, czyszczenie układu, dezynfekcja, okresowe napowietrzanie.",
+    "Załadunek: mechaniczny (przenośniki ślimakowe – żmijki, taśmociągi, czerpaki kubełkowe), pneumatyczny, mieszany; rozładunek: wybieraki mechaniczne (płaskodenne), pneumatycznie, samoczynnie (lejowe), mieszany."
+   ]
+  },
+  {
+   "heading": "2. Charakterystyka warunków przechowywania płodów rolnych",
+   "points": [
+    "Zadaniem przechowalnictwa jest jak najdłuższe utrzymanie płodów bez strat jakościowych i ilościowych – strat nie można uniknąć, ale można je ograniczyć.",
+    "Straty zależą od długości okresu przechowywania, temperatury, wilgotności produktów i otoczenia oraz składu powietrza.",
+    "Ziemniaki przechowuje się w kopcach, piwnicach i pomieszczeniach aktywnie wentylowanych (przechowalnie, chłodnie).",
+    "Okres 1 – dojrzewanie bulw i zabliźnianie uszkodzeń: 1–2 tygodnie, 12–18°C, wilgotność 90–95%.",
+    "Okres 2 – stopniowe obniżanie temperatury: 2–3 tygodnie, wilgotność 90–95%.",
+    "Okres 3 – najdłuższy (do późnej wiosny): ziemniaki jadalne 4–6°C, wilgotność 85–90%; obniżenie temperatury o 1–2°C powoduje, że ziemniaki stają się słodkie.",
+    "Okres 4 – rekondycjonowanie (przed konsumpcją lub przetwórstwem na frytki i chipsy): ok. 2 tygodnie, 12–16°C, cukry proste zmieniają się w skrobię.",
+    "Tab. 8.1 – długotrwałe przechowywanie: sadzeniaki, jadalne, do przerobu 2–6°C; pasza 4–6°C; przemysł skrobiowy 6–8°C; gorzelniczy do 4°C; wilgotność 90–95%.",
+    "Zboża: bezpieczne przechowywanie przy wilgotności do 14–15% i temperaturze 8–12°C; kukurydza – wilgotność do 15%, temperatura poniżej 10°C; ziarno schłodzone najwyżej o 5°C cieplejsze od nocnej temperatury powietrza.",
+    "Przewietrzanie przy wilgotności powietrza do 60% i temperaturze do 10°C; wzrost temperatury w zawilgoconej pryzmie powyżej 25°C grozi mykotoksynami (normy: Rozporządzenie Komisji (WE) nr 1881/2006 oraz (UE) nr 165/2010 – aflatoksyny)."
+   ]
+  },
+  {
+   "heading": "3. Zasady i sposoby przygotowywania płodów rolnych do sprzedaży",
+   "points": [
+    "Przygotowanie obejmuje: czyszczenie, mycie, sortowanie, pakowanie (opakowania jednostkowe lub zbiorcze), składowanie opakowań, załadunek i transport (na paletach lub luzem).",
+    "Opakowania mogą być jednorazowe lub wielokrotnego użytku.",
+    "Opakowania wielokrotnego użytku wymagają nienagannej czystości i miejsca do składowania do następnego sezonu.",
+    "Przy dystrybucji żywności mogą pracować wyłącznie osoby, których stan zdrowia nie zagraża bezpieczeństwu konsumentów.",
+    "Do sprzedaży przeznacza się produkty wysokiej jakości, zdrowe, wytwarzane zgodnie z technologią i niezafałszowane.",
+    "Urządzenia mające kontakt z żywnością muszą wykluczać skażenie, zwłaszcza substancjami ropopochodnymi i ciałami stałymi (kamienie, resztki metalu).",
+    "Pomieszczenia przygotowania do sprzedaży zabezpiecza się przed dostępem gryzoni i ptaków."
+   ]
+  },
+  {
+   "heading": "4. Sprzedaż płodów rolnych",
+   "points": [
+    "Głównymi odbiorcami są zakłady przemysłu zbożowego, tłuszczowego, cukrownie, gorzelnie oraz pośrednicy między gospodarstwem a zakładem.",
+    "Umowa kontraktacji: producent wytwarza i dostarcza oznaczoną ilość produktów określonego rodzaju, a kontraktujący odbiera je w umówionym terminie i płaci ustaloną cenę.",
+    "Instytucje handlu hurtowego na rynku rolnym: targowiska, giełdy towarowe, rynki hurtowe, aukcje.",
+    "Działalność marginalna, lokalna i ograniczona (MOL) dotyczy tylko produktów pochodzenia zwierzęcego.",
+    "Sprzedaż bezpośrednią produktów roślinnych reguluje Rozporządzenie Ministra Zdrowia z dnia 6 czerwca 2007 r. w sprawie dostaw bezpośrednich środków spożywczych (Dz. U. 2007 r. Nr 112, poz. 774).",
+    "Sprzedaż bezpośrednia może obejmować zboża, owoce, warzywa, grzyby uprawne, zioła i runo leśne z osobistych zbiorów oraz produkty wyłącznie z własnych upraw; obrót nie może przekraczać rocznych plonów gospodarstwa.",
+    "Sprzedaż bezpośrednia to handel małymi ilościami nieprzetworzonych produktów – w gospodarstwie (także samozbiór), na targowiskach, kiermaszach, w sklepach, przy drodze lub z dostawą do domu.",
+    "Przy sprzedaży poza gospodarstwem na opakowaniach zbiorczych lub transportowych umieszcza się imię i nazwisko (lub nazwę) i adres producenta – czytelnie i widocznie.",
+    "Dostawy bezpośrednie można prowadzić na terenie województwa, w którym prowadzona jest produkcja, lub województw przyległych."
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Czynniki wpływające na jakość przechowywanych płodów rolnych",
+   "back": "Dobór odmiany i stanowiska, przebieg wegetacji, dojrzałość i termin zbioru, pogoda podczas zbioru, zdrowotność, sposób przechowywania, wilgotność produktów oraz warunki w przechowalni."
+  },
+  {
+   "front": "Karta technologiczna odmiany",
+   "back": "Dokument udostępniany przez producenta odmiany; należy się z nim zapoznać przed wyborem odmiany do uprawy, bo nie wszystkie rośliny nadają się do długotrwałego przechowywania."
+  },
+  {
+   "front": "Wpływ stanowiska w płodozmianie na przechowywanie",
+   "back": "Zły dobór stanowiska może powodować wystąpienie dużej ilości szkodników lub chorób, co obniża jakość plonu."
+  },
+  {
+   "front": "Jaka pogoda podczas zbioru sprzyja jakości plonu?",
+   "back": "Suche i chłodne warunki."
+  },
+  {
+   "front": "Dlaczego czyści się zboże po zbiorze kombajnem?",
+   "back": "Ziarno nie jest jednorodne i zawiera zanieczyszczenia (piasek, grudki ziemi, nasiona chwastów); czystość jest warunkiem prawidłowego przechowywania i wpływa na suszenie i wilgotność."
+  },
+  {
+   "front": "Suszenie konwekcyjne",
+   "back": "Podgrzane powietrze przepływa wokół ziarniaków, doprowadzając ciepło i odprowadzając wodę; zmniejsza masę, ale zwiększa trwałość ziarna."
+  },
+  {
+   "front": "Skutki samonagrzewania ziarna",
+   "back": "Pogorszenie jakości i ubytki suchej masy."
+  },
+  {
+   "front": "Przed czym chroni miejsce przechowywania?",
+   "back": "Przed działaniem warunków atmosferycznych, szkodnikami, gryzoniami i ptakami oraz zanieczyszczeniem odpadami."
+  },
+  {
+   "front": "Procesy technologiczne w magazynach",
+   "back": "Sortowanie, mycie, konfekcjonowanie i pakowanie."
+  },
+  {
+   "front": "Magazyny prymitywne",
+   "back": "Kopce (napowierzchniowe, zagłębione), ziemianki, piwnice."
+  },
+  {
+   "front": "Magazyny tradycyjne podłogowe (płaskie)",
+   "back": "Jednokondygnacyjne lub wielopoziomowe; ze względu na składowanie – płaskie (powierzchniowe) lub wysokiego składowania."
+  },
+  {
+   "front": "Magazyny wieżowe – rodzaje silosów",
+   "back": "Płaskodenne, lejowe i spedycyjne."
+  },
+  {
+   "front": "Przygotowanie podłogi magazynu przed składowaniem",
+   "back": "Dokładne wyczyszczenie, usunięcie resztek starego zboża ze szczelin, naprawa uszkodzeń; ponadto wybielenie wnętrza i dezynsekcja."
+  },
+  {
+   "front": "Wymagania budynku magazynu podłogowego",
+   "back": "Ściany izolowane (nie przemakają, nie przewodzą ciepła), podłoga z izolacją przeciwwilgociową, okna min. 1,5–2 m nad podłogą zabezpieczone przed gryzoniami i ptakami."
+  },
+  {
+   "front": "Zboże w warstwie wyższej niż 1,5 m – warunek",
+   "back": "Wilgotność poniżej 15%, ziarno schłodzone i wyczyszczone."
+  },
+  {
+   "front": "Ziarno o wilgotności powyżej 16–17%",
+   "back": "Musi być przerzucane i suszone."
+  },
+  {
+   "front": "Ziarno przechowywane kilka lat",
+   "back": "Suche ziarno, najlepiej o wilgotności poniżej 13–14%."
+  },
+  {
+   "front": "Co przechowuje się w silosach?",
+   "back": "Produkty sypkie: zboża, rzepak, kukurydzę i rośliny strączkowe."
+  },
+  {
+   "front": "Do jakiej temperatury silos schładza ziarno?",
+   "back": "Do 5–10°C."
+  },
+  {
+   "front": "Silosy płaskodenne",
+   "back": "Mają perforowane podłogi, wentylatory przewietrzające i wywietrzniki; służą do długoterminowego przechowywania ziarna."
+  },
+  {
+   "front": "Silosy lejowe",
+   "back": "Do długotrwałego przechowywania, ale też jako silosy operacyjne do krótkoterminowego przechowywania w trakcie suszenia lub czyszczenia; rozładunek samoczynny."
+  },
+  {
+   "front": "Silosy spedycyjne",
+   "back": "Pozwalają szybko załadować towar na samochody."
+  },
+  {
+   "front": "Zasady przechowywania zboża w silosach",
+   "back": "Całkowite opróżnianie po sezonie, czyszczenie układu obiegu ziarna, dezynfekcja (preparaty przeciw szkodnikom i grzybom), okresowe napowietrzanie (aktywna wentylacja)."
+  },
+  {
+   "front": "Od czego zależy skuteczność chłodzenia ziarna w silosie?",
+   "back": "Od ilości podawanego powietrza i różnicy temperatur między ziarnem a powietrzem."
+  },
+  {
+   "front": "Silosy z przepływowym powietrzem",
+   "back": "Zbiorniki cylindryczne z blachy perforowanej, gdzie ściana boczna i centralny kanał rozprowadzają powietrze tłoczone przez wentylatory."
+  },
+  {
+   "front": "Systemy załadunku silosów",
+   "back": "Mechaniczne (przenośniki ślimakowe – żmijki, taśmociągi, czerpaki kubełkowe), pneumatyczne, mieszane."
+  },
+  {
+   "front": "Żmijka",
+   "back": "Przenośnik ślimakowy – mechaniczny system załadunku."
+  },
+  {
+   "front": "Sposoby rozładunku silosów",
+   "back": "Wybieraki mechaniczne (płaskodenne), pneumatycznie (dmuchawy ssąco-tłoczące), samoczynnie (lejowe), w sposób mieszany."
+  },
+  {
+   "front": "Zadanie przechowalnictwa",
+   "back": "Jak najdłuższe utrzymanie płodów tak, aby uniknąć strat jakościowych i ilościowych; strat nie można uniknąć, ale można je ograniczyć."
+  },
+  {
+   "front": "Czynniki wpływające na straty w przechowywaniu",
+   "back": "Długość okresu przechowywania, temperatura, wilgotność produktów i otoczenia, skład powietrza."
+  },
+  {
+   "front": "Ziemniaki – okres 1 przechowywania",
+   "back": "Dojrzewanie bulw i zabliźnianie uszkodzeń: 1–2 tygodnie, 12–18°C (tab.: 15°C), wilgotność 90–95%."
+  },
+  {
+   "front": "Ziemniaki – okres 2 przechowywania",
+   "back": "Stopniowe obniżanie temperatury do optymalnej: 2–3 tygodnie, wilgotność 90–95%."
+  },
+  {
+   "front": "Ziemniaki – okres 3 przechowywania",
+   "back": "Najdłuższy, do późnej wiosny; ziemniaki jadalne 4–6°C, wilgotność 85–90%; straty na oddychanie najmniejsze."
+  },
+  {
+   "front": "Co się dzieje, gdy obniżymy temperaturę ziemniaków o 1–2°C poniżej optimum?",
+   "back": "Ziemniaki stają się słodkie."
+  },
+  {
+   "front": "Rekondycjonowanie ziemniaków",
+   "back": "Okres 4 – przygotowanie do konsumpcji lub przetwórstwa (frytki, chipsy): ok. 2 tygodnie w 12–16°C; cukry proste zmieniają się w skrobię."
+  },
+  {
+   "front": "Ziemniaki dla przemysłu skrobiowego – temperatura",
+   "back": "6–8°C (wilgotność 90–95%)."
+  },
+  {
+   "front": "Ziemniaki dla przemysłu gorzelniczego – temperatura",
+   "back": "Do 4°C (wilgotność 90–95%)."
+  },
+  {
+   "front": "Ziemniaki paszowe – temperatura przechowywania",
+   "back": "4–6°C (wilgotność 90–95%)."
+  },
+  {
+   "front": "Sadzeniaki i ziemniaki jadalne – długotrwałe przechowywanie",
+   "back": "2–6°C, wilgotność 90–95%."
+  },
+  {
+   "front": "Podkiełkowywanie sadzeniaków",
+   "back": "Na świetle przez 3–5 tygodni w 10–15°C przy wilgotności 75–80%."
+  },
+  {
+   "front": "Ryzyko aktywnej wentylacji powietrzem zewnętrznym",
+   "back": "Przy zbyt dużej wilgotności powietrza może dojść do nawilgocenia ziarna; stosuje się ją tylko przy sprzyjającej pogodzie."
+  },
+  {
+   "front": "Temperatura ziarna schłodzonego",
+   "back": "Równa nocnej temperaturze powietrza atmosferycznego; dopuszczalna wyższa nie więcej niż o 5°C."
+  },
+  {
+   "front": "Korzyści schłodzenia ziarna do 8–12°C",
+   "back": "Ograniczenie do minimum strat z oddychania, mniejszy rozwój mikroorganizmów i działalność szkodników."
+  },
+  {
+   "front": "Bezpieczne parametry przechowywania zbóż",
+   "back": "Wilgotność do 14–15%, temperatura 8–12°C."
+  },
+  {
+   "front": "Bezpieczne parametry przechowywania kukurydzy",
+   "back": "Wilgotność nie wyższa niż 15%, temperatura poniżej 10°C."
+  },
+  {
+   "front": "Warunki przewietrzania i schładzania ziarna",
+   "back": "Wilgotność powietrza najlepiej do 60%, temperatura do 10°C."
+  },
+  {
+   "front": "Mykotoksyny",
+   "back": "Wtórne, niepożądane produkty pleśni i grzybów w źle przechowywanych zbożach, groźne dla zdrowia i życia; ryzyko przy temperaturze zawilgoconej pryzmy powyżej 25°C."
+  },
+  {
+   "front": "Akty prawne o dopuszczalnych poziomach mykotoksyn",
+   "back": "Rozporządzenie Komisji (WE) nr 1881/2006 z 19 grudnia 2006 r. oraz Rozporządzenie Komisji (UE) nr 165/2010 z 26 lutego 2010 r. (aflatoksyny)."
+  },
+  {
+   "front": "Etapy przygotowania płodów do sprzedaży",
+   "back": "Czyszczenie, mycie, sortowanie, pakowanie (jednostkowe/zbiorcze), składowanie opakowań, załadunek i transport (na paletach lub luzem)."
+  },
+  {
+   "front": "Rodzaje opakowań",
+   "back": "Jednorazowe i wielokrotnego użytku."
+  },
+  {
+   "front": "Problemy z opakowaniami wielokrotnego użytku",
+   "back": "Konieczność utrzymania nienagannej czystości oraz miejsce do składowania do następnego sezonu."
+  },
+  {
+   "front": "Kto może pracować przy dystrybucji żywności?",
+   "back": "Wyłącznie osoby, których stan zdrowia nie zagraża bezpieczeństwu konsumentów."
+  },
+  {
+   "front": "Jakie produkty przeznacza się do sprzedaży?",
+   "back": "Wysokiej jakości, zdrowe, wytwarzane zgodnie z technologią produkcji i niezafałszowane."
+  },
+  {
+   "front": "Zagrożenia skażenia przez urządzenia",
+   "back": "Substancje ropopochodne i ciała stałe, jak kamienie czy resztki metalu."
+  },
+  {
+   "front": "Główni odbiorcy produktów roślinnych",
+   "back": "Zakłady przemysłu zbożowego, tłuszczowego, cukrownie, gorzelnie i jednostki pośredniczące."
+  },
+  {
+   "front": "Umowa kontraktacji",
+   "back": "Producent rolny wytwarza i dostarcza kontraktującemu oznaczoną ilość produktów określonego rodzaju, a kontraktujący odbiera je w umówionym terminie i płaci ustaloną cenę."
+  },
+  {
+   "front": "Instytucje handlu hurtowego na rynku rolnym",
+   "back": "Targowiska, giełdy towarowe, rynki hurtowe, aukcje."
+  },
+  {
+   "front": "MOL",
+   "back": "Działalność marginalna, lokalna i ograniczona – dotyczy tylko produktów pochodzenia zwierzęcego."
+  },
+  {
+   "front": "Akt prawny – sprzedaż bezpośrednia produktów roślinnych",
+   "back": "Rozporządzenie Ministra Zdrowia z dnia 6 czerwca 2007 r. w sprawie dostaw bezpośrednich środków spożywczych (Dz. U. 2007 r. Nr 112, poz. 774)."
+  },
+  {
+   "front": "Sprzedaż bezpośrednia",
+   "back": "Handel małymi ilościami nieprzetworzonych produktów – w gospodarstwie (także samozbiór), na targowiskach, kiermaszach, w sklepach, przy drodze lub z dostawą do konsumenta."
+  },
+  {
+   "front": "Co obejmuje sprzedaż bezpośrednia produktów roślinnych?",
+   "back": "Zboża, owoce, warzywa, grzyby uprawne, zioła i runo leśne z osobistych zbiorów oraz produkty wyłącznie z własnych upraw."
+  },
+  {
+   "front": "Limit obrotu w dostawach bezpośrednich",
+   "back": "Nie może przekraczać rocznych plonów poszczególnych surowców z gospodarstwa, którego producent jest właścicielem lub użytkownikiem."
+  },
+  {
+   "front": "Oznakowanie przy sprzedaży bezpośredniej poza gospodarstwem",
+   "back": "Na opakowaniach zbiorczych lub transportowych: imię i nazwisko (lub nazwa) oraz adres miejsca prowadzenia działalności, czytelnie i widocznie."
+  },
+  {
+   "front": "Zasięg terytorialny dostaw bezpośrednich",
+   "back": "Województwo, w którym prowadzona jest produkcja pierwotna, lub województwa przyległe."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Które z poniższych jest magazynem prymitywnym?",
+   "options": [
+    "Silos lejowy",
+    "Kopiec",
+    "Magazyn wielopoziomowy",
+    "Silos spedycyjny"
+   ],
+   "answer": 1,
+   "explain": "Do magazynów prymitywnych należą kopce, ziemianki i piwnice."
+  },
+  {
+   "q": "Jakie są trzy rodzaje silosów?",
+   "options": [
+    "Płaskodenne, lejowe, spedycyjne",
+    "Płaskie, wysokie, niskie",
+    "Jednokondygnacyjne, wielopoziomowe, wieżowe",
+    "Kopcowe, piwniczne, lejowe"
+   ],
+   "answer": 0,
+   "explain": "Wyróżnia się silosy płaskodenne, lejowe i spedycyjne."
+  },
+  {
+   "q": "Które silosy pozwalają szybko załadować towar na samochody?",
+   "options": [
+    "Płaskodenne",
+    "Lejowe",
+    "Spedycyjne",
+    "Z przepływowym powietrzem"
+   ],
+   "answer": 2,
+   "explain": "Silosy spedycyjne pozwalają szybko załadować towar na samochody."
+  },
+  {
+   "q": "W których silosach rozładunek odbywa się samoczynnie?",
+   "options": [
+    "Płaskodennych",
+    "Spedycyjnych",
+    "Cylindrycznych perforowanych",
+    "Lejowych"
+   ],
+   "answer": 3,
+   "explain": "Rozładunek samoczynny dotyczy silosów lejowych; w płaskodennych stosuje się wybieraki mechaniczne."
+  },
+  {
+   "q": "Do jakiej temperatury silos schładza ziarno?",
+   "options": [
+    "0–2°C",
+    "5–10°C",
+    "12–18°C",
+    "15–20°C"
+   ],
+   "answer": 1,
+   "explain": "Silos okresowo przewietrza i schładza ziarno do temperatury 5–10°C."
+  },
+  {
+   "q": "Na jakiej wysokości od podłogi powinny znajdować się okna magazynu podłogowego?",
+   "options": [
+    "Minimum 1,5–2 m",
+    "Minimum 0,5 m",
+    "Minimum 3–4 m",
+    "Dowolnie"
+   ],
+   "answer": 0,
+   "explain": "Okna powinny być usytuowane minimum 1,5–2 m od podłogi i zabezpieczone przed gryzoniami i ptakami."
+  },
+  {
+   "q": "Zboże schłodzone i wyczyszczone można składować w warstwie wyższej niż 1,5 m, jeśli jego wilgotność wynosi:",
+   "options": [
+    "poniżej 18%",
+    "16–17%",
+    "poniżej 15%",
+    "powyżej 15%"
+   ],
+   "answer": 2,
+   "explain": "Zboże o wilgotności poniżej 15%, schłodzone i wyczyszczone, może leżeć w warstwie wyższej niż 1,5 m."
+  },
+  {
+   "q": "Ziarno o wilgotności przekraczającej jaką wartość musi być przerzucane i suszone?",
+   "options": [
+    "12–13%",
+    "14%",
+    "15%",
+    "16–17%"
+   ],
+   "answer": 3,
+   "explain": "Ziarno o wilgotności ponad 16–17% musi być przerzucane i suszone."
+  },
+  {
+   "q": "Suche ziarno można przechowywać kilka lat przy wilgotności najlepiej:",
+   "options": [
+    "poniżej 13–14%",
+    "15–16%",
+    "16–17%",
+    "poniżej 18%"
+   ],
+   "answer": 0,
+   "explain": "Suche ziarno o wilgotności poniżej 13–14% może być przechowywane kilka lat."
+  },
+  {
+   "q": "Żmijka to:",
+   "options": [
+    "dmuchawa ssąco-tłocząca",
+    "przenośnik ślimakowy",
+    "czerpak kubełkowy",
+    "wybierak mechaniczny"
+   ],
+   "answer": 1,
+   "explain": "Przenośniki ślimakowe (żmijki) należą do mechanicznych systemów załadunku."
+  },
+  {
+   "q": "Najczęstszy sposób suszenia ziarna to suszenie:",
+   "options": [
+    "sublimacyjne",
+    "słoneczne",
+    "konwekcyjne",
+    "mikrofalowe"
+   ],
+   "answer": 2,
+   "explain": "Ziarno najczęściej suszy się konwekcyjnie – podgrzane powietrze przepływa wokół ziarniaków."
+  },
+  {
+   "q": "Skuteczność chłodzenia ziarna zależy od:",
+   "options": [
+    "koloru silosu",
+    "liczby wywietrzników",
+    "odmiany zboża",
+    "ilości powietrza i różnicy temperatur ziarna i powietrza"
+   ],
+   "answer": 3,
+   "explain": "Skuteczność chłodzenia zależy od ilości podawanego powietrza i różnicy temperatur między ziarnem i powietrzem."
+  },
+  {
+   "q": "Jak długo trwa pierwszy okres przechowywania ziemniaków (dojrzewanie bulw, zabliźnianie uszkodzeń)?",
+   "options": [
+    "1–2 tygodnie",
+    "2–3 tygodnie",
+    "4–6 tygodni",
+    "2 miesiące"
+   ],
+   "answer": 0,
+   "explain": "Okres dojrzewania i zabliźniania trwa 1–2 tygodnie od złożenia w przechowalni."
+  },
+  {
+   "q": "Jaka temperatura jest zalecana w okresie dojrzewania bulw i zabliźniania uszkodzeń?",
+   "options": [
+    "2–6°C",
+    "12–18°C",
+    "4–6°C",
+    "20–25°C"
+   ],
+   "answer": 1,
+   "explain": "W pierwszym okresie temperatura powinna wynosić 12–18°C przy wilgotności 90–95%."
+  },
+  {
+   "q": "W jakiej temperaturze przechowuje się ziemniaki jadalne w trzecim, najdłuższym okresie?",
+   "options": [
+    "0–2°C",
+    "8–10°C",
+    "4–6°C",
+    "12–16°C"
+   ],
+   "answer": 2,
+   "explain": "Okres 3 wymaga dla ziemniaków jadalnych 4–6°C i wilgotności 85–90%."
+  },
+  {
+   "q": "Co się stanie, gdy temperatura przechowywania ziemniaków spadnie o 1–2°C poniżej optimum?",
+   "options": [
+    "Zaczną kiełkować",
+    "Zgniją",
+    "Stracą skrobię i zgorzknieją",
+    "Staną się słodkie"
+   ],
+   "answer": 3,
+   "explain": "Obniżenie temperatury o 1–2°C powoduje, że ziemniaki stają się słodkie."
+  },
+  {
+   "q": "Rekondycjonowanie ziemniaków to:",
+   "options": [
+    "przygotowanie do konsumpcji lub przetwórstwa w 12–16°C",
+    "schładzanie do 4°C",
+    "zabliźnianie uszkodzeń w 15°C",
+    "podkiełkowywanie na świetle"
+   ],
+   "answer": 0,
+   "explain": "Rekondycjonowanie trwa ok. 2 tygodni w 12–16°C; cukry proste zmieniają się w skrobię."
+  },
+  {
+   "q": "Ziemniaki dla przemysłu skrobiowego przechowuje się długotrwale w temperaturze:",
+   "options": [
+    "do 4°C",
+    "6–8°C",
+    "2–6°C",
+    "10–15°C"
+   ],
+   "answer": 1,
+   "explain": "Wg tab. 8.1 przemysł skrobiowy – 6–8°C."
+  },
+  {
+   "q": "Ziemniaki dla przemysłu gorzelniczego przechowuje się długotrwale w temperaturze:",
+   "options": [
+    "6–8°C",
+    "4–6°C",
+    "10°C",
+    "do 4°C"
+   ],
+   "answer": 3,
+   "explain": "Wg tab. 8.1 przemysł gorzelniczy – do 4°C."
+  },
+  {
+   "q": "Wilgotność względna powietrza przy podkiełkowywaniu sadzeniaków wynosi:",
+   "options": [
+    "75–80%",
+    "90–95%",
+    "60%",
+    "85–90%"
+   ],
+   "answer": 0,
+   "explain": "Sadzeniaki podkiełkowuje się w 10–15°C przy wilgotności 75–80% (tab. 8.1)."
+  },
+  {
+   "q": "Bezpieczne przechowywanie zbóż wymaga wilgotności nie większej niż:",
+   "options": [
+    "10–11%",
+    "16–17%",
+    "14–15%",
+    "18–20%"
+   ],
+   "answer": 2,
+   "explain": "Wilgotność zbóż nie powinna przekraczać 14–15%, a temperatura 8–12°C."
+  },
+  {
+   "q": "Kukurydzę bezpiecznie przechowuje się przy wilgotności do 15% i temperaturze:",
+   "options": [
+    "poniżej 10°C",
+    "12–18°C",
+    "powyżej 15°C",
+    "około 20°C"
+   ],
+   "answer": 0,
+   "explain": "W przypadku kukurydzy temperatura musi wynosić mniej niż 10°C."
+  },
+  {
+   "q": "O ile maksymalnie temperatura ziarna schłodzonego może przewyższać nocną temperaturę powietrza?",
+   "options": [
+    "1°C",
+    "10°C",
+    "5°C",
+    "15°C"
+   ],
+   "answer": 2,
+   "explain": "Dopuszczalna jest temperatura wyższa nie więcej niż o 5°C."
+  },
+  {
+   "q": "Przewietrzanie i schładzanie ziarna najlepiej prowadzić przy wilgotności powietrza nie wyższej niż:",
+   "options": [
+    "80%",
+    "60%",
+    "90%",
+    "40%"
+   ],
+   "answer": 1,
+   "explain": "Najlepiej, aby wilgotność powietrza nie przekraczała 60%, a temperatura 10°C."
+  },
+  {
+   "q": "Wzrost temperatury w zawilgoconej pryzmie zboża powyżej jakiej wartości grozi pojawieniem się mykotoksyn?",
+   "options": [
+    "10°C",
+    "15°C",
+    "18°C",
+    "25°C"
+   ],
+   "answer": 3,
+   "explain": "Wzrost temperatury powyżej 25°C grozi wystąpieniem groźnych mykotoksyn."
+  },
+  {
+   "q": "Które rozporządzenie zmieniło normy dotyczące aflatoksyn?",
+   "options": [
+    "Rozporządzenie Komisji (UE) nr 165/2010",
+    "Rozporządzenie Rady (WE) nr 73/2009",
+    "Rozporządzenie (WE) nr 178/2002",
+    "Rozporządzenie Komisji (WE) nr 1122/2009"
+   ],
+   "answer": 0,
+   "explain": "Rozporządzenie Komisji (UE) nr 165/2010 zmieniło rozporządzenie (WE) nr 1881/2006 w odniesieniu do aflatoksyn."
+  },
+  {
+   "q": "Umowa, w której producent dostarcza oznaczoną ilość produktów, a odbiorca odbiera je w terminie i płaci ustaloną cenę, to umowa:",
+   "options": [
+    "dzierżawy",
+    "kontraktacji",
+    "komisu",
+    "użyczenia"
+   ],
+   "answer": 1,
+   "explain": "Tak definiowana jest umowa kontraktacji, na podstawie której zakłady przetwórcze prowadzą skup."
+  },
+  {
+   "q": "Która z instytucji NIE jest wymieniona jako instytucja handlu hurtowego na rynku rolnym?",
+   "options": [
+    "Giełda towarowa",
+    "Rynek hurtowy",
+    "Aukcja",
+    "Sklep osiedlowy"
+   ],
+   "answer": 3,
+   "explain": "Instytucje handlu hurtowego to targowiska, giełdy towarowe, rynki hurtowe i aukcje."
+  },
+  {
+   "q": "Działalność marginalna, lokalna i ograniczona (MOL) dotyczy:",
+   "options": [
+    "tylko produktów pochodzenia zwierzęcego",
+    "tylko produktów roślinnych",
+    "wszystkich produktów rolnych",
+    "tylko zbóż"
+   ],
+   "answer": 0,
+   "explain": "Działalność MOL dotyczy tylko produktów pochodzenia zwierzęcego."
+  },
+  {
+   "q": "Warunki sprzedaży bezpośredniej produktów roślinnych określa:",
+   "options": [
+    "Ustawa o nawozach i nawożeniu",
+    "Rozporządzenie Ministra Zdrowia z 6 czerwca 2007 r.",
+    "Rozporządzenie MRiRW z 11 marca 2010 r.",
+    "Ustawa Prawo wodne"
+   ],
+   "answer": 1,
+   "explain": "Reguluje je Rozporządzenie Ministra Zdrowia z 6 czerwca 2007 r. w sprawie dostaw bezpośrednich środków spożywczych."
+  },
+  {
+   "q": "Na jakim obszarze można prowadzić dostawy bezpośrednie?",
+   "options": [
+    "Na terenie całego kraju",
+    "Tylko w gminie gospodarstwa",
+    "W województwie produkcji lub województwach przyległych",
+    "Tylko w powiecie gospodarstwa"
+   ],
+   "answer": 2,
+   "explain": "Dostawy bezpośrednie prowadzi się w województwie produkcji pierwotnej lub w województwach przyległych."
+  },
+  {
+   "q": "Jakie informacje producent musi umieścić na opakowaniach przy sprzedaży bezpośredniej poza gospodarstwem?",
+   "options": [
+    "Numer NIP i cenę",
+    "Datę zbioru i odmianę",
+    "Numer działki ewidencyjnej",
+    "Imię i nazwisko (lub nazwę) i adres miejsca prowadzenia działalności"
+   ],
+   "answer": 3,
+   "explain": "Na opakowaniach zbiorczych lub transportowych umieszcza się imię i nazwisko (albo nazwę) oraz adres."
+  },
+  {
+   "q": "Który etap NIE należy do przygotowania płodów rolnych do sprzedaży wg materiału?",
+   "options": [
+    "Sortowanie",
+    "Pakowanie",
+    "Mycie",
+    "Kiszenie"
+   ],
+   "answer": 3,
+   "explain": "Przygotowanie obejmuje czyszczenie, mycie, sortowanie, pakowanie, składowanie oraz załadunek i transport."
+  }
+ ]
+}

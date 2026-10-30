@@ -1,0 +1,798 @@
+{
+  "id": "ppr1",
+  "course": "Podstawy produkcji roślinnej",
+  "title": "Klimatyczne czynniki środowiska",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Produkty roślinne są żywnością i podstawą do wytworzenia żywności pochodzenia zwierzęcego.",
+        "Asymilacja – tworzenie związków organicznych z prostych związków mineralnych z wykorzystaniem energii słonecznej; powstaje prosty cukier (glukoza).",
+        "Glukoza jest podstawą innych związków organicznych, tłuszczów i białka.",
+        "Im lepsze warunki korzystania z energii słonecznej, tym lepsza produktywność roślin.",
+        "Czynniki naturalne: klimatyczne, glebowe, ukształtowanie terenu.",
+        "Czynniki sztuczne: melioracje (nawadnianie i odwadnianie), zabiegi agrotechniczne, zabiegi techniczno-urbanizacyjne.",
+        "Siedlisko roślin – zespół czynników zewnętrznych, które występują w danym miejscu i wpływają na rośliny."
+      ]
+    },
+    {
+      "heading": "1. Klimatyczne czynniki siedliska – atmosfera i zjawiska meteorologiczne",
+      "points": [
+        "Atmosfera – powłoka gazowa otaczająca planetę; mieszanina gazów to powietrze (gazy nie tworzą związków chemicznych).",
+        "Skład powietrza: azot ok. 78% objętości, tlen 21%, pozostałe gazy (argon, dwutlenek węgla, gazy szlachetne) ok. 1%.",
+        "Domieszki: para wodna, gazy przemysłowe, kryształy lub krople wody, cząstki gleby, sadze, pyły.",
+        "Zjawiska atmosferyczne bada meteorologia.",
+        "Zjawiska wpływające na produkcję rolniczą: energia słoneczna, temperatura powietrza i gleby, ciśnienie atmosferyczne, wiatr, wilgotność powietrza i opady.",
+        "Warunki dobrego plonu: małe opady zimowe, suchy marzec lub kwiecień, dostateczne (nie za duże) opady w czasie kwitnienia i kłoszenia zbóż, tj. w maju.",
+        "Lato, ze względu na zbiory, powinno być możliwie suche."
+      ]
+    },
+    {
+      "heading": "Energia słoneczna i długość dnia",
+      "points": [
+        "Zakresy promieniowania: ultrafioletowe 200–400 nm, widzialne 400–700 nm, podczerwone 700–4000 nm.",
+        "Ilość promieniowania docierającego do Ziemi zależy m.in. od wysokości Słońca nad horyzontem.",
+        "Rośliny dnia długiego (zboża, burak cukrowy, koniczyna, szpinak) kwitną po przekroczeniu granicznej długości dnia.",
+        "Rośliny dnia krótkiego (kukurydza, soja, proso) kwitną po skróceniu dnia do wartości granicznej.",
+        "Rośliny obojętne (pomidory, słonecznik, ogórek) kwitną niezależnie od długości dnia.",
+        "Za mało światła: rośliny wiotkie (zboża wylegają), buraki o niskiej zawartości cukru, ziarno zbóż o niższej zawartości białka.",
+        "Rzędy z północy na południe otrzymują więcej światła niż rzędy ze wschodu na zachód.",
+        "Większość roślin wyższych rozwija się w zakresie od 0–5°C (minimum) do 40–50°C (maksimum).",
+        "Okres wegetacyjny – temperatury ponad 5°C; trwa od 190 dni (Pojezierze Suwalskie) do ponad 220 dni (Kotlina Podkarpacka, Nizina Śląska).",
+        "Krótki okres wegetacyjny utrudnia stosowanie poplonów i wymaga większej koncentracji robót polnych."
+      ]
+    },
+    {
+      "heading": "Temperatura powietrza i gleby",
+      "points": [
+        "Źródłem ciepła dla Ziemi jest promieniowanie słoneczne.",
+        "Temperatura optymalna – najlepsze przyswajanie składników i najwydajniejsze procesy fizjologiczne.",
+        "Temperatura minimalna – rośliny jeszcze nie giną, procesy są zahamowane; zbyt długo utrzymująca się zabija rośliny.",
+        "Temperatura maksymalna – ustają procesy fizjologiczne, po jej przekroczeniu rośliny usychają.",
+        "Początek wegetacji: 2°C – żyto i marchew; 10°C – kukurydza i ziemniaki; 15°C – ogórek i fasola.",
+        "Optimum: ziemniaki, zboża, buraki 16–20°C; owies, koniczyna, marchew 10–15°C; kukurydza 25–27°C.",
+        "Okopowe: kluczowe opady od czerwca do sierpnia; gorące, suche i późne lato pogarsza urodzaje.",
+        "Słoneczna, sucha jesień zwiększa zawartość cukru w burakach cukrowych.",
+        "Drzewa i krzewy owocowe potrzebują klimatu umiarkowanie kontynentalnego; najurodzajniejsze sady przy rocznej sumie opadów ponad 600 mm.",
+        "Trawy łąkowe wymagają więcej opadów wiosną, od początku czerwca coraz mniej."
+      ]
+    },
+    {
+      "heading": "Ciśnienie atmosferyczne i wiatr",
+      "points": [
+        "Ciśnienie atmosferyczne – masa powietrza naciskająca na powierzchnię jednostkową, np. 1 cm2; im grubsza warstwa powietrza, tym wyższe ciśnienie.",
+        "Ciśnienie wpływa na rośliny pośrednio; jego zmiany pozwalają określić zmiany pogody.",
+        "Wiatr – poziomy ruch powietrza równoległy do powierzchni Ziemi, z obszarów o wyższym do obszarów o niższym ciśnieniu.",
+        "Cechy wiatru: kierunek, siła, prędkość.",
+        "Dodatni wpływ: przenoszenie pyłku i nasion, osuszanie mokrej gleby, dosuszanie roślin przy zbiorze, mieszanie powietrza, przynoszenie wilgotnych mas znad morza.",
+        "Ujemny wpływ: roznoszenie nasion chwastów, zarodników grzybów i bakterii, wywiewanie gleby, wyleganie, przenoszenie szkodników, zwiewanie śniegu, parowanie gleby, wymarzanie.",
+        "Zbyt duża prędkość wiatru utrudnia zabiegi ochrony roślin.",
+        "Zboża i trawy są przystosowane do przenoszenia pyłku przez wiatr; wiatr roznosi też zarodniki chorób, np. rdzy zbożowej."
+      ]
+    },
+    {
+      "heading": "Wilgotność powietrza i opady",
+      "points": [
+        "Woda bierze udział w procesach biochemicznych, umożliwia pobieranie składników, utrzymuje jędrność tkanek, reguluje temperaturę i transpirację.",
+        "Transpiracja – parowanie z nadziemnych części roślin.",
+        "Brak wody: więdnięcie, przy dłuższej suszy zamieranie; brak śniegu zimą – wymarzanie.",
+        "Wilgotność powietrza – procentowa zawartość pary wodnej w powietrzu.",
+        "Opady atmosferyczne (deszcz, mżawka, śnieg, grad) – produkty kondensacji pary wodnej spadające na ziemię.",
+        "Osady atmosferyczne (rosa, szron, szadź) – skroplenie pary bezpośrednio przy powierzchni ziemi.",
+        "Grad najgroźniejszy w okresie kwitnienia i później; śnieg chroni przed mrozem, nadmiar powoduje wymakanie i wyprzanie.",
+        "Co drugi rok w dużej części kraju jest posuszny; niedobór najdotkliwszy w środkowej Polsce (użytki zielone).",
+        "Rozkład opadów w Polsce sprzyja bardziej okopowym (lipiec, sierpień) niż zbożom.",
+        "Najważniejsza nie jest ilość opadów, lecz ich rozkład i natężenie; nadmiar wody – utrzymywać sprawne dreny, rowy, obwałowania."
+      ]
+    },
+    {
+      "heading": "2. Charakterystyka klimatu Polski",
+      "points": [
+        "Klimat – ogół zjawisk pogodowych na danym obszarze w wieloletnim okresie.",
+        "Czynniki klimatu: szerokość geograficzna, odległość od mórz i oceanów, rzeźba terenu, rodzaje powierzchni ziemi, roślinność.",
+        "Polska leży w strefie klimatu umiarkowanego, typ przejściowy (między oceanicznym a kontynentalnym).",
+        "Roczne różnice średnich temperatur: 20°C–22,5°C; mniejsze na zachodzie, większe na wschodzie.",
+        "Zimą większe zachmurzenie na nizinach, latem w górach.",
+        "Najmniejsze opady na nizinach, w górach dwa razy większe.",
+        "Największe nasłonecznienie w pasie nadmorskim, najmniejsze w górach i na Mazurach.",
+        "Mikroklimat – warunki klimatyczne na niewielkim obszarze znacznie odbiegające od reszty regionu."
+      ]
+    },
+    {
+      "heading": "3. Pogoda i jej obserwacja",
+      "points": [
+        "Pogoda – stan atmosfery w konkretnym miejscu i czasie; zależy od układu ciśnienia i mas powietrza.",
+        "Niż baryczny: najniższe ciśnienie w środku; wilgotność, zachmurzenie, opady; wiatry ku środkowi, przeciwnie do ruchu wskazówek zegara.",
+        "Wyż baryczny: najwyższe ciśnienie w środku; bezchmurnie, duże różnice temperatur; słabe wiatry od środka, skręcające w prawo.",
+        "Ogródek meteorologiczny – poletko z klatką meteorologiczną (termometry, psychrometry, rejestratory), deszczomierz i wiatromierz; ciśnienie mierzy się w pokoju obserwatora.",
+        "Stacje synoptyczne – pomiary co godzinę; klimatologiczne – 3 razy na dobę: 7:00, 13:00 i 19:00 CET.",
+        "Termometr osłonięty od słońca, najlepiej od północnej strony budynku.",
+        "Zachmurzenie w skali 0–8 (0 – bezchmurnie, 8 – pełne zachmurzenie).",
+        "Deszczomierz: puszka o średnicy ok. 16 cm, 1 m nad gruntem; pomiar raz na dobę rano, menzurką.",
+        "Ciśnienie: barometr lub aneroid, w hPa lub mm słupa rtęci; 750 mm odpowiada 1000 hPa.",
+        "Prędkość wiatru: anemometr (m/s, km/h) lub szacunkowo skala Beauforta; kierunek – strona, z której wieje wiatr."
+      ]
+    },
+    {
+      "heading": "Przepowiadanie pogody z ciśnienia i wiatru",
+      "points": [
+        "Wysokie ciśnienie gwarantuje pogodę, spadek ciśnienia zwiastuje pogorszenie.",
+        "Wzrost ciśnienia w trakcie opadów wróży poprawę pogody.",
+        "Latem wysokie ciśnienie i wiatr wschodni – pogoda słoneczna i susza.",
+        "Wiatr wschodni przy niskim ciśnieniu – wzrost temperatury i burze.",
+        "Wiatr zachodni przy niskim ciśnieniu – ochłodzenie i opady.",
+        "Wiosną wysokie ciśnienie przy bezchmurnym niebie zapowiada przymrozki."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Asymilacja",
+      "back": "Proces tworzenia przez rośliny związków organicznych z prostych związków mineralnych z wykorzystaniem energii słonecznej. Powstaje w nim glukoza."
+    },
+    {
+      "front": "Jaki prosty cukier powstaje w procesie asymilacji?",
+      "back": "Glukoza – podstawa innych związków organicznych, tłuszczów i białka."
+    },
+    {
+      "front": "Naturalne czynniki warunkujące produktywność roślin",
+      "back": "Czynniki klimatyczne, czynniki glebowe i ukształtowanie terenu."
+    },
+    {
+      "front": "Sztuczne czynniki warunkujące produktywność roślin",
+      "back": "Melioracje (nawadnianie i odwadnianie), zabiegi agrotechniczne oraz zabiegi techniczno-urbanizacyjne."
+    },
+    {
+      "front": "Siedlisko roślin",
+      "back": "Zespół czynników zewnętrznych, które występują w danym miejscu i wpływają na rośliny."
+    },
+    {
+      "front": "Atmosfera",
+      "back": "Powłoka gazowa otaczająca Ziemię, złożona z mieszaniny gazów zwanej powietrzem. Gazy te nie tworzą związków chemicznych."
+    },
+    {
+      "front": "Skład powietrza atmosferycznego",
+      "back": "Azot ok. 78% objętości, tlen 21%, pozostałe gazy (argon, dwutlenek węgla, gazy szlachetne) ok. 1%."
+    },
+    {
+      "front": "Domieszki powietrza",
+      "back": "Para wodna, gazy przemysłowe, woda w postaci kryształów lub kropel, drobne cząstki gleby, sadze, pyły."
+    },
+    {
+      "front": "Meteorologia",
+      "back": "Nauka badająca zjawiska i przemiany fizyczne zachodzące w atmosferze."
+    },
+    {
+      "front": "Zjawiska meteorologiczne wpływające na produkcję rolniczą",
+      "back": "Energia słoneczna, temperatura powietrza i gleby, ciśnienie atmosferyczne, wiatr, wilgotność powietrza i opady."
+    },
+    {
+      "front": "Jakie warunki pogodowe sprzyjają dobremu plonowi?",
+      "back": "Małe opady zimowe, suchy marzec lub kwiecień, dostateczne (nie za duże) opady w maju w czasie kwitnienia i kłoszenia zbóż oraz możliwie suche lato."
+    },
+    {
+      "front": "Promieniowanie ultrafioletowe – zakres",
+      "back": "200–400 nanometrów."
+    },
+    {
+      "front": "Promieniowanie widzialne – zakres",
+      "back": "400–700 nanometrów."
+    },
+    {
+      "front": "Promieniowanie podczerwone – zakres",
+      "back": "700–4000 nanometrów."
+    },
+    {
+      "front": "Od czego zależy ilość promieniowania docierającego do Ziemi?",
+      "back": "M.in. od wysokości Słońca nad horyzontem; część promieniowania jest rozpraszana i pochłaniana przez atmosferę."
+    },
+    {
+      "front": "Fotoperiod",
+      "back": "Reakcja rośliny na długość dnia, czyli uruchomienie procesów fizjologicznych i behawioralnych."
+    },
+    {
+      "front": "Rośliny dnia długiego",
+      "back": "Kwitną po przekroczeniu granicznej długości dnia, np. zboża, burak cukrowy, koniczyna, szpinak."
+    },
+    {
+      "front": "Rośliny dnia krótkiego",
+      "back": "Kwitną po skróceniu dnia do wartości granicznej, np. kukurydza, soja, proso."
+    },
+    {
+      "front": "Rośliny obojętne na długość dnia",
+      "back": "Kwitną niezależnie od długości dnia, np. pomidory, słonecznik, ogórek."
+    },
+    {
+      "front": "Skutki zbyt małej ilości światła w okresie wegetacji",
+      "back": "Rośliny są wiotkie (zboża wylegają), buraki mają niską zawartość cukru, a ziarno zbóż niższą zawartość białka."
+    },
+    {
+      "front": "Który układ rzędów daje roślinom więcej światła?",
+      "back": "Rzędy z północy na południe – otrzymują więcej światła niż rzędy ze wschodu na zachód."
+    },
+    {
+      "front": "Zakres temperatur rozwoju większości roślin wyższych",
+      "back": "Od 0–5°C (minimum) do 40–50°C (maksimum)."
+    },
+    {
+      "front": "Okres wegetacyjny",
+      "back": "Okres, w którym średniodobowa temperatura przekracza 5°C; następuje wtedy wzrost i rozwój roślin i prowadzi się prace polowe."
+    },
+    {
+      "front": "Długość okresu wegetacyjnego w Polsce",
+      "back": "Od 190 dni na Pojezierzu Suwalskim do ponad 220 dni w Kotlinie Podkarpackiej i na Nizinie Śląskiej."
+    },
+    {
+      "front": "Skutki krótkiego okresu wegetacyjnego",
+      "back": "Utrudnia stosowanie poplonów i powoduje konieczność większej koncentracji robót polnych."
+    },
+    {
+      "front": "Temperatura optymalna",
+      "back": "Najbardziej sprzyjająca rozwojowi roślin – najlepiej przyswajane są składniki pokarmowe, a procesy fizjologiczne są najwydajniejsze."
+    },
+    {
+      "front": "Temperatura minimalna",
+      "back": "Temperatura, w której rośliny jeszcze nie giną, ale procesy fizjologiczne są zahamowane. Gdy utrzymuje się zbyt długo, rośliny giną."
+    },
+    {
+      "front": "Temperatura maksymalna",
+      "back": "Temperatura, w której ustają procesy fizjologiczne; po jej przekroczeniu rośliny usychają."
+    },
+    {
+      "front": "W jakiej temperaturze wegetację rozpoczynają żyto i marchew?",
+      "back": "W temperaturze 2°C."
+    },
+    {
+      "front": "W jakiej temperaturze wegetację rozpoczynają kukurydza i ziemniaki?",
+      "back": "W temperaturze 10°C."
+    },
+    {
+      "front": "W jakiej temperaturze wegetację rozpoczynają ogórek i fasola?",
+      "back": "W temperaturze 15°C."
+    },
+    {
+      "front": "Temperatura optymalna dla ziemniaków, zbóż i buraków",
+      "back": "16–20°C."
+    },
+    {
+      "front": "Temperatura optymalna dla owsa, koniczyny i marchwi",
+      "back": "10–15°C."
+    },
+    {
+      "front": "Temperatura optymalna dla kukurydzy",
+      "back": "25–27°C."
+    },
+    {
+      "front": "Kiedy rośliny okopowe najbardziej potrzebują opadów?",
+      "back": "Od czerwca do sierpnia. Gorące, suche i późne lato pogarsza urodzaje okopowych."
+    },
+    {
+      "front": "Jaka jesień sprzyja burakom cukrowym?",
+      "back": "Słoneczna i sucha – zwiększa się wtedy zawartość cukru."
+    },
+    {
+      "front": "Wymagania klimatyczne drzew i krzewów owocowych",
+      "back": "Klimat umiarkowanie kontynentalny, dużo dni słonecznych, dość wysokie temperatury; najurodzajniejsze sady przy rocznej sumie opadów ponad 600 mm."
+    },
+    {
+      "front": "Ciśnienie atmosferyczne",
+      "back": "Masa powietrza naciskająca na powierzchnię jednostkową, np. 1 cm2. Im grubsza warstwa powietrza, tym wyższe ciśnienie."
+    },
+    {
+      "front": "Wiatr",
+      "back": "Równoległy do powierzchni Ziemi, poziomy ruch powietrza z obszarów o wyższym ciśnieniu do obszarów o niższym ciśnieniu."
+    },
+    {
+      "front": "Trzy cechy opisujące wiatr",
+      "back": "Kierunek, siła i prędkość."
+    },
+    {
+      "front": "Dodatni wpływ wiatru",
+      "back": "Przenoszenie pyłku i nasion, osuszanie zbyt wilgotnej gleby, dosuszanie roślin przy zbiorze, mieszanie powietrza o różnych temperaturach, przynoszenie wilgotnych mas znad morza."
+    },
+    {
+      "front": "Ujemny wpływ wiatru",
+      "back": "Roznoszenie nasion chwastów i zarodników, wywiewanie gleby, wyleganie, przenoszenie szkodników, zwiewanie śniegu, zwiększone parowanie gleby, wymarzanie roślin."
+    },
+    {
+      "front": "Transpiracja",
+      "back": "Parowanie wody z nadziemnych części roślin."
+    },
+    {
+      "front": "Rola wody w roślinie",
+      "back": "Bierze udział w procesach biochemicznych, umożliwia pobieranie składników z gleby, utrzymuje jędrność tkanek, reguluje temperaturę i transpirację."
+    },
+    {
+      "front": "Wilgotność powietrza",
+      "back": "Procentowa zawartość pary wodnej w powietrzu."
+    },
+    {
+      "front": "Opady atmosferyczne",
+      "back": "Produkty kondensacji pary wodnej spadające na powierzchnię ziemi: deszcz, mżawka, śnieg, grad."
+    },
+    {
+      "front": "Osady atmosferyczne",
+      "back": "Para wodna skroplona bezpośrednio przy powierzchni ziemi: rosa, szron, szadź."
+    },
+    {
+      "front": "Szkody wyrządzane przez grad",
+      "back": "Miażdży kwiaty i pąki, dziurawi liście, łamie łodygi i gałęzie; najgroźniejszy w okresie kwitnienia i później."
+    },
+    {
+      "front": "Rola śniegu w rolnictwie",
+      "back": "Chroni rośliny przed wahaniami i niskimi temperaturami, oczyszcza powietrze; nadmiar łamie gałęzie, a pod grubą pokrywą rośliny ulegają wymakaniu i wyprzaniu."
+    },
+    {
+      "front": "Znaczenie rosy w rolnictwie",
+      "back": "W okresach bezdeszczowych dostarcza roślinom wodę."
+    },
+    {
+      "front": "Skutki nadmiaru wody w glebie",
+      "back": "Utrudnia dostęp tlenu, uniemożliwia oddychanie korzeni, prowadzi do gnicia i obumierania; utrudnia zabiegi agrotechniczne."
+    },
+    {
+      "front": "Co jest najważniejsze dla wegetacji w odniesieniu do opadów?",
+      "back": "Nie ilość opadów, lecz ich rozkład w okresie wegetacji i natężenie."
+    },
+    {
+      "front": "Klimat",
+      "back": "Ogół zjawisk pogodowych zachodzących na danym obszarze w wieloletnim okresie."
+    },
+    {
+      "front": "Czynniki wpływające na klimat",
+      "back": "Szerokość geograficzna, odległość od mórz i oceanów, rzeźba terenu, rodzaje powierzchni ziemi, roślinność."
+    },
+    {
+      "front": "Klimat przejściowy",
+      "back": "Klimat Polski – strefa umiarkowana, w której na przemian przeważają cechy klimatu oceanicznego i kontynentalnego."
+    },
+    {
+      "front": "Roczne różnice średnich temperatur w Polsce",
+      "back": "20°C–22,5°C; mniejsze na zachodzie, większe im dalej na wschód."
+    },
+    {
+      "front": "Gdzie w Polsce jest największe i najmniejsze nasłonecznienie?",
+      "back": "Największe w pasie nadmorskim na północy, najmniejsze w górach i na Mazurach."
+    },
+    {
+      "front": "Mikroklimat",
+      "back": "Warunki klimatyczne na niewielkim obszarze znacznie odbiegające od pozostałej części regionu."
+    },
+    {
+      "front": "Pogoda",
+      "back": "Stan atmosfery w konkretnym miejscu i w konkretnym czasie."
+    },
+    {
+      "front": "Niż baryczny",
+      "back": "Układ z najniższym ciśnieniem w środku, rosnącym na zewnątrz; wilgotno, pochmurno, opady; wiatry ku środkowi, przeciwnie do ruchu wskazówek zegara."
+    },
+    {
+      "front": "Wyż baryczny",
+      "back": "Układ z najwyższym ciśnieniem w centrum, malejącym na zewnątrz; zwykle bezchmurnie, latem upały, zimą mrozy; słabe wiatry od środka, skręcające w prawo."
+    },
+    {
+      "front": "Ogródek meteorologiczny",
+      "back": "Poletko z klatką meteorologiczną (termometry, psychrometry, rejestratory), deszczomierzem i wiatromierzem."
+    },
+    {
+      "front": "Terminy pomiarów w stacjach klimatologicznych",
+      "back": "Trzy razy na dobę: o 7:00, 13:00 i 19:00 CET. Stacje synoptyczne mierzą co godzinę."
+    },
+    {
+      "front": "Stopień zachmurzenia",
+      "back": "Powierzchnia nieba pokryta chmurami, w skali od 0 (bezchmurnie) do 8 (pełne zachmurzenie)."
+    },
+    {
+      "front": "Prosty deszczomierz",
+      "back": "Np. metalowa puszka o średnicy ok. 16 cm na słupku, w miejscu odsłoniętym, 1 m nad gruntem; pomiar raz na dobę rano."
+    },
+    {
+      "front": "Ile hPa odpowiada 750 mm słupa rtęci?",
+      "back": "1000 hPa."
+    },
+    {
+      "front": "Anemometr",
+      "back": "Przyrząd do pomiaru prędkości wiatru (w m/s lub km/h)."
+    },
+    {
+      "front": "Skala Beauforta",
+      "back": "Skala do szacunkowej oceny prędkości wiatru."
+    },
+    {
+      "front": "Kierunek wiatru",
+      "back": "Strona horyzontu, z której wieje wiatr, np. wiatr północny wieje z północy na południe."
+    },
+    {
+      "front": "Co zapowiada wiosną wysokie ciśnienie przy bezchmurnym niebie?",
+      "back": "Przymrozki."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Jaki gaz stanowi ok. 78% objętości powietrza?",
+      "options": [
+        "Tlen",
+        "Azot",
+        "Argon",
+        "Dwutlenek węgla"
+      ],
+      "answer": 1,
+      "explain": "Głównym składnikiem powietrza jest azot (ok. 78%), tlen stanowi 21%."
+    },
+    {
+      "q": "Który z czynników zalicza się do czynników sztucznych wpływających na produktywność roślin?",
+      "options": [
+        "Melioracje",
+        "Ukształtowanie terenu",
+        "Czynniki glebowe",
+        "Czynniki klimatyczne"
+      ],
+      "answer": 0,
+      "explain": "Czynniki sztuczne to melioracje, zabiegi agrotechniczne i techniczno-urbanizacyjne."
+    },
+    {
+      "q": "Zespół czynników zewnętrznych występujących w danym miejscu i wpływających na rośliny to:",
+      "options": [
+        "mikroklimat",
+        "siedlisko roślin",
+        "agroklimat",
+        "edafon"
+      ],
+      "answer": 1,
+      "explain": "Taki zespół czynników nazywamy siedliskiem roślin."
+    },
+    {
+      "q": "Jaki zakres długości fal ma promieniowanie widzialne?",
+      "options": [
+        "400–700 nm",
+        "200–400 nm",
+        "700–4000 nm",
+        "100–200 nm"
+      ],
+      "answer": 0,
+      "explain": "Promieniowanie widzialne obejmuje 400–700 nanometrów."
+    },
+    {
+      "q": "Która roślina jest rośliną dnia krótkiego?",
+      "options": [
+        "Burak cukrowy",
+        "Szpinak",
+        "Koniczyna",
+        "Kukurydza"
+      ],
+      "answer": 3,
+      "explain": "Rośliny dnia krótkiego to kukurydza, soja, proso."
+    },
+    {
+      "q": "Która roślina jest obojętna na długość dnia?",
+      "options": [
+        "Soja",
+        "Proso",
+        "Słonecznik",
+        "Pszenica"
+      ],
+      "answer": 2,
+      "explain": "Pomidory, słonecznik i ogórek kwitną niezależnie od długości dnia."
+    },
+    {
+      "q": "Do roślin dnia długiego należą:",
+      "options": [
+        "kukurydza i soja",
+        "zboża i burak cukrowy",
+        "pomidory i ogórek",
+        "proso i słonecznik"
+      ],
+      "answer": 1,
+      "explain": "Rośliny dnia długiego to zboża, burak cukrowy, koniczyna, szpinak."
+    },
+    {
+      "q": "Jaki jest skutek zbyt małej ilości światła w okresie wegetacji?",
+      "options": [
+        "Wyleganie zbóż",
+        "Wyższa zawartość cukru w burakach",
+        "Wyższa zawartość białka w ziarnie",
+        "Przyspieszone dojrzewanie"
+      ],
+      "answer": 0,
+      "explain": "Przy niedoborze światła rośliny są wiotkie, zboża wylegają, buraki mają mniej cukru, a ziarno mniej białka."
+    },
+    {
+      "q": "Które rzędy roślin otrzymują więcej światła?",
+      "options": [
+        "Ze wschodu na zachód",
+        "Ukośne z północnego wschodu",
+        "Z północy na południe",
+        "Kierunek nie ma znaczenia"
+      ],
+      "answer": 2,
+      "explain": "Rośliny rosnące w rzędach z północy na południe otrzymują więcej światła."
+    },
+    {
+      "q": "Okres wegetacyjny to czas, gdy średniodobowa temperatura przekracza:",
+      "options": [
+        "5°C",
+        "0°C",
+        "2°C",
+        "10°C"
+      ],
+      "answer": 0,
+      "explain": "Okres wegetacyjny to liczba dni ze średniodobową temperaturą wyższą od 5°C."
+    },
+    {
+      "q": "Gdzie w Polsce okres wegetacyjny jest najkrótszy (ok. 190 dni)?",
+      "options": [
+        "Nizina Śląska",
+        "Kotlina Podkarpacka",
+        "Pojezierze Suwalskie",
+        "Żuławy"
+      ],
+      "answer": 2,
+      "explain": "Okres wegetacyjny waha się od 190 dni na Pojezierzu Suwalskim do ponad 220 dni w Kotlinie Podkarpackiej i na Nizinie Śląskiej."
+    },
+    {
+      "q": "W jakiej temperaturze wegetację rozpoczynają żyto i marchew?",
+      "options": [
+        "5°C",
+        "10°C",
+        "2°C",
+        "15°C"
+      ],
+      "answer": 2,
+      "explain": "Żyto i marchew rozpoczynają wegetację w 2°C."
+    },
+    {
+      "q": "W temperaturze 10°C wegetację rozpoczynają:",
+      "options": [
+        "ogórek i fasola",
+        "żyto i marchew",
+        "owies i koniczyna",
+        "kukurydza i ziemniaki"
+      ],
+      "answer": 3,
+      "explain": "W 10°C wegetację rozpoczynają kukurydza oraz ziemniaki, w 15°C ogórek i fasola."
+    },
+    {
+      "q": "Optymalna temperatura dla kukurydzy wynosi:",
+      "options": [
+        "10–15°C",
+        "16–20°C",
+        "20–22°C",
+        "25–27°C"
+      ],
+      "answer": 3,
+      "explain": "Dla kukurydzy optimum to 25–27°C."
+    },
+    {
+      "q": "Optymalna temperatura dla owsa, koniczyny i marchwi wynosi:",
+      "options": [
+        "10–15°C",
+        "16–20°C",
+        "25–27°C",
+        "5–8°C"
+      ],
+      "answer": 0,
+      "explain": "Owies, koniczyna i marchew mają optimum 10–15°C."
+    },
+    {
+      "q": "Temperatura, w której ustają procesy fizjologiczne, a po jej przekroczeniu rośliny usychają, to temperatura:",
+      "options": [
+        "minimalna",
+        "optymalna",
+        "graniczna wegetacji",
+        "maksymalna"
+      ],
+      "answer": 3,
+      "explain": "Tak definiowana jest temperatura maksymalna."
+    },
+    {
+      "q": "Jaka jesień korzystnie wpływa na plony buraków cukrowych?",
+      "options": [
+        "Deszczowa i chłodna",
+        "Wietrzna i wilgotna",
+        "Słoneczna i sucha",
+        "Pochmurna i ciepła"
+      ],
+      "answer": 2,
+      "explain": "Słoneczna, sucha jesień zwiększa zawartość cukru w burakach."
+    },
+    {
+      "q": "Przy jakiej rocznej sumie opadów spotyka się najbardziej urodzajne kultury sadownicze?",
+      "options": [
+        "Poniżej 400 mm",
+        "Ok. 450 mm",
+        "Ponad 600 mm",
+        "Ponad 1500 mm"
+      ],
+      "answer": 2,
+      "explain": "Najbardziej urodzajne sady są przy rocznej sumie opadów ponad 600 mm."
+    },
+    {
+      "q": "Wiatr wieje z obszarów:",
+      "options": [
+        "o niższym ciśnieniu do obszarów o wyższym ciśnieniu",
+        "o wyższym ciśnieniu do obszarów o niższym ciśnieniu",
+        "chłodnych do ciepłych niezależnie od ciśnienia",
+        "lądowych zawsze w kierunku morza"
+      ],
+      "answer": 1,
+      "explain": "Wiatr to poziomy ruch powietrza z obszarów o wyższym do obszarów o niższym ciśnieniu."
+    },
+    {
+      "q": "Który z wymienionych jest dodatnim wpływem wiatru?",
+      "options": [
+        "Dosuszanie roślin w okresie zbioru",
+        "Roznoszenie zarodników grzybów",
+        "Zwiewanie śniegu",
+        "Zwiększanie parowania gleby"
+      ],
+      "answer": 0,
+      "explain": "Do dodatnich skutków wiatru należy m.in. przyspieszanie dosuszania roślin w okresie zbioru."
+    },
+    {
+      "q": "Transpiracja to:",
+      "options": [
+        "pobieranie wody przez korzenie",
+        "parowanie z nadziemnych części roślin",
+        "skraplanie pary przy powierzchni ziemi",
+        "wsiąkanie wody w głąb gleby"
+      ],
+      "answer": 1,
+      "explain": "Transpiracja to parowanie z nadziemnych części roślin."
+    },
+    {
+      "q": "Który z wymienionych jest osadem atmosferycznym, a nie opadem?",
+      "options": [
+        "Mżawka",
+        "Szadź",
+        "Grad",
+        "Śnieg"
+      ],
+      "answer": 1,
+      "explain": "Osady (rosa, szron, szadź) powstają przez skroplenie pary przy powierzchni ziemi."
+    },
+    {
+      "q": "Dla wegetacji roślin najważniejsza jest:",
+      "options": [
+        "roczna suma opadów",
+        "ilość opadów zimowych",
+        "rozkład opadów w okresie wegetacji i ich natężenie",
+        "forma opadu – wyłącznie śnieg"
+      ],
+      "answer": 2,
+      "explain": "Najważniejsza nie jest ilość opadów, a ich rozkład w okresie wegetacji i natężenie."
+    },
+    {
+      "q": "Jak często w dużej części Polski zdarza się rok posuszny?",
+      "options": [
+        "Co dziesiąty rok",
+        "Co piąty rok",
+        "Przeciętnie co drugi rok",
+        "Każdego roku"
+      ],
+      "answer": 2,
+      "explain": "W dużej części kraju przeciętnie co drugi rok jest posuszny."
+    },
+    {
+      "q": "Klimat Polski określa się jako:",
+      "options": [
+        "przejściowy",
+        "oceaniczny",
+        "kontynentalny",
+        "subpolarny"
+      ],
+      "answer": 0,
+      "explain": "Polska leży między klimatem oceanicznym i kontynentalnym, dlatego jej klimat nazywamy przejściowym."
+    },
+    {
+      "q": "Gdzie w Polsce występuje największe nasłonecznienie?",
+      "options": [
+        "W pasie nadmorskim",
+        "W górach",
+        "Na Mazurach",
+        "W środkowej Polsce"
+      ],
+      "answer": 0,
+      "explain": "Największe nasłonecznienie jest w północnej części kraju, w pasie nadmorskim."
+    },
+    {
+      "q": "W niżu barycznym wiatry wieją:",
+      "options": [
+        "od środka układu, skręcając w prawo",
+        "ku środkowi układu, przeciwnie do ruchu wskazówek zegara",
+        "zawsze z zachodu",
+        "równolegle do izobar na zewnątrz"
+      ],
+      "answer": 1,
+      "explain": "W niżu wiatry wieją ku środkowi układu, przeciwnie do ruchu wskazówek zegara."
+    },
+    {
+      "q": "Ile razy na dobę wykonuje się pomiary w stacjach klimatologicznych?",
+      "options": [
+        "Raz",
+        "Dwa razy",
+        "Co godzinę",
+        "Trzy razy"
+      ],
+      "answer": 3,
+      "explain": "W stacjach klimatologicznych pomiary są trzy razy na dobę: 7:00, 13:00 i 19:00 CET."
+    },
+    {
+      "q": "Gdzie mierzy się ciśnienie atmosferyczne na stacji meteorologicznej?",
+      "options": [
+        "W klatce meteorologicznej",
+        "Przy deszczomierzu",
+        "Na maszcie wiatromierza",
+        "W pokoju obserwatora"
+      ],
+      "answer": 3,
+      "explain": "Pomiaru ciśnienia dokonuje się w pomieszczeniu – pokoju obserwatora."
+    },
+    {
+      "q": "Stopień zachmurzenia 4 oznacza, że chmury zakrywają:",
+      "options": [
+        "połowę nieba",
+        "jedną czwartą nieba",
+        "całe niebo",
+        "trzy czwarte nieba"
+      ],
+      "answer": 0,
+      "explain": "W skali 0–8 zakrycie 4/8, czyli połowy nieba, to stopień 4."
+    },
+    {
+      "q": "Na jakiej wysokości nad gruntem umieszcza się deszczomierz?",
+      "options": [
+        "0,5 m",
+        "1,5 m",
+        "1 m",
+        "2 m"
+      ],
+      "answer": 2,
+      "explain": "Deszczomierz umieszcza się w miejscu odsłoniętym, 1 m nad gruntem."
+    },
+    {
+      "q": "750 mm słupa rtęci odpowiada:",
+      "options": [
+        "750 hPa",
+        "1013 hPa",
+        "980 hPa",
+        "1000 hPa"
+      ],
+      "answer": 3,
+      "explain": "Materiał podaje, że 750 mm odpowiada 1000 hPa."
+    },
+    {
+      "q": "Prędkość wiatru mierzy się:",
+      "options": [
+        "barometrem",
+        "anemometrem",
+        "psychrometrem",
+        "aneroidem"
+      ],
+      "answer": 1,
+      "explain": "Prędkość wiatru mierzy się anemometrem, szacunkowo – skalą Beauforta."
+    },
+    {
+      "q": "Wiatr zachodni przy niskim ciśnieniu zwiastuje:",
+      "options": [
+        "słoneczną pogodę i suszę",
+        "ochłodzenie i opady",
+        "wzrost temperatury i burze",
+        "przymrozki"
+      ],
+      "answer": 1,
+      "explain": "Wiatr zachodni przy niskim ciśnieniu zapowiada ochłodzenie i opady."
+    },
+    {
+      "q": "Wiosną wysokie ciśnienie przy bezchmurnym niebie zapowiada:",
+      "options": [
+        "burze",
+        "ulewy",
+        "silny wiatr zachodni",
+        "przymrozki"
+      ],
+      "answer": 3,
+      "explain": "Wysokie ciśnienie wiosną przy bezchmurnym niebie zapowiada przymrozki."
+    }
+  ]
+}

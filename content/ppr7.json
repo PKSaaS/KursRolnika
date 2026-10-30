@@ -1,0 +1,768 @@
+{
+ "id": "ppr7",
+ "course": "Podstawy produkcji roślinnej",
+ "title": "Zwykła dobra praktyka rolnicza, zasady wzajemnej zgodności",
+ "number": "VII",
+ "notes": [
+  {
+   "heading": "Wprowadzenie",
+   "points": [
+    "Rolnictwo, wykorzystując zasoby środowiska naturalnego, wywiera olbrzymi pozytywny i negatywny wpływ na jego ukształtowanie.",
+    "Szybki rozwój rolnictwa doprowadził do nadprodukcji żywności, którą zaczęto limitować (kwoty mleczne, cukrowe, skrobiowe).",
+    "Niekorzystne relacje cen środków produkcji do cen otrzymywanych przez producentów wymuszają powiększanie gospodarstw kosztem słabszych tzw. gospodarstw socjalnych.",
+    "Większe areały wymagają droższych maszyn, co prowadzi do specjalizacji i ograniczenia liczby upraw w gospodarstwie.",
+    "Uproszczenie płodozmianu okupione jest większym zużyciem nawozów i środków ochrony roślin.",
+    "W produkcji zwierzęcej postępuje specjalizacja i powiększanie stad.",
+    "Stąd konieczność upowszechniania działań zawartych w pojęciu zwykłej dobrej praktyki rolniczej."
+   ]
+  },
+  {
+   "heading": "1. Podstawy prawne dobrej praktyki rolniczej",
+   "points": [
+    "Krajowe regulacje obejmują m.in. Konstytucję RP z 2 kwietnia 1997 r. (Dz.U. 1997 nr 78 poz. 483).",
+    "Ustawa z dnia 18 lipca 2001 r. Prawo wodne; Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu; Ustawa z dnia 14 grudnia 2012 r. o odpadach.",
+    "Ustawa z dnia 18 grudnia 2003 r. o ochronie roślin oraz Ustawa z dnia 8 marca 2013 r. o środkach ochrony roślin.",
+    "Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt; Ustawa z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt; Ustawa z dnia 16 kwietnia 2004 r. o ochronie przyrody.",
+    "Rozporządzenia Ministra Środowiska dotyczą m.in. wprowadzania ścieków do wód lub ziemi (24 lipca 2006 r.), komunalnych osadów ściekowych (1 sierpnia 2002 r.) oraz obszarów Natura 2000.",
+    "Ustawa z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego.",
+    "Rozporządzenie MRiRW z dnia 11 marca 2010 r. w sprawie minimalnych norm (Dz.U. nr 39, poz. 211) oraz z dnia 1 kwietnia 2010 r. w sprawie liczby punktów za niezgodności (Dz.U. nr 67 poz. 434).",
+    "Podstawy prawne UE: Rozporządzenie Komisji (WE) nr 1122/2009 z 30 listopada 2009 r. oraz Rozporządzenie Rady (WE) nr 73/2009 z 19 stycznia 2009 r.",
+    "Wymogi podstawowe – Punkt A (tab. 7.1): środowisko, zdrowie publiczne i zdrowie zwierząt, identyfikacja i rejestracja zwierząt – m.in. dyrektywa ptasia 2009/147/WE, azotanowa 91/676/EWG, siedliskowa 92/43/EWG, osadowa 86/278/EWG, wody podziemne 80/68/EWG.",
+    "Wymogi podstawowe – Punkt B (tab. 7.2): zdrowie publiczne, zdrowie zwierząt i roślin, zgłaszanie chorób – m.in. dyrektywa 91/414/EWG (środki ochrony roślin), rozporządzenie 178/2002 (prawo żywnościowe), dyrektywy o pryszczycy, chorobie pęcherzykowej świń i chorobie niebieskiego języka."
+   ]
+  },
+  {
+   "heading": "2. Zasady dobrej praktyki rolniczej",
+   "points": [
+    "Kodeks Dobrej Praktyki Rolniczej to pełny zbiór zasad i zaleceń prowadzenia gospodarstwa w sposób ograniczający zanieczyszczenia i degradację środowiska; opracowany w 1999 r., znowelizowany w 2004 r.",
+    "Zwykła dobra praktyka rolnicza (ZDPR) to mierzalne standardy ochrony środowiska w produkcji rolnej, obowiązkowe dla beneficjentów programu rolnośrodowiskowego i wsparcia na obszarach ONW.",
+    "ZDPR jest elementem Planu Rozwoju Obszarów Wiejskich (PROW) i obowiązuje od 1 maja 2004 r.",
+    "Zakres ZDPR: nawozy, ścieki, komunalne osady ściekowe, środki ochrony roślin, użytki zielone, czystość i porządek, ochrona siedlisk, gleby i zasobów wodnych.",
+    "Ścieki muszą być wstępnie oczyszczone, nie wolno ich stosować w uprawach roślin do bezpośredniego spożycia, muszą pochodzić z zakładów z pozwoleniem wodnoprawnym.",
+    "Komunalne osady ściekowe można stosować wyłącznie na gruntach o pH powyżej 5,6.",
+    "ZDPR jest obowiązkowa dla rolników na obszarach ONW, realizujących program rolnośrodowiskowy oraz na obszarach szczególnie narażonych (OSN).",
+    "Dawka azotu z nawozu naturalnego nie może przekraczać 170 kg na 1 ha użytków rolnych.",
+    "Na stokach o nachyleniu powyżej 12° (20%) wymagane jest stałe zadarnienie; obowiązuje zakaz wypalania roślinności; pożar zgłasza się na piśmie kierownikowi Biura Powiatowego ARiMR.",
+    "ZDPR kontroluje bezpośrednio w gospodarstwie ARiMR; po stwierdzeniu nieprawidłowości dalszą kontrolę prowadzą m.in. Inspekcja Ochrony Środowiska, Inspekcja Ochrony Roślin, Inspekcja Jakości Handlowej Artykułów Rolnych i Spożywczych."
+   ]
+  },
+  {
+   "heading": "3. Wzajemna zgodność – informacje podstawowe",
+   "points": [
+    "Podstawowe wymogi z zakresu zarządzania (SMR – Statutory Management Requirements) określa załącznik II do Rozporządzenia Rady (WE) nr 73/2009.",
+    "Dobra Kultura Rolna zgodna z ochroną środowiska (GAEC – Good Agricultural and Environmental Conditions) jest określona w załączniku III.",
+    "SMR i GAEC tworzą mechanizm zasady wzajemnej zgodności (ang. cross-compliance).",
+    "Wzajemna zgodność oznacza powiązanie wysokości płatności bezpośrednich i płatności z osi II PROW 2007–2013 (rolnośrodowiskowych, ONW, za zalesianie) ze spełnianiem wymogów.",
+    "Obszar A: ochrona środowiska naturalnego, identyfikacja i rejestracja zwierząt.",
+    "Obszar B: zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin.",
+    "Obszar C: dobrostan zwierząt.",
+    "Kontrole gospodarstw w tym zakresie wprowadzono od stycznia 2009 r., a za nieprzestrzeganie grozi pomniejszenie płatności.",
+    "Załącznik III dotyczy: erozji gleby, substancji organicznej gleby, struktury gleby, minimalnego poziomu utrzymania siedlisk oraz gospodarki zasobami wodnymi.",
+    "Przykłady norm GAEC (tab. 7.3): minimalna pokrywa glebowa, zagospodarowanie pola po zbiorze, zachowanie cech krajobrazu, ochrona trwałych użytków zielonych, strefy buforowe wzdłuż cieków wodnych."
+   ]
+  },
+  {
+   "heading": "4. Wymogi wzajemnej zgodności",
+   "points": [
+    "Od 2005 r. w Polsce obowiązują normy Dobrej Kultury Rolnej (GAEC).",
+    "Wymogi SMR wdrażano etapami: Obszar A od 1 stycznia 2009 r., Obszar B od 1 stycznia 2011 r., Obszar C od 1 stycznia 2013 r.",
+    "Normy GAEC zawarto w Rozporządzeniu MRiRW z 11 marca 2010 r. w sprawie minimalnych norm; dotyczą wszystkich gospodarstw posiadających grunty rolne.",
+    "Przy uprawie pszenicy, owsa, żyta lub jęczmienia na tej samej powierzchni dłużej niż 3 lata trzeba przyorać słomę, międzyplony lub obornik (co najmniej 10 ton na hektar), wymieszać je z glebą lub uprawiać międzyplony – albo złożyć oświadczenie do kierownika biura powiatowego ARiMR do 9 czerwca.",
+    "Grunty ugorowane i łąki/pastwiska kosi się (i usuwa okrywę) co najmniej raz w roku do 31 lipca lub prowadzi wypas (łąki, pastwiska).",
+    "Na obszarach zagrożonych erozją wodną okrywa roślinna od 1 grudnia do 15 lutego na co najmniej 40% powierzchni gruntów ornych.",
+    "Zagajniki o krótkiej rotacji: odstęp 1,5 m od sąsiedniej takiej samej plantacji lub gruntu leśnego, 3 m od gruntów rolnych; należy zachować oczka wodne o powierzchni mniejszej niż 100 m2.",
+    "Nawozy stosuje się co najmniej 5 m (gnojowicę 10 m) od brzegu jezior i zbiorników do 50 ha, cieków, rowów (z wyłączeniem rowów do 5 m szerokości) i kanałów; co najmniej 20 m od jezior powyżej 50 ha, stref ochronnych ujęć wody i pasa nadbrzeżnego.",
+    "Zakazy: wypalania gruntów, ciężkiego sprzętu przy wysyceniu gleby wodą, niszczenia pomników przyrody i rowów do 2 m, niszczenia siedlisk chronionych, nawadniania powyżej 5 m3 na dobę bez pozwolenia wodnoprawnego.",
+    "Trwałe użytki zielone: przy spadku ich udziału w Polsce o ponad 5% zmiana użytkowania wymaga zgody kierownika biura powiatowego ARiMR, przy spadku o ponad 8% zgody się odmawia; przywrócenie powierzchni do 15 maja roku następnego."
+   ]
+  },
+  {
+   "heading": "5. Sankcje za nieprzestrzeganie zasad",
+   "points": [
+    "Wymogi wzajemnej zgodności mają zagwarantować bezpieczeństwo zdrowotne żywności oraz chronić i poprawiać stan środowiska.",
+    "Za nieprzestrzeganie wymogów płatności zmniejsza się od 1% nawet do 100%.",
+    "Wysokość sankcji zależy od tego, czy działanie było nieświadome czy celowe, oraz od powtarzalności, zasięgu, dotkliwości i trwałości.",
+    "Zasięg: gospodarstwo, sąsiednie gospodarstwa, szerzej; dotkliwość: lekka, średnia, ciężka; trwałość: krótka, długa, nieodwracalna.",
+    "Tab. 7.4 – nieumyślność: 3–5 pkt = 1%, 7–11 pkt = 3%, 13–15 pkt = 5%.",
+    "Tab. 7.4 – celowość: 3–5 pkt = 15%, 7–11 pkt = 20%, 13 pkt = 25%, 15 pkt = 25–100%.",
+    "Szczegóły określa Rozporządzenie MRiRW z 1 kwietnia 2010 r. w sprawie liczby punktów przypisywanych niezgodności (Dz.U. Nr 67, poz. 434)."
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Kodeks Dobrej Praktyki Rolniczej",
+   "back": "Pełny zbiór zasad i zaleceń prowadzenia gospodarstwa rolnego w sposób ograniczający zanieczyszczenia i degradację środowiska. Opracowany w 1999 r., znowelizowany w 2004 r."
+  },
+  {
+   "front": "Zwykła dobra praktyka rolnicza (ZDPR)",
+   "back": "Mierzalne standardy dotyczące ochrony środowiska w produkcji rolnej, obowiązkowe dla beneficjentów programu rolnośrodowiskowego i wsparcia na obszarach o niekorzystnych warunkach gospodarowania (ONW)."
+  },
+  {
+   "front": "Od kiedy obowiązuje ZDPR?",
+   "back": "Od 1 maja 2004 r.; jest elementem Planu Rozwoju Obszarów Wiejskich (PROW)."
+  },
+  {
+   "front": "ONW",
+   "back": "Obszary o niekorzystnych warunkach gospodarowania."
+  },
+  {
+   "front": "OSN",
+   "back": "Obszary szczególnie narażone (na zanieczyszczenie azotanami); rolnicy na OSN muszą przestrzegać ZDPR."
+  },
+  {
+   "front": "PROW",
+   "back": "Plan/Program Rozwoju Obszarów Wiejskich; ZDPR jest jego elementem."
+  },
+  {
+   "front": "Dla kogo zasady ZDPR są obowiązkowe?",
+   "back": "Dla rolników gospodarujących na obszarach ONW, realizujących program rolnośrodowiskowy oraz gospodarujących na obszarach szczególnie narażonych (OSN)."
+  },
+  {
+   "front": "Zakres ZDPR",
+   "back": "Stosowanie i przechowywanie nawozów, ścieków, komunalnych osadów ściekowych, środków ochrony roślin, gospodarowanie na użytkach zielonych, czystość i porządek, ochrona siedlisk, gleby i zasobów wodnych."
+  },
+  {
+   "front": "Warunki stosowania ścieków w gospodarstwie",
+   "back": "Muszą być wstępnie oczyszczone, spełniać normy sanitarne, pochodzić z zakładów z pozwoleniem wodnoprawnym; nie wolno ich stosować w uprawach roślin do bezpośredniego spożycia przez ludzi i zwierzęta."
+  },
+  {
+   "front": "Przy jakim pH gleby można stosować komunalne osady ściekowe?",
+   "back": "Wyłącznie na gruntach o pH powyżej 5,6, przy zawartości metali ciężkich określonej w rozporządzeniu Ministra Środowiska."
+  },
+  {
+   "front": "Maksymalna dawka azotu z nawozu naturalnego",
+   "back": "170 kg N na 1 ha użytków rolnych."
+  },
+  {
+   "front": "Jakie dokumenty musi mieć rolnik stosujący ścieki?",
+   "back": "Kopię pozwolenia wodnoprawnego, wyniki analiz gleby oraz plan nawożenia uwzględniający stosowane ścieki."
+  },
+  {
+   "front": "Jakie dokumenty musi mieć rolnik stosujący komunalne osady ściekowe?",
+   "back": "Plan nawożenia z dawką osadów, wyniki analiz osadów oraz analizy gleby na zawartość metali ciężkich i fosforu wykonane bezpośrednio przed zastosowaniem osadu."
+  },
+  {
+   "front": "Kontrola ZDPR w zakresie środków ochrony roślin",
+   "back": "Czy ŚOR są dopuszczone do obrotu (dokument zakupu), czy stosowano je zgodnie z instrukcją (ewidencja zabiegów), czy rolnik ma aktualne zaświadczenie o przeszkoleniu i atest opryskiwacza."
+  },
+  {
+   "front": "Zakaz wypalania – czego dotyczy?",
+   "back": "Roślinności na łąkach, pastwiskach, nieużytkach, rowach, pasach przydrożnych, szlakach kolejowych, w strefie oczeretów i trzcin, a także miedz, ściernisk i słomy."
+  },
+  {
+   "front": "Komu zgłosić pożar łąki lub ścierniska?",
+   "back": "Na piśmie kierownikowi Biura Powiatowego ARiMR."
+  },
+  {
+   "front": "Stałe zadarnienie – na jakich stokach?",
+   "back": "Na stokach o nachyleniu powyżej 12° (20%)."
+  },
+  {
+   "front": "Ochrona wody w ZDPR",
+   "back": "Ścieki bytowe nie mogą być odprowadzane bezpośrednio do wód powierzchniowych ani dołów ziemnych; szamba i doły kloaczne muszą być szczelne."
+  },
+  {
+   "front": "Kto bezpośrednio kontroluje ZDPR w gospodarstwie?",
+   "back": "Agencja Restrukturyzacji i Modernizacji Rolnictwa (ARiMR)."
+  },
+  {
+   "front": "Kto prowadzi dalszą kontrolę po stwierdzeniu nieprawidłowości w ZDPR?",
+   "back": "Inspekcja Ochrony Środowiska, Inspekcja Ochrony Roślin, Inspekcja Jakości Handlowej Artykułów Rolnych i Spożywczych oraz służby ochrony środowiska samorządu i wojewody lub parku narodowego."
+  },
+  {
+   "front": "SMR",
+   "back": "Statutory Management Requirements – podstawowe wymogi z zakresu zarządzania, określone w załączniku II do Rozporządzenia Rady (WE) nr 73/2009."
+  },
+  {
+   "front": "GAEC",
+   "back": "Good Agricultural and Environmental Conditions – utrzymanie gruntów w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska; załącznik III do Rozporządzenia Rady (WE) nr 73/2009."
+  },
+  {
+   "front": "Zasada wzajemnej zgodności (cross-compliance)",
+   "back": "Powiązanie wysokości płatności bezpośrednich i niektórych płatności PROW 2007–2013 ze spełnianiem przez beneficjentów wymogów SMR i GAEC."
+  },
+  {
+   "front": "Które płatności PROW 2007–2013 objęto wzajemną zgodnością?",
+   "back": "Płatności z osi II: rolnośrodowiskowe, ONW (obszary górskie i inne o niekorzystnych warunkach) oraz za zalesianie gruntów rolnych."
+  },
+  {
+   "front": "Obszar A wymogów SMR",
+   "back": "Ochrona środowiska naturalnego oraz identyfikacja i rejestracja zwierząt."
+  },
+  {
+   "front": "Obszar B wymogów SMR",
+   "back": "Zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin."
+  },
+  {
+   "front": "Obszar C wymogów SMR",
+   "back": "Dobrostan zwierząt."
+  },
+  {
+   "front": "Od kiedy obowiązuje Obszar A?",
+   "back": "Od 1 stycznia 2009 r."
+  },
+  {
+   "front": "Od kiedy obowiązuje Obszar B?",
+   "back": "Od 1 stycznia 2011 r."
+  },
+  {
+   "front": "Od kiedy obowiązuje Obszar C?",
+   "back": "Od 1 stycznia 2013 r."
+  },
+  {
+   "front": "Od kiedy w Polsce obowiązują normy Dobrej Kultury Rolnej (GAEC)?",
+   "back": "Od 2005 r."
+  },
+  {
+   "front": "Kwestie objęte załącznikiem III Rozporządzenia 73/2009",
+   "back": "Erozja gleby, substancja organiczna gleby, struktura gleby, minimalny poziom utrzymania i przeciwdziałanie niszczeniu siedlisk, gospodarka zasobami wodnymi."
+  },
+  {
+   "front": "Rozporządzenie Rady (WE) nr 73/2009",
+   "back": "Rozporządzenie z 19 stycznia 2009 r. ustanawiające wspólne zasady systemów wsparcia bezpośredniego w ramach WPR; zał. II – SMR, zał. III – GAEC."
+  },
+  {
+   "front": "Rozporządzenie w sprawie minimalnych norm",
+   "back": "Rozporządzenie MRiRW z dnia 11 marca 2010 r. (Dz.U. Nr 39, poz. 211) – zawiera normy GAEC; dotyczy wszystkich gospodarstw posiadających grunty rolne."
+  },
+  {
+   "front": "Do czego wykorzystuje się grunt orny wg minimalnych norm?",
+   "back": "Do uprawy roślin lub ugorowania."
+  },
+  {
+   "front": "Uprawa zbóż w monokulturze ponad 3 lata – obowiązek",
+   "back": "Przy pszenicy, owsie, życie lub jęczmieniu na tej samej powierzchni dłużej niż 3 lata: przyoranie słomy, międzyplonów lub obornika (min. 10 t/ha), wymieszanie słomy/międzyplonów z glebą lub uprawa międzyplonów – albo oświadczenie do ARiMR."
+  },
+  {
+   "front": "Minimalna dawka obornika przy przyorywaniu (monokultura zbożowa)",
+   "back": "Co najmniej 10 ton na hektar."
+  },
+  {
+   "front": "Termin złożenia oświadczenia o zamiarze wykonania zabiegu (monokultura zbożowa)",
+   "back": "Do 9 czerwca roku poprzedzającego rok zabiegu wiosennego lub roku, w którym zabieg ma być wykonany jesienią – do kierownika biura powiatowego ARiMR."
+  },
+  {
+   "front": "Koszenie gruntów ugorowanych",
+   "back": "Co najmniej raz w roku do 31 lipca (koszenie lub inne zabiegi zapobiegające chwastom)."
+  },
+  {
+   "front": "Łąki i pastwiska – minimalna norma",
+   "back": "Koszenie i usuwanie okrywy roślinnej co najmniej raz w roku do 31 lipca lub wypasanie zwierząt."
+  },
+  {
+   "front": "Okrywa roślinna na obszarach zagrożonych erozją wodną",
+   "back": "Od 1 grudnia do 15 lutego na co najmniej 40% powierzchni gruntów ornych gospodarstwa."
+  },
+  {
+   "front": "Odstępy dla zagajników o krótkiej rotacji",
+   "back": "1,5 m od granicy działki z taką samą plantacją lub gruntu leśnego; 3 m od działek użytkowanych jako grunt rolny."
+  },
+  {
+   "front": "Oczka wodne – minimalna norma",
+   "back": "Należy zachować w obrębie działki rolnej oczka wodne o łącznej powierzchni mniejszej niż 100 m2."
+  },
+  {
+   "front": "Odległość stosowania nawozów od cieków i małych zbiorników",
+   "back": "Co najmniej 5 m (gnojowica co najmniej 10 m) od brzegu jezior i zbiorników do 50 ha, cieków, rowów (z wyłączeniem rowów do 5 m szerokości) i kanałów."
+  },
+  {
+   "front": "Odległość 20 m przy stosowaniu nawozów",
+   "back": "Od brzegu jezior i zbiorników powyżej 50 ha, stref ochronnych ujęć wody oraz obszarów morskiego pasa nadbrzeżnego."
+  },
+  {
+   "front": "Zakazy obowiązujące rolnika wg minimalnych norm",
+   "back": "Wypalania gruntów, zabiegów ciężkim sprzętem przy wysyceniu gleby wodą, niszczenia pomników przyrody i rowów do 2 m, niszczenia siedlisk chronionych, nawadniania ponad 5 m3/dobę bez pozwolenia wodnoprawnego."
+  },
+  {
+   "front": "Nawadnianie bez pozwolenia wodnoprawnego – limit",
+   "back": "Zakazany jest pobór wody do nawadniania w ilości większej niż 5 m3 na dobę bez pozwolenia wodnoprawnego."
+  },
+  {
+   "front": "Stoki powyżej 20% – czego nie wolno?",
+   "back": "Uprawiać roślin wymagających redlin wzdłuż stoku ani utrzymywać tych gruntów jako ugór czarny."
+  },
+  {
+   "front": "Trwałe użytki zielone – spadek o ponad 5%",
+   "back": "Zmiana sposobu użytkowania TUZ w danym roku wymaga zgody kierownika biura powiatowego ARiMR."
+  },
+  {
+   "front": "Trwałe użytki zielone – spadek o ponad 8%",
+   "back": "Kierownik biura powiatowego ARiMR odmawia zgody na przekształcenie."
+  },
+  {
+   "front": "Termin przywrócenia przekształconych TUZ",
+   "back": "Do 15 maja roku następnego."
+  },
+  {
+   "front": "Cel wymagań wzajemnej zgodności",
+   "back": "Zagwarantowanie bezpieczeństwa zdrowotnego żywności pochodzenia roślinnego i zwierzęcego oraz ochrona i poprawa stanu środowiska naturalnego."
+  },
+  {
+   "front": "Zakres zmniejszenia płatności za niezgodności",
+   "back": "Od 1% nawet do 100%."
+  },
+  {
+   "front": "Od czego zależy wysokość sankcji?",
+   "back": "Od tego, czy działanie było nieświadome czy celowe, oraz od powtarzalności, zasięgu, dotkliwości i trwałości."
+  },
+  {
+   "front": "Stopnie dotkliwości niezgodności",
+   "back": "Lekka, średnia, ciężka."
+  },
+  {
+   "front": "Stopnie trwałości niezgodności",
+   "back": "Krótka, długa, nieodwracalna."
+  },
+  {
+   "front": "Zasięg niezgodności",
+   "back": "Gospodarstwo, sąsiednie gospodarstwa, szerzej."
+  },
+  {
+   "front": "Sankcja: 3 lub 5 punktów",
+   "back": "Nieumyślność – 1%, celowość – 15% zmniejszenia płatności."
+  },
+  {
+   "front": "Sankcja: 7, 9 lub 11 punktów",
+   "back": "Nieumyślność – 3%, celowość – 20% zmniejszenia płatności."
+  },
+  {
+   "front": "Sankcja: 13 punktów",
+   "back": "Nieumyślność – 5%, celowość – 25% zmniejszenia płatności."
+  },
+  {
+   "front": "Sankcja: 15 punktów",
+   "back": "Nieumyślność – 5%, celowość – 25–100% zmniejszenia płatności."
+  },
+  {
+   "front": "Dyrektywa azotanowa",
+   "back": "Dyrektywa Rady 91/676/EWG z 12 grudnia 1991 r. dotycząca ochrony wód przed zanieczyszczeniami azotanami pochodzenia rolniczego (Punkt A)."
+  },
+  {
+   "front": "Dyrektywa ptasia",
+   "back": "Dyrektywa 2009/147/WE z 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Punkt A)."
+  },
+  {
+   "front": "Dyrektywa siedliskowa",
+   "back": "Dyrektywa Rady 92/43/EWG z 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Punkt A)."
+  },
+  {
+   "front": "Dyrektywa 86/278/EWG",
+   "back": "Ochrona środowiska, w szczególności gleby, przy wykorzystywaniu osadów ściekowych w rolnictwie (Punkt A)."
+  },
+  {
+   "front": "Rozporządzenie (WE) nr 178/2002",
+   "back": "Ustanawia ogólne zasady prawa żywnościowego i powołuje Europejski Urząd ds. Bezpieczeństwa Żywności (Punkt B)."
+  },
+  {
+   "front": "Identyfikacja i rejestracja zwierząt – akty prawne (Punkt A)",
+   "back": "Świnie – dyrektywa 2008/71/WE; bydło – rozporządzenie (WE) nr 1760/2000; owce i kozy – rozporządzenie (WE) nr 21/2004."
+  },
+  {
+   "front": "Choroby zwierząt w Punkcie B",
+   "back": "Gąbczaste encefalopatie (999/2001), pryszczyca (85/511/EWG), choroba pęcherzykowa świń (92/119/EWG), choroba niebieskiego języka (2000/75/WE)."
+  },
+  {
+   "front": "Skutki intensyfikacji rolnictwa (wprowadzenie)",
+   "back": "Nadprodukcja żywności i jej limitowanie (kwoty mleczne, cukrowe, skrobiowe), specjalizacja, uproszczenie płodozmianu oraz większe zużycie nawozów i środków ochrony roślin."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Od kiedy obowiązuje zwykła dobra praktyka rolnicza (ZDPR)?",
+   "options": [
+    "1 stycznia 2009 r.",
+    "1 maja 2004 r.",
+    "1 stycznia 2005 r.",
+    "1 maja 1999 r."
+   ],
+   "answer": 1,
+   "explain": "ZDPR jest elementem PROW i obowiązuje od 1 maja 2004 r."
+  },
+  {
+   "q": "W którym roku opracowano Kodeks Dobrej Praktyki Rolniczej?",
+   "options": [
+    "1997",
+    "2004",
+    "1999",
+    "2009"
+   ],
+   "answer": 2,
+   "explain": "Kodeks opracowano w 1999 r. i znowelizowano w 2004 r."
+  },
+  {
+   "q": "Jaka jest maksymalna dawka azotu z nawozów naturalnych na 1 ha użytków rolnych?",
+   "options": [
+    "170 kg",
+    "120 kg",
+    "210 kg",
+    "250 kg"
+   ],
+   "answer": 0,
+   "explain": "Kontrola ZDPR sprawdza, czy dawka azotu z nawozu naturalnego nie przekracza 170 kg na 1 ha UR."
+  },
+  {
+   "q": "Komunalne osady ściekowe można stosować wyłącznie na gruntach o pH:",
+   "options": [
+    "poniżej 5,6",
+    "powyżej 4,5",
+    "powyżej 7,0",
+    "powyżej 5,6"
+   ],
+   "answer": 3,
+   "explain": "Według ZDPR osady stosuje się wyłącznie na gruntach o pH powyżej 5,6."
+  },
+  {
+   "q": "Dla których rolników zasady ZDPR NIE są wymieniane jako obowiązkowe?",
+   "options": [
+    "Gospodarujących na obszarach ONW",
+    "Realizujących program rolnośrodowiskowy",
+    "Gospodarujących na obszarach OSN",
+    "Prowadzących wyłącznie agroturystykę bez płatności"
+   ],
+   "answer": 3,
+   "explain": "ZDPR jest obowiązkowa dla rolników na ONW, w programie rolnośrodowiskowym i na OSN."
+  },
+  {
+   "q": "Na stokach o jakim nachyleniu wymagane jest stałe zadarnienie (ZDPR)?",
+   "options": [
+    "Powyżej 5°",
+    "Powyżej 12° (20%)",
+    "Powyżej 30°",
+    "Powyżej 8° (10%)"
+   ],
+   "answer": 1,
+   "explain": "Kontrola ochrony gleby sprawdza stałe zadarnienie na stokach powyżej 12° (20%)."
+  },
+  {
+   "q": "Który organ bezpośrednio kontroluje ZDPR w gospodarstwie?",
+   "options": [
+    "Inspekcja Ochrony Roślin",
+    "Wojewódzki Inspektorat Ochrony Środowiska",
+    "ARiMR",
+    "Gmina"
+   ],
+   "answer": 2,
+   "explain": "Organem kontrolującym bezpośrednio w gospodarstwie jest ARiMR; inne służby prowadzą dalszą kontrolę."
+  },
+  {
+   "q": "Pożar na łące lub ściernisku rolnik powinien zgłosić na piśmie:",
+   "options": [
+    "kierownikowi Biura Powiatowego ARiMR",
+    "wójtowi gminy",
+    "Inspekcji Ochrony Roślin",
+    "staroście"
+   ],
+   "answer": 0,
+   "explain": "Kontrola ZDPR sprawdza, czy rolnik powiadomił na piśmie kierownika Biura Powiatowego ARiMR."
+  },
+  {
+   "q": "Skrót GAEC oznacza:",
+   "options": [
+    "podstawowe wymogi z zakresu zarządzania",
+    "Dobrą Kulturę Rolną zgodną z ochroną środowiska",
+    "obszary szczególnie narażone",
+    "zintegrowany system zarządzania i kontroli"
+   ],
+   "answer": 1,
+   "explain": "GAEC – Good Agricultural and Environmental Conditions, czyli Dobra Kultura Rolna zgodna z ochroną środowiska."
+  },
+  {
+   "q": "W którym załączniku Rozporządzenia Rady (WE) nr 73/2009 określono podstawowe wymogi z zakresu zarządzania (SMR)?",
+   "options": [
+    "Załącznik I",
+    "Załącznik III",
+    "Załącznik IV",
+    "Załącznik II"
+   ],
+   "answer": 3,
+   "explain": "SMR określono w załączniku II, a GAEC w załączniku III."
+  },
+  {
+   "q": "Angielska nazwa zasady wzajemnej zgodności to:",
+   "options": [
+    "cross-compliance",
+    "greening",
+    "good farming",
+    "modulation"
+   ],
+   "answer": 0,
+   "explain": "Wymogi SMR i GAEC tworzą mechanizm zwany zasadą wzajemnej zgodności (cross-compliance)."
+  },
+  {
+   "q": "Dobrostan zwierząt należy do obszaru:",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "GAEC"
+   ],
+   "answer": 2,
+   "explain": "Obszar C obejmuje dobrostan zwierząt."
+  },
+  {
+   "q": "Identyfikacja i rejestracja zwierząt należy do obszaru:",
+   "options": [
+    "B",
+    "A",
+    "C",
+    "Żadnego z nich"
+   ],
+   "answer": 1,
+   "explain": "Obszar A obejmuje ochronę środowiska oraz identyfikację i rejestrację zwierząt."
+  },
+  {
+   "q": "Zdrowotność roślin i zgłaszanie chorób zwierząt to obszar:",
+   "options": [
+    "A",
+    "C",
+    "GAEC",
+    "B"
+   ],
+   "answer": 3,
+   "explain": "Obszar B obejmuje zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób oraz zdrowotność roślin."
+  },
+  {
+   "q": "Od kiedy obowiązują wymogi z Obszaru B?",
+   "options": [
+    "1 stycznia 2011 r.",
+    "1 stycznia 2009 r.",
+    "1 stycznia 2013 r.",
+    "1 maja 2004 r."
+   ],
+   "answer": 0,
+   "explain": "Obszar A – od 2009 r., Obszar B – od 1 stycznia 2011 r., Obszar C – od 2013 r."
+  },
+  {
+   "q": "Od kiedy obowiązują wymogi z Obszaru C?",
+   "options": [
+    "1 stycznia 2009 r.",
+    "1 stycznia 2011 r.",
+    "1 stycznia 2013 r.",
+    "1 stycznia 2005 r."
+   ],
+   "answer": 2,
+   "explain": "Wymogi z Obszaru C obowiązują od 1 stycznia 2013 r."
+  },
+  {
+   "q": "Od którego roku w Polsce obowiązują normy GAEC?",
+   "options": [
+    "2004",
+    "2005",
+    "2009",
+    "2010"
+   ],
+   "answer": 1,
+   "explain": "Od 2005 r. obowiązują normy z zakresu Dobrej Kultury Rolnej."
+  },
+  {
+   "q": "Ile lat można uprawiać pszenicę, owies, żyto lub jęczmień na tej samej powierzchni bez dodatkowych zabiegów?",
+   "options": [
+    "2 lata",
+    "4 lata",
+    "5 lat",
+    "3 lata"
+   ],
+   "answer": 3,
+   "explain": "Obowiązek zabiegów dotyczy uprawy tych zbóż na tej samej powierzchni dłużej niż 3 lata."
+  },
+  {
+   "q": "Minimalna ilość przyoranego obornika przy wieloletniej uprawie zbóż na tym samym polu wynosi:",
+   "options": [
+    "10 ton na hektar",
+    "5 ton na hektar",
+    "20 ton na hektar",
+    "30 ton na hektar"
+   ],
+   "answer": 0,
+   "explain": "Rozporządzenie wymaga przyorania obornika w ilości co najmniej 10 ton na hektar."
+  },
+  {
+   "q": "Do kiedy należy złożyć oświadczenie o zamiarze przyorania słomy/międzyplonów w kontekście monokultury zbożowej?",
+   "options": [
+    "Do 31 lipca",
+    "Do 15 maja",
+    "Do 9 czerwca",
+    "Do 1 grudnia"
+   ],
+   "answer": 2,
+   "explain": "Oświadczenie składa się kierownikowi biura powiatowego ARiMR do dnia 9 czerwca."
+  },
+  {
+   "q": "Grunty ugorowane należy kosić co najmniej raz w roku w terminie do:",
+   "options": [
+    "30 czerwca",
+    "31 lipca",
+    "15 sierpnia",
+    "30 września"
+   ],
+   "answer": 1,
+   "explain": "Koszenie lub inne zabiegi przeciw chwastom na ugorach – co najmniej raz w roku do 31 lipca."
+  },
+  {
+   "q": "Na obszarach zagrożonych erozją wodną okrywę roślinną od 1 grudnia do 15 lutego należy utrzymać na co najmniej:",
+   "options": [
+    "25% gruntów ornych",
+    "50% gruntów ornych",
+    "60% gruntów ornych",
+    "40% gruntów ornych"
+   ],
+   "answer": 3,
+   "explain": "Wymóg dotyczy co najmniej 40% powierzchni gruntów ornych gospodarstwa."
+  },
+  {
+   "q": "Minimalny odstęp zagajnika o krótkiej rotacji od działki użytkowanej jako grunt rolny wynosi:",
+   "options": [
+    "3 m",
+    "1,5 m",
+    "5 m",
+    "10 m"
+   ],
+   "answer": 0,
+   "explain": "Odstęp od gruntów rolnych to 3 m; od takiej samej plantacji lub gruntu leśnego – 1,5 m."
+  },
+  {
+   "q": "Należy zachować w obrębie działki rolnej oczka wodne o łącznej powierzchni:",
+   "options": [
+    "większej niż 1 ha",
+    "mniejszej niż 100 m2",
+    "mniejszej niż 10 m2",
+    "większej niż 500 m2"
+   ],
+   "answer": 1,
+   "explain": "Minimalne normy nakazują zachować oczka wodne o łącznej powierzchni mniejszej niż 100 m2."
+  },
+  {
+   "q": "W jakiej minimalnej odległości od brzegu cieku wodnego można stosować gnojowicę?",
+   "options": [
+    "5 m",
+    "20 m",
+    "10 m",
+    "2 m"
+   ],
+   "answer": 2,
+   "explain": "Nawozy – co najmniej 5 m, a gnojowicę co najmniej 10 m od brzegu cieków wodnych."
+  },
+  {
+   "q": "Nawozy można stosować w odległości co najmniej 20 m od:",
+   "options": [
+    "rowów do 5 m szerokości",
+    "jezior do 50 ha",
+    "kanałów",
+    "stref ochronnych ujęć wody"
+   ],
+   "answer": 3,
+   "explain": "20 m obowiązuje od jezior powyżej 50 ha, stref ochronnych ujęć wody i pasa nadbrzeżnego."
+  },
+  {
+   "q": "Pobór wody do nawadniania bez pozwolenia wodnoprawnego jest zakazany w ilości większej niż:",
+   "options": [
+    "5 m3 na dobę",
+    "10 m3 na dobę",
+    "1 m3 na dobę",
+    "50 m3 na dobę"
+   ],
+   "answer": 0,
+   "explain": "Zakaz dotyczy nawadniania w ilości większej niż 5 m3 na dobę bez pozwolenia wodnoprawnego."
+  },
+  {
+   "q": "Rolnik nie może niszczyć w obrębie działki rolnej rowów o szerokości do:",
+   "options": [
+    "5 m",
+    "2 m",
+    "1 m",
+    "10 m"
+   ],
+   "answer": 1,
+   "explain": "Obowiązuje zakaz niszczenia drzew będących pomnikami przyrody lub rowów do 2 m szerokości."
+  },
+  {
+   "q": "Gdy udział trwałych użytków zielonych w Polsce zmaleje o więcej niż 8%, kierownik biura powiatowego ARiMR:",
+   "options": [
+    "wydaje zgodę automatycznie",
+    "nakłada karę 5%",
+    "odmawia zgody na przekształcenie",
+    "przekazuje sprawę wojewodzie"
+   ],
+   "answer": 2,
+   "explain": "Przy spadku o ponad 8% kierownik odmawia zgody; przy ponad 5% zgoda jest wymagana."
+  },
+  {
+   "q": "Rolnicy, którzy przekształcili trwałe użytki zielone, muszą przywrócić powierzchnię do:",
+   "options": [
+    "31 lipca tego samego roku",
+    "9 czerwca roku następnego",
+    "31 grudnia roku następnego",
+    "15 maja roku następnego"
+   ],
+   "answer": 3,
+   "explain": "Obowiązek przywrócenia wskazanej powierzchni do dnia 15 maja roku następnego."
+  },
+  {
+   "q": "W jakim zakresie może zostać zmniejszona płatność za nieprzestrzeganie wymogów wzajemnej zgodności?",
+   "options": [
+    "Od 1% do 100%",
+    "Od 5% do 50%",
+    "Od 3% do 25%",
+    "Tylko o stałe 20%"
+   ],
+   "answer": 0,
+   "explain": "Kwota płatności ulega zmniejszeniu od 1% nawet do 100%."
+  },
+  {
+   "q": "Jakie zmniejszenie płatności grozi za niezgodność celową ocenioną na 7 punktów?",
+   "options": [
+    "3%",
+    "15%",
+    "20%",
+    "25%"
+   ],
+   "answer": 2,
+   "explain": "Wg tab. 7.4 przy 7, 9 i 11 pkt celowość oznacza 20% (nieumyślność – 3%)."
+  },
+  {
+   "q": "Jakie zmniejszenie płatności grozi za niezgodność nieumyślną ocenioną na 13 punktów?",
+   "options": [
+    "1%",
+    "5%",
+    "3%",
+    "25%"
+   ],
+   "answer": 1,
+   "explain": "Wg tab. 7.4 przy 13 i 15 pkt nieumyślność oznacza 5%."
+  },
+  {
+   "q": "Które kryterium NIE wpływa na wysokość sankcji za niezgodność?",
+   "options": [
+    "Dotkliwość",
+    "Zasięg",
+    "Trwałość",
+    "Powierzchnia gospodarstwa"
+   ],
+   "answer": 3,
+   "explain": "Sankcja zależy od celowości oraz powtarzalności, zasięgu, dotkliwości i trwałości."
+  },
+  {
+   "q": "Dyrektywa Rady 91/676/EWG dotyczy:",
+   "options": [
+    "ochrony wód przed azotanami pochodzenia rolniczego",
+    "ochrony dzikiego ptactwa",
+    "identyfikacji i rejestracji świń",
+    "zwalczania pryszczycy"
+   ],
+   "answer": 0,
+   "explain": "Dyrektywa 91/676/EWG dotyczy ochrony wód przed zanieczyszczeniami azotanami pochodzenia rolniczego."
+  },
+  {
+   "q": "Które płatności NIE są wymienione jako objęte zasadą wzajemnej zgodności w ramach PROW 2007–2013?",
+   "options": [
+    "Rolnośrodowiskowe",
+    "ONW",
+    "Za zalesianie gruntów rolnych",
+    "Premie dla młodych rolników"
+   ],
+   "answer": 3,
+   "explain": "Wzajemna zgodność obejmuje płatności z osi II: rolnośrodowiskowe, ONW i za zalesianie."
+  }
+ ]
+}

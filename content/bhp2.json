@@ -1,0 +1,947 @@
+{
+ "id": "bhp2",
+ "course": "Teoria BHP",
+ "title": "Prawo pracy, obowiązki bhp i instytucje nadzoru nad warunkami pracy",
+ "number": "II",
+ "notes": [
+  {
+   "heading": "I. Kodeks pracy i inne źródła prawa pracy",
+   "points": [
+    "Kodeks pracy — podstawowy akt prawny określający obowiązki pracodawców wobec pracowników, w tym zapewnienie bezpiecznych i higienicznych warunków pracy.",
+    "Obowiązuje ustawa z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94).",
+    "Kodeks pracy składa się z 15 działów; dział dziesiąty to „Bezpieczeństwo i higiena pracy”.",
+    "Inne działy m.in.: drugi — Stosunek pracy, szósty — Czas pracy, siódmy — Urlopy pracownicze, dziewiąty — Zatrudnianie młodocianych, trzynasty — Odpowiedzialność za wykroczenia przeciwko prawom pracownika.",
+    "Oddzielne ustawy regulują kwestie ujęte w Kodeksie częściowo, np. czas pracy kierowców.",
+    "Źródłem prawa pracy są też akty wykonawcze (rozporządzenia ministrów).",
+    "Układy zbiorowe pracy, porozumienia, regulaminy i statuty muszą być zgodne z aktami państwowymi i nie mogą zawierać postanowień mniej korzystnych dla pracowników."
+   ]
+  },
+  {
+   "heading": "II.1–3. Pracodawca — definicja, obowiązki i prawa",
+   "points": [
+    "Pracodawca — osoba fizyczna, osoba prawna lub jednostka organizacyjna bez osobowości prawnej, która zatrudnia pracowników.",
+    "Pracodawca informuje pracownika na piśmie w ciągu 7 dni od zawarcia umowy o normach czasu pracy, wypłacie, urlopie i okresie wypowiedzenia.",
+    "Nie można wypowiedzieć umowy pracownikowi, któremu brakuje nie więcej niż 4 lata do wieku emerytalnego (jeśli staż daje prawo do emerytury), ani w czasie urlopu i usprawiedliwionej nieobecności.",
+    "Rozwiązanie umowy bez wypowiedzenia z powodu choroby możliwe m.in., gdy niezdolność do pracy trwa dłużej niż 3 miesiące przy zatrudnieniu krótszym niż 6 miesięcy.",
+    "Po umorzeniu postępowania lub uniewinnieniu pracodawca musi ponownie zatrudnić aresztowanego pracownika, jeśli zgłosi powrót w ciągu 7 dni od uprawomocnienia orzeczenia.",
+    "Pracodawca zatrudniający co najmniej 20 pracowników (bez układu zbiorowego) ustala regulamin wynagradzania.",
+    "Pracodawca ponosi odpowiedzialność za stan bhp w zakładzie i chroni zdrowie i życie pracowników, wykorzystując osiągnięcia nauki i techniki.",
+    "Za naruszenie porządku, przepisów bhp lub ppoż. pracodawca może stosować karę upomnienia lub karę nagany.",
+    "W razie nieuzasadnionego rozwiązania umowy bez wypowiedzenia przez pracownika pracodawcy przysługuje odszkodowanie (orzeka sąd pracy)."
+   ]
+  },
+  {
+   "heading": "II.4–8. Pracownik i formy zatrudnienia",
+   "points": [
+    "Pracownik — osoba fizyczna zatrudniona na podstawie umowy o pracę, powołania, wyboru, mianowania lub spółdzielczej umowy o pracę.",
+    "Pracownikiem nie jest osoba pracująca na umowie o dzieło lub zleceniu; osoba prawna nie może być pracownikiem.",
+    "Młodociany — osoba, która ukończyła 16 lat, a nie ukończyła 18 lat; może być pracownikiem pod pewnymi warunkami.",
+    "Stosunek pracy: praca pod kierownictwem pracodawcy, w miejscu i czasie przez niego wyznaczonym, osobiście; ryzyko gospodarcze ponosi pracodawca.",
+    "Stosunek cywilnoprawny (umowa zlecenie, o dzieło, agencyjna, przewozu): brak kierownictwa, brak bezwzględnego obowiązku osobistej pracy, ryzyko ponosi osoba zatrudniona.",
+    "Strony umowy cywilnoprawnej to zleceniodawca i zleceniobiorca lub zlecający dzieło i wykonawca dzieła.",
+    "Umowa o dzieło z własnym pracodawcą (lub wykonywana na jego rzecz) podlega składkom ZUS (art. 8 ust. 2a ustawy z 13.10.1998 r. o systemie ubezpieczeń społecznych).",
+    "Zakazane jest zastępowanie umowy o pracę umową cywilnoprawną, jeśli praca odbywa się pod kierownictwem, w miejscu i czasie wyznaczonym przez pracodawcę."
+   ]
+  },
+  {
+   "heading": "II.9. Szczegółowe obowiązki pracodawcy w zakresie bhp",
+   "points": [
+    "Prace wymagające szczególnej sprawności psychofizycznej określa rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r. (Dz. U. 1996 r. Nr 62, poz. 287).",
+    "Każda praca wykonywana powyżej 1 m od podłoża jest pracą na wysokości.",
+    "Pracodawca zapewnia przestrzeganie przepisów bhp, wydaje polecenia usunięcia uchybień i kontroluje ich wykonanie.",
+    "Pracodawca uwzględnia ochronę zdrowia młodocianych, pracownic w ciąży lub karmiących piersią oraz niepełnosprawnych.",
+    "Pracodawca wyznacza pracowników do pierwszej pomocy, zwalczania pożarów i ewakuacji.",
+    "Pracodawca szkoli pracowników w zakresie bhp przed dopuszczeniem do pracy (instruktaż ogólny i stanowiskowy) oraz okresowo.",
+    "Pracodawca nieodpłatnie dostarcza środki ochrony indywidualnej, odzież i obuwie robocze.",
+    "W ciągu 30 dni od rozpoczęcia działalności pracodawca zawiadamia na piśmie okręgowego inspektora pracy i państwowego inspektora sanitarnego.",
+    "Gdy w jednym miejscu pracują pracownicy różnych pracodawców, wyznacza się koordynatora nadzorującego bhp."
+   ]
+  },
+  {
+   "heading": "II.10. Obowiązki pracownika w zakresie bhp",
+   "points": [
+    "Znać przepisy i zasady bhp, brać udział w szkoleniach i instruktażu oraz poddawać się egzaminom sprawdzającym.",
+    "Wykonywać pracę zgodnie z przepisami bhp i stosować się do poleceń przełożonych.",
+    "Dbać o należyty stan maszyn, urządzeń, narzędzi i sprzętu oraz o porządek w miejscu pracy.",
+    "Stosować środki ochrony zbiorowej i używać przydzielonych środków ochrony indywidualnej, odzieży i obuwia roboczego.",
+    "Poddawać się wstępnym, okresowym i kontrolnym badaniom lekarskim.",
+    "Niezwłocznie zawiadomić przełożonego o wypadku lub zagrożeniu i ostrzec współpracowników.",
+    "Współdziałać z pracodawcą i przełożonymi w wypełnianiu obowiązków bhp."
+   ]
+  },
+  {
+   "heading": "II.11–12. Prawo do powstrzymania się od pracy",
+   "points": [
+    "Art. 210 § 1 kp — gdy warunki pracy nie odpowiadają przepisom bhp i stwarzają bezpośrednie zagrożenie dla zdrowia lub życia (pracownika lub innych osób), pracownik może powstrzymać się od pracy.",
+    "Pracownik musi niezwłocznie zawiadomić o tym przełożonego.",
+    "Jeśli powstrzymanie się nie usuwa zagrożenia, pracownik może oddalić się z miejsca zagrożenia, zawiadamiając przełożonego.",
+    "Pracownik nie może ponosić niekorzystnych konsekwencji i zachowuje prawo do wynagrodzenia za ten czas.",
+    "Pracownik przy pracy wymagającej szczególnej sprawności psychofizycznej może — po uprzednim zawiadomieniu przełożonego — powstrzymać się od pracy, gdy jego stan nie zapewnia bezpieczeństwa i zagraża innym.",
+    "Przykład z materiału: kontroler ruchu lotniczego, który źle się poczuł, po zawiadomieniu przełożonego powstrzymał się od pracy."
+   ]
+  },
+  {
+   "heading": "III.1. System kontroli i nadzoru nad ochroną bhp",
+   "points": [
+    "System organizacyjny ochrony pracy dzieli się na ogólnokrajowy i zakładowy.",
+    "Parlament ma zadania ustawodawcze; rząd (szczególnie Minister ds. Pracy i Minister ds. Zdrowia) ustala politykę i wydaje przepisy wykonawcze.",
+    "Organy nadzoru i kontroli: Państwowa Inspekcja Pracy, Państwowa Inspekcja Sanitarna, Urząd Dozoru Technicznego oraz sądy i prokuratura.",
+    "Rada Ochrony Pracy (przy Sejmie RP) sprawuje nadzór nad PIP; w jej skład wchodzą przedstawiciele rządu, pracodawców, pracowników, posłowie, senatorowie i specjaliści.",
+    "Centralny Instytut Ochrony Pracy (CIOP) prowadzi prace naukowo-badawcze z zakresu bezpieczeństwa pracy.",
+    "W zakładzie pracodawca realizuje obowiązki bhp przez służbę bhp i lekarza sprawującego opiekę zdrowotną; komisja ds. bhp jest organem opiniodawczo-doradczym.",
+    "Społeczny inspektor pracy wydaje pisemne zalecenia; pracodawca może się od nich odwołać do inspektora pracy PIP.",
+    "Kodeks pracy: PIP — nadzór nad prawem pracy i bhp; PIS — nad higieną pracy i warunkami środowiska pracy; społeczna inspekcja pracy — kontrola społeczna."
+   ]
+  },
+  {
+   "heading": "III.2. Państwowa Inspekcja Pracy",
+   "points": [
+    "Podstawa: Ustawa o Państwowej Inspekcji Pracy z dnia 13 kwietnia 2007 r. (Dz. U. Nr 89, poz. 589 z późn. zm.).",
+    "PIP podlega Sejmowi; nadzór nad nią sprawuje Rada Ochrony Pracy.",
+    "Zadania: kontrola prawa pracy i bhp, legalności zatrudnienia, analiza przyczyn wypadków i chorób zawodowych, ściganie wykroczeń, porady prawne.",
+    "Uprawnienia: nakaz usunięcia uchybień, nakaz wstrzymania prac przy bezpośrednim zagrożeniu, skierowanie pracowników do innych prac — nakazy podlegają natychmiastowemu wykonaniu.",
+    "Inspektor może kontrolować o każdej porze dnia i nocy, bez uprzedzenia; porusza się bez przepustki i jest zwolniony z rewizji osobistej.",
+    "Inspektor wydaje i cofa zezwolenia na zatrudnianie dzieci poniżej 16 lat (prace artystyczne, kultura, reklama).",
+    "Mandat: za drobne wykroczenia od 1000 zł do 2000 zł, przy powtórnym wykroczeniu w ciągu dwóch lat — do 5000 zł.",
+    "Sądy (art. 281—283 kp): grzywny od 1000 zł do 30 000 zł; w egzekucji administracyjnej do 10 000 zł (osoby fizyczne) lub 50 000 zł (osoby prawne).",
+    "Inspektor pracy może występować przed sądem jako oskarżyciel publiczny."
+   ]
+  },
+  {
+   "heading": "III.3. Państwowa Inspekcja Sanitarna",
+   "points": [
+    "Podstawa: Ustawa z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575 z późn. zm.).",
+    "Nadzoruje higienę środowiska, pracy, radiacyjną, nauczania, wypoczynku, warunki zdrowotne żywności oraz warunki w placówkach medycznych.",
+    "Wydaje decyzje o stwierdzeniu choroby zawodowej lub o braku podstaw do jej stwierdzenia.",
+    "Utrudnianie działalności PIS grozi karą aresztu do 30 dni, ograniczenia wolności albo grzywny.",
+    "Inspektor sanitarny wchodzi o każdej porze dnia i nocy do zakładów, obiektów i środków transportu; może pobierać próbki.",
+    "Przy bezpośrednim zagrożeniu nakazuje zaprzestanie działalności, zamknięcie obiektu lub wycofanie żywności — decyzje natychmiast wykonalne.",
+    "Sprzeciw inspektora wstrzymuje uruchomienie zakładu do decyzji inspektora wyższego stopnia.",
+    "Zalecenia pokontrolne wpisuje się do książki kontroli sanitarnej, którą musi posiadać zakład pracy."
+   ]
+  },
+  {
+   "heading": "III.4. Inne instytucje ochrony pracy i środowiska",
+   "points": [
+    "Urząd Dozoru Technicznego — dozór urządzeń technicznych (urządzenia ciśnieniowe, kotły, dźwigi, suwnice, żurawie, wózki); podlega Ministrowi Gospodarki.",
+    "UDT sprawdza kwalifikacje obsługujących urządzenia i bada przyczyny wypadków; podstawa: ustawa z dnia 21 grudnia 2000 r. o dozorze technicznym.",
+    "Inspekcja Ochrony Środowiska — kontrola przepisów o ochronie środowiska, organizuje Państwowy Monitoring Środowiska; może wstrzymać działalność.",
+    "Wyższy Urząd Górniczy — bhp i bezpieczeństwo pożarowe w zakładach górniczych.",
+    "Inspektorat Nadzoru Budowlanego — przestrzeganie prawa budowlanego.",
+    "Państwowa Straż Pożarna — przestrzeganie przepisów przeciwpożarowych.",
+    "Urząd Transportu Kolejowego, Urząd Lotnictwa Cywilnego, Urząd Morski, Urząd Żeglugi Śródlądowej, Inspekcja Transportu Drogowego — bezpieczeństwo w poszczególnych rodzajach transportu."
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Kodeks pracy",
+   "back": "Podstawowy akt prawny określający obowiązki pracodawców wobec pracowników, w tym zapewnienie bezpiecznych i higienicznych warunków pracy."
+  },
+  {
+   "front": "Data uchwalenia Kodeksu pracy",
+   "back": "Ustawa z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94)."
+  },
+  {
+   "front": "Ile działów ma Kodeks pracy?",
+   "back": "15 działów."
+  },
+  {
+   "front": "Który dział Kodeksu pracy dotyczy bhp?",
+   "back": "Dział dziesiąty: Bezpieczeństwo i higiena pracy."
+  },
+  {
+   "front": "Dział dziewiąty Kodeksu pracy",
+   "back": "Zatrudnianie młodocianych."
+  },
+  {
+   "front": "Dział trzynasty Kodeksu pracy",
+   "back": "Odpowiedzialność za wykroczenia przeciwko prawom pracownika."
+  },
+  {
+   "front": "Inne źródła prawa pracy poza Kodeksem",
+   "back": "Oddzielne ustawy (np. o czasie pracy kierowców), akty wykonawcze (rozporządzenia ministrów), układy zbiorowe pracy, porozumienia, regulaminy i statuty."
+  },
+  {
+   "front": "Czy regulamin pracy może być mniej korzystny niż Kodeks?",
+   "back": "Nie — układy zbiorowe, regulaminy i statuty nie mogą zawierać postanowień mniej korzystnych dla pracowników."
+  },
+  {
+   "front": "Pracodawca",
+   "back": "Osoba fizyczna, osoba prawna lub jednostka organizacyjna bez osobowości prawnej, która zatrudnia pracowników."
+  },
+  {
+   "front": "Termin pisemnej informacji o warunkach zatrudnienia",
+   "back": "Nie później niż 7 dni od dnia zawarcia umowy o pracę."
+  },
+  {
+   "front": "Ochrona przedemerytalna",
+   "back": "Nie można wypowiedzieć umowy pracownikowi, któremu brakuje nie więcej niż 4 lata do wieku emerytalnego, jeśli staż daje mu prawo do emerytury."
+  },
+  {
+   "front": "Czy można wypowiedzieć umowę w czasie urlopu?",
+   "back": "Nie — ani w czasie urlopu, ani innej usprawiedliwionej nieobecności (jeśli nie minął okres uprawniający do rozwiązania bez wypowiedzenia)."
+  },
+  {
+   "front": "Rozwiązanie umowy z powodu długiej choroby",
+   "back": "Możliwe bez wypowiedzenia m.in., gdy niezdolność do pracy trwa dłużej niż 3 miesiące przy zatrudnieniu krótszym niż 6 miesięcy."
+  },
+  {
+   "front": "Powrót do pracy po tymczasowym aresztowaniu",
+   "back": "Pracodawca musi ponownie zatrudnić pracownika (umorzenie lub uniewinnienie), jeśli zgłosi powrót w ciągu 7 dni od uprawomocnienia orzeczenia."
+  },
+  {
+   "front": "Regulamin wynagradzania — kiedy obowiązkowy?",
+   "back": "U pracodawcy zatrudniającego co najmniej 20 pracowników nieobjętych układem zbiorowym pracy."
+  },
+  {
+   "front": "Kto odpowiada za stan bhp w zakładzie pracy?",
+   "back": "Pracodawca."
+  },
+  {
+   "front": "Kary porządkowe za naruszenie przepisów bhp",
+   "back": "Kara upomnienia lub kara nagany."
+  },
+  {
+   "front": "Dane osobowe, których pracodawca może żądać od kandydata",
+   "back": "Imię i nazwisko, imiona rodziców, data urodzenia, miejsce zamieszkania, wykształcenie, przebieg dotychczasowego zatrudnienia."
+  },
+  {
+   "front": "Kiedy pracodawca może wypowiedzieć warunki pracy lub płacy?",
+   "back": "Przy nowych zasadach wynagradzania dla ogółu lub grupy, utracie zdolności do pracy stwierdzonej orzeczeniem lekarskim albo niezawinionej utracie uprawnień."
+  },
+  {
+   "front": "Rozwiązanie umowy z winy pracownika — przyczyny",
+   "back": "Ciężkie naruszenie podstawowych obowiązków, przestępstwo uniemożliwiające dalsze zatrudnienie, zawiniona utrata uprawnień do pracy."
+  },
+  {
+   "front": "Pracownik",
+   "back": "Osoba fizyczna zatrudniona na podstawie umowy o pracę, powołania, wyboru, mianowania lub spółdzielczej umowy o pracę."
+  },
+  {
+   "front": "Czy osoba na umowie o dzieło jest pracownikiem?",
+   "back": "Nie — pracownikiem jest tylko osoba w stosunku pracy; umowy cywilnoprawne (dzieło, zlecenie) nie tworzą stosunku pracy."
+  },
+  {
+   "front": "Młodociany",
+   "back": "Osoba, która ukończyła 16 lat, a nie ukończyła 18 lat."
+  },
+  {
+   "front": "Czy osoba prawna może być pracownikiem?",
+   "back": "Nie — np. spółka, instytucja czy stowarzyszenie nie mogą być pracownikiem."
+  },
+  {
+   "front": "Zatrudnienie",
+   "back": "Osoba zatrudniona zobowiązuje się wykonywać pracę określonego rodzaju, a zatrudniający — zatrudniać ją za wynagrodzeniem."
+  },
+  {
+   "front": "Cechy stosunku pracy",
+   "back": "Praca pod kierownictwem pracodawcy, w miejscu i czasie przez niego wyznaczonym, osobiście; ryzyko ponosi pracodawca; obowiązuje Kodeks pracy."
+  },
+  {
+   "front": "Cechy stosunku cywilnoprawnego",
+   "back": "Brak kierownictwa, brak bezwzględnego obowiązku osobistej pracy, ryzyko ponosi osoba zatrudniona; obowiązuje prawo cywilne."
+  },
+  {
+   "front": "Przykłady umów cywilnoprawnych",
+   "back": "Umowa zlecenie, umowa o dzieło, umowa agencyjna, umowa przewozu."
+  },
+  {
+   "front": "Strony umowy zlecenia i umowy o dzieło",
+   "back": "Zleceniodawca i zleceniobiorca; zlecający dzieło i wykonawca dzieła."
+  },
+  {
+   "front": "Kiedy umowa o dzieło podlega składkom ZUS?",
+   "back": "Gdy zawarto ją z własnym pracodawcą lub gdy jest wykonywana na rzecz własnego pracodawcy (art. 8 ust. 2a ustawy o systemie ubezpieczeń społecznych)."
+  },
+  {
+   "front": "Zakaz zastępowania umowy o pracę",
+   "back": "Nie wolno zastąpić umowy o pracę umową cywilnoprawną, jeśli praca jest pod kierownictwem, w miejscu i czasie wyznaczonym przez pracodawcę."
+  },
+  {
+   "front": "Rozporządzenie o pracach wymagających szczególnej sprawności psychofizycznej",
+   "back": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r. (Dz. U. Nr 62, poz. 287)."
+  },
+  {
+   "front": "Przykłady prac wymagających szczególnej sprawności psychofizycznej",
+   "back": "Obsługa podnośników i platform hydraulicznych, urządzeń ciśnieniowych pod pełnym dozorem technicznym, praca z materiałami łatwopalnymi i toksycznymi."
+  },
+  {
+   "front": "Praca na wysokości",
+   "back": "Każda praca wykonywana powyżej 1 m od podłoża."
+  },
+  {
+   "front": "Szkolenia bhp zapewniane przez pracodawcę",
+   "back": "Szkolenie przed dopuszczeniem do pracy (instruktaż ogólny i stanowiskowy) oraz szkolenia okresowe."
+  },
+  {
+   "front": "Środki ochrony indywidualnej — kto płaci?",
+   "back": "Pracodawca dostarcza je nieodpłatnie, podobnie jak odzież i obuwie robocze."
+  },
+  {
+   "front": "Zawiadomienie o rozpoczęciu działalności",
+   "back": "W ciągu 30 dni na piśmie do okręgowego inspektora pracy i państwowego inspektora sanitarnego (miejsce, rodzaj, zakres działalności)."
+  },
+  {
+   "front": "Koordynator ds. bhp",
+   "back": "Wyznacza się go, gdy w tym samym miejscu pracują jednocześnie pracownicy różnych pracodawców."
+  },
+  {
+   "front": "Kogo szczególnie chroni pracodawca w działaniach profilaktycznych?",
+   "back": "Młodocianych, pracownice w ciąży lub karmiące piersią oraz pracowników niepełnosprawnych."
+  },
+  {
+   "front": "Obowiązki pracownika w zakresie bhp — skrót",
+   "back": "Znać przepisy bhp, pracować zgodnie z nimi, dbać o sprzęt i porządek, stosować środki ochrony, poddawać się badaniom, zgłaszać zagrożenia, współdziałać z pracodawcą."
+  },
+  {
+   "front": "Badania lekarskie pracownika",
+   "back": "Wstępne, okresowe i kontrolne oraz inne zalecone badania."
+  },
+  {
+   "front": "Co zrobić po zauważeniu wypadku lub zagrożenia?",
+   "back": "Niezwłocznie zawiadomić przełożonego i ostrzec współpracowników oraz inne osoby w rejonie zagrożenia."
+  },
+  {
+   "front": "Art. 210 § 1 kp",
+   "back": "Prawo pracownika do powstrzymania się od pracy, gdy warunki niezgodne z bhp stwarzają bezpośrednie zagrożenie dla zdrowia lub życia jego lub innych osób."
+  },
+  {
+   "front": "Obowiązek po powstrzymaniu się od pracy",
+   "back": "Niezwłoczne zawiadomienie przełożonego."
+  },
+  {
+   "front": "Prawo do oddalenia się z miejsca zagrożenia",
+   "back": "Przysługuje, gdy samo powstrzymanie się od pracy nie usuwa zagrożenia; trzeba niezwłocznie zawiadomić przełożonego."
+  },
+  {
+   "front": "Wynagrodzenie za czas powstrzymania się od pracy",
+   "back": "Pracownik zachowuje prawo do wynagrodzenia i nie może ponosić negatywnych konsekwencji."
+  },
+  {
+   "front": "Powstrzymanie się od pracy wymagającej sprawności psychofizycznej",
+   "back": "Możliwe po uprzednim zawiadomieniu przełożonego, gdy stan psychofizyczny pracownika nie zapewnia bezpiecznej pracy i zagraża innym."
+  },
+  {
+   "front": "Dwa systemy organizacyjne ochrony pracy",
+   "back": "Ogólnokrajowy i zakładowy."
+  },
+  {
+   "front": "Rola parlamentu w ochronie pracy",
+   "back": "Zadania ustawodawcze — tworzenie prawa o zasadach kontroli i nadzoru nad bhp."
+  },
+  {
+   "front": "Organy nadzoru i kontroli warunków pracy",
+   "back": "Państwowa Inspekcja Pracy, Państwowa Inspekcja Sanitarna, Urząd Dozoru Technicznego oraz sądy i prokuratura."
+  },
+  {
+   "front": "Rada Ochrony Pracy",
+   "back": "Organ przy Sejmie RP sprawujący nadzór nad PIP; skład: przedstawiciele rządu, pracodawców, pracowników, posłowie, senatorowie, specjaliści bhp."
+  },
+  {
+   "front": "CIOP",
+   "back": "Centralny Instytut Ochrony Pracy — instytut naukowo-badawczy w dziedzinie bezpieczeństwa pracy i ochrony zdrowia."
+  },
+  {
+   "front": "Przez kogo pracodawca realizuje obowiązki bhp w zakładzie?",
+   "back": "Przez służbę bhp i lekarza sprawującego opiekę zdrowotną nad pracownikami."
+  },
+  {
+   "front": "Komisja ds. bhp",
+   "back": "Organ opiniodawczo-doradczy w zakładzie pracy."
+  },
+  {
+   "front": "Społeczny inspektor pracy — uprawnienie",
+   "back": "Wydaje pisemne zalecenia usunięcia uchybień; pracodawca może się odwołać do inspektora pracy PIP."
+  },
+  {
+   "front": "Kto sprawuje społeczną kontrolę przestrzegania prawa pracy?",
+   "back": "Społeczna inspekcja pracy."
+  },
+  {
+   "front": "Ustawa o Państwowej Inspekcji Pracy",
+   "back": "Ustawa z dnia 13 kwietnia 2007 r. (Dz. U. Nr 89, poz. 589 z późn. zm.)."
+  },
+  {
+   "front": "Komu podlega Państwowa Inspekcja Pracy?",
+   "back": "Sejmowi; nadzór sprawuje Rada Ochrony Pracy."
+  },
+  {
+   "front": "Zadania PIP — przykłady",
+   "back": "Kontrola prawa pracy i bhp oraz legalności zatrudnienia, analiza przyczyn wypadków i chorób zawodowych, ściganie wykroczeń, porady prawne."
+  },
+  {
+   "front": "Nakazy PIP",
+   "back": "Usunięcie uchybień w terminie, wstrzymanie prac przy bezpośrednim zagrożeniu, skierowanie pracowników do innych prac; podlegają natychmiastowemu wykonaniu."
+  },
+  {
+   "front": "Kiedy inspektor pracy może przeprowadzić kontrolę?",
+   "back": "O każdej porze dnia i nocy, bez uprzedzenia."
+  },
+  {
+   "front": "Przepustka i rewizja a inspektor pracy",
+   "back": "Inspektor porusza się bez przepustki i jest zwolniony z rewizji osobistej."
+  },
+  {
+   "front": "Zezwolenia na pracę dzieci poniżej 16 lat",
+   "back": "Wydaje i cofa je inspektor pracy — tylko przy pracach artystycznych, w kulturze i reklamie."
+  },
+  {
+   "front": "Wysokość mandatu inspektora pracy",
+   "back": "Od 1000 zł do 2000 zł; przy powtórnym wykroczeniu w ciągu dwóch lat — do 5000 zł."
+  },
+  {
+   "front": "Grzywny sądowe za łamanie praw pracownika (art. 281—283 kp)",
+   "back": "Od 1000 zł do 30 000 zł."
+  },
+  {
+   "front": "Górny pułap grzywien nakładanych wielokrotnie",
+   "back": "50 000 zł dla osób fizycznych i 200 000 zł dla osób prawnych."
+  },
+  {
+   "front": "Ustawa o Państwowej Inspekcji Sanitarnej",
+   "back": "Ustawa z dnia 14 marca 1985 r. (Dz. U. z 1998 r. Nr 90, poz. 575 z późn. zm.)."
+  },
+  {
+   "front": "Kara za utrudnianie działalności PIS",
+   "back": "Areszt do 30 dni, ograniczenie wolności albo grzywna."
+  },
+  {
+   "front": "Kiedy inspektor sanitarny może wejść do mieszkania?",
+   "back": "Przy podejrzeniu lub stwierdzeniu choroby zakaźnej, zagrożeniu zdrowia czynnikami środowiskowymi lub prowadzeniu tam działalności produkcyjnej czy usługowej."
+  },
+  {
+   "front": "Sprzeciw inspektora sanitarnego",
+   "back": "Wstrzymuje uruchomienie zakładu lub technologii do czasu decyzji inspektora sanitarnego wyższego stopnia."
+  },
+  {
+   "front": "Książka kontroli sanitarnej",
+   "back": "Dokument, który musi posiadać zakład pracy; PIS wpisuje do niej zalecenia, uwagi i wnioski pokontrolne."
+  },
+  {
+   "front": "Urząd Dozoru Technicznego",
+   "back": "Dozoruje urządzenia techniczne (ciśnieniowe, kotły, dźwigi, suwnice, żurawie, wciągarki itp.); podlega Ministrowi Gospodarki."
+  },
+  {
+   "front": "Ustawa o dozorze technicznym",
+   "back": "Ustawa z dnia 21 grudnia 2000 r. (Dz. U. Nr 122, poz. 1321)."
+  },
+  {
+   "front": "Inspekcja Ochrony Środowiska",
+   "back": "Kontroluje przepisy o ochronie środowiska, organizuje Państwowy Monitoring Środowiska i może wstrzymać działalność naruszającą przepisy."
+  },
+  {
+   "front": "Wyższy Urząd Górniczy",
+   "back": "Nadzoruje bhp i bezpieczeństwo pożarowe w zakładach górniczych."
+  },
+  {
+   "front": "Inspektorat Nadzoru Budowlanego",
+   "back": "Nadzoruje przestrzeganie prawa budowlanego — projektowanie, wyroby budowlane, stan techniczny obiektów."
+  },
+  {
+   "front": "Inspekcja Transportu Drogowego",
+   "back": "Kontroluje bezpieczeństwo przewozu towarów i osób w transporcie drogowym."
+  },
+  {
+   "front": "Urząd Lotnictwa Cywilnego",
+   "back": "Centralny organ nadzorujący bezpieczeństwo ruchu lotniczego."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Z ilu działów składa się Kodeks pracy?",
+   "options": [
+    "10",
+    "12",
+    "15",
+    "20"
+   ],
+   "answer": 2,
+   "explain": "Kodeks pracy składa się z 15 działów."
+  },
+  {
+   "q": "Który dział Kodeksu pracy nosi tytuł „Bezpieczeństwo i higiena pracy”?",
+   "options": [
+    "Czwarty",
+    "Szósty",
+    "Dziesiąty",
+    "Trzynasty"
+   ],
+   "answer": 2,
+   "explain": "Dział dziesiąty: Bezpieczeństwo i higiena pracy."
+  },
+  {
+   "q": "Kodeks pracy to ustawa z dnia:",
+   "options": [
+    "14 marca 1985 r.",
+    "24 sierpnia 1991 r.",
+    "26 czerwca 1974 r.",
+    "13 kwietnia 2007 r."
+   ],
+   "answer": 2,
+   "explain": "Obowiązuje ustawa z dnia 26 czerwca 1974 r. — Kodeks pracy."
+  },
+  {
+   "q": "Regulaminy i układy zbiorowe pracy:",
+   "options": [
+    "są nadrzędne wobec Kodeksu pracy",
+    "mogą być mniej korzystne, jeśli pracownik się zgodzi",
+    "nie są źródłem prawa pracy",
+    "nie mogą zawierać postanowień mniej korzystnych dla pracowników niż przepisy prawa"
+   ],
+   "answer": 3,
+   "explain": "Akty te muszą być zgodne z aktami państwowymi i nie mogą być mniej korzystne dla pracowników."
+  },
+  {
+   "q": "W jakim terminie od zawarcia umowy pracodawca informuje pracownika na piśmie m.in. o normach czasu pracy?",
+   "options": [
+    "3 dni",
+    "7 dni",
+    "14 dni",
+    "30 dni"
+   ],
+   "answer": 1,
+   "explain": "Nie później niż w ciągu 7 dni od dnia zawarcia umowy o pracę."
+  },
+  {
+   "q": "Pracodawca nie może wypowiedzieć umowy pracownikowi, któremu do wieku emerytalnego brakuje nie więcej niż:",
+   "options": [
+    "4 lata",
+    "5 lat",
+    "2 lata",
+    "6 lat"
+   ],
+   "answer": 0,
+   "explain": "Ochrona dotyczy pracownika, któremu brakuje nie więcej niż 4 lata do wieku emerytalnego."
+  },
+  {
+   "q": "Pracodawca zatrudniający co najmniej ilu pracowników (bez układu zbiorowego) ustala regulamin wynagradzania?",
+   "options": [
+    "20",
+    "50",
+    "5",
+    "10"
+   ],
+   "answer": 0,
+   "explain": "Regulamin wynagradzania ustala pracodawca zatrudniający co najmniej 20 pracowników."
+  },
+  {
+   "q": "Za nieprzestrzeganie przepisów bhp pracodawca może ukarać pracownika:",
+   "options": [
+    "obniżeniem pensji o połowę",
+    "zwolnieniem dyscyplinarnym zawsze",
+    "mandatem karnym",
+    "karą upomnienia lub nagany"
+   ],
+   "answer": 3,
+   "explain": "Pracodawca może stosować karę upomnienia lub karę nagany."
+  },
+  {
+   "q": "Pracownikiem w rozumieniu Kodeksu pracy jest osoba zatrudniona na podstawie:",
+   "options": [
+    "umowy zlecenia",
+    "umowy o dzieło",
+    "umowy o pracę, powołania, wyboru, mianowania lub spółdzielczej umowy o pracę",
+    "umowy agencyjnej"
+   ],
+   "answer": 2,
+   "explain": "Tak definiuje pracownika Kodeks pracy; umowy cywilnoprawne nie tworzą stosunku pracy."
+  },
+  {
+   "q": "Młodociany to osoba, która:",
+   "options": [
+    "ukończyła 16 lat, a nie ukończyła 18 lat",
+    "nie ukończyła 16 lat",
+    "ukończyła 15 lat, a nie ukończyła 18 lat",
+    "ukończyła 18 lat, a nie ukończyła 21 lat"
+   ],
+   "answer": 0,
+   "explain": "Młodociany — osoba, która ukończyła 16 lat, a nie ukończyła 18 lat."
+  },
+  {
+   "q": "W stosunku pracy ryzyko gospodarcze procesu pracy ponosi:",
+   "options": [
+    "pracownik i pracodawca po połowie",
+    "ZUS",
+    "pracodawca",
+    "pracownik"
+   ],
+   "answer": 2,
+   "explain": "W stosunku pracy ryzyko gospodarcze ponosi pracodawca."
+  },
+  {
+   "q": "Cechą zatrudnienia na podstawie umowy cywilnoprawnej jest:",
+   "options": [
+    "brak podporządkowania kierownictwu zatrudniającego",
+    "ochrona trwałości zatrudnienia",
+    "obowiązek stosowania Kodeksu pracy",
+    "praca w miejscu i czasie wyznaczonym przez pracodawcę"
+   ],
+   "answer": 0,
+   "explain": "Osoba zatrudniona na umowie cywilnoprawnej nie podlega kierownictwu podmiotu zatrudniającego."
+  },
+  {
+   "q": "Strony umowy o dzieło to:",
+   "options": [
+    "zleceniodawca i zleceniobiorca",
+    "zlecający dzieło i wykonawca dzieła",
+    "agent i dający zlecenie",
+    "pracodawca i pracownik"
+   ],
+   "answer": 1,
+   "explain": "Strony takiej umowy to zlecający dzieło i wykonawca dzieła."
+  },
+  {
+   "q": "Umowa o pracę nie może być zastąpiona umową cywilnoprawną, gdy praca jest wykonywana:",
+   "options": [
+    "pod kierownictwem pracodawcy, w miejscu i czasie przez niego wyznaczonym",
+    "okazjonalnie",
+    "przez emeryta",
+    "w niepełnym wymiarze czasu"
+   ],
+   "answer": 0,
+   "explain": "Nowelizacja Kp wprowadziła taki zakaz, aby przeciwdziałać przerzucaniu ryzyka na pracowników."
+  },
+  {
+   "q": "Pracą na wysokości jest każda praca wykonywana powyżej:",
+   "options": [
+    "1 m od podłoża",
+    "2 m od podłoża",
+    "3 m od podłoża",
+    "0,5 m od podłoża"
+   ],
+   "answer": 0,
+   "explain": "Każda praca wykonywana powyżej 1 m od podłoża jest pracą na wysokości."
+  },
+  {
+   "q": "Rodzaje prac wymagających szczególnej sprawności psychofizycznej określa rozporządzenie z dnia:",
+   "options": [
+    "26 czerwca 1974 r.",
+    "13 kwietnia 2007 r.",
+    "21 grudnia 2000 r.",
+    "28 maja 1996 r."
+   ],
+   "answer": 3,
+   "explain": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r."
+  },
+  {
+   "q": "Środki ochrony indywidualnej, odzież i obuwie robocze pracodawca dostarcza:",
+   "options": [
+    "nieodpłatnie",
+    "odpłatnie, potrącając z pensji",
+    "za połowę ceny",
+    "tylko na wniosek związków zawodowych"
+   ],
+   "answer": 0,
+   "explain": "Pracodawca dostarcza je pracownikowi nieodpłatnie."
+  },
+  {
+   "q": "W jakim terminie od rozpoczęcia działalności pracodawca zawiadamia inspektora pracy i inspektora sanitarnego?",
+   "options": [
+    "60 dni",
+    "7 dni",
+    "30 dni",
+    "14 dni"
+   ],
+   "answer": 2,
+   "explain": "Zawiadamia na piśmie w terminie 30 dni od dnia rozpoczęcia działalności."
+  },
+  {
+   "q": "Koordynatora ds. bhp wyznacza się, gdy:",
+   "options": [
+    "zakład zatrudnia ponad 100 osób",
+    "pracownik pracuje na wysokości",
+    "w jednym miejscu pracują jednocześnie pracownicy różnych pracodawców",
+    "doszło do wypadku śmiertelnego"
+   ],
+   "answer": 2,
+   "explain": "Koordynatora wyznacza się, gdy w tym samym miejscu pracują pracownicy różnych pracodawców."
+  },
+  {
+   "q": "Który z poniższych jest obowiązkiem pracownika w zakresie bhp?",
+   "options": [
+    "Zawiadamianie inspektora pracy o rozpoczęciu działalności",
+    "Poddawanie się wstępnym, okresowym i kontrolnym badaniom lekarskim",
+    "Wyznaczanie koordynatora bhp",
+    "Dostarczanie środków ochrony indywidualnej"
+   ],
+   "answer": 1,
+   "explain": "Pracownik ma obowiązek poddawać się wstępnym, okresowym i kontrolnym badaniom lekarskim."
+  },
+  {
+   "q": "Prawo do powstrzymania się od pracy w razie bezpośredniego zagrożenia reguluje:",
+   "options": [
+    "art. 283 § 1 kp",
+    "art. 210 § 1 kp",
+    "art. 209¹ kp",
+    "art. 163 § 1 kk"
+   ],
+   "answer": 1,
+   "explain": "Zgodnie z art. 210 § 1 kp pracownik ma prawo powstrzymać się od wykonywania pracy."
+  },
+  {
+   "q": "Pracownik, który powstrzymał się od pracy z powodu zagrożenia, musi:",
+   "options": [
+    "uzyskać zgodę lekarza",
+    "złożyć wniosek o urlop",
+    "niezwłocznie zawiadomić przełożonego",
+    "zawiadomić PIP w ciągu 7 dni"
+   ],
+   "answer": 2,
+   "explain": "Pracownik jest zobowiązany do niezwłocznego zawiadomienia przełożonego."
+  },
+  {
+   "q": "Za czas powstrzymania się od pracy w sytuacji zagrożenia pracownik:",
+   "options": [
+    "zachowuje prawo do wynagrodzenia",
+    "otrzymuje zasiłek z ZUS",
+    "otrzymuje 50% wynagrodzenia",
+    "traci wynagrodzenie"
+   ],
+   "answer": 0,
+   "explain": "Pracownik zachowuje prawo do wynagrodzenia i nie może ponosić niekorzystnych konsekwencji."
+  },
+  {
+   "q": "Pracownik przy pracy wymagającej szczególnej sprawności psychofizycznej może powstrzymać się od pracy, gdy jego stan jej nie zapewnia:",
+   "options": [
+    "tylko za zgodą inspektora pracy",
+    "bez zawiadamiania nikogo",
+    "tylko po badaniu lekarskim",
+    "po uprzednim zawiadomieniu przełożonego"
+   ],
+   "answer": 3,
+   "explain": "Prawo to przysługuje po uprzednim zawiadomieniu przełożonego."
+  },
+  {
+   "q": "System organizacyjny ochrony pracy w Polsce dzieli się na:",
+   "options": [
+    "państwowy i prywatny",
+    "wojewódzki i gminny",
+    "cywilny i wojskowy",
+    "ogólnokrajowy i zakładowy"
+   ],
+   "answer": 3,
+   "explain": "System organizacyjny ochrony pracy można podzielić na ogólnokrajowy i zakładowy."
+  },
+  {
+   "q": "Nadzór nad Państwową Inspekcją Pracy sprawuje:",
+   "options": [
+    "Urząd Dozoru Technicznego",
+    "Rada Ochrony Pracy",
+    "Minister Zdrowia",
+    "Prezes Rady Ministrów"
+   ],
+   "answer": 1,
+   "explain": "Nadzór nad PIP w zakresie określonym w ustawie sprawuje Rada Ochrony Pracy."
+  },
+  {
+   "q": "Państwowa Inspekcja Pracy podlega:",
+   "options": [
+    "Ministrowi Gospodarki",
+    "Wojewodzie",
+    "Prezydentowi RP",
+    "Sejmowi"
+   ],
+   "answer": 3,
+   "explain": "Państwowa Inspekcja Pracy podlega Sejmowi."
+  },
+  {
+   "q": "Organem opiniodawczo-doradczym w zakładzie pracy jest:",
+   "options": [
+    "Państwowa Inspekcja Sanitarna",
+    "Rada Ochrony Pracy",
+    "społeczny inspektor pracy",
+    "komisja ds. bhp"
+   ],
+   "answer": 3,
+   "explain": "Pracownicy uczestniczą w kształtowaniu warunków pracy m.in. przez komisję ds. bhp jako organ opiniodawczo-doradczy."
+  },
+  {
+   "q": "Od zalecenia społecznego inspektora pracy pracodawca może się odwołać do:",
+   "options": [
+    "Rady Ochrony Pracy",
+    "sądu pracy",
+    "państwowego inspektora sanitarnego",
+    "właściwego inspektora pracy PIP"
+   ],
+   "answer": 3,
+   "explain": "Pracodawca może odwołać się od zalecenia do właściwego inspektora pracy Państwowej Inspekcji Pracy."
+  },
+  {
+   "q": "Nadzór i kontrolę przestrzegania przepisów higieny pracy i warunków środowiska pracy sprawuje:",
+   "options": [
+    "Inspektorat Nadzoru Budowlanego",
+    "Społeczna inspekcja pracy",
+    "Państwowa Inspekcja Sanitarna",
+    "Urząd Dozoru Technicznego"
+   ],
+   "answer": 2,
+   "explain": "Zgodnie z Kp nadzór nad higieną pracy i warunkami środowiska pracy sprawuje PIS."
+  },
+  {
+   "q": "Ustawa o Państwowej Inspekcji Pracy pochodzi z dnia:",
+   "options": [
+    "13 kwietnia 2007 r.",
+    "21 grudnia 2000 r.",
+    "14 marca 1985 r.",
+    "26 czerwca 1974 r."
+   ],
+   "answer": 0,
+   "explain": "Ustawa o Państwowej Inspekcji Pracy z dnia 13 kwietnia 2007 r."
+  },
+  {
+   "q": "Inspektor pracy może przeprowadzić kontrolę:",
+   "options": [
+    "tylko za zgodą pracodawcy",
+    "tylko w godzinach pracy po 7-dniowym uprzedzeniu",
+    "o każdej porze dnia i nocy, bez uprzedzenia",
+    "wyłącznie na wniosek pracownika"
+   ],
+   "answer": 2,
+   "explain": "Inspektor ma prawo kontroli o każdej porze dnia i nocy, bez uprzedzenia."
+  },
+  {
+   "q": "Mandat nakładany przez inspektora pracy za drobne wykroczenia wynosi:",
+   "options": [
+    "od 100 zł do 500 zł",
+    "od 1000 zł do 2000 zł",
+    "od 5000 zł do 10 000 zł",
+    "do 30 000 zł"
+   ],
+   "answer": 1,
+   "explain": "Za drobne wykroczenia mandat wynosi od 1000 zł do 2000 zł."
+  },
+  {
+   "q": "Przy powtórnym wykroczeniu w ciągu dwóch lat mandat inspektora pracy może wynieść do:",
+   "options": [
+    "2000 zł",
+    "10 000 zł",
+    "30 000 zł",
+    "5000 zł"
+   ],
+   "answer": 3,
+   "explain": "Przy powtórnym wykroczeniu w ciągu dwóch lat — do 5000 zł."
+  },
+  {
+   "q": "Sądy za łamanie praw pracowników (art. 281—283 kp) mogą wymierzyć grzywnę:",
+   "options": [
+    "od 100 zł do 5000 zł",
+    "od 1000 zł do 30 000 zł",
+    "od 10 000 zł do 50 000 zł",
+    "do 200 000 zł"
+   ],
+   "answer": 1,
+   "explain": "Sądy mogą stosować grzywny w wysokości od 1000 zł do 30 000 zł."
+  },
+  {
+   "q": "Zezwolenia na zatrudnianie dzieci poniżej 16 lat (prace artystyczne, kultura, reklama) wydaje:",
+   "options": [
+    "inspektor pracy",
+    "starosta",
+    "państwowy inspektor sanitarny",
+    "kurator oświaty"
+   ],
+   "answer": 0,
+   "explain": "Inspektor pracy ma prawo wydawania i cofania takich zezwoleń."
+  },
+  {
+   "q": "Nakazy PIP dotyczące wstrzymania prac przy bezpośrednim zagrożeniu:",
+   "options": [
+    "są wykonywane po 14 dniach",
+    "mają charakter zalecenia",
+    "wymagają zatwierdzenia przez sąd",
+    "podlegają rygorowi natychmiastowego wykonania"
+   ],
+   "answer": 3,
+   "explain": "Nakazy w tych sprawach podlegają rygorowi natychmiastowego wykonania."
+  },
+  {
+   "q": "Decyzję o stwierdzeniu choroby zawodowej wydaje:",
+   "options": [
+    "Państwowa Inspekcja Pracy",
+    "Rada Ochrony Pracy",
+    "Urząd Dozoru Technicznego",
+    "Państwowa Inspekcja Sanitarna"
+   ],
+   "answer": 3,
+   "explain": "Do zakresu PIS należy wydawanie decyzji o stwierdzeniu choroby zawodowej lub o braku podstaw."
+  },
+  {
+   "q": "Kto utrudnia działalność Państwowej Inspekcji Sanitarnej, podlega karze:",
+   "options": [
+    "wyłącznie upomnienia",
+    "pozbawienia wolności do 12 lat",
+    "aresztu do 30 dni, ograniczenia wolności albo grzywny",
+    "mandatu do 500 zł"
+   ],
+   "answer": 2,
+   "explain": "Utrudnianie działalności PIS grozi aresztem do 30 dni, ograniczeniem wolności albo grzywną."
+  },
+  {
+   "q": "Zalecenia pokontrolne PIS wpisuje do:",
+   "options": [
+    "rejestru wypadków",
+    "książki kontroli sanitarnej",
+    "protokołu powypadkowego",
+    "dziennika budowy w każdym przypadku"
+   ],
+   "answer": 1,
+   "explain": "Doraźne zalecenia PIS wpisuje do książki kontroli sanitarnej, którą musi posiadać zakład."
+  },
+  {
+   "q": "Sprzeciw państwowego inspektora sanitarnego wobec uruchomienia zakładu:",
+   "options": [
+    "wymaga zatwierdzenia przez PIP",
+    "nie ma skutków prawnych",
+    "jest ostateczny i nie podlega odwołaniu",
+    "wstrzymuje działania do decyzji inspektora wyższego stopnia"
+   ],
+   "answer": 3,
+   "explain": "Zgłoszenie sprzeciwu wstrzymuje dalsze działania do decyzji inspektora wyższego stopnia."
+  },
+  {
+   "q": "Dozór nad kotłami, suwnicami i żurawiami sprawuje:",
+   "options": [
+    "Wyższy Urząd Górniczy",
+    "Państwowa Inspekcja Sanitarna",
+    "Inspekcja Ochrony Środowiska",
+    "Urząd Dozoru Technicznego"
+   ],
+   "answer": 3,
+   "explain": "UDT sprawuje dozór m.in. nad urządzeniami ciśnieniowymi, kotłami, suwnicami, żurawiami."
+  },
+  {
+   "q": "Urząd Dozoru Technicznego podlega:",
+   "options": [
+    "Sejmowi",
+    "Ministrowi Zdrowia",
+    "Ministrowi Gospodarki",
+    "Radzie Ochrony Pracy"
+   ],
+   "answer": 2,
+   "explain": "Urząd Dozoru Technicznego podlega Ministrowi Gospodarki."
+  },
+  {
+   "q": "Państwowy Monitoring Środowiska organizuje:",
+   "options": [
+    "Państwowa Straż Pożarna",
+    "Inspekcja Ochrony Środowiska",
+    "Państwowa Inspekcja Pracy",
+    "Urząd Dozoru Technicznego"
+   ],
+   "answer": 1,
+   "explain": "Do zadań Inspekcji Ochrony Środowiska należy organizowanie i koordynowanie Państwowego Monitoringu Środowiska."
+  },
+  {
+   "q": "Bezpieczeństwo pracy w zakładach górniczych nadzoruje:",
+   "options": [
+    "Urząd Transportu Kolejowego",
+    "Inspektorat Nadzoru Budowlanego",
+    "Urząd Morski",
+    "Wyższy Urząd Górniczy"
+   ],
+   "answer": 3,
+   "explain": "Wyższy Urząd Górniczy nadzoruje bhp i bezpieczeństwo pożarowe w zakładach górniczych."
+  }
+ ]
+}

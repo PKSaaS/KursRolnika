@@ -1,0 +1,770 @@
+{
+  "id": "ppr3",
+  "course": "Podstawy produkcji roślinnej",
+  "title": "Rośliny uprawne i chwasty",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "1. Charakterystyka gatunków roślin uprawnych",
+      "points": [
+        "Zasadniczym zadaniem produkcji roślinnej jest przetwarzanie materii nieorganicznej w organiczną przy wykorzystaniu energii słonecznej za pośrednictwem aparatu fotosyntetycznego roślin samożywnych (autotroficznych).",
+        "Produkcja roślinna to podstawowy dział produkcji rolniczej: polowa produkcja na gruntach ornych, produkcja pasz na użytkach zielonych (łąki, pastwiska) oraz trwałe plantacje (sady, szkółki, chmielniki, winnice).",
+        "W Polsce najbardziej powszechna jest produkcja polowa – tworzą ją rośliny uprawy polowej (rolnicze rośliny uprawne).",
+        "Rośliny zbożowe (żyto, pszenica, pszenżyto, jęczmień, owies, proso, kukurydza, gryka) – jednoroczne rośliny z rodziny traw (wyjątek: gryka – rodzina rdestowatych); głównym plonem jest ziarno.",
+        "Rośliny okopowe (ziemniaki, buraki cukrowe i pastewne, rzepa, marchew pastewna, brukiew) – uprawiane dla podziemnych organów, wymagają okopywania.",
+        "Rośliny przemysłowe: oleiste (rzepak, rzepik, słonecznik, gorczyca), włókniste (len, konopie), specjalne (chmiel, tytoń szlachetny, wiklina, rośliny zielarskie).",
+        "Rośliny pastewne: motylkowe grubonasienne – strączkowe (wyka, łubin, groch (peluszka), bobik), motylkowe drobnonasienne (koniczyna, lucerna, seradela, esparceta, komonica), niemotylkowe (kukurydza, kapusta pastewna, słonecznik pastewny, dynia pastewna)."
+      ]
+    },
+    {
+      "heading": "2. Znaczenie gospodarcze roślin uprawnych",
+      "points": [
+        "Zboża są główną grupą roślin w Polsce – obejmują niemal 74% krajowej powierzchni zasiewów.",
+        "Ziarno zbóż wykorzystywane jest w celach konsumpcyjnych (mąki, kasze – prawie w całości pszenica i gryka), przemysłowych (piwowarstwo, młynarstwo, gorzelnictwo, farmaceutyka) i pastewnych (jęczmień, żyto, kukurydza, owies).",
+        "Słoma służy jako pasza lub ściółka, surowiec energetyczny, do produkcji celulozy lub jako materiał ocieplający.",
+        "Okopowe dzieli się na bulwiaste (ziemniak, topinambur) i korzeniowe (burak, marchew, rzepa, brukiew); największe znaczenie w Polsce mają ziemniaki, marchew i buraki.",
+        "Ziemniaki: konsumpcja (także produkty uszlachetnione, np. frytki, chipsy), pasza, przemysł (alkohol etylowy, krochmal), reprodukcja (sadzeniaki); owoce, części zielone i zielone bulwy zawierają toksyczną solaninę.",
+        "Buraki: cukrowy (przemysł cukrowniczy), ćwikłowy (konsumpcja), pastewny (pasza), liściowy – boćwina (jadalne liście, w Polsce słabo znany); produkty uboczne (liście, wysłodki, melasa) – pasza lub surowiec (gliceryna, spirytus techniczny, drożdże).",
+        "Rośliny oleiste wykorzystuje przemysł olejarski, cukierniczo-piekarski, kosmetyczny, chemiczny (farby, lakiery, linoleum), w mniejszym zakresie włókienniczy i garbarski; rzepak – do produkcji biopaliw.",
+        "Rośliny włókniste – przemysł włókienniczy (tkaniny, nici, sznury, worki), tapicerstwo, budownictwo, papiernictwo; nasiona konopi i lnu są źródłem tłuszczu.",
+        "Rośliny pastewne – zielona masa, siano, susz, kiszonki; niektóre (koniczyna, seradela) uprawiane w międzyplonach jako poplony, plony wtóre lub wsiewki.",
+        "Motylkowe drobnonasienne to bazowe źródło taniego białka i wzbogacają glebę w azot z powietrza; ziarno kukurydzy ma największą wartość pokarmową spośród zbóż."
+      ]
+    },
+    {
+      "heading": "3. Charakterystyka nasion podstawowych roślin uprawnych",
+      "points": [
+        "Owocem zbóż, będącym jednocześnie nasieniem, jest ziarniak.",
+        "Budowa ziarniaka: zarodek ok. 2,5%, bielmo ok. 89,5% (zewnętrzna warstwa aleuronowa bogata w białko, tłuszcz i witaminy; wewnątrz głównie skrobia), okrywa owocowo-nasienna ok. 8%.",
+        "Bródka – kępka włosków w górnej części ziarna regulująca wilgotność w czasie dojrzewania; osadza się na niej brud, usuwana w łuszczarkach.",
+        "Bruzdka – podłużny rowek po stronie brzusznej (pszenica, żyto, owies, jęczmień); im większa bruzdka, tym gorszy surowiec młynarski.",
+        "Zboża z bruzdką wytwarzają kilka korzonków (jęczmień, żyto, owies); bez bruzdki – jeden korzonek (kukurydza, gryka, proso).",
+        "Liczba korzonków: żyto 4, jęczmień 5–8, owies 3–4, pszenica ozima 3, pszenica jara 5, proso 1, kukurydza 1.",
+        "Burak – kłębki z kilku–kilkunastu nasionami pod wieczkiem; kłębki jedno- i wielokiełkowe.",
+        "Rzepak – łuszczyna z 20–30 nasionami, kuliste, średnica 2–3 mm; tłuszcz w komórkach liścieni. Len – pięciokomorowa torebka, MTN 4,1–5,5 g, nasiona to siemię lniane.",
+        "Konopie – orzeszek jednonasienny; MTN dzikie 8–12 g, południowe 18–26 g. Motylkowe drobnonasienne – koniczyna biała i białoróżowa 0,5–1,5 g, esparceta 14 g.",
+        "Motylkowe grubonasienne – strąk, najmniejsze nasiona wyki, największe bobiku. Słonecznik – niełupka, substancje odżywcze w liścieniach."
+      ]
+    },
+    {
+      "heading": "4. Cechy materiału siewnego i sadzeniakowego",
+      "points": [
+        "Materiał siewny to wszelkie organy generatywne (nasiona, owoce, owocostany) i wegetatywne (bulwy, cebule, korzenie spichrzowe, kłącza) służące do rozmnażania roślin.",
+        "Generatywny: ziarniaki (zboża), nasiona (len, rzepak), kłębki jednokiełkowe (burak cukrowy i pastewny), kłębki wielokiełkowe (burak pastewny), orzeszki (konopie), niełupki (słonecznik), rozłupki (marchew).",
+        "Wegetatywny: bulwy (ziemniaki), cebule (cebula), korzenie spichrzowe (buraki), karpy korzeniowe (chmiel).",
+        "Wieloletnie rozmnażanie w gospodarstwie prowadzi do pogorszenia plonów (proces wyradzania) – należy okresowo wymieniać materiał na kwalifikowany.",
+        "Stopnie kwalifikacji: SE (superelita), Eh (elita hodowlana), E (elita), O (oryginał), I ods (pierwszy odsiew), O kw (odsiew kwalifikowany); u ziemniaków z oryginału uzyskuje się klasę A, B lub C.",
+        "Materiał kwalifikowany gwarantuje plon w czystej odmianie i jednorodny pod względem cech jakościowych.",
+        "Wymiana materiału siewnego zalecana co 3–5 lat (choroby grzybowe przenoszone z nasionami, krzyżowanie odmian, warunki klimatyczne i glebowe).",
+        "Nasiona z własnych zbiorów należy ocenić organoleptycznie (barwa, połysk, zapach, porażenie); Stacja Oceny Nasion określa m.in. czystość, zdolność kiełkowania, wilgotność."
+      ]
+    },
+    {
+      "heading": "5. Charakterystyka wymagań przyrodniczych podstawowych roślin uprawnych",
+      "points": [
+        "Czynniki przyrodnicze: gleba, klimat, nawodnienie, ukształtowanie terenu.",
+        "Pszenica – duże wymagania; gleby bogate (czarnoziemy, mady, czarne ziemie); rejony: Żuławy Wiślane, Nizina Wielkopolska, Nizina Śląska, Pojezierze Kujawskie, Wyżyna Sandomierska, Wyżyna Lubelska.",
+        "Żyto – niskie wymagania, słabe, lekkie (nawet zdegradowane) gleby; Nizina Mazowiecka, Podlasie.",
+        "Jęczmień – wysokie wymagania, urodzajne gleby i łagodny klimat; Nizina Śląska, Przedgórze Sudeckie, Kujawy, Żuławy Wiślane.",
+        "Owies – niskie wymagania glebowe, duże wymagania wilgotnościowe; Podkarpacie, Karpaty, Pojezierze Pomorskie, Nizina Mazowiecka. Pszenżyto – niskie wymagania glebowe; Wielkopolska, Pojezierze Pomorskie, Nizina Mazowiecka.",
+        "Ziemniaki – niskie wymagania, gleby mało żyzne (lekkie, piaszczyste, bielicowe); Nizina Mazowiecka, Nizina Podlaska.",
+        "Buraki cukrowe i rzepak – wysokie wymagania; rejony: Nizina Śląska, Przedgórze Sudeckie; buraki wymagają intensywnego nawożenia, okopywania i odchwaszczania.",
+        "Tytoń – Lubelszczyzna, Rzeszowszczyzna, Kielecczyzna, Śląsk; chmiel – Wyżyna Sandomierska, Wyżyna Lubelska.",
+        "Rośliny pastewne – średnie wymagania termiczne i glebowe, duże wodne; Pojezierze Mazurskie, Nizina Mazowiecka, Podkarpacie."
+      ]
+    },
+    {
+      "heading": "6. Chwasty roślin uprawnych",
+      "points": [
+        "Chwasty to wszelka niepożądana roślinność rosnąca dziko na polu, łące czy pastwisku; konkurują o przestrzeń, światło, wodę i składniki pokarmowe.",
+        "Wg miejsca występowania: segetalne (na polach, np. chaber bławatek, kąkol polny, mak polny), ruderalne (tereny nieuprawiane, bogate w azot, np. łopian, pokrzywa), użytków zielonych (np. ostrożeń, wilczomlecz, szelężnik).",
+        "Wg właściwości biologicznych: jednoliścienne (perz właściwy, chwastnica jednostronna, miotła zbożowa, owies głuchy, turzyca) i dwuliścienne (przytulia czepna, gorczyca polna, rzodkiew świrzepa, komosa biała, tobołek polny, tasznik pospolity).",
+        "Wg sposobu odżywiania: cudzożywne (pasożyty zielone, np. szelężnik; bezzieleniowe, np. kanianka) i samożywne – monokarpiczne (owocują raz, np. gorczyca polna, rdest ptasi) i polikarpiczne (owocują wielokrotnie, np. perz właściwy, złoć polna).",
+        "Wg cyklu życiowego: jednoroczne (mak polny, stokłosa polna), dwuletnie (wiesiołek dwuletni), wieloletnie (mniszek pospolity, perz właściwy, ostrożeń polny, skrzyp polny).",
+        "Wg warstwy łanu: górnej (ostrożeń polny, owies głuchy, miotła zbożowa), środkowej (chaber bławatek, kąkol polny, stokłosa polna – zanieczyszczają materiał siewny), dolnej (fiołek polny, rolnica pospolita), przyziemnej (połocznik kosmaty, lnica zgiętoostrogowa).",
+        "Trujące chwasty: szczwół plamisty, zimowit jesienny, kąkol polny; owies głuchy łatwo krzyżuje się z owsem uprawnym; ostrożeń polny trudny do wytępienia.",
+        "Skutki: obniżenie plonów, obniżenie wartości plonów (tobołek – gorzki smak mąki, lnicznik – gorszy olej rzepakowy, gorczyca polna – utrudniony przemiał), zagrożenie dla ludzi i zwierząt, utrudnienie zbioru (szarłat palmera, zaślaz pospolity), żywiciele chorób i szkodników."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Zasadnicze zadanie produkcji roślinnej",
+      "back": "Przetwarzanie materii nieorganicznej w organiczną przy wykorzystaniu energii słonecznej za pośrednictwem aparatu fotosyntetycznego roślin samożywnych (autotroficznych)."
+    },
+    {
+      "front": "Co obejmuje produkcja roślinna?",
+      "back": "Polową produkcję roślinną na gruntach ornych, produkcję pasz na użytkach zielonych (łąki, pastwiska) oraz trwałe plantacje (sady, szkółki, chmielniki, winnice)."
+    },
+    {
+      "front": "Rośliny zbożowe – definicja",
+      "back": "Jednoroczne rośliny uprawne z rodziny traw, których głównym plonem jest ziarno przerabiane na mąkę, kaszę lub płatki; wykorzystywane także jako pasza."
+    },
+    {
+      "front": "Które zboże nie należy do rodziny traw?",
+      "back": "Gryka – należy do rodziny rdestowatych."
+    },
+    {
+      "front": "Rośliny okopowe – definicja i przykłady",
+      "back": "Rośliny uprawiane dla zbioru podziemnych organów, wymagające okopywania, np. ziemniaki, buraki cukrowe i pastewne, rzepa, marchew pastewna, brukiew."
+    },
+    {
+      "front": "Grupy roślin przemysłowych",
+      "back": "Oleiste (rzepak, rzepik, słonecznik, gorczyca), włókniste (len, konopie) i specjalne (chmiel, tytoń szlachetny, wiklina, rośliny zielarskie)."
+    },
+    {
+      "front": "Rośliny motylkowe grubonasienne (strączkowe) – przykłady",
+      "back": "Wyka, łubin, groch (peluszka), bobik."
+    },
+    {
+      "front": "Rośliny motylkowe drobnonasienne – przykłady",
+      "back": "Koniczyna, lucerna, seradela, esparceta, komonica."
+    },
+    {
+      "front": "Rośliny pastewne niemotylkowe – przykłady",
+      "back": "Kukurydza, kapusta pastewna, słonecznik pastewny, dynia pastewna."
+    },
+    {
+      "front": "Jaki udział w powierzchni zasiewów w Polsce mają zboża?",
+      "back": "Niemal 74% krajowej powierzchni zasiewów – to główna grupa roślin uprawianych w Polsce."
+    },
+    {
+      "front": "Zboża wykorzystywane na cele pastewne",
+      "back": "Jęczmień, żyto, kukurydza i owies."
+    },
+    {
+      "front": "Wykorzystanie słomy zbożowej",
+      "back": "Pasza lub ściółka w produkcji zwierzęcej, surowiec energetyczny, surowiec do produkcji celulozy, materiał ocieplający."
+    },
+    {
+      "front": "Podział roślin okopowych",
+      "back": "Bulwiaste (ziemniak, topinambur) i korzeniowe (burak, marchew, rzepa, brukiew)."
+    },
+    {
+      "front": "Okopowe o największym znaczeniu gospodarczym w Polsce",
+      "back": "Ziemniaki, marchew i buraki."
+    },
+    {
+      "front": "Kierunki wykorzystania ziemniaków",
+      "back": "Konsumpcja (także produkty uszlachetnione, np. frytki, chipsy), pasza dla zwierząt, przemysł (alkohol etylowy, krochmal) i reprodukcja (sadzeniaki)."
+    },
+    {
+      "front": "Solanina",
+      "back": "Toksyczny związek chemiczny zawarty w owocach, częściach zielonych i zielonych bulwach ziemniaka; spożyty może powodować poważne zatrucia pokarmowe."
+    },
+    {
+      "front": "Rodzaje buraków wg przeznaczenia",
+      "back": "Cukrowy (przemysł cukrowniczy), ćwikłowy (konsumpcja), pastewny (pasza) – wszystkie dla korzenia; liściowy (boćwina) – dla jadalnych liści, w Polsce słabo znany."
+    },
+    {
+      "front": "Produkty uboczne produkcji buraka i ich wykorzystanie",
+      "back": "Liście, wysłodki, melasa – pasza dla zwierząt lub surowiec przemysłowy (gliceryna, spirytus techniczny, drożdże)."
+    },
+    {
+      "front": "Przemysły wykorzystujące rośliny oleiste",
+      "back": "Olejarski (margaryna, masło roślinne), cukierniczo-piekarski (mak, słonecznik), kosmetyczny (środki piorące), chemiczny (farby, lakiery, linoleum), w mniejszym zakresie włókienniczy i garbarski."
+    },
+    {
+      "front": "Wykorzystanie roślin włóknistych",
+      "back": "Głównie przemysł włókienniczy (tkaniny, nici, sznury, worki), mniej tapicerstwo, budownictwo (płyty izolacyjne), papiernictwo; nasiona lnu i konopi są źródłem tłuszczu."
+    },
+    {
+      "front": "Formy wykorzystania roślin pastewnych",
+      "back": "Zielona masa (pasza), surowiec do produkcji siana, suszu i kiszonek; niektóre (koniczyna, seradela) w międzyplonach jako poplony, plony wtóre lub wsiewki."
+    },
+    {
+      "front": "Znaczenie roślin motylkowych drobnonasiennych",
+      "back": "Bazowe źródło wartościowego i taniego białka dla zwierząt; poprawiają żyzność gleby, wzbogacając ją w azot pobierany z powietrza (dzięki bakteriom)."
+    },
+    {
+      "front": "Ziarniak",
+      "back": "Owoc zbóż, będący jednocześnie nasieniem."
+    },
+    {
+      "front": "Elementy budowy ziarniaka i ich udział",
+      "back": "Zarodek ok. 2,5%, bielmo ok. 89,5%, okrywa owocowo-nasienna ok. 8%."
+    },
+    {
+      "front": "Bielmo",
+      "back": "Największa część ziarniaka (ok. 89,5%), źródło pokarmu dla młodej rośliny; zewnętrzna warstwa aleuronowa bogata w białko, tłuszcz i witaminy, wnętrze – głównie skrobia."
+    },
+    {
+      "front": "Bródka",
+      "back": "Kępka włosków w górnej części ziarna regulująca jego wilgotność w czasie dojrzewania; gromadzi brud, bakterie i zarodniki grzybów, usuwana w łuszczarkach."
+    },
+    {
+      "front": "Bruzdka",
+      "back": "Podłużny rowek po brzusznej stronie ziarna (pszenica, żyto, owies, jęczmień), pozostałość po wiązce sitowo-naczyniowej; im większa, tym gorszy surowiec młynarski."
+    },
+    {
+      "front": "Zboża bez bruzdki, wytwarzające jeden korzonek",
+      "back": "Kukurydza, gryka, proso."
+    },
+    {
+      "front": "Liczba korzonków zarodkowych: żyto, jęczmień, owies",
+      "back": "Żyto – 4, jęczmień – 5–8, owies – 3–4."
+    },
+    {
+      "front": "Liczba korzonków: pszenica ozima, pszenica jara, proso, kukurydza",
+      "back": "Pszenica ozima – 3, pszenica jara – 5, proso – 1, kukurydza – 1."
+    },
+    {
+      "front": "Nasiona buraka",
+      "back": "Kłębki zawierające od kilku do kilkunastu ciemnobrązowych nasion, każde pod tzw. wieczkiem; wyróżnia się kłębki jedno- i wielokiełkowe."
+    },
+    {
+      "front": "Nasiona rzepaku",
+      "back": "Rozwijają się w łuszczynie (20–30 szt.), czarne lub czarnobrunatne, kuliste, średnica 2–3 mm; tłuszcz zgromadzony w komórkach liścieni."
+    },
+    {
+      "front": "Nasiona lnu",
+      "back": "W pięciokomorowej torebce, płaskie, jajowate, błyszczące, brunatne lub oliwkowe; masa 1000 nasion 4,1–5,5 g; nazywane siemieniem lnianym."
+    },
+    {
+      "front": "Nasiona konopi",
+      "back": "Orzeszek jednonasienny; masa 1000 nasion: konopie dzikie 8–12 g, konopie południowe 18–26 g."
+    },
+    {
+      "front": "Najmniejsze i największe nasiona motylkowych drobnonasiennych",
+      "back": "Najmniejsze – koniczyna biała i białoróżowa (1000 nasion 0,5–1,5 g), największe – esparceta (1000 nasion 14 g)."
+    },
+    {
+      "front": "Nasiona motylkowych grubonasiennych",
+      "back": "W strąku; najmniejsze ma wyka, największe bobik; zbudowane z łupiny nasiennej, dwóch liścieni i małego zarodka."
+    },
+    {
+      "front": "Materiał siewny – definicja",
+      "back": "Wszelkie organy generatywne (nasiona, owoce, owocostany) i wegetatywne (bulwy, cebule, korzenie spichrzowe, kłącza) służące do rozmnażania roślin."
+    },
+    {
+      "front": "Materiał siewny generatywny – przykłady",
+      "back": "Ziarniaki (zboża), nasiona (len, rzepak), kłębki jedno- i wielokiełkowe (buraki), orzeszki (konopie), niełupki (słonecznik), rozłupki (marchew)."
+    },
+    {
+      "front": "Materiał wegetatywny do sadzenia – przykłady",
+      "back": "Bulwy (ziemniaki), cebule (cebula), korzenie spichrzowe (buraki), karpy korzeniowe (chmiel)."
+    },
+    {
+      "front": "Proces wyradzania",
+      "back": "Pogorszenie jakości plonów wskutek wieloletniego rozmnażania roślin w gospodarstwie; zapobiega mu okresowa wymiana na materiał kwalifikowany."
+    },
+    {
+      "front": "SE (superelita)",
+      "back": "Bezpośrednie rozmnożenie materiału matecznego dla gatunków o niskim współczynniku rozmnażania."
+    },
+    {
+      "front": "Eh (elita hodowlana)",
+      "back": "Bezpośrednie rozmnożenie materiału matecznego dla gatunków o wysokim współczynniku rozmnażania."
+    },
+    {
+      "front": "E (elita)",
+      "back": "Bezpośrednie rozmnożenie superelity."
+    },
+    {
+      "front": "I ods i O kw",
+      "back": "I ods (pierwszy odsiew) – rozmnożenie oryginału; O kw (odsiew kwalifikowany) – rozmnożenie pierwszego odsiewu lub odsiewu kwalifikowanego."
+    },
+    {
+      "front": "Klasy sadzeniaków ziemniaka z rozmnożenia oryginału",
+      "back": "Klasa A, B lub C."
+    },
+    {
+      "front": "Co ile lat wymieniać materiał siewny?",
+      "back": "Co 3–5 lat – później większość odmian traci jakość plonów (choroby grzybowe, krzyżowanie odmian, niekorzystne warunki)."
+    },
+    {
+      "front": "Ocena nasion z własnych zbiorów",
+      "back": "Ocena organoleptyczna (barwa, połysk, zapach, porażenie szkodnikami i chorobami); Stacja Oceny Nasion określa m.in. czystość, zdolność kiełkowania, wilgotność."
+    },
+    {
+      "front": "Wymagania pszenicy",
+      "back": "Duże wymagania klimatyczno-glebowe, gleby bogate (czarnoziemy, mady, czarne ziemie), odpowiednia wilgotność; m.in. Żuławy Wiślane, Nizina Wielkopolska, Nizina Śląska."
+    },
+    {
+      "front": "Wymagania żyta",
+      "back": "Niskie wymagania klimatyczno-glebowe; słabe, lekkie, nawet zdegradowane gleby; rejony: Nizina Mazowiecka, Podlasie."
+    },
+    {
+      "front": "Wymagania jęczmienia",
+      "back": "Wysokie wymagania; urodzajne gleby i łagodny klimat; rejony: Nizina Śląska, Przedgórze Sudeckie, Kujawy, Żuławy Wiślane."
+    },
+    {
+      "front": "Wymagania owsa",
+      "back": "Niskie wymagania glebowe, duże wymagania wilgotnościowe; rejony: Podkarpacie, Karpaty, Pojezierze Pomorskie, Nizina Mazowiecka."
+    },
+    {
+      "front": "Wymagania ziemniaków",
+      "back": "Niskie wymagania; gleby mało żyzne (lekkie, piaszczyste, bielicowe); rejony: Nizina Mazowiecka, Nizina Podlaska."
+    },
+    {
+      "front": "Wymagania buraków cukrowych",
+      "back": "Wysokie; bardzo dobre gleby, dużo wilgoci i ciepła, intensywne nawożenie, okopywanie i odchwaszczanie; Nizina Śląska, Przedgórze Sudeckie."
+    },
+    {
+      "front": "Rejony uprawy tytoniu i chmielu w Polsce",
+      "back": "Tytoń: Lubelszczyzna, Rzeszowszczyzna, Kielecczyzna, Śląsk. Chmiel: Wyżyna Sandomierska, Wyżyna Lubelska."
+    },
+    {
+      "front": "Wymagania roślin pastewnych",
+      "back": "Średnie wymagania termiczne i glebowe, duże wodne; Pojezierze Mazurskie, Nizina Mazowiecka, Podkarpacie."
+    },
+    {
+      "front": "Chwasty – definicja",
+      "back": "Wszelka niepożądana roślinność rosnąca dziko na polu uprawnym, łące czy pastwisku, konkurująca z uprawami o przestrzeń, światło, wodę i składniki pokarmowe."
+    },
+    {
+      "front": "Chwasty segetalne",
+      "back": "Rosnące głównie na polach wśród roślin uprawnych, obniżające plony, np. chaber bławatek, kąkol polny, ostróżeczka polna, mak polny, kurzyślad polny."
+    },
+    {
+      "front": "Chwasty ruderalne",
+      "back": "Rosnące na terenach nieuprawianych (rowy, miedze), często bogatych w azot, np. łopian, pokrzywa."
+    },
+    {
+      "front": "Chwasty użytków zielonych",
+      "back": "Na łąkach i pastwiskach: niezjadane (pokrzywa, ostrożeń), trudno trawione lub trujące (wilczomlecz) oraz pasożytnicze (szelężnik)."
+    },
+    {
+      "front": "Chwasty jednoliścienne – przykłady",
+      "back": "Perz właściwy, chwastnica jednostronna, miotła zbożowa, owies głuchy, turzyca."
+    },
+    {
+      "front": "Chwasty dwuliścienne – przykłady",
+      "back": "Przytulia czepna, gorczyca polna, rzodkiew świrzepa, komosa biała, tobołek polny, tasznik pospolity."
+    },
+    {
+      "front": "Pasożyty zielone vs bezzieleniowe",
+      "back": "Zielone (np. szelężnik) mają chlorofil i pobierają wodę i składniki mineralne; bezzieleniowe (np. kanianka) pobierają wszystkie składniki, nie asymilują samodzielnie."
+    },
+    {
+      "front": "Chwasty monokarpiczne vs polikarpiczne",
+      "back": "Monokarpiczne owocują raz w życiu, rozmnażają się generatywnie (gorczyca polna, rdest ptasi, barszcz zwyczajny); polikarpiczne owocują wielokrotnie, także wegetatywnie (perz właściwy, złoć polna)."
+    },
+    {
+      "front": "Chwasty wg cyklu życiowego – przykłady",
+      "back": "Jednoroczne: mak polny, stokłosa polna; dwuletnie: wiesiołek dwuletni; wieloletnie: mniszek pospolity, perz właściwy, ostrożeń polny, skrzyp polny."
+    },
+    {
+      "front": "Chwasty warstwy górnej",
+      "back": "Wyższe od roślin uprawnych, kwitną i owocują wcześniej, np. ostrożeń polny, owies głuchy, miotła zbożowa."
+    },
+    {
+      "front": "Chwasty warstwy środkowej",
+      "back": "Sięgają ponad połowę wysokości upraw, dojrzewają razem z nimi i zanieczyszczają materiał siewny, np. chaber bławatek, kąkol polny, stokłosa polna."
+    },
+    {
+      "front": "Chwasty warstwy dolnej i przyziemnej",
+      "back": "Dolnej: niskie, nie zbierane z plonem (fiołek polny, rolnica pospolita); przyziemnej: płożące się (połocznik kosmaty, lnica zgiętoostrogowa)."
+    },
+    {
+      "front": "Trujące chwasty wymienione w materiale",
+      "back": "Szczwół plamisty (siedliska ruderalne), zimowit jesienny (wilgotne łąki), kąkol polny (segetalny warstwy środkowej)."
+    },
+    {
+      "front": "Skutki występowania chwastów",
+      "back": "Obniżenie plonów i ich wartości, zagrożenie dla ludzi i zwierząt (chwasty trujące), utrudnienie zbiorów, przenoszenie chorób i szkodników."
+    },
+    {
+      "front": "Jak chwasty obniżają wartość plonów? (przykłady)",
+      "back": "Nasiona tobołków nadają mące gorzki smak, nasiona lnicznika obniżają wartość oleju rzepakowego, nasiona gorczycy polnej utrudniają przemiał zbóż."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Które zboże NIE należy do rodziny traw?",
+      "options": [
+        "Proso",
+        "Gryka",
+        "Pszenżyto",
+        "Kukurydza"
+      ],
+      "answer": 1,
+      "explain": "Gryka należy do rodziny rdestowatych, pozostałe zboża – do rodziny traw."
+    },
+    {
+      "q": "Jaki udział w krajowej powierzchni zasiewów mają zboża?",
+      "options": [
+        "Około 50%",
+        "Około 60%",
+        "Niemal 74%",
+        "Ponad 90%"
+      ],
+      "answer": 2,
+      "explain": "Zboża obejmują niemal 74% krajowej powierzchni zasiewów."
+    },
+    {
+      "q": "Do roślin włóknistych zalicza się:",
+      "options": [
+        "Len i konopie",
+        "Rzepak i gorczycę",
+        "Chmiel i tytoń",
+        "Łubin i bobik"
+      ],
+      "answer": 0,
+      "explain": "Rośliny włókniste to np. len i konopie."
+    },
+    {
+      "q": "Chmiel, tytoń szlachetny i wiklina należą do roślin przemysłowych:",
+      "options": [
+        "oleistych",
+        "włóknistych",
+        "pastewnych",
+        "specjalnych"
+      ],
+      "answer": 3,
+      "explain": "Do roślin specjalnych zalicza się chmiel, tytoń szlachetny, wiklinę i rośliny zielarskie."
+    },
+    {
+      "q": "Która roślina jest motylkową drobnonasienną?",
+      "options": [
+        "Bobik",
+        "Lucerna",
+        "Wyka",
+        "Łubin"
+      ],
+      "answer": 1,
+      "explain": "Motylkowe drobnonasienne to m.in. koniczyna, lucerna, seradela, esparceta, komonica."
+    },
+    {
+      "q": "Topinambur należy do roślin okopowych:",
+      "options": [
+        "bulwiastych",
+        "korzeniowych",
+        "oleistych",
+        "liściowych"
+      ],
+      "answer": 0,
+      "explain": "Do okopowych bulwiastych należą ziemniak oraz topinambur."
+    },
+    {
+      "q": "Toksyczny związek zawarty w zielonych bulwach ziemniaka to:",
+      "options": [
+        "Melasa",
+        "Nitrozoamina",
+        "Solanina",
+        "Kumaryna"
+      ],
+      "answer": 2,
+      "explain": "Owoce, części zielone i zielone bulwy ziemniaka zawierają solaninę."
+    },
+    {
+      "q": "Boćwina to burak uprawiany ze względu na:",
+      "options": [
+        "korzeń dla cukrowni",
+        "jadalne liście",
+        "korzeń na paszę",
+        "nasiona"
+      ],
+      "answer": 1,
+      "explain": "Burak liściowy (boćwina) jest uprawiany ze względu na jadalne liście; w Polsce słabo znany."
+    },
+    {
+      "q": "Która roślina oleista może być wykorzystana do produkcji biopaliw?",
+      "options": [
+        "Mak",
+        "Gorczyca",
+        "Len",
+        "Rzepak"
+      ],
+      "answer": 3,
+      "explain": "Materiał podaje, że rzepak wykorzystywany może być do produkcji biopaliw."
+    },
+    {
+      "q": "Ziarno którego zboża ma największą wartość pokarmową?",
+      "options": [
+        "Kukurydzy",
+        "Owsa",
+        "Żyta",
+        "Jęczmienia"
+      ],
+      "answer": 0,
+      "explain": "Ziarno kukurydzy ma największą wartość pokarmową w porównaniu z innymi zbożami."
+    },
+    {
+      "q": "Jaki procent ziarniaka stanowi bielmo?",
+      "options": [
+        "Ok. 2,5%",
+        "Ok. 8%",
+        "Ok. 50%",
+        "Ok. 89,5%"
+      ],
+      "answer": 3,
+      "explain": "Bielmo stanowi ok. 89,5% ziarniaka, zarodek ok. 2,5%, okrywa ok. 8%."
+    },
+    {
+      "q": "Zewnętrzna część bielma bogata w białko, tłuszcz i witaminy to:",
+      "options": [
+        "Bródka",
+        "Warstwa aleuronowa",
+        "Bruzdka",
+        "Wieczko"
+      ],
+      "answer": 1,
+      "explain": "Zewnętrzna część bielma to warstwa aleuronowa, bogata w białko, tłuszcz i witaminy."
+    },
+    {
+      "q": "Kępka włosków regulująca wilgotność ziarna podczas dojrzewania to:",
+      "options": [
+        "Bruzdka",
+        "Zarodek",
+        "Bródka",
+        "Okrywa"
+      ],
+      "answer": 2,
+      "explain": "Bródka reguluje wilgotność ziarna; usuwana jest w łuszczarkach."
+    },
+    {
+      "q": "Jak wielkość bruzdki wpływa na wartość młynarską ziarna?",
+      "options": [
+        "Im większa bruzdka, tym gorszy surowiec",
+        "Im większa bruzdka, tym lepszy surowiec",
+        "Nie ma wpływu",
+        "Wpływa tylko na kukurydzę"
+      ],
+      "answer": 0,
+      "explain": "Im większą bruzdkę ma ziarno, tym jest ono gorszym surowcem młynarskim."
+    },
+    {
+      "q": "Ile korzonków zarodkowych wytwarza żyto?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "5–8"
+      ],
+      "answer": 2,
+      "explain": "Żyto wytwarza 4 korzenie zarodkowe."
+    },
+    {
+      "q": "Które zboże wytwarza 5–8 korzonków zarodkowych?",
+      "options": [
+        "Owies",
+        "Jęczmień",
+        "Pszenica ozima",
+        "Proso"
+      ],
+      "answer": 1,
+      "explain": "Jęczmień wytwarza 5–8 korzeni, owies 3–4, pszenica ozima 3, proso 1."
+    },
+    {
+      "q": "Ile wynosi masa 1000 nasion lnu?",
+      "options": [
+        "0,5–1,5 g",
+        "4,1–5,5 g",
+        "8–12 g",
+        "18–26 g"
+      ],
+      "answer": 1,
+      "explain": "1000 szt. nasion lnu ma masę 4,1–5,5 g."
+    },
+    {
+      "q": "Siemię lniane to nazwa nasion:",
+      "options": [
+        "konopi",
+        "rzepaku",
+        "lnu",
+        "gorczycy"
+      ],
+      "answer": 2,
+      "explain": "Nasiona lnu noszą nazwę siemienia lnianego."
+    },
+    {
+      "q": "Która roślina motylkowa drobnonasienna ma największe nasiona?",
+      "options": [
+        "Koniczyna biała",
+        "Lucerna",
+        "Seradela",
+        "Esparceta"
+      ],
+      "answer": 3,
+      "explain": "Największe nasiona ma esparceta (1000 szt. – 14 g), najmniejsze koniczyna biała i białoróżowa."
+    },
+    {
+      "q": "Owocem słonecznika jest:",
+      "options": [
+        "niełupka",
+        "łuszczyna",
+        "rozłupka",
+        "orzeszek"
+      ],
+      "answer": 0,
+      "explain": "Owoc słonecznika to suchy, niepękający owoc – niełupka."
+    },
+    {
+      "q": "Karpy korzeniowe są materiałem wegetatywnym do sadzenia:",
+      "options": [
+        "ziemniaków",
+        "chmielu",
+        "buraków",
+        "cebuli"
+      ],
+      "answer": 1,
+      "explain": "Karpy korzeniowe to materiał wegetatywny np. chmielu."
+    },
+    {
+      "q": "Rozłupki jako materiał siewny generatywny wysiewa się w przypadku:",
+      "options": [
+        "słonecznika",
+        "konopi",
+        "marchwi",
+        "buraka"
+      ],
+      "answer": 2,
+      "explain": "Rozłupki to materiał siewny np. marchwi."
+    },
+    {
+      "q": "Stopień kwalifikacji E (elita) to bezpośrednie rozmnożenie:",
+      "options": [
+        "oryginału",
+        "pierwszego odsiewu",
+        "materiału matecznego",
+        "superelity"
+      ],
+      "answer": 3,
+      "explain": "E (elita) to bezpośrednie rozmnożenie superelity."
+    },
+    {
+      "q": "Stopień SE (superelita) dotyczy rozmnożenia materiału matecznego gatunków o:",
+      "options": [
+        "niskim współczynniku rozmnażania",
+        "wysokim współczynniku rozmnażania",
+        "długim okresie wegetacji",
+        "dużej masie nasion"
+      ],
+      "answer": 0,
+      "explain": "SE to rozmnożenie materiału matecznego dla gatunków o niskim współczynniku rozmnażania; Eh – o wysokim."
+    },
+    {
+      "q": "Co ile lat zaleca się wymianę materiału siewnego?",
+      "options": [
+        "Co roku",
+        "Co 3–5 lat",
+        "Co 6–8 lat",
+        "Co 10 lat"
+      ],
+      "answer": 1,
+      "explain": "Dla utrzymania plenności zaleca się wymianę materiału siewnego co 3–5 lat."
+    },
+    {
+      "q": "Które zboże ma niskie wymagania i jest uprawiane głównie na Nizinie Mazowieckiej i Podlasiu?",
+      "options": [
+        "Pszenica",
+        "Jęczmień",
+        "Żyto",
+        "Pszenżyto"
+      ],
+      "answer": 2,
+      "explain": "Żyto ma niskie wymagania klimatyczno-glebowe; główne rejony to Nizina Mazowiecka i Podlasie."
+    },
+    {
+      "q": "Owies ma szczególnie duże wymagania w zakresie:",
+      "options": [
+        "wilgotności",
+        "żyzności gleby",
+        "temperatury",
+        "odczynu"
+      ],
+      "answer": 0,
+      "explain": "Owies ma niskie wymagania glebowe i duże wymagania wilgotnościowe."
+    },
+    {
+      "q": "Główne rejony uprawy chmielu w Polsce to:",
+      "options": [
+        "Żuławy Wiślane i Kujawy",
+        "Nizina Mazowiecka i Podlasie",
+        "Pojezierze Mazurskie i Podkarpacie",
+        "Wyżyna Sandomierska i Wyżyna Lubelska"
+      ],
+      "answer": 3,
+      "explain": "Największe rejony uprawy chmielu: Wyżyna Sandomierska, Wyżyna Lubelska."
+    },
+    {
+      "q": "Chwasty rosnące na rowach i miedzach, często na terenach bogatych w azot, to chwasty:",
+      "options": [
+        "segetalne",
+        "ruderalne",
+        "użytków zielonych",
+        "przyziemne"
+      ],
+      "answer": 1,
+      "explain": "Chwasty ruderalne rosną na terenach nieuprawianych, często bogatych w azot (np. łopian, pokrzywa)."
+    },
+    {
+      "q": "Kanianka to przykład:",
+      "options": [
+        "pasożyta zielonego",
+        "chwastu monokarpicznego",
+        "pasożyta bezzieleniowego",
+        "chwastu ruderalnego jednoliściennego"
+      ],
+      "answer": 2,
+      "explain": "Kanianka pobiera z roślin wszystkie składniki i nie asymiluje samodzielnie – to pasożyt bezzieleniowy."
+    },
+    {
+      "q": "Który chwast jest jednoliścienny?",
+      "options": [
+        "Przytulia czepna",
+        "Komosa biała",
+        "Tobołek polny",
+        "Perz właściwy"
+      ],
+      "answer": 3,
+      "explain": "Perz właściwy należy do chwastów jednoliściennych; pozostałe są dwuliścienne."
+    },
+    {
+      "q": "Chwasty warstwy środkowej są szczególnie szkodliwe, ponieważ:",
+      "options": [
+        "zanieczyszczają materiał siewny, będąc zbierane z plonem",
+        "uszkadzają kombajny",
+        "zawsze są trujące",
+        "płożą się po ziemi"
+      ],
+      "answer": 0,
+      "explain": "Chwasty warstwy środkowej dojrzewają razem z uprawami i są zbierane z plonami, zanieczyszczając materiał siewny."
+    },
+    {
+      "q": "Wiesiołek dwuletni to przykład chwastu:",
+      "options": [
+        "jednorocznego",
+        "dwuletniego",
+        "wieloletniego",
+        "pasożytniczego"
+      ],
+      "answer": 1,
+      "explain": "Materiał podaje wiesiołek dwuletni jako przykład chwastu dwuletniego."
+    },
+    {
+      "q": "Który chwast trujący występuje na wilgotnych łąkach?",
+      "options": [
+        "Chaber bławatek",
+        "Jarzębiec kosmaczek",
+        "Zimowit jesienny",
+        "Trybula leśna"
+      ],
+      "answer": 2,
+      "explain": "Zimowit jesienny to trujący chwast występujący na wilgotnych łąkach."
+    },
+    {
+      "q": "Nasiona którego chwastu nadają mące gorzki smak?",
+      "options": [
+        "Tobołka",
+        "Lnicznika",
+        "Gorczycy polnej",
+        "Szarłatu palmera"
+      ],
+      "answer": 0,
+      "explain": "Nasiona tobołków nadają mące gorzki smak; lnicznik obniża wartość oleju, gorczyca utrudnia przemiał."
+    },
+    {
+      "q": "Który chwast łatwo krzyżuje się z rośliną uprawną?",
+      "options": [
+        "Ostrożeń polny",
+        "Kąkol polny",
+        "Miotła zbożowa",
+        "Owies głuchy"
+      ],
+      "answer": 3,
+      "explain": "Owies głuchy łatwo krzyżuje się z owsem uprawnym."
+    }
+  ]
+}
