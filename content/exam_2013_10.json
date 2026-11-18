@@ -1,0 +1,673 @@
+{
+  "id": "exam_2013_10",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz październik 2013",
+  "number": "2013/10",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Ile nawozu wapniowego należy zastosować na 4 ha gleb średnich o pH równym 5,2?",
+      "back": "12,0 t"
+    },
+    {
+      "front": "Jeżeli orkę siewną wykonuje się w bardzo krótkim czasie przed siewem żyta ozimego, w takiej sytuacji pług należy zagregatować",
+      "back": "z wałem Campbella."
+    },
+    {
+      "front": "Podczas transportu ciągnikiem z obciążoną przyczepą dwuosiową zbyt niskie ciśnienie w układzie pneumatycznym ciągnika może spowodować",
+      "back": "brak działania hamulców przyczepy."
+    },
+    {
+      "front": "Która roślina jest najlepszym przedplonem dla pszenicy ozimej?",
+      "back": "Rzepak ozimy."
+    },
+    {
+      "front": "W celu utrzymania stałej ilości wysiewu nasion, niezależnie od prędkości jazdy i prędkości obrotowej silnika, w siewnikach stosuje się napęd na kółka wysiewające",
+      "back": "z koła jezdnego siewnika."
+    },
+    {
+      "front": "Podaj typ rozdrabniacza bijakowego, który przy maksymalnej wydajności zużywa najwięcej energii elektrycznej. [tabela – moc silnika: H113/5 – 11 kW, H113/7 – 7,5 kW, H950 – 3 kW, H950/1 – 5,5 kW]",
+      "back": "H113/5"
+    },
+    {
+      "front": "Wyrównanie powierzchni pola wczesną wiosną i przerwanie parowania wody z głębszych warstw roli, szczególnie na glebach ciężkich, można osiągnąć poprzez",
+      "back": "włókowanie."
+    },
+    {
+      "front": "Optymalny termin sadzenia ziemniaków przypada wtedy, gdy temperatura gleby na głębokości 10 cm wynosi",
+      "back": "6 ÷ 8 °C"
+    },
+    {
+      "front": "Jednoroczny chwast przedstawiony na rysunku, występuje głównie w zbożach. Jest to",
+      "back": "miotła zbożowa.",
+      "img": "img/exam_2013_10/zad9.jpg"
+    },
+    {
+      "front": "Ile białka ogólnego (g) i energii netto (MJ) trzeba dziennie zapewnić krowie do produkcji 30 kg mleka o zawartości 4 % tłuszczu? [tabela – na 1 kg mleka o 4% tłuszczu: 3,2 MJ energii netto i 85 g białka ogólnego]",
+      "back": "96 MJ; 2550 g"
+    },
+    {
+      "front": "Dobierz zestaw roślin do uprawy na glebach kompleksu żytniego dobrego i żytniego słabego.",
+      "back": "Żyto, ziemniaki przemysłowe, owies."
+    },
+    {
+      "front": "Zastosowanie folii do owijania balotów z podsuszonej zielonki ma na celu przede wszystkim",
+      "back": "stworzenie warunków beztlenowych zakiszania."
+    },
+    {
+      "front": "Rośliny, na których zostały zastosowane zabiegi chemicznej ochrony, mogą być zbierane i skarmiane",
+      "back": "po okresie karencji."
+    },
+    {
+      "front": "W którym przykładzie konieczne jest wykonanie siewu połową szerokości siewnika podczas pierwszego przejazdu, aby uzyskać rozstaw ścieżek technologicznych na podaną szerokość?",
+      "back": "Szerokość siewnika 3 m, rozstaw ścieżek - 12 m"
+    },
+    {
+      "front": "Zastosowanie ciągnika do jazdy równoległej, podczas wykonywania np. nawożenia z wykorzystaniem sygnału satelitarnego i anteny satelitarnej, wymaga odpowiedniego przystosowania w ciągniku układu",
+      "back": "kierowniczego."
+    },
+    {
+      "front": "Oblicz minimalną objętość silosu do przechowania 30 ton ziarna, jeżeli masa 1 m3 pszenicy jest równa 750 kg.",
+      "back": "40 m3"
+    },
+    {
+      "front": "Zgodnie z normatywem zawartym w tabeli, w kojcu o wymiarach 4m x 6m może być utrzymywanych maksymalnie [tabela – powierzchnia na sztukę: warchlaki 10–20 kg 0,20 m2; warchlaki 20–30 kg 0,30 m2; tuczniki 30–50 kg 0,40 m2; tuczniki 50–85 kg 0,55 m2; tuczniki 85–110 kg 0,65 m2]",
+      "back": "60 tuczników o masie do 50 kg."
+    },
+    {
+      "front": "Przedstawiony na rysunku przenośnik wykorzystywany jest do transportu",
+      "back": "ziarna.",
+      "img": "img/exam_2013_10/zad18.jpg"
+    },
+    {
+      "front": "Do nawożenia dolistnego zbóż azotem można zastosować roztwór",
+      "back": "mocznika."
+    },
+    {
+      "front": "Do oddzielenia nasion okrągłych od podłużnych (np. wyki od owsa) należy wykorzystać",
+      "back": "tryjer."
+    },
+    {
+      "front": "Rysunek przedstawia przekrój",
+      "back": "cylindra tryjera.",
+      "img": "img/exam_2013_10/zad21.jpg"
+    },
+    {
+      "front": "Przedstawionym na rysunku szkodnikiem jest",
+      "back": "stonka ziemniaczana.",
+      "img": "img/exam_2013_10/zad22.jpg"
+    },
+    {
+      "front": "Na rysunku znakiem X oznaczono staw",
+      "back": "kolanowy.",
+      "img": "img/exam_2013_10/zad23.jpg"
+    },
+    {
+      "front": "Przyczyną zapalenia się kontrolki ładowania akumulatora może być",
+      "back": "uszkodzony pasek napędzający alternator."
+    },
+    {
+      "front": "W celu dobrego przykrycia obornika lub słomy po zbiorze kukurydzy na ziarno należy podczas orki zastosować",
+      "back": "przedpłużki."
+    },
+    {
+      "front": "W czasie pracy kombajnu zbożowego w słomie stwierdzono dużą ilość niedomłóconych kłosów. W takiej sytuacji kombajnista powinien",
+      "back": "zmniejszyć szczelinę omłotową."
+    },
+    {
+      "front": "Wykonywana czynność na zdjęciu ma na celu",
+      "back": "sprawdzenie stanu zdrowotnego wymienia.",
+      "img": "img/exam_2013_10/zad27.jpg"
+    },
+    {
+      "front": "Rysunek przedstawia",
+      "back": "bronę wirnikową.",
+      "img": "img/exam_2013_10/zad28.jpg"
+    },
+    {
+      "front": "Na zdjęciu przedstawiono krowę rasy",
+      "back": "holsztyńsko-fryzyjskiej.",
+      "img": "img/exam_2013_10/zad29.jpg"
+    },
+    {
+      "front": "Przedstawione na rysunku poidło służy do pojenia",
+      "back": "trzody.",
+      "img": "img/exam_2013_10/zad30.jpg"
+    },
+    {
+      "front": "Przedstawiona na rysunku zgorzel liści sercowych buraka, jest objawem",
+      "back": "braku boru.",
+      "img": "img/exam_2013_10/zad31.jpg"
+    },
+    {
+      "front": "Oblicz, ile kg N mogą pobrać rośliny w pierwszym roku po zastosowaniu obornika w dawce 30 t/ha, jeżeli zawartość azotu w oborniku wynosi 0,45% oraz wykorzystanie azotu jest równe 30%.",
+      "back": "40,5 kg"
+    },
+    {
+      "front": "Przedstawiony na rysunku rozpylacz wykorzystywany jest podczas",
+      "back": "nawożenia roztworem doglebowo.",
+      "img": "img/exam_2013_10/zad33.jpg"
+    },
+    {
+      "front": "Utrata apetytu, spadek wydajności mleka, wydalany suchy i twardy kał oraz wydychana woń acetonu u krów wysokomlecznych, to objawy",
+      "back": "ketozy."
+    },
+    {
+      "front": "Dodatkiem do paliwa w ciągnikach dużej mocy spełniających normę emisji spalin EURO IIIB jest",
+      "back": "AdBlue."
+    },
+    {
+      "front": "Strefa bezpiecznego przebywania osób postronnych od pracujących kosiarek rotacyjnych wynosi minimum",
+      "back": "50 m"
+    },
+    {
+      "front": "Wysokość koszenia w kosiarkach rotacyjnych zawieszanych dolnonapędowych, reguluje się",
+      "back": "płozami."
+    },
+    {
+      "front": "Podaj prawidłową temperaturę mleka przeznaczonego na sprzedaż przy odbiorze z gospodarstwa",
+      "back": "co dwa dni - do 6 °C."
+    },
+    {
+      "front": "Dobierz przyczepę samozaładowczą do współpracy z ciągnikiem o mocy 70 kW z uwzględnieniem 20% zapasu mocy. [tabela – zapotrzebowanie na moc: T010 – 25 kW, T055 – 42 kW, T038 – 56 kW, T050 – 70 kW]",
+      "back": "T038"
+    },
+    {
+      "front": "Użytkowanie smuszkowe owiec ma na celu pozyskanie",
+      "back": "skór z dwu-trzydniowych jagniąt."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ile nawozu wapniowego należy zastosować na 4 ha gleb średnich o pH równym 5,2?",
+      "options": [
+        "16,0 t",
+        "12,0 t",
+        "10,0 t",
+        "6,0 t"
+      ],
+      "answer": 1,
+      "explain": "Dla gleby średniej o pH 5,2 zalecana dawka to ok. 3 t CaO/ha: 3 t × 4 ha = 12 t.",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Jeżeli orkę siewną wykonuje się w bardzo krótkim czasie przed siewem żyta ozimego, w takiej sytuacji pług należy zagregatować",
+      "options": [
+        "z wałem kolczatką.",
+        "z wałem Campbella.",
+        "z broną zębową średnią.",
+        "z broną zębową ciężką."
+      ],
+      "answer": 1,
+      "explain": "Wał Campbella ugniata głębsze warstwy świeżo zaoranej roli, co zastępuje naturalne osiadanie gleby przed siewem.",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "Podczas transportu ciągnikiem z obciążoną przyczepą dwuosiową zbyt niskie ciśnienie w układzie pneumatycznym ciągnika może spowodować",
+      "options": [
+        "blokowanie kół przyczepy.",
+        "awarię turbosprężarki w silniku ciągnika.",
+        "zapowietrzenie układu zasilania ciągnika.",
+        "brak działania hamulców przyczepy."
+      ],
+      "answer": 3,
+      "explain": "Hamulce przyczepy są uruchamiane sprężonym powietrzem, więc przy zbyt niskim ciśnieniu nie zadziałają skutecznie.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Która roślina jest najlepszym przedplonem dla pszenicy ozimej?",
+      "options": [
+        "Kukurydza na zielonkę.",
+        "Kukurydza na ziarno.",
+        "Rzepak ozimy.",
+        "Jęczmień ozimy."
+      ],
+      "answer": 2,
+      "explain": "Rzepak ozimy wcześnie schodzi z pola, zostawia glebę w dobrej strukturze i przerywa choroby zbożowe.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "W celu utrzymania stałej ilości wysiewu nasion, niezależnie od prędkości jazdy i prędkości obrotowej silnika, w siewnikach stosuje się napęd na kółka wysiewające",
+      "options": [
+        "z wałka odbioru mocy ciągnika poprzez napęd zależny.",
+        "z silnika hydraulicznego.",
+        "z wałka odbioru mocy ciągnika poprzez napęd niezależny.",
+        "z koła jezdnego siewnika."
+      ],
+      "answer": 3,
+      "explain": "Napęd od koła jezdnego wiąże obroty zespołu wysiewającego z przejechaną drogą, więc dawka na hektar jest stała.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Podaj typ rozdrabniacza bijakowego, który przy maksymalnej wydajności zużywa najwięcej energii elektrycznej. [tabela – moc silnika: H113/5 – 11 kW, H113/7 – 7,5 kW, H950 – 3 kW, H950/1 – 5,5 kW]",
+      "options": [
+        "H113/5",
+        "H113/7",
+        "H950",
+        "H950/1"
+      ],
+      "answer": 0,
+      "explain": "H113/5 ma najmocniejszy silnik (11 kW), więc zużywa najwięcej energii.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "Wyrównanie powierzchni pola wczesną wiosną i przerwanie parowania wody z głębszych warstw roli, szczególnie na glebach ciężkich, można osiągnąć poprzez",
+      "options": [
+        "włókowanie.",
+        "bronowanie z wałowaniem.",
+        "orkę.",
+        "kultywatorowanie z wałowaniem."
+      ],
+      "answer": 0,
+      "explain": "Włóka wyrównuje powierzchnię i kruszy skorupę, przerywając kapilarne parowanie wody wczesną wiosną.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Optymalny termin sadzenia ziemniaków przypada wtedy, gdy temperatura gleby na głębokości 10 cm wynosi",
+      "options": [
+        "6 ÷ 8 °C",
+        "12 ÷ 14 °C",
+        "3 ÷ 4 °C",
+        "9 ÷ 11 °C"
+      ],
+      "answer": 0,
+      "explain": "Ziemniaki sadzi się, gdy gleba na głębokości 10 cm nagrzeje się do ok. 6–8 °C.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Jednoroczny chwast przedstawiony na rysunku, występuje głównie w zbożach. Jest to",
+      "options": [
+        "przytulia czepna.",
+        "komosa biała.",
+        "powój zwyczajny.",
+        "miotła zbożowa."
+      ],
+      "answer": 3,
+      "explain": "Miotła zbożowa to jednoroczna trawa z dużą, delikatną wiechą, typowy chwast zbóż ozimych.",
+      "src": "Zad. 9",
+      "img": "img/exam_2013_10/zad9.jpg"
+    },
+    {
+      "q": "Ile białka ogólnego (g) i energii netto (MJ) trzeba dziennie zapewnić krowie do produkcji 30 kg mleka o zawartości 4 % tłuszczu? [tabela – na 1 kg mleka o 4% tłuszczu: 3,2 MJ energii netto i 85 g białka ogólnego]",
+      "options": [
+        "90 MJ; 1680 g",
+        "96 MJ; 1800 g",
+        "96 MJ; 2550 g",
+        "90 MJ; 2400 g"
+      ],
+      "answer": 2,
+      "explain": "30 kg × 3,2 MJ = 96 MJ; 30 kg × 85 g = 2550 g białka ogólnego.",
+      "src": "Zad. 10"
+    },
+    {
+      "q": "Dobierz zestaw roślin do uprawy na glebach kompleksu żytniego dobrego i żytniego słabego.",
+      "options": [
+        "Kukurydza na ziarno, pszenica jara, jęczmień ozimy.",
+        "Pszenżyto, ziemniaki wczesne, rzepak ozimy.",
+        "Burak cukrowy, jęczmień jary, lucerna.",
+        "Żyto, ziemniaki przemysłowe, owies."
+      ],
+      "answer": 3,
+      "explain": "Żyto, ziemniaki przemysłowe i owies mają małe wymagania glebowe, więc nadają się na kompleksy żytnie.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Zastosowanie folii do owijania balotów z podsuszonej zielonki ma na celu przede wszystkim",
+      "options": [
+        "dobre ugniecenie zielonki.",
+        "obniżenie kosztów zakiszania.",
+        "zabezpieczenie przed dostępem światła.",
+        "stworzenie warunków beztlenowych zakiszania."
+      ],
+      "answer": 3,
+      "explain": "Folia odcina dostęp powietrza, co umożliwia fermentację mlekową w warunkach beztlenowych.",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Rośliny, na których zostały zastosowane zabiegi chemicznej ochrony, mogą być zbierane i skarmiane",
+      "options": [
+        "po tygodniu.",
+        "następnego dnia.",
+        "po okresie prewencji.",
+        "po okresie karencji."
+      ],
+      "answer": 3,
+      "explain": "Karencja to minimalny czas od zabiegu do zbioru lub skarmiania roślin.",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "W którym przykładzie konieczne jest wykonanie siewu połową szerokości siewnika podczas pierwszego przejazdu, aby uzyskać rozstaw ścieżek technologicznych na podaną szerokość?",
+      "options": [
+        "Szerokość siewnika 3 m, rozstaw ścieżek - 12 m",
+        "Szerokość siewnika 6 m, rozstaw ścieżek - 18 m",
+        "Szerokość siewnika 3 m, rozstaw ścieżek - 15 m",
+        "Szerokość siewnika 4 m, rozstaw ścieżek - 12 m"
+      ],
+      "answer": 0,
+      "explain": "12 m : 3 m = 4 przejazdy (parzysta liczba), więc pierwszy przejazd wykonuje się połową szerokości siewnika.",
+      "src": "Zad. 14"
+    },
+    {
+      "q": "Zastosowanie ciągnika do jazdy równoległej, podczas wykonywania np. nawożenia z wykorzystaniem sygnału satelitarnego i anteny satelitarnej, wymaga odpowiedniego przystosowania w ciągniku układu",
+      "options": [
+        "pneumatycznego.",
+        "kierowniczego.",
+        "zawieszenia.",
+        "zasilania."
+      ],
+      "answer": 1,
+      "explain": "System jazdy równoległej (GPS) steruje kierunkiem jazdy, więc wymaga przystosowania układu kierowniczego.",
+      "src": "Zad. 15"
+    },
+    {
+      "q": "Oblicz minimalną objętość silosu do przechowania 30 ton ziarna, jeżeli masa 1 m3 pszenicy jest równa 750 kg.",
+      "options": [
+        "30 m3",
+        "50 m3",
+        "40 m3",
+        "60 m3"
+      ],
+      "answer": 2,
+      "explain": "30 000 kg : 750 kg/m3 = 40 m3.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Zgodnie z normatywem zawartym w tabeli, w kojcu o wymiarach 4m x 6m może być utrzymywanych maksymalnie [tabela – powierzchnia na sztukę: warchlaki 10–20 kg 0,20 m2; warchlaki 20–30 kg 0,30 m2; tuczniki 30–50 kg 0,40 m2; tuczniki 50–85 kg 0,55 m2; tuczniki 85–110 kg 0,65 m2]",
+      "options": [
+        "60 tuczników o masie do 50 kg.",
+        "24 tuczniki o masie do 85 kg.",
+        "48 tuczników o masie do 110 kg.",
+        "40 warchlaków o masie do 30 kg."
+      ],
+      "answer": 0,
+      "explain": "Kojec ma 24 m2; 24 : 0,40 m2 = 60 tuczników do 50 kg.",
+      "src": "Zad. 17"
+    },
+    {
+      "q": "Przedstawiony na rysunku przenośnik wykorzystywany jest do transportu",
+      "options": [
+        "słomy.",
+        "ziarna.",
+        "kiszonki.",
+        "gnojowicy."
+      ],
+      "answer": 1,
+      "explain": "Rurowy przenośnik ślimakowy służy do transportu materiałów sypkich, np. ziarna.",
+      "src": "Zad. 18",
+      "img": "img/exam_2013_10/zad18.jpg"
+    },
+    {
+      "q": "Do nawożenia dolistnego zbóż azotem można zastosować roztwór",
+      "options": [
+        "saletrzano-amonowy.",
+        "mocznika.",
+        "saletry amonowej.",
+        "saletrzaku."
+      ],
+      "answer": 1,
+      "explain": "Roztwór mocznika najmniej parzy liście i jest dobrze pobierany przez blaszki liściowe.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Do oddzielenia nasion okrągłych od podłużnych (np. wyki od owsa) należy wykorzystać",
+      "options": [
+        "młynek.",
+        "tryjer.",
+        "żmijkę.",
+        "wialnię."
+      ],
+      "answer": 1,
+      "explain": "Tryjer rozdziela nasiona według długości: krótkie i okrągłe wpadają do wgłębień cylindra.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Rysunek przedstawia przekrój",
+      "options": [
+        "cylindra tryjera.",
+        "przenośnika ślimakowego.",
+        "mieszalnika bębnowego.",
+        "klepiska młocarni."
+      ],
+      "answer": 0,
+      "explain": "Komórki na wewnętrznej powierzchni walca i koryto zbierające to budowa cylindra tryjera.",
+      "src": "Zad. 21",
+      "img": "img/exam_2013_10/zad21.jpg"
+    },
+    {
+      "q": "Przedstawionym na rysunku szkodnikiem jest",
+      "options": [
+        "mątwik ziemniaczany.",
+        "skrzypionka zbożowa.",
+        "stonka ziemniaczana.",
+        "słodyszek rzepakowy."
+      ],
+      "answer": 2,
+      "explain": "Stonka ziemniaczana to chrząszcz z paskami na pokrywach, objadający liście ziemniaka.",
+      "src": "Zad. 22",
+      "img": "img/exam_2013_10/zad22.jpg"
+    },
+    {
+      "q": "Na rysunku znakiem X oznaczono staw",
+      "options": [
+        "biodrowy.",
+        "kolanowy.",
+        "skokowy.",
+        "łokciowy."
+      ],
+      "answer": 1,
+      "explain": "Staw między kością udową a piszczelą w kończynie tylnej to staw kolanowy.",
+      "src": "Zad. 23",
+      "img": "img/exam_2013_10/zad23.jpg"
+    },
+    {
+      "q": "Przyczyną zapalenia się kontrolki ładowania akumulatora może być",
+      "options": [
+        "spadek gęstości elektrolitu w akumulatorze.",
+        "niski poziom płynu w układzie hamulcowym.",
+        "uszkodzony pasek napędzający alternator.",
+        "niski poziom płynu w chłodnicy."
+      ],
+      "answer": 2,
+      "explain": "Bez paska alternator nie obraca się i nie ładuje akumulatora, co sygnalizuje kontrolka ładowania.",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "W celu dobrego przykrycia obornika lub słomy po zbiorze kukurydzy na ziarno należy podczas orki zastosować",
+      "options": [
+        "odkładnice cylindryczne.",
+        "przedpłużki.",
+        "krój tarczowy.",
+        "odkładnice ażurowe."
+      ],
+      "answer": 1,
+      "explain": "Przedpłużek zrzuca wierzchnią warstwę z resztkami na dno bruzdy, poprawiając ich przykrycie.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "W czasie pracy kombajnu zbożowego w słomie stwierdzono dużą ilość niedomłóconych kłosów. W takiej sytuacji kombajnista powinien",
+      "options": [
+        "zmniejszyć obroty bębna młócącego.",
+        "zwiększyć prędkość pracy kombajnu.",
+        "zwiększyć obroty wentylatora.",
+        "zmniejszyć szczelinę omłotową."
+      ],
+      "answer": 3,
+      "explain": "Mniejsza szczelina omłotowa (lub wyższe obroty bębna) zwiększa intensywność omłotu i ogranicza niedomłot.",
+      "src": "Zad. 26"
+    },
+    {
+      "q": "Wykonywana czynność na zdjęciu ma na celu",
+      "options": [
+        "usunięcie zanieczyszczeń ze strzyka.",
+        "sprawdzenie zawartości tłuszczu w mleku.",
+        "sprawdzenie stanu zdrowotnego wymienia.",
+        "wydojenie resztek mleka."
+      ],
+      "answer": 2,
+      "explain": "Pierwsze strugi zdajane do przedzdajacza pozwalają wykryć kłaczki lub zmiany w mleku, czyli objawy zapalenia wymienia.",
+      "src": "Zad. 27",
+      "img": "img/exam_2013_10/zad27.jpg"
+    },
+    {
+      "q": "Rysunek przedstawia",
+      "options": [
+        "bronę wahadłową.",
+        "bronę wirnikową.",
+        "kultywator ścierniskowy.",
+        "kultywator obrotowy."
+      ],
+      "answer": 1,
+      "explain": "Pionowe zęby na wirnikach obracających się wokół pionowych osi to cecha brony wirnikowej (aktywnej).",
+      "src": "Zad. 28",
+      "img": "img/exam_2013_10/zad28.jpg"
+    },
+    {
+      "q": "Na zdjęciu przedstawiono krowę rasy",
+      "options": [
+        "polskiej czerwonej.",
+        "holsztyńsko-fryzyjskiej.",
+        "limousine.",
+        "jersey."
+      ],
+      "answer": 1,
+      "explain": "Czarno-białe umaszczenie i mleczny typ budowy są typowe dla rasy holsztyńsko-fryzyjskiej.",
+      "src": "Zad. 29",
+      "img": "img/exam_2013_10/zad29.jpg"
+    },
+    {
+      "q": "Przedstawione na rysunku poidło służy do pojenia",
+      "options": [
+        "trzody.",
+        "cieląt.",
+        "koni.",
+        "kóz."
+      ],
+      "answer": 0,
+      "explain": "Metalowe poidła smoczkowe są standardowo stosowane w chlewniach do pojenia świń.",
+      "src": "Zad. 30",
+      "img": "img/exam_2013_10/zad30.jpg"
+    },
+    {
+      "q": "Przedstawiona na rysunku zgorzel liści sercowych buraka, jest objawem",
+      "options": [
+        "braku boru.",
+        "nadmiaru azotu.",
+        "nadmiaru wody.",
+        "braku potasu."
+      ],
+      "answer": 0,
+      "explain": "Zgorzel liści sercowych i sucha zgnilizna korzeni buraka to typowy objaw niedoboru boru.",
+      "src": "Zad. 31",
+      "img": "img/exam_2013_10/zad31.jpg"
+    },
+    {
+      "q": "Oblicz, ile kg N mogą pobrać rośliny w pierwszym roku po zastosowaniu obornika w dawce 30 t/ha, jeżeli zawartość azotu w oborniku wynosi 0,45% oraz wykorzystanie azotu jest równe 30%.",
+      "options": [
+        "45,0 kg",
+        "90,0 kg",
+        "30,5 kg",
+        "40,5 kg"
+      ],
+      "answer": 3,
+      "explain": "30 000 kg × 0,45% = 135 kg N; 135 kg × 30% = 40,5 kg N.",
+      "src": "Zad. 32"
+    },
+    {
+      "q": "Przedstawiony na rysunku rozpylacz wykorzystywany jest podczas",
+      "options": [
+        "oprysku boków roślin.",
+        "nawożenia roztworem dolistnie.",
+        "nawożenia roztworem doglebowo.",
+        "oprysku pasowego."
+      ],
+      "answer": 2,
+      "explain": "Rozpylacz wielostrumieniowy (strugowy) podaje ciekły nawóz strugami na glebę, ograniczając zwilżanie liści.",
+      "src": "Zad. 33",
+      "img": "img/exam_2013_10/zad33.jpg"
+    },
+    {
+      "q": "Utrata apetytu, spadek wydajności mleka, wydalany suchy i twardy kał oraz wydychana woń acetonu u krów wysokomlecznych, to objawy",
+      "options": [
+        "ketozy.",
+        "kwasicy żwacza.",
+        "biegunki.",
+        "mastitis."
+      ],
+      "answer": 0,
+      "explain": "Zapach acetonu z pyska jest charakterystyczny dla ketozy (nadmiaru ciał ketonowych).",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Dodatkiem do paliwa w ciągnikach dużej mocy spełniających normę emisji spalin EURO IIIB jest",
+      "options": [
+        "benzyna.",
+        "WD 40.",
+        "AdBlue.",
+        "biodiesel."
+      ],
+      "answer": 2,
+      "explain": "AdBlue (roztwór mocznika) jest używany w układzie SCR do redukcji tlenków azotu w spalinach.",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "Strefa bezpiecznego przebywania osób postronnych od pracujących kosiarek rotacyjnych wynosi minimum",
+      "options": [
+        "50 m",
+        "40 m",
+        "20 m",
+        "30 m"
+      ],
+      "answer": 0,
+      "explain": "Kosiarka rotacyjna może wyrzucać kamienie, dlatego osoby postronne muszą przebywać co najmniej 50 m od niej.",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Wysokość koszenia w kosiarkach rotacyjnych zawieszanych dolnonapędowych, reguluje się",
+      "options": [
+        "płozami.",
+        "siłownikiem zasilanym z hydrauliki ciągnika.",
+        "podnośnikiem hydraulicznym.",
+        "kołami kopiującymi."
+      ],
+      "answer": 0,
+      "explain": "W kosiarkach dolnonapędowych bębny i dyski ślizgają się po płozach, których ustawienie wyznacza wysokość koszenia.",
+      "src": "Zad. 37"
+    },
+    {
+      "q": "Podaj prawidłową temperaturę mleka przeznaczonego na sprzedaż przy odbiorze z gospodarstwa",
+      "options": [
+        "raz na dobę - do 10 °C.",
+        "do 12 h od udoju - do 15 °C.",
+        "co dwa dni - do 6 °C.",
+        "do 6 h od udoju - do 20 °C."
+      ],
+      "answer": 2,
+      "explain": "Przy odbiorze mleka co dwa dni musi być ono schłodzone do temperatury nie wyższej niż 6 °C (przy codziennym – do 8 °C).",
+      "src": "Zad. 38"
+    },
+    {
+      "q": "Dobierz przyczepę samozaładowczą do współpracy z ciągnikiem o mocy 70 kW z uwzględnieniem 20% zapasu mocy. [tabela – zapotrzebowanie na moc: T010 – 25 kW, T055 – 42 kW, T038 – 56 kW, T050 – 70 kW]",
+      "options": [
+        "T010",
+        "T050",
+        "T055",
+        "T038"
+      ],
+      "answer": 3,
+      "explain": "70 kW − 20% = 56 kW dostępnej mocy, czemu odpowiada przyczepa T038 (56 kW).",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "Użytkowanie smuszkowe owiec ma na celu pozyskanie",
+      "options": [
+        "skóry z dorosłych owiec.",
+        "mięsa z dwutygodniowych jagniąt.",
+        "mięsa z dorosłych owiec.",
+        "skór z dwu-trzydniowych jagniąt."
+      ],
+      "answer": 3,
+      "explain": "Smuszki to cenne futerkowe skórki z jagniąt (np. karakułów) ubijanych w 2.–3. dniu życia. (Uwaga: w materiale źródłowym „z kluczem” zaznaczono „mięsa z dwutygodniowych jagniąt” – to błąd; użytkowanie smuszkowe służy pozyskaniu skórek jagniąt.)",
+      "src": "Zad. 40"
+    }
+  ]
+}

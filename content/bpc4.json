@@ -1,0 +1,2359 @@
+{
+  "id": "bpc4",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Rasy i typy użytkowe zwierząt gospodarskich i zwierząt towarzyszących",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "O efektach ekonomicznych chowu i hodowli często decyduje odpowiedni dobór zwierząt.",
+        "Wieloletnia selekcja hodowlana znacząco zwiększyła wydajność zwierząt.",
+        "Postęp hodowlany w jednej cesze może obniżyć odporność, zwiększyć wrażliwość na warunki środowiska i wymagania dobrostanu.",
+        "Typy ogólnoużytkowe są wyspecjalizowane w więcej niż jednej cesze.",
+        "Dobór ras do możliwości gospodarstwa pozwala uniknąć strat i zwiększyć rentowność.",
+        "Niektóre rasy mają bardzo specyficzne ukierunkowanie produkcyjne – wykorzystywanie ich w innym celu nie przyniosłoby większych korzyści.",
+        "Znajomość parametrów produkcyjnych umożliwia odpowiedni dobór zwierząt do efektywnej działalności; postęp w jednej cesze często wpływa także na pozostałe cechy."
+      ]
+    },
+    {
+      "heading": "1. Pojęcia związane z chowem i hodowlą",
+      "points": [
+        "Chów – utrzymywanie zwierząt w celu uzyskania od nich konkretnych korzyści.",
+        "Hodowla – selekcja i dobór zwierząt do rozrodu w celu poprawy cech i parametrów użytkowych.",
+        "Gatunek – grupa spokrewnionych zwierząt, które kojarzone dają płodne potomstwo.",
+        "Rasa – grupa zwierząt danego gatunku o właściwych tylko dla niej cechach użytkowych, przekazywanych potomstwu przez dziedziczenie.",
+        "Ród – grupa zwierząt wywodząca się od wspólnego przodka męskiego.",
+        "Odmiana – zbiór cech odbiegających od wzorca rasy, występujących u dużej liczby zwierząt; zwykle lokalne warianty kształtowane przez środowisko.",
+        "Typ użytkowy – zespół cech morfologicznych i fizjologicznych decydujących o przydatności produkcyjnej (użytkowości).",
+        "Typ jednostronny: np. mięsny, mleczny, futerkowy, nieśny; kombinowany: np. mleczno-mięsny, mięsno-nieśny.",
+        "Kierunek użytkowania – sposób wykorzystania zwierzęcia, np. koń sportowy, pociągowy.",
+        "Odmiana dotyczy zwierząt, które mogą swobodnie krzyżować się między sobą."
+      ]
+    },
+    {
+      "heading": "1. Zwierzęta gospodarskie i towarzyszące",
+      "points": [
+        "Zwierzęta gospodarskie – utrzymywane w gospodarstwie dla produktów, siły pociągowej lub materiału reprodukcyjnego.",
+        "Zwierzęta gospodarskie wg przepisów w Polsce: konie i osły, bydło domowe i bawoły, świnie, owce, kozy, jeleniowate fermowe, drób, pszczoły miodne, zwierzęta futerkowe fermowe.",
+        "Jeleniowate fermowe: jeleń szlachetny, jeleń wschodni, daniel.",
+        "Drób: kury, kaczki (domowa, piżmowa), gęsi (domowa, garbonosa), indyki, przepiórka japońska, perlice, strusie fermowe.",
+        "Futerkowe fermowe: lis pospolity, lis polarny, norka amerykańska, tchórz zwyczajny, jenot, nutria, szynszyla mała, królik europejski.",
+        "Zwierzęta towarzyszące – trzymane w domu dla towarzystwa lub przyjemności; gatunki z załącznika I rozporządzenia 998/2003/WE.",
+        "Zwierzęta towarzyszące: psy, koty, fretki, bezkręgowce (bez pszczół i skorupiaków), ozdobne ryby tropikalne, płazy, gady, ptaki (bez drobiu z dyrektyw 90/539/EWG i 92/65/EWG), gryzonie i króliki domowe."
+      ]
+    },
+    {
+      "heading": "2. Typy użytkowe bydła",
+      "points": [
+        "Typ mleczny: kształt ciała zbliżony do trójkąta (podstawą zad), lekko wydłużona głowa na wąskiej szyi, płasko umięśniony zad, wklęsłe profile ud, pojemne wymię.",
+        "Typ mięsny: tułów zbliżony do prostokąta, ciężka głowa na krótkiej szyi, wypukłe profile mięśniowe, bardzo umięśniony zad, małe, słabo rozwinięte wymię.",
+        "Typ kombinowany: łączy cechy obu typów, bliżej mięsnego; tułów średnio długi, głęboki i szeroki; wymię dobrze rozwinięte; odgrywa coraz mniejszą rolę.",
+        "Przedstawiciele: mleczny – m.in. holsztyńsko-fryzyjska, czarno-biała; mięsny – m.in. Charolaise, Angus, Hereford, Limousine; kombinowany – m.in. Abondance.",
+        "Typ mleczny – dodatkowo: zad lekko nachylony ku tyłowi, nasada ogona nisko osadzona, budowa ogólna harmonijna, szlachetna.",
+        "Typ kombinowany – głowa średniej wielkości, średnio umięśniona szyja, kończyny średnio długie, mocne.",
+        "Przedstawiciele wg tabeli 4.1 – mleczny: czarno-biała, czerwono-biała, polska czerwona, holsztyńsko-fryzyjska, simental; mięsny: Angus, Hereford, Piemontese, Charolaise, Blonde d'Aquitaine, Limousine; kombinowany: żółta niemiecka, Abondance, Deuter, czerwono-biała belgijska."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/typy-uzytkowe-bydla.jpg",
+          "caption": "Typy użytkowe bydła: mleczny (na zdjęciu rasa holsztyńsko-fryzyjska – sylwetka trójkątna), mięsny (Charolaise – sylwetka prostokątna, silne umięśnienie), kombinowany (Abondance)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Typy użytkowe świń",
+      "points": [
+        "Mięsny: sylwetka wydłużona, równoległoboczna, tułów bardzo długi, głowa mała; bardzo szybki wzrost, późne dojrzewanie (3,5–4 lata), przyrosty do 100 kg > 700 g/dzień (w tym 100–130 g białka); masa ok. 300 kg.",
+        "Przedstawiciele typu mięsnego: wielka biała polska, biała zwisłoucha, złotnicka biała, Pietrain, Duroc, Hampshire.",
+        "Mięsno-tłuszczowy: budowa wałeczkowata, krótki szeroki tułów, beczkowata klatka; wczesne dojrzewanie (2–2,5 roku); po 60–70 kg w przyroście dominuje tłuszcz; przedstawiciel – puławska.",
+        "Słoninowy: długa ciężka głowa, tułów karpiowaty, długa twarda szczecina; wolny wzrost, późne dojrzewanie (4–5 lat), wysoka odporność, silny instynkt macierzyński; dużo słoniny i sadła; przedstawiciel – złotnicka pstra.",
+        "Smalcowy: budowa jajowata, bardzo krótki tułów, krótki zadarty ryj, bardzo krótkie słabe nogi; wczesne dojrzewanie (do 2 lat), niska produkcyjność i słaba odporność; prymitywne rasy płd.-wsch. Azji.",
+        "Mięsny – sylwetka może przechodzić w trapezowatą; tułów dość szeroki, spłaszczony z boków; nogi dłuższe niż u typu tłuszczowo-mięsnego, cienkie, lecz mocne.",
+        "Mięsno-tłuszczowy – mała i szeroka głowa, krótki ryj o załamanym profilu, krótkie nogi, słabe umięśnienie; rośnie równie szybko jak świnie mięsne.",
+        "Słoninowy – tułów głęboki, płaski, z dużą łopatką; nogi długie i mocne; szczecina gęsta; prawie nie odkłada tłuszczu między- i śródmięśniowego; długi czas tuczu, duże zużycie paszy.",
+        "Smalcowy – tułów wałeczkowaty, szeroki i głęboki, grzbiet najczęściej łęgowaty, mała głowa, szerokie czoło, nogi drobnokościste; wolny wzrost; odkłada tłuszcz międzymięśniowy przy niezbyt intensywnym żywieniu; skłonność opasowa związana z wolną przemianą materii."
+      ]
+    },
+    {
+      "heading": "2. Typy użytkowe owiec",
+      "points": [
+        "Wełnisty: konstytucja sucha, słabo umięśnione, rogate tryki, pofałdowana skóra szyi, cienka wełna; późna dojrzałość (2 lata), małe wymagania paszowe; wełna: tryk 10 kg, maciorka 5–5,5 kg; merynosy (australijski, kaukaski, nowozelandzki, bułgarski, polski).",
+        "Mięsny: konstytucja limfatyczna, umięśnione, bezrogie, krótkie kończyny; wcześnie dojrzewające (1,5 roku), wysokie wymagania paszowe; Suffolk, Dorset, Charolais, Ile de France, Berrichone du Cher, Texel, czarnogłówka.",
+        "Mleczny: delikatna konstrukcja, sylwetka w trójkącie, silnie rozwinięte wymię; laktacja 250–300 dni, 600–700 kg mleka; wschodniofryzyjska, Lacaune, Awassi, Assaf, brytyjska owca mleczna.",
+        "Futerkowo-smuszkowy: poduszka tłuszczowa na ogonie (tłustoogoniaste) – karakuł.",
+        "Kożuchowy: drobna budowa, cienka mocna skóra, cienka mizdra, okrywa mieszana; owca romanowska, wrzosówka polska i niemiecka.",
+        "Mięsno-wełnisty: cechy pośrednie, dobra adaptacja do środowiska, na pastwiskach; Corriedale, anglomerynos, Leine.",
+        "Wielostronny: krótkoogoniaste, prymitywne, odporne, wczesna dojrzałość, małe wymagania; owca fińska, węgierski cygaj.",
+        "Wełnisty – szeroka głowa z długą częścią twarzową, wrąb na połączeniu szyi i kłębu, spadzisty zad, wyczuwalne wyrostki kolczyste, długie nogi, obrośnięty brzuch i kończyny.",
+        "Mięsny – wełna jednolita (równej długości i grubości w zespole włosowym), duża głowa, krótka szyja, skóra napięta, spionowana sylwetka.",
+        "Mleczny – długie nogi, golizny, cienkie kości, szybka przemiana materii; laktacja od wykotu do zasuszenia; 600–700 kg mleka (1000 l).",
+        "Kożuchowy – dobrze rozwinięta, mocna, cienka i ciepła skóra, delikatny kościec, wełna mieszana, włosy puchowe.",
+        "Mięsno-wełnisty – przedstawiciele także angielskie owce długowełniste.",
+        "Wielostronny – nieuszlachetnione, wczesna dojrzałość płciowa, małe wymagania paszowe i zoohigieniczne."
+      ]
+    },
+    {
+      "heading": "2. Typy użytkowe koni",
+      "points": [
+        "Wierzchowy: wysokość w kłębie 155–170 cm, 500–650 kg, konstytucja typu oddechowego, żywy temperament i dobry charakter.",
+        "Zaprzęgowy (ciężko-pociągowy – stępak, pośpieszno-pociągowy, lekko zaprzęgowy): 150–170 cm, 600–1000 kg, krótka szyja, stroma łopatka, konstytucja mięśniowa, wcześnie dojrzewające, duża siła uciągu.",
+        "Juczny: ok. 140 cm, 350–400 kg, krępa przyziemna budowa, konstytucja oddechowo-mięśniowa.",
+        "Typ kombinowany – wszechstronnie użytkowy.",
+        "Koń wierzchowy – odpowiednia budowa."
+      ]
+    },
+    {
+      "heading": "2. Typy użytkowe drobiu",
+      "points": [
+        "Nieśny: lekka sylwetka zbliżona do trójkąta, silnie rozwinięte przydatki głowowe; w 20. tygodniu kury 1,2–1,6 kg, koguty 1,7–2,3 kg.",
+        "Nieśny: dojrzewanie płciowe 140–150 dni; do 76. tygodnia ok. 300 jaj o masie 54–66 g; przedstawiciel – Leghorn.",
+        "Mięsny: ciało zbliżone do kwadratu, umięśniona pierś i uda, krótki szeroki grzbiet, upierzenie zwykle białe; dojrzewanie ok. 200 dni; ponad 130 jaj (52–60 g) w cyklu; przedstawiciel – Dominant White Cornish.",
+        "Ogólnoużytkowy: ciało zbliżone do prostokąta; w 20. tygodniu kury 1,5–2,6 kg, koguty 1,8–3,3 kg; dojrzałość 160–180 dni; do 76. tygodnia 160–200 jaj (52–60 g); przedstawiciel – Rhode Island Red.",
+        "Ogólnoużytkowy – barwa skorupy jaj od jasnej do brunatnej.",
+        "Kury mięsne – późne dojrzewanie płciowe (ok. 200 dni); w cyklu produkcyjnym ponad 130 jaj o masie 52–60 g."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/typy-uzytkowe-drobiu.jpg",
+          "caption": "Typy użytkowe drobiu: nieśny (lekka, trójkątna sylwetka), mięsny (ciało zbliżone do kwadratu, zwykle białe upierzenie), ogólnoużytkowy (ciało zbliżone do prostokąta)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy bydła",
+      "points": [
+        "Holsztyńsko-fryzyjska: wybitnie mleczna; wysokość w kłębie 140–150 cm (buhaj 160–170 cm); krowy 650–750 kg, buhaje 1050–1300 kg.",
+        "HF: umaszczenie czarno-białe lub czerwono-białe; wymiona o wyrównanych ćwiartkach i długich strzykach – łatwe dojenie.",
+        "Polska czarno-biała: dobra wydajność mleczna, krowa 650–700 kg, wysokość ok. 143 cm, łatwa adaptacja, łatwe porody.",
+        "Limousine: bardzo dobre umięśnienie grzbietu i zadu, delikatny kościec, wysoka wydajność rzeźna, łatwe porody.",
+        "Limousine: umaszczenie jednolicie czerwone z rozjaśnieniami wokół śluzawicy, oczu, w pachwinach i na kończynach.",
+        "Buhaje Limousine – do krzyżowania towarowego z rasami mlecznymi (wyższa wydajność rzeźna, niższe otłuszczenie tuszy).",
+        "Polska czarno-biała: prawidłowe zawieszenie wymienia, mocna budowa, dobrze rozwinięta klatka piersiowa, głęboki tułów, wysokie i mocne nogi.",
+        "Z dostępnych ras wybierając konkretną, należy dokładnie zapoznać się z opisem rasy, warunkami utrzymania i wymaganiami chowu.",
+        "HF – głowa niezbyt długa, z cienką szyją; tułów wydłużony na długich nogach z twardymi racicami; szeroki zad; wymię dobrze rozbudowane, mocno unaczynione żyłami podskórnymi.",
+        "Limousine – bardzo dobra płodność, średnio wczesne dojrzewanie, bardzo dobre zdolności adaptacyjne; umaszczenie czerwone w różnych odcieniach; mieszańce mają wyższy udział mięsa w tuszy."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/holsztynsko-fryzyjska.jpg",
+          "caption": "Rasa holsztyńsko-fryzyjska – wybitnie mleczna, umaszczenie czarno-białe lub czerwono-białe."
+        },
+        {
+          "src": "img/bpc4/polska-czarno-biala.jpg",
+          "caption": "Polska czarno-biała (zdjęcie z wideocastu)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy świń",
+      "points": [
+        "Pietrain: wybitnie mięsna; umaszczenie szarobiałe z plamami czarnymi i rudymi; uszy pochylone do przodu.",
+        "Pietrain: szybki wzrost do ok. 75 kg, potem wolniej; niska płodność i kłopoty z rozrodem (słabe kończyny); komponent ojcowski z rasami białymi.",
+        "Wielka biała polska (wbp): typ mięsny, białe umaszczenie, uszy małe i stojące; bardzo dobra płodność i mleczność, odporność na stres, mocna konstytucja – do chowu wielkostadnego.",
+        "Polska biała zwisłoucha (pbz): typ mięsny, bardzo popularna, uszy pochylone ku przodowi; słabsza konstytucja, podatność na stres – chów drobnotowarowy.",
+        "Pbz: duża plenność i mleczność loch, łagodne i troskliwe matki – komponent mateczny w krzyżowaniu towarowym.",
+        "Wbp: szybko rośnie i późno dojrzewa; mocny, długi tułów o szerokim, równym grzbiecie i krzyżu; nogi mocne, proste, dość wysokie i szeroko rozstawione.",
+        "Pietrain – hodowana w czystości rasy lub do krzyżówek towarowych i wyprowadzania nowych ras i linii; niewielka, tułów średniej długości, nogi krótkie, głowa mała; komponent ojcowski lub mateczny do produkcji knurów krzyżówkowych.",
+        "Wbp – do suchych, dobrze wentylowanych pomieszczeń i racjonalnego żywienia; wysokie przyrosty, dobre wykorzystanie paszy.",
+        "Pbz – białe umaszczenie, długi tułów, szeroki grzbiet, duże tempo wzrostu, tusze dobrze umięśnione; wymaga dobrych warunków utrzymania i poprawnego żywienia; wysoka produkcyjność i dobre wykorzystanie paszy."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/pietrain.jpg",
+          "caption": "Pietrain – wybitnie mięsna, umaszczenie szarobiałe z plamami czarnymi i rudymi, uszy pochylone do przodu."
+        },
+        {
+          "src": "img/bpc4/wielka-biala-polska.jpg",
+          "caption": "Wielka biała polska – białe umaszczenie, uszy małe i stojące (zdjęcie z wideocastu)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy owiec i kóz",
+      "points": [
+        "Koza alpejska: typ mleczny, umaszczenie brązowe (najbardziej pożądane sarnie), czarna pręga na grzbiecie, czarne racice.",
+        "Koza alpejska: plenność 160%, użytkowość rozpłodowa 140%; kozły 80–100 kg, kozy 50–80 kg.",
+        "Wrzosówka polska: okrywa kożuchowa, odporna, wysoka plenność, dobry smak mięsa; tryki do 55 kg, maciorki do 42 kg.",
+        "Wrzosówka: okrywa siwa, głowa, nogi i ogon czarne; jagnięta rodzą się czarne i siwieją ok. 6. miesiąca; rogi zwykle tylko u tryków.",
+        "Merynos polski: duży, bezrogi, wcześnie dojrzewający – rozród od ok. 8 miesięcy; plenność 150%, użytkowość rozpłodowa 130%.",
+        "Merynos polski: umaszczenie białe, wełna krzyżówkowa; tryki 110–130 kg, maciorki 70–80 kg.",
+        "Koza alpejska – średniej wielkości, mocna konstytucja; umaszczenie brązowe od jasnopłowego; czarna pręga na grzbiecie i podbrzuszu, czarne dolne części nóg oraz okolice oczu i pyska; wysoka wydajność mleka, dobra plenność, harmonijna budowa.",
+        "Wrzosówka – doskonale przystosowuje się do ciężkich warunków bytowania, odporna na choroby.",
+        "Merynos polski – silna konstytucja; wełna krzyżówkowa średnio gruba i gruba, jednolita; bardzo dobrze zaznaczone cechy mięsne."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/koza-alpejska.jpg",
+          "caption": "Koza alpejska – umaszczenie brązowe, czarna pręga na grzbiecie, czarne dolne części nóg i okolice oczu, typ mleczny."
+        },
+        {
+          "src": "img/bpc4/wrzosowka-polska.jpg",
+          "caption": "Wrzosówka polska – okrywa kożuchowa siwa, głowa i nogi czarne (zdjęcie z wideocastu)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy koni",
+      "points": [
+        "Koń czystej krwi arabskiej: gorącokrwisty, 145–155 cm, mała głowa o szczupaczym profilu; wytrzymały na długie dystanse; z Półwyspu Arabskiego.",
+        "Arab: używany do uszlachetniania innych ras; na ostre traktowanie reaguje paniką.",
+        "Koń pełnej krwi angielskiej (folblut): najszybszy na krótkim dystansie, gorącokrwisty, 150–170 cm, z Wielkiej Brytanii; użytkowanie wyścigowe i wszechstronne.",
+        "Konik polski: ok. 130 cm, maść myszata z pręgą wzdłuż grzbietu i pręgowaniem kończyn.",
+        "Konik polski: po koniu Przewalskiego najstarsza rasa; wytępiony w 1879 r., odtworzony z prymitywnego konia biłgorajskiego.",
+        "Konik polski: głowa średniej wielkości, prosta lub lekko klinowata; silna szyja, skłonność do stojącej grzywy, prosty grzbiet, mocne kończyny.",
+        "Arab – jedna z podstawowych ras gorącokrwistych, uważana za kwintesencję piękna konia; maść gniada, kara, kasztanowata, siwa, skarogniada; wrażliwy i bardzo przywiązany do człowieka, łatwy do kontroli najłagodniejszymi pomocami; użytkowanie: pokazy, rekreacja, wszechstronne, wyścigi, rajdy.",
+        "Folblut – maść gniada i ciemnogniada, kara, kasztanowata, siwa.",
+        "Konik polski – pochodzenie: dawniej południowa Rosja, hodowla odnowiona w Polsce."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/kon-arabski.jpg",
+          "caption": "Koń czystej krwi arabskiej – gorącokrwisty, mała głowa o szczupaczym profilu."
+        },
+        {
+          "src": "img/bpc4/konik-polski.jpg",
+          "caption": "Konik polski (zdjęcie z wideocastu) – ok. 130 cm, maść myszata z pręgą wzdłuż grzbietu."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy drobiu",
+      "points": [
+        "Zielononóżka kuropatwiana: typ ogólnoużytkowy, jedyna od 1959 r. typowo polska rasa; zielone nogi i skóra; dymorfizm upierzenia.",
+        "Zielononóżka nie nadaje się do chowu intensywnego; koguty do 2,2 kg, kury 1,8 kg.",
+        "Leghorn: typ nieśny, biały, żółta skóra i skoki, największe przydatki głowowe, rasa niekwocząca.",
+        "Kaczka pekin: typ ogólnoużytkowy, najbardziej rozpowszechniona w Polsce; upierzenie białe lub kremowe, nie kwoczy; kaczki 2,5–3 kg, kaczory 3–4 kg.",
+        "Leghorn – małe umięśnienie, szeroko rozbudowany zad.",
+        "Kaczka pekin – żółta skóra i nogi, duża wydajność nieśna, dobre cechy mięsne."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/zielononozka-kuropatwiana.jpg",
+          "caption": "Zielononóżka kuropatwiana (kogut) – jedyna typowo polska rasa kur, zielone nogi, dymorfizm upierzenia."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wybrane rasy kotów i psów",
+      "points": [
+        "Kot tajski (starosyjamski): krótkowłosy, 2,5–5 kg, umaszczenie point; kocięta rodzą się białe; oczy błękitne; wzorzec ustalony w latach 90. XX w.",
+        "Kot perski: długowłosy (sierść ok. 10 cm), 2,5–6 kg, ok. 150 odmian barwnych; rasa brachycefaliczna – problemy górnych dróg oddechowych, nozdrzy i oczu.",
+        "Kot brytyjski: odmiany krótko- i długowłose, 4–9 kg, ok. 150 umaszczeń; łagodny i zrównoważony.",
+        "Alaskan malamute: psy 38 kg, suki 34 kg; gęsta sierść z podszerstkiem; rasa pierwotna wyhodowana przez Indian Malemutów na Alasce.",
+        "Bullterier: jajowaty kształt głowy, opadająca linia kufy; pierwotnie szczurołap.",
+        "Buldog francuski: 8–14 kg, duże stojące uszy; wywodzi się m.in. od buldoga angielskiego; rasa brachycefaliczna.",
+        "Bullterier: mocno zbudowany, umięśniony i proporcjonalny; pies żywotny i inteligentny.",
+        "Kot perski: krępa budowa, silne kończyny, głowa duża, masywna i szeroka, wypukłe czoło, pełne policzki, dobrze rozwinięta broda, nos mały i szeroki; ogon puszysty na całej długości; oczy niebieskie, pomarańczowe lub mieszane; kot spokojny, łagodny, z niewielkim talentem łowczym.",
+        "Kot tajski – smukła budowa, głowa okrągła z wydatnym czołem i mocno zaokrągloną brodą, uszy średnie lekko skierowane do środka, szyja muskularna i krótka; umaszczenie point (ciemne kończyny, pysk, uszy i ogon) lub tabby point; oczy szeroko rozstawione; spokojny, łagodny, przywiązany do ludzi, inteligentny, towarzyski; w przeciwieństwie do syjamskich ma inną budowę i bardziej zrównoważony charakter.",
+        "Kot perski – pędzelek sierści wewnątrz ucha i między opuszkami palców; kryza – gęsta, dłuższa sierść od uszu wokół brody.",
+        "Kot brytyjski – duża głowa na krótkiej szyi, wyraźne policzki i broda, szeroko rozstawione zaokrąglone uszy, nogi krótkie lub średnie; oczy duże: pomarańczowe, niebieskie, złociste, zielone; inteligentny, towarzyski.",
+        "Alaskan malamute – przystosowany do niskich temperatur i wytężonej pracy, wymaga dużo ruchu; umaszczenie szaro-białe, sobolowo-białe, czarno-białe, wilczasto-białe, czerwono-białe lub czysto białe; przyjazny wobec ludzi i dzieci, może wywoływać bójki z psami, tendencje do polowań, silna hierarchia w stadzie.",
+        "Bullterier – umaszczenie białe, pręgowane, tricolor, czerwone, płowe; włos krótki, przylegający, lśniący.",
+        "Buldog francuski – budowa krępa, muskularna; szeroka kwadratowa głowa, lekko wytrzeszczone oczy, krótki ogon; umaszczenie płowe (od czerwonego do jasnobrązowego), czarne, pręgowane lub nie, z domieszką białego; łagodny, towarzyski; predyspozycje do schorzeń górnych dróg oddechowych, nozdrzy, oczu (kanalików łzowych).",
+        "Kot tajski – kocięta rodzą się całkowicie białe i wybarwiają się z wiekiem; żywy temperament."
+      ],
+      "images": [
+        {
+          "src": "img/bpc4/kot-tajski.jpg",
+          "caption": "Kot tajski (starosyjamski) – krótkowłosy, umaszczenie point, oczy błękitne."
+        },
+        {
+          "src": "img/bpc4/kot-perski.jpg",
+          "caption": "Kot perski (zdjęcie z wideocastu) – długowłosy, płaski pyszczek (rasa brachycefaliczna)."
+        },
+        {
+          "src": "img/bpc4/alaskan-malamute.jpg",
+          "caption": "Alaskan malamute – gęsta sierść z podszerstkiem, umaszczenie szaro-białe."
+        },
+        {
+          "src": "img/bpc4/bulterier.jpg",
+          "caption": "Bulterier (bullterier) – jajowaty kształt głowy, opadająca linia kufy, mocno umięśniony (zdjęcie z wideocastu)."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Chów",
+      "back": "Utrzymywanie zwierząt w celu uzyskania od nich konkretnych korzyści."
+    },
+    {
+      "front": "Hodowla zwierząt",
+      "back": "Selekcja i dobór zwierząt do rozrodu w celu poprawy cech i parametrów użytkowych."
+    },
+    {
+      "front": "Gatunek",
+      "back": "Grupa spokrewnionych zwierząt, które w wyniku kojarzenia dają płodne potomstwo."
+    },
+    {
+      "front": "Rasa",
+      "back": "Grupa zwierząt gatunku o właściwych tylko dla niej, dziedzicznych cechach użytkowych."
+    },
+    {
+      "front": "Ród",
+      "back": "Grupa zwierząt wywodząca się od wspólnego przodka męskiego."
+    },
+    {
+      "front": "Odmiana",
+      "back": "Zbiór cech odbiegających od wzorca rasy, występujący u wielu zwierząt; zwykle lokalny wariant."
+    },
+    {
+      "front": "Typ użytkowy",
+      "back": "Zespół cech morfologicznych i fizjologicznych decydujących o przydatności produkcyjnej."
+    },
+    {
+      "front": "Przykłady typu jednostronnego",
+      "back": "Mięsny, mleczny, futerkowy, nieśny."
+    },
+    {
+      "front": "Przykłady typu kombinowanego",
+      "back": "Mleczno-mięsny, mięsno-nieśny."
+    },
+    {
+      "front": "Kierunek użytkowania",
+      "back": "Sposób wykorzystania zwierzęcia, np. koń sportowy, pociągowy."
+    },
+    {
+      "front": "Jeleniowate uznane za zwierzęta gospodarskie",
+      "back": "Jeleń szlachetny, jeleń wschodni, daniel (fermowe)."
+    },
+    {
+      "front": "Gatunki gęsi wśród zwierząt gospodarskich",
+      "back": "Gęś domowa i garbonosa."
+    },
+    {
+      "front": "Gatunki kaczek wśród zwierząt gospodarskich",
+      "back": "Kaczka domowa i piżmowa."
+    },
+    {
+      "front": "Zwierzęta futerkowe fermowe (gospodarskie)",
+      "back": "Lis pospolity, lis polarny, norka amerykańska, tchórz zwyczajny, jenot, nutria, szynszyla mała, królik europejski."
+    },
+    {
+      "front": "Akt prawny wymieniający zwierzęta towarzyszące",
+      "back": "Załącznik I rozporządzenia 998/2003/WE."
+    },
+    {
+      "front": "Które bezkręgowce nie są zwierzętami towarzyszącymi?",
+      "back": "Pszczoły i skorupiaki."
+    },
+    {
+      "front": "Typ mleczny bydła – kształt ciała",
+      "back": "Zbliżony do trójkąta, którego podstawą jest zad."
+    },
+    {
+      "front": "Typ mięsny bydła – kształt tułowia",
+      "back": "Zbliżony do prostokąta."
+    },
+    {
+      "front": "Typ mięsny bydła – wymię",
+      "back": "Niewielkie, słabo rozwinięte."
+    },
+    {
+      "front": "Typ kombinowany bydła – do którego typu bardziej podobny?",
+      "back": "Do mięsnego; odgrywa coraz mniejszą rolę."
+    },
+    {
+      "front": "Rasa bydła – przykład typu kombinowanego (zdjęcie w module)",
+      "back": "Abondance."
+    },
+    {
+      "front": "Świnie mięsne – przyrost dzienny do 100 kg",
+      "back": "Ponad 700 g, w tym 100–130 g białka."
+    },
+    {
+      "front": "Świnie mięsne – dojrzałość fizyczna",
+      "back": "3,5–4 lata."
+    },
+    {
+      "front": "Świnie mięsne – średnia masa ciała",
+      "back": "Ok. 300 kg."
+    },
+    {
+      "front": "Typ mięsno-tłuszczowy świń – od jakiej masy dominuje tłuszcz?",
+      "back": "Po przekroczeniu 60–70 kg."
+    },
+    {
+      "front": "Typ mięsno-tłuszczowy świń – dojrzewanie",
+      "back": "Wczesne – 2–2,5 roku."
+    },
+    {
+      "front": "Przedstawiciel typu mięsno-tłuszczowego świń",
+      "back": "Puławska."
+    },
+    {
+      "front": "Przedstawiciel typu słoninowego świń",
+      "back": "Złotnicka pstra."
+    },
+    {
+      "front": "Typ słoninowy świń – dojrzewanie i cechy",
+      "back": "Późne (4–5 lat), wolny wzrost, wysoka odporność, silny instynkt macierzyński."
+    },
+    {
+      "front": "Typ smalcowy świń – przedstawiciele",
+      "back": "Prymitywne rasy południowo-wschodniej Azji."
+    },
+    {
+      "front": "Rasy świń typu mięsnego",
+      "back": "Wielka biała polska, biała zwisłoucha, złotnicka biała, Pietrain, Duroc, Hampshire."
+    },
+    {
+      "front": "Owce wełniste – dojrzałość",
+      "back": "Późna – 2 lata; małe wymagania paszowe."
+    },
+    {
+      "front": "Wydajność wełny owiec wełnistych",
+      "back": "Tryk 10 kg, maciorka 5–5,5 kg."
+    },
+    {
+      "front": "Owce mięsne – dojrzałość i wymagania",
+      "back": "Wcześnie dojrzewające (1,5 roku), wysokie wymagania paszowe."
+    },
+    {
+      "front": "Rasy owiec mięsnych",
+      "back": "Suffolk, Dorset, Charolais, Ile de France, Berrichone du Cher, Texel, czarnogłówka."
+    },
+    {
+      "front": "Owce mleczne – długość laktacji",
+      "back": "250–300 dni."
+    },
+    {
+      "front": "Owce mleczne – wydajność",
+      "back": "600–700 kg mleka."
+    },
+    {
+      "front": "Rasy owiec mlecznych",
+      "back": "Wschodniofryzyjska, Lacaune, Awassi, Assaf, brytyjska owca mleczna."
+    },
+    {
+      "front": "Owca typu futerkowo-smuszkowego",
+      "back": "Karakuł (tłustoogoniasta)."
+    },
+    {
+      "front": "Rasy owiec kożuchowych",
+      "back": "Owca romanowska, wrzosówka polska, wrzosówka niemiecka."
+    },
+    {
+      "front": "Rasy owiec mięsno-wełnistych",
+      "back": "Corriedale, anglomerynos, Leine."
+    },
+    {
+      "front": "Rasy owiec typu wielostronnego",
+      "back": "Owca fińska, węgierski cygaj."
+    },
+    {
+      "front": "Koń wierzchowy – wysokość i masa",
+      "back": "155–170 cm w kłębie, 500–650 kg."
+    },
+    {
+      "front": "Koń wierzchowy – typ konstytucji",
+      "back": "Oddechowy."
+    },
+    {
+      "front": "Koń zaprzęgowy – wysokość i masa",
+      "back": "150–170 cm, 600–1000 kg."
+    },
+    {
+      "front": "Koń zaprzęgowy – typ konstytucji",
+      "back": "Mięśniowy."
+    },
+    {
+      "front": "Stępak",
+      "back": "Koń ciężko-pociągowy (typ zaprzęgowy)."
+    },
+    {
+      "front": "Koń juczny – wysokość i masa",
+      "back": "Ok. 140 cm, 350–400 kg; konstytucja oddechowo-mięśniowa."
+    },
+    {
+      "front": "Kury nieśne – dojrzałość płciowa",
+      "back": "140–150 dni."
+    },
+    {
+      "front": "Kury nieśne – nieśność do 76. tygodnia",
+      "back": "Ok. 300 jaj o masie 54–66 g."
+    },
+    {
+      "front": "Kury mięsne – dojrzałość płciowa",
+      "back": "Ok. 200 dni."
+    },
+    {
+      "front": "Kury ogólnoużytkowe – dojrzałość i nieśność",
+      "back": "160–180 dni; 160–200 jaj (52–60 g) do 76. tygodnia."
+    },
+    {
+      "front": "Kształt ciała kur: nieśne / mięsne / ogólnoużytkowe",
+      "back": "Trójkąt / kwadrat / prostokąt."
+    },
+    {
+      "front": "Przedstawiciel kur ogólnoużytkowych",
+      "back": "Rhode Island Red (RIR)."
+    },
+    {
+      "front": "Przedstawiciel kur mięsnych",
+      "back": "Dominant White Cornish."
+    },
+    {
+      "front": "HF – masa krów i buhajów",
+      "back": "Krowy 650–750 kg, buhaje 1050–1300 kg."
+    },
+    {
+      "front": "HF – wysokość w kłębie",
+      "back": "140–150 cm (buhaj 160–170 cm)."
+    },
+    {
+      "front": "HF – umaszczenie",
+      "back": "Czarno-białe lub czerwono-białe."
+    },
+    {
+      "front": "Polska czarno-biała – masa i wysokość krowy",
+      "back": "650–700 kg, ok. 143 cm."
+    },
+    {
+      "front": "Limousine – umaszczenie",
+      "back": "Jednolicie czerwone, rozjaśnienia wokół śluzawicy, oczu, w pachwinach, na kończynach."
+    },
+    {
+      "front": "Do czego używa się buhajów Limousine?",
+      "back": "Do krzyżowania towarowego z rasami mlecznymi."
+    },
+    {
+      "front": "Pietrain – umaszczenie",
+      "back": "Szarobiałe z plamami czarnymi i rudymi."
+    },
+    {
+      "front": "Pietrain – wady",
+      "back": "Niska płodność, kłopoty z rozrodem (osłabienie kończyn)."
+    },
+    {
+      "front": "Do jakiej masy Pietrain szybko rośnie?",
+      "back": "Do ok. 75 kg."
+    },
+    {
+      "front": "Wbp – uszy i przydatność",
+      "back": "Małe, stojące; nadaje się do chowu wielkostadnego (odporna na stres)."
+    },
+    {
+      "front": "Pbz – uszy i przydatność",
+      "back": "Pochylone ku przodowi; chów drobnotowarowy (podatna na stres); komponent mateczny."
+    },
+    {
+      "front": "Koza alpejska – plenność",
+      "back": "160% (użytkowość rozpłodowa 140%)."
+    },
+    {
+      "front": "Koza alpejska – masa ciała",
+      "back": "Kozły 80–100 kg, kozy 50–80 kg."
+    },
+    {
+      "front": "Koza alpejska – najbardziej pożądane umaszczenie",
+      "back": "Sarnie."
+    },
+    {
+      "front": "Wrzosówka polska – masa",
+      "back": "Tryki do 55 kg, maciorki do 42 kg."
+    },
+    {
+      "front": "Kiedy siwieją jagnięta wrzosówki?",
+      "back": "Ok. 6. miesiąca życia (rodzą się czarne)."
+    },
+    {
+      "front": "Merynos polski – plenność",
+      "back": "150% (użytkowość rozpłodowa 130%)."
+    },
+    {
+      "front": "Merynos polski – wiek do rozrodu",
+      "back": "Ok. 8 miesięcy."
+    },
+    {
+      "front": "Merynos polski – masa",
+      "back": "Tryki 110–130 kg, maciorki 70–80 kg."
+    },
+    {
+      "front": "Koń czystej krwi arabskiej – wzrost",
+      "back": "145–155 cm."
+    },
+    {
+      "front": "Koń pełnej krwi angielskiej – wzrost i pochodzenie",
+      "back": "150–170 cm; Wielka Brytania."
+    },
+    {
+      "front": "Najszybsze konie na krótkim dystansie",
+      "back": "Koń pełnej krwi angielskiej (folblut)."
+    },
+    {
+      "front": "Konik polski – wysokość i maść",
+      "back": "Ok. 130 cm; myszata z pręgą grzbietową."
+    },
+    {
+      "front": "Z czego odtworzono konika polskiego?",
+      "back": "Z prymitywnego konia biłgorajskiego (wytępiony w 1879 r.)."
+    },
+    {
+      "front": "Zielononóżka kuropatwiana – typ i masa",
+      "back": "Ogólnoużytkowy; koguty do 2,2 kg, kury 1,8 kg."
+    },
+    {
+      "front": "Od kiedy zielononóżka jest jedyną typowo polską rasą?",
+      "back": "Od 1959 r."
+    },
+    {
+      "front": "Leghorn – cechy",
+      "back": "Typ nieśny, biały, żółta skóra i skoki, największe przydatki głowowe, niekwocząca."
+    },
+    {
+      "front": "Kaczka pekin – masa",
+      "back": "Kaczki 2,5–3 kg, kaczory 3–4 kg."
+    },
+    {
+      "front": "Kot perski – długość sierści i masa",
+      "back": "Ok. 10 cm; 2,5–6 kg."
+    },
+    {
+      "front": "Kot brytyjski – masa",
+      "back": "4–9 kg."
+    },
+    {
+      "front": "Rasy brachycefaliczne z modułu",
+      "back": "Kot perski, buldog francuski."
+    },
+    {
+      "front": "Alaskan malamute – masa",
+      "back": "Psy 38 kg, suki 34 kg."
+    },
+    {
+      "front": "Buldog francuski – masa",
+      "back": "8–14 kg."
+    },
+    {
+      "front": "Pierwotne przeznaczenie bullteriera",
+      "back": "Szczurołap."
+    },
+    {
+      "front": "Polska czarno-biała – cechy budowy",
+      "back": "Prawidłowe zawieszenie wymienia, mocna budowa, dobrze rozwinięta klatka piersiowa, głęboki tułów, wysokie i mocne nogi."
+    },
+    {
+      "front": "Wbp – budowa i tempo wzrostu",
+      "back": "Szybko rośnie, późno dojrzewa; mocny, długi tułów o szerokim, równym grzbiecie; nogi mocne, proste, szeroko rozstawione."
+    },
+    {
+      "front": "Konik polski – głowa, szyja, grzywa",
+      "back": "Głowa średnia, prosta lub lekko klinowata; silna szyja; skłonność do stojącej grzywy."
+    },
+    {
+      "front": "Bullterier – charakterystyczne cechy",
+      "back": "Jajowaty kształt głowy, opadająca linia kufy; mocno zbudowany, umięśniony; żywotny i inteligentny."
+    },
+    {
+      "front": "Kot perski – kolor oczu",
+      "back": "Niebieski, pomarańczowy lub mieszany."
+    },
+    {
+      "front": "Kot perski – charakter",
+      "back": "Spokojny, łagodny, z niewielkim talentem łowczym."
+    },
+    {
+      "front": "Do jakich typów użytkowych należą krowy na zdjęciach (od lewej)?",
+      "back": "Mleczny (holsztyńsko-fryzyjska), mięsny (Charolaise), kombinowany (Abondance).",
+      "img": "img/bpc4/typy-uzytkowe-bydla-zdjecia.jpg"
+    },
+    {
+      "front": "Jakie typy użytkowe drobiu przedstawiają zdjęcia (od lewej)?",
+      "back": "Nieśny, mięsny, ogólnoużytkowy.",
+      "img": "img/bpc4/typy-uzytkowe-drobiu-zdjecia.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Holsztyńsko-fryzyjska (HF) – wybitnie mleczna.",
+      "img": "img/bpc4/holsztynsko-fryzyjska.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Polska czarno-biała.",
+      "img": "img/bpc4/polska-czarno-biala.jpg"
+    },
+    {
+      "front": "Jaka to rasa świń?",
+      "back": "Pietrain – szarobiała z czarnymi i rudymi plamami, wybitnie mięsna.",
+      "img": "img/bpc4/pietrain.jpg"
+    },
+    {
+      "front": "Jaka to rasa świń?",
+      "back": "Wielka biała polska (wbp) – uszy małe i stojące.",
+      "img": "img/bpc4/wielka-biala-polska.jpg"
+    },
+    {
+      "front": "Jaka to rasa kóz?",
+      "back": "Koza alpejska – brązowa z czarną pręgą na grzbiecie, typ mleczny.",
+      "img": "img/bpc4/koza-alpejska.jpg"
+    },
+    {
+      "front": "Jaka to rasa owiec?",
+      "back": "Wrzosówka polska – okrywa kożuchowa, siwa z czarną głową i nogami.",
+      "img": "img/bpc4/wrzosowka-polska.jpg"
+    },
+    {
+      "front": "Jaka to rasa koni?",
+      "back": "Koń czystej krwi arabskiej – szczupaczy profil głowy.",
+      "img": "img/bpc4/kon-arabski.jpg"
+    },
+    {
+      "front": "Jaka to rasa koni?",
+      "back": "Konik polski – maść myszata z pręgą na grzbiecie.",
+      "img": "img/bpc4/konik-polski.jpg"
+    },
+    {
+      "front": "Jaka to rasa kur?",
+      "back": "Zielononóżka kuropatwiana – jedyna typowo polska rasa kur.",
+      "img": "img/bpc4/zielononozka-kuropatwiana.jpg"
+    },
+    {
+      "front": "Jaka to rasa kotów?",
+      "back": "Kot tajski (starosyjamski) – umaszczenie point, oczy błękitne.",
+      "img": "img/bpc4/kot-tajski.jpg"
+    },
+    {
+      "front": "Jaka to rasa kotów?",
+      "back": "Kot perski – długowłosy, rasa brachycefaliczna.",
+      "img": "img/bpc4/kot-perski.jpg"
+    },
+    {
+      "front": "Jaka to rasa psów?",
+      "back": "Alaskan malamute.",
+      "img": "img/bpc4/alaskan-malamute.jpg"
+    },
+    {
+      "front": "Jaka to rasa psów?",
+      "back": "Bulterier (bullterier) – jajowata głowa, opadająca linia kufy.",
+      "img": "img/bpc4/bulterier.jpg"
+    },
+    {
+      "front": "Przedstawiciele bydła typu mlecznego (tab. 4.1)",
+      "back": "Czarno-biała, czerwono-biała, polska czerwona, holsztyńsko-fryzyjska, simental."
+    },
+    {
+      "front": "Przedstawiciele bydła typu mięsnego (tab. 4.1)",
+      "back": "Angus, Hereford, Piemontese, Charolaise, Blonde d'Aquitaine, Limousine."
+    },
+    {
+      "front": "Przedstawiciele bydła typu kombinowanego (tab. 4.1)",
+      "back": "Żółta niemiecka, Abondance, Deuter, czerwono-biała belgijska."
+    },
+    {
+      "front": "Typ smalcowy świń – cechy fizjologiczne",
+      "back": "Wolny wzrost, wczesne dojrzewanie (do 2 lat), odkładanie tłuszczu międzymięśniowego przy niezbyt intensywnym żywieniu, niska produkcyjność i słaba odporność, skłonność opasowa (wolna przemiana materii)."
+    },
+    {
+      "front": "Typ słoninowy świń – produkcja i koszty",
+      "back": "Wytwarza dużo słoniny i sadła, prawie nie odkłada tłuszczu między- i śródmięśniowego; długi czas tuczu, duże zużycie paszy."
+    },
+    {
+      "front": "Owce mleczne – wydajność mleka w litrach",
+      "back": "600–700 kg mleka (ok. 1000 l) w laktacji 250–300 dni."
+    },
+    {
+      "front": "Kury ogólnoużytkowe – barwa skorupy jaj",
+      "back": "Od jasnej do brunatnej."
+    },
+    {
+      "front": "Maści konia czystej krwi arabskiej",
+      "back": "Gniada, kara, kasztanowata, siwa, skarogniada."
+    },
+    {
+      "front": "Pochodzenie konika polskiego",
+      "back": "Dawniej południowa Rosja; hodowla odnowiona w Polsce (odtworzony z prymitywnego konia biłgorajskiego)."
+    },
+    {
+      "front": "Kryza u kota perskiego",
+      "back": "Gęsta i dłuższa sierść rosnąca od uszu wokół brody."
+    },
+    {
+      "front": "Umaszczenie typu point (kot tajski)",
+      "back": "Ciemne kończyny, pysk, uszy i ogon (lub tabby point)."
+    },
+    {
+      "front": "Pbz – wymagania utrzymania",
+      "back": "Dobre warunki utrzymania i poprawne żywienie (słabsza konstytucja, podatność na stres)."
+    },
+    {
+      "front": "Wbp – wymagania utrzymania",
+      "back": "Suche, dobrze wentylowane pomieszczenia i racjonalne żywienie."
+    },
+    {
+      "front": "Pietrain – zastosowanie w krzyżowaniu",
+      "back": "Komponent ojcowski z rasami białymi; ojcowski lub mateczny do produkcji knurów krzyżówkowych; także do wyprowadzania nowych ras i linii."
+    },
+    {
+      "front": "Typ konstytucji owiec wełnistych i mięsnych",
+      "back": "Wełniste – konstytucja sucha (bardzo słabo umięśnione); mięsne – konstytucja limfatyczna (umięśnione)."
+    },
+    {
+      "front": "Owce wełniste – cechy budowy",
+      "back": "Szeroka głowa z długą częścią twarzową, rogate tryki, wrąb na połączeniu szyi i kłębu, spadzisty zad, wyczuwalne wyrostki kolczyste, długie nogi, pofałdowana skóra szyi, obrośnięty brzuch i kończyny, cienka wełna."
+    },
+    {
+      "front": "Owce mięsne – cechy budowy",
+      "back": "Umięśnione, wełna jednolita, duża głowa, krótka szyja, brak rogów, skóra napięta, kończyny krótkie, spionowana sylwetka."
+    },
+    {
+      "front": "Owce mleczne – cechy budowy",
+      "back": "Delikatna konstrukcja, sylwetka wpisana w trójkąt, długie nogi, golizny, silnie rozwinięte wymię, cienkie kości; szybka przemiana materii."
+    },
+    {
+      "front": "Owce kożuchowe – cechy",
+      "back": "Drobna budowa, dobrze rozwinięta, mocna, cienka i ciepła skóra, delikatny kościec, cienka mizdra, wełna (okrywa) mieszana, włosy puchowe."
+    },
+    {
+      "front": "Owce typu wielostronnego – cechy",
+      "back": "Krótkoogoniaste, prymitywne, nieuszlachetnione, odporne; wczesna dojrzałość płciowa; małe wymagania paszowe i zoohigieniczne."
+    },
+    {
+      "front": "Owce mięsno-wełniste – cechy",
+      "back": "Pośrednie cechy budowy; dobrze przystosowują się do warunków środowiska, utrzymywane na pastwiskach (Corriedale, anglomerynos, angielskie owce długowełniste, Leine)."
+    },
+    {
+      "front": "Podtypy konia zaprzęgowego",
+      "back": "Ciężko-pociągowy (stępak), pośpieszno-pociągowy, lekko zaprzęgowy."
+    },
+    {
+      "front": "Koń zaprzęgowy – cechy budowy i użytkowe",
+      "back": "Krótka szyja, stroma łopatka, konstytucja mięśniowa, wcześnie dojrzewające, duża siła uciągu."
+    },
+    {
+      "front": "Koń wierzchowy – temperament",
+      "back": "Żywy temperament i dobry charakter (konstytucja oddechowa)."
+    },
+    {
+      "front": "Koń juczny – budowa",
+      "back": "Krępa, przyziemna budowa ciała; ok. 140 cm, 350–400 kg."
+    },
+    {
+      "front": "Świnie typu mięsnego – sylwetka",
+      "back": "Wydłużona, równoległoboczna (może przechodzić w trapezowatą); tułów bardzo długi, spłaszczony z boków; głowa mała; nogi dłuższe, cienkie, lecz mocne."
+    },
+    {
+      "front": "Świnie mięsno-tłuszczowe – budowa",
+      "back": "Wałeczkowata; krótki szeroki tułów, beczkowata klatka piersiowa, mała szeroka głowa, krótki ryj o załamanym profilu, krótkie nogi, słabe umięśnienie."
+    },
+    {
+      "front": "Świnie słoninowe – budowa",
+      "back": "Długa ciężka głowa, tułów karpiowaty, głęboki, płaski, z dużą łopatką; nogi długie i mocne; szczecina długa, gęsta i twarda."
+    },
+    {
+      "front": "Świnie smalcowe – budowa",
+      "back": "Jajowata; tułów bardzo krótki, wałeczkowaty, grzbiet łęgowaty, mała głowa, szerokie czoło, krótki zadarty ryj, nogi bardzo krótkie, drobnokościste i słabe."
+    },
+    {
+      "front": "Masa ciała kur nieśnych i ogólnoużytkowych w 20. tygodniu",
+      "back": "Nieśne: kury 1,2–1,6 kg, koguty 1,7–2,3 kg; ogólnoużytkowe: kury 1,5–2,6 kg, koguty 1,8–3,3 kg."
+    },
+    {
+      "front": "Kury mięsne – cechy budowy",
+      "back": "Ciało zbliżone do kwadratu, dobrze umięśniona klatka piersiowa i uda, krótki szeroki grzbiet, upierzenie zazwyczaj białe."
+    },
+    {
+      "front": "Kury nieśne – cechy budowy",
+      "back": "Lekka sylwetka zbliżona do trójkąta, silnie rozwinięte przydatki głowowe."
+    },
+    {
+      "front": "Zielononóżka kuropatwiana – cechy",
+      "back": "Zielone nogi i skóra, dymorfizm upierzenia, nie nadaje się do chowu intensywnego."
+    },
+    {
+      "front": "Kaczka pekin – cechy",
+      "back": "Typ ogólnoużytkowy, najbardziej rozpowszechniona w Polsce; upierzenie białe lub kremowe, żółta skóra i nogi; duża wydajność nieśna, dobre cechy mięsne; nie kwocze."
+    },
+    {
+      "front": "Folblut – maść i użytkowanie",
+      "back": "Maść gniada i ciemnogniada, kara, kasztanowata, siwa; użytkowanie wszechstronne i wyścigowe; typ gorącokrwisty."
+    },
+    {
+      "front": "Koń arabski – użytkowanie i pochodzenie",
+      "back": "Pokazy, rekreacja, wszechstronne, wyścigi, rajdy; pochodzenie – Półwysep Arabski; wytrzymały na długie dystanse; używany do uszlachetniania innych ras."
+    },
+    {
+      "front": "Koń arabski – reakcja na ostre traktowanie",
+      "back": "Reaguje paniką; łatwy do kontroli najłagodniejszymi pomocami."
+    },
+    {
+      "front": "Alaskan malamute – pochodzenie i przystosowanie",
+      "back": "Rasa pierwotna wyhodowana przez Indian z plemienia Malemutów na Alasce; gęsta sierść z grubym podszerstkiem – przystosowany do niskich temperatur i wytężonej pracy."
+    },
+    {
+      "front": "Buldog francuski – wygląd i pochodzenie",
+      "back": "Krępy, muskularny, szeroka kwadratowa głowa, duże stojące uszy, lekko wytrzeszczone oczy, krótki ogon; wywodzi się m.in. od buldoga angielskiego."
+    },
+    {
+      "front": "Kot brytyjski – odmiany i umaszczenie",
+      "back": "Odmiany krótko- i długowłose; ok. 150 rodzajów umaszczenia; oczy pomarańczowe, niebieskie, złociste, zielone."
+    },
+    {
+      "front": "Kot tajski – masa i pochodzenie wzorca",
+      "back": "2,5–5 kg; wzorzec rasy ustalono w latach 90. XX w.; kocięta rodzą się białe."
+    },
+    {
+      "front": "HF – cechy wymienia",
+      "back": "Wyrównane ćwiartki i długie strzyki – łatwe dojenie; wymię dobrze rozbudowane, mocno unaczynione żyłami podskórnymi."
+    },
+    {
+      "front": "Limousine – cechy użytkowe",
+      "back": "Bardzo dobre umięśnienie grzbietu i zadu, delikatny kościec, bardzo dobra płodność, wysoka wydajność rzeźna, średnio wczesne dojrzewanie, łatwe porody, dobre zdolności adaptacyjne."
+    },
+    {
+      "front": "Wrzosówka polska – rogi",
+      "back": "Rogi przeważnie tylko u tryków."
+    },
+    {
+      "front": "Merynos polski – wełna i umaszczenie",
+      "back": "Umaszczenie białe; wełna krzyżówkowa, średnio gruba i gruba, jednolita; bezrogi, silna konstytucja."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Hodowla zwierząt to:",
+      "options": [
+        "utrzymywanie zwierząt w celu uzyskania korzyści",
+        "sposób wykorzystania zwierzęcia",
+        "selekcja i dobór zwierząt do rozrodu w celu poprawy cech użytkowych",
+        "grupa zwierząt od wspólnego przodka"
+      ],
+      "answer": 2,
+      "explain": "Hodowla to praca polegająca na selekcji i doborze zwierząt do rozrodu w celu poprawy cech i parametrów użytkowych."
+    },
+    {
+      "q": "Ród to grupa zwierząt wywodząca się od wspólnego przodka:",
+      "options": [
+        "męskiego",
+        "żeńskiego",
+        "z tej samej odmiany",
+        "z tego samego stada"
+      ],
+      "answer": 0,
+      "explain": "Ród – grupa zwierząt wywodząca się od wspólnego przodka męskiego."
+    },
+    {
+      "q": "Typ mleczno-mięsny jest przykładem typu użytkowego:",
+      "options": [
+        "jednostronnego",
+        "pierwotnego",
+        "smalcowego",
+        "kombinowanego"
+      ],
+      "answer": 3,
+      "explain": "Typ kombinowany to np. mleczno-mięsny, mięsno-nieśny."
+    },
+    {
+      "q": "Koń sportowy lub pociągowy to przykład określenia:",
+      "options": [
+        "rasy",
+        "kierunku użytkowania",
+        "rodu",
+        "odmiany"
+      ],
+      "answer": 1,
+      "explain": "Kierunek użytkowania – sposób wykorzystania zwierzęcia, np. koń sportowy, pociągowy."
+    },
+    {
+      "q": "Do zwierząt gospodarskich w Polsce nie zalicza się:",
+      "options": [
+        "danieli fermowych",
+        "fretek",
+        "przepiórek japońskich",
+        "nutrii fermowych"
+      ],
+      "answer": 1,
+      "explain": "Fretki należą do zwierząt towarzyszących; daniele, przepiórki japońskie i nutrie fermowe są zwierzętami gospodarskimi."
+    },
+    {
+      "q": "Gatunki zwierząt towarzyszących wymienia:",
+      "options": [
+        "dyrektywa 90/539/EWG",
+        "dyrektywa 92/65/EWG",
+        "ustawa o ochronie przyrody",
+        "załącznik I rozporządzenia 998/2003/WE"
+      ],
+      "answer": 3,
+      "explain": "Za zwierzęta towarzyszące uznaje się gatunki z załącznika I rozporządzenia 998/2003/WE."
+    },
+    {
+      "q": "Bydło o tułowiu zbliżonym do prostokąta, ciężkiej głowie i słabo rozwiniętym wymieniu reprezentuje typ:",
+      "options": [
+        "mięsny",
+        "mleczny",
+        "kombinowany",
+        "wełnisty"
+      ],
+      "answer": 0,
+      "explain": "Typ mięsny: tułów zbliżony do prostokąta, ciężka głowa, niewielkie wymię."
+    },
+    {
+      "q": "Kształt ciała zbliżony do trójkąta, którego podstawą jest zad, charakteryzuje bydło typu:",
+      "options": [
+        "mięsnego",
+        "kombinowanego",
+        "mlecznego",
+        "roboczego"
+      ],
+      "answer": 2,
+      "explain": "Typ mleczny ma kształt ciała zbliżony do trójkąta, którego podstawą jest zad."
+    },
+    {
+      "q": "Rasą bydła typu mięsnego jest:",
+      "options": [
+        "holsztyńsko-fryzyjska",
+        "polska czarno-biała",
+        "Abondance",
+        "Charolaise"
+      ],
+      "answer": 3,
+      "explain": "Charolaise jest przedstawicielem typu mięsnego."
+    },
+    {
+      "q": "Świnie typu mięsnego osiągają w okresie tuczu do 100 kg przyrosty dzienne:",
+      "options": [
+        "300–400 g",
+        "około 500 g",
+        "ponad 700 g",
+        "ponad 1500 g"
+      ],
+      "answer": 2,
+      "explain": "Średnie przyrosty dzienne świń mięsnych do 100 kg przekraczają 700 g."
+    },
+    {
+      "q": "U świń typu mięsno-tłuszczowego tłuszcz zaczyna dominować w przyroście po przekroczeniu masy:",
+      "options": [
+        "20–30 kg",
+        "60–70 kg",
+        "100–110 kg",
+        "150 kg"
+      ],
+      "answer": 1,
+      "explain": "Po przekroczeniu 60–70 kg w przyroście dziennym dominuje tłuszcz."
+    },
+    {
+      "q": "Rasa puławska reprezentuje typ użytkowy świń:",
+      "options": [
+        "mięsno-tłuszczowy",
+        "mięsny",
+        "słoninowy",
+        "smalcowy"
+      ],
+      "answer": 0,
+      "explain": "Puławska jest przedstawicielem typu mięsno-tłuszczowego."
+    },
+    {
+      "q": "Wolny wzrost, późne dojrzewanie (4–5 lat), wysoka odporność i silny instynkt macierzyński to cechy świń typu:",
+      "options": [
+        "słoninowego",
+        "mięsnego",
+        "mięsno-tłuszczowego",
+        "smalcowego"
+      ],
+      "answer": 0,
+      "explain": "Typ słoninowy: wolny wzrost, dojrzewanie 4–5 lat, wysoka odporność, silny instynkt macierzyński."
+    },
+    {
+      "q": "Do ras świń typu mięsnego nie należy:",
+      "options": [
+        "Pietrain",
+        "złotnicka pstra",
+        "Duroc",
+        "wielka biała polska"
+      ],
+      "answer": 1,
+      "explain": "Złotnicka pstra reprezentuje typ słoninowy."
+    },
+    {
+      "q": "Owce typu wełnistego to przede wszystkim:",
+      "options": [
+        "Texel i Suffolk",
+        "Lacaune i Awassi",
+        "merynosy",
+        "wrzosówki"
+      ],
+      "answer": 2,
+      "explain": "Przedstawicielami typu wełnistego są merynosy."
+    },
+    {
+      "q": "Owce wcześnie dojrzewające (1,5 roku), o wysokich wymaganiach paszowych, reprezentują typ:",
+      "options": [
+        "wełnisty",
+        "kożuchowy",
+        "wielostronny",
+        "mięsny"
+      ],
+      "answer": 3,
+      "explain": "Typ mięsny – wcześnie dojrzewające (1,5 roku), wysokie wymagania paszowe."
+    },
+    {
+      "q": "Laktacja owiec typu mlecznego trwa:",
+      "options": [
+        "100–150 dni",
+        "60–90 dni",
+        "250–300 dni",
+        "365 dni"
+      ],
+      "answer": 2,
+      "explain": "Od wykotu do zasuszenia laktacja trwa 250–300 dni."
+    },
+    {
+      "q": "Rasą owiec typu mlecznego jest:",
+      "options": [
+        "Lacaune",
+        "Texel",
+        "Suffolk",
+        "Corriedale"
+      ],
+      "answer": 0,
+      "explain": "Przedstawiciele typu mlecznego: wschodniofryzyjska, Lacaune, Awassi, Assaf."
+    },
+    {
+      "q": "Wrzosówka polska reprezentuje typ użytkowy:",
+      "options": [
+        "wełnisty",
+        "mleczny",
+        "futerkowo-smuszkowy",
+        "kożuchowy"
+      ],
+      "answer": 3,
+      "explain": "Wrzosówka polska należy do typu kożuchowego."
+    },
+    {
+      "q": "Karakuł to owca typu:",
+      "options": [
+        "kożuchowego",
+        "futerkowo-smuszkowego",
+        "mlecznego",
+        "wielostronnego"
+      ],
+      "answer": 1,
+      "explain": "Karakuł reprezentuje typ futerkowo-smuszkowy (tłustoogoniaste)."
+    },
+    {
+      "q": "Koń wierzchowy ma wysokość w kłębie:",
+      "options": [
+        "130–140 cm",
+        "155–170 cm",
+        "140–150 cm",
+        "175–190 cm"
+      ],
+      "answer": 1,
+      "explain": "Typ wierzchowy: wysokość w kłębie 155–170 cm, waga 500–650 kg."
+    },
+    {
+      "q": "Konie zaprzęgowe mają konstytucję typu:",
+      "options": [
+        "oddechowego",
+        "oddechowo-mięśniowego",
+        "limfatycznego",
+        "mięśniowego"
+      ],
+      "answer": 3,
+      "explain": "Typ zaprzęgowy – konstytucja typu mięśniowego, duża siła uciągu."
+    },
+    {
+      "q": "Koń juczny waży około:",
+      "options": [
+        "350–400 kg",
+        "500–650 kg",
+        "600–1000 kg",
+        "200–250 kg"
+      ],
+      "answer": 0,
+      "explain": "Typ juczny: ok. 140 cm, 350–400 kg."
+    },
+    {
+      "q": "Kury typu nieśnego osiągają dojrzałość płciową w wieku:",
+      "options": [
+        "ok. 200 dni",
+        "160–180 dni",
+        "140–150 dni",
+        "90–100 dni"
+      ],
+      "answer": 2,
+      "explain": "Typ nieśny – wczesne dojrzewanie płciowe (140–150 dni)."
+    },
+    {
+      "q": "Kury nieśne do 76. tygodnia życia znoszą około:",
+      "options": [
+        "130 jaj",
+        "160–200 jaj",
+        "500 jaj",
+        "300 jaj"
+      ],
+      "answer": 3,
+      "explain": "Do 76 tygodnia życia kury nieśne znoszą ok. 300 jaj o masie 54–66 g."
+    },
+    {
+      "q": "Rhode Island Red to przedstawiciel kur typu:",
+      "options": [
+        "nieśnego",
+        "mięsnego",
+        "ogólnoużytkowego",
+        "ozdobnego"
+      ],
+      "answer": 2,
+      "explain": "Rhode Island Red reprezentuje typ ogólnoużytkowy."
+    },
+    {
+      "q": "Masa ciała krów rasy holsztyńsko-fryzyjskiej wynosi:",
+      "options": [
+        "450–500 kg",
+        "650–750 kg",
+        "1050–1300 kg",
+        "800–900 kg"
+      ],
+      "answer": 1,
+      "explain": "Krowy HF ważą 650–750 kg, buhaje 1050–1300 kg."
+    },
+    {
+      "q": "Buhaje rasy Limousine wykorzystuje się do:",
+      "options": [
+        "krzyżowania towarowego z rasami mlecznymi",
+        "doskonalenia ras mlecznych",
+        "produkcji wołów roboczych",
+        "chowu w typie kombinowanym"
+      ],
+      "answer": 0,
+      "explain": "Buhaje Limousine służą do krzyżowania towarowego z rasami mlecznymi."
+    },
+    {
+      "q": "Niska płodność i kłopoty z rozrodem z powodu osłabienia kończyn to wada rasy:",
+      "options": [
+        "Pietrain",
+        "wielka biała polska",
+        "polska biała zwisłoucha",
+        "puławska"
+      ],
+      "answer": 0,
+      "explain": "Pietrain ma niską płodność i kłopoty z rozrodem z powodu osłabienia kończyn."
+    },
+    {
+      "q": "Rasa świń o małych, stojących uszach, odporna na stres, odpowiednia do chowu wielkostadnego to:",
+      "options": [
+        "polska biała zwisłoucha",
+        "wielka biała polska",
+        "Pietrain",
+        "złotnicka pstra"
+      ],
+      "answer": 1,
+      "explain": "Wbp – uszy małe i stojące, odporność na stres, nadaje się do chowu wielkostadnego."
+    },
+    {
+      "q": "Polska biała zwisłoucha jest wykorzystywana w krzyżowaniu towarowym jako komponent:",
+      "options": [
+        "ojcowski",
+        "terminalny ojcowski",
+        "mateczny",
+        "nie jest wykorzystywana"
+      ],
+      "answer": 2,
+      "explain": "Pbz używana jest w krzyżowaniu towarowym do produkcji komponentu matecznego."
+    },
+    {
+      "q": "Plenność kozy alpejskiej wynosi:",
+      "options": [
+        "100%",
+        "130%",
+        "250%",
+        "160%"
+      ],
+      "answer": 3,
+      "explain": "Koza alpejska – plenność 160%, użytkowość rozpłodowa 140%."
+    },
+    {
+      "q": "Jagnięta wrzosówki polskiej rodzą się:",
+      "options": [
+        "białe i ciemnieją z wiekiem",
+        "siwe",
+        "czarne i siwieją ok. 6. miesiąca",
+        "brązowe z czarną pręgą"
+      ],
+      "answer": 2,
+      "explain": "Jagnięta wrzosówki rodzą się czarne, siwieją w wieku ok. 6 miesięcy."
+    },
+    {
+      "q": "Merynosy polskie mogą być używane do rozrodu w wieku około:",
+      "options": [
+        "8 miesięcy",
+        "18 miesięcy",
+        "2 lat",
+        "4 miesięcy"
+      ],
+      "answer": 0,
+      "explain": "Merynos polski jest wcześnie dojrzewający – do rozrodu w wieku ok. 8 miesięcy."
+    },
+    {
+      "q": "Najszybszymi końmi na świecie na krótkim dystansie są konie:",
+      "options": [
+        "czystej krwi arabskiej",
+        "konik polski",
+        "zimnokrwiste",
+        "pełnej krwi angielskiej"
+      ],
+      "answer": 3,
+      "explain": "Koń pełnej krwi angielskiej (folblut) to najszybsze konie na krótkim dystansie."
+    },
+    {
+      "q": "Konik polski został odtworzony na podstawie:",
+      "options": [
+        "konia Przewalskiego",
+        "prymitywnego konia biłgorajskiego",
+        "konia arabskiego",
+        "tarpana z Rosji przywiezionego w XX w."
+      ],
+      "answer": 1,
+      "explain": "Konik polski odtworzono na podstawie prymitywnego konia biłgorajskiego."
+    },
+    {
+      "q": "Zielononóżka kuropatwiana jest jedyną typowo polską rasą kur od roku:",
+      "options": [
+        "1879",
+        "1959",
+        "1990",
+        "1945"
+      ],
+      "answer": 1,
+      "explain": "Zielononóżka kuropatwiana – jedyna od 1959 r. typowo polska rasa."
+    },
+    {
+      "q": "Rasa kur typu nieśnego, niekwocząca, z największymi przydatkami głowowymi, to:",
+      "options": [
+        "zielononóżka kuropatwiana",
+        "Rhode Island Red",
+        "Cornish",
+        "Leghorn"
+      ],
+      "answer": 3,
+      "explain": "Leghorn – typ nieśny, największe przydatki głowowe, rasa niekwocząca."
+    },
+    {
+      "q": "Do ras brachycefalicznych, z predyspozycją do schorzeń górnych dróg oddechowych, należy:",
+      "options": [
+        "buldog francuski",
+        "alaskan malamute",
+        "bullterier",
+        "kot tajski"
+      ],
+      "answer": 0,
+      "explain": "Buldog francuski (oraz kot perski) to rasy brachycefaliczne."
+    },
+    {
+      "q": "Kot perski może mieć oczy w kolorze:",
+      "options": [
+        "wyłącznie zielonym",
+        "niebieskim, pomarańczowym lub mieszanym",
+        "wyłącznie żółtym",
+        "brązowym"
+      ],
+      "answer": 1,
+      "explain": "Oczy kota perskiego są niebieskie, pomarańczowe lub mieszane."
+    },
+    {
+      "q": "Skłonność do stojącej grzywy i silna szyja charakteryzują:",
+      "options": [
+        "konia pełnej krwi angielskiej",
+        "konia czystej krwi arabskiej",
+        "konia rasy shire",
+        "konika polskiego"
+      ],
+      "answer": 3,
+      "explain": "Konik polski ma silną szyję, skłonność do stojącej grzywy, prosty grzbiet i mocne kończyny."
+    },
+    {
+      "q": "Jaka rasa koni jest przedstawiona na zdjęciu?",
+      "options": [
+        "koń czystej krwi arabskiej",
+        "koń pełnej krwi angielskiej",
+        "koń zimnokrwisty",
+        "konik polski"
+      ],
+      "answer": 3,
+      "explain": "To konik polski – niewysoki (ok. 130 cm), maść myszata z pręgą wzdłuż grzbietu.",
+      "img": "img/bpc4/konik-polski.jpg"
+    },
+    {
+      "q": "Jaka rasa owiec jest przedstawiona na zdjęciu?",
+      "options": [
+        "Suffolk",
+        "owca wschodniofryzyjska",
+        "wrzosówka polska",
+        "merynos polski"
+      ],
+      "answer": 2,
+      "explain": "Wrzosówka polska – owca kożuchowa, siwa okrywa, czarna głowa i nogi.",
+      "img": "img/bpc4/wrzosowka-polska.jpg"
+    },
+    {
+      "q": "Jaka rasa świń jest przedstawiona na zdjęciu?",
+      "options": [
+        "puławska",
+        "Pietrain",
+        "wielka biała polska",
+        "polska biała zwisłoucha"
+      ],
+      "answer": 1,
+      "explain": "Pietrain – szarobiałe umaszczenie z czarnymi i rudymi plamami.",
+      "img": "img/bpc4/pietrain.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzęsto o efektach ekonomicznych prowadzenia chowu i hodowli decyduje odpowiedni dobór zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to utrzymywanie zwierząt w celu uzyskania od nich konkretnych korzyści.",
+      "options": [
+        "Hodowla.",
+        "Chów."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWieloletnia selekcja hodowlana pozwoliła na uzyskanie zwierząt o wybitnych cechach, dzięki czemu ich wydajność znacząco się zwiększyła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGatunek to grupa zwierząt posiadająca określone, właściwe tylko dla tej grupy cechy użytkowe, które są przekazywane potomstwu wskutek dziedziczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż typy użytkowe bydła.",
+      "options": [
+        "Wielostronny.",
+        "Kombinowany.",
+        "Jednostronny.",
+        "Celowany."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż zwierzęta futerkowe utrzymywane w warunkach fermowych.",
+      "options": [
+        "Tchórz zwyczajny.",
+        "Świnka morska.",
+        "Jenot.",
+        "Norka amerykańska."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… – grupa spokrewnionych ze sobą zwierząt, od których w efekcie kojarzenia możemy uzyskać płodne potomstwo.",
+      "options": [
+        "Gatunek",
+        "Rasa"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przeciwieństwie do kotów syjamskich, koty tajskie mają inną budowę ciała i bardziej zrównoważony charakter.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta towarzyszące – zwierzęta trzymane przez ludzi w warunkach domowych dla towarzystwa lub własnej przyjemności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRód to grupa zwierząt wywodząca się od wspólnego przodka ….",
+      "options": [
+        "żeńskiego (samicy)",
+        "męskiego (samca)"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTyp użytkowania to sposób, w jaki wykorzystywane jest dane zwierzę, np. koń sportowy, pociągowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zgodnie z przepisami obowiązującymi w Polsce, jako zwierzęta gospodarskie uznaje się:",
+      "options": [
+        "psy.",
+        "kozy.",
+        "owce.",
+        "świnie."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta gospodarskie to zwierzęta utrzymywane w gospodarstwie rolnym w celu uzyskania od nich określonych produktów, wykorzystywane jako siła pociągowa lub materiał reprodukcyjny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż typ użytkowy kombinowany.",
+      "options": [
+        "Futerkowy.",
+        "Mięsno-mleczny.",
+        "Mleczny.",
+        "Mięsny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBydło mleczne ma kształt ciała zbliżony do …, którego podstawą jest zad.",
+      "options": [
+        "trójkąta",
+        "prostokąta"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmukła budowa ciała, głowa okrągła, z wydatnym czołem i mocno zaokrągloną brodą, średniej wielkości uszy, lekko skierowane do środka, szyja muskularna i krótka to cechy charakterystyczne dla kota perskiego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDobrze umięśniona klatka piersiowa i uda to cechy charakterystyczne dla drobiu w typie użytkowym ….",
+      "options": [
+        "mięsnym",
+        "ogólnoużytkowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonik Polski to, po koniu Przewalskiego, najstarsza rasa na świecie, całkowicie wytępiona w 1879 r, odtworzona na podstawie prymitywnego konia biłgorajskiego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych zwierząt nie należy do jeleniowatych utrzymywanych w warunkach fermowych?",
+      "options": [
+        "Jeleń wschodni.",
+        "Daniel.",
+        "Jeleń szlachetny.",
+        "Łoś."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonie … to najszybsze konie na świecie na krótkim dystansie.",
+      "options": [
+        "czystej krwi arabskiej",
+        "pełnej krwi angielskiej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cechę kozy alpejskiej.",
+      "options": [
+        "Odporność na choroby.",
+        "Niska wydajność mleczna.",
+        "Kwadratowa budowa.",
+        "Stuprocentowa plenność."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Strusie utrzymywane w warunkach fermowych uznaje się za zwierzęta gospodarskie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje koni zaprzęgowych.",
+      "options": [
+        "Średnio zaprzęgowy.",
+        "Pośpieszno-pociągowy.",
+        "Lekko zaprzęgowy.",
+        "Ciężko-pociągowy (stępak)."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOdmiana oznacza zbiór cech stanowiących pewne odchylenie od wzorca rasy, występujących u … liczby zwierząt, które mogą swobodnie krzyżować się między sobą.",
+      "options": [
+        "niewielkiej",
+        "dużej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż przedstawicieli bydła mięsnego.",
+      "options": [
+        "Deuter.",
+        "Hereford.",
+        "Angus.",
+        "Limousine."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLekko wydłużona szczupła głowa osadzona na wąskiej, płaskiej szyi charakteryzuje bydło ….",
+      "options": [
+        "mięsne",
+        "mleczne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż przedstawicieli typu smalcowego trzody chlewnej.",
+      "options": [
+        "Biała zwisłoucha.",
+        "Wielka biała polska.",
+        "Prymitywne rasy południowo-wschodniej Azji.",
+        "Puławska."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wskaż przedstawicieli typu mięsnego trzody chlewnej.",
+      "options": [
+        "Puławska.",
+        "Wielka biała polska.",
+        "Złotnicka biała.",
+        "Biała zwisłoucha."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrólików i gryzoni nie uznaje się za zwierzęta towarzyszące.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z wymienionych cech nie charakteryzuje drobiu mięsnego.",
+      "options": [
+        "Krótki, szeroki grzbiet.",
+        "Upierzenie zazwyczaj białe.",
+        "Kształt ciała zbliżony do trójkąta.",
+        "Dobrze umięśniona klatka piersiowa i uda."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚwinie typu smalcowego rosną równie szybko, jak świnie typu mięsnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDługa i ciężka głowa, tułów karpiowaty, głęboki, płaski, z dużą łopatką charakteryzuje trzodę chlewną w typie użytkowym ....",
+      "options": [
+        "mięsnym",
+        "słoninowym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWypukłe profile mięśniowe i bardzo umięśniony zad charakteryzują bydło ….",
+      "options": [
+        "mleczne",
+        "mięsne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.„Mocno zbudowany i umięśniony, proporcjonalny, z opadającą linią kufy…”. Jest to opis ….",
+      "options": [
+        "buldoga francuskiego",
+        "bullteriera"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWydajność mleka w ciągu laktacji u owcy mlecznej wynosi ….",
+      "options": [
+        "400–600 kg",
+        "600–700 kg"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż typy użytkowe owiec.",
+      "options": [
+        "Futerkowy.",
+        "Nieśny.",
+        "Wełniasty.",
+        "Mleczny."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZnajomość poszczególnych parametrów produkcyjnych umożliwia odpowiedni dobór zwierząt do prowadzenia efektywnej działalności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTypowym przedstawicielem bydła mlecznego jest rasa ….",
+      "options": [
+        "belgijska czerwono-biała",
+        "holsztyńsko-fryzyjska"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrób ogólnoużytkowy ma kształt ciała zbliżony do kwadratu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrób mięsny charakteryzuje późne dojrzewanie płciowe (ok. 200 dni).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż typy użytkowe trzody chlewnej.",
+      "options": [
+        "Słoninowy.",
+        "Smalcowy.",
+        "Mięsno-tłuszczowy.",
+        "Mięsny."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż cechy charakterystyczne dla typu użytkowego mięsno-tłuszczowego trzody chlewnej.",
+      "options": [
+        "Beczkowata klatka piersiowa.",
+        "Krótki i szeroki tułów.",
+        "Duża i szeroka głowa.",
+        "Budowa wałeczkowata."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKarakuł jest przedstawicielem owcy ….",
+      "options": [
+        "mlecznej",
+        "futerkowo-smuszkowej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z wymienionych typów nie należy do typów użytkowych bydła.",
+      "options": [
+        "Mleczny.",
+        "Smalcowy.",
+        "Kombinowany.",
+        "Mięsny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSmukła budowa ciała, głowa okrągła, z wydatnym czołem i mocno zaokrągloną brodą, średniej wielkości uszy, lekko skierowane do środka, szyja muskularna to cechy charakterystyczne dla kota ….",
+      "options": [
+        "brytyjskiego",
+        "tajskiego"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiektóre rasy są na tyle specyficznie ukierunkowane pod względem produkcyjnym, że wykorzystanie ich w innym celu nie przyniosłoby większych korzyści.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta jeleniowate utrzymywane w warunkach fermowych.",
+      "options": [
+        "Jeleń wschodni.",
+        "Łoś.",
+        "Daniel.",
+        "Jeleń szlachetny."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHodowla to utrzymywanie zwierząt w celu uzyskania od nich konkretnych korzyści.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż typ użytkowy jednostronny.",
+      "options": [
+        "Mięsno-mleczny.",
+        "Futerkowy.",
+        "Mleczny.",
+        "Mięsny."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRasa to grupa spokrewnionych zwierząt, od których w efekcie kojarzenia można uzyskać płodne potomstwo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRód jest określoną grupą zwierząt wywodząca się od wspólnego przodka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przedstawiciela bydła mlecznego.",
+      "options": [
+        "Polska czerwona.",
+        "Czarno-biała.",
+        "Hereford.",
+        "Angus."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zgodnie z przepisami obowiązującymi w Polsce za zwierzęta gospodarskie uznaje się:",
+      "options": [
+        "bydło domowe i bawoły.",
+        "koty.",
+        "konie i osły.",
+        "Świnie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTyp użytkowy jest zespołem cech morfologicznych i fizjologicznych zwierzęcia, które decydują o jego użytkowości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta futerkowe utrzymywane w warunkach fermowych.",
+      "options": [
+        "Króliki.",
+        "Lisy pospolite.",
+        "Jenoty.",
+        "Świnki morskie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Bydło mleczne ma kształt ciała zbliżony do:",
+      "options": [
+        "prostokąta.",
+        "kwadratu.",
+        "łączy cechy kształtu kwadratu i trójkąta.",
+        "trójkąta."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta gospodarskie to zwierzęta trzymane przez ludzi w warunkach domowych dla towarzystwa lub dla przyjemności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Budowa ciała krępa, muskularna, szeroka kwadratowa głowa o dużych stojących uszach i lekko wytrzeszczonych oczach, ogon krótki to cechy charakterystyczne dla:",
+      "options": [
+        "bulteriera.",
+        "buldoga francuskiego.",
+        "alaskana malmute.",
+        "buldoga angielskiego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdmiana oznacza zbiór cech, będących pewnym odchyleniem od wzorca rasy, a występują u dużej liczby zwierząt, które mogą swobodnie krzyżować się między sobą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta towarzyszące.",
+      "options": [
+        "Koty.",
+        "Psy.",
+        "Bezkręgowce.",
+        "Fretki."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Smukła budowa ciała, głowa okrągła, z wydatnym czołem i mocno zaokrągloną brodą, średniej wielkości uszy, lekko skierowane do środka, szyja muskularna to cechy charakterystyczne dla kota:",
+      "options": [
+        "brytyjskiego.",
+        "tajskiego.",
+        "rosyjskiego.",
+        "perskiego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cechy usposobienia kota brytyjskiego.",
+      "options": [
+        "Zrównoważony.",
+        "Inteligentny.",
+        "Łagodny.",
+        "Towarzyski."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż typy użytkowe bydła.",
+      "options": [
+        "Mięsny.",
+        "Kombinowany.",
+        "Mleczny.",
+        "Smalcowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Postęp hodowlany uzyskany w przypadku konkretnej właściwości może wpływać na pozostałe cechy i prowadzić do:",
+      "options": [
+        "zwiększenia wrażliwości na warunki środowiskowe.",
+        "spadku odporności.",
+        "zwiększenia wymagań dobrostanu.",
+        "słabego umięśnienia."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLekko wydłużona, szczupła głowa osadzona na wąskiej, płaskiej szyi charakteryzuje było mleczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż maści konia arabskiego.",
+      "options": [
+        "Gniada.",
+        "Kasztanowata.",
+        "Myszata.",
+        "Kara."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZa zwierzęta towarzyszące uznaje się gatunki wymienione w załączniku I rozporządzenia 998/2003/WE.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHodowla zwierząt to praca polegająca na selekcji i doborze zwierząt do rozrodu, w celu poprawy cech i parametrów użytkowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przedstawicieli typu użytkowego mięsno-tłuszczowego trzody chlewnej.",
+      "options": [
+        "Wielka biała polska.",
+        "Złotnicka biała.",
+        "Puławska.",
+        "Biała zwisłoucha."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Który z wymienionych typów charakteryzuje typ użytkowy drobiu mięsnego.",
+      "options": [
+        "Upierzenie zazwyczaj białe.",
+        "Krótki, szeroki grzbiet.",
+        "Dobrze umięśniona klatka piersiowa i uda.",
+        "Kształt ciała zbliżony do trójkąta."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMała głowa, często o szczupaczym profilu, charakteryzuje konie pełnej krwi angielskiej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cechy charakterystyczne dla owcy typu wielostronnie użytkowego.",
+      "options": [
+        "Wydajność mleka 600–700 kg mleka (1000 l).",
+        "Odporne.",
+        "Wczesna dojrzałość płciowa.",
+        "Małe wymagania paszowe i zoohigieniczne."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż cechy charakterystyczne dla kota brytyjskiego.",
+      "options": [
+        "Ok. 150 rodzajów umaszczenia.",
+        "Odmiany krótko i długowłose.",
+        "Waga dorosłego: 4–9 kg.",
+        "Mała głowa na krótkiej szyi."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaz przedstawicieli owcy mlecznej.",
+      "options": [
+        "Karakuł.",
+        "Awassi.",
+        "Assaf.",
+        "Lacaune."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwce mięsno-wełniaste dobrze przystosowują się do warunków środowiska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDługa i ciężka głowa, tułów karpiowaty, głęboki, płaski, z dużą łopatką charakteryzuje mięsny typ użytkowy trzody chlewnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż cechy charakterystyczne dla bydła mlecznego.",
+      "options": [
+        "Nasada ogona wysoko osadzona.",
+        "Profile mięśni ud lekko wklęsłe.",
+        "Budowa ogólna harmonijna, szlachetna.",
+        "Pojemne wymię."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż typy użytkowe drobiu.",
+      "options": [
+        "Nieśny.",
+        "Mleczny.",
+        "Mięsny.",
+        "Ogólnoużytkowy."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż jednokierunkowe typy użytkowe owiec.",
+      "options": [
+        "Ogólnoużytkowy.",
+        "Mleczny.",
+        "Mięsny.",
+        "Wełniasty."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż cechy charakterystyczne dla typu smalcowego trzody chlewnej.",
+      "options": [
+        "Szerokie czoło.",
+        "Krótki, zadarty ryj.",
+        "Grzbiet najczęściej łęgowaty.",
+        "Duża głowa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    }
+  ]
+}

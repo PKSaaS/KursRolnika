@@ -1,0 +1,2025 @@
+{
+  "id": "ur6",
+  "course": "Uprawa roślin",
+  "title": "Rośliny przemysłowe",
+  "number": "VI",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rośliny przemysłowe – uprawiane jako surowiec dla przemysłu do produkcji substancji chemicznych (olej, alkohol) i materiałów (włókna).",
+        "Tradycyjnie dzieli się je na: oleiste, włókniste i specjalne.",
+        "Grupa nie obejmuje wszystkich roślin użytkowanych przemysłowo (zbóż, ziemniaków, buraków cukrowych) – grupuje się według podobieństw agrotechnicznych.",
+        "Oleiste – gromadzą w nasionach dużo tłuszczu; w Polsce: rzepak, rzepik, gorczyca, mak, słonecznik oleisty, dynia oleista.",
+        "Rzepik jest podobny do rzepaku i ma taką samą agrotechnikę.",
+        "Włókniste: len (z nasion olej lniany) i konopie.",
+        "Specjalne: tytoń, chmiel, zioła i rośliny lecznicze w uprawie polowej.",
+        "Rośliny specjalne omawia kolejny moduł (VII)."
+      ]
+    },
+    {
+      "heading": "1. Znaczenie gospodarcze",
+      "points": [
+        "Wg GUS w 2012 r. rośliny przemysłowe zajmowały 11,8% powierzchni upraw – najwięcej po zbożach.",
+        "Rzepak i rzepik: 720 303 ha, w tym rzepak ozimy 635 249 ha i jary 85 054 ha.",
+        "Pozostałe (2012): słonecznik 3253 ha, soja 855 ha, len oleisty 1234 ha, mak, gorczyca i inne oleiste 17 062 ha, len włóknisty 641 ha, konopie 94 ha.",
+        "Największe znaczenie mają rośliny oleiste; nasiona rzepaku zawierają ok. 45–50% oleju.",
+        "Olej: spożycie, margaryny, lakiery, farby, kosmetyki, przemysł włókienniczy, chemiczny, hutnictwo, oleje maszynowe, środki ochrony roślin, farmacja, biopaliwa.",
+        "Nasiona rzepaku, zwłaszcza jarego, to surowiec do produkcji śruty.",
+        "Rzepak, rzepik, gorczyca biała i słonecznik to dobre poplony na zielony nawóz lub paszę.",
+        "Uprawa roślin włóknistych załamała się na początku lat 90.; obecnie areał lnu i konopi jest śladowy.",
+        "Olej z nasion oleistych jest tłoczony lub ekstrahowany."
+      ],
+      "images": [
+        {
+          "src": "img/ur6/rzepak-kwiaty-nasiona.jpg",
+          "caption": "Rzepak – żółte, czteropłatkowe kwiaty i drobne, czarne nasiona (zawierają ok. 45–50% oleju)."
+        },
+        {
+          "src": "img/ur6/len.jpg",
+          "caption": "Len – z nasion lnu otrzymujemy olej lniany; len jest też rośliną włóknistą."
+        },
+        {
+          "src": "img/ur6/konopie.jpg",
+          "caption": "Konopie – roślina włóknista."
+        },
+        {
+          "src": "img/ur6/rosliny-przemyslowe-podzial-pelne.jpg",
+          "caption": "Rośliny przemysłowe – uprawiane w celu dostarczenia surowca dla przemysłu do produkcji różnych substancji chemicznych i materiałów. Tradycyjnie dzieli się je na oleiste (np. rzepak), włókniste (np. len) i specjalne (np. chmiel)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Wymagania klimatyczno-glebowe",
+      "points": [
+        "Rzepak powstał w warunkach naturalnych z przekrzyżowania kapusty i rzepiku; rzepak należy do kapustowatych.",
+        "Okres wegetacji form ozimych 300–330 dni, jarych 90–120 dni.",
+        "Rzepak ozimy jest mniej zimotrwały od żyta i pszenicy ozimej, ale wymarza rzadziej niż jęczmień jary; rzepik jest bardziej odporny na mróz i lepiej znosi zimy bezśnieżne.",
+        "Stopniowy spadek temperatury przed zimą – hartowanie roślin.",
+        "Zahartowany rzepak bez śniegu znosi do –15°C, rzepik do –25°C; pod śniegiem na zamarzniętej ziemi rzepak wytrzymuje do –25°C i niżej.",
+        "Wyparzanie – śnieg na niezamarzniętej glebie: rośliny zamierają, a potem gniją.",
+        "Wypieranie – naprzemienne odwilże i mrozy unoszą glebę i uszkadzają korzenie; rzepik ulega obu zjawiskom podobnie jak rzepak.",
+        "Odwilże powodują utratę zahartowania; ostre wiatry przy mrozach uszkadzają plantacje bez śniegu.",
+        "Rzepak wymaga gleb niezakwaszonych (pH > 6), o dobrej strukturze, kompleksów od pszennego bardzo dobrego do żytniego bardzo dobrego i dobrego (klasy II–IVa).",
+        "Wymagania wodne wysokie – najlepsze rejony: 500–700 mm równomiernie rozłożonych opadów rocznych; rzepak jary jest wrażliwy na suszę.",
+        "Gleba musi być wilgotna w fazie formowania pąków, kwitnienia i zawiązywania nasion.",
+        "Na przezimowanie rzepaku bezpośredni wpływ ma przebieg pogody przed zimą; zahartowane rośliny znacznie lepiej znoszą zimę.",
+        "Rzepak i rzepik to rośliny spokrewnione; oba mają formy ozime i jare."
+      ]
+    },
+    {
+      "heading": "3. Stanowisko w zmianowaniu",
+      "points": [
+        "Najlepsze przedplony rzepaku: wczesne odmiany grochu, koniczyna czerwona, mieszanki koniczyn z trawami, lucerna – zaorane po pierwszym pokosie.",
+        "Dla rzepaku jarego dobrym przedplonem są buraki.",
+        "Zwykle rzepak uprawia się po zbożach; najkorzystniej rzepak ozimy po jęczmieniu ozimym i jarym, pszenicy i pszenżycie ozimym.",
+        "Nieodpowiednie przedplony: żyto i owies uprawiane na najsłabszych glebach.",
+        "Nie zaleca się monokultury (rzepak po rzepaku); najlepiej rzepak na tym samym polu co 4–5 lat.",
+        "Rzepak jary można też uprawiać po okopowych, kukurydzy (jeśli nie użyto groźnych herbicydów) i pszenicy jarej.",
+        "W gospodarstwach z burakami co 2–3 lata unikać rzepaku jarego po burakach – nagromadzenie mątwika burakowego; rzepak ozimy nie wpływa istotnie na mątwika.",
+        "Rzepik plonuje dobrze po tych samych przedplonach co rzepak.",
+        "Rzepak zwykle uprawia się po zbożach ze względów przyrodniczych i ekonomicznych; monokultura grozi nagromadzeniem szkodników i chorób.",
+        "Rzepak jary można uprawiać po przedplonach nieodpowiednich dla ozimego ze względu na termin ich zbioru (okopowe, kukurydza, pszenica jara)."
+      ]
+    },
+    {
+      "heading": "4. Nawożenie rzepaku ozimego",
+      "points": [
+        "Rzepak ozimy ma duże wymagania pokarmowe i dobrze wykorzystuje nawozy organiczne.",
+        "Na glebach słabszych po zbożach (4. lub dalszy rok po oborniku): obornik przefermentowany 20–40 t/ha co najmniej 3 tygodnie przed siewem.",
+        "Gnojowica na podorane ściernisko – 15 m³/ha.",
+        "Zapotrzebowanie na 1 t nasion (tab. 6.1): N 50–60, P 11–15, K 50–58, Ca 28–50, Mg 4–7, S 18–22 kg/ha.",
+        "Mikroelementy na 1 t nasion (g/ha): bor 150–200, cynk 160–180, mangan 550–600, molibden 5–6, żelazo 200.",
+        "Dawki wg IUNG (N/P2O5/K2O/MgO kg/ha): plon 2,5 t – 100/50/60/15; 3,5 t – 120/70/85/20; 4,5 t – 160/90/110/30; 5 t – 200/100/120/35.",
+        "Azot powyżej 100 kg dzieli się na 2–3 dawki: przedsiewnie 60–80 kg/ha; po ruszeniu wegetacji; ewentualnie trzecią nie później niż 4–6 tygodni przed kwitnieniem.",
+        "Przy słabym rozwoju jesienią – nalistnie mocznik 5–10% do końca września.",
+        "P i K przedsiewnie; na słabszych glebach potas w dwóch dawkach: przedsiewnie i wczesną wiosną.",
+        "Tab. 6.1 – zapotrzebowanie na sód: 21,5 kg/ha na 1 t nasion rzepaku ozimego.",
+        "Poziom nawożenia mineralnego rzepaku zależy od zasobności gleby i zakładanego plonu.",
+        "Dawki z tab. 6.2 dotyczą dobrych stanowisk o średniej zawartości N, P, K i Mg; założono, że słoma przedplonu zostaje na polu, a składniki wracają do gleby.",
+        "Trzecią dawkę azotu w rzepaku ozimym stosuje się w zależności od kondycji roślin."
+      ],
+      "images": [
+        {
+          "src": "img/ur6/tab-zapotrzebowanie-rzepaku.jpg",
+          "caption": "Tabela 6.1 – średnie zapotrzebowanie na składniki pokarmowe dla plonu 1 t nasion rzepaku ozimego: makroelementy (kg/ha) i mikroelementy (g/ha)."
+        }
+      ]
+    },
+    {
+      "heading": "4. Nawożenie rzepaku jarego i wapnowanie",
+      "points": [
+        "Rzepak jary: N 60–120 kg/ha, P 40–80 kg/ha, K 60–150 kg/ha.",
+        "Azot w 2–3 dawkach: pierwsza (maks. 60 kg/ha) przed siewem, druga po wyrzędowaniu, do początku tworzenia pąków.",
+        "Dokarmianie dolistne rzepaku jarego 5–10% roztworem mocznika.",
+        "Na glebach ciężkich P i K pod orkę przedzimową; na lżejszych 2/3 P jesienią, 1/3 wiosną z potasem przed uprawkami.",
+        "Rzepak najlepiej plonuje przy pH 6,5–7; wapno najlepiej pod przedplon, ewentualnie pod rzepak pod podorywkę.",
+        "Przy objawach niedoborów w czasie wegetacji – nawożenie nalistne.",
+        "W okresie intensywnego rozwoju rzepak trzeba dokładnie obserwować pod kątem objawów niedoboru składników; dawki wapna – wg tabel z modułu III."
+      ]
+    },
+    {
+      "heading": "5. Zabiegi uprawowe",
+      "points": [
+        "Cel uprawy: uregulowanie struktury i wilgotności gleby, przewietrzenie, zniszczenie szkodników glebowych i chwastów.",
+        "Podorywka jak najszybciej po zbiorze przedplonu – przykrycie resztek na głębokość 5–8 cm.",
+        "1–2 razy przed orką siewną płytkie kultywatorowanie lub bronowanie.",
+        "Orka siewna ok. 2–3 tygodnie przed siewem na 20–22 cm (lub pługiem z agregatem dociskającym), by rola osiadła.",
+        "Uprawa przedsiewna: agregat (kultywator + wał strunowy) lub brony.",
+        "System bezorkowy: spulchnianie na 10–16 cm ciężkim kultywatorem, bronami rotacyjnymi, wirnikowymi z wałem strunowym lub agregatami wielofunkcyjnymi – tylko na glebach o wysokiej kulturze, bez chwastów.",
+        "Rozwiązanie pośrednie: tylko podorywka, bez orki siewnej, potem agregaty.",
+        "Rzepak jary: podorywka, kilkukrotne bronowanie/kultywatorowanie, orka przedzimowa na 25–30 cm; wiosną agregaty doprawiające.",
+        "Rzepak wymaga starannej uprawy roli; systemy bezorkowe stosuje się coraz częściej, by ograniczyć nakłady na produkcję."
+      ]
+    },
+    {
+      "heading": "6. Materiał siewny i siew",
+      "points": [
+        "Stosuje się kwalifikowany materiał siewny o wysokiej wartości użytkowej (czystość, zdolność kiełkowania).",
+        "Głębokość siewu rzepaku 1,5–2 cm, rozstawa rzędów 20–25 cm; szerokorzędowo 35–45 cm na glebach o niskiej kulturze (pielęgnacja międzyrzędowa).",
+        "Obsada w uprawie integrowanej: ozimy 80–120, jary 120–150 roślin/m²; w intensywnej: ozimy 40–50, jary 60–70 roślin/m².",
+        "Ilość wysiewu: ok. 2–4 kg/ha rzepaku ozimego, 5–7 kg/ha jarego.",
+        "Wzór na ilość wysiewu: X – kg/ha, Z – liczba roślin/m² po wschodach, MTN – masa 1000 nasion [g], W – wartość użytkowa [%] = (zdolność kiełkowania + czystość) – 100.",
+        "Zależnie od warunków wschodów ilość wysiewu zwiększa się o 5–30%; dla rzepaku jarego można ją zmniejszyć o 5–15%.",
+        "W rejestrze COBORU: kilkadziesiąt odmian rzepaku ozimego i ponad 20 jarego, głównie „00”.",
+        "Odmiany „00” – niska zawartość kwasu erukowego i glukozynolanów; „0” – niska zawartość kwasu erukowego.",
+        "Odmiany populacyjne – w obrębie jednej linii hodowlanej; mieszańcowe – z przepylenia dwóch linii.",
+        "Rzepak jary sieje się wcześnie, z początkiem siewu zbóż jarych, i kończy do 10 kwietnia; opóźnienie mocno obniża plon.",
+        "Rzepik – ilość wysiewu jak rzepaku (lepiej znosi zagęszczenie); termin siewu o 1–2 tygodnie późniejszy.",
+        "Terminy siewu rzepaku ozimego: najwcześniej kończą się w północno-wschodniej Polsce – do 10 sierpnia, najpóźniej w Małopolsce – do 31 sierpnia; opóźnienie siewu znacznie obniża plon.",
+        "Norma wysiewu rzepaku ozimego wynosi ok. 3,5 kg/ha; odmianę dobiera się według zaleceń dla danego regionu.",
+        "Siew szerokorzędowy na glebach o niskiej kulturze stosuje się, gdy planuje się mechaniczną uprawę międzyrzędową w celu poprawy kultury gleby.",
+        "Ilość wysiewu trzeba każdorazowo oszacować, bo zależy od jakości materiału siewnego.",
+        "Ilość wysiewu rzepiku jest taka sama jak rzepaku mimo mniejszych nasion, bo rzepik lepiej znosi większe zagęszczenie.",
+        "Mapa granicznych terminów siewu rzepaku ozimego: 10 sierpnia – północny wschód oraz małe obszary górskie na południu (okolice Tatr i Bieszczad); 15 sierpnia – pas od Warmii przez Mazowsze na wschód i Sudety; 20 sierpnia – Pomorze i centrum; 25 sierpnia – zachód i południowy zachód; 31 sierpnia – okolice Krakowa (Małopolska)."
+      ],
+      "images": [
+        {
+          "src": "img/ur6/graniczne-terminy-siewu-rzepaku.jpg",
+          "caption": "Graniczne terminy siewu rzepaku ozimego: najwcześniej (do 10 sierpnia) – północny wschód; 15 i 20 sierpnia – pas od Pomorza przez centrum na wschód; 25 sierpnia – zachód i południowy zachód; najpóźniej (31 sierpnia) – Małopolska."
+        },
+        {
+          "src": "img/ur6/wzor-ilosc-wysiewu.jpg",
+          "caption": "Optymalna ilość wysiewu rzepaku: X [kg/ha] = Z · MTN / W, gdzie Z – zagęszczenie (liczba roślin na m² po wschodach), MTN – masa 1000 nasion [g], W – wartość użytkowa materiału siewnego [%] = (zdolność kiełkowania + czystość) – 100. (Na slajdzie w liczniku omyłkowo powtórzono X.)"
+        }
+      ]
+    },
+    {
+      "heading": "7. Sposoby siewu",
+      "points": [
+        "Siew siewnikami uniwersalnymi lub punktowymi, zależnie od technologii.",
+        "Siew punktowy: 5–7 cm w rzędzie przy 25 cm między rzędami.",
+        "Siew rzędowy: rozstaw 18–20 cm; stosuje się też 35–45 cm.",
+        "Siewniki uniwersalne trzeba odpowiednio ustawić; wybór siewnika zależy od technologii uprawy gleby."
+      ]
+    },
+    {
+      "heading": "8. Technologie uprawy",
+      "points": [
+        "Wg uprawy gleby: uprawa pełna i uproszczona bez orki siewnej.",
+        "Technologia proekologiczna – ochrona ograniczona do minimum, zabiegi uzasadnione szkodliwością ekonomiczną i opłacalnością.",
+        "Wg rozstawy: siew normalny 20–25 cm, siew szerokorzędowy 35–45 cm.",
+        "W technologii proekologicznej decyzja o wykonaniu zabiegu zależy od jego opłacalności."
+      ]
+    },
+    {
+      "heading": "9. Metody zapobiegawcze",
+      "points": [
+        "Podstawą zapobiegania agrofagom jest odpowiedni przedplon.",
+        "Dobór i jakość uprawek oraz nawożenia ograniczają choroby, szkodniki i chwasty.",
+        "Przy złym pH, kwaśnej i wilgotnej glebie dochodzi do porażenia kiłą kapusty – słabe rośliny słabo konkurują z chwastami.",
+        "Optymalny termin siewu i jakość materiału siewnego ograniczają agrofagi.",
+        "Zaprawione nasiona chronią przed m.in. zgorzelą siewek, czernią krzyżowych, mączniakiem rzekomym, pędrakami, mszycą kapuścianą, drutowcami.",
+        "Lepiej odżywione rośliny rzepaku są lepiej przygotowane do obrony przed chorobami.",
+        "Zaprawione nasiona chronią też przed szkodnikami: pędrakami, mszycą kapuścianą, drutowcami.",
+        "Bezpośrednie zwalczanie agrofagów w rzepaku – odpowiednio dobrane środki ochrony stosowane zgodnie z zaleceniami."
+      ]
+    },
+    {
+      "heading": "10. Środki ochrony roślin",
+      "points": [
+        "W rzepaku ozimym najważniejsze jest jesienne zwalczanie chwastów.",
+        "Najczęstsze chwasty: fiołek polny, jasnoty, przytulia czepna, rumianowate, tobołki, tasznik, miotła zbożowa, samosiewy zbóż.",
+        "Nie ma herbicydu zwalczającego jednakowo wszystkie chwasty – wybór zależy od zachwaszczenia.",
+        "Na dwuliścienne (PIORiN): Butisan 500 SC, Fuego 500 SC, Nimbus 283 SE; na jednoliścienne i samosiewy zbóż: Fusilade Forte 150 EC, Targa Super 5 EC.",
+        "W rzepiku te same herbicydy, dawki mogą być mniejsze o ok. 30%.",
+        "Najgroźniejsze szkodniki: chowacz czterozębny, pryszczarek kapustnik, słodyszek rzepakowy, chowacz brukwiaczek.",
+        "Chowacz czterozębny – ukłucia na nerwach i ogonkach liściowych, białe larwy w brązowych chodnikach w łodydze.",
+        "Pryszczarek kapustnik – łuszczyny przedwcześnie żółkną, nabrzmiewają, zniekształcają się, pękają; larwy niszczą nasiona.",
+        "Słodyszek rzepakowy – wygryzione pąki kwiatowe, nieregularne kwiatostany i rozłożenie łuszczyn.",
+        "Chowacz brukwiaczek – ukłucia ok. 1 mm na łodygach, potem rynny, zgrubienia, pękanie i łamanie łodyg.",
+        "Na szkodniki 3–4 zabiegi; w ozimym jeden jesienią, reszta wiosną; w jarym zwykle 2–3 (np. Proteus 110 OD, Mospilan 20 SP).",
+        "Najgroźniejsze choroby: sucha zgnilizna kapustnych, zgnilizna twardzikowa, szara pleśń, czerń krzyżowych, biała plamistość liści.",
+        "Sucha zgnilizna kapustnych – atakuje cały rok; żółte plamy z czarnymi kropkami.",
+        "Zgnilizna twardzikowa – sprzyja jej wilgoć przy opadaniu płatków; jasne plamy z białą puszystą grzybnią, w łodydze czarne skleroty.",
+        "Czerń krzyżowych – spadek plonu do 30%; plamy z jasnymi i ciemnymi pierścieniami lub ciemne nieregularne.",
+        "Szara pleśń – spadek plonu do 30%; szarobrązowy nalot grzybni.",
+        "Fungicydy stosuje się prewencyjnie (np. Tilmor 240 EC, Traper 250 EC, Pictor 400 SC).",
+        "Insektycydy w rzepaku jarym (przykłady): Proteus 110 OD, Cyperkill Max 500 EC, Mospilan 20 SP.",
+        "Pryszczarek kapustnik – łuszczyny zniekształcają się koło wierzchołka, kurczą się i pękają.",
+        "Słodyszek rzepakowy – część pąków jest całkowicie wydrążona.",
+        "Chowacz brukwiaczek – ukłucia początkowo śluzowate, potem białawo obrzeżone; w rdzeniu łodygi widać ślady żerowania.",
+        "Sucha zgnilizna kapustnych jest jedną z najgroźniejszych chorób grzybowych rzepaku; zgnilizna twardzikowa jest równie groźna, ale nie występuje co roku.",
+        "Skleroty – organy przetrwalnikowe grzyba zgnilizny twardzikowej, tworzą się w środku zniszczonej łodygi, gdy choroba obejmie cały jej obwód.",
+        "Czerń krzyżowych występuje na wszystkich częściach rośliny przez cały okres wegetacji; szara pleśń atakuje nadziemne części przez całą wegetację i jest powszechna u wielu roślin.",
+        "Informacje o środkach ochrony publikują producenci i instytucje państwowe w wersjach papierowych i elektronicznych (np. harmonogram ochrony i dolistnego dokarmiania rzepaku ozimego PIORiN)."
+      ],
+      "images": [
+        {
+          "src": "img/ur6/harmonogram-ochrony-rzepaku.jpg",
+          "caption": "Harmonogram ochrony rzepaku ozimego: zaprawy (fungicydowe i owadobójcze) przed siewem; herbicydy na chwasty od siewu do wzrostu łodygi; jesienią w rozecie – sucha zgnilizna, szara pleśń, cylindrosporioza, czerń krzyżowych; wiosną we wzroście łodygi – chowacz czterozębny i chowacz brukwiaczek, w fazie kwiatostanu zwartego i luźnego – słodyszek rzepakowy; w kwitnieniu – zgnilizna twardzikowa, czerń krzyżowych, szara pleśń, szkodniki łuszczynowe, mszyca kapuściana; w dojrzewaniu – wyrównanie dojrzewania."
+        }
+      ]
+    },
+    {
+      "heading": "11. Zabiegi pielęgnacyjne",
+      "points": [
+        "W rzepaku raczej nie stosuje się pielęgnacji mechanicznej – bronowanie uszkadza rośliny i zwiększa porażenie chorobami.",
+        "Wyjątek: w uprawie szerokorzędowej pielniki przed zwarciem rzędów (małe ryzyko).",
+        "Podstawowe zabiegi pielęgnacyjne to chemiczna ochrona przed chorobami, szkodnikami i chwastami.",
+        "Środki ochrony stosuje się ściśle wg zaleceń, tak by nie zagrozić zdrowiu ludzi i zwierząt ani nie skazić środowiska; bronowanie rzepaku skutkuje znacznym obniżeniem plonów."
+      ]
+    },
+    {
+      "heading": "12. Zbiór i przechowywanie",
+      "points": [
+        "Zbiór kombajnem zbożowym – jedno- lub dwuetapowy (skoszenie na pokos, dosuszenie, zbiór kombajnem z podbieraczem).",
+        "Desykanty (np. Reglone, Roundup, Basta) w dojrzałości technicznej, gdy ok. 25% łuszczyn jest w dojrzałości pełnej; także środki przeciw pękaniu łuszczyn (Spodnam) i wyrównujące dojrzewanie (Harvade).",
+        "Na olej jadalny unikać środków przyspieszających dojrzewanie i desykantów.",
+        "Dojrzałość pełna: łuszczyna zgięta w „U” pęka z otwarciem, wypadają czarne nasiona; wilgotność nasion z pędu głównego 15%.",
+        "Dojrzałość pełna następuje 10–15 dni po technicznej; wtedy zbiór jednoetapowy (wilgotność nasion 7–30%).",
+        "Dojrzałość techniczna: rośliny seledynowe, nasiona brunatne, wilgotność łuszczyn 60–70%, nasion 40%, łuszczyny lekko pękają – wtedy zbiór dwuetapowy.",
+        "Do przechowywania nasiona o wilgotności poniżej 8–9%; po zbiorze przewietrzanie minimum 48 godzin.",
+        "Nasiona powyżej 9% wilgotności trzeba suszyć – samozagrzewanie, pleśnie (biały nalot), niekorzystne zmiany biochemiczne.",
+        "Do dłuższego przechowywania wilgotność nasion 7%.",
+        "Przygotowanie plantacji i wybór terminu zbioru to kluczowe decyzje dla jakości nasion i ograniczenia strat.",
+        "Desykanty stosuje się też, gdy plantacja jest zachwaszczona, oraz by uzyskać pełną dojrzałość całej plantacji.",
+        "W zbiorze dwuetapowym rośliny dosychają na pokosie.",
+        "Wilgotność nasion przy zbiorze jednoetapowym (7–30%) zależy od pogody; nasiona trzeba przewietrzyć, bo podczas zbioru ulegają zawilgoceniu; zginane łuszczyny w dojrzałości technicznej lekko pękają."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rośliny przemysłowe – definicja",
+      "back": "Rośliny uprawiane jako surowiec dla przemysłu do produkcji substancji chemicznych (olej, alkohol) i materiałów (włókna)."
+    },
+    {
+      "front": "Trzy grupy roślin przemysłowych",
+      "back": "Oleiste, włókniste, specjalne."
+    },
+    {
+      "front": "Rośliny oleiste uprawiane w Polsce",
+      "back": "Rzepak, rzepik, gorczyca, mak, słonecznik oleisty, dynia oleista."
+    },
+    {
+      "front": "Rośliny włókniste",
+      "back": "Len i konopie."
+    },
+    {
+      "front": "Rośliny specjalne",
+      "back": "Tytoń, chmiel, zioła i rośliny lecznicze w uprawie polowej."
+    },
+    {
+      "front": "Udział roślin przemysłowych w powierzchni upraw (GUS 2012)",
+      "back": "11,8% – największa powierzchnia po zbożach."
+    },
+    {
+      "front": "Powierzchnia rzepaku i rzepiku w 2012 r.",
+      "back": "720 303 ha (ozimy 635 249 ha, jary 85 054 ha)."
+    },
+    {
+      "front": "Zawartość oleju w nasionach rzepaku",
+      "back": "Ok. 45–50%."
+    },
+    {
+      "front": "Z czego powstał rzepak jako gatunek?",
+      "back": "Z naturalnego przekrzyżowania kapusty i rzepiku."
+    },
+    {
+      "front": "Okres wegetacji rzepaku ozimego / jarego",
+      "back": "300–330 dni / 90–120 dni."
+    },
+    {
+      "front": "Zimotrwałość rzepaku ozimego na tle zbóż",
+      "back": "Mniejsza niż żyta i pszenicy ozimej, ale wymarza rzadziej niż jęczmień jary."
+    },
+    {
+      "front": "Hartowanie rzepaku",
+      "back": "Uodpornienie roślin przy stopniowym obniżaniu się temperatury przed zimą."
+    },
+    {
+      "front": "Mróz bez śniegu – zahartowany rzepak / rzepik",
+      "back": "Do –15°C / do –25°C."
+    },
+    {
+      "front": "Mróz, jaki znosi rzepak pod śniegiem na zamarzniętej glebie",
+      "back": "Do –25°C i niżej."
+    },
+    {
+      "front": "Wyparzanie rzepaku",
+      "back": "Zamieranie i gnicie roślin pod śniegiem zalegającym na niezamarzniętej glebie."
+    },
+    {
+      "front": "Wypieranie rzepaku",
+      "back": "Uszkodzenie korzeni przez unoszenie się gleby przy naprzemiennych odwilżach i mrozach."
+    },
+    {
+      "front": "Odczyn gleby wymagany przez rzepak",
+      "back": "Gleby niezakwaszone, pH > 6 (optimum 6,5–7)."
+    },
+    {
+      "front": "Klasy bonitacyjne gleb pod rzepak",
+      "back": "II–IVa (kompleksy od pszennego b. dobrego do żytniego b. dobrego i dobrego)."
+    },
+    {
+      "front": "Optymalna roczna suma opadów dla rzepaku",
+      "back": "500–700 mm, równomiernie rozłożonych."
+    },
+    {
+      "front": "Kiedy gleba musi być szczególnie wilgotna pod rzepakiem?",
+      "back": "W fazie formowania pąków, kwitnienia i zawiązywania nasion."
+    },
+    {
+      "front": "Najlepsze przedplony rzepaku",
+      "back": "Wczesny groch, koniczyna czerwona, mieszanki koniczyn z trawami, lucerna (po pierwszym pokosie)."
+    },
+    {
+      "front": "Najkorzystniejsze przedplony zbożowe dla rzepaku ozimego",
+      "back": "Jęczmień ozimy i jary, pszenica i pszenżyto ozime."
+    },
+    {
+      "front": "Nieodpowiednie przedplony rzepaku",
+      "back": "Żyto i owies uprawiane na najsłabszych glebach."
+    },
+    {
+      "front": "Jak często rzepak na tym samym polu?",
+      "back": "Co 4–5 lat (nie w monokulturze)."
+    },
+    {
+      "front": "Dodatkowe przedplony dla rzepaku jarego",
+      "back": "Okopowe, kukurydza (bez groźnych herbicydów), pszenica jara."
+    },
+    {
+      "front": "Dlaczego unikać rzepaku jarego po burakach w gospodarstwach buraczanych?",
+      "back": "Sprzyja nagromadzeniu mątwika burakowego."
+    },
+    {
+      "front": "Obornik pod rzepak ozimy na słabszych glebach",
+      "back": "Przefermentowany 20–40 t/ha, min. 3 tygodnie przed siewem."
+    },
+    {
+      "front": "Dawka gnojowicy na podorane ściernisko pod rzepak",
+      "back": "15 m³/ha."
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku na N i K na 1 t nasion",
+      "back": "N 50–60 kg, K 50–58 kg."
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku na siarkę na 1 t nasion",
+      "back": "18–22 kg/ha."
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku na bor na 1 t nasion",
+      "back": "150–200 g/ha."
+    },
+    {
+      "front": "Dawka N dla rzepaku ozimego przy plonie 3,5 t/ha (IUNG)",
+      "back": "120 kg/ha (P2O5 70, K2O 85, MgO 20)."
+    },
+    {
+      "front": "Podział azotu w rzepaku ozimym (powyżej 100 kg)",
+      "back": "Przedsiewnie 60–80 kg/ha; po ruszeniu wegetacji; ewent. trzecia nie później niż 4–6 tyg. przed kwitnieniem."
+    },
+    {
+      "front": "Jesienne dokarmianie słabego rzepaku",
+      "back": "Nalistnie mocznik 5–10% do końca września."
+    },
+    {
+      "front": "Dawki NPK dla rzepaku jarego",
+      "back": "N 60–120, P 40–80, K 60–150 kg/ha."
+    },
+    {
+      "front": "Maksymalna przedsiewna dawka N w rzepaku jarym",
+      "back": "60 kg/ha."
+    },
+    {
+      "front": "Fosfor pod rzepak jary na glebach lżejszych",
+      "back": "2/3 jesienią, 1/3 wiosną z potasem."
+    },
+    {
+      "front": "Głębokość podorywki pod rzepak",
+      "back": "5–8 cm, jak najszybciej po zbiorze przedplonu."
+    },
+    {
+      "front": "Orka siewna pod rzepak ozimy",
+      "back": "Ok. 2–3 tygodnie przed siewem, na 20–22 cm."
+    },
+    {
+      "front": "Głębokość spulchniania w systemie bezorkowym",
+      "back": "10–16 cm."
+    },
+    {
+      "front": "Warunek stosowania uprawy bezorkowej rzepaku",
+      "back": "Gleby o wysokiej kulturze, wolne od chwastów."
+    },
+    {
+      "front": "Orka przedzimowa pod rzepak jary",
+      "back": "25–30 cm."
+    },
+    {
+      "front": "Głębokość siewu rzepaku",
+      "back": "1,5–2 cm."
+    },
+    {
+      "front": "Rozstawa rzędów rzepaku – normalna / szerokorzędowa",
+      "back": "20–25 cm / 35–45 cm."
+    },
+    {
+      "front": "Obsada rzepaku ozimego / jarego w uprawie integrowanej",
+      "back": "80–120 / 120–150 roślin/m²."
+    },
+    {
+      "front": "Obsada rzepaku ozimego / jarego w uprawie intensywnej",
+      "back": "40–50 / 60–70 roślin/m²."
+    },
+    {
+      "front": "Ilość wysiewu rzepaku ozimego / jarego",
+      "back": "Ok. 2–4 kg/ha / 5–7 kg/ha."
+    },
+    {
+      "front": "Wartość użytkowa materiału siewnego (W)",
+      "back": "(Zdolność kiełkowania + czystość) – 100 [%]."
+    },
+    {
+      "front": "MTN",
+      "back": "Masa 1000 nasion [g]."
+    },
+    {
+      "front": "Odmiany „00”",
+      "back": "Niska zawartość kwasu erukowego i glukozynolanów."
+    },
+    {
+      "front": "Odmiany „0”",
+      "back": "Niska zawartość kwasu erukowego."
+    },
+    {
+      "front": "Odmiany populacyjne vs mieszańcowe",
+      "back": "Populacyjne – w obrębie jednej linii; mieszańcowe – z przepylenia dwóch linii hodowlanych."
+    },
+    {
+      "front": "Termin siewu rzepaku jarego",
+      "back": "Na początku siewu zbóż jarych, zakończyć do 10 kwietnia."
+    },
+    {
+      "front": "Termin siewu rzepiku względem rzepaku",
+      "back": "O 1–2 tygodnie później."
+    },
+    {
+      "front": "Siew punktowy rzepaku – parametry",
+      "back": "5–7 cm w rzędzie, 25 cm między rzędami."
+    },
+    {
+      "front": "Technologia proekologiczna uprawy rzepaku",
+      "back": "Ochrona ograniczona do minimum, zabiegi tylko uzasadnione ekonomicznie."
+    },
+    {
+      "front": "Choroby ograniczane zaprawianiem nasion rzepaku",
+      "back": "Zgorzel siewek, czerń krzyżowych, mączniak rzekomy."
+    },
+    {
+      "front": "Najważniejszy okres zwalczania chwastów w rzepaku ozimym",
+      "back": "Jesień."
+    },
+    {
+      "front": "O ile można zmniejszyć dawki herbicydów w rzepiku?",
+      "back": "O ok. 30%."
+    },
+    {
+      "front": "Najgroźniejsze szkodniki rzepaku",
+      "back": "Chowacz czterozębny, pryszczarek kapustnik, słodyszek rzepakowy, chowacz brukwiaczek."
+    },
+    {
+      "front": "Objawy żerowania słodyszka rzepakowego",
+      "back": "Wygryzione pąki kwiatowe, nieregularne kwiatostany i rozłożenie łuszczyn."
+    },
+    {
+      "front": "Objawy pryszczarka kapustnika",
+      "back": "Łuszczyny przedwcześnie żółkną, nabrzmiewają, zniekształcają się i pękają; larwy niszczą nasiona."
+    },
+    {
+      "front": "Objawy chowacza czterozębnego",
+      "back": "Ukłucia na nerwach i ogonkach liściowych; białe larwy w brązowych chodnikach w łodydze."
+    },
+    {
+      "front": "Objawy chowacza brukwiaczka",
+      "back": "Ukłucia ok. 1 mm na łodygach, potem rynny, zgrubienia, pękanie i łamanie łodyg."
+    },
+    {
+      "front": "Liczba zabiegów insektycydowych w rzepaku ozimym",
+      "back": "3–4 (jeden jesienią, reszta wiosną)."
+    },
+    {
+      "front": "Najgroźniejsze choroby rzepaku",
+      "back": "Sucha zgnilizna kapustnych, zgnilizna twardzikowa, szara pleśń, czerń krzyżowych, biała plamistość liści."
+    },
+    {
+      "front": "Objaw suchej zgnilizny kapustnych",
+      "back": "Żółte plamy z czarnymi kropkami."
+    },
+    {
+      "front": "Objaw zgnilizny twardzikowej",
+      "back": "Jasne plamy z białą puszystą grzybnią, w łodydze czarne skleroty."
+    },
+    {
+      "front": "Co sprzyja zgniliźnie twardzikowej?",
+      "back": "Wysoka wilgotność w czasie opadania płatków kwiatowych."
+    },
+    {
+      "front": "Spadek plonu przez czerń krzyżowych lub szarą pleśń",
+      "back": "Do 30%."
+    },
+    {
+      "front": "Dlaczego nie bronuje się rzepaku?",
+      "back": "Uszkadza rośliny i zwiększa porażenie chorobami."
+    },
+    {
+      "front": "Kiedy przeprowadza się desykację rzepaku?",
+      "back": "W dojrzałości technicznej, gdy ok. 25% łuszczyn wykazuje dojrzałość pełną."
+    },
+    {
+      "front": "Oznaki dojrzałości pełnej rzepaku",
+      "back": "Łuszczyna zgięta w „U” pęka, wypadają czarne nasiona; wilgotność nasion z pędu głównego 15%."
+    },
+    {
+      "front": "Oznaki dojrzałości technicznej rzepaku",
+      "back": "Rośliny seledynowe, nasiona brunatne; łuszczyny 60–70%, nasiona 40% wilgotności."
+    },
+    {
+      "front": "Ile dni dzieli dojrzałość techniczną od pełnej?",
+      "back": "10–15 dni."
+    },
+    {
+      "front": "Termin zbioru jedno- i dwuetapowego rzepaku",
+      "back": "Jednoetapowy – dojrzałość pełna; dwuetapowy – dojrzałość techniczna."
+    },
+    {
+      "front": "Wilgotność nasion rzepaku do przechowywania",
+      "back": "Poniżej 8–9%; do dłuższego przechowywania 7%."
+    },
+    {
+      "front": "Minimalny czas przewietrzania nasion rzepaku po zbiorze",
+      "back": "48 godzin."
+    },
+    {
+      "front": "Termin siewu rzepaku ozimego",
+      "back": "Siew kończy się najwcześniej na północnym wschodzie Polski – do 10 sierpnia, najpóźniej w Małopolsce – do 31 sierpnia; opóźnienie znacznie obniża plony."
+    },
+    {
+      "front": "Jaka roślina oleista ma takie kwiaty i nasiona?",
+      "back": "Rzepak – żółte kwiaty, drobne czarne nasiona (ok. 45–50% oleju).",
+      "img": "img/ur6/rzepak-kwiaty-nasiona.jpg"
+    },
+    {
+      "front": "Jaka roślina przemysłowa jest na zdjęciu?",
+      "back": "Len – roślina oleista (olej lniany) i włóknista.",
+      "img": "img/ur6/len.jpg"
+    },
+    {
+      "front": "Jaka roślina włóknista jest na zdjęciu?",
+      "back": "Konopie.",
+      "img": "img/ur6/konopie.jpg"
+    },
+    {
+      "front": "Gdzie siew rzepaku ozimego kończy się najwcześniej, a gdzie najpóźniej (wg mapy)?",
+      "back": "Najwcześniej na północnym wschodzie – do 10 sierpnia; najpóźniej w Małopolsce – do 31 sierpnia.",
+      "img": "img/ur6/graniczne-terminy-siewu-rzepaku.jpg"
+    },
+    {
+      "front": "Jakie szkodniki rzepaku zwalcza się wiosną we wzroście łodygi i w fazie pąków (wg harmonogramu)?",
+      "back": "Chowacz czterozębny, chowacz brukwiaczek (wzrost łodygi), słodyszek rzepakowy (kwiatostan zwarty i luźny).",
+      "img": "img/ur6/harmonogram-ochrony-rzepaku.jpg"
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku ozimego na sód na 1 t nasion",
+      "back": "21,5 kg/ha."
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku na Ca, Mg i P na 1 t nasion",
+      "back": "Ca 28–50, Mg 4–7, P 11–15 kg/ha."
+    },
+    {
+      "front": "Zapotrzebowanie rzepaku na mikroelementy na 1 t nasion (Zn, Mn, Mo, Fe)",
+      "back": "Cynk 160–180, mangan 550–600, molibden 5–6, żelazo 200 g/ha."
+    },
+    {
+      "front": "Dlaczego rzepik wysiewa się w tej samej ilości co rzepak mimo mniejszych nasion?",
+      "back": "Rzepik lepiej znosi większe zagęszczenie."
+    },
+    {
+      "front": "Kiedy stosuje się desykanty w rzepaku (poza wyrównaniem dojrzewania)?",
+      "back": "Gdy plantacja jest zachwaszczona; w dojrzałości technicznej, gdy ok. 25% łuszczyn jest w dojrzałości pełnej."
+    },
+    {
+      "front": "Skleroty zgnilizny twardzikowej – co to i gdzie się tworzą?",
+      "back": "Organy przetrwalnikowe grzyba; czarne, w środku zniszczonej łodygi."
+    },
+    {
+      "front": "Insektycydy w rzepaku jarym (przykłady)",
+      "back": "Proteus 110 OD, Cyperkill Max 500 EC, Mospilan 20 SP."
+    },
+    {
+      "front": "Dlaczego rzepak jary można siać po okopowych, kukurydzy, pszenicy jarej?",
+      "back": "Te przedplony schodzą za późno dla rzepaku ozimego, a nie przeszkadzają jaremu (po kukurydzy – jeśli nie użyto herbicydów groźnych dla rzepaku)."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla rzepaku ozimego przy plonie 4,5 t/ha i 5 t/ha (IUNG)",
+      "back": "4,5 t: N 160, P2O5 90, K2O 110, MgO 30 kg/ha; 5 t: N 200, P2O5 100, K2O 120, MgO 35 kg/ha."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla rzepaku ozimego przy plonie 2,5 t/ha (IUNG)",
+      "back": "N 100, P2O5 50, K2O 60, MgO 15 kg/ha."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Do roślin włóknistych zalicza się:",
+      "options": [
+        "rzepak i rzepik",
+        "tytoń i chmiel",
+        "len i konopie",
+        "mak i gorczycę"
+      ],
+      "answer": 2,
+      "explain": "Rośliny włókniste to len i konopie."
+    },
+    {
+      "q": "Tytoń i chmiel należą do roślin:",
+      "options": [
+        "specjalnych",
+        "oleistych",
+        "włóknistych",
+        "okopowych"
+      ],
+      "answer": 0,
+      "explain": "Rośliny specjalne to tytoń, chmiel, zioła i rośliny lecznicze."
+    },
+    {
+      "q": "W 2012 r. rośliny przemysłowe zajmowały w Polsce:",
+      "options": [
+        "3,4% powierzchni upraw",
+        "25% powierzchni upraw",
+        "50% powierzchni upraw",
+        "11,8% powierzchni upraw"
+      ],
+      "answer": 3,
+      "explain": "Wg GUS rośliny przemysłowe zajmowały 11,8% powierzchni upraw."
+    },
+    {
+      "q": "Nasiona rzepaku zawierają około:",
+      "options": [
+        "10–15% oleju",
+        "45–50% oleju",
+        "20–25% oleju",
+        "70–80% oleju"
+      ],
+      "answer": 1,
+      "explain": "Nasiona rzepaku zawierają ok. 45–50% oleju."
+    },
+    {
+      "q": "Okres wegetacji rzepaku jarego wynosi:",
+      "options": [
+        "40–60 dni",
+        "90–120 dni",
+        "160–180 dni",
+        "300–330 dni"
+      ],
+      "answer": 1,
+      "explain": "Okres wegetacji form jarych to 90–120 dni, ozimych 300–330 dni."
+    },
+    {
+      "q": "Zahartowany rzepak ozimy bez okrywy śnieżnej wytrzymuje mróz do:",
+      "options": [
+        "–5°C",
+        "–25°C",
+        "–35°C",
+        "–15°C"
+      ],
+      "answer": 3,
+      "explain": "Rzepak zahartowany wytrzymuje bez śniegu do –15°C, rzepik do –25°C."
+    },
+    {
+      "q": "Zamieranie i gnicie rzepaku pod śniegiem zalegającym na niezamarzniętej glebie to:",
+      "options": [
+        "wyparzanie",
+        "wypieranie",
+        "wymarzanie",
+        "hartowanie"
+      ],
+      "answer": 0,
+      "explain": "Śnieg na niezamarzniętej glebie powoduje wyparzanie rzepaku."
+    },
+    {
+      "q": "Wypieranie rzepaku jest skutkiem:",
+      "options": [
+        "zalegania śniegu na niezamarzniętej glebie",
+        "suszy wiosennej",
+        "naprzemiennych odwilży i mrozów",
+        "zbyt głębokiego siewu"
+      ],
+      "answer": 2,
+      "explain": "Następstwo odwilży i mrozów unosi glebę i uszkadza korzenie – to wypieranie."
+    },
+    {
+      "q": "Rzepak wymaga gleb o odczynie:",
+      "options": [
+        "pH 4,0–4,5",
+        "pH 4,5–5,0",
+        "pH poniżej 5,5",
+        "pH powyżej 6"
+      ],
+      "answer": 3,
+      "explain": "Rzepak wymaga gleb niezakwaszonych (pH > 6)."
+    },
+    {
+      "q": "Najlepsze rejony uprawy rzepaku mają roczną sumę opadów:",
+      "options": [
+        "200–300 mm",
+        "300–400 mm",
+        "500–700 mm",
+        "1000–1200 mm"
+      ],
+      "answer": 2,
+      "explain": "Najlepsze są obszary z równomiernie rozłożonymi opadami 500–700 mm."
+    },
+    {
+      "q": "Najlepszym przedplonem dla rzepaku jest:",
+      "options": [
+        "żyto na glebie najsłabszej",
+        "koniczyna czerwona zaorana po pierwszym pokosie",
+        "rzepak",
+        "owies na glebie najsłabszej"
+      ],
+      "answer": 1,
+      "explain": "Do najlepszych przedplonów należą motylkowate zaorane po pierwszym pokosie, m.in. koniczyna czerwona."
+    },
+    {
+      "q": "Rzepak na tym samym polu najlepiej uprawiać co:",
+      "options": [
+        "4–5 lat",
+        "rok",
+        "2 lata",
+        "8–10 lat"
+      ],
+      "answer": 0,
+      "explain": "Najkorzystniej uprawiać rzepak co 4–5 lat na tym samym polu."
+    },
+    {
+      "q": "Uprawa rzepaku jarego po burakach w gospodarstwach buraczanych sprzyja:",
+      "options": [
+        "kile kapusty",
+        "wymarzaniu",
+        "nagromadzeniu mątwika burakowego",
+        "wyparzaniu"
+      ],
+      "answer": 2,
+      "explain": "Rzepak jary po burakach sprzyja nagromadzeniu mątwika burakowego."
+    },
+    {
+      "q": "Dawka obornika przefermentowanego pod rzepak ozimy na glebach słabszych wynosi:",
+      "options": [
+        "20–40 t/ha",
+        "5–10 t/ha",
+        "50–60 t/ha",
+        "80–100 t/ha"
+      ],
+      "answer": 0,
+      "explain": "Zaleca się obornik przefermentowany 20–40 t/ha co najmniej 3 tygodnie przed siewem."
+    },
+    {
+      "q": "Zapotrzebowanie rzepaku ozimego na siarkę na 1 t nasion wynosi:",
+      "options": [
+        "1–2 kg/ha",
+        "50–60 kg/ha",
+        "100 kg/ha",
+        "18–22 kg/ha"
+      ],
+      "answer": 3,
+      "explain": "Tab. 6.1 podaje zapotrzebowanie na siarkę 18–22 kg/ha na 1 t nasion."
+    },
+    {
+      "q": "Przedsiewna dawka azotu w rzepaku ozimym wynosi:",
+      "options": [
+        "10–20 kg/ha",
+        "60–80 kg/ha",
+        "150–200 kg/ha",
+        "200–250 kg/ha"
+      ],
+      "answer": 1,
+      "explain": "Pierwszą dawkę azotu stosuje się przedsiewnie w ilości 60–80 kg/ha."
+    },
+    {
+      "q": "Ostatnią dawkę azotu w rzepaku ozimym stosuje się nie później niż:",
+      "options": [
+        "w pełni kwitnienia",
+        "4–6 tygodni przed kwitnieniem",
+        "tydzień przed zbiorem",
+        "w fazie dojrzałości technicznej"
+      ],
+      "answer": 1,
+      "explain": "Trzecią dawkę stosuje się nie później niż 4–6 tygodni przed kwitnieniem."
+    },
+    {
+      "q": "Przy słabym rozwoju rzepaku jesienią stosuje się nalistnie mocznik o stężeniu:",
+      "options": [
+        "1% w listopadzie",
+        "20–25% w październiku",
+        "30% wczesną wiosną",
+        "5–10% do końca września"
+      ],
+      "answer": 3,
+      "explain": "Można zastosować mocznik 5–10% do końca września."
+    },
+    {
+      "q": "Maksymalna przedsiewna dawka azotu w rzepaku jarym wynosi:",
+      "options": [
+        "60 kg/ha",
+        "20 kg/ha",
+        "120 kg/ha",
+        "150 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Pierwszą dawkę azotu (maksymalnie 60 kg/ha) stosuje się przed siewem."
+    },
+    {
+      "q": "Rzepak najlepiej plonuje przy pH:",
+      "options": [
+        "4,5–5",
+        "5–5,5",
+        "6,5–7",
+        "7,5–8,5"
+      ],
+      "answer": 2,
+      "explain": "Rzepak najlepiej plonuje przy pH 6,5–7."
+    },
+    {
+      "q": "Podorywkę pod rzepak wykonuje się na głębokość:",
+      "options": [
+        "1–2 cm",
+        "20–22 cm",
+        "25–30 cm",
+        "5–8 cm"
+      ],
+      "answer": 3,
+      "explain": "Podorywka przykrywa resztki pożniwne na głębokości 5–8 cm."
+    },
+    {
+      "q": "Orkę siewną pod rzepak ozimy wykonuje się:",
+      "options": [
+        "w dniu siewu na 10 cm",
+        "2–3 miesiące przed siewem na 35 cm",
+        "2–3 tygodnie przed siewem na 20–22 cm",
+        "wiosną na 5–8 cm"
+      ],
+      "answer": 2,
+      "explain": "Orkę siewną wykonuje się ok. 2–3 tygodnie przed siewem na głębokość 20–22 cm."
+    },
+    {
+      "q": "W bezorkowym systemie uprawy rzepaku glebę spulchnia się na głębokość:",
+      "options": [
+        "2–4 cm",
+        "10–16 cm",
+        "25–30 cm",
+        "35–40 cm"
+      ],
+      "answer": 1,
+      "explain": "W systemie bezorkowym wierzchnią warstwę spulchnia się na 10–16 cm."
+    },
+    {
+      "q": "Rzepak wysiewa się na głębokość:",
+      "options": [
+        "1,5–2 cm",
+        "0,5 cm",
+        "4–5 cm",
+        "6–8 cm"
+      ],
+      "answer": 0,
+      "explain": "Rzepak wysiewa się na głębokość 1,5–2 cm."
+    },
+    {
+      "q": "Obsada rzepaku ozimego w uprawie integrowanej powinna wynosić:",
+      "options": [
+        "10–20 roślin/m²",
+        "200–300 roślin/m²",
+        "80–120 roślin/m²",
+        "400–500 roślin/m²"
+      ],
+      "answer": 2,
+      "explain": "W uprawie integrowanej obsada rzepaku ozimego to 80–120 roślin/m²."
+    },
+    {
+      "q": "Ilość wysiewu rzepaku ozimego wynosi w przybliżeniu:",
+      "options": [
+        "2–4 kg/ha",
+        "10–12 kg/ha",
+        "20–25 kg/ha",
+        "150–200 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Ilość wysiewu to ok. 2–4 kg/ha dla ozimego i 5–7 kg/ha dla jarego."
+    },
+    {
+      "q": "Odmiany rzepaku „00” charakteryzują się niską zawartością:",
+      "options": [
+        "tylko kwasu erukowego",
+        "białka i oleju",
+        "błonnika",
+        "kwasu erukowego i glukozynolanów"
+      ],
+      "answer": 3,
+      "explain": "Odmiany „00” mają niską zawartość kwasu erukowego i glukozynolanów."
+    },
+    {
+      "q": "Siew rzepaku jarego należy zakończyć do:",
+      "options": [
+        "15 marca",
+        "10 kwietnia",
+        "15 maja",
+        "1 czerwca"
+      ],
+      "answer": 1,
+      "explain": "Siew rzepaku jarego zaczyna się z siewem zbóż jarych i kończy do 10 kwietnia."
+    },
+    {
+      "q": "Termin siewu rzepiku w porównaniu z rzepakiem może być:",
+      "options": [
+        "o miesiąc wcześniejszy",
+        "o 1–2 tygodnie późniejszy",
+        "o 1–2 tygodnie wcześniejszy",
+        "o 2 miesiące późniejszy"
+      ],
+      "answer": 1,
+      "explain": "Termin siewu rzepiku może być o 1–2 tygodnie późniejszy niż rzepaku."
+    },
+    {
+      "q": "Dawki herbicydów w rzepiku w porównaniu z rzepakiem mogą być mniejsze o około:",
+      "options": [
+        "5%",
+        "60%",
+        "90%",
+        "30%"
+      ],
+      "answer": 3,
+      "explain": "W rzepiku stosuje się te same herbicydy, a dawki mogą być mniejsze o ok. 30%."
+    },
+    {
+      "q": "Wygryzienia w pąkach kwiatowych i nieregularne kwiatostany rzepaku są objawem żerowania:",
+      "options": [
+        "słodyszka rzepakowego",
+        "pryszczarka kapustnika",
+        "chowacza czterozębnego",
+        "chowacza brukwiaczka"
+      ],
+      "answer": 0,
+      "explain": "Słodyszek rzepakowy wygryza pąki, co daje nieregularne kwiatostany."
+    },
+    {
+      "q": "Żółte plamy z czarnymi kropkami na nadziemnych częściach rzepaku to objaw:",
+      "options": [
+        "szarej pleśni",
+        "zgnilizny twardzikowej",
+        "suchej zgnilizny kapustnych",
+        "kiły kapusty"
+      ],
+      "answer": 2,
+      "explain": "Objawem suchej zgnilizny kapustnych są żółte plamy z czarnymi kropkami."
+    },
+    {
+      "q": "Czarne skleroty wewnątrz łodygi rzepaku tworzą się przy:",
+      "options": [
+        "czerni krzyżowych",
+        "białej plamistości liści",
+        "szarej pleśni",
+        "zgniliźnie twardzikowej"
+      ],
+      "answer": 3,
+      "explain": "W zgniliźnie twardzikowej w środku łodygi tworzą się czarne skleroty."
+    },
+    {
+      "q": "Desykację łanu rzepaku przeprowadza się, gdy cechy dojrzałości pełnej wykazuje około:",
+      "options": [
+        "5% łuszczyn",
+        "75% łuszczyn",
+        "25% łuszczyn",
+        "100% łuszczyn"
+      ],
+      "answer": 2,
+      "explain": "Desykację wykonuje się, gdy ok. 25% łuszczyn jest w dojrzałości pełnej."
+    },
+    {
+      "q": "Zbiór dwuetapowy rzepaku rozpoczyna się w fazie:",
+      "options": [
+        "dojrzałości pełnej",
+        "pełnej dojrzałości technicznej",
+        "kwitnienia",
+        "zielonych łuszczyn"
+      ],
+      "answer": 1,
+      "explain": "W fazie pełnej dojrzałości technicznej rozpoczyna się zbiór dwuetapowy."
+    },
+    {
+      "q": "Nasiona rzepaku do dłuższego przechowywania powinny mieć wilgotność:",
+      "options": [
+        "7%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "answer": 0,
+      "explain": "Nasiona do dłuższego przechowywania powinny mieć wilgotność 7%."
+    },
+    {
+      "q": "Do kiedy należy zakończyć siew rzepaku ozimego w północno-wschodniej Polsce?",
+      "options": [
+        "Do 31 sierpnia",
+        "Do 10 kwietnia",
+        "Do 10 sierpnia",
+        "Do 15 września"
+      ],
+      "answer": 2,
+      "explain": "Okres siewu rzepaku ozimego najwcześniej kończy się na północnym wschodzie – do 10 sierpnia, a najpóźniej w Małopolsce – do 31 sierpnia."
+    },
+    {
+      "q": "Wg harmonogramu ochrony rzepaku ozimego zgniliznę twardzikową zwalcza się:",
+      "options": [
+        "przed siewem",
+        "jesienią w fazie rozety",
+        "na początku kwitnienia",
+        "w dojrzewaniu"
+      ],
+      "answer": 2,
+      "explain": "Zgnilizna twardzikowa – zabieg fungicydowy na początku kwitnienia (sprzyja jej wilgoć przy opadaniu płatków).",
+      "img": "img/ur6/harmonogram-ochrony-rzepaku.jpg"
+    },
+    {
+      "q": "Roślina na zdjęciu to:",
+      "options": [
+        "konopie",
+        "len",
+        "rzepak",
+        "gorczyca"
+      ],
+      "answer": 1,
+      "explain": "Len – z jego nasion otrzymujemy olej lniany.",
+      "img": "img/ur6/len.jpg"
+    },
+    {
+      "q": "Jaka wilgotność nasion rzepaku jest zalecana do długiego przechowywania?",
+      "options": [
+        "15%",
+        "12%",
+        "9%",
+        "7%"
+      ],
+      "answer": 3,
+      "explain": "Do przechowywania poniżej 8–9%, do dłuższego przechowywania 7%; powyżej 9% – suszenie."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż przemysłowe rośliny oleiste.",
+      "options": [
+        "Rzepak.",
+        "Gorczyca.",
+        "Len włóknisty.",
+        "Soja."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy planowaniu zmianowania rzepaku najkorzystniej jest uprawiać go co … na tym samym polu.",
+      "options": [
+        "2-3 lata",
+        "4-5 lat"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla rzepaku jarego dobrym przedplonem są zboża, jednak ze względów przyrodniczych i ekonomicznych rzepak zazwyczaj uprawia się po burakach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką zawartość oleju mają nasiona rzepaku?",
+      "options": [
+        "30–45%",
+        "50–55%",
+        "45-50%",
+        "25–30%"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRzepaku … nie należy uprawiać po burakach, gdyż sprzyja to gromadzeniu się mątwika burakowego.",
+      "options": [
+        "jarego",
+        "ozimego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajkorzystniejszymi przedplonami dla uprawy rzepaku są żyto i owies.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych chorób występują najczęściej w uprawach rzepaku?",
+      "options": [
+        "Zgnilizna twardzikowa.",
+        "Szara pleśń.",
+        "Czerń krzyżowych.",
+        "Rdza zbożowa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… należy do rodziny różowatych.",
+      "options": [
+        "Rzepik",
+        "Rzepak"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawa roślin włóknistych w Polsce uległa załamaniu na początku lat 90.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRośliny przemysłowe pod względem powierzchni upraw zajmują drugą pozycję w Polsce, a największe znaczenie wśród roślin przemysłowych ma uprawa roślin oleistych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRzepak … jest mniej zimotrwały od żyta i pszenicy ozimej, ale wymarza rzadziej niż jęczmień jary.",
+      "options": [
+        "ozimy",
+        "jary"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych szkodników występują najczęściej w uprawach rzepaku?",
+      "options": [
+        "Chowacz czterozębny.",
+        "Pryszczarek kapustnik.",
+        "Słodyszek rzepakowy.",
+        "Ploniarka gnijka."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAreał uprawy lnu i konopi w stosunku do powierzchni upraw rolniczych w Polsce jest obecnie (2013 r.) śladowy i ma niewielkie znaczenie gospodarcze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeżeli na zamarzniętą ziemię spadnie śnieg, to rzepak wytrzyma temperaturę nawet do …°C i niżej.",
+      "options": [
+        "-15",
+        "-25"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRzepak i rzepik nie są roślinami spokrewnionymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką procentową wilgotność powinny mieć nasiona rzepaku przeznaczone do dłuższego przechowywania?",
+      "options": [
+        "5%",
+        "7%",
+        "25%",
+        "9%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo przechowywania nadają się nasiona rzepaku o wilgotności poniżej … %.",
+      "options": [
+        "8-9",
+        "4-5"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż potencjalne zagrożenie klimatyczne upraw rzepaku.",
+      "options": [
+        "Okrywa śnieżna na zamarzniętej ziemi.",
+        "Powolny spadek temperatury zimą.",
+        "Opady śniegu na niezamarzniętą ziemię.",
+        "Zima przerywana odwilżami.",
+        "Mroźne wiatry przy braku okrywy śnieżnej."
+      ],
+      "answers": [
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż zabiegi agrotechniczne właściwe po zbożach pod uprawę rzepaku ozimego.",
+      "options": [
+        "Płytkie kultywatorowanie lub bronowanie w zespole uprawek pożniwnych",
+        "Podorywka na głębokość 5–8 cm.",
+        "Uprawa przedsiewna za pomocą agregatu (kultywator + wał strunowy) lub brony.",
+        "Orka siewna na głębokość 20–22 cm lub wykonana pługiem z agregatem dociskającym."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalna obsada rzepaku ozimego na metrze kwadratowym to … roślin.",
+      "options": [
+        "60–80",
+        "80–120"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻeby ograniczyć zachwaszczenie w uprawie rzepaku jarego wykonuje się kilkukrotne bronowanie lub płytkie kultywatorowanie po podorywce, ale przed orką przedzimową.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zastosowania olejów roślinnych.",
+      "options": [
+        "Jako surowiec w przemyśle chemicznym.",
+        "Bezpośrednie spożycie.",
+        "Jako surowiec do produkcji margaryn.",
+        "Surowiec do produkcji olejów maszynowych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.\nRzepak wymaga stanowiska o uregulowanym pH. Najlepiej plonuje przy pH … .",
+      "options": [
+        "6,5–7",
+        "4,6–5,5"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW okresie intensywnego rozwoju rzepaku należy dokładnie obserwować rośliny, żeby przy objawach niedoboru składników pokarmowych zastosować nawożenie dolistne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż cele zabiegów agrotechnicznych w uprawie rzepaku.",
+      "options": [
+        "Przewietrzenie gleby.",
+        "Regulowanie struktury i wilgotności gleby.",
+        "Dostarczenie do gleby składników odżywczych.",
+        "Zniszczenie jak największej ilości szkodników glebowych i chwastów."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystemy uprawy bezorkowej ograniczają nakłady na produkcję, dlatego są stosowane coraz częściej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNasiona o wilgotności powyżej …% powinny być poddane suszeniu, ponieważ łatwo ulegają procesowi samozagrzewania i porażeniu przez grzyby pleśniowe.",
+      "options": [
+        "9",
+        "7"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiej dawce stosuje się gnojowicę na ściernisko podorane pod rzepak ozimy?",
+      "options": [
+        "25 m3/ha",
+        "30 m3/ha",
+        "15 m3/ha",
+        "20 m3/ha"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOkres wegetacji form ozimych rzepaku wynosi … dni.",
+      "options": [
+        "90–120",
+        "300–330"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiew rzepaku jarego należy wykonać na początku siewu zbóż jarych i zakończyć do 10 kwietnia, ponieważ opóźnienia powodują znaczną obniżkę plonów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWybierając odmianę rzepaku do uprawy, nie trzeba brać pod uwagę typu regionu, w jakim będzie prowadzona uprawa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż właściwy odstęp między rzędami przy punktowym siewie rzepaku z odstępem roślin w rzędzie 5–7 cm.",
+      "options": [
+        "25 cm",
+        "35–45 cm",
+        "50 cm",
+        "18–20 cm"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy rozstawie rzędów 20–25 cm mówimy o siewie … .",
+      "options": [
+        "normalnym",
+        "szerokorzędowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie chwasty najczęściej występują w uprawie rzepaku ozimego?",
+      "options": [
+        "Tasznik.",
+        "Fiołek polny.",
+        "Miotła zbożowa.",
+        "Przytulia czepna."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nHerbicydy w ochronie upraw rzepaku stosujemy zgodnie z zaleceniami … oraz Państwowego Instytutu Ochrony Roślin i Nasiennictwa.",
+      "options": [
+        "Sanepidu",
+        "producenta"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdstęp roślin w uprawie rzepaku nie zależy od zastosowanej technologii uprawy i siewu, tylko od zastosowanej odmiany.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W czasie wegetacji rzepak można dokarmiać dolistnie roztworem mocznika o stężeniu:",
+      "options": [
+        "3–5%",
+        "5–7%",
+        "7–9%",
+        "10–15%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNawozy fosforowe i potasowe stosujemy ….",
+      "options": [
+        "w czasie wegetacji",
+        "przedsiewnie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawie rzepaku podstawową metodą zapobiegania zachwaszczeniu plantacji rzepaku ozimego jest stosowanie odpowiedniego przedplonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najlepsze przedplony rzepaku ozimego.",
+      "options": [
+        "Koniczyna czerwona wcześnie zaorana.",
+        "Mieszanki koniczyn z trawami wcześnie zaorane.",
+        "Buraki.",
+        "Wczesne odmiany grochu."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTechnologii uprawy rzepaku nie dzieli się w zależności od technologii uprawy ziemi, gdyż stosowana jest tylko uprawa pełna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRzepak ozimy ma … wymagania pokarmowe i dobrze wykorzystuje składniki z nawozów organicznych.",
+      "options": [
+        "duże",
+        "małe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny przemysłowe, które mają największe znaczenie w uprawach w Polsce.",
+      "options": [
+        "Przyprawowe.",
+        "Włókniste.",
+        "Oleiste.",
+        "Lecznicze."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.\nWymagania wodne rzepaku, szczególnie rzepaku jarego, są wysokie. Najlepsze rejony do uprawy tej rośliny to obszary o sumie równomiernie rozłożonych opadów rocznych w granicach … mm.",
+      "options": [
+        "300–500",
+        "500–700"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBezpośrednie zwalczanie agrofagów w uprawie rzepaku polega na stosowaniu środków ochrony – odpowiednio dobranych i stosowanych zgodnie z zaleceniami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie maksymalne ujemne temperatury wytrzymuje zahartowany rzepak bez okrywy śnieżnej?",
+      "options": [
+        "–15°C",
+        "–5°C",
+        "–1°C",
+        "–25°C"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNasiona rzepaku jarego są wartościowym surowcem do produkcji śruty.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiej dawce należy zastosować przefermentowany obornik w uprawie rzepaku ozimego na glebach słabszych, po przedplonach zbożowych w czwartym lub dalszym roku po oborniku?",
+      "options": [
+        "10–20 t/ha",
+        "40–60 t/ha",
+        "30–50 t/ha",
+        "20–40 t/ha"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoziom nawożenia mineralnego nie zależy od zakładanego plonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem bezorkowy można stosować na glebach o wysokiej kulturze i wolnych od chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest szacunkowa ilość wysiewu nasion dla rzepaku ozimego?",
+      "options": [
+        "6–8 kg/ha",
+        "2–4 kg/ha",
+        "3–5 kg/ha",
+        "5–7 kg/ha"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż choroby rzepaku.",
+      "options": [
+        "Zgnilizna twardzikowa.",
+        "Sucha zgnilizna kapustnych.",
+        "Biała plamistość liści.",
+        "Septorioza liści."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW regionach o dużej ilości opadów korzystnie jest uprawiać rzepak w monokulturze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż rozstaw rzędów przy siewie normalnym.",
+      "options": [
+        "25–35 cm",
+        "35–45 cm",
+        "10–20 cm",
+        "20–25 cm"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Zaznacz objawy pełnej dojrzałości technicznej rzepaku.",
+      "options": [
+        "Wilgotność nasion wynosi 40%.",
+        "Nasiona uzyskują barwę brunatną.",
+        "Wilgotność łuszczyn wynosi 40–50%.",
+        "Łuszczyny zginane w ręku lekko pękają."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawianie rzepaku jarego po burakach sprzyja gromadzeniu mątwika burakowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najkorzystniejsze przedplony rzepaku ozimego.",
+      "options": [
+        "Jęczmień ozimy i jary.",
+        "Owies.",
+        "Żyto.",
+        "Pszenica ozima i pszenżyto ozime."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile dni trwa okres wegetacji form jarych rzepaku?",
+      "options": [
+        "90-120",
+        "120–190",
+        "200–300",
+        "300–330"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMechaniczne zabiegi pielęgnacyjne w uprawie rzepaku skutkują zwiększeniem odporności na choroby i zmniejszeniem ilości chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Z czego składa się dwuetapowy zbiór rzepaku?",
+      "options": [
+        "Zbiór kombajnem zaopatrzonym w podbieracz pokosów.",
+        "Skoszenie plantacji na pokos.",
+        "Podorywka.",
+        "Dosuszanie na pokosie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka procentowa część łuszczyn musi wykazywać cechy pełnej dojrzałości, aby można było przeprowadzić desykację łanu?",
+      "options": [
+        "45%",
+        "15%",
+        "35%",
+        "25%"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawie rzepaku nawozy azotowe stosuje się w jednej dawce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRzepik jest bardziej odporny od rzepaku na niskie temperatury zimą i lepiej znosi zimy bezśnieżne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobór terminu siewu nie ma wpływu na występowanie agrofagów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNasiona bezpośrednio po zbiorze powinny być przewietrzone, ponieważ w trakcie zbioru ulegają zawilgoceniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny, po których można uprawiać rzepak jary.",
+      "options": [
+        "Pszenica jara.",
+        "Rośliny okopowe.",
+        "Owies.",
+        "Kukurydza."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydza jest dobrym przedplonem rzepaku jarego, niezależnie od wykorzystywanych środków ochrony roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodorywkę należy wykonać w maksymalnym możliwym odstępie czasu po zejściu przedplonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż wymagania glebowe rzepaku.",
+      "options": [
+        "Klasa bonitacyjna II–IVa.",
+        "Gleba niezakwaszona (pH > 6).",
+        "Gleba o dobrej strukturze.",
+        "Klasa bonitacyjna III–V."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWystępowanie zimą naprzemiennych okresów mrozu i odwilży nie ma wpływu na plony rzepaku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Rośliny oleiste są surowcem:",
+      "options": [
+        "w przemyśle spożywczym.",
+        "do produkcji biopaliw.",
+        "do produkcji środków ochrony roślin.",
+        "w przemyśle farmakologicznym."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeśli gleba wymaga uregulowania kwasowości, to najlepiej stosować wapno pod przedplon oraz dodatkowo pod rzepak bezpośrednio po zejściu przedplonu z pola.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż właściwe proporcje stosowania nawozów fosforowych w dawkach podzielonych.",
+      "options": [
+        "1/3 dawki jesienią.",
+        "2/3 dawki jesienią.",
+        "2/3 dawki wiosną.",
+        "1/3 dawki wiosną."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRzepak jako gatunek powstał w wyniku naturalnego krzyżowania kapusty i rzepiku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny oleiste, które są dobrymi poplonami na zielony nawóz lub pasze zielone.",
+      "options": [
+        "Rzepik.",
+        "Gorczyca biała.",
+        "Rzepak.",
+        "Mak.",
+        "Konopie.",
+        "Słonecznik."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie są cele zabiegów agrotechnicznych w uprawie rzepaku?",
+      "options": [
+        "Dostarczenie składników odżywczych do gleby.",
+        "Przewietrzenie gleby.",
+        "Uregulowanie struktury i wilgotności gleby.",
+        "Zniszczenie jak największej ilości szkodników glebowych i chwastów."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż typową głębokość spulchniania w systemie bezorkowym.",
+      "options": [
+        "25–30 cm",
+        "5–8 cm",
+        "10–16 cm",
+        "20–22 cm"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przy stosowaniu chemicznych środków ochrony roślin zalecenia producenta należy modyfikować, dostosowując do określonych, indywidualnych potrzeb.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakiej dawce stosuje się gnojowicę na ściernisko podorane pod rzepak ozimy?",
+      "options": [
+        "25 m3/ha",
+        "15 m3/ha",
+        "20 m3/ha",
+        "30 m3/ha"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W siewie szerokorzędowym rozstaw wynosi:",
+      "options": [
+        "35–45 cm.",
+        "45–55 cm.",
+        "20–25 cm.",
+        "25–35 cm."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

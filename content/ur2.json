@@ -1,0 +1,2206 @@
+{
+  "id": "ur2",
+  "course": "Uprawa roślin",
+  "title": "Rośliny paszowe w uprawie polowej",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie i znaczenie gospodarcze",
+      "points": [
+        "Celem uprawy roślin paszowych jest zapewnienie paszy dla produkcji zwierzęcej; na paszę wykorzystuje się też zboża, ziemniaki, okopowe i oleiste.",
+        "Rośliny pastewne – rośliny uprawiane wyłącznie na paszę; ich produkcja jest ściśle powiązana z produkcją zwierzęcą.",
+        "Uprawia się je na gruntach ornych w gospodarstwach, gdzie użytków zielonych jest za mało lub brak.",
+        "Udział pastewnych w zasiewach: lata 80. – ok. 12–14%; koniec lat 90. – 6,5%; 2012 r. – 10,8% (o ok. 10,7% więcej niż w 2011 r.).",
+        "Wzrost powierzchni w 2012 r. wynikał ze wzrostu zasiewów kukurydzy na zielonkę.",
+        "Podział rolniczy roślin pastewnych: motylkowate grubonasienne, motylkowate drobnonasienne, rośliny niemotylkowe.",
+        "Intensywna produkcja zwierzęca wymaga dużej ilości pasz o wysokiej wartości i jakości – może ją zapewnić uprawa pastewnych na gruntach ornych; powierzchnia ich uprawy zmienia się wraz ze zmianami w produkcji zwierzęcej.",
+        "Produkcja zwierzęca załamała się pod koniec lat 90. i odbudowała w kolejnych latach – wzrosło znaczenie roślin paszowych w żywieniu zwierząt."
+      ]
+    },
+    {
+      "heading": "2. Motylkowate grubonasienne – budowa i odmiany",
+      "points": [
+        "Należą tu m.in.: łubiny, groch (peluszka), wyki, bobik, soja.",
+        "System korzeniowy silnie rozwinięty: korzeń główny + boczne; brodawki tworzą się w fazie 2–3 liści pod wpływem bakterii brodawkowych.",
+        "Symbioza: roślina korzysta z azotu przyswojonego przez bakterie, a dostarcza im węglowodanów.",
+        "Łodygi sztywne i wzniesione: bobik, łubin, soja; wiotkie i płożące: wyki i peluszka.",
+        "Liście: pierzaste (bobik, peluszka, wyka), dłoniasto palczaste (łubin), trójlistne (soja).",
+        "Kwiat: zielony kielich, 5 płatków korony – żagielek, 2 skrzydełka, łódeczka (z 2 zrośniętych płatków); owoc – strąk wielonasienny.",
+        "Łubin żółty: 8 odmian w rejestrze, w tym 2 samokończące (Perkoz, Taper); niesamokończące m.in. Baryt, Dukat, Lord, Mister, Parys, Talar.",
+        "Łubin wąskolistny: 15 odmian, w tym 3 samokończące (Sonet, Boruta, Regent) i 12 niesamokończących.",
+        "Odmiany niesamokończące rozgałęziają się i ciągle kwitną; samokończące nie rozgałęziają się, dojrzewają równomiernie, nie przedłużają wegetacji i nie pękają strąki.",
+        "Bobik – odmiany tradycyjne (m.in. Nadwiślański, Neptun, Bronto, Tom) i samokończące (Martin, Tim, Rajan, Optimal, Titus).",
+        "Groch: odmiany ogólnoużytkowe o białych kwiatach (najliczniejsze) i pastewne o kolorowych kwiatach (m.in. Eurela, Hubal, Milwa, Roch).",
+        "Wyka: forma jara – wyka siewna (Hanka, Ina, Jaga, Kwarta) i ozima – wyka kosmata (Rea).",
+        "Łubin wąskolistny – 12 odmian niesamokończących: Karo, Baron, Zeus, Graf, Kalif, Bojar, Neptun, Kadryl, Dalbor, Heros, Oskar, Tango.",
+        "Bobik – pełna lista odmian tradycyjnych: Nadwiślański, Neptun, Bronto, Tom, Sonet, Alen, Caspar, Kodan, Redos, Star.",
+        "Groch ogólnoużytkowy (białe kwiaty): Akord, Batuta, Boruta, Cysterski, Ezop, Kavalir, Lasso, Marych, Mecenas, Medal, Mentor, Muza, Santana, Tarchalska, Terno, Wenus, Zenon.",
+        "Groch pastewny (kolorowe kwiaty, mniej odmian): Eurela, Hubal, Milwa, Model, Pomorska, Roch, Sokolik, Turnia, Wiato.",
+        "Strąki i nasiona grubonasiennych są różnej wielkości i kształtu, nasiona mają charakterystyczne zabarwienie."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/lodygi-sztywne.jpg",
+          "caption": "Motylkowate grubonasienne o łodygach sztywnych i wzniesionych (od lewej): soja, łubin, bobik. Wyki i peluszka mają łodygi wiotkie i płożące."
+        },
+        {
+          "src": "img/ur2/liscie-grubonasienne.jpg",
+          "caption": "Liście motylkowatych grubonasiennych: 1 – łubin (dłoniasto palczasty), 2 – soja (trójlistny), 3 – wyka (pierzasty z wąsami), 4 – groch (pierzasty z wąsami i dużymi przylistkami)."
+        },
+        {
+          "src": "img/ur2/straki-grubonasienne.jpg",
+          "caption": "Strąki motylkowatych grubonasiennych: A – peluszka, B – łubin biały, C – łubin żółty, D – łubin wąskolistny, E – wyka siewna, F – wyka kosmata, G – bobik (największy strąk)."
+        },
+        {
+          "src": "img/ur2/grupy-roslin-paszowych.jpg",
+          "caption": "Grupy roślin paszowych w uprawie polowej: motylkowate grubonasienne (np. groch, łubin, bobik, wyka, soja), motylkowate drobnonasienne (koniczyny, lucerna, esparceta) i rośliny niemotylkowe (kukurydza, żyto, owies, kapusta pastewna, gorczyca, trawy)."
+        },
+        {
+          "src": "img/ur2/motylkowate-grubonasienne-soja-lubin-groch.jpg",
+          "caption": "Motylkowate grubonasienne: soja, łubin, groch; mają palowy system korzeniowy z brodawkami, w których bakterie wiążą azot z powietrza."
+        }
+      ]
+    },
+    {
+      "heading": "2. Motylkowate drobnonasienne i niemotylkowe – budowa i odmiany",
+      "points": [
+        "Motylkowate drobnonasienne: koniczyny, lucerny, komonica, esparceta, seradela.",
+        "Mają silnie rozwinięty palowy system korzeniowy z brodawkami bakterii wiążących azot z powietrza.",
+        "Szyjka korzeniowa (między korzeniem a łodygą) – z niej po ścięciu stale wyrastają nowe łodygi.",
+        "Liście drobne, najczęściej trójlistkowe; kwiatostan – główka lub wydłużone grono; owoc – strąk; nasiona małe, tylko esparceta ma dość duże.",
+        "Odmiany: koniczyna czerwona – Krynia, Nike (14 w rejestrze COBORU); koniczyna biała – Astra, Rawo (8 odmian); lucerna siewna – Derby, Plato (20 odmian); lucerna mieszańcowa – Kometa, Radius.",
+        "Inne: esparceta siewna – Taja; komonica zwyczajna – Skrzeszowicka; koniczyna inkarnatka – Opolska; koniczyna perska – Accadia.",
+        "Niemotylkowe pastewne: kukurydza, żyto i owies na zieloną masę, słonecznik pastewny, kapusta pastewna, gorczyca, trawy w uprawie polowej.",
+        "Największe znaczenie ma kukurydza – pasza o wysokiej wartości energetycznej; jej powierzchnia systematycznie rośnie.",
+        "Kukurydza: wiązkowy system korzeniowy, sztywna gruba łodyga do 2–3 m; kwiaty męskie (wiechy) i żeńskie (kolby) osobno; ziarniaki najczęściej żółte.",
+        "W rejestrze COBORU ponad 160 odmian kukurydzy – na ziarno (Wigo, Wilga), na kiszonkę (Subito, Sumas), na CCM (Buran, San).",
+        "Łodygi motylkowatych drobnonasiennych, zależnie od gatunku, są proste lub wyrastają ukośnie z tendencją do płożenia się; wszystkie gatunki są dobrze ulistnione.",
+        "Kukurydza zaliczana jest do zbóż; łodyga zbudowana z węzłów (wyrastają z nich długie, szerokie liście) i międzywęźli; ziarniaki rozwijają się na kolbach po zapyleniu.",
+        "Kwiaty motylkowatych drobnonasiennych są bardzo drobne, zebrane w główki lub wydłużone grona; nasiona małe lub bardzo małe, trudne do rozróżnienia (wyjątek – esparceta o dość dużych nasionach)."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/drobnonasienne.jpg",
+          "caption": "Motylkowate drobnonasienne (od lewej): koniczyna czerwona (różowe główki), lucerna siewna (fioletowe grona), esparceta siewna (różowe wydłużone grona)."
+        },
+        {
+          "src": "img/ur2/liscie-drobnonasienne.jpg",
+          "caption": "Liście motylkowatych drobnonasiennych: 1 – koniczyna czerwona, 2 – koniczyna białoróżowa, 3 – nostrzyk, 4 – koniczyna biała, 5 – esparceta (pierzasty), 6 – przelot."
+        },
+        {
+          "src": "img/ur2/korzenie-brodawkowate.jpg",
+          "caption": "Korzeń palowy motylkowatych z brodawkami bakterii brodawkowych, które przyswajają azot z powietrza."
+        },
+        {
+          "src": "img/ur2/kukurydza.jpg",
+          "caption": "Kukurydza (od lewej): schemat budowy rośliny, kwiatostany męskie (wiechy) na szczycie, kwiatostan żeński (kolba)."
+        },
+        {
+          "src": "img/ur2/niemotylkowe-owies-kukurydza-zyto.jpg",
+          "caption": "Rośliny niemotylkowe (wideokast): owies, kukurydza i żyto – zboża uprawiane na zieloną masę. Do niemotylkowych roślin paszowych należą też kapusta pastewna, gorczyca i trawy w uprawie polowej; największe znaczenie ma kukurydza – pasza o wysokiej wartości energetycznej."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wymagania klimatyczno-glebowe – motylkowate grubonasienne",
+      "points": [
+        "Mają duże wymagania wodne (duża powierzchnia transpiracyjna); szczególnie wrażliwe na niedobór wody w okresie kiełkowania.",
+        "Główne zapotrzebowanie na wodę: od okresu przed kwitnieniem do końca zawiązywania strąków; w dojrzewaniu pożądana pogoda słoneczna.",
+        "Susza w kwitnieniu – słabe zawiązywanie lub opadanie strąków; najbardziej wrażliwy jest bobik.",
+        "Nadmiar opadów – bujny rozwój łodyg i liści, dłuższa wegetacja, wyleganie, niższy plon i jakość nasion.",
+        "Mało wrażliwe na niską temperaturę: kiełkują w 1–3°C, znoszą krótkie przymrozki wiosenne.",
+        "Większość to rośliny dnia długiego; wśród odmian grochu i łubinu białego są odmiany obojętne na długość dnia.",
+        "Największe wymagania glebowe (klasy I–III): bobik, groch siewny, wyka jara; średnie (klasa IV): łubin biały, wąskolistny, peluszka; najmniejsze (klasa V): łubin żółty, wyka kosmata.",
+        "Poza łubinem wszystkie strączkowe wymagają odczynu obojętnego lub zasadowego; łubin żółty choruje na glebach zasobnych w wapno; optymalne pH dla łubinu ok. 5,5."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/lubin-zolty-wyka.jpg",
+          "caption": "Łubin żółty (żółte kwiaty w gronie) i wyka – motylkowate grubonasienne o najmniejszych wymaganiach glebowych (łubin żółty i wyka kosmata – gleby klasy V)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wymagania – motylkowate drobnonasienne i kukurydza",
+      "points": [
+        "Dla drobnonasiennych najważniejsze są opady i temperatura.",
+        "Wymagania wodne: największe – koniczyna czerwona, białoróżowa, perska, biała; średnie – lucerna mieszańcowa, seradela, esparceta; niskie – komonica.",
+        "Odporność na suszę zależy od korzeni: płytko korzeniące się (koniczyna biała, białoróżowa, seradela) znoszą ją słabo.",
+        "Znoszą przymrozki do –5°C, kiełkują w 2–3°C; najbardziej wrażliwa na wymarzanie koniczyna perska; odporność maleje ze starzeniem plantacji.",
+        "Lucerna ma wyższe wymagania cieplne w wegetacji, ale jest odporna na mróz i nie wymarza.",
+        "Koniczyna i lucerna – gleby kompleksów pszennego bardzo dobrego i dobrego, żytniego bardzo dobrego, zbożowo-pastewnego mocnego.",
+        "Komonica i seradela – gleby lekkie piaszczyste; komonica wymaga odczynu obojętnego, seradela lubi gleby kwaśne i wilgotne.",
+        "Kukurydza potrzebuje dużo ciepła i światła: min. temperatura kiełkowania i wzrostu 8–10°C, optimum 15–25°C; wrażliwa na przymrozki jesienne.",
+        "Kukurydza oszczędnie gospodaruje wodą (niski współczynnik transpiracji); najwięcej wody potrzebuje przed i w czasie kwitnienia.",
+        "Kukurydza ma niewielkie wymagania glebowe – najlepsze gleby próchniczne, przewiewne, ciepłe (czarnoziemy, lessy, mady, brunatne, mocne piaski gliniaste); możliwa na klasie IVa, IVb, a nawet V.",
+        "Na glebach lekkich kukurydzę najlepiej uprawiać bezpośrednio na oborniku; nie uprawiać na glebach zimnych, podmokłych, bardzo ciężkich, suchych i piaszczystych.",
+        "Rośliny z głębokim systemem korzeniowym dobrze znoszą okresowe susze.",
+        "Drobnonasienne w dobrej kondycji nie wymarzają pod śniegiem; lucerna w chłodniejsze lata rośnie wolniej.",
+        "Przemarznięte rośliny kukurydzy tracą wartość pokarmową, a przemarznięte nasiona – zdolność kiełkowania; kukurydza najlepiej plonuje w lata ciepłe i słoneczne.",
+        "Kukurydza może wysoko plonować na glebach pszenno-buraczanych i żytnich; na kompleksie żytnim bardzo dobrym i dobrym (klasa IVa, IVb, nawet V) – pod warunkiem dobrego zaopatrzenia w wodę i składniki oraz pH zbliżonego do obojętnego."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/koniczyna-biala-inkarnatka.jpg",
+          "caption": "Koniczyna biała (białe główki) i koniczyna inkarnatka (ciemnoczerwone, wydłużone kwiatostany)."
+        }
+      ]
+    },
+    {
+      "heading": "4. Stanowisko w zmianowaniu",
+      "points": [
+        "Grubonasienne można uprawiać po różnych roślinach z wyjątkiem motylkowatych.",
+        "Na nasiona – najlepiej po zbożach w 3.–4. roku po okopowych na oborniku; na glebach mniej żyznych w 2. roku po oborniku.",
+        "Na zieloną masę – można bezpośrednio po oborniku (po ziemniakach lub burakach).",
+        "Drobnonasienne na nasiona – w 3. roku po oborniku; na zieloną masę – w 2. roku lub bezpośrednio po oborniku stosowanym jesienią.",
+        "Dobre przedplony dla drobnonasiennych: pastewne na zielonkę (oprócz motylkowatych), zboża, ziemniaki, buraki.",
+        "Drobnonasienne na tym samym polu nie częściej niż co 4–6 lat; koniczyna czerwona i esparceta co 7 lat (bakteriofagi, patogeny, szkodniki).",
+        "Kukurydza jest bardzo tolerancyjna na przedplon i dobrze znosi monokulturę."
+      ]
+    },
+    {
+      "heading": "5. Nawożenie mineralne i organiczne",
+      "points": [
+        "Wapnowanie na ogół raz na 4 lata; dawki 1–6 t/ha zależnie od gleby i wymagań roślin.",
+        "Optymalne pH: kukurydza, lucerna, koniczyna, groch – 6,6–7,0; seradela i łubin żółty – 5,1–5,5.",
+        "Kukurydza na ziarno (plon 5–10 t/ha, gleba średnio zasobna): N 80–200, P2O5 55–105, K2O 70–140, MgO 30–60 kg/ha.",
+        "Kukurydza na zieloną masę (plon 50–100 t/ha): N 140–220, P2O5 70–120, K2O 150–240, MgO 60–110 kg/ha.",
+        "Koniczyna i lucerna (plon 30–50 t/ha): bez azotu; K2O 90–150, MgO 25–40 kg/ha; P2O5 – koniczyna 35–60, lucerna 40–70 kg/ha.",
+        "Bobik (3–5 t/ha): N 20, P2O5 40–65, K2O 55–90, MgO 10 kg/ha; groch (2,5–3,5 t/ha): N 20, P2O5 25–35, K2O 30–40 kg/ha.",
+        "Łubiny nie otrzymują azotu: łubin żółty P2O5 i K2O po 15–30 kg/ha, wąskolistny po 30–70 kg/ha.",
+        "P i K stosuje się jesienią przed orką lub wiosną przed kultywatorowaniem.",
+        "Kukurydza – azot w dwóch dawkach: przed siewem i gdy rośliny mają ok. 30 cm; pozostałe rośliny – azot przed siewem.",
+        "Mikroelementy przy niedoborze: niska zawartość – doglebowo, średnia – dolistnie.",
+        "Motylkowatych nie uprawia się bezpośrednio na oborniku.",
+        "Kukurydzę można uprawiać na oborniku jesiennym 20–30 t/ha, zmniejszając azot o ok. 15–20 kg N/ha.",
+        "Poziom nawożenia mineralnego zależy od zasobności gleby i intensywności produkcji; dawki ustala się każdorazowo na podstawie zasobności gleby.",
+        "Tab. 2.1 (gleby średnio zasobne, kg/ha N/P2O5/K2O/MgO) – kukurydza na ziarno: plon 5 t – 80/55/70/30; 7 t – 130/75/100/45; 9 t – 180/95/125/55; 10 t – 200/105/140/60.",
+        "Tab. 2.1 – kukurydza na zieloną masę: 50 t – 140/70/150/60; 60 t – 160/80/175/70; 80 t – 190/100/220/95; 100 t – 220/120/240/110.",
+        "Tab. 2.1 – koniczyna (bez N): 30 t – P2O5 35, K2O 90, MgO 25; 40 t – 45/120/35; 50 t – 60/150/40. Lucerna (bez N): 30 t – 40/90/25; 40 t – 55/120/35; 50 t – 70/150/40.",
+        "Tab. 2.1 – bobik (N zawsze 20): 3 t – P2O5 40, K2O 55, MgO 10; 4 t – 55/70/10; 5 t – 65/90/10. Groch (N 20): 2,5 t – 25/30/–; 3,0 t – 30/35/10; 3,5 t – 35/40/10.",
+        "Tab. 2.1 – łubin żółty (bez N, bez Mg): 1 t – P2O5 i K2O po 15; 1,5 t – po 25; 2 t – po 30. Łubin wąskolistny (bez N): 2 t – po 30; 3 t – po 45, MgO 10; 4,5 t – po 70, MgO 10.",
+        "Założenia tabeli: dawki N dla rośliny na dobrym stanowisku w warunkach sprzyjających wykorzystaniu, bez nawozów naturalnych; dawki P i K dla średniej zawartości przyswajalnych form P, K i Mg, przy założeniu, że słoma i liście pozostają na polu i są przyorywane."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/tab-nawozenie-paszowe.jpg",
+          "caption": "Tabela 2.1 – zalecane dawki nawozów (kg/ha) wg plonu na glebach średnio zasobnych: kukurydza na ziarno i zieloną masę, koniczyna, lucerna (dalsze wiersze – bobik, groch, łubiny – w punktach)."
+        },
+        {
+          "src": "img/ur2/tab-nawozenie-paszowe-cd.jpg",
+          "caption": "Tabela 2.1 (cd.) – dawki nawozów (kg/ha) wg plonu (t/ha); kolumny: plon, N, P2O5, K2O, MgO – bobik, groch, łubin żółty, łubin wąskolistny („–” = nie stosuje się)."
+        }
+      ]
+    },
+    {
+      "heading": "6. Zabiegi uprawowe",
+      "points": [
+        "Pierwszym zabiegiem jest zwykle wapnowanie (zależne od wymagań rośliny i pH).",
+        "Po zbożach: podorywka, bronowanie i kultywatorowanie, nawożenie P i K, orka zimowa.",
+        "Po okopowych: kultywatorowanie, bronowanie, nawożenie P i K, bronowanie, orka zimowa.",
+        "Uprawa wiosenna: przygotowanie pola do siewu, niszczenie chwastów, przykrycie nawozów azotowych.",
+        "Na glebach cięższych wiosną: włókowanie, nawożenie N, kultywatorowanie i bronowanie lub agregat uprawowy.",
+        "Obornik pod rośliny paszowe stosuje się jesienią pod orkę zimową.",
+        "Kukurydza w plonie wtórnym: orka płytka i bronowanie.",
+        "Zabiegi uprawowe mają zapewnić optymalne warunki rozwoju roślin i chronić przed chwastami; ich rodzaj zależy od przedplonu."
+      ]
+    },
+    {
+      "heading": "7. Materiał siewny i siew",
+      "points": [
+        "Materiał siewny: wysoka jakość (czystość, siła kiełkowania), zaprawiony fungicydami; nasiona motylkowatych szczepi się Nitraginą (bakterie brodawkowe).",
+        "Ilość wysiewu zależy od jakości materiału, odmiany i metody uprawy – ustalana każdorazowo.",
+        "Łubin żółty: 1–2 dekada IV, 150–200 kg/ha, 2–3 cm, rzędy 20–30 cm; łubin wąskolistny: 1–2/IV, 130–170 kg/ha, 2–3 cm, 20–30 cm.",
+        "Bobik: 1–2/IV, 220–300 kg/ha, głębokość 6–10 cm, rzędy 20–25 cm.",
+        "Wyka siewna: najwcześniej do 2/IV, 100–160 kg/ha, 4–6 cm; wyka kosmata z żytem: 3/VIII, 10–15 kg/ha, 3–5 cm.",
+        "Groch pastewny: 3/III–1/IV, 150–300 kg/ha, 5–8 cm, rzędy 15–20 cm.",
+        "Koniczyna czerwona: 2/III–2/IV, 10–18 kg/ha, 2–3 cm, rzędy 12–15 cm; lucerna: 10–16 kg/ha, 2–3 cm, rzędy 15–20 cm.",
+        "Kukurydza: 3/IV–2/V, 20–40 kg/ha, głębokość 4–8 cm, rozstaw rzędów 60–80 cm.",
+        "Większy rozstaw rzędów stosuje się przy uprawie na nasiona.",
+        "Tab. 2.2 – rozstaw rzędów: wyka siewna 15–20 cm, wyka kosmata z żytem 12–15 cm; termin siewu lucerny: 2. dekada IV – 3. dekada V."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/tab-siew-paszowe.jpg",
+          "caption": "Tabela 2.2 – przykładowe dane siewu roślin paszowych: termin, ilość wysiewu, głębokość, rozstaw rzędów."
+        }
+      ]
+    },
+    {
+      "heading": "8. Technologie produkcji",
+      "points": [
+        "Grubonasienne uprawia się na nasiona i zielonkę tymi samymi zabiegami; na zielonkę można zwiększyć ilość wysiewu.",
+        "Drobnonasienne uprawia się głównie na zielonkę (skarmianie, siano, susz, sianokiszonka).",
+        "Jednoroczne: koniczyna inkarnatka (krwistoczerwona), koniczyna perska, seradela.",
+        "Dwuletnie: koniczyna czerwona, nostrzyk.",
+        "Wieloletnie: lucerna siewna i mieszańcowa, koniczyna biała, koniczyna szwedzka, esparceta, komonica.",
+        "Podstawowe znaczenie w Polsce: koniczyna czerwona i biała oraz lucerna.",
+        "Jednoroczne sieje się w czystym siewie, wieloletnie – w roślinę ochronną (najczęściej zboże), bo w 1. roku plonują bardzo słabo.",
+        "Właściwe użytkowanie zaczyna się w 2. roku; w roku siewu ścierniankę użytkuje się najczęściej przez wypas.",
+        "Najpierw osobny siew rośliny ochronnej, potem motylkowatych (w międzyrzędzia, rzutowo lub w poprzek); roślinę ochronną zbiera się jak najszybciej.",
+        "Kukurydza na zielonkę i na ziarno różni się tylko obsadą – na zielonkę obsada jest większa.",
+        "Kukurydzę uprawia się na zielonkę do bezpośredniego skarmiania lub zakiszania oraz na nasiona (ziarno)."
+      ]
+    },
+    {
+      "heading": "9–10. Ochrona przed chorobami, szkodnikami i chwastami",
+      "points": [
+        "Zapobieganie chorobom: zdrowy materiał siewny, niszczenie resztek pożniwnych, unikanie częstej uprawy roślin z tej samej grupy, zaprawianie.",
+        "Zaprawianie nasion – podstawowa metoda zapobiegania i zwalczania chorób i szkodników roślin pastewnych.",
+        "Motylkowate zagrożone są też wirusami – zapobiega się im agrotechniką i zwalczaniem mszyc (nosicieli).",
+        "Mechaniczne zwalczanie chwastów: przed siewem kultywatorowanie i bronowanie, po siewie bronowanie; po wschodach herbicydy.",
+        "Bobik – askochytoza, czekoladowa plamistość, rdza bobiku: Dithane NeoTec 75 WG 2–3 kg/ha.",
+        "Groch – askochytoza, mączniak rzekomy, rdza, szara pleśń, zgnilizna twardzikowa (m.in. Amistar 250 SC, Switch 62,5 WG).",
+        "Choroby koniczyny: mączniaki rzekome, mączniak właściwy, zaraza kustrzebkowa, rak koniczynowy, rdze; chroni się zwykle tylko plantacje nasienne (koszenie hamuje choroby).",
+        "Choroby wiosenne kukurydzy: zgorzel siewek, głownia guzowata, głownia pyląca, zgnilizna korzeni, zgorzel podstawy łodygi, choroba szalonych wiech.",
+        "Jedyny sposób zwalczania chorób grzybowych kukurydzy – fungicydowe zaprawy nasienne (np. Maxim XL 035 FS), łączone z zaprawami przeciw drutowcom, pędrakom, rolnicom, płoniarce.",
+        "Kanianka – pasożyt koniczyny i lucerny; zwalczanie: wypalanie lub wykaszanie gniazd i palenie roślin, chemicznie – propyzamid.",
+        "Szkodniki zwalcza się zoocydami po ich pojawieniu się (np. Decis 2,5 EC, Karate Zeon 050 CS, Fastac 100 EC, Pirimor 500 WG).",
+        "Herbicydy w kukurydzy m.in.: Dual Gold 960 EC, Adengo 315 SC, Lumax 537,5 SE; chwasty zwalcza się wg zaleceń Instytutu Ochrony Roślin.",
+        "Fungicydy w grochu siewnym jadalnym (l lub kg/ha): askochytoza – Amistar 250 SC 0,8, Amistar Opti 480 SC 2–2,5, Dithane NeoTec 75 WG 2–3, Switch 62,5 WG 0,8–1; mączniak rzekomy – Amistar 250 SC 0,8, Amistar Opti 480 SC 2–2,5; rdza – Dithane NeoTec 75 WG 2–3; szara pleśń i zgnilizna twardzikowa – Switch 62,5 WG 0,8–1.",
+        "Groch nasienny: askochytoza i rdza grochu – Dithane NeoTec 75 WG 2–3 kg/ha.",
+        "Fungicydowe zaprawy do kukurydzy: Maxim XL 035 FS, Vitarax 200 FS, Sarox T 500 FS – w mieszance z zaprawami przeciw szkodnikom (drutowce, pędraki, rolnice, płoniarka zbożowa): Nuprid 600 FS, Mesurol 500 FS.",
+        "Zoocydy stosuje się zgodnie z instrukcją, gdy pojawi się szkodnik; przykłady: Cyperkill Super 25, Decis 2,5 EC, Karate Zeon 050 CS, Fastac 100 EC, Pirimor 500 WG, Patriot 2,5 EC.",
+        "Często stosowane herbicydy: Afalon, Command, Metamitron, Linurex 500 SC, Sencor 70 WG, Agil 100 EC, Targa Super 05 EC.",
+        "Kanianka jest szczególnie groźna – szybko się rozprzestrzenia i jest trudna do likwidacji.",
+        "Szczegółowe informacje o chorobach, szkodnikach i środkach ochrony – na stronach Instytutu Ochrony Roślin (atlas chorób roślin rolniczych) i producentów środków."
+      ],
+      "images": [
+        {
+          "src": "img/ur2/choroby-kukurydzy.jpg",
+          "caption": "Choroby kukurydzy (od lewej): fuzarioza kolb, plamistości liści powodowane przez Helminthosporium spp., głownia kukurydzy (szarobiałe narośla na kolbie)."
+        }
+      ]
+    },
+    {
+      "heading": "11. Zabiegi pielęgnacyjne",
+      "points": [
+        "Cel pielęgnacji – zwalczanie chwastów; zabiegi: bronowanie i uprawa międzyrzędowa pielnikami.",
+        "Pielniki stosuje się w kukurydzy i roślinach w szerokich międzyrzędziach – przy zaskorupieniu gleby lub by ograniczyć herbicydy.",
+        "Bronowanie drobnonasiennych pobudza też wegetację wiosną i dotlenia glebę.",
+        "Gdy mechaniczne zabiegi nie wystarczą – herbicydy.",
+        "Skorupę glebową po siewie niszczy się wałem zębowym lub wałem Cambridge i Croskill."
+      ]
+    },
+    {
+      "heading": "12. Zbiór i przechowywanie",
+      "points": [
+        "Zielonkę zbiera się sieczkarniami samobieżnymi lub przyczepianymi (kukurydzę – z odpowiednimi adapterami).",
+        "Kukurydza na ziarno: dojrzałość fizjologiczna przy wilgotności ziarna 38–40% – czarny punkt u nasady ziarniaka; opóźniony zbiór daje ziarno o wilgotności 18–20%.",
+        "Nasiona i ziarno kukurydzy zbiera się kombajnami zbożowymi (z adapterem dla kukurydzy).",
+        "CCM – zbiór całych kolb w chwili zasychania łodyg, 2–3 tygodnie przed terminem agrotechnicznym; kolby bez koszulek, rozdrobnione.",
+        "Strączkowe: zbiór jednoetapowy, gdy nasiona twarde i suche, lub dwuetapowy (koszenie na pokos, po wyschnięciu omłot kombajnem z podbieraczem).",
+        "Formy przechowywania zielonki: kiszonka (motylkowate, kukurydza), siano (drobnonasienne), susz.",
+        "Drobnonasienne trudno się zakiszają: przy zbiorze jednoetapowym potrzebne absorbenty soków (sieczka słomy, plewy, wysłodki) i inhibitor fermentacji (kwas mrówkowy); przy dwuetapowym tylko inhibitor.",
+        "Koniczynę na siano zbiera się w fazie pąkowania lub na początku kwitnienia, zwykle 2 razy; lucernę 3–4 razy.",
+        "Nasiona do przechowywania – wilgotność 12–13%; wyższą trzeba dosuszyć.",
+        "Przy przedłużającej się wegetacji grubonasienne wymagają desykacji chemicznej.",
+        "Dojrzałość fizjologiczna (38–40% wilgotności) to tylko wskazanie możliwego początku zbioru kukurydzy na ziarno.",
+        "Kolby na CCM rozdrabnia się zaadaptowanymi kombajnami zbożowymi lub sieczkarniami.",
+        "Przy jednoetapowym zbiorze wilgotnych drobnonasiennych na kiszonkę wydziela się dużo soków – duże straty składników; przy dwuetapowym: 1. etap – koszenie i podsuszanie, 2. etap – zbiór podsuszonej zielonki.",
+        "Lucernę przeznacza się na zielonkę do bezpośredniego skarmiania, czasem na siano lub kiszonkę.",
+        "Na ziarno zbiera się najczęściej grubonasienne i kukurydzę; nasiona przechowuje się w silosach."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rośliny pastewne – definicja",
+      "back": "Rośliny uprawiane wyłącznie na paszę."
+    },
+    {
+      "front": "Udział roślin pastewnych w zasiewach w 2012 r.",
+      "back": "10,8% (o ok. 10,7% więcej niż w 2011 r.)."
+    },
+    {
+      "front": "Udział pastewnych w zasiewach w latach 80. / pod koniec lat 90.",
+      "back": "Ok. 12–14% / 6,5%."
+    },
+    {
+      "front": "Przyczyna wzrostu powierzchni pastewnych w 2012 r.",
+      "back": "Wzrost zasiewów kukurydzy na zielonkę."
+    },
+    {
+      "front": "Rolniczy podział roślin pastewnych",
+      "back": "Motylkowate grubonasienne, motylkowate drobnonasienne, niemotylkowe."
+    },
+    {
+      "front": "Motylkowate grubonasienne – przykłady",
+      "back": "Łubiny, groch (peluszka), wyki, bobik, soja."
+    },
+    {
+      "front": "W jakiej fazie tworzą się brodawki u grubonasiennych?",
+      "back": "W fazie 2–3 liści."
+    },
+    {
+      "front": "Które grubonasienne mają łodygi wiotkie i płożące?",
+      "back": "Wyki i peluszka."
+    },
+    {
+      "front": "Liście dłoniasto palczaste ma…",
+      "back": "Łubin."
+    },
+    {
+      "front": "Liście trójlistne wśród grubonasiennych ma…",
+      "back": "Soja."
+    },
+    {
+      "front": "Budowa korony kwiatu motylkowatych",
+      "back": "Żagielek, 2 skrzydełka i łódeczka (z 2 zrośniętych płatków)."
+    },
+    {
+      "front": "Ile odmian łubinu żółtego jest w rejestrze i ile samokończących?",
+      "back": "8 odmian, 2 samokończące (Perkoz, Taper)."
+    },
+    {
+      "front": "Ile odmian łubinu wąskolistnego i ile samokończących?",
+      "back": "15 odmian, 3 samokończące (Sonet, Boruta, Regent)."
+    },
+    {
+      "front": "Cechy odmian samokończących",
+      "back": "Nie rozgałęziają się, dojrzewają równomiernie, nie przedłużają wegetacji, strąki nie pękają."
+    },
+    {
+      "front": "Samokończące odmiany bobiku",
+      "back": "Martin, Tim, Rajan, Optimal, Titus."
+    },
+    {
+      "front": "Grupy odmian grochu",
+      "back": "Ogólnoużytkowe (białe kwiaty) i pastewne (kolorowe kwiaty)."
+    },
+    {
+      "front": "Forma jara i ozima wyki",
+      "back": "Jara – wyka siewna; ozima – wyka kosmata."
+    },
+    {
+      "front": "Motylkowate drobnonasienne – przykłady",
+      "back": "Koniczyny, lucerny, komonica, esparceta, seradela."
+    },
+    {
+      "front": "Szyjka korzeniowa – znaczenie",
+      "back": "Z niej po ścięciu stale wyrastają nowe łodygi."
+    },
+    {
+      "front": "Która drobnonasienna ma dość duże nasiona?",
+      "back": "Esparceta."
+    },
+    {
+      "front": "Liczba odmian lucerny siewnej w rejestrze COBORU",
+      "back": "20 (np. Derby, Plato)."
+    },
+    {
+      "front": "Liczba odmian koniczyny czerwonej w rejestrze COBORU",
+      "back": "14 (np. Krynia, Nike)."
+    },
+    {
+      "front": "Niemotylkowe rośliny pastewne",
+      "back": "Kukurydza, żyto i owies na zieloną masę, słonecznik pastewny, kapusta pastewna, gorczyca, trawy."
+    },
+    {
+      "front": "Liczba odmian kukurydzy w rejestrze COBORU",
+      "back": "Ponad 160."
+    },
+    {
+      "front": "Kierunki uprawy odmian kukurydzy",
+      "back": "Ziarno, CCM, kiszonka."
+    },
+    {
+      "front": "Wysokość łodygi kukurydzy",
+      "back": "Do 2–3 m."
+    },
+    {
+      "front": "Kwiatostany kukurydzy",
+      "back": "Męskie – wiechy; żeńskie – kolby."
+    },
+    {
+      "front": "W jakim okresie strączkowe są najbardziej wrażliwe na niedobór wody?",
+      "back": "W okresie kiełkowania; główne zapotrzebowanie od przed kwitnienia do końca zawiązywania strąków."
+    },
+    {
+      "front": "Najbardziej wrażliwa na suszę w kwitnieniu roślina strączkowa",
+      "back": "Bobik."
+    },
+    {
+      "front": "Temperatura kiełkowania strączkowych",
+      "back": "1–3°C."
+    },
+    {
+      "front": "Strączkowe o największych wymaganiach glebowych",
+      "back": "Bobik, groch siewny, wyka jara – gleby klasy I–III."
+    },
+    {
+      "front": "Strączkowe o najmniejszych wymaganiach glebowych",
+      "back": "Łubin żółty i wyka kosmata – gleby klasy V."
+    },
+    {
+      "front": "Optymalne pH dla łubinu",
+      "back": "Ok. 5,5 (łubin żółty choruje na glebach zasobnych w wapno)."
+    },
+    {
+      "front": "Drobnonasienne o największych wymaganiach wodnych",
+      "back": "Koniczyna czerwona, białoróżowa, perska, biała."
+    },
+    {
+      "front": "Drobnonasienna o niskich wymaganiach wodnych",
+      "back": "Komonica."
+    },
+    {
+      "front": "Do jakiej temperatury drobnonasienne znoszą przymrozki?",
+      "back": "Krótkotrwale do –5°C; kiełkują w 2–3°C."
+    },
+    {
+      "front": "Najbardziej wrażliwa na wymarzanie koniczyna",
+      "back": "Koniczyna perska."
+    },
+    {
+      "front": "Wymagania glebowe seradeli",
+      "back": "Gleby lekkie, kwaśne i wilgotne."
+    },
+    {
+      "front": "Wymagania glebowe komonicy",
+      "back": "Gleby lekkie piaszczyste o odczynie obojętnym."
+    },
+    {
+      "front": "Minimalna temperatura kiełkowania kukurydzy",
+      "back": "8–10°C."
+    },
+    {
+      "front": "Optymalna temperatura rozwoju kukurydzy",
+      "back": "15–25°C."
+    },
+    {
+      "front": "Kiedy kukurydza potrzebuje najwięcej wody?",
+      "back": "Przed kwitnieniem i w czasie kwitnienia."
+    },
+    {
+      "front": "Gleby nieodpowiednie dla kukurydzy",
+      "back": "Zimne, podmokłe, bardzo ciężkie, suche i piaszczyste."
+    },
+    {
+      "front": "Stanowisko grubonasiennych na nasiona",
+      "back": "Po zbożach w 3.–4. roku po okopowych na oborniku."
+    },
+    {
+      "front": "Co ile lat motylkowate drobnonasienne mogą wracać na pole?",
+      "back": "Co 4–6 lat; koniczyna czerwona i esparceta co 7 lat."
+    },
+    {
+      "front": "Dlaczego nie uprawia się często drobnonasiennych na tym samym polu?",
+      "back": "Gromadzenie bakteriofagów, patogenów grzybowych i szkodników."
+    },
+    {
+      "front": "Stosunek kukurydzy do przedplonu",
+      "back": "Bardzo tolerancyjna; dobrze znosi monokulturę."
+    },
+    {
+      "front": "Jak często wapnuje się pod rośliny paszowe?",
+      "back": "Na ogół raz na 4 lata; dawki 1–6 t/ha."
+    },
+    {
+      "front": "Optymalne pH dla kukurydzy, lucerny, koniczyny, grochu",
+      "back": "6,6–7,0."
+    },
+    {
+      "front": "Optymalne pH dla seradeli i łubinu żółtego",
+      "back": "5,1–5,5."
+    },
+    {
+      "front": "Dawka N dla kukurydzy na ziarno przy plonie 10 t/ha",
+      "back": "200 kg N/ha."
+    },
+    {
+      "front": "Dawka N dla kukurydzy na zieloną masę przy plonie 100 t/ha",
+      "back": "220 kg N/ha."
+    },
+    {
+      "front": "Dawka azotu pod koniczynę i lucernę",
+      "back": "Nie stosuje się (w tabeli brak N)."
+    },
+    {
+      "front": "Dawka azotu pod bobik i groch",
+      "back": "20 kg N/ha."
+    },
+    {
+      "front": "Jak dzieli się azot pod kukurydzę?",
+      "back": "Przed siewem i gdy rośliny mają ok. 30 cm."
+    },
+    {
+      "front": "Kiedy stosuje się nawozy P i K pod rośliny paszowe?",
+      "back": "Jesienią przed orką lub wiosną przed kultywatorowaniem."
+    },
+    {
+      "front": "Mikroelementy – doglebowo czy dolistnie?",
+      "back": "Niska zasobność – doglebowo; średnia – dolistnie."
+    },
+    {
+      "front": "Obornik pod kukurydzę – dawka i korekta azotu",
+      "back": "20–30 t/ha jesienią; azot zmniejszyć o ok. 15–20 kg N/ha."
+    },
+    {
+      "front": "Zabiegi pożniwne po zbożach pod rośliny paszowe",
+      "back": "Podorywka, bronowanie i kultywatorowanie, nawożenie P i K, orka zimowa."
+    },
+    {
+      "front": "Uprawa gleby pod kukurydzę w plonie wtórnym",
+      "back": "Orka płytka i bronowanie."
+    },
+    {
+      "front": "Czym szczepi się nasiona motylkowatych?",
+      "back": "Nitraginą (bakterie brodawkowe)."
+    },
+    {
+      "front": "Ilość wysiewu i głębokość siewu bobiku",
+      "back": "220–300 kg/ha; 6–10 cm."
+    },
+    {
+      "front": "Ilość wysiewu łubinu żółtego",
+      "back": "150–200 kg/ha, głębokość 2–3 cm."
+    },
+    {
+      "front": "Termin siewu wyki kosmatej z żytem",
+      "back": "3. dekada sierpnia; 10–15 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu koniczyny czerwonej",
+      "back": "10–18 kg/ha, głębokość 2–3 cm."
+    },
+    {
+      "front": "Siew kukurydzy – termin, ilość, głębokość, rozstaw",
+      "back": "3/IV–2/V; 20–40 kg/ha; 4–8 cm; 60–80 cm."
+    },
+    {
+      "front": "Jednoroczne motylkowate drobnonasienne",
+      "back": "Koniczyna inkarnatka, koniczyna perska, seradela."
+    },
+    {
+      "front": "Dwuletnie motylkowate drobnonasienne",
+      "back": "Koniczyna czerwona i nostrzyk."
+    },
+    {
+      "front": "Wieloletnie motylkowate drobnonasienne",
+      "back": "Lucerna siewna i mieszańcowa, koniczyna biała, szwedzka, esparceta, komonica."
+    },
+    {
+      "front": "Po co wysiewa się wieloletnie motylkowate w roślinę ochronną?",
+      "back": "By nie stracić rocznego plonu – w 1. roku plonują bardzo słabo."
+    },
+    {
+      "front": "Kiedy zaczyna się właściwe użytkowanie wieloletnich motylkowatych?",
+      "back": "W 2. roku po siewie."
+    },
+    {
+      "front": "Czym różni się uprawa kukurydzy na zielonkę od uprawy na ziarno?",
+      "back": "Tylko obsadą – na zielonkę większa."
+    },
+    {
+      "front": "Podstawowa metoda zapobiegania chorobom roślin pastewnych",
+      "back": "Zaprawianie nasion."
+    },
+    {
+      "front": "Jak zapobiega się wirusom motylkowatych?",
+      "back": "Właściwą agrotechniką i zwalczaniem mszyc."
+    },
+    {
+      "front": "Fungicyd na choroby bobiku (askochytoza, rdza, czekoladowa plamistość)",
+      "back": "Dithane NeoTec 75 WG, 2–3 kg/ha."
+    },
+    {
+      "front": "Kanianka – co to i jak zwalczać?",
+      "back": "Pasożyt koniczyny i lucerny; wypalanie/wykaszanie gniazd, palenie roślin, propyzamid."
+    },
+    {
+      "front": "Jedyny sposób zwalczania chorób grzybowych kukurydzy",
+      "back": "Fungicydowe zaprawy nasienne (np. Maxim XL 035 FS)."
+    },
+    {
+      "front": "Zabiegi pielęgnacyjne roślin paszowych",
+      "back": "Bronowanie i uprawa międzyrzędowa pielnikami."
+    },
+    {
+      "front": "Czym niszczy się skorupę glebową po siewie?",
+      "back": "Wałem zębowym lub wałem Cambridge i Croskill."
+    },
+    {
+      "front": "Wilgotność ziarna kukurydzy w dojrzałości fizjologicznej",
+      "back": "38–40% – czarny punkt u nasady ziarniaka."
+    },
+    {
+      "front": "Kiedy zbiera się kukurydzę na CCM?",
+      "back": "W chwili zasychania łodyg, 2–3 tygodnie przed terminem agrotechnicznym."
+    },
+    {
+      "front": "Zbiór dwuetapowy strączkowych",
+      "back": "Koszenie na pokos, po wyschnięciu omłot kombajnem z podbieraczem."
+    },
+    {
+      "front": "Dodatki przy zakiszaniu wilgotnych motylkowatych",
+      "back": "Absorbenty soków (sieczka słomy, plewy, wysłodki) i inhibitor fermentacji (kwas mrówkowy)."
+    },
+    {
+      "front": "Faza zbioru koniczyny na siano",
+      "back": "Pąkowanie lub początek kwitnienia."
+    },
+    {
+      "front": "Ile razy kosi się koniczynę, a ile lucernę?",
+      "back": "Koniczynę zwykle 2 razy, lucernę 3–4 razy."
+    },
+    {
+      "front": "Wilgotność nasion do przechowywania",
+      "back": "12–13%."
+    },
+    {
+      "front": "Łodygi motylkowatych drobnonasiennych",
+      "back": "Zależnie od gatunku proste lub wyrastające ukośnie z tendencją do płożenia; rośliny dobrze ulistnione, liście drobne, najczęściej trójlistkowe."
+    },
+    {
+      "front": "Wymień rośliny o sztywnych łodygach (od lewej).",
+      "back": "Soja, łubin, bobik – motylkowate grubonasienne o łodygach sztywnych i wzniesionych.",
+      "img": "img/ur2/lodygi-sztywne.jpg"
+    },
+    {
+      "front": "Do jakich roślin należą liście 1–4?",
+      "back": "1 – łubin (dłoniasto palczasty), 2 – soja (trójlistny), 3 – wyka, 4 – groch (pierzaste).",
+      "img": "img/ur2/liscie-grubonasienne.jpg"
+    },
+    {
+      "front": "Nazwij strąki A–G.",
+      "back": "A – peluszka, B – łubin biały, C – łubin żółty, D – łubin wąskolistny, E – wyka siewna, F – wyka kosmata, G – bobik.",
+      "img": "img/ur2/straki-grubonasienne.jpg"
+    },
+    {
+      "front": "Jakie motylkowate drobnonasienne są na zdjęciach (od lewej)?",
+      "back": "Koniczyna czerwona, lucerna siewna, esparceta siewna.",
+      "img": "img/ur2/drobnonasienne.jpg"
+    },
+    {
+      "front": "Do jakich roślin należą liście 1–6?",
+      "back": "1 – koniczyna czerwona, 2 – koniczyna białoróżowa, 3 – nostrzyk, 4 – koniczyna biała, 5 – esparceta, 6 – przelot.",
+      "img": "img/ur2/liscie-drobnonasienne.jpg"
+    },
+    {
+      "front": "Co widać na korzeniu rośliny motylkowatej?",
+      "back": "Brodawki z bakteriami brodawkowymi, które przyswajają azot z powietrza (korzenie brodawkowate).",
+      "img": "img/ur2/korzenie-brodawkowate.jpg"
+    },
+    {
+      "front": "Jak nazywają się kwiatostany kukurydzy (na szczycie i w kątach liści)?",
+      "back": "Męskie – wiechy (na szczycie), żeński – kolba.",
+      "img": "img/ur2/kukurydza.jpg"
+    },
+    {
+      "front": "Jakie to rośliny motylkowate grubonasienne?",
+      "back": "Łubin żółty (po lewej) i wyka (po prawej).",
+      "img": "img/ur2/lubin-zolty-wyka.jpg"
+    },
+    {
+      "front": "Jakie to koniczyny?",
+      "back": "Koniczyna biała (białe główki) i koniczyna inkarnatka (ciemnoczerwone, wydłużone kwiatostany).",
+      "img": "img/ur2/koniczyna-biala-inkarnatka.jpg"
+    },
+    {
+      "front": "Jakie choroby kukurydzy przedstawiają zdjęcia (od lewej)?",
+      "back": "Fuzarioza kolb, plamistości liści (Helminthosporium spp.), głownia kukurydzy.",
+      "img": "img/ur2/choroby-kukurydzy.jpg"
+    },
+    {
+      "front": "Jaka to roślina motylkowata grubonasienna (liście trójlistne, łodyga sztywna i wzniesiona)?",
+      "back": "Soja",
+      "img": "img/ur2/soja.jpg"
+    },
+    {
+      "front": "Jaka to roślina motylkowata grubonasienna?",
+      "back": "Groch (forma pastewna – peluszka); łodyga wiotka i płożąca, liście pierzaste.",
+      "img": "img/ur2/groch.jpg"
+    },
+    {
+      "front": "Jaka to niemotylkowa roślina pastewna?",
+      "back": "Kapusta pastewna",
+      "img": "img/ur2/kapusta-pastewna.jpg"
+    },
+    {
+      "front": "Jaka to niemotylkowa roślina pastewna o żółtych kwiatach (uprawiana na zieloną masę)?",
+      "back": "Gorczyca",
+      "img": "img/ur2/gorczyca.jpg"
+    },
+    {
+      "front": "Odmiany niesamokończące łubinu wąskolistnego (12)",
+      "back": "Karo, Baron, Zeus, Graf, Kalif, Bojar, Neptun, Kadryl, Dalbor, Heros, Oskar, Tango."
+    },
+    {
+      "front": "Tradycyjne odmiany bobiku",
+      "back": "Nadwiślański, Neptun, Bronto, Tom, Sonet, Alen, Caspar, Kodan, Redos, Star."
+    },
+    {
+      "front": "Odmiany grochu pastewnego (kolorowe kwiaty)",
+      "back": "Eurela, Hubal, Milwa, Model, Pomorska, Roch, Sokolik, Turnia, Wiato."
+    },
+    {
+      "front": "Niesamokończące (tradycyjne) odmiany łubinu żółtego",
+      "back": "Baryt, Dukat, Lord, Mister, Parys, Talar."
+    },
+    {
+      "front": "Dawki NPK i Mg dla kukurydzy na ziarno przy plonie 7 t/ha",
+      "back": "N 130, P2O5 75, K2O 100, MgO 45 kg/ha."
+    },
+    {
+      "front": "Dawki P2O5 i K2O pod łubin żółty przy plonie 2 t/ha",
+      "back": "Po 30 kg/ha P2O5 i K2O; bez azotu i magnezu."
+    },
+    {
+      "front": "Dawki P2O5 i K2O dla lucerny przy plonie 50 t/ha",
+      "back": "P2O5 70, K2O 150, MgO 40 kg/ha (bez N)."
+    },
+    {
+      "front": "Termin siewu lucerny",
+      "back": "2. dekada kwietnia – 3. dekada maja; 10–16 kg/ha, 2–3 cm, rzędy 15–20 cm."
+    },
+    {
+      "front": "Termin i parametry siewu wyki siewnej",
+      "back": "Najwcześniej, do 2. dekady IV; 100–160 kg/ha; głębokość 4–6 cm; rzędy 15–20 cm."
+    },
+    {
+      "front": "Fungicyd na szarą pleśń i zgniliznę twardzikową grochu",
+      "back": "Switch 62,5 WG – 0,8–1 kg/ha."
+    },
+    {
+      "front": "Zaprawy fungicydowe do kukurydzy (przykłady)",
+      "back": "Maxim XL 035 FS, Vitarax 200 FS, Sarox T 500 FS (w mieszance z zaprawami przeciw szkodnikom: Nuprid 600 FS, Mesurol 500 FS)."
+    },
+    {
+      "front": "Co dzieje się z przemarzniętą kukurydzą?",
+      "back": "Rośliny tracą wartość pokarmową, a nasiona – zdolność kiełkowania."
+    },
+    {
+      "front": "Jakie założenia przyjęto w tabeli dawek P i K dla roślin paszowych?",
+      "back": "Średnia zawartość przyswajalnych P, K i Mg w glebie; produkty uboczne (słoma, liście) zostają na polu i są przyorywane."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO pod bobik przy plonie 4 t/ha (Tab. 2.1)",
+      "back": "N 20, P2O5 55, K2O 70, MgO 10 kg/ha."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO pod groch przy plonie 3,0 t/ha (Tab. 2.1)",
+      "back": "N 20, P2O5 30, K2O 35, MgO 10 kg/ha (przy 2,5 t – bez MgO)."
+    },
+    {
+      "front": "Dawki nawozów pod kukurydzę na zieloną masę przy plonie 60 t/ha (Tab. 2.1)",
+      "back": "N 160, P2O5 80, K2O 175, MgO 70 kg/ha."
+    },
+    {
+      "front": "Dawki nawozów pod koniczynę przy plonie 40 t/ha (Tab. 2.1)",
+      "back": "Bez azotu; P2O5 45, K2O 120, MgO 35 kg/ha."
+    },
+    {
+      "front": "Dawki nawozów pod łubin wąskolistny przy plonie 4,5 t/ha (Tab. 2.1)",
+      "back": "Bez azotu; P2O5 70, K2O 70, MgO 10 kg/ha."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Rośliny uprawiane wyłącznie na paszę to rośliny:",
+      "options": [
+        "przemysłowe",
+        "okopowe",
+        "pastewne",
+        "ochronne"
+      ],
+      "answer": 2,
+      "explain": "Rośliny uprawiane wyłącznie na paszę nazywamy roślinami pastewnymi."
+    },
+    {
+      "q": "W 2012 r. rośliny pastewne zajmowały:",
+      "options": [
+        "10,8% powierzchni zasiewów",
+        "2,5% powierzchni zasiewów",
+        "25% powierzchni zasiewów",
+        "40% powierzchni zasiewów"
+      ],
+      "answer": 0,
+      "explain": "W 2012 r. powierzchnia roślin pastewnych wynosiła 10,8% powierzchni zasiewów."
+    },
+    {
+      "q": "Do motylkowatych grubonasiennych należy:",
+      "options": [
+        "lucerna",
+        "esparceta",
+        "seradela",
+        "bobik"
+      ],
+      "answer": 3,
+      "explain": "Do grubonasiennych zalicza się łubiny, groch, wyki, bobik i soję."
+    },
+    {
+      "q": "Brodawki na korzeniach motylkowatych grubonasiennych tworzą się w fazie:",
+      "options": [
+        "kwitnienia",
+        "2–3 liści",
+        "dojrzałości pełnej",
+        "zawiązywania strąków"
+      ],
+      "answer": 1,
+      "explain": "W fazie 2–3 liści na korzeniach tworzą się brodawki."
+    },
+    {
+      "q": "Łodygi wiotkie i płożące mają:",
+      "options": [
+        "bobik i soja",
+        "wyka i peluszka",
+        "łubin i bobik",
+        "soja i łubin"
+      ],
+      "answer": 1,
+      "explain": "Wyki i peluszka mają łodygi wiotkie i płożące."
+    },
+    {
+      "q": "Liście dłoniasto palczaste ma:",
+      "options": [
+        "soja",
+        "wyka",
+        "bobik",
+        "łubin"
+      ],
+      "answer": 3,
+      "explain": "Liście dłoniasto palczaste ma łubin."
+    },
+    {
+      "q": "Odmiany samokończące łubinu charakteryzują się tym, że:",
+      "options": [
+        "nie rozgałęziają się i dojrzewają równomiernie",
+        "ciągle wytwarzają nowe kwiaty",
+        "silnie się rozgałęziają",
+        "mają skłonność do pękania strąków"
+      ],
+      "answer": 0,
+      "explain": "Odmiany samokończące nie tworzą rozgałęzień i równomiernie dojrzewają."
+    },
+    {
+      "q": "Wyka kosmata to forma wyki:",
+      "options": [
+        "jara",
+        "wieloletnia",
+        "ozima",
+        "dwuletnia"
+      ],
+      "answer": 2,
+      "explain": "Wyka występuje w formie jarej (wyka siewna) i ozimej (wyka kosmata)."
+    },
+    {
+      "q": "Motylkowate drobnonasienne mają system korzeniowy:",
+      "options": [
+        "wiązkowy, płytki",
+        "rozłogowy",
+        "bulwiasty",
+        "palowy, silnie rozwinięty"
+      ],
+      "answer": 3,
+      "explain": "Motylkowate drobnonasienne mają silnie rozwinięty palowy system korzeniowy."
+    },
+    {
+      "q": "Spośród motylkowatych drobnonasiennych dość duże nasiona ma:",
+      "options": [
+        "koniczyna biała",
+        "lucerna siewna",
+        "esparceta",
+        "komonica"
+      ],
+      "answer": 2,
+      "explain": "Nasiona drobnonasiennych są małe – jedynie esparceta ma nasiona dość duże."
+    },
+    {
+      "q": "W rejestrze COBORU znajduje się ponad:",
+      "options": [
+        "20 odmian kukurydzy",
+        "160 odmian kukurydzy",
+        "50 odmian kukurydzy",
+        "500 odmian kukurydzy"
+      ],
+      "answer": 1,
+      "explain": "W krajowym rejestrze COBORU znajduje się ponad 160 odmian kukurydzy."
+    },
+    {
+      "q": "Najbardziej wrażliwą na suszę w okresie kwitnienia rośliną strączkową jest:",
+      "options": [
+        "bobik",
+        "łubin żółty",
+        "wyka kosmata",
+        "soja"
+      ],
+      "answer": 0,
+      "explain": "W czasie suszy w kwitnieniu strąki opadają – najbardziej wrażliwy jest bobik."
+    },
+    {
+      "q": "Rośliny strączkowe kiełkują zazwyczaj w temperaturze:",
+      "options": [
+        "8–10°C",
+        "12–15°C",
+        "1–3°C",
+        "18–20°C"
+      ],
+      "answer": 2,
+      "explain": "Strączkowe zazwyczaj kiełkują w temperaturze 1–3°C."
+    },
+    {
+      "q": "Na glebach klasy V można uprawiać:",
+      "options": [
+        "łubin żółty i wyka kosmata",
+        "bobik i groch siewny",
+        "wyka jara i bobik",
+        "groch siewny i łubin biały"
+      ],
+      "answer": 0,
+      "explain": "Najmniejsze wymagania mają łubin żółty i wyka kosmata, które można uprawiać na glebach klasy V."
+    },
+    {
+      "q": "Optymalne pH gleby dla łubinu wynosi około:",
+      "options": [
+        "4,0",
+        "7,0",
+        "7,5",
+        "5,5"
+      ],
+      "answer": 3,
+      "explain": "Najbardziej odpowiednie pH dla łubinu wynosi około 5,5."
+    },
+    {
+      "q": "Najniższe wymagania wodne spośród motylkowatych drobnonasiennych ma:",
+      "options": [
+        "koniczyna czerwona",
+        "komonica",
+        "koniczyna perska",
+        "koniczyna biała"
+      ],
+      "answer": 1,
+      "explain": "Niskie wymagania wodne ma komonica."
+    },
+    {
+      "q": "Najbardziej wrażliwa na wymarzanie jest koniczyna:",
+      "options": [
+        "czerwona",
+        "perska",
+        "biała",
+        "białoróżowa"
+      ],
+      "answer": 1,
+      "explain": "Wyjątkiem wśród odpornych na wymarzanie jest najbardziej wrażliwa koniczyna perska."
+    },
+    {
+      "q": "Seradela najlepiej rośnie na glebach:",
+      "options": [
+        "ciężkich, zasadowych",
+        "pszennych bardzo dobrych",
+        "zimnych i podmokłych gliniastych",
+        "lekkich, kwaśnych i wilgotnych"
+      ],
+      "answer": 3,
+      "explain": "Seradela najlepiej rośnie na glebach kwaśnych i wilgotnych."
+    },
+    {
+      "q": "Najniższa temperatura kiełkowania kukurydzy wynosi:",
+      "options": [
+        "8–10°C",
+        "1–3°C",
+        "2–3°C",
+        "20–25°C"
+      ],
+      "answer": 0,
+      "explain": "Najniższa temperatura, w której zachodzi kiełkowanie kukurydzy, to 8–10°C."
+    },
+    {
+      "q": "Kukurydzy nie należy uprawiać na glebach:",
+      "options": [
+        "czarnoziemach",
+        "lessowych",
+        "zimnych i podmokłych",
+        "madach"
+      ],
+      "answer": 2,
+      "explain": "Nie należy uprawiać kukurydzy na glebach zimnych, podmokłych, bardzo ciężkich, suchych i piaszczystych."
+    },
+    {
+      "q": "Koniczyna czerwona może wracać na to samo pole co:",
+      "options": [
+        "rok",
+        "2 lata",
+        "3 lata",
+        "7 lat"
+      ],
+      "answer": 3,
+      "explain": "Koniczyna czerwona i esparceta mogą wracać na to samo pole co 7 lat."
+    },
+    {
+      "q": "Rośliną dobrze znoszącą uprawę w monokulturze jest:",
+      "options": [
+        "koniczyna czerwona",
+        "esparceta",
+        "kukurydza",
+        "lucerna"
+      ],
+      "answer": 2,
+      "explain": "Kukurydza bardzo dobrze znosi uprawę po sobie, czyli w monokulturze."
+    },
+    {
+      "q": "Optymalne pH dla kukurydzy, lucerny i koniczyny wynosi:",
+      "options": [
+        "4,1–4,5",
+        "6,6–7,0",
+        "5,1–5,5",
+        "7,6–8,0"
+      ],
+      "answer": 1,
+      "explain": "Optymalne pH dla kukurydzy, lucerny, koniczyny i grochu to 6,6–7,0."
+    },
+    {
+      "q": "Wapnowanie pod rośliny paszowe stosuje się na ogół:",
+      "options": [
+        "raz na 4 lata",
+        "co roku",
+        "dwa razy w roku",
+        "raz na 10 lat"
+      ],
+      "answer": 0,
+      "explain": "Zabieg wapnowania stosujemy na ogół raz na 4 lata."
+    },
+    {
+      "q": "Azot pod kukurydzę stosuje się:",
+      "options": [
+        "jednorazowo jesienią",
+        "wyłącznie dolistnie",
+        "w dwóch dawkach – przed siewem i przy wysokości ok. 30 cm",
+        "tylko po zbiorze"
+      ],
+      "answer": 2,
+      "explain": "Dla kukurydzy nawozy azotowe stosujemy w dwóch dawkach: przed siewem i gdy rośliny mają około 30 cm."
+    },
+    {
+      "q": "Przy uprawie kukurydzy na oborniku (20–30 t/ha) dawkę azotu należy zmniejszyć o około:",
+      "options": [
+        "15–20 kg N/ha",
+        "1–2 kg N/ha",
+        "60–80 kg N/ha",
+        "100–120 kg N/ha"
+      ],
+      "answer": 0,
+      "explain": "Należy zmniejszyć nawożenie azotem o około 15–20 kg N/ha."
+    },
+    {
+      "q": "Nasiona motylkowatych przed siewem szczepi się preparatem:",
+      "options": [
+        "Propyzamid",
+        "Kwas mrówkowy",
+        "Dithane NeoTec",
+        "Nitragina"
+      ],
+      "answer": 3,
+      "explain": "Nasiona motylkowatych powinno się zaszczepić Nitraginą zawierającą bakterie."
+    },
+    {
+      "q": "Rozstaw rzędów przy siewie kukurydzy wynosi:",
+      "options": [
+        "12–15 cm",
+        "60–80 cm",
+        "20–25 cm",
+        "100–120 cm"
+      ],
+      "answer": 1,
+      "explain": "Kukurydzę wysiewa się w rozstawie rzędów 60–80 cm."
+    },
+    {
+      "q": "Bobik wysiewa się na głębokość:",
+      "options": [
+        "1–2 cm",
+        "6–10 cm",
+        "2–3 cm",
+        "12–15 cm"
+      ],
+      "answer": 1,
+      "explain": "Bobik wysiewa się na głębokość 6–10 cm."
+    },
+    {
+      "q": "Wykę kosmatą z żytem wysiewa się w terminie:",
+      "options": [
+        "1. dekada kwietnia",
+        "2. dekada maja",
+        "3. dekada października",
+        "3. dekada sierpnia"
+      ],
+      "answer": 3,
+      "explain": "Wyka kosmata z żytem – termin siewu 3/VIII."
+    },
+    {
+      "q": "Do dwuletnich motylkowatych drobnonasiennych należy:",
+      "options": [
+        "koniczyna czerwona",
+        "koniczyna perska",
+        "lucerna siewna",
+        "seradela"
+      ],
+      "answer": 0,
+      "explain": "Dwuletnie motylkowate to koniczyna czerwona i nostrzyk."
+    },
+    {
+      "q": "Wieloletnie motylkowate drobnonasienne wysiewa się z rośliną ochronną, ponieważ:",
+      "options": [
+        "nie tolerują światła",
+        "wymagają cienia przez całe życie",
+        "w pierwszym roku dają bardzo niskie plony",
+        "nie wytwarzają brodawek"
+      ],
+      "answer": 2,
+      "explain": "Wysiew w roślinę ochronną stosuje się, bo te rośliny w pierwszym roku dają bardzo niskie plony."
+    },
+    {
+      "q": "Podstawową metodą zapobiegania chorobom i szkodnikom roślin pastewnych jest:",
+      "options": [
+        "desykacja",
+        "wałowanie",
+        "nawożenie potasem",
+        "zaprawianie nasion"
+      ],
+      "answer": 3,
+      "explain": "Zaprawianie nasion jest podstawową metodą zapobiegania chorobom i szkodnikom."
+    },
+    {
+      "q": "Kanianka to:",
+      "options": [
+        "choroba grzybowa kukurydzy",
+        "szkodnik bobiku",
+        "roślina pasożytująca na koniczynie i lucernie",
+        "odmiana koniczyny"
+      ],
+      "answer": 2,
+      "explain": "W koniczynie i lucernie występuje kanianka – roślina pasożytnicza."
+    },
+    {
+      "q": "Jedynym sposobem zwalczania chorób grzybowych kukurydzy jest:",
+      "options": [
+        "oprysk w fazie kwitnienia",
+        "stosowanie fungicydowych zapraw nasiennych",
+        "wypalanie gniazd",
+        "wapnowanie"
+      ],
+      "answer": 1,
+      "explain": "Jedynym sposobem zwalczania chorób grzybowych kukurydzy są fungicydowe zaprawy nasienne."
+    },
+    {
+      "q": "Skorupę glebową tuż po siewie niszczy się:",
+      "options": [
+        "wałem zębowym lub wałem Cambridge",
+        "pługiem z przedpłużkiem",
+        "włóką łąkową",
+        "glebogryzarką na 25 cm"
+      ],
+      "answer": 0,
+      "explain": "Zaskorupienie niszczy się wałem zębowym lub wałem typu Cambridge i Croskill."
+    },
+    {
+      "q": "Dojrzałości fizjologicznej ziarna kukurydzy odpowiada wilgotność:",
+      "options": [
+        "12–13%",
+        "18–20%",
+        "38–40%",
+        "60–65%"
+      ],
+      "answer": 2,
+      "explain": "Dojrzałości fizjologicznej odpowiada wilgotność ziarna 38–40% i czarny punkt u nasady ziarniaka."
+    },
+    {
+      "q": "Kukurydzę na CCM zbiera się:",
+      "options": [
+        "w chwili zasychania łodyg, 2–3 tygodnie przed terminem agrotechnicznym",
+        "w fazie wiechowania",
+        "po pierwszych przymrozkach zimowych",
+        "w dojrzałości mlecznej"
+      ],
+      "answer": 0,
+      "explain": "Kukurydzę na CCM zbiera się 2–3 tygodnie przed terminem agrotechnicznym."
+    },
+    {
+      "q": "Lucernę zbiera się w ciągu roku:",
+      "options": [
+        "1 raz",
+        "2 razy",
+        "6–7 razy",
+        "3–4 razy"
+      ],
+      "answer": 3,
+      "explain": "Koniczyna jest zazwyczaj koszona dwukrotnie, natomiast lucernę zbiera się 3–4 krotnie."
+    },
+    {
+      "q": "Nasiona przeznaczone do przechowywania powinny mieć wilgotność:",
+      "options": [
+        "18–20%",
+        "12–13%",
+        "25–30%",
+        "38–40%"
+      ],
+      "answer": 1,
+      "explain": "Nasiona do przechowywania powinny mieć wilgotność w granicach 12–13%."
+    },
+    {
+      "q": "Liść nr 1 (dłoniasto palczasty) na rysunku należy do:",
+      "options": [
+        "soi",
+        "łubinu",
+        "wyki",
+        "grochu"
+      ],
+      "answer": 1,
+      "explain": "Łubin ma liście dłoniasto palczaste, soja – trójlistne, wyka i groch – pierzaste.",
+      "img": "img/ur2/liscie-grubonasienne.jpg"
+    },
+    {
+      "q": "Szarobiałe narośla na kolbie (zdjęcie po prawej) to objaw:",
+      "options": [
+        "fuzariozy kolb",
+        "głowni kukurydzy",
+        "plamistości liści",
+        "zgorzeli siewek"
+      ],
+      "answer": 1,
+      "explain": "Głownia kukurydzy tworzy na kolbach duże narośla.",
+      "img": "img/ur2/choroby-kukurydzy.jpg"
+    },
+    {
+      "q": "Jaka dawka azotu zalecana jest dla kukurydzy na zieloną masę przy plonie 60 t/ha?",
+      "options": [
+        "140 kg/ha",
+        "160 kg/ha",
+        "190 kg/ha",
+        "220 kg/ha"
+      ],
+      "answer": 1,
+      "explain": "Tab. 2.1: 50 t – 140, 60 t – 160, 80 t – 190, 100 t – 220 kg N/ha."
+    },
+    {
+      "q": "Który preparat wymieniono jako fungicyd na askochytozę, czekoladową plamistość i rdzę bobiku?",
+      "options": [
+        "Switch 62,5 WG",
+        "Amistar 250 SC",
+        "Maxim XL 035 FS",
+        "Dithane NeoTec 75 WG"
+      ],
+      "answer": 3,
+      "explain": "Na wszystkie trzy choroby bobiku – Dithane NeoTec 75 WG w dawce 2–3 kg/ha."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż gatunki roślin motylkowatych drobnonasiennych.",
+      "options": [
+        "Esparceta siewna.",
+        "Lucerna siewna.",
+        "Koniczyna perska.",
+        "Koniczyna żółta."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKukurydza ma … znaczenie w uprawie roślin pastewnych.",
+      "options": [
+        "najmniejsze",
+        "największe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŁodyga kukurydzy jest sztywna, gruba, zbudowana z węzłów i międzywęźli, wyrastająca do 1–2 metrów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż temperaturę, przy której zaczynają kiełkować rośliny motylkowate drobnonasienne.",
+      "options": [
+        "3–6°C.",
+        "0–2°C.",
+        "6–10°C.",
+        "2–3°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŁubin żółty … na glebach zasobnych w wapno.",
+      "options": [
+        "choruje",
+        "daje wysokie plony"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy opis jest prawdziwy, czy fałszywy.\nLucerna w niższych temperaturach, np. kiedy lato jest chłodniejsze, rośnie wolniej. Z drugiej jednak strony, jej odporność na wymarzanie jest dość duża.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny charakteryzujące się wiotkimi i płożącymi łodygami.",
+      "options": [
+        "Wyki.",
+        "Peluszka.",
+        "Bobik.",
+        "Łubin."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW roku 2012 powierzchnia uprawy roślin pastewnych wynosiła … ogólnej powierzchni zasiewów i była wyższa w porównaniu z rokiem 2011.",
+      "options": [
+        "10,8%",
+        "14%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawie roślin paszowych zabieg wapnowania stosujemy na ogół raz na 2 lata.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Rośliny pastewne z rolniczego punktu widzenia można podzielić na:",
+      "options": [
+        "motylkowate grubonasienne.",
+        "rośliny włókniste.",
+        "rośliny niemotylkowe.",
+        "motylkowate drobnonasienne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRośliny strączkowe zazwyczaj kiełkują w temperaturze … i wytrzymują krótkotrwałe przymrozki wiosenne.",
+      "options": [
+        "6–10°C",
+        "1–3°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Chemiczne zwalczanie chwastów prowadzimy za pomocą odpowiednich herbicydów, zgodnie z zaleceniami Instytutu Ochrony Roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny motylkowate grubonasienne, charakteryzujące się liśćmi dłoniasto palczastymi.",
+      "options": [
+        "Peluszka.",
+        "Soja.",
+        "Bobik.",
+        "Łubin."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSystem korzeniowy roślin motylkowatych jest … rozwinięty.",
+      "options": [
+        "silnie",
+        "słabo"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaprawianie nasion jest podstawową metodą zapobiegania i zwalczania chorób i szkodników w uprawach roślin pastewnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny motylkowate grubonasienne.",
+      "options": [
+        "Groch.",
+        "Łubin.",
+        "Soja.",
+        "Komonica."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Najbardziej odpowiednie pH dla łubinu to około ….",
+      "options": [
+        "5,5",
+        "7,2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W przypadku uprawy kukurydzy w plonie wtórnym uprawa gleby polega na wykonaniu orki płytkiej i bronowaniu pola.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż choroby kukurydzy.",
+      "options": [
+        "Zaraza kustrzebkowa.",
+        "Głownia pyląca.",
+        "Kanianka.",
+        "Zgnilizna korzeni."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nInformacje o odmianach roślin uprawnych można znaleźć w krajowym rejestrze odmian uprawnych ….",
+      "options": [
+        "Krajowej Komisji ds. Roślin Uprawnych",
+        "Centralnego Ośrodka Badania Roślin Uprawnych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa glebach kwaśnych pierwszym zabiegiem w uprawie roślin paszowych preferujących odczyn obojętny jest zazwyczaj wapnowanie uzależnione od wymagań rośliny i pH stanowiska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż termin (miesiąc) siewu wyki kosmatej z żytem.",
+      "options": [
+        "Marzec.",
+        "Czerwiec.",
+        "Kwiecień.",
+        "Sierpień."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Optymalne pH dla kukurydzy, lucerny, koniczyny i grochu to ….",
+      "options": [
+        "5,1–5,5",
+        "6,6–7,0"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWybór zabiegów uprawowych zależy od przedplonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ze względu na długość użytkowania rośliny motylkowate dzielimy na:",
+      "options": [
+        "wieloletnie.",
+        "sezonowe.",
+        "jednoroczne.",
+        "dwuletnie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRośliny uprawiane wyłącznie na paszę nazywamy roślinami ….",
+      "options": [
+        "ogólnoużytkowymi",
+        "pastewnymi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny motylkowate drobnonasienne posiadają silnie rozwinięty, palowy system korzeniowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż tradycyjne odmiany bobiku.",
+      "options": [
+        "Martin.",
+        "Bronto.",
+        "Neptun.",
+        "Tim."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOdmiany … rozgałęziają się i ciągle wytwarzają kwiaty.",
+      "options": [
+        "niesamokończące",
+        "samokończące"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCelem wapnowania jest uzyskanie optymalnego odczynu gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż maszynę do zbioru nasion.",
+      "options": [
+        "Sieczkarnia z odpowiednimi adapterami.",
+        "Kombajn.",
+        "Kosiarka",
+        "Sieczkarnia samobieżna."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKukurydzę najlepiej uprawiać na glebach ….",
+      "options": [
+        "suchych i piaszczystych",
+        "przewiewnych i ciepłych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa korzeniach roślin motylkowatych drobnonasiennych rozmieszczone są brodawki bakterii przyswajających azot z powietrza.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny motylkowate o największych wymaganiach wodnych.",
+      "options": [
+        "Seradela.",
+        "Koniczyna czerwona.",
+        "Komonica.",
+        "Koniczyna perska."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKomonica wymaga … odczynu gleby.",
+      "options": [
+        "kwaśnego",
+        "obojętnego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Łodygi motylkowatych drobnonasiennych w zależności od gatunku mogą być proste lub wyrastać ukośnie z tendencją do płożenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż sposoby zapobiegania chorobom roślin.",
+      "options": [
+        "Unikanie częstej uprawy roślin z tej samej grupy na tym samym polu.",
+        "Zaprawianie roślin.",
+        "Stosowanie zdrowego materiału siewnego.",
+        "Niszczenie resztek pożniwnych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMotylkowate drobnonasienne na tym samym polu nie mogą być uprawiane częściej niż co … lat.",
+      "options": [
+        "7-9",
+        "4-6"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydza, która ma niewielkie wymagania glebowe, może wysoko plonować zarówno na glebach pszenno-buraczanych, jak i na glebach żytnich w dobrej kulturze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż odmiany łubinu wąskolistnego samokończącego.",
+      "options": [
+        "Kalif.",
+        "Boruta.",
+        "Sonet.",
+        "Regent."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW zależności od rodzaju gleb i wymagań roślin przewidzianych do uprawy dawki wapna wahają się od … t/ha.",
+      "options": [
+        "4-10",
+        "1-6"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydza bardzo dobrze znosi uprawę po sobie, czyli w monokulturze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najniższą temperaturę kiełkowania i wzrostu kukurydzy.",
+      "options": [
+        "8–10°C.",
+        "2–10°C.",
+        "10–15°C.",
+        "0–5°C."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRośliny motylkowate grubonasienne (strączkowe) mają … wymagania wodne.",
+      "options": [
+        "małe",
+        "duże"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPomiędzy korzeniami a łodygami wszystkie motylkowate drobnonasienne mają wykształconą szyjkę korzeniową, z której po ścięciu wyrośniętych łodyg mogą stale wyrastać nowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW roku 2012 powierzchnia uprawy roślin pastewnych wynosiła 14,8% ogólnej powierzchni zasiewów i była wyższa w porównaniu z rokiem 2011 o około 10,7%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zabiegi pielęgnacyjne w uprawie roślin paszowych.",
+      "options": [
+        "Bronowanie.",
+        "Kultywatorowanie.",
+        "Uprawa międzyrzędowa za pomocą pielników.",
+        "Stosowanie herbicydów."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż odmiany grochu ogólnoużytkowego o białych kwiatach.",
+      "options": [
+        "Santana.",
+        "Batuta.",
+        "Akord.",
+        "Muza."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCelem uprawy roślin paszowych jest zapewnienie paszy dla produkcji zwierzęcej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdmiany niesamokończące rozgałęziają się i ciągle wytwarzają kwiaty, natomiast odmiany samokończące nie tworzą rozgałęzień, równomiernie dojrzewają, wykazują skłonności do przedłużania wegetacji i pękania strąków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Motylkowate drobnonasienne nie mogą być uprawiane na tym samym polu częściej niż co 4–6 lat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny motylkowate drobnonasienne.",
+      "options": [
+        "Lucerna.",
+        "Komonica.",
+        "Wyka kosmata.",
+        "Koniczyna."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do najczęściej uprawianych na paszę roślin niemotylkowatych należą:",
+      "options": [
+        "koniczyna.",
+        "żyto.",
+        "owies.",
+        "kukurydza."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż odmianę łubinu wąskolistnego niesamokończącego.",
+      "options": [
+        "Boruta.",
+        "Taper.",
+        "Karo.",
+        "Sonet."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKwiaty roślin motylkowatych drobnonasiennych są bardzo drobne, umieszczone w kwiatostanach w formie główki lub wydłużonego grona.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydzę należy uprawiać na glebach zimnych, podmokłych, bardzo ciężkich albo na suchych i piaszczystych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Kukurydza jako roślina pastewna jest źródłem paszy o wysokiej wartości energetycznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawiając rośliny strączkowe na nasiona w zmianowaniu najlepiej umieszczać je po zbożach w pierwszym roku po okopowych na oborniku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż czynności zapobiegające chorobom roślin.",
+      "options": [
+        "Niszczenie resztek pożniwnych.",
+        "Stosowanie zdrowego materiału siewnego.",
+        "Unikanie częstej uprawy roślin z tej samej grupy na tym samym polu.",
+        "Zaprawianie roślin."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Koniczyna czerwona i esparceta może być uprawiana na tym samym polu co 7 lat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zielonkę roślin paszowych może przechowywać w postaci:",
+      "options": [
+        "kiszonki.",
+        "suszu.",
+        "siana."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Celem wapnowania jest uzyskanie kwaśnego odczynu gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż urządzenie do zbioru roślin paszowych na zielonkę.",
+      "options": [
+        "Kombajn.",
+        "Kosiarka.",
+        "Sieczkarnia samobieżna.",
+        "Sieczkarnia z odpowiednimi adapterami."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wskaż właściwą wilgotność przechowywania nasion.",
+      "options": [
+        "12–13%.",
+        "5–10%.",
+        "15–20%.",
+        "10–11%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Koniczyna jest zazwyczaj koszona 3–4 krotnie, natomiast lucernę zbiera się dwukrotnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem korzeniowy roślin motylkowatych jest silnie rozwinięty.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny motylkowate wieloletnie.",
+      "options": [
+        "Koniczyna perska.",
+        "Nostrzyk.",
+        "Lucerna siewna.",
+        "Koniczyna biała."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Bronowanie motylkowatych drobnonasiennych ma na celu pobudzenie wegetacji roślin wiosną i dotlenienie gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydzę można uprawiać tylko na ziarno i kiszonki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny strączkowe są szczególnie wrażliwe na niedobór wody w glebie w okresie kiełkowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż dostępne odmiany wyki siewnej.",
+      "options": [
+        "Jaga.",
+        "Hanka.",
+        "Hubal.",
+        "Batuta.",
+        "Kwarta.",
+        "Inga."
+      ],
+      "answers": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŁubin wymaga gleby o odczynie obojętnym bądź zasadowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż samokończące odmiany bobiku.",
+      "options": [
+        "Tim.",
+        "Sonet.",
+        "Tom.",
+        "Rajan."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż samokończącą odmianę łubinu żółtego.",
+      "options": [
+        "Mister.",
+        "Dukat.",
+        "Perkoz.",
+        "Lord."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem korzeniowy roślin motylkowatych składa się z korzenia głównego i korzeni bocznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny charakteryzujące się sztywnymi i wzniesionymi łodygami.",
+      "options": [
+        "Soja.",
+        "Bobik.",
+        "Łubin.",
+        "Wyki."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaz rośliny motylkowate jednoroczne.",
+      "options": [
+        "Koniczyna czerwona.",
+        "Lucerna siewna.",
+        "Nostrzyk.",
+        "Koniczyna perska."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoziom nawożenia mineralnego zależy o zasobności gleby w składniki pokarmowe oraz od intensywności produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKukurydza w Polsce najlepiej plonuje w dni chłodne i wilgotne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od rodzaju gleb i wymagań roślin przewidzianych do uprawy dawki wapna wahają się od 1 t/ha do 10 t/ha.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

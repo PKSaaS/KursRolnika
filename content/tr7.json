@@ -1,0 +1,1979 @@
+{
+  "id": "tr7",
+  "course": "Technika w rolnictwie",
+  "title": "Transport w gospodarstwie rolnym",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Transport w gospodarstwie przemieszcza duże ilości środków produkcji i produktów.",
+        "Pojazdy transportowe: ciągniki rolnicze (z przyczepami) i samochody.",
+        "Przyczepy rolnicze to kołowe środki transportu agregowane z ciągnikami i samochodami.",
+        "Transport wewnętrzny – przemieszczanie ładunków w obrębie gospodarstwa, między polami lub zabudowaniami.",
+        "Transport zewnętrzny – wywóz produktów rolnych i przywóz środków produkcji (nawozy, pasze, materiał siewny, środki ochrony roślin, paliwo).",
+        "W transporcie wewnętrznym rozróżnia się środki związane z miejscem pracy (budynki inwentarskie, magazyny) oraz mobilne (kołowe) na niewielkie odległości.",
+        "Konserwacja chroni maszyny przed nadmiernym i zbyt szybkim zużyciem.",
+        "Podstawowe zabiegi konserwacyjne: czyszczenie, mycie, smarowanie, wymiana olejów, powlekanie środkami ochrony czasowej (np. karoserii woskiem).",
+        "Konserwację osiąga się zabiegami i środkami zmniejszającymi szkodliwy wpływ warunków pracy i przechowywania maszyn."
+      ]
+    },
+    {
+      "heading": "1. Ciągnik rolniczy – budowa i odbiór mocy",
+      "points": [
+        "Ciągnik połączony z narzędziem, maszyną lub przyczepą tworzy agregat maszynowy lub transportowy i jest w nim zespołem energetycznym.",
+        "Energię ciągnik oddaje przez: zaczep (polowy, transportowy, zespół zawieszenia narzędzi), WOM, hydraulikę zewnętrzną, instalację pneumatyczną lub elektryczną.",
+        "WOM – wałek odbioru mocy.",
+        "Budowa ciągnika: silnik, mechanizmy przenoszące napęd, mechanizmy jezdne, układ sterowania (kierowniczy i hamulcowy), pomost sterowniczy.",
+        "Mechanizmy jezdne: kołowe lub gąsienicowe.",
+        "Klasyczny układ ciągnika dwuosiowego: silnik z przodu, napędzana tylna oś lub obie osie.",
+        "Różnorodność przeznaczenia ciągników wymusza konstruowanie ich do wykonywania ściśle określonych prac."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/ciagnik-budowa-zespoly.jpg",
+          "caption": "Ciągnik rolniczy składa się z: silnika wytwarzającego energię mechaniczną, mechanizmów przenoszących napęd, mechanizmów jezdnych, układu sterowania (kierowniczego i hamulcowego) oraz pomostu sterowniczego."
+        },
+        {
+          "src": "img/tr7/mechanizm-jezdny-kolowy-gasienicowy.jpg",
+          "caption": "Mechanizmy jezdne ciągników: kołowy i gąsienicowy. Różnorodność przeznaczenia ciągników wymusza konstruowanie ich do ściśle określonych prac."
+        },
+        {
+          "src": "img/tr7/ciagnik-agregat-energia.jpg",
+          "caption": "Ciągnik rolniczy połączony z narzędziem, maszyną lub przyczepą tworzy agregat maszynowy lub transportowy. Energię użyteczną z ciągnika uzyskuje się z zaczepu, z wałka odbioru mocy (WOM), przez zespół hydrauliki zewnętrznej, instalację pneumatyczną i instalację elektryczną."
+        }
+      ]
+    },
+    {
+      "heading": "1.1. Rodzaje ciągników",
+      "points": [
+        "Ciągniki uniwersalne – transport, uprawa, pielęgnacja, siew.",
+        "Szkółkarskie – do wąskich międzyrzędzi, lekkie, mały promień skrętu.",
+        "Sadownicze – zmniejszony rozstaw osi, mała opływowa kabina, mały promień skrętu; odmiana szczudłowa.",
+        "Melioracyjne – do terenów podmokłych, np. z gąsienicowymi mechanizmami jezdnymi.",
+        "Leśne – z urządzeniami do załadunku i wyciągania drewna.",
+        "Do prac ziemnych – ze spychaczami, koparkami.",
+        "Konstrukcje: jednoosiowe (mikrociągniki), dwuosiowe (nośniki narzędzi, klasyczne, z napędem na cztery koła)."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/ciagnik-sadowniczy.jpg",
+          "caption": "Ciągnik sadowniczy – mały rozstaw kół i osi, niska sylwetka, mały promień skrętu; do pracy w wąskich międzyrzędziach sadów i winnic."
+        },
+        {
+          "src": "img/tr7/ciagnik-szczudlowy.jpg",
+          "caption": "Ciągnik szczudłowy – wysoki prześwit; pracuje ponad rzędami roślin (szkółki, sady, plantacje)."
+        },
+        {
+          "src": "img/tr7/ciagnik-nosnik-narzedzi.jpg",
+          "caption": "Ciągnik – nośnik narzędzi: dwuosiowy, silnik z tyłu, rama ze skrzynią ładunkową przed kabiną (możliwość zawieszenia narzędzi między osiami)."
+        },
+        {
+          "src": "img/tr7/konstrukcje-ciagnikow-tabela.jpg",
+          "caption": "Tabela 7.1. Konstrukcje ciągników rolniczych: jednoosiowy (mikrociągnik – silnik nad kołem napędowym); dwuosiowe: nośnik narzędzi (rama, silnik i napęd z tyłu, przednie koło nienapędzane), klasyczny (silnik z przodu, napędzana oś tylna, przednie koła nienapędzane), z napędem na cztery koła (obie osie napędowe)."
+        },
+        {
+          "src": "img/tr7/ciagniki-podzial.jpg",
+          "caption": "Podział ciągników: uniwersalne oraz specjalistyczne – do prac szkółkarskich, sadowniczych, melioracyjnych, leśnych i ziemnych."
+        }
+      ]
+    },
+    {
+      "heading": "1.2. Samochody w rolnictwie",
+      "points": [
+        "Budowa samochodu: silnik, mechanizmy przenoszące napęd, mechanizmy jezdne, układy kierowania i hamowania, nadwozie przystosowane do transportu.",
+        "Samochody przewożą osoby i towary na znaczne odległości i osiągają dużo większe prędkości niż ciągniki.",
+        "Rodzaje: osobowe, towarowo-osobowe, dostawcze, ciężarowe ogólnego przeznaczenia i specjalistyczne.",
+        "Wyposażenie ułatwiające załadunek: HDS (hydrauliczny dźwig samochodowy), windy.",
+        "Samochody osiągają większe prędkości dzięki innej budowie mechanizmów napędowych; do przewozu zwierząt stosuje się samochody ciężarowe z przyczepami specjalistycznymi."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/samochod-przewoz-zwierzat.jpg",
+          "caption": "Samochód ciężarowy z przyczepą do przewozu zwierząt."
+        }
+      ]
+    },
+    {
+      "heading": "2. Wózki",
+      "points": [
+        "Wózki ręczne – powszechny środek transportu wewnętrznego; mała wydajność, duży wysiłek fizyczny, ale tanie w zakupie i eksploatacji.",
+        "Przewozi się nimi głównie pasze i produkty rolne; najczęściej taczki jednokołowe oraz wózki dwu-, trzy- i czterokołowe.",
+        "Większe ilości materiałów – wózki samojezdne akumulatorowe lub spalinowe.",
+        "Wózki widłowe – do palet, skrzyń paletowych i big-bagów o masie 500–1500 kg.",
+        "Rodzaje (rysunki): wózek platformowy z wagą, wózek widłowy unoszący ręczny, wózki widłowe unoszące prowadzone."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/wozek-widlowy-reczny.jpg",
+          "caption": "Wózek widłowy unoszący ręczny (paleciak) – do przewożenia palet i skrzyń paletowych."
+        },
+        {
+          "src": "img/tr7/wozek-platformowy-waga.jpg",
+          "caption": "Wózek platformowy z wagą – ręczny środek transportu wewnętrznego (pasze, produkty rolne)."
+        },
+        {
+          "src": "img/tr7/wozki-widlowe-prowadzone.jpg",
+          "caption": "Wózki widłowe unoszące prowadzone (z napędem) – do palet, skrzyń paletowych i big-bagów."
+        }
+      ]
+    },
+    {
+      "heading": "2.1. Przyczepy rolnicze",
+      "points": [
+        "Kryterium podziału: liczba osi – przyczepy dwuosiowe i jednoosiowe.",
+        "Dwuosiowe: przednia oś na obrotnicowym mechanizmie skrętu, tylna nieruchoma; minimalizują promień skrętu.",
+        "Dwuosiowe to najczęściej wywrotki z hydraulicznym podnoszeniem skrzyni na boki lub do tyłu oraz samowyładowcze z przenośnikami podłogowymi (słoma, zielonka, siano, sieczka z kukurydzy).",
+        "Jednoosiowe: tył skrzyni podparty na osi, przód na zaczepie ciągnika – dociążają tylne koła ciągnika i zmniejszają ich poślizg.",
+        "Agregat z przyczepą jednoosiową ma znacznie większą zwrotność – krótszy czas manewrowania.",
+        "Opróżnianie jednoosiowych: hydrauliczny wywrót do tyłu lub przenośnik podłogowy.",
+        "Większą ładowność dają podwójne osie (tandem) lub potrójne.",
+        "Jednoosiowe – na niewielkie odległości, gdy liczy się czas manewrowania; dwuosiowe – na większe odległości, bo jeden ciągnik może ciągnąć dwie przyczepy.",
+        "Skrzynie ładunkowe przyczep dwuosiowych osadzone są na ramie wyposażonej lub nie w urządzenia rozładunkowe; przyczepy produkuje się w szerokim zakresie konstrukcyjnym zależnie od przeznaczenia."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/przyczepa-dwuosiowa-uniwersalna.jpg",
+          "caption": "Przyczepa dwuosiowa uniwersalna – przednia oś na obrotnicy (skrętna), tylna nieruchoma; skrzynia wywrotka."
+        },
+        {
+          "src": "img/tr7/przyczepa-jednoosiowa-wychylna.jpg",
+          "caption": "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni – przód oparty na zaczepie ciągnika (dociąża tylne koła ciągnika)."
+        },
+        {
+          "src": "img/tr7/przyczepa-jednoosiowa-tandem.jpg",
+          "caption": "Przyczepa jednoosiowa z podwójnymi kołami w układzie tandem – podwójna oś zwiększa ładowność."
+        },
+        {
+          "src": "img/tr7/przyczepa-dwuosiowa-nadstawki.jpg",
+          "caption": "Przyczepa dwuosiowa z nadstawkami (podwyższone burty – większa objętość ładunku, np. pasz objętościowych)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Przenośniki cięgnowe",
+      "points": [
+        "Do załadunku i wyładunku stosuje się przenośniki cięgnowe, bezcięgnowe i z czynnikiem pośredniczącym.",
+        "Przenośniki cięgnowe przemieszczają materiał za pomocą cięgien (taśmy, łańcuchy ze zgarniakami lub kubełkami).",
+        "Taśmowe – poziomo lub pod niewielkim kątem; materiały sypkie, ziarno, ziemniaki, okopowe, materiały w opakowaniach.",
+        "Zgarniakowe – materiały sypkie, ziarno, okopowe, pasze objętościowe, usuwanie odchodów stałych; kąt większy niż taśmowe, ale nie przekraczający 45°.",
+        "Czerpakowe – transport pionowy i ukośny; materiały sypkie, ziarno, okopowe.",
+        "W kombajnach, suszarniach i silosach przenośnik czerpakowy podaje ziarno z kosza zasypowego do górnego punktu wylotowego, skąd rozdziela się je do silosów."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/silosy-przenosnik-czerpakowy.jpg",
+          "caption": "Bateria silosów z przenośnikiem czerpakowym umieszczonym w środku – ziarno podawane do górnego punktu wylotowego i rozdzielane do poszczególnych silosów."
+        }
+      ]
+    },
+    {
+      "heading": "3.1. Przenośniki bezcięgnowe",
+      "points": [
+        "Brak cięgna napędowego lub nośnego; materiał przemieszcza nadana mu energia, najczęściej grawitacja.",
+        "Rodzaje: ślizgowe, rolkowe, wstrząsowe, ślimakowe.",
+        "Ślimakowe – materiały sypkie na niewielkie odległości, poziomo lub pod kątem do 30°.",
+        "Ślimakowe w kombajnach: z przenośnika cięgnowego do zbiornika i ze zbiornika na środki transportu; także w silosach, suszarniach, mieszalnikach i wozach paszowych.",
+        "Ślimak w rurze napędzany silnikiem elektrycznym; wada – wysoki stopień uszkodzeń transportowanego materiału.",
+        "Wstrząsowe (wibracyjne) – transport poziomy w kombajnach i czyszczalniach (ziarno, kłosy, słoma); ruch posuwisto-zwrotny z mechanizmu korbowego lub wibratora wykorzystuje bezwładność materiału.",
+        "Ślizgowe (grawitacyjne) – w dół, z gładkich materiałów o niskim współczynniku tarcia, np. rynny z blachy; przy dużych różnicach poziomów i małej przestrzeni – przenośniki śrubowe.",
+        "Rolkowe – łożyskowane rolki na ramie tworzą bieżnię rolkową; towar przesuwany ręcznie lub samoczynnie przy spadku do 3%; do towarów w opakowaniach, cebuli, jabłek."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/przenosniki-slizgowe.jpg",
+          "caption": "Przenośniki ślizgowe (grawitacyjne): pochyła rynna, przenośnik śrubowy (spiralny – przy dużej różnicy poziomów i małej przestrzeni) i zsyp pionowy – materiał zsuwa się w dół pod wpływem grawitacji."
+        },
+        {
+          "src": "img/tr7/przenosnik-rolkowy.jpg",
+          "caption": "Przenośnik rolkowy – bieżnia z łożyskowanych rolek na ramie; towar przesuwa się ręcznie lub samoczynnie przy spadku do 3%."
+        }
+      ]
+    },
+    {
+      "heading": "3.2. Przenośniki z czynnikiem pośredniczącym",
+      "points": [
+        "Stosowane do słomy, siana i ziarna – najczęściej dmuchawy z powietrzem jako czynnikiem pośredniczącym.",
+        "Zalety: prosta konstrukcja, możliwość dostosowania kierunku transportu.",
+        "Wady: niska wydajność i rozdział materiału przy wylocie (cięższy ląduje bliżej, lżejszy dalej)."
+      ]
+    },
+    {
+      "heading": "4. Konserwacja – ochrona czasowa sprzętu",
+      "points": [
+        "Konserwację wykonuje się podczas użytkowania i przed dłuższym przestojem (np. zimowym przechowywaniem).",
+        "Środki ochrony czasowej stosuje się do antykorozyjnej konserwacji między sezonami.",
+        "Szczególnie chroni się zespoły, z których powłokę ściera materiał lub gleba: przenośniki łańcuchowe, noże tnące, aparaty wiążące pras, odkładnice, zespoły chwytakowe sadzarki.",
+        "Konserwacja antykorozyjna jest najskuteczniejsza w ciągu 1–3 dni po zakończeniu pracy – zanim pojawi się nalot korozji.",
+        "Etapy ochrony czasowej: mycie, przygotowanie powierzchni (mycie, usuwanie korozji, odtłuszczanie), renowacja powłok malarskich, nakładanie preparatów, przechowywanie, kontrola, dekonserwacja i przygotowanie do pracy.",
+        "Do mycia: woda z detergentami, preparaty myjące, odrdzewiacze, rozcieńczalniki, benzyna ekstrakcyjna; dobre efekty dają myjki wysokociśnieniowe.",
+        "Szczególnie ważne jest usunięcie zanieczyszczeń chemicznych (nawozy, środki ochrony roślin) – przyspieszają korozję.",
+        "Przed nową powłoką usuwa się resztki starych powłok i luźną korozję, szlifuje do czystej powierzchni.",
+        "Korozja powstająca w okresie przechowywania zmniejsza sprawność zespołów i może być przyczyną awarii."
+      ],
+      "images": [
+        {
+          "src": "img/tr7/przyklady-korozji.jpg",
+          "caption": "Przykład korozji – skorodowany łańcuch (przenośniki łańcuchowe należą do zespołów szczególnie narażonych na korozję)."
+        }
+      ]
+    },
+    {
+      "heading": "4.1. Przygotowanie maszyn do przechowania",
+      "points": [
+        "Przy przechowywaniu na otwartej przestrzeni demontuje się podzespoły wrażliwe: akumulatory, pasy klinowe, łańcuchy napędowe, zespoły tnące, silniki elektryczne.",
+        "Precyzyjne zespoły (np. supłacze pras) czyści się, osusza, pokrywa preparatem antykorozyjnym i okrywa folią.",
+        "Napełnić smarem wszystkie punkty smarowania; sprawdzić i uzupełnić olej w skrzyniach przekładniowych.",
+        "Poluzować pasy klinowe lub zdemontować i przechowywać na wieszakach w suchym, zacienionym miejscu.",
+        "Nasmarować łańcuchy i koła zębate oraz końcówki tłoczysk siłowników; zabezpieczyć końcówki przewodów hydraulicznych.",
+        "Zakonserwować silniki spalinowe.",
+        "Maszyny kołowe ustawić na podstawach i obniżyć ciśnienie w oponach."
+      ]
+    },
+    {
+      "heading": "4.2. Sposoby ochrony metali przed korozją",
+      "points": [
+        "Ochrona czasowa – zmniejsza wpływ środowiska podczas transportu, przechowywania i przerw w pracy.",
+        "Inhibitory – środki, którymi nasyca się wkładki w opakowaniach i papiery do pakowania części.",
+        "Konserwacja smarowa – pokrycie elementów (łańcuchy, połączenia śrubowe, przekładnie łańcuchowe, odkładnice pługa) smarami i olejami konserwującymi.",
+        "Konserwacja bezsmarowa – fluidy (preparaty wodno-woskowo-olejowe): łatwo usuwalne, nieaktywne chemicznie (przemysł spożywczy), hydrofobowe – do maszyn na wolnym powietrzu.",
+        "Ochrona trwała – trwała powłoka ochronna na metalu.",
+        "Powłoki metalowe: cynkowanie, cynowanie, niklowanie, chromowanie.",
+        "Powłoki z tworzyw sztucznych – ochrona przed związkami chemicznymi (rurociągi, cysterny).",
+        "Powłoki z farb, lakierów i emalii – najbardziej rozpowszechnione: niski koszt i dobra ochrona."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Transport wewnętrzny",
+      "back": "Przemieszczanie ładunków w obrębie gospodarstwa – między polami lub zabudowaniami."
+    },
+    {
+      "front": "Transport zewnętrzny",
+      "back": "Wywóz produktów rolnych i przywóz środków produkcji (nawozy, pasze, nasiona, ŚOR, paliwo)."
+    },
+    {
+      "front": "Pojazdy wykonujące transport w gospodarstwie",
+      "back": "Ciągniki rolnicze (z przyczepami) i samochody."
+    },
+    {
+      "front": "Cel konserwacji maszyn",
+      "back": "Zabezpieczenie przed nadmiernym i zbyt szybkim zużyciem."
+    },
+    {
+      "front": "Podstawowe zabiegi konserwacyjne",
+      "back": "Czyszczenie, mycie, smarowanie, wymiana olejów, powlekanie środkami ochrony czasowej."
+    },
+    {
+      "front": "Agregat maszynowy",
+      "back": "Ciągnik połączony z narzędziem, maszyną lub przyczepą; ciągnik jest zespołem energetycznym."
+    },
+    {
+      "front": "Którędy ciągnik oddaje energię?",
+      "back": "Zaczep, WOM, hydraulika zewnętrzna, instalacja pneumatyczna lub elektryczna."
+    },
+    {
+      "front": "WOM",
+      "back": "Wałek odbioru mocy."
+    },
+    {
+      "front": "Rodzaje zaczepów ciągnika",
+      "back": "Polowy, transportowy, zespół zawieszenia narzędzi."
+    },
+    {
+      "front": "Główne zespoły ciągnika",
+      "back": "Silnik, mechanizmy przenoszące napęd, mechanizmy jezdne, układ sterowania, pomost sterowniczy."
+    },
+    {
+      "front": "Rodzaje mechanizmów jezdnych ciągnika",
+      "back": "Kołowe lub gąsienicowe."
+    },
+    {
+      "front": "Ciągnik uniwersalny – zastosowanie",
+      "back": "Transport, zabiegi uprawowe, pielęgnacyjne, siew."
+    },
+    {
+      "front": "Cechy ciągnika szkółkarskiego",
+      "back": "Lekki, do wąskich międzyrzędzi, mały promień skrętu."
+    },
+    {
+      "front": "Cechy ciągnika sadowniczego",
+      "back": "Zmniejszony rozstaw osi, mała opływowa kabina, mały promień skrętu."
+    },
+    {
+      "front": "Ciągnik melioracyjny",
+      "back": "Do terenów podmokłych, np. z gąsienicowymi mechanizmami jezdnymi."
+    },
+    {
+      "front": "Ciągnik do prac ziemnych – wyposażenie",
+      "back": "Spychacze, koparki."
+    },
+    {
+      "front": "Klasyczny układ ciągnika dwuosiowego",
+      "back": "Silnik z przodu, napęd na tylną oś lub obie osie."
+    },
+    {
+      "front": "Mikrociągniki",
+      "back": "Ciągniki jednoosiowe."
+    },
+    {
+      "front": "Dwuosiowe ciągniki – odmiany",
+      "back": "Nośniki narzędzi, klasyczne, z napędem na cztery koła."
+    },
+    {
+      "front": "Przewaga samochodu nad ciągnikiem",
+      "back": "Przewóz na znaczne odległości z dużo większą prędkością."
+    },
+    {
+      "front": "Rodzaje samochodów w rolnictwie",
+      "back": "Osobowe, towarowo-osobowe, dostawcze, ciężarowe ogólnego przeznaczenia i specjalistyczne."
+    },
+    {
+      "front": "HDS",
+      "back": "Hydrauliczny dźwig samochodowy."
+    },
+    {
+      "front": "Cechy wózków ręcznych",
+      "back": "Mała wydajność, duży wysiłek, tanie w zakupie i eksploatacji."
+    },
+    {
+      "front": "Najczęstsze wózki ręczne",
+      "back": "Taczki jednokołowe, wózki dwu-, trzy- i czterokołowe."
+    },
+    {
+      "front": "Napęd wózków samojezdnych",
+      "back": "Akumulatorowy lub silnik spalinowy."
+    },
+    {
+      "front": "Masa big-bagów",
+      "back": "500–1500 kg."
+    },
+    {
+      "front": "Do czego służą wózki widłowe?",
+      "back": "Do palet, skrzyń paletowych i big-bagów."
+    },
+    {
+      "front": "Kryterium podziału przyczep",
+      "back": "Liczba osi – jednoosiowe i dwuosiowe."
+    },
+    {
+      "front": "Budowa podwozia przyczepy dwuosiowej",
+      "back": "Przednia oś na obrotnicowym mechanizmie skrętu, tylna nieruchoma."
+    },
+    {
+      "front": "Przyczepy samowyładowcze z przenośnikiem podłogowym – zastosowanie",
+      "back": "Pasze objętościowe: słoma, zielonka, siano, sieczka z kukurydzy."
+    },
+    {
+      "front": "Kierunki wywrotu przyczepy dwuosiowej",
+      "back": "Na boki lub do tyłu (hydraulicznie)."
+    },
+    {
+      "front": "Na czym oparta jest przyczepa jednoosiowa?",
+      "back": "Tył na osi, przód na zaczepie ciągnika."
+    },
+    {
+      "front": "Zaleta dociążenia kół ciągnika przez przyczepę jednoosiową",
+      "back": "Mniejszy poślizg tylnych kół."
+    },
+    {
+      "front": "Główna zaleta agregatu z przyczepą jednoosiową",
+      "back": "Znacznie większa zwrotność – krótsze manewrowanie."
+    },
+    {
+      "front": "Tandem",
+      "back": "Podwójne osie przyczepy zwiększające ładowność."
+    },
+    {
+      "front": "Kiedy stosować przyczepy dwuosiowe?",
+      "back": "Na większe odległości – jeden ciągnik może ciągnąć dwie przyczepy."
+    },
+    {
+      "front": "Kiedy stosować przyczepy jednoosiowe?",
+      "back": "Na niewielkie odległości, gdy liczy się czas manewrowania."
+    },
+    {
+      "front": "Trzy grupy przenośników",
+      "back": "Cięgnowe, bezcięgnowe, z czynnikiem pośredniczącym."
+    },
+    {
+      "front": "Rodzaje cięgien przenośników",
+      "back": "Taśmy, łańcuchy ze zgarniakami lub kubełkami."
+    },
+    {
+      "front": "Przenośnik taśmowy – zakres pracy",
+      "back": "Poziomo lub pod niewielkim kątem."
+    },
+    {
+      "front": "Maks. kąt pracy przenośnika zgarniakowego",
+      "back": "45°."
+    },
+    {
+      "front": "Przenośnik zgarniakowy – zastosowania",
+      "back": "Materiały sypkie, ziarno, okopowe, pasze objętościowe, usuwanie odchodów stałych."
+    },
+    {
+      "front": "Przenośnik czerpakowy",
+      "back": "Transport pionowy i ukośny – np. ziarno do górnego wylotu silosu."
+    },
+    {
+      "front": "Na czym polega przenośnik bezcięgnowy?",
+      "back": "Brak cięgna; materiał przemieszcza nadana energia, najczęściej grawitacja."
+    },
+    {
+      "front": "Rodzaje przenośników bezcięgnowych",
+      "back": "Ślizgowe, rolkowe, wstrząsowe, ślimakowe."
+    },
+    {
+      "front": "Maks. kąt pracy przenośnika ślimakowego",
+      "back": "Do 30°."
+    },
+    {
+      "front": "Wada przenośnika ślimakowego",
+      "back": "Wysoki stopień uszkodzeń transportowanego materiału."
+    },
+    {
+      "front": "Gdzie stosuje się przenośniki ślimakowe?",
+      "back": "Kombajny, silosy, suszarnie, mieszalniki pasz, wozy paszowe."
+    },
+    {
+      "front": "Przenośnik wstrząsowy – zasada",
+      "back": "Ruch posuwisto-zwrotny (korba lub wibrator) wykorzystuje bezwładność materiału."
+    },
+    {
+      "front": "Gdzie stosuje się przenośniki wstrząsowe?",
+      "back": "W kombajnach zbożowych i czyszczalniach – transport poziomy."
+    },
+    {
+      "front": "Przenośnik ślizgowy",
+      "back": "Grawitacyjny, w dół; gładkie rynny z blachy o niskim tarciu."
+    },
+    {
+      "front": "Przenośnik przy dużej różnicy poziomów i małej przestrzeni",
+      "back": "Śrubowy (ślizgowy)."
+    },
+    {
+      "front": "Maks. spadek bieżni rolkowej przy ruchu samoczynnym",
+      "back": "3%."
+    },
+    {
+      "front": "Przenośnik z czynnikiem pośredniczącym – przykład",
+      "back": "Dmuchawa (powietrze) – słoma, siano, ziarno."
+    },
+    {
+      "front": "Zalety dmuchaw",
+      "back": "Prosta konstrukcja, regulowany kierunek transportu."
+    },
+    {
+      "front": "Wady dmuchaw",
+      "back": "Niska wydajność, rozdział materiału przy wylocie (cięższy bliżej)."
+    },
+    {
+      "front": "Kiedy wykonuje się konserwację?",
+      "back": "Podczas użytkowania i przed dłuższym przestojem (np. zimą)."
+    },
+    {
+      "front": "Zespoły szczególnie narażone na korozję",
+      "back": "Przenośniki łańcuchowe, noże tnące, aparaty wiążące pras, odkładnice, chwytaki sadzarki."
+    },
+    {
+      "front": "Najlepszy termin konserwacji antykorozyjnej po pracy",
+      "back": "1–3 dni po zakończeniu pracy."
+    },
+    {
+      "front": "Środki do mycia przed konserwacją",
+      "back": "Woda z detergentami, preparaty myjące, odrdzewiacze, rozcieńczalniki, benzyna ekstrakcyjna."
+    },
+    {
+      "front": "Jakie zanieczyszczenia przyspieszają korozję?",
+      "back": "Chemiczne – nawozy i środki ochrony roślin."
+    },
+    {
+      "front": "Co zdemontować przy przechowywaniu na otwartej przestrzeni?",
+      "back": "Akumulatory, pasy klinowe, łańcuchy napędowe, zespoły tnące, silniki elektryczne."
+    },
+    {
+      "front": "Jak zabezpieczyć supłacze pras?",
+      "back": "Oczyścić, osuszyć, pokryć preparatem antykorozyjnym i okryć folią."
+    },
+    {
+      "front": "Jak przechowywać pasy klinowe?",
+      "back": "Poluzowane lub zdjęte, na wieszakach w suchym, zacienionym miejscu."
+    },
+    {
+      "front": "Maszyny kołowe w czasie przechowywania",
+      "back": "Na podstawach, z obniżonym ciśnieniem w oponach."
+    },
+    {
+      "front": "Inhibitory",
+      "back": "Środki ochrony czasowej nasycające wkładki i papiery do pakowania części."
+    },
+    {
+      "front": "Konserwacja smarowa",
+      "back": "Pokrycie elementów smarami i olejami konserwującymi."
+    },
+    {
+      "front": "Fluidy",
+      "back": "Preparaty wodno-woskowo-olejowe do konserwacji bezsmarowej; hydrofobowe, łatwo usuwalne."
+    },
+    {
+      "front": "Rodzaje powłok metalowych",
+      "back": "Cynkowanie, cynowanie, niklowanie, chromowanie."
+    },
+    {
+      "front": "Zastosowanie powłok z tworzyw sztucznych",
+      "back": "Ochrona przed związkami chemicznymi – rurociągi, cysterny."
+    },
+    {
+      "front": "Najbardziej rozpowszechnione powłoki ochronne",
+      "back": "Farby, lakiery, emalie – tanie i skuteczne."
+    },
+    {
+      "front": "Jaki to rodzaj ciągnika?",
+      "back": "Ciągnik sadowniczy – mały rozstaw kół, mały promień skrętu, niska sylwetka (sady, winnice).",
+      "img": "img/tr7/ciagnik-sadowniczy.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj ciągnika?",
+      "back": "Ciągnik szczudłowy – duży prześwit, praca ponad rzędami roślin (szkółki, sady).",
+      "img": "img/tr7/ciagnik-szczudlowy.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj ciągnika?",
+      "back": "Ciągnik – nośnik narzędzi (dwuosiowy, silnik z tyłu, rama ze skrzynią z przodu).",
+      "img": "img/tr7/ciagnik-nosnik-narzedzi.jpg"
+    },
+    {
+      "front": "Jakie są konstrukcje ciągników wg liczby osi i napędu?",
+      "back": "Jednoosiowy (mikrociągnik); dwuosiowe: nośnik narzędzi, klasyczny (silnik z przodu, napęd na tylną oś), z napędem na cztery koła.",
+      "img": "img/tr7/konstrukcje-ciagnikow-tabela.jpg"
+    },
+    {
+      "front": "Jaki to środek transportu i do czego służy?",
+      "back": "Wózek widłowy unoszący ręczny – do przewożenia palet, skrzyń paletowych.",
+      "img": "img/tr7/wozek-widlowy-reczny.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj przenośnika?",
+      "back": "Przenośnik rolkowy – bezcięgnowy; rolki łożyskowane na ramie, spadek toru do 3%.",
+      "img": "img/tr7/przenosnik-rolkowy.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj przyczepy i jaka jest jej zaleta?",
+      "back": "Przyczepa jednoosiowa z kołami w układzie tandem – większa ładowność; jednoosiowe dociążają koła ciągnika i są zwrotniejsze.",
+      "img": "img/tr7/przyczepa-jednoosiowa-tandem.jpg"
+    },
+    {
+      "front": "Z jakich zespołów składa się ciągnik rolniczy?",
+      "back": "Silnik, mechanizmy przenoszące napęd, mechanizmy jezdne, układ sterowania (kierowniczy i hamulcowy), pomost sterowniczy.",
+      "img": "img/tr7/ciagnik-budowa-zespoly.jpg"
+    },
+    {
+      "front": "Jakie urządzenie przedstawia zdjęcie (bateria silosów)? Jaki przenośnik w niej pracuje?",
+      "back": "Baterię silosów z przenośnikiem czerpakowym w środku – transportuje ziarno pionowo do górnego punktu wylotowego, skąd jest rozdzielane do silosów.",
+      "img": "img/tr7/silosy-przenosnik-czerpakowy.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj przyczepy?",
+      "back": "Przyczepa dwuosiowa z nadstawkami (przednia oś skrętna na obrotnicy, tylna nieruchoma).",
+      "img": "img/tr7/przyczepa-dwuosiowa-nadstawki.jpg"
+    },
+    {
+      "front": "Jaki to środek transportu wewnętrznego?",
+      "back": "Wózek platformowy z wagą (wózek ręczny).",
+      "img": "img/tr7/wozek-platformowy-waga.jpg"
+    },
+    {
+      "front": "Jakie są skutki korozji powstającej w czasie przechowywania maszyn?",
+      "back": "Zmniejsza sprawność zespołów i może być przyczyną awarii – dlatego konserwuje się je w ciągu 1–3 dni po pracy.",
+      "img": "img/tr7/przyklady-korozji.jpg"
+    },
+    {
+      "front": "Etapy ochrony czasowej sprzętu",
+      "back": "Mycie, przygotowanie powierzchni (mycie, usuwanie korozji, odtłuszczanie), renowacja powłok malarskich, nakładanie preparatów, przechowywanie, kontrola stanu konserwacji, dekonserwacja i przygotowanie do pracy."
+    },
+    {
+      "front": "Czynności przed przechowaniem maszyn między sezonami",
+      "back": "Nasmarować punkty smarowania, uzupełnić olej w skrzyniach, poluzować lub zdjąć pasy klinowe, nasmarować łańcuchy i koła zębate, zabezpieczyć końcówki przewodów hydraulicznych, nasmarować tłoczyska siłowników, zakonserwować silniki, maszyny kołowe na podstawy z obniżonym ciśnieniem w oponach."
+    },
+    {
+      "front": "Sposoby ochrony czasowej metali",
+      "back": "Inhibitory, konserwacja smarowa, konserwacja bezsmarowa (fluidy)."
+    },
+    {
+      "front": "Ochrona trwała metali – rodzaje powłok",
+      "back": "Metalowe (cynkowanie, cynowanie, niklowanie, chromowanie), z tworzyw sztucznych, z farb, lakierów i emalii."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Przywóz nawozów i pasz do gospodarstwa to transport:",
+      "options": [
+        "zewnętrzny",
+        "wewnętrzny",
+        "międzyoperacyjny",
+        "polowy"
+      ],
+      "answer": 0,
+      "explain": "Transport zewnętrzny obejmuje przywóz środków produkcji i wywóz produktów."
+    },
+    {
+      "q": "W agregacie maszynowym ciągnik stanowi zespół:",
+      "options": [
+        "roboczy",
+        "transportowy",
+        "energetyczny",
+        "sterujący"
+      ],
+      "answer": 2,
+      "explain": "Ciągnik jest w agregacie zespołem energetycznym."
+    },
+    {
+      "q": "Skrót WOM oznacza:",
+      "options": [
+        "wał osi mostu",
+        "wałek odbioru mocy",
+        "wskaźnik obrotów maszyny",
+        "wyciąg obciążenia mechanicznego"
+      ],
+      "answer": 1,
+      "explain": "WOM to wałek odbioru mocy, przez który ciągnik oddaje energię."
+    },
+    {
+      "q": "Ciągnik przystosowany do terenów podmokłych, np. z gąsienicami, to ciągnik:",
+      "options": [
+        "szkółkarski",
+        "sadowniczy",
+        "leśny",
+        "melioracyjny"
+      ],
+      "answer": 3,
+      "explain": "Ciągniki melioracyjne pracują na terenach podmokłych, np. z gąsienicowymi mechanizmami jezdnymi."
+    },
+    {
+      "q": "Zmniejszony rozstaw osi, mała opływowa kabina i mały promień skrętu cechują ciągnik:",
+      "options": [
+        "melioracyjny",
+        "do prac ziemnych",
+        "uniwersalny",
+        "sadowniczy"
+      ],
+      "answer": 3,
+      "explain": "Tak opisuje się ciągnik do prac sadowniczych."
+    },
+    {
+      "q": "Mikrociągnikami nazywa się często ciągniki:",
+      "options": [
+        "dwuosiowe klasyczne",
+        "jednoosiowe",
+        "gąsienicowe",
+        "z napędem na cztery koła"
+      ],
+      "answer": 1,
+      "explain": "Ciągniki jednoosiowe nazywane są często mikrociągnikami."
+    },
+    {
+      "q": "Klasyczny ciągnik dwuosiowy ma:",
+      "options": [
+        "silnik z tyłu i napęd przedniej osi",
+        "silnik pośrodku i napęd gąsienicowy",
+        "silnik z przodu i napęd tylnej osi lub obu osi",
+        "silnik z przodu i napęd tylko przedniej osi"
+      ],
+      "answer": 2,
+      "explain": "Klasyczny układ: silnik z przodu, napędzana oś tylna lub dwie osie."
+    },
+    {
+      "q": "Skrót HDS oznacza:",
+      "options": [
+        "hydrauliczny dźwig samochodowy",
+        "hamulec dwuobwodowy samochodu",
+        "hydrauliczną dźwignię skrzyni",
+        "układ hydrauliki dla siłowników"
+      ],
+      "answer": 0,
+      "explain": "HDS – hydrauliczny dźwig samochodowy ułatwiający załadunek."
+    },
+    {
+      "q": "Charakterystyczną cechą wózków ręcznych jest:",
+      "options": [
+        "mała wydajność i duży nakład siły fizycznej",
+        "wysoka cena zakupu",
+        "duża wydajność",
+        "napęd akumulatorowy"
+      ],
+      "answer": 0,
+      "explain": "Wózki ręczne mają małą wydajność i wymagają dużego wysiłku, ale są tanie."
+    },
+    {
+      "q": "Big-bagi przewożone wózkami widłowymi mają masę:",
+      "options": [
+        "50–100 kg",
+        "2–3 t",
+        "500–1500 kg",
+        "5–10 t"
+      ],
+      "answer": 2,
+      "explain": "Big-bagi mają masę 500–1500 kg."
+    },
+    {
+      "q": "W przyczepie dwuosiowej przednia oś jest osadzona:",
+      "options": [
+        "nieruchomo",
+        "na obrotnicowym mechanizmie skrętu",
+        "na zaczepie ciągnika",
+        "w układzie tandem"
+      ],
+      "answer": 1,
+      "explain": "Przednia oś przyczepy dwuosiowej jest na obrotnicy, tylna – nieruchoma."
+    },
+    {
+      "q": "Przyczepa jednoosiowa dociąża tylne koła ciągnika, dzięki czemu:",
+      "options": [
+        "rośnie promień skrętu",
+        "maleje ładowność",
+        "rośnie zużycie paliwa",
+        "zmniejsza się ich poślizg"
+      ],
+      "answer": 3,
+      "explain": "Dociążenie kół tylnych zmniejsza ich poślizg."
+    },
+    {
+      "q": "Główną zaletą agregatu z przyczepą jednoosiową jest:",
+      "options": [
+        "możliwość ciągnięcia dwóch przyczep",
+        "większa prędkość na drodze",
+        "mniejszy nacisk na zaczep",
+        "znacznie większa zwrotność"
+      ],
+      "answer": 3,
+      "explain": "Agregat z przyczepą jednoosiową ma znacznie większą zwrotność i krótszy czas manewrów."
+    },
+    {
+      "q": "Do transportu na większe odległości stosuje się przyczepy dwuosiowe, ponieważ:",
+      "options": [
+        "mają większą zwrotność",
+        "jeden ciągnik może ciągnąć dwie przyczepy",
+        "dociążają koła ciągnika",
+        "nie wymagają hamulców"
+      ],
+      "answer": 1,
+      "explain": "Z jednym ciągnikiem można agregować dwie przyczepy dwuosiowe."
+    },
+    {
+      "q": "Układ podwójnych osi w przyczepie, zwiększający ładowność, to:",
+      "options": [
+        "obrotnica",
+        "wywrotka",
+        "tandem",
+        "nadstawka"
+      ],
+      "answer": 2,
+      "explain": "Podwójne osie to tzw. tandem."
+    },
+    {
+      "q": "Przyczepy samowyładowcze z przenośnikiem podłogowym służą głównie do przewozu:",
+      "options": [
+        "pasz objętościowych",
+        "nawozów płynnych",
+        "zwierząt",
+        "materiałów w paletach"
+      ],
+      "answer": 0,
+      "explain": "Wykorzystuje się je do słomy, zielonki, siana, sieczki z kukurydzy."
+    },
+    {
+      "q": "Przenośniki zgarniakowe mogą pracować pod kątem nieprzekraczającym:",
+      "options": [
+        "45°",
+        "15°",
+        "30°",
+        "90°"
+      ],
+      "answer": 0,
+      "explain": "Przenośniki zgarniakowe pracują pod kątem nieprzekraczającym 45°."
+    },
+    {
+      "q": "Do transportu ziarna w pionie w silosach stosuje się przenośniki:",
+      "options": [
+        "taśmowe",
+        "rolkowe",
+        "czerpakowe",
+        "ślizgowe"
+      ],
+      "answer": 2,
+      "explain": "Przenośniki czerpakowe przemieszczają materiał w pionie i w płaszczyźnie ukośnej."
+    },
+    {
+      "q": "Przenośniki ślimakowe pracują poziomo lub pod kątem do:",
+      "options": [
+        "10°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "answer": 1,
+      "explain": "Przenośniki ślimakowe pracują poziomo lub pod kątem do 30°."
+    },
+    {
+      "q": "Wadą przenośnika ślimakowego jest:",
+      "options": [
+        "brak możliwości pracy poziomej",
+        "bardzo skomplikowana budowa",
+        "rozdział materiału przy wylocie",
+        "wysoki stopień uszkodzeń transportowanego materiału"
+      ],
+      "answer": 3,
+      "explain": "Przenośnik ślimakowy powoduje dużo uszkodzeń materiału."
+    },
+    {
+      "q": "Do przenośników bezcięgnowych nie należy przenośnik:",
+      "options": [
+        "ślimakowy",
+        "wstrząsowy",
+        "rolkowy",
+        "taśmowy"
+      ],
+      "answer": 3,
+      "explain": "Przenośnik taśmowy jest cięgnowy; bezcięgnowe to ślizgowe, rolkowe, wstrząsowe, ślimakowe."
+    },
+    {
+      "q": "Przenośnik wstrząsowy wykorzystuje do przemieszczania materiału:",
+      "options": [
+        "strumień powietrza",
+        "bezwładność materiału przy ruchu posuwisto-zwrotnym",
+        "ślimak w rurze",
+        "kubełki na łańcuchu"
+      ],
+      "answer": 1,
+      "explain": "Ruchy posuwisto-zwrotne wykorzystują bezwładność materiału."
+    },
+    {
+      "q": "Przenośnik wstrząsowy stosuje się w:",
+      "options": [
+        "dojarniach",
+        "wozach asenizacyjnych",
+        "kombajnach zbożowych i czyszczalniach",
+        "przyczepach wywrotkach"
+      ],
+      "answer": 2,
+      "explain": "Przenośnik wstrząsowy transportuje ziarno, kłosy i słomę w kombajnach i czyszczalniach."
+    },
+    {
+      "q": "Przy dużej różnicy poziomów i małej przestrzeni stosuje się przenośniki ślizgowe:",
+      "options": [
+        "śrubowe",
+        "proste",
+        "rolkowe",
+        "taśmowe"
+      ],
+      "answer": 0,
+      "explain": "Przenośniki śrubowe stosuje się, bo proste musiałyby być bardzo długie."
+    },
+    {
+      "q": "Na przenośniku rolkowym towar przesuwa się samoczynnie przy spadku toru nieprzekraczającym:",
+      "options": [
+        "3%",
+        "1%",
+        "10%",
+        "25%"
+      ],
+      "answer": 0,
+      "explain": "Ruch samoczynny zachodzi przy spadku nieprzekraczającym 3%."
+    },
+    {
+      "q": "Czynnikiem pośredniczącym w dmuchawach jest:",
+      "options": [
+        "woda",
+        "olej",
+        "powietrze",
+        "grawitacja"
+      ],
+      "answer": 2,
+      "explain": "Dmuchawy wykorzystują powietrze jako czynnik pośredniczący."
+    },
+    {
+      "q": "Wadą transportu dmuchawą jest:",
+      "options": [
+        "skomplikowana konstrukcja",
+        "rozdział materiału – cięższy ląduje bliżej, lżejszy dalej",
+        "brak możliwości zmiany kierunku",
+        "duże uszkodzenia ziarna przez ślimak"
+      ],
+      "answer": 1,
+      "explain": "Wadami są niska wydajność i podział materiału przy wylocie."
+    },
+    {
+      "q": "Antykorozyjna konserwacja elementów roboczych jest najskuteczniejsza, gdy wykona się ją:",
+      "options": [
+        "tuż przed kolejnym sezonem",
+        "po 2 tygodniach od zakończenia pracy",
+        "po pojawieniu się nalotu korozji",
+        "w ciągu 1–3 dni po zakończeniu pracy"
+      ],
+      "answer": 3,
+      "explain": "Konserwacja jest najskuteczniejsza w ciągu 1–3 dni, zanim pojawi się nalot korozji."
+    },
+    {
+      "q": "Korozję szczególnie przyspieszają pozostałości:",
+      "options": [
+        "wody deszczowej",
+        "pyłu zbożowego",
+        "oleju silnikowego",
+        "nawozów i środków ochrony roślin"
+      ],
+      "answer": 3,
+      "explain": "Zanieczyszczenia chemiczne (nawozy, ŚOR) przyspieszają korozję."
+    },
+    {
+      "q": "Przy przechowywaniu maszyny na otwartej przestrzeni należy zdemontować m.in.:",
+      "options": [
+        "koła i ramę",
+        "akumulatory i pasy klinowe",
+        "skrzynię ładunkową",
+        "zaczep i hamulce"
+      ],
+      "answer": 1,
+      "explain": "Demontuje się akumulatory, pasy klinowe, łańcuchy, zespoły tnące, silniki elektryczne."
+    },
+    {
+      "q": "Pasy klinowe na okres przechowywania należy:",
+      "options": [
+        "mocno napiąć",
+        "nasmarować olejem",
+        "poluzować lub zdjąć i przechowywać na wieszakach w suchym, zacienionym miejscu",
+        "zostawić bez zmian na słońcu"
+      ],
+      "answer": 2,
+      "explain": "Pasy klinowe luzuje się lub zdejmuje i wiesza w suchym, zacienionym miejscu."
+    },
+    {
+      "q": "Maszyny kołowe przed przechowaniem należy:",
+      "options": [
+        "ustawić na podstawach i obniżyć ciśnienie w oponach",
+        "zostawić na kołach z podwyższonym ciśnieniem",
+        "zdjąć wszystkie koła i wyrzucić dętki",
+        "postawić na glebie"
+      ],
+      "answer": 0,
+      "explain": "Maszyny kołowe ustawia się na podstawach i obniża ciśnienie w oponach."
+    },
+    {
+      "q": "Preparaty wodno-woskowo-olejowe stosowane w konserwacji bezsmarowej to:",
+      "options": [
+        "fluidy",
+        "inhibitory",
+        "emalie",
+        "smary stałe"
+      ],
+      "answer": 0,
+      "explain": "W konserwacji bezsmarowej stosuje się fluidy – preparaty wodno-woskowo-olejowe."
+    },
+    {
+      "q": "Fluidy nadają się do maszyn przechowywanych na wolnym powietrzu, ponieważ są:",
+      "options": [
+        "trwałe jak lakier",
+        "aktywne chemicznie",
+        "hydrofobowe",
+        "przewodzące prąd"
+      ],
+      "answer": 2,
+      "explain": "Fluidy mają właściwości hydrofobowe – odpychają wodę."
+    },
+    {
+      "q": "Cynkowanie i chromowanie to przykłady ochrony:",
+      "options": [
+        "czasowej – inhibitory",
+        "trwałej – powłoki metalowe",
+        "czasowej – konserwacji smarowej",
+        "bezsmarowej"
+      ],
+      "answer": 1,
+      "explain": "Powłoki metalowe (cynkowanie, cynowanie, niklowanie, chromowanie) to ochrona trwała."
+    },
+    {
+      "q": "Powłoki z tworzyw sztucznych stosuje się głównie do ochrony:",
+      "options": [
+        "odkładnic pługa",
+        "łańcuchów napędowych",
+        "noży kosiarek",
+        "rurociągów i cystern przed związkami chemicznymi"
+      ],
+      "answer": 3,
+      "explain": "Powłoki z tworzyw chronią metal przed związkami chemicznymi (rurociągi, cysterny)."
+    },
+    {
+      "q": "Najbardziej rozpowszechnione powłoki ochronne to:",
+      "options": [
+        "powłoki niklowe",
+        "fluidy",
+        "inhibitory",
+        "farby, lakiery i emalie"
+      ],
+      "answer": 3,
+      "explain": "Powłoki z farb, lakierów i emalii są najbardziej rozpowszechnione ze względu na niski koszt."
+    },
+    {
+      "q": "Jaki rodzaj ciągnika przedstawia zdjęcie?",
+      "options": [
+        "Szczudłowy",
+        "Sadowniczy",
+        "Gąsienicowy",
+        "Nośnik narzędzi"
+      ],
+      "answer": 0,
+      "explain": "Ciągnik szczudłowy ma bardzo duży prześwit i pracuje ponad rzędami roślin.",
+      "img": "img/tr7/ciagnik-szczudlowy.jpg"
+    },
+    {
+      "q": "Jaki rodzaj przenośnika przedstawia ilustracja?",
+      "options": [
+        "Rolkowy",
+        "Taśmowy",
+        "Ślimakowy",
+        "Wstrząsowy"
+      ],
+      "answer": 0,
+      "explain": "Bieżnia z łożyskowanych rolek na ramie to przenośnik rolkowy (bezcięgnowy).",
+      "img": "img/tr7/przenosnik-rolkowy.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "W jaki sposób ciągnik oddaje energię użyteczną?",
+      "options": [
+        "Z wałka odbioru mocy.",
+        "Z zaczepu.",
+        "Przez zespół hydrauliki zewnętrznej.",
+        "Poprzez instalację pneumatyczną lub elektryczną."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTransport … polega na przemieszczaniu ładunków w obrębie gospodarstwa, pomiędzy polami lub w obrębie zabudowań gospodarstwa.",
+      "options": [
+        "zewnętrzny",
+        "wewnętrzny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCiągnik rolniczy połączony z narzędziem, maszyną lub przyczepą tworzy agregat maszynowy lub transportowy i stanowi w nim zespół energetyczny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiedy wykonanie konserwacji antykorozyjnej jest najskuteczniejsze?",
+      "options": [
+        "W ciągu 1–3 dni po zakończeniu pracy.",
+        "W ciągu 1–3 godzin po zakończeniu pracy.",
+        "W ciągu 1–3 tygodni po zakończeniu pracy.",
+        "Po zakończonym sezonie, przed okresem zimowym."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiągniki do prac … wyposażone są w urządzenia ułatwiające wykonywanie załadunku oraz wyciąganie drewna.",
+      "options": [
+        "leśnych",
+        "sadowniczych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzyczepy jednoosiowe są wykorzystywane przy przemieszczaniu materiałów na niewielkich odległościach, gdy duże znaczenie ma czas poświęcony na manewrowanie agregatem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z czego składa się ciągnik rolniczy?",
+      "options": [
+        "Z mechanizmów przenoszących napęd.",
+        "Z układu sterowania i pomostu sterowniczego.",
+        "Z silnika wytwarzającego energię mechaniczną.",
+        "Z mechanizmów jezdnych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiągniki do prac … wyposażone są w spychacze oraz koparki.",
+      "options": [
+        "melioracyjnych",
+        "ziemnych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPrzenośniki z czynnikiem pośredniczącym w rolnictwie wykorzystuje się do przenoszenia słomy, siana i ziarna. Są to najczęściej dmuchawy wykorzystujące powietrze jako czynnik pośredniczący.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki rodzaj przyczepy przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przyczepa dwuosiowa z nadstawkami.",
+        "Przyczepa dwuosiowa uniwersalna.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Przyczepa jednoosiowa z podwójnymi kołami w układzie tandem."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/tr7/samoewaluacja_10.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiągniki do prac … są przystosowane do wąskich międzyrzędzi, lekkie, o małym promieniu skrętu.",
+      "options": [
+        "szkółkarskich",
+        "sadowniczych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Samochody stosowane w rolnictwie można podzielić na:",
+      "options": [
+        "towarowo-osobowe.",
+        "osobowe.",
+        "ciężarowe ogólnego przeznaczenia.",
+        "dostawcze."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wózki ręczne są powszechnie stosowanym kołowym środkiem transportu wewnętrznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo przemieszczania większych ilości materiałów wykorzystuje się … samojezdne akumulatorowe i napędzane silnikami spalinowymi.",
+      "options": [
+        "wózki",
+        "ciągniki"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzyczepy rolnicze produkuje się w szerokim zakresie konstrukcyjnym, który uzależniony jest od ich przeznaczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pod jakim kątem mogą pracować przenośniki rolkowe?",
+      "options": [
+        "Nieprzekraczającym 3°.",
+        "Nieprzekraczającym 10°.",
+        "Nieprzekraczającym 5°.",
+        "Nieprzekraczającym 15°."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzenośniki … wykorzystuje się do przenoszenia materiałów sypkich, ziaren zbóż, ziemniaków, roślin okopowych lub materiałów w opakowaniach w płaszczyźnie poziomej lub pod niewielkim kątem.",
+      "options": [
+        "cięgnowe",
+        "taśmowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZabiegi konserwacyjne wykonuje się podczas użytkowania sprzętu rolniczego i przed dłuższym przestojem, najczęściej okresowym przechowywaniem, np. w trakcie trwania zimy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżnia się przenośniki bezcięgnowe?",
+      "options": [
+        "Ślizgowe.",
+        "Wstrząsowe.",
+        "Czerpakowe.",
+        "Ślimakowe.",
+        "Rolkowe."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Przenośniki … wykorzystuje się do przemieszczania materiałów sypkich, ziaren zbóż, roślin okopowych, pasz objętościowych oraz do usuwania odchodów stałych z budynków inwentarskich.",
+      "options": [
+        "czerpakowe",
+        "zgarniakowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed przystąpieniem do położenia nowych powłok antykorozyjnych, nie ma konieczności usuwania resztek starych powłok, usunąć jednak trzeba luźne produkty korozji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynności składają się na ochronę czasową?",
+      "options": [
+        "Renowacja powłok malarskich.",
+        "Przygotowanie powierzchni do konserwacji.",
+        "Przechowywanie sprzętu.",
+        "Nakładanie preparatów ochrony czasowej."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiągniki do prac … mają zmniejszony rozstaw osi, małą opływową kabinę, mały promień skrętu.",
+      "options": [
+        "sadowniczych",
+        "szkółkarskich"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKlasyczny układ ciągnika dwuosiowego to silnik umieszczony z przodu oraz napędzana tylna oś lub dwie osie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżnia się przenośniki cięgnowe?",
+      "options": [
+        "Taśmowe.",
+        "Rolkowe.",
+        "Zgarniakowe.",
+        "Czerpakowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nSamochody służą głównie do przewożenia osób i towarów na znaczne odległości. Dzięki innej budowie mechanizmów napędowych osiągają one dużo większe prędkości na drogach od ciągników rolniczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWykonanie konserwacji … polega na pokryciu elementów maszyn, połączeń mechanicznych, zespołów roboczych odpowiednimi smarami i olejami konserwującymi.",
+      "options": [
+        "smarowej",
+        "antykorozyjnej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pod jakim kątem mogą pracować przenośniki zgarniakowe?",
+      "options": [
+        "Nieprzekraczającym 35°.",
+        "Nieprzekraczającym 65°.",
+        "Nieprzekraczającym 45°.",
+        "Nieprzekraczającym 30°."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo przewozu materiałów umieszczonych na paletach, w skrzyniach paletowych lub dużych workach, tzw. big-bagach o masie 500–1500 kg, wykorzystuje się ….",
+      "options": [
+        "wózki widłowe",
+        "przenośniki taśmowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPrzed przystąpieniem do zabezpieczenia przed korozją należy starannie usunąć zanieczyszczenia. W tym celu wykorzystuje się wodę z detergentami, preparaty do mycia, odrdzewiacze, rozcieńczalniki oraz benzynę ekstrakcyjną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzyczepy jednoosiowe ze strony tylnej części skrzyni ładunkowej są podparte na osi, a z przedniej części, na zaczepie ciągnika, dociążając koła tylne ciągnika, dzięki czemu zmniejszają ich poślizg.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki środek transportu przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Wózek platformowy z wagą.",
+        "Wózek widłowy unoszący ręczny.",
+        "Wózek widłowy unoszący prowadzony."
+      ],
+      "answers": [
+        1
+      ],
+      "img": "img/tr7/samoewaluacja_32.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzenośniki ślimakowe wykorzystuje się do przemieszczania materiałów sypkich na niewielkie odległości, poziomo lub pod kątem do …°.",
+      "options": [
+        "30",
+        "45"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie przenośniki wykorzystuje się do załadunku i wyładunku kołowych środków transportu w gospodarstwie rolnym?",
+      "options": [
+        "Z czynnikiem pośredniczącym.",
+        "Nie wykorzystuje się przenośników.",
+        "Cięgnowe.",
+        "Bezcięgnowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzenośniki … wykorzystuje się do przemieszczania materiałów w pionie i płaszczyźnie ukośnej.",
+      "options": [
+        "cięgnowe",
+        "czerpakowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przenośniki ślimakowe wykorzystuje się w kombajnach zbożowych przy przenoszeniu ziarna z przenośnika cięgnowego do zbiornika oraz do przenoszenia ziarna ze zbiornika na kołowe środki transportu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki środek transportu przedstawiony jest na zdjęciu?",
+      "options": [
+        "Wózek widłowy unoszący ręczny.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Wózek widłowy unoszący prowadzony.",
+        "Wózek platformowy z wagą."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr7/samoewaluacja_37.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDobre efekty mycia maszyn i urządzeń rolniczych można uzyskać poprzez zastosowanie myjek ….",
+      "options": [
+        "niskociśnieniowych",
+        "wysokociśnieniowych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy dużych różnicach poziomów i małej przestrzeni wykorzystuje się przenośniki śrubowe, ponieważ przenośniki proste musiałby być bardzo długie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki rodzaj przyczepy przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przyczepa jednoosiowa z podwójnymi kołami w układzie tandem.",
+        "Przyczepa dwuosiowa z nadstawkami.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Przyczepa dwuosiowa uniwersalna."
+      ],
+      "answers": [
+        1
+      ],
+      "img": "img/tr7/samoewaluacja_40.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOchrona czasowa polega na zmniejszeniu wpływu środowiska na metal poprzez stosowanie zabezpieczeń podczas transportu, przechowywania czy też przerw w pracy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPowłoki z … stosuje się do zabezpieczeń metalu przed działaniem związków chemicznych.",
+      "options": [
+        "farb, lakierów i emalii",
+        "tworzyw sztucznych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki rodzaj przyczepy przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przyczepa dwuosiowa uniwersalna.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Przyczepa jednoosiowa z podwójnymi kołami w układzie tandem.",
+        "Przyczepa dwuosiowa z nadstawkami."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/tr7/samoewaluacja_43.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy transporcie na większe odległości wykorzystuje się przyczepy …, ponieważ z jednym ciągnikiem można agregatować dwie przyczepy, dzięki czemu jednorazowo możemy transportować większe ilości materiału.",
+      "options": [
+        "jednoosiowe",
+        "dwuosiowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWadą stosowania przenośnika ślimakowego jest wysoki stopień uszkodzeń materiału transportowanego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jaki środek transportu przedstawiony jest na zdjęciu?",
+      "options": [
+        "Wózek widłowy unoszący prowadzony.",
+        "Wózek platformowy z wagą.",
+        "Wózek widłowy unoszący ręczny.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr7/testwiedzy_1.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nJednym z kryteriów podziału przyczep jest liczba osi kół. Rozróżnia się przyczepy dwuosiowe i jednoosiowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki rodzaj przyczepy przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przyczepa dwuosiowa uniwersalna.",
+        "Przyczepa jednoosiowa z podwójnymi kołami w układzie tandem.",
+        "Przyczepa jednoosiowa z hydraulicznym wychyleniem skrzyni.",
+        "Przyczepa dwuosiowa z nadstawkami."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr7/testwiedzy_3.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAby zwiększyć ładowność przyczep, stosuje się podwójne osie, tzw. tandem, lub potrójne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzyczepy dwuosiowe posiadają przednią oś umieszczoną na obrotnicowym mechanizmie skrętu, a oś tylna jest osadzona nieruchomo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie najczęściej wykorzystuje się przenośniki ślimakowe?",
+      "options": [
+        "W silosach zbożowych.",
+        "W kombajnach zbożowych.",
+        "W suszarniach.",
+        "W mieszalnikach pasz."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie ciągniki wyposażone są w urządzenia ułatwiające np. załadunek i wyciąganie drewna?",
+      "options": [
+        "Do prac melioracyjnych.",
+        "Do prac sadowniczych.",
+        "Do prac szkółkarskich.",
+        "Do prac leśnych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚrodków ochrony czasowej sprzętu rolniczego nie stosuje się do antykorozyjnej konserwacji w okresach między sezonami pracy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki rodzaj przenośnika przedstawiony jest na zdjęciu?",
+      "options": [
+        "Przenośnik ślimakowy.",
+        "Przenośnik z czynnikiem pośredniczącym.",
+        "Przenośnik ślizgowy.",
+        "Przenośnik rolkowy."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/tr7/testwiedzy_9.jpg"
+    },
+    {
+      "q": "Jakie podzespoły należy (w miarę możliwości) zdemontować, jeżeli sprzęt rolniczy jest przechowywany przez dłuższy okres spoczynku na otwartej przestrzeni?",
+      "options": [
+        "Silniki elektryczne.",
+        "Akumulatory.",
+        "Łańcuchy napędowe, pasy klinowe.",
+        "Zespoły tnące."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczególnie ważne jest oczyszczenie maszyn i urządzeń z zanieczyszczeń chemicznych, które przyśpieszają proces korozji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zespoły i części maszyn powinny zostać poddane konserwacji antykorozyjnej w okresach między sezonami pracy?",
+      "options": [
+        "Noże tnące.",
+        "Aparaty wiążące pras.",
+        "Zespoły chwytakowe sadzarki.",
+        "Przenośniki łańcuchowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie ciągniki przystosowane są do prac na terenach podmokłych, np. wyposażone w gąsienicowe mechanizmy jezdne?",
+      "options": [
+        "Do prac szkółkarskich.",
+        "Do prac melioracyjnych.",
+        "Do prac sadowniczych.",
+        "Do prac leśnych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOchronne powłoki z farb, lakierów i emalii są bardzo rozpowszechnione ze względu na niewielki koszt zastosowania oraz możliwość uzyskania dobrych powłok antykorozyjnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie materiały najczęściej transportuje się za pomocą przenośnika wstrząsowego (wibracyjnego)?",
+      "options": [
+        "Jabłka.",
+        "Słomę.",
+        "Ziarno.",
+        "Kłosy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie ciągniki przystosowane są do wąskich międzyrzędzi, lekkie, o małym promieniu skrętu?",
+      "options": [
+        "Do prac szkółkarskich.",
+        "Do prac leśnych.",
+        "Do prac sadowniczych.",
+        "Do prac melioracyjnych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPrzenośniki ślizgowe wykorzystują siłę grawitacji do przemieszczania materiałów w dół. Najczęściej są wykonane z gładkich materiałów o niskim współczynniku tarcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKorozja powstająca w okresie przechowywania zespołów i części maszyn, w których w czasie pracy następuje niszczenie powłoki antykorozyjnej poprzez obrabiany materiał lub glebę, zmniejsza ich sprawność i może być przyczyną awarii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przyczepy dwuosiowe są to najczęściej wywrotki z hydraulicznym podnoszeniem skrzyni ładunkowej na boki lub do tyłu oraz przyczepy samowyładowcze z przenośnikami podłogowymi wykorzystywane głównie do transportu pasz objętościowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych rodzajów ciągników są jednoosiowe?",
+      "options": [
+        "Mikrociągniki.",
+        "Klasyczne ciągniki rolnicze.",
+        "Ciągniki – nośniki narzędzi.",
+        "Nie ma takich ciągników."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżnia się przenośniki bezcięgnowe?",
+      "options": [
+        "Wstrząsowe.",
+        "Czerpakowe.",
+        "Ślizgowe.",
+        "Rolkowe.",
+        "Ślimakowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzenośniki bezcięgnowe charakteryzują się brakiem cięgna napędowego lub nośnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCechą charakterystyczną wózków ręcznych jest duża wydajność i mały nakład siły fizycznej obsługującego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych prac należy wykonać przed przystąpieniem do przechowania maszyn między sezonami?",
+      "options": [
+        "Zakonserwować silniki spalinowe.",
+        "Nasmarować łańcuchy i koła zębate.",
+        "Uzupełnić ciśnienie powietrza w oponach do ciśnienia roboczego.",
+        "Napełnić odpowiednim smarem wszystkie punkty smarowania."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do jakich prac wykorzystuje się ciągniki uniwersalne?",
+      "options": [
+        "Do prac sadowniczych.",
+        "Do zabiegów uprawowych.",
+        "Do siewu.",
+        "Do transportu."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przed przystąpieniem do przechowania maszyn między sezonami nie ma konieczności sprawdzania i uzupełniania poziomu oleju w skrzyniach przekładniowych maszyn.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwrotność agregatu z przyczepą jednoosiową jest znacznie większa od przyczepy dwuosiowej, dzięki czemu skraca się znacznie czas manewrowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie mechanizmy jezdne występują w ciągnikach?",
+      "options": [
+        "Szynowe.",
+        "Płozowe.",
+        "Kołowe.",
+        "Gąsiennicowe."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przenośniki cięgnowe w celu przemieszczenia materiału wykorzystują cięgna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPrzed przystąpieniem do położenia nowych powłok antykorozyjnych, należy usunąć resztki starych powłok oraz luźnych produktów korozji. Konieczne jest także wyszlifowanie części aż do uzyskania czystej powierzchni bez śladów korozji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie wykorzystuje się przenośniki czerpakowe?",
+      "options": [
+        "W silosach zbożowych.",
+        "W sortowniach.",
+        "W suszarniach.",
+        "W kombajnach."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakich środków używa się do konserwacji bezsmarowej polegającej na zmniejszeniu wpływu środowiska na metal?",
+      "options": [
+        "Farb.",
+        "Inhibitorów.",
+        "Powłok z tworzyw.",
+        "Fluidów."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPrzy transporcie na większe odległości wykorzystuje się zespoły przyczep jednoosiowych. Z jednym ciągnikiem można agregatować dwie i więcej przyczep, dzięki czemu jednorazowo możemy transportować większe ilości materiału.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki rodzaj ciągnika przedstawiony jest na zdjęciu?",
+      "options": [
+        "Ciągnik do prac szkółkarskich.",
+        "Klasyczny ciągnik rolniczy.",
+        "Mikrociągnik.",
+        "Ciągnik – nośnik narzędzi."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/tr7/testwiedzy_34.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamochody transportowe mogą być wyposażone, np. w urządzenia ułatwiające załadunek i rozładunek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

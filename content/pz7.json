@@ -1,0 +1,1831 @@
+{
+  "id": "pz7",
+  "course": "Produkcja zwierzęca",
+  "title": "Organizacja prac porządkowych w pomieszczeniach gospodarskich",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Wymagania zwierząt (warunki dobrostanu) są opisane przepisami prawa; zapewnienie komfortu psychicznego i fizycznego oraz pięciu podstawowych wolności zwiększa możliwości produkcyjne.",
+        "Czynniki opłacalności chowu: wysokiej jakości materiał genetyczny, prawidłowe i dostateczne żywienie, warunki utrzymania dostosowane do gatunku/grupy, mikroklimat, higiena zwierząt, pomieszczeń i wyposażenia.",
+        "Główny cel czynności porządkowych – zachowanie higieny wnętrza budynku i zwierząt, co przekłada się na zdrowie, produkcyjność i wyniki ekonomiczne.",
+        "Właściwa higiena pomieszczeń ogranicza rozwój patogenów i zabezpiecza przed czynnikami zakaźnymi.",
+        "GHP (Good Hygiene Practices) – „dobra praktyka higieniczna”: działania i warunki higieniczne na wszystkich etapach produkcji i obrotu, służące bezpieczeństwu żywności."
+      ]
+    },
+    {
+      "heading": "1. Codzienne czynności porządkowe – podział i zakres",
+      "points": [
+        "Ze względu na częstotliwość czynności porządkowe dzieli się na codzienne i okresowe.",
+        "Codzienne czynności są podobne dla wszystkich gatunków; u krów rozszerza się je o higienę sprzętu udojowego i hali udojowej.",
+        "Podstawowe czynności codzienne: czyszczenie karmideł i poideł, usuwanie obornika, mycie urządzeń udojowych, mycie hali udojowej, mycie posadzek rusztowych.",
+        "Karmidła i poidła czyści się codziennie, w zasadzie po każdym zadaniu paszy.",
+        "Nie wolno dopuszczać do zalegania niedojadów – psują się i rozwijają się w nich drobnoustroje chorobotwórcze.",
+        "Sprzęt do codziennego czyszczenia: łopaty, miotły, wiadra, ścierki, woda.",
+        "W poidłach zawsze musi być czysta i świeża woda.",
+        "Sposób i przyrządy do czyszczenia karmideł i poideł zależą od sposobu zadawania pasz i pojenia zwierząt."
+      ]
+    },
+    {
+      "heading": "1. Usuwanie obornika, mycie urządzeń udojowych i ruszt",
+      "points": [
+        "Obornik usuwa się ze względów higienicznych i estetycznych.",
+        "Na płytkiej ściółce usuwanie obornika jest czynnością codzienną, na głębokiej – okresową.",
+        "Metody: najstarsza – widły, łopata i taczka na płytę obornikową; nowsze – wyciągi gnojowe, zgarniaki wypychające obornik na zewnątrz.",
+        "Higiena urządzeń udojowych decyduje o jakości mleka i ograniczeniu chorób wymienia; mycie musi być systematyczne i dokładne.",
+        "Do mycia urządzeń udojowych stosuje się najpowszechniej wodę, także specjalne płyny; sposób zależy od technologii pozyskiwania mleka.",
+        "Firmy oferują usługi mycia urządzeniami wysokociśnieniowymi z aktywnymi płynami, kwaśnymi lub zasadowymi pianami.",
+        "Przy bezściołowym utrzymaniu na rusztach nie uzyskuje się obornika – odchody gromadzą się w zbiornikach pod rusztami.",
+        "Odchody z wodą z czyszczenia ruszt tworzą gnojowicę; ruszta myje się myjkami ciśnieniowymi.",
+        "Mycie urządzeń udojowych musi być systematyczne i dokładne, by nie dopuścić do nadmiernego rozwoju szkodliwych mikroorganizmów; ruszta myte myjkami ciśnieniowymi – odchody spłukiwane są do zbiornika, gdzie gromadzi się je przez określony czas."
+      ]
+    },
+    {
+      "heading": "1. Codzienne czynności dla poszczególnych gatunków (tabela 7.1)",
+      "points": [
+        "Bydło: czyszczenie poideł i karmideł (łopata, miotła); usuwanie obornika lub spłukiwanie ruszt (wąż, woda, zgarniak łańcuchowo-listwowy, widły, taczka, łopata); zamiatanie korytarzy; higiena sprzętu udojowego.",
+        "Konie: czyszczenie poideł i karmideł; usuwanie obornika (widły, taczka, łopata); zamiatanie korytarzy.",
+        "Trzoda chlewna: usuwanie niedojadów, czyszczenie sprzętu do przygotowania pasz; usuwanie obornika, ścielenie lub spłukiwanie ruszt; zamiatanie korytarzy.",
+        "Owce i kozy: usuwanie niedojadów, czyszczenie sprzętu do pasz; usuwanie odchodów okresowo; higiena sprzętu udojowego, zamiatanie korytarzy.",
+        "Kury i drób wodny: codziennie tylko higiena poideł i karmideł; odchody usuwa się okresowo; pozostałych czynności codziennie się nie wykonuje.",
+        "Sprzęt wg tabeli 7.1: bydło i konie – czyszczenie poideł i karmideł łopatą i miotłą; zamiatanie korytarzy – miotła, łopata, taczka; higiena sprzętu udojowego u bydła – specjalistyczne środki, ścierki.",
+        "Trzoda chlewna oraz owce i kozy – usuwanie niedojadów i czyszczenie sprzętu do przygotowania pasz: łopata, widły; u trzody sprzątanie korytarzy – miotła; u owiec i kóz higiena sprzętu udojowego i zamiatanie – miotła, ścierka, wiadro z wodą.",
+        "Usuwanie odchodów i spłukiwanie ruszt u bydła i trzody zależy od systemu utrzymania; sprzęt: wąż gumowy, woda, zgarniak łańcuchowo-listwowy, widły, taczka, łopata (u trzody dodatkowo ścielenie)."
+      ],
+      "images": [
+        {
+          "src": "img/pz7/tabela-7-1-codzienne-czynnosci.jpg",
+          "caption": "Tabela 7.1. Codzienne czynności związane z utrzymaniem higieny w pomieszczeniach dla różnych gatunków zwierząt gospodarskich (bydło, konie, trzoda chlewna, owce i kozy, kury, drób wodny) – czynności i sprzęt."
+        }
+      ]
+    },
+    {
+      "heading": "2. Okresowe czynności – obornik z głębokiej ściółki i dezynfekcja",
+      "points": [
+        "Czynności okresowe: usuwanie obornika, dezynfekcja, dezynsekcja, deratyzacja, mycie okien, zamiatanie korytarzy, omiatanie pajęczyn i odkurzanie ścian, konserwacja urządzeń.",
+        "Na głębokiej ściółce obornik gromadzi się przez określony czas, zależnie od gatunku i intensywności chowu.",
+        "Obornik z głębokiej ściółki usuwa się, gdy zwierzęta opuszczą budynek – zasada cpp (całe pomieszczenie puste); prace są łatwiejsze i bezpieczniejsze.",
+        "Dezynfekcja – usuwanie drobnoustrojów chorobotwórczych z posadzek, ścian i wyposażenia; często po usunięciu obornika.",
+        "Kolejność dezynfekcji: umycie powierzchni, odczekanie do wyschnięcia, zastosowanie środka dezynfekującego.",
+        "Tańszą alternatywą dla środków specjalistycznych jest wapno – działa bakteriobójczo i nadaje wnętrzu estetyczny wygląd.",
+        "Profilaktyczną dezynfekcję pomieszczeń inwentarskich wykonuje się przynajmniej raz w roku."
+      ]
+    },
+    {
+      "heading": "2. Dezynsekcja i deratyzacja",
+      "points": [
+        "Dezynsekcja – zwalczanie insektów (owadów), które mogą przenosić choroby zwierząt.",
+        "Największa uciążliwość owadów – od wiosny do jesieni, zwłaszcza latem.",
+        "Preparaty do spryskiwania stosuje się na powierzchniach niedostępnych dla zwierząt (okna, futryny drzwi); ponadto spraye, taśmy lepiące, lampy owadobójcze.",
+        "Całkowite wyeliminowanie owadów jest niemożliwe, ale preparaty znacznie ograniczają inwazję.",
+        "Deratyzacja – zwalczanie gryzoni; najczęściej myszy i szczurów, występujących głównie w budynkach adaptowanych na magazyny pasz.",
+        "Deratyzację prowadzi się skrupulatnie; zwierzęta gospodarskie nie mogą mieć dostępu do środków gryzoniobójczych.",
+        "Można stosować naturalne (biologiczne) metody zwalczania gryzoni.",
+        "Intensywność deratyzacji (podobnie jak dezynsekcji) zależy od ilości czynnika inwazyjnego, czyli gryzoni; tylko skrupulatna deratyzacja daje zamierzone efekty.",
+        "Dezynsekcja należy do czynności okresowych związanych z temperaturą powietrza."
+      ]
+    },
+    {
+      "heading": "2. Pozostałe czynności okresowe",
+      "points": [
+        "Mycie okien – częstotliwość zależy od zabrudzenia; zaleca się przynajmniej dwa razy w roku.",
+        "Czyste okna zwiększają ilość światła naturalnego; światło m.in. stymuluje ruję u niektórych samic.",
+        "Do mycia okien: ścierki lub ręczniki jednorazowe i środki do szyb; okna nieszklane – środki specjalistyczne.",
+        "Zamiatanie korytarzy – najczęstsza z czynności okresowych; częstotliwość dostosowuje hodowca; cel – estetyka i usunięcie zanieczyszczeń i resztek paszy.",
+        "Omiatanie pajęczyn i odkurzanie ścian w pomieszczeniach dla dużych zwierząt – raz na 2–3 miesiące (szczotki na długich kijach, odkurzacze przemysłowe).",
+        "Konserwacja urządzeń – wczesne wykrycie usterek (oszczędność na naprawach) i przedłużenie użytkowania; najlepsza konserwacja to codzienna higiena i właściwa obsługa.",
+        "W konserwacji urządzeń stosuje się różnego rodzaju preparaty."
+      ]
+    },
+    {
+      "heading": "3. Systemy utrzymania a usuwanie odchodów",
+      "points": [
+        "Częstotliwość usuwania odchodów zależy od gatunku, liczby zwierząt i systemu utrzymania.",
+        "Systemy ściołowe: płytka lub głęboka ściółka; systemy bezściołowe: rusztowe.",
+        "Najkorzystniejszy jest system ściołowy – ogranicza negatywny wpływ na środowisko i poprawia dobrostan.",
+        "Prawidłowo składowany, przechowywany i stosowany obornik nie zagraża środowisku.",
+        "OBORNIK = ściółka + kał + mocz.",
+        "System ściołowy jest pracochłonny – codzienne usuwanie odchodów i ścielenie.",
+        "Posadzki samospławialne – obornik przesuwa się samoczynnie do kanału gnojowego dzięki ruchowi zwierząt i nachyleniu posadzki 8–10°; mniejsza pracochłonność i zużycie ściółki.",
+        "Obornik z kanału należy jak najszybciej usunąć na płytę gnojową, by ograniczyć emisję CO2, amoniaku (NH3) i siarkowodoru (H2S)."
+      ],
+      "images": [
+        {
+          "src": "img/pz7/obornik-gazy.jpg",
+          "caption": "Obornik zalegający w kanale gnojowym wydziela szkodliwe gazy: amoniak (NH₃), dwutlenek węgla (CO₂) i siarkowodór (H₂S) – dlatego trzeba go jak najszybciej usunąć na płytę gnojową."
+        },
+        {
+          "src": "img/pz7/systemy-utrzymania-schemat.jpg",
+          "caption": "Systemy utrzymania zwierząt: ściołowe (głęboka ściółka, płytka ściółka) i bezściołowe (rusztowe)."
+        },
+        {
+          "src": "img/pz7/przenosnik-ruch-ciagly-schemat.jpg",
+          "caption": "Przenośnik o ruchu ciągłym – mechanicznie przesuwa obornik wzdłuż stanowisk i wyrzuca go pochylnią na przyczepę. Alternatywą są posadzki samospławialne (nachylenie 8–10°, obornik przesuwany ruchem zwierząt do kanału gnojowego)."
+        },
+        {
+          "src": "img/pz7/posadzki-samosplawialne.jpg",
+          "caption": "Samospławialne posadzki – alternatywa dla pracochłonnego systemu ściołowego: obornik przesuwa się samoczynnie w kierunku kanału gnojowego w wyniku poruszania się zwierząt po posadzce o dużym nachyleniu (8–10°)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Płyta gnojowa, zbiorniki i terminy nawożenia",
+      "points": [
+        "Płyta gnojowa musi być dostosowana do liczby zwierząt i pomieścić obornik przez 6 miesięcy na obszarach OSN (szczególnie narażonych na azotany pochodzenia rolniczego).",
+        "Poza OSN – przez 4 miesiące (gospodarstwa wielkotowarowe i inne).",
+        "Na 1 DJP: ok. 3,5 m² płyty, 10 m³ zbiornika na gnojowicę i 2,5 m³ zbiornika na gnojówkę.",
+        "Nawozy naturalne (płynne i stałe) stosuje się na pola wyłącznie od 1 marca do 30 listopada.",
+        "Obornik przechowuje się na nieprzepuszczalnym podłożu lub płycie z instalacją odprowadzającą ścieki do zbiorników.",
+        "Nawozy płynne, gdy nie można ich użyć, gromadzi się w szczelnych zbiornikach.",
+        "Składowanie nawozów naturalnych reguluje zasada wzajemnej zgodności (cross compliance) w obszarze A, obowiązująca od 1 stycznia 2009 r."
+      ]
+    },
+    {
+      "heading": "3. Głęboka ściółka i system bezściołowy",
+      "points": [
+        "Na głębokiej ściółce obornik usuwa się okresowo, najlepiej po zakończonym cyklu produkcyjnym; system mniej pracochłonny, ale wymaga więcej ściółki.",
+        "Rodzaje ściółki: słoma, trociny, torf, piasek (dla bydła), liście drzew.",
+        "Z głębokiej ściółki można odzyskiwać ciepło do ogrzewania innych pomieszczeń.",
+        "System bezściołowy (posadzki rusztowe) jest najmniej pracochłonny, ale problemem jest utylizacja gnojowicy.",
+        "Gnojowicę gromadzi się w szczelnych zbiornikach; długie przechowywanie tworzy twardą warstwę wierzchnią – zaleca się mieszanie mieszadłami raz w tygodniu.",
+        "Zbiornik na gnojowicę musi mieścić odchody przez 4–6 miesięcy (Kodeks Dobrej Praktyki Rolniczej – KDPR).",
+        "Twarda warstwa wierzchnia tworząca się w zbiorniku gnojowicy utrudnia wywóz nawozu."
+      ],
+      "images": [
+        {
+          "src": "img/pz7/rodzaje-sciolki.jpg",
+          "caption": "Rodzaje ściółki: słoma, trociny, torf, piasek (dla bydła), liście drzew."
+        }
+      ]
+    },
+    {
+      "heading": "3. Planowanie usuwania obornika",
+      "points": [
+        "Najważniejsze czynności: ustalenie systemu utrzymania, ustalenie liczby zwierząt, dostosowanie powierzchni płyty i pojemności zbiorników na gnojowicę i gnojówkę, uwzględnienie pory roku i pogody, znajomość zasad KDPR.",
+        "Planowanie usuwania odchodów wiąże się z możliwością ich zagospodarowania – najczęściej jako nawóz naturalny wywożony na pola."
+      ]
+    },
+    {
+      "heading": "4. Pomieszczenia towarzyszące",
+      "points": [
+        "Pomieszczenia pomocnicze: paszarnia/magazyn pasz, izolatka, pomieszczenie socjalne, zlewnia mleka/hala udojowa, pomieszczenie do strzyży, magazyn wełny, magazyn jaj, magazyn pierza.",
+        "Paszarnia służy do magazynowania i przygotowania pasz; magazyn pasz najlepiej jak najbliżej paszarni.",
+        "Porządkowanie paszarni nie może zanieczyszczać pasz; po opróżnieniu magazynu – dezynfekcja przynajmniej raz w roku; brak dostępu ptaków (jaskółki) i kotów.",
+        "Izolatka – dla zwierząt chorych lub podejrzanych o chorobę, by zapobiec rozprzestrzenianiu; zwierzęta z zakupu przebywają w niej przez tydzień (aklimatyzacja).",
+        "Izolatka musi być sterylna; dezynfekuje się ją przed i po pobycie zwierząt; świeża ściółka, czyste poidła i karmidła.",
+        "Zlewnia mleka – przy doju dojarkami przewodowymi (głównie systemy uwięziowe); hala udojowa – przy systemach wolnostanowiskowych; wpływają na jakość mleka.",
+        "Pomieszczenie do strzyży – tylko w hodowli owiec; wyposażone, zakonserwowane, sterylne; rzadko używane, więc służy też innym celom.",
+        "Pomieszczenie socjalne – w każdym budynku; przebieranie się w odzież roboczą ogranicza przenoszenie chorób; pozwala obserwować zwierzęta w czasie porodu lub rui.",
+        "Czynności porządkowe w pomieszczeniach pomocniczych są równie istotne jak w pomieszczeniu głównym, gdzie przebywają zwierzęta.",
+        "Niektóre budynki mają oddzielne miejsca do przechowywania i do przygotowywania pasz; magazyn pasz może być w oddzielnym budynku.",
+        "Izolatka jest niezbędna w budynku inwentarskim każdego rodzaju.",
+        "Strzyża – zabieg polegający na pozyskiwaniu wełny.",
+        "Porządek w pomieszczeniu socjalnym polega zwyczajnie na utrzymaniu w nim czystości."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Główny cel czynności porządkowych w pomieszczeniach inwentarskich",
+      "back": "Zachowanie higieny wnętrza budynku oraz zwierząt."
+    },
+    {
+      "front": "Co daje właściwa higiena pomieszczeń dla zwierząt?",
+      "back": "Ogranicza rozwój patogenów i zabezpiecza przed czynnikami zakaźnymi."
+    },
+    {
+      "front": "GHP",
+      "back": "Good Hygiene Practices – dobra praktyka higieniczna; działania i warunki higieniczne dla bezpieczeństwa żywności."
+    },
+    {
+      "front": "Czynniki decydujące o opłacalności chowu (5)",
+      "back": "Materiał genetyczny, żywienie, warunki utrzymania, mikroklimat, higiena zwierząt i pomieszczeń."
+    },
+    {
+      "front": "Podział czynności porządkowych wg częstotliwości",
+      "back": "Codzienne i okresowe."
+    },
+    {
+      "front": "Podstawowe codzienne czynności porządkowe (5)",
+      "back": "Czyszczenie karmideł i poideł, usuwanie obornika, mycie urządzeń udojowych, mycie hali udojowej, mycie posadzek rusztowych."
+    },
+    {
+      "front": "Jak często czyścić karmidła i poidła?",
+      "back": "Codziennie, w zasadzie po każdym zadaniu paszy."
+    },
+    {
+      "front": "Niedojady – dlaczego nie mogą zalegać?",
+      "back": "Psują się i rozwijają się w nich drobnoustroje będące źródłem chorób."
+    },
+    {
+      "front": "Sprzęt do codziennego czyszczenia karmideł",
+      "back": "Łopaty, miotły, wiadra, ścierki, woda."
+    },
+    {
+      "front": "Kiedy usuwanie obornika jest czynnością codzienną?",
+      "back": "Przy utrzymaniu na płytkiej ściółce."
+    },
+    {
+      "front": "Kiedy usuwanie obornika jest czynnością okresową?",
+      "back": "Przy utrzymaniu na głębokiej ściółce."
+    },
+    {
+      "front": "Najstarsza metoda usuwania obornika",
+      "back": "Widły, łopata i taczka – wywożenie na płytę obornikową."
+    },
+    {
+      "front": "Mechaniczne sposoby usuwania obornika",
+      "back": "Wyciągi gnojowe, zgarniaki wypychające obornik na zewnątrz."
+    },
+    {
+      "front": "O czym decyduje higiena urządzeń udojowych?",
+      "back": "O jakości mleka i ograniczeniu chorób wymienia."
+    },
+    {
+      "front": "Usługi mycia urządzeń udojowych oferowane przez firmy",
+      "back": "Urządzenia wysokociśnieniowe, aktywne płyny, kwaśne lub zasadowe piany."
+    },
+    {
+      "front": "Gnojowica",
+      "back": "Odchody połączone z wodą (np. z czyszczenia ruszt), gromadzone w zbiornikach pod rusztami."
+    },
+    {
+      "front": "Czym myje się posadzki rusztowe?",
+      "back": "Myjkami ciśnieniowymi."
+    },
+    {
+      "front": "Dodatkowe codzienne czynności przy utrzymaniu krów",
+      "back": "Higiena sprzętu udojowego i hali udojowej."
+    },
+    {
+      "front": "Codzienne czynności porządkowe u kur i drobiu wodnego",
+      "back": "Tylko higiena poideł i karmideł; odchody usuwa się okresowo."
+    },
+    {
+      "front": "Zgarniak łańcuchowo-listwowy – przy jakich gatunkach w tabeli 7.1?",
+      "back": "Bydło i trzoda chlewna (usuwanie odchodów)."
+    },
+    {
+      "front": "Okresowe czynności porządkowe (8)",
+      "back": "Usuwanie obornika, dezynfekcja, dezynsekcja, deratyzacja, mycie okien, zamiatanie korytarzy, omiatanie pajęczyn i odkurzanie ścian, konserwacja urządzeń."
+    },
+    {
+      "front": "Zasada cpp",
+      "back": "Całe pomieszczenie puste – obornik z głębokiej ściółki usuwa się po opuszczeniu budynku przez zwierzęta."
+    },
+    {
+      "front": "Dezynfekcja",
+      "back": "Usuwanie drobnoustrojów chorobotwórczych z posadzek, ścian i wyposażenia."
+    },
+    {
+      "front": "Kolejność czynności przy dezynfekcji",
+      "back": "Umycie powierzchni → wyschnięcie → środek dezynfekujący."
+    },
+    {
+      "front": "Tani środek dezynfekcyjny zamiast specjalistycznych",
+      "back": "Wapno – bakteriobójcze i estetyczne."
+    },
+    {
+      "front": "Jak często profilaktycznie dezynfekować pomieszczenia inwentarskie?",
+      "back": "Przynajmniej raz w roku."
+    },
+    {
+      "front": "Dezynsekcja",
+      "back": "Zwalczanie insektów (owadów)."
+    },
+    {
+      "front": "Kiedy owady są najbardziej uciążliwe?",
+      "back": "Od wiosny do jesieni, zwłaszcza latem."
+    },
+    {
+      "front": "Gdzie stosuje się preparaty owadobójcze do spryskiwania?",
+      "back": "Na powierzchniach niedostępnych dla zwierząt: okna, futryny drzwi."
+    },
+    {
+      "front": "Środki dezynsekcji oprócz oprysków",
+      "back": "Spraye, taśmy lepiące owady, lampy owadobójcze."
+    },
+    {
+      "front": "Deratyzacja",
+      "back": "Zwalczanie gryzoni (głównie myszy i szczurów)."
+    },
+    {
+      "front": "Gdzie najczęściej występują gryzonie w gospodarstwie?",
+      "back": "W budynkach adaptowanych na magazyny pasz."
+    },
+    {
+      "front": "Podstawowa zasada bezpieczeństwa przy deratyzacji",
+      "back": "Zwierzęta gospodarskie nie mogą mieć dostępu do środków gryzoniobójczych."
+    },
+    {
+      "front": "Jak często myć okna w budynkach inwentarskich?",
+      "back": "Przynajmniej dwa razy w roku."
+    },
+    {
+      "front": "Dlaczego czyste okna są ważne dla zwierząt?",
+      "back": "Więcej światła naturalnego – światło m.in. stymuluje ruję u niektórych samic."
+    },
+    {
+      "front": "Najczęstsza z czynności okresowych",
+      "back": "Zamiatanie korytarzy."
+    },
+    {
+      "front": "Omiatanie pajęczyn w pomieszczeniach dla dużych zwierząt – częstotliwość",
+      "back": "Raz na 2–3 miesiące."
+    },
+    {
+      "front": "Cele konserwacji urządzeń",
+      "back": "Wczesne wykrycie usterek i przedłużenie czasu użytkowania."
+    },
+    {
+      "front": "Najlepszy sposób konserwacji sprzętu",
+      "back": "Codzienna higiena i odpowiednia obsługa."
+    },
+    {
+      "front": "Od czego zależy częstotliwość usuwania odchodów?",
+      "back": "Od gatunku, liczby zwierząt i systemu utrzymania."
+    },
+    {
+      "front": "Systemy ściołowe i bezściołowe",
+      "back": "Ściołowe: płytka lub głęboka ściółka; bezściołowe: rusztowe."
+    },
+    {
+      "front": "Najkorzystniejszy system utrzymania zwierząt",
+      "back": "System ściołowy."
+    },
+    {
+      "front": "Wzór na obornik",
+      "back": "OBORNIK = ściółka + kał + mocz."
+    },
+    {
+      "front": "Posadzka samospławialna – nachylenie",
+      "back": "8–10°."
+    },
+    {
+      "front": "Szkodliwe gazy z zalegającego obornika",
+      "back": "Dwutlenek węgla (CO2), amoniak (NH3), siarkowodór (H2S)."
+    },
+    {
+      "front": "Pojemność płyty gnojowej na obszarach OSN",
+      "back": "Na 6 miesięcy przechowywania obornika."
+    },
+    {
+      "front": "Pojemność płyty gnojowej poza OSN",
+      "back": "Na 4 miesiące przechowywania obornika."
+    },
+    {
+      "front": "OSN",
+      "back": "Obszary szczególnie narażone na zanieczyszczenia azotanami pochodzenia rolniczego."
+    },
+    {
+      "front": "Powierzchnia płyty obornikowej na 1 DJP",
+      "back": "Ok. 3,5 m²."
+    },
+    {
+      "front": "Pojemność zbiornika na gnojowicę na 1 DJP",
+      "back": "10 m³."
+    },
+    {
+      "front": "Pojemność zbiornika na gnojówkę na 1 DJP",
+      "back": "2,5 m³."
+    },
+    {
+      "front": "Termin stosowania nawozów naturalnych na pola",
+      "back": "Od 1 marca do 30 listopada."
+    },
+    {
+      "front": "Który obszar cross compliance reguluje składowanie nawozów naturalnych?",
+      "back": "Obszar A (od 1 stycznia 2009 r.)."
+    },
+    {
+      "front": "Kiedy usuwa się obornik z głębokiej ściółki?",
+      "back": "Okresowo, najlepiej po zakończonym cyklu produkcyjnym."
+    },
+    {
+      "front": "Materiały na głęboką ściółkę",
+      "back": "Słoma, trociny, torf, piasek (dla bydła), liście drzew."
+    },
+    {
+      "front": "Dodatkowa korzyść z głębokiej ściółki",
+      "back": "Możliwość odzyskiwania ciepła do ogrzewania innych pomieszczeń."
+    },
+    {
+      "front": "Najmniej pracochłonny system utrzymania i jego problem",
+      "back": "Bezściołowy (rusztowy); problem – utylizacja gnojowicy."
+    },
+    {
+      "front": "Jak często mieszać gnojowicę w zbiorniku i po co?",
+      "back": "Raz w tygodniu – zapobiega tworzeniu twardej warstwy wierzchniej."
+    },
+    {
+      "front": "Na ile miesięcy wg KDPR musi wystarczyć zbiornik na gnojowicę?",
+      "back": "4–6 miesięcy."
+    },
+    {
+      "front": "KDPR",
+      "back": "Kodeks Dobrej Praktyki Rolniczej."
+    },
+    {
+      "front": "Najważniejsze czynności w planowaniu usuwania obornika",
+      "back": "System utrzymania, liczba zwierząt, płyta i zbiorniki, pora roku i pogoda, zasady KDPR."
+    },
+    {
+      "front": "Na jakim podłożu przechowuje się obornik?",
+      "back": "Nieprzepuszczalnym lub na płycie z instalacją odprowadzającą ścieki do zbiorników."
+    },
+    {
+      "front": "Pomieszczenia pomocnicze w budynku inwentarskim",
+      "back": "Paszarnia/magazyn pasz, izolatka, socjalne, zlewnia mleka/hala udojowa, do strzyży, magazyny wełny, jaj, pierza."
+    },
+    {
+      "front": "Jak często dezynfekować magazyn pasz?",
+      "back": "Po opróżnieniu, przynajmniej raz w roku."
+    },
+    {
+      "front": "Jakie zwierzęta nie mogą mieć dostępu do paszarni?",
+      "back": "Inne zwierzęta, np. ptaki (jaskółki) i koty."
+    },
+    {
+      "front": "Izolatka – przeznaczenie",
+      "back": "Zwierzęta chore lub podejrzane o chorobę oraz zwierzęta z zakupu."
+    },
+    {
+      "front": "Jak długo zwierzęta z zakupu przebywają w izolatce?",
+      "back": "Przez okres jednego tygodnia."
+    },
+    {
+      "front": "Kiedy dezynfekuje się izolatkę?",
+      "back": "Przed i po okresie przebywania w niej zwierząt."
+    },
+    {
+      "front": "Zlewnia mleka a hala udojowa",
+      "back": "Zlewnia – dój dojarkami przewodowymi (uwięziowo); hala – systemy wolnostanowiskowe."
+    },
+    {
+      "front": "W hodowli jakiego gatunku występuje pomieszczenie do strzyży?",
+      "back": "Tylko owiec."
+    },
+    {
+      "front": "Funkcje pomieszczenia socjalnego",
+      "back": "Przebieranie się w odzież roboczą (ogranicza przenoszenie chorób), obserwacja zwierząt w czasie porodu lub rui."
+    },
+    {
+      "front": "Jak nazywa się urządzenie do usuwania obornika pokazane na schemacie?",
+      "back": "Przenośnik o ruchu ciągłym – przesuwa obornik wzdłuż stanowisk i pochylnią na przyczepę.",
+      "img": "img/pz7/przenosnik-ruch-ciagly-bez-opisu.jpg"
+    },
+    {
+      "front": "Strzyża – na czym polega?",
+      "back": "Na pozyskiwaniu wełny (u owiec); odbywa się w pomieszczeniu do strzyży."
+    },
+    {
+      "front": "Sprzęt do higieny sprzętu udojowego u bydła (tab. 7.1)",
+      "back": "Specjalistyczne środki, ścierki."
+    },
+    {
+      "front": "Sprzęt do usuwania obornika u koni (tab. 7.1)",
+      "back": "Widły, taczka, łopata."
+    },
+    {
+      "front": "Sprzęt do usuwania niedojadów i czyszczenia sprzętu do przygotowania pasz u trzody, owiec i kóz (tab. 7.1)",
+      "back": "Łopata, widły."
+    },
+    {
+      "front": "Sprzęt do usuwania obornika / spłukiwania ruszt u bydła i trzody (tab. 7.1)",
+      "back": "Wąż gumowy, woda, zgarniak łańcuchowo-listwowy, widły, taczka, łopata."
+    },
+    {
+      "front": "Od czego zależy intensywność deratyzacji?",
+      "back": "Od ilości czynnika inwazyjnego, czyli gryzoni."
+    },
+    {
+      "front": "Dlaczego obornik z głębokiej ściółki usuwa się, gdy pomieszczenie jest puste (cpp)?",
+      "back": "Prace przebiegają wtedy łatwiej i bezpieczniej."
+    },
+    {
+      "front": "Po co zwierzęta z zakupu przebywają w izolatce?",
+      "back": "Przez tydzień – zapobiega to rozprzestrzenianiu chorób i ułatwia aklimatyzację oraz adaptację w nowych warunkach."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Skrót GHP oznacza:",
+      "options": [
+        "dobrą praktykę rolniczą",
+        "dobrą praktykę higieniczną",
+        "system analizy zagrożeń",
+        "dobrą praktykę hodowlaną"
+      ],
+      "answer": 1,
+      "explain": "GHP (Good Hygiene Practices) to „dobra praktyka higieniczna”."
+    },
+    {
+      "q": "Karmidła i poidła należy czyścić:",
+      "options": [
+        "raz w tygodniu",
+        "raz w miesiącu",
+        "codziennie, w zasadzie po każdym zadaniu paszy",
+        "po zakończeniu cyklu produkcyjnego"
+      ],
+      "answer": 2,
+      "explain": "Czyszczenie karmideł i poideł powinno być wykonywane codziennie, po każdym zadaniu paszy."
+    },
+    {
+      "q": "Usuwanie obornika jest czynnością codzienną przy utrzymaniu zwierząt:",
+      "options": [
+        "na głębokiej ściółce",
+        "na płytkiej ściółce",
+        "na rusztach",
+        "na pastwisku"
+      ],
+      "answer": 1,
+      "explain": "Usuwanie obornika z chowu na płytkiej ściółce należy do czynności codziennych."
+    },
+    {
+      "q": "Przy bezściołowym utrzymaniu zwierząt na rusztach powstaje:",
+      "options": [
+        "gnojowica",
+        "obornik",
+        "kompost",
+        "gnojówka z obornikiem"
+      ],
+      "answer": 0,
+      "explain": "Odchody połączone z wodą z czyszczenia ruszt tworzą gnojowicę."
+    },
+    {
+      "q": "Posadzki rusztowe myje się:",
+      "options": [
+        "wapnem",
+        "myjkami ciśnieniowymi",
+        "miotłą na sucho",
+        "taśmami lepiącymi"
+      ],
+      "answer": 1,
+      "explain": "Mycie ruszt wykonuje się za pomocą myjek ciśnieniowych."
+    },
+    {
+      "q": "U których zwierząt codzienne czynności porządkowe obejmują tylko higienę poideł i karmideł?",
+      "options": [
+        "bydła",
+        "kur i drobiu wodnego",
+        "koni",
+        "trzody chlewnej"
+      ],
+      "answer": 1,
+      "explain": "Wg tabeli 7.1 u kur i drobiu wodnego codziennie wykonuje się higienę poideł i karmideł, a odchody usuwa okresowo."
+    },
+    {
+      "q": "Zasada „cpp” przy usuwaniu obornika z głębokiej ściółki oznacza:",
+      "options": [
+        "codzienne porządki pomieszczeń",
+        "czyszczenie posadzek przemysłowych",
+        "całe pomieszczenie puste",
+        "ciągłe przepłukiwanie posadzek"
+      ],
+      "answer": 2,
+      "explain": "Obornik z głębokiej ściółki usuwa się, gdy zwierzęta opuszczą budynek – tzw. cpp, całe pomieszczenie puste."
+    },
+    {
+      "q": "Prawidłowa kolejność czynności przy dezynfekcji to:",
+      "options": [
+        "środek dezynfekujący, mycie, wyschnięcie",
+        "mycie, wyschnięcie, środek dezynfekujący",
+        "wyschnięcie, środek dezynfekujący, mycie",
+        "mycie, środek dezynfekujący na mokro, spłukanie"
+      ],
+      "answer": 1,
+      "explain": "Najpierw myje się powierzchnie, odczekuje do wyschnięcia, a na końcu stosuje środek dezynfekujący."
+    },
+    {
+      "q": "Tanim środkiem o działaniu bakteriobójczym, stosowanym zamiast specjalistycznych środków dezynfekcyjnych, jest:",
+      "options": [
+        "torf",
+        "piasek",
+        "trociny",
+        "wapno"
+      ],
+      "answer": 3,
+      "explain": "Wapno ma działanie bakteriobójcze, a przy tym nadaje wnętrzu estetyczny wygląd."
+    },
+    {
+      "q": "Profilaktyczną dezynfekcję pomieszczeń inwentarskich wykonuje się co najmniej:",
+      "options": [
+        "raz na 5 lat",
+        "raz w roku",
+        "raz w tygodniu",
+        "raz na kwartał"
+      ],
+      "answer": 1,
+      "explain": "Dezynfekcję profilaktycznie powinno się wykonywać przynajmniej raz w roku."
+    },
+    {
+      "q": "Dezynsekcja to:",
+      "options": [
+        "zwalczanie gryzoni",
+        "usuwanie drobnoustrojów",
+        "zwalczanie owadów",
+        "usuwanie obornika"
+      ],
+      "answer": 2,
+      "explain": "Dezynsekcja jest zwalczaniem insektów (owadów)."
+    },
+    {
+      "q": "Deratyzacja to:",
+      "options": [
+        "zwalczanie owadów",
+        "zwalczanie gryzoni",
+        "zwalczanie pasożytów skórnych",
+        "odkażanie wody"
+      ],
+      "answer": 1,
+      "explain": "Deratyzacja polega na zwalczaniu gryzoni."
+    },
+    {
+      "q": "Największe nasilenie uciążliwości owadów w budynkach inwentarskich występuje:",
+      "options": [
+        "zimą",
+        "wczesną wiosną",
+        "jesienią i zimą",
+        "od wiosny do jesieni, zwłaszcza latem"
+      ],
+      "answer": 3,
+      "explain": "Największe nasilenie uciążliwości owadów występuje od wiosny do jesieni, zwłaszcza latem."
+    },
+    {
+      "q": "Preparaty owadobójcze do spryskiwania stosuje się na:",
+      "options": [
+        "karmidła",
+        "powierzchnie niedostępne dla zwierząt, np. okna i futryny",
+        "ściółkę pod zwierzętami",
+        "skórę zwierząt"
+      ],
+      "answer": 1,
+      "explain": "Preparaty stosuje się do spryskiwania powierzchni niedostępnych dla zwierząt: okien, futryn drzwi."
+    },
+    {
+      "q": "Myszy i szczury najczęściej występują w:",
+      "options": [
+        "halach udojowych",
+        "izolatkach",
+        "pomieszczeniach socjalnych",
+        "budynkach adaptowanych na magazyny pasz"
+      ],
+      "answer": 3,
+      "explain": "Myszy i szczury występują najpowszechniej w budynkach adaptowanych na magazyny pasz."
+    },
+    {
+      "q": "Okna w budynkach inwentarskich zaleca się myć co najmniej:",
+      "options": [
+        "dwa razy w roku",
+        "raz na 3 lata",
+        "codziennie",
+        "raz w miesiącu"
+      ],
+      "answer": 0,
+      "explain": "Zaleca się mycie okien przynajmniej dwa razy do roku."
+    },
+    {
+      "q": "Najczęstszą spośród okresowych czynności porządkowych jest:",
+      "options": [
+        "mycie okien",
+        "deratyzacja",
+        "zamiatanie korytarzy",
+        "konserwacja urządzeń"
+      ],
+      "answer": 2,
+      "explain": "Zamiatanie korytarzy to najczęstsza spośród czynności okresowych."
+    },
+    {
+      "q": "Pajęczyny w pomieszczeniach dla dużych zwierząt należy omiatać:",
+      "options": [
+        "codziennie",
+        "raz na 2 lata",
+        "raz na 2–3 miesiące",
+        "raz w tygodniu"
+      ],
+      "answer": 2,
+      "explain": "W pomieszczeniach dla dużych zwierząt omiatanie pajęczyn wykonuje się raz na 2–3 miesiące."
+    },
+    {
+      "q": "Najlepszym sposobem konserwacji sprzętu i urządzeń jest:",
+      "options": [
+        "wymiana co roku",
+        "malowanie raz na 5 lat",
+        "naprawa po awarii",
+        "codzienna higiena i odpowiednia obsługa"
+      ],
+      "answer": 3,
+      "explain": "Najlepszym sposobem konserwowania sprzętu jest jego codzienna higiena i odpowiednia obsługa."
+    },
+    {
+      "q": "Najkorzystniejszym systemem utrzymania zwierząt gospodarskich wg modułu jest system:",
+      "options": [
+        "rusztowy",
+        "bezściołowy z gnojowicą",
+        "ściołowy",
+        "klatkowy"
+      ],
+      "answer": 2,
+      "explain": "Najkorzystniejszym systemem utrzymania jest system ściołowy."
+    },
+    {
+      "q": "Obornik to:",
+      "options": [
+        "ściółka + kał + mocz",
+        "kał + woda",
+        "mocz + woda",
+        "kał + mocz + woda z mycia ruszt"
+      ],
+      "answer": 0,
+      "explain": "OBORNIK = ściółka + kał + mocz."
+    },
+    {
+      "q": "Nachylenie posadzki samospławialnej wynosi:",
+      "options": [
+        "1–2°",
+        "20–25°",
+        "45°",
+        "8–10°"
+      ],
+      "answer": 3,
+      "explain": "Obornik przesuwa się samoczynnie przy nachyleniu posadzki wynoszącym 8–10°."
+    },
+    {
+      "q": "Który gaz NIE został wymieniony jako szkodliwy gaz z zalegającego obornika?",
+      "options": [
+        "tlen",
+        "amoniak",
+        "siarkowodór",
+        "dwutlenek węgla"
+      ],
+      "answer": 0,
+      "explain": "Wymienione szkodliwe gazy to CO2, NH3 i H2S."
+    },
+    {
+      "q": "Na obszarach OSN płyta gnojowa musi zapewnić przechowywanie obornika przez:",
+      "options": [
+        "6 miesięcy",
+        "2 miesiące",
+        "4 miesiące",
+        "12 miesięcy"
+      ],
+      "answer": 0,
+      "explain": "Dla gospodarstw na obszarach OSN płyta musi zapewniać przechowywanie obornika przez 6 miesięcy."
+    },
+    {
+      "q": "Poza obszarami OSN płyta gnojowa musi zapewnić przechowywanie obornika przez:",
+      "options": [
+        "1 miesiąc",
+        "6 miesięcy",
+        "4 miesiące",
+        "9 miesięcy"
+      ],
+      "answer": 2,
+      "explain": "Dla pozostałych gospodarstw płyta musi zapewniać przechowywanie obornika przez 4 miesiące."
+    },
+    {
+      "q": "Na 1 DJP przeznacza się około:",
+      "options": [
+        "3,5 m² płyty gnojowej",
+        "1 m² płyty gnojowej",
+        "10 m² płyty gnojowej",
+        "25 m² płyty gnojowej"
+      ],
+      "answer": 0,
+      "explain": "Na 1 dużą jednostkę przeliczeniową przeznacza się ok. 3,5 m² powierzchni płyty."
+    },
+    {
+      "q": "Pojemność zbiornika na gnojowicę na 1 DJP wynosi:",
+      "options": [
+        "2,5 m³",
+        "3,5 m³",
+        "25 m³",
+        "10 m³"
+      ],
+      "answer": 3,
+      "explain": "Na 1 DJP przeznacza się 10 m³ pojemności zbiornika na gnojowicę."
+    },
+    {
+      "q": "Pojemność zbiornika na gnojówkę na 1 DJP wynosi:",
+      "options": [
+        "2,5 m³",
+        "10 m³",
+        "0,5 m³",
+        "6 m³"
+      ],
+      "answer": 0,
+      "explain": "Na 1 DJP przeznacza się 2,5 m³ pojemności zbiornika na gnojówkę."
+    },
+    {
+      "q": "Nawozy naturalne można stosować na pola w okresie:",
+      "options": [
+        "od 1 lutego do 31 grudnia",
+        "od 15 kwietnia do 15 września",
+        "przez cały rok",
+        "od 1 marca do 30 listopada"
+      ],
+      "answer": 3,
+      "explain": "Nawozy naturalne powinny być stosowane wyłącznie od 1 marca do 30 listopada."
+    },
+    {
+      "q": "Składowanie nawozów naturalnych reguluje zasada wzajemnej zgodności w obszarze:",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explain": "Składowanie nawozów naturalnych reguluje zasada cross compliance w obszarze A, obowiązująca od 1 stycznia 2009 r."
+    },
+    {
+      "q": "Jako ściółkę dla bydła w systemie głębokiej ściółki można stosować m.in.:",
+      "options": [
+        "wapno",
+        "piasek",
+        "żwir",
+        "ziemię próchniczą"
+      ],
+      "answer": 1,
+      "explain": "Ściółkę mogą stanowić słoma, trociny, torf, piasek (dla bydła) i liście drzew."
+    },
+    {
+      "q": "Gnojowicę w zbiorniku zaleca się mieszać:",
+      "options": [
+        "raz w tygodniu",
+        "raz w roku",
+        "codziennie co godzinę",
+        "nie należy jej mieszać"
+      ],
+      "answer": 0,
+      "explain": "Zaleca się raz w tygodniu wymieszać gnojowicę specjalnymi mieszadłami, by nie tworzyła się twarda warstwa."
+    },
+    {
+      "q": "Zgodnie z KDPR zbiornik na gnojowicę musi pomieścić odchody przez:",
+      "options": [
+        "1–2 miesiące",
+        "8–10 miesięcy",
+        "2 lata",
+        "4–6 miesięcy"
+      ],
+      "answer": 3,
+      "explain": "Pojemność zbiornika musi pomieścić odchody przez 4–6 miesięcy zgodnie z KDPR."
+    },
+    {
+      "q": "Zwierzęta pochodzące z zakupu powinny przebywać w izolatce przez:",
+      "options": [
+        "1 dzień",
+        "tydzień",
+        "3 miesiące",
+        "rok"
+      ],
+      "answer": 1,
+      "explain": "W izolatce mogą przebywać przez okres jednego tygodnia zwierzęta pochodzące z zakupu."
+    },
+    {
+      "q": "Magazyn pasz po opróżnieniu należy dezynfekować co najmniej:",
+      "options": [
+        "raz w roku",
+        "raz w tygodniu",
+        "raz na 3 lata",
+        "nie wymaga dezynfekcji"
+      ],
+      "answer": 0,
+      "explain": "Po opróżnieniu magazynu przynajmniej raz w roku wykonuje się dezynfekcję pomieszczenia."
+    },
+    {
+      "q": "Zlewnia mleka jest pomieszczeniem pomocniczym, gdy dój odbywa się:",
+      "options": [
+        "w hali udojowej w systemie wolnostanowiskowym",
+        "ręcznie na pastwisku",
+        "robotem udojowym",
+        "dojarkami przewodowymi w systemie uwięziowym"
+      ],
+      "answer": 3,
+      "explain": "Zlewnia mleka występuje, gdy dój wykonywany jest dojarkami przewodowymi, głównie w systemach uwięziowych."
+    },
+    {
+      "q": "Pomieszczenie do strzyży występuje w hodowli:",
+      "options": [
+        "bydła",
+        "trzody chlewnej",
+        "owiec",
+        "drobiu"
+      ],
+      "answer": 2,
+      "explain": "Pomieszczenia do strzyży dotyczą tylko hodowli owiec."
+    },
+    {
+      "q": "Przebieranie się obsługi w odzież roboczą w pomieszczeniu socjalnym służy głównie:",
+      "options": [
+        "poprawie mikroklimatu",
+        "ochronie przed gryzoniami",
+        "ograniczeniu przenoszenia chorób",
+        "lepszemu wykorzystaniu paszy"
+      ],
+      "answer": 2,
+      "explain": "Przebieranie się w odzież roboczą ogranicza przenoszenie chorób zarówno z budynku, jak i do budynku."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Czyszczenie karmideł i poideł należy do czynności:",
+      "options": [
+        "okresowych.",
+        "codziennych.",
+        "tygodniowych.",
+        "kwartalnych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPomieszczenie, które może pomóc w aklimatyzacji nowo zakupionego zwierzęcia, to ….",
+      "options": [
+        "pomieszczenie socjalne",
+        "izolatka"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBezściołowy system utrzymania zwierząt należy do najbardziej pracochłonnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Częstotliwość usuwania odchodów w głównej mierze zależy od:",
+      "options": [
+        "ilości utrzymywanych zwierząt.",
+        "systemu utrzymania.",
+        "rodzaju pokarmu.",
+        "gatunku."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZwalczanie insektów, owadów, które mogą być źródłem chorób zwierząt, to inaczej ….",
+      "options": [
+        "dezynsekcja",
+        "dezynfekcja."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajczęściej odchody stosowane są jako nawóz naturalny i wywożony jest na pola.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do pomieszczeń pomocniczych w budynku inwentarskim należą:",
+      "options": [
+        "hala udojowa.",
+        "izolatka.",
+        "paszarnia.",
+        "zlewnia mleka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUsuwanie obornika można przypisać do czynności okresowych, gdy mamy do czynienia z utrzymaniem zwierząt na … ściółce.",
+      "options": [
+        "płytkiej",
+        "głębokiej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonserwacja ma na celu wczesne wykrycie usterki danego sprzętu, urządzenia, dzięki czemu można zaoszczędzić na jego naprawie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Tańszym substytutem specjalistycznych środków do dezynfekcji pomieszczeń inwentarzowych może być:",
+      "options": [
+        "woda utleniona.",
+        "wapń.",
+        "woda z mydłem.",
+        "wapno."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMiejsce przygotowywania pasz dla zwierząt to ….",
+      "options": [
+        "paszarnia",
+        "silos"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do czynności związanych z utrzymaniem higieny w pomieszczeniach dla drobiu należą:",
+      "options": [
+        "zamiatanie korytarzy.",
+        "usuwanie niedojadów z poideł i karmideł.",
+        "higiena poideł i karmideł.",
+        "czynności związane z usuwaniem odchodów."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHigiena urządzeń udojowych nie ma wpływu na jakość pozyskiwanego mleka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… polega na zwalczaniu gryzoni.",
+      "options": [
+        "Dezynsekcja",
+        "Deratyzacja"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW chowie zwierząt gospodarskich najkorzystniejszym systemem utrzymania jest system rusztowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie wyróżniamy rodzaje ściołowych systemów utrzymania?",
+      "options": [
+        "System rusztowy.",
+        "Głęboka ściółka.",
+        "Płytka ściółka."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Pomieszczenie, które musi być, pozbawione wszelkich niebezpiecznych drobnoustrojów to ….",
+      "options": [
+        "izolatka",
+        "magazyn pasz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaleca się, żeby mycie okien w pomieszczeniu inwentarzowym wykonywać przynajmniej pięć razy do roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDezynfekcję paszarni należy dokonywać przynajmniej … w roku.",
+      "options": [
+        "dwa razy",
+        "raz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Miejsce, w którym szczególnie trzeba zwracać uwagę na czystość pomieszczeń i narzędzi, to:",
+      "options": [
+        "magazyn pasz.",
+        "pomieszczenia socjalne.",
+        "izolatka."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamospławialne posadzki umożliwiają samoczynne usuwanie obornika w kierunku kanału gnojowego, wskutek poruszania się zwierząt po stosunkowo dużym jej nachyleniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Miejscem pozwalającym na obserwację zwierząt w czasie porodu lub będących w rui jest:",
+      "options": [
+        "hala udojowa.",
+        "izolatka.",
+        "paszarnia.",
+        "pomieszczenie socjalne."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… pracochłonnym systemem chowu zwierząt jest płytka ściółka.",
+      "options": [
+        "Najbardziej",
+        "Najmniej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChów ściołowy ma niekorzystny wpływ na ochronę środowiska naturalnego, jak i dobrostan samych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Mycie rusztu wykonuje się za pomocą myjek:",
+      "options": [
+        "warsztatowych.",
+        "ciśnieniowych.",
+        "parowych.",
+        "przemysłowych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUsuwanie obornika z chowu na płytkiej ściółce należy do czynności codziennych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRuszta wykorzystuje się w przypadku chowu ….",
+      "options": [
+        "bezściołowego",
+        "ściołowego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Największe nasilenie uciążliwości owadów występuje w okresie od wiosny do jesieni, w związku z czym należy wtedy wykonać:",
+      "options": [
+        "deratyzację.",
+        "dezynfekcję.",
+        "dezynsekcję."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW celu wykonania dezynfekcji powinno się najpierw ….",
+      "options": [
+        "zastosować środek dezynfekujący, a potem przetrzeć dezynfekowane powierzchnie",
+        "umyć dezynfekowane powierzchnie, a potem zastosować środek dezynfekujący"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy naturalne zgodnie z KDPR można stosować na polach od 1 marca do 30 listopada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚwiatło odgrywa ważną rolę w przebiegu wielu procesów życiowych zwierząt, toteż powinno się dbać o czystość okien, a co za tym idzie, dostęp światła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Mycie posadzek rusztowych należy do czynności:",
+      "options": [
+        "okresowych.",
+        "kwartalnych.",
+        "codziennych.",
+        "tygodniowych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPomieszczeniem pomocniczym dla doju wykonywanego za pomocą dojarek przewodowych jest ….",
+      "options": [
+        "hala udojowa",
+        "zlewnia mleka"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do usuwania obornika w przypadku chowu koni używane są:",
+      "options": [
+        "łopata.",
+        "zgarniak łańcuchowo listwowy.",
+        "wąż gumowy.",
+        "widły."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCzyszczenie karmideł i poideł powinno być wykonywane ….",
+      "options": [
+        "raz na dwa dni",
+        "po każdym zadaniu paszy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOgólną zasadą usuwania obornika z głębokiej ściółki jest to, że należy wykonać to w czasie, gdy zwierzęta opuszczają dany budynek czy pomieszczenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Spośród podanych pomieszczeń, zaznacz te pomieszczenia, w których powinna być zachowana szczególna higiena.",
+      "options": [
+        "Magazyn pasz.",
+        "Izolatka.",
+        "Pomieszczenie socjalne.",
+        "Hala udojowa."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNajpowszechniej stosowanym środkiem do mycia urządzeń udojowych jest ….",
+      "options": [
+        "wapno",
+        "woda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku systemu chowu w głębokiej ściółce, obornik usuwany jest codziennie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W ramach niezbędnych czynników decydujących o opłacalności chowu i hodowli zwierząt należy wymienić:",
+      "options": [
+        "zapewnienie zwierzętom prawidłowego i dostatecznego żywienia.",
+        "dbanie o higienę zarówno zwierząt, jak i pomieszczeń, w których przebywają.",
+        "zapewnienie warunków mikroklimatycznych.",
+        "dobór wysokiej jakości materiału genetycznego."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy utrzymywaniu zwierząt na głębokiej ściółce jest możliwość odzyskiwania produkowanego ciepła, które wykorzystuje się do ogrzania np. innych pomieszczeń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCałkowite wyeliminowanie z pomieszczeń owadów jest ....",
+      "options": [
+        "niemożliwe",
+        "możliwe i zalecane"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dezynfekcję w pomieszczeniach inwentarskich profilaktycznie powinno się wykonywać przynajmniej:",
+      "options": [
+        "raz w roku.",
+        "dwa razy w roku.",
+        "raz na kwartał.",
+        "raz na miesiąc."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUsuwanie tzw. niedojadów … konieczne przy utrzymywaniu codziennej higieny pomieszczeń inwentarzowych.",
+      "options": [
+        "jest",
+        "nie jest"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDługotrwałe gromadzenie gnojowicy w zbiorniku pod rusztami może powodować wytworzenie się twardej warstwy wierzchniej dlatego zalecane jest, aby raz w tygodniu wymieszać gnojowicę specjalnymi mieszadłami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "W ramach niezbędnych czynników decydujących o opłacalności chowu i hodowli zwierząt należy wymienić:",
+      "options": [
+        "zapewnienie warunków mikroklimatycznych.",
+        "zapewnienie zwierzętom prawidłowego i dostatecznego żywienia.",
+        "dbanie o higienę zarówno zwierząt, jak i pomieszczeń w których przebywają.",
+        "dobór wysokiej jakości materiału genetycznego."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPomieszczeniem pomocniczym w przypadku doju wykonywanego za pomocą dojarek przewodowych jest zlewnia mleka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Mycie posadzek rusztowych należy do czynności:",
+      "options": [
+        "okresowych.",
+        "kwartalnych.",
+        "codziennych.",
+        "tygodniowych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuszta wykorzystuje się w przypadku chowu bezściołowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzyszczenie karmideł i poideł powinno być wykonywane raz na dwa dni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Częstotliwość usuwania odchodów w głównej mierze zależy od:",
+      "options": [
+        "systemu utrzymania.",
+        "ilości utrzymywanych zwierząt.",
+        "gatunku.",
+        "rodzaju pokarmu.",
+        "płci zwierząt."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Dezynfekcję w pomieszczeniach inwentarskich profilaktycznie powinno się wykonywać przynajmniej:",
+      "options": [
+        "raz na tydzień.",
+        "raz w roku.",
+        "raz na kwartał.",
+        "dwa razy w roku."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOmiatanie pajęczyn i odkurzanie ścian w pomieszczeniach dla dużych zwierząt powinno być wykonywane raz na dwa lub trzy miesiące.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Nawozy naturalne zgodnie z KDPR można stosować na polach od:",
+      "options": [
+        "1 czerwca do 1 stycznia.",
+        "1 kwietnia do 30 listopada.",
+        "1 marca do 30 listopada.",
+        "1 stycznia do 1 czerwca."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Do usuwania niedojadów z poideł i karmideł bydła używane są:",
+      "options": [
+        "miotła.",
+        "zgarniak łańcuchowo listwowy.",
+        "łopata.",
+        "wąż gumowy."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu wykonania dezynfekcji powinno się najpierw zastosować środek dezynfekujący, a potem przetrzeć dezynfekowane powierzchnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Spośród podanych czynności zaznacz te, które są okresowe.",
+      "options": [
+        "Mycie hali udojowej.",
+        "Dezynfekcja.",
+        "Mycie posadzek rusztowych.",
+        "Zamiatanie korytarzy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zwalczanie insektów, owadów, które mogą być źródłem chorób zwierząt, to inaczej:",
+      "options": [
+        "dezynsekcja.",
+        "deratyzacja.",
+        "dezynfekcja."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMiejsce przygotowywania pasz dla zwierząt to paszarnia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do czynności związanych z utrzymaniem higieny w pomieszczeniach dla kaczek należą:",
+      "options": [
+        "usuwanie niedojadów z poideł i karmideł.",
+        "czynności związane z usuwaniem odchodów.",
+        "zamiatanie korytarzy.",
+        "higiena poideł i karmideł."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Pomieszczenie, które może pomóc w aklimatyzacji nowo zakupionego zwierzęcia to:",
+      "options": [
+        "paszarnia.",
+        "zlewnia mleka.",
+        "izolatka.",
+        "pomieszczenie socjalne."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym ze sposobów obniżenia pracochłonności oraz zużycia ściółki w systemie rusztowym utrzymania zwierząt jest „montowanie” samospławialnych posadzek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPojemność zbiornika na gnojowicę, zgodnie z zaleceniami KDPR, musi pomieścić odchody przez okres 2–4 miesięcy dla gospodarstw położonych na obszarach szczególnie narażonych na zanieczyszczenia spowodowane przez azotany pochodzenia rolniczego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW pomieszczeniu inwentarskim wymagane jest całkowite wyeliminowanie owadów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Usuwanie gryzoni z pomieszczeń można nazwać inaczej:",
+      "options": [
+        "dezynfekcją.",
+        "dezynsekcją.",
+        "deratyzacją."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Miejscem pozwalającym na obserwację zwierząt w czasie porodu lub będących w rui, jest:",
+      "options": [
+        "izolatka.",
+        "hala udojowa.",
+        "paszarnia.",
+        "pomieszczenie socjalne."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUsuwanie obornika można przypisać do czynności okresowych, gdy mamy do czynienia z utrzymaniem zwierząt na płytkiej ściółce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSubstytutem drogich środków dezynfekcyjnych pomieszczeń inwentarskich może być wapno.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy płynne należy gromadzić w szczelnych zbiornikach na czas niemożności ich wykorzystania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPomieszczeniem pomocniczym dla doju wykonywanego za pomocą dojarek przewodowych jest hala udojowa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaleca się, aby mycie okien w pomieszczeniu inwentarskim wykonywać przynajmniej:",
+      "options": [
+        "dwa razy w roku.",
+        "raz w roku.",
+        "pięć razy w roku.",
+        "raz na kwartał."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajbardziej pracochłonnym systemem chowu zwierząt jest płytka ściółka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Miejsca, w których szczególnie trzeba zwracać uwagę na czystość pomieszczeń i narzędzi to:",
+      "options": [
+        "pomieszczenie socjalne.",
+        "izolatka.",
+        "magazyn pasz.",
+        "hala udojowa."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku systemu chowu na głębokiej ściółce obornik usuwany jest codziennie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObornik, jeżeli jest prawidłowo składowany, przechowywany i stosowany jako nawóz naturalny, nie stanowi zagrożenia dla środowiska naturalnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do pomieszczeń pomocniczych w budynku inwentarskim należą:",
+      "options": [
+        "pomieszczenie socjalne.",
+        "zlewnia mleka.",
+        "izolatka.",
+        "paszarnia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Mycie rusztu wykonuje się za pomocą myjek:",
+      "options": [
+        "przemysłowych.",
+        "parowych.",
+        "warsztatowych.",
+        "ciśnieniowych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDezynfekcję paszarni należy dokonywać przynajmniej dwa razy w roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajpowszechniej stosowanym środkiem do mycia urządzeń udojowych jest wapno.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOgólną zasadą usuwania obornika z głębokiej ściółki jest to, że należy wykonać to w czasie, gdy zwierzęta opuszczają dany budynek czy pomieszczenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

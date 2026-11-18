@@ -1,0 +1,2008 @@
+{
+  "id": "re4",
+  "course": "Rolnictwo ekologiczne",
+  "title": "Rachunek ekonomiczny w gospodarstwie ekologicznym. Przygotowanie oraz sprzedaż produktów roślinnych i zwierzęcych w gospodarstwie ekologicznym",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rachunek ekonomiczny – ogół technik niezbędnych do wyboru optymalnej (najbardziej racjonalnej) metody osiągnięcia celu gospodarowania.",
+        "Polega na porównaniu przewidywanych lub poniesionych nakładów z przewidywanymi lub osiągniętymi efektami; pozwala ustalić opłacalność działań.",
+        "Podstawą jest zasada racjonalnego gospodarowania: maksymalna korzyść z danego nakładu lub dana korzyść przy minimalnym nakładzie."
+      ]
+    },
+    {
+      "heading": "1. Rentowność i rynek gospodarstw ekologicznych",
+      "points": [
+        "Gospodarstwa ekologiczne mają wyższą rentowność niż konwencjonalne, m.in. dzięki większemu saldu dopłat.",
+        "Dopłaty (w tym ekologiczne) stanowią ponad 60% dochodu gospodarstw ekologicznych.",
+        "Większość rolników przestawia gospodarstwa głównie z chęci uzyskania wyższych dochodów; wzrost liczby gospodarstw nastąpił wraz z systemem wsparcia.",
+        "Rynek produktów ekologicznych w Polsce jest w początkowej fazie rozwoju i nieustabilizowany; część produkcji trafia na rynek konwencjonalny.",
+        "Produkty ekologiczne są droższe m.in. przez wyższe koszty zużycia pośredniego na 1 ha i koszty dotarcia do rynku (etykiety, ulotki, dowóz do klientów, sklepów ekologicznych).",
+        "Na 31 grudnia 2011 r. kontrolą objętych było blisko 23,5 tys. gospodarstw (23 449) – ok. 15% więcej niż w 2010 r.; w 2009 r. ponad 17 tys. (+15% wobec 2008).",
+        "W 2011 r. najwięcej gospodarstw ekologicznych: zachodniopomorskie (3065), warmińsko-mazurskie (3033), podlaskie (2440).",
+        "Najwięcej przetwórni: mazowieckie (54), wielkopolskie (41), lubelskie (28).",
+        "Liczba gospodarstw ekologicznych w Polsce (rys. 4.1): 2003 – 2286, 2004 – 3760, 2005 – 7182, 2006 – 9194, 2007 – 12 121, 2008 – 15 206, 2009 – 17 423, 2010 – 20 956, 2011 – 23 449.",
+        "Liczba przetwórni ekologicznych (rys. 4.2): 2003 – 22, 2004 – 55, 2005 – 99, 2006 – 170, 2007 – 206, 2008 – 236, 2009 – 277, 2010 – 293 (maksimum), 2011 – 270.",
+        "Powierzchnia upraw ekologicznych (rys. 4.3): 2003 – 61 236, 2004 – 82 730, 2005 – 166 300, 2006 – 228 009, 2007 – 287 529, 2008 – 314 848, 2009 – 416 261, 2010 – 518 527, 2011 – 605 519.",
+        "Rozwój sektora widać też we wzroście liczby upoważnionych jednostek certyfikujących kontrolujących gospodarstwa i przetwórnie.",
+        "Zużycie pośrednie – koszty zużyte jako nakład w procesie produkcji w przeliczeniu na 1 ha UR; sporą część kosztów stanowią koszty ogólnogospodarcze dotarcia do rynku (etykiety, ulotki, dowóz do klientów, rzadkich punktów skupu i sklepów ekologicznych).",
+        "Rolnictwo ekologiczne w Polsce ma ogromny niewykorzystany potencjał; krajowi producenci żywności certyfikowanej są obecni na największych targach ekologicznych i należą do najprężniejszych w Europie Środkowo-Wschodniej."
+      ],
+      "images": [
+        {
+          "src": "img/re4/liczba-gospodarstw-2003-2011.jpg",
+          "caption": "Liczba gospodarstw w systemie rolnictwa ekologicznego w Polsce 2003–2011 (rys. 4.1): od 2286 (2003) do 23 449 (2011)."
+        },
+        {
+          "src": "img/re4/liczba-przetworni-2003-2011.jpg",
+          "caption": "Liczba przetwórni w systemie rolnictwa ekologicznego 2003–2011 (rys. 4.2): od 22 (2003), maksimum 293 (2010), 270 (2011)."
+        },
+        {
+          "src": "img/re4/powierzchnia-upraw-2003-2011.jpg",
+          "caption": "Powierzchnia upraw ekologicznych w Polsce 2003–2011 (rys. 4.3): od 61 236 (2003) do 605 519 (2011)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Konsumenci i ceny żywności ekologicznej",
+      "points": [
+        "Konsumenci: głównie mieszkańcy dużych miast, dobrze sytuowani, ze średnim i wyższym wykształceniem; także matki małych dzieci, osoby chore i emeryci.",
+        "Na wielkość rynku wpływają: świadomość konsumentów, ich sytuacja materialna, wiarygodność producentów i cena.",
+        "Pewność co do jakości dają certyfikacja gospodarstw i znakowanie produktów.",
+        "Najważniejszy czynnik wzrostu popytu – większa dostępność żywności ekologicznej; dalej wzrost dochodów i mniejsze różnice cenowe wobec produktów konwencjonalnych.",
+        "Ceny ustalane są przez relację popytu do podaży; cena to jedna z podstawowych barier zakupu.",
+        "Różnice w cenie wynikają głównie z kosztów dystrybucji i marż handlowych, a nie z kosztów produkcji.",
+        "Marże poszczególnych uczestników obrotu wynoszą 14–40%.",
+        "Konsument płaci najniższą cenę, kupując bezpośrednio od producenta; producent uzyskuje wtedy najkorzystniejszą cenę.",
+        "Aby obniżyć ceny, trzeba zwiększać dostępność i podaż oraz wprowadzać produkty do sklepów wielkoobszarowych (efekt skali, niskie marże).",
+        "Matki małych dzieci, osoby chore i emeryci kupują żywność ekologiczną mimo niskich dochodów; rośnie grupa szukających żywności nieulepszanej, naturalnej.",
+        "Konsumenci są skłonni płacić wyższą cenę w zamian za gwarancję, że żywność spełni ich oczekiwania.",
+        "Wysokie marże handlowcy narzucają, gdy popyt przewyższa podaż (prawidłowość wolnej konkurencji); koszty dystrybucji odzwierciedlają realne wydatki, a marże – etap rozwoju rynku.",
+        "Cena zależy od szczebla obrotu i kanału dystrybucji; sprzedając hurtowni lub sklepowi producent musi sprzedać taniej, bo ponoszą one koszty transportu, przechowywania i pakowania."
+      ],
+      "images": [
+        {
+          "src": "img/re4/czynniki-popytu.jpg",
+          "caption": "Czynniki warunkujące wzrost popytu na żywność ekologiczną (rys. 4.4): powiększenie dostępności – 29%, wzrost dochodów – 23%, mniejsze różnice cenowe w stosunku do produktów konwencjonalnych – 22%, poszerzenie asortymentu – 15%, wzrost zachorowalności – 9%, inne – 1%."
+        }
+      ]
+    },
+    {
+      "heading": "2. Opłacalność uprawy roślin metodami ekologicznymi",
+      "points": [
+        "Opłacalność zależy od kosztów (nakładów) produkcji i dochodów ze sprzedaży.",
+        "Plony w gospodarstwach ekologicznych są mniejsze o 10–50% niż w konwencjonalnych (zależnie od gatunku i wcześniejszej intensywności).",
+        "W strukturze zasiewów mniej zbóż i oleistych, znacznie więcej strączkowych, pastewnych, okopowych i warzyw.",
+        "Nakłady na środki produkcji mniejsze o ok. 10–20%, choć niektóre biologiczne ŚOR są drogie (np. Novodor na stonkę – kilkakrotnie droższy od syntetycznych insektycydów).",
+        "Nakłady robocizny większe o 10–20%.",
+        "Możliwość wyższych cen i dotacji z programów rolnośrodowiskowych.",
+        "Mniejsza energochłonność – brak nawozów sztucznych (zwłaszcza azotowych), których produkcja pochłania dużo energii.",
+        "Pszenica ozima ekologiczna: plony niższe o ok. 30% od średniej krajowej, cena wyższa tylko o ok. 6%.",
+        "Koszty bezpośrednie uprawy zbóż ekologicznych są zwykle niskie; wyniki poprawiają dopłaty.",
+        "Rozwój rolnictwa ekologicznego zależy od jego opłacalności i konkurencyjności wobec innych systemów rolniczych.",
+        "Nakłady materiałowo-pieniężne (nawozy, środki ochrony roślin, pasze) są w gospodarstwach ekologicznych znacznie mniejsze.",
+        "Plony i ceny pozostałych zbóż (poza pszenicą) nie różnią się tak znacząco od konwencjonalnych średnich krajowych."
+      ]
+    },
+    {
+      "heading": "2. Ekonomika produkcji ziemniaków ekologicznych",
+      "points": [
+        "Koszty bezpośrednie – koszty, które można dokładnie przypisać danej uprawie.",
+        "Technologia ekologiczna: więcej nawożenia organicznego (obornik, gnojówka, nawozy zielone), brak nawożenia mineralnego (szczególnie azotowego).",
+        "Mechaniczna kontrola zachwaszczenia zamiast chemii; radykalna redukcja zabiegów przeciw zarazie ziemniaka; preparaty na stonkę.",
+        "Zwiększone nakłady pracy przez cały cykl produkcji.",
+        "Dodatkowe koszty: certyfikacja i kontrola gospodarstwa.",
+        "O rentowności decydują: ceny w sezonie, poziom plonów i straty w przechowywaniu, zmiana kosztów stałych po transformacji.",
+        "Koszty stałe – niezależne od wielkości produkcji; zmieniają się w wyniku transformacji na system ekologiczny."
+      ]
+    },
+    {
+      "heading": "3. Przygotowanie produktów do sprzedaży i kontrola",
+      "points": [
+        "Przygotowanie do sprzedaży obejmuje: przetwórstwo, konfekcjonowanie (porcjowanie, zamykanie i znakowanie opakowań), handel hurtowy i dystrybucję, zmianę oznakowania (nawet dodatkową etykietę w języku kraju).",
+        "Z kontroli zwolnione są punkty detaliczne sprzedające opakowane i oznakowane produkty konsumentom bezpośrednim.",
+        "Kontroli podlegają punkty detaliczne i hurtowe sprzedające produkty do dalszego obrotu.",
+        "Na żadnym etapie produktów ekologicznych nie wolno mieszać z konwencjonalnymi.",
+        "Produkcja równoległa wymaga rozgraniczenia przestrzennego (osobne linie lub obiekty) albo czasowego (różne terminy + czyszczenie maszyn dokumentowane w rejestrach).",
+        "Oba rodzaje produktów mogą być przechowywane i transportowane razem tylko fizycznie rozdzielone i oznakowane.",
+        "Surowce muszą mieć pokrycie w aktualnych certyfikatach jednostek certyfikujących zatwierdzonych w UE.",
+        "Do 5% dozwolonych składników konwencjonalnych (z wykazu) – produkt może być znakowany jako ekologiczny; powyżej 5% – tylko wzmianka w składzie.",
+        "Handel hurtowy i dystrybucja – zakup produktów ekologicznych w celu odprzedaży bez zmiany ich rodzaju i oznakowania (zmienia się tylko podmiot sprzedający).",
+        "Przy rozgraniczeniu czasowym urządzenia i maszyny muszą być każdorazowo oczyszczone przed przetwarzaniem produktów ekologicznych, co dokumentuje się w rejestrach czyszczenia.",
+        "Składniki konwencjonalne dopuszcza się wyłącznie z prawnie zatwierdzonego wykazu składników, których brakuje na rynku produktów ekologicznych."
+      ]
+    },
+    {
+      "heading": "3. Znakowanie – Euro-liść",
+      "points": [
+        "Od 1 lipca 2012 r. paczkowaną żywność ekologiczną z UE znakuje się wyłącznie nowym unijnym logo (obowiązującym od 1 lipca 2010 r.).",
+        "Euro-liść (Eko-liść) musi widnieć na pakowanej żywności ekologicznej wytworzonej w UE; dla produktów importowanych spoza UE nie jest obowiązkowy.",
+        "Logo stosuje się na produktach, w których co najmniej 95% składników pochodzi z gospodarstw certyfikowanych.",
+        "Logo musi być w widocznym miejscu, czytelne i nieusuwalne (art. 24 rozp. 834/2007).",
+        "Logo nie można stosować na produktach z okresu konwersji, zawierających mniej niż 95% składników ekologicznych oraz z dziczyzny i rybołówstwa.",
+        "Produkty z chronionymi nazwami geograficznymi mogą zachować to oznaczenie obok logo unijnego.",
+        "Oznakowanie nie może sugerować, że „System kontroli WE” gwarantuje wyższą jakość organoleptyczną, żywieniową lub zdrowotną ani wprowadzać w błąd.",
+        "Logo: obrysowany gwiazdkami wizerunek liścia na zielonym tle.",
+        "Oznaczenie kodowe: numer jednostki certyfikującej (maks. trzycyfrowy), kod państwa (np. PL), wyróżnik statusu: BIO, EKO, ORG.",
+        "Pochodzenie surowców: „Rolnictwo UE” (wszystkie z UE), „Rolnictwo PL” (98% składników z Polski), „Rolnictwo spoza UE”, „Rolnictwo UE/spoza UE”.",
+        "Dodatkowo można umieszczać logo jednostek certyfikujących oraz krajowe i prywatne logo rolnictwa ekologicznego.",
+        "Logo i system znakowania mają dać pewność, że produkt wytworzono zgodnie z rozporządzeniem UE o rolnictwie ekologicznym (a produkty importowane – wg równorzędnych przepisów).",
+        "Przepisy wymagają wskazania miejsca uprawy surowców i numeru organu odpowiedzialnego za kontrolę; wszyscy producenci spełniający normy muszą stosować logo niezależnie od rodzaju opakowania.",
+        "Unijne logo stosuje się: na paczkowanych ekoproduktach, na produktach wprowadzanych do obrotu jako ekologiczne z ponad 95% składników ekorolniczych, zgodnie z rozp. 834/2007.",
+        "Oznakowanie nie może też wprowadzać w błąd co do rodzaju, tożsamości, właściwości, składu, ilości, trwałości, pochodzenia, metod wytwarzania ani przypisywać właściwości, których produkt nie ma (lub które mają wszystkie podobne produkty).",
+        "Numer kodowy jednostki certyfikującej (maks. 3 cyfry, np. 999) nadaje państwo członkowskie; „Rolnictwo spoza UE” – gdy wszystkie składniki pochodzą spoza UE; wzór logo – Rozporządzenie Komisji (UE) nr 271/2010 z 24 marca 2010."
+      ],
+      "images": [
+        {
+          "src": "img/re4/euro-lisc.jpg",
+          "caption": "Euro-liść (rys. 4.5) – obowiązkowe unijne logo na pakowanej żywności ekologicznej wytworzonej w UE."
+        },
+        {
+          "src": "img/re4/loga-eko-przyklady.jpg",
+          "caption": "Przykłady logo rolnictwa ekologicznego (rys. 4.6) – obok Euro-liścia stosuje się krajowe i prywatne znaki (np. Ekoland, BIO)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Dokumentacja w przetwórstwie ekologicznym",
+      "points": [
+        "Przepływ produktów dokumentuje się na wszystkich etapach, umożliwiając identyfikację wstecz aż do dostawców surowców.",
+        "Dokumenty przy podjęciu przetwórstwa: opis przedsięwzięcia (rozdział części ekologicznej od konwencjonalnej), lista produktów do certyfikacji, receptury, lista dostawców, kopie ich certyfikatów.",
+        "Także: wzory dokumentów przepływu surowców, raporty produkcyjne i rejestry, projekty etykiet.",
+        "Ewidencja umożliwiająca bilans surowce – produkty: stan zapasów surowców, rejestry zakupów z dostawcami, ewidencja produkcji, sprzedaży i bieżących zapasów.",
+        "Asortymenty ekologiczne muszą być oznakowane fizycznie (magazyn, produkcja) i w dokumentach handlowych."
+      ]
+    },
+    {
+      "heading": "4. Przetwarzanie i przechowywanie produktów",
+      "points": [
+        "W 2012 r. w przetwórstwie ekologicznym: owoce i warzywa 29%, zboża 20%, mięso 10%, przetwory mleczne 8%.",
+        "Konsumenci najchętniej kupują produkty zbożowe, a także nasiona, warzywa i owoce, zioła i herbaty oraz nabiał.",
+        "Celem przetwórstwa jest maksymalne zachowanie pierwotnej jakości płodów rolnych.",
+        "Stosuje się prawie wszystkie klasyczne technologie (mechaniczne, termiczne, fermentacyjne) – mówi się o przetwórstwie ekorolniczym, bo wyróżnikiem są surowce.",
+        "Zakazane syntetyczne dodatki: barwniki, emulgatory, stabilizatory, konserwanty, przeciwutleniacze, substancje powlekające.",
+        "Wykluczone metody: napromienianie jonizujące, GMO i pochodne, chemiczna obróbka, tworzenie żywności z izolowanych składników.",
+        "Magazyny nie mogą być traktowane pestycydami; zakaz toksycznych materiałów budowlanych i farb.",
+        "Transport w zamkniętych, oznakowanych opakowaniach; luzem tylko między podmiotami w systemie kontroli prowadzącymi ewidencję ładunków.",
+        "Produkt wieloskładnikowy ekologiczny: co najmniej 95% składników ekologicznych; konwencjonalne do 5% tylko z załącznika IX rozp. 889/2008.",
+        "Przechowywanie musi gwarantować odpowiednie warunki magazynowania; transport dobiera się do rodzaju produktu.",
+        "Przy udziale składników certyfikowanych poniżej 95% można je tylko wymienić w składzie surowcowym, podając ich łączny procentowy udział w masie składników pochodzenia rolniczego."
+      ],
+      "images": [
+        {
+          "src": "img/re4/najchetniej-kupowane.jpg",
+          "caption": "Najchętniej kupowane produkty ekologiczne (rys. 4.7, % wskazań): produkty zbożowe – 78, nasiona – 68, warzywa i owoce – 55, zioła i herbaty – 40, nabiał – 12."
+        }
+      ]
+    },
+    {
+      "heading": "5. Kanały dystrybucji i sprzedaż bezpośrednia",
+      "points": [
+        "Kanały dystrybucji: bezpośrednie (producent sprzedaje sam) i pośrednie (z pomocą innych osób lub instytucji).",
+        "Rozwój kanałów zależy m.in. od podaży, stanu przetwórstwa, preferencji i dochodów konsumentów, systemu dystrybucji, udziału importu, programów wsparcia.",
+        "Najlepsze kanały: sprzedaż bezpośrednia konsumentom, do sklepów specjalistycznych i restauracji, certyfikowanemu przetwórcy, przez organizację producentów, certyfikowanemu hurtownikowi.",
+        "Typowe miejsca zakupu: rynki lokalne i ekorolnicze, sklepy ekologiczne, przydrożne stragany, gospodarstwa, dostawy na zamówienia internetowe i abonamentowe.",
+        "Sprzedaż z gospodarstwa – ważna dla małych, wielokierunkowych gospodarstw, łatwa w realizacji.",
+        "Dostawy door to door (koszykowe, kartonowe, paczkowe) – popularne za granicą; wymagają szerokiej gamy produktów i bliskości miasta.",
+        "Dostawy do sklepów specjalistycznych – najpopularniejsza forma z promocją własnego gospodarstwa.",
+        "Dostawy do sieci i supermarketów – obecnie marginalne, ale najbardziej przyszłościowe; trudne ze względu na stałość i wielkość asortymentu.",
+        "Sprzedaż do przetwórców, hurtowni i za granicę – najpopularniejsza dla gospodarstw wielkoobszarowych, sprzedaż „anonimowa”.",
+        "W krajach o początkowej fazie rynku (jak Polska) dominuje sprzedaż bezpośrednia, głównie na targowiskach – tani kanał dla małych, rozproszonych gospodarstw.",
+        "Na rynkach zaawansowanych popularna sprzedaż przez Internet (jednorazowo lub abonamentowo z dostawą).",
+        "Wady sprzedaży bezpośredniej: trudność dotarcia do klientów, duże nakłady pracy na jednostkę produktu, kolizja z pracami w gospodarstwie (zbiór).",
+        "Supermarkety dominują na rynkach dojrzałych (np. Niemcy); w Polsce obroty niskie; prawie 47% konsumentów uważa hipermarkety za najbardziej ryzykowne miejsce zakupu.",
+        "Biobazary – nowa forma; pierwszy otwarto w 2010 r. w Warszawie.",
+        "Dystrybucja – dostarczenie produktów klientom w takim czasie i miejscu, aby mogli je korzystnie nabyć; kanały dystrybucji to ogniwa (osoby, instytucje) między producentem a konsumentem.",
+        "Niskie obroty supermarketów w Polsce wynikają z niskiej podaży produktów ekologicznych (szczególnie przetworzonych) i krótkiej historii sklepów wielkopowierzchniowych.",
+        "Supermarkety wymagają dużych, jednorodnych jakościowo i terminowych dostaw – często niemożliwych dla drobnych producentów; dają jednak szansę dotarcia do masowego konsumenta.",
+        "Kanał dystrybucji jest narzędziem marketingu – musi być dobrany tak, by produkt dotarł w odpowiednim miejscu, czasie i formie do konsumenta o określonych preferencjach.",
+        "Czynniki rozwoju kanałów sprzedaży (pełna lista): poziom i struktura podaży (większa podaż – większa różnorodność kanałów), stan przetwórstwa, preferencje konsumentów, poziom ich dochodów, rozwój systemu dystrybucji w kraju/regionie, udział importu, programy wsparcia organizacji dystrybucji.",
+        "Sprzedaż na targach i targowiskach miejskich wymaga większego zaangażowania i sąsiedztwa miast; inne formy: sprzedaż do restauracji i hoteli; dostawy do sklepów specjalistycznych dają wysoką jakość handlową.",
+        "Sklepy internetowe mogą prowadzić producenci, pośrednicy lub hurtownie; obroty zależą od umiejętności komunikowania się producenta z konsumentami; sprawdzają się na wsi i w aglomeracjach.",
+        "Sprzedaż abonamentowa – klient płaci z góry za paczkę z określoną ilością produktów, często w regularnych dostawach.",
+        "Na biobazarach żywność sprzedają sami producenci – szansa dotarcia do konsumenta, zainteresowania nowymi produktami i budowania marki."
+      ],
+      "images": [
+        {
+          "src": "img/re4/kanaly-dystrybucji-schemat.jpg",
+          "caption": "Dystrybucja polega na dostarczeniu produktów klientom w takim czasie i miejscu, aby mogli je korzystnie nabyć. Kanały dystrybucji dzielą się na bezpośrednie (producent sprzedaje sam) i pośrednie (z udziałem pośredników)."
+        }
+      ]
+    },
+    {
+      "heading": "6. Rynki hurtowe, giełdy towarowe i aukcje",
+      "points": [
+        "W Polsce na milion mieszkańców przypada 13 sklepów ekologicznych (Niemcy – 194, Czechy – 46).",
+        "Rynek hurtowy: zakup dużych partii, zmiana wielkości partii i asortymentu (sortowanie, paczkowanie), kontrola jakości, odsprzedaż detalistom.",
+        "Cechy rynku hurtowego: duża skala transakcji, obecność towaru, sprzedaż w określonych porach dnia, instytucje wspomagające (banki, urzędy celne, kontrola jakości, magazyny).",
+        "Giełda towarowa – miejsce zorganizowanej wymiany towarów masowych, standaryzowanych i jednolitych; instytucja prywatno-prawna tworzona przez organizacje kupieckie.",
+        "Handel na giełdzie: w określonym czasie, towarami ujednoliconymi, bez ingerencji państwa, wg precyzyjnych zasad, z udziałem dopuszczonych podmiotów (fizycznie lub komputerowo).",
+        "Korzyści z giełd: przewidywanie potrzeb z wyprzedzeniem kilku miesięcy, standardy jakości i etyki, warunki zbliżone do konkurencji doskonałej, zapobieganie kartelom.",
+        "Aukcja – publiczny przetarg, na którym można uzyskać najwyższą w danych warunkach cenę.",
+        "Na aukcjach tylko transakcje rzeczywiste, towar obecny fizycznie, często trudny do standaryzacji; aukcja musi mieć zaplecze magazynowe.",
+        "Na giełdzie handluje się tylko towarami wystandaryzowanymi, które nie muszą być na miejscu.",
+        "Podział aukcji: regularne/nieregularne, angielska/holenderska, tradycyjne/elektroniczne.",
+        "Aukcja angielska – wygrywa najwyższa cena (nie niższa niż wywoławcza).",
+        "Aukcja holenderska – wysoka cena wywoławcza stopniowo obniżana z odliczaniem zegara; nabywcą jest pierwszy, kto zatrzyma zegar.",
+        "Trudną dostępność i wysokie ceny produktów ekologicznych wiąże się z niewystarczającą siecią sklepów specjalistycznych i brakiem profesjonalnego rynku hurtowego; przewiduje się konsolidację rynku aż do powstania hurtowych instytucji.",
+        "Dzięki rynkowi hurtowemu rolnicy otrzymują informacje o cenach, popycie i podaży oraz korzystają z doradztwa, koordynacji i marketingu; na niektórych rynkach hurtowych są już stoiska z żywnością ekologiczną.",
+        "Giełda – rynek formalny: handel w ściśle określonym czasie, towarami ujednoliconymi co do ilości i jakości (także pochodnymi i prawami do towarów), kontrolowany przez członków założycieli i specjalne organizacje.",
+        "Dalsze korzyści z giełd: wpływ na rozwiązania informatyczne na rynkach, rozwój przechowalnictwa, laboratoriów badających jakość i urządzeń standaryzujących.",
+        "Aukcja angielska – odpowiednik tradycyjnej, licytowany pojedynczy przedmiot (także w Internecie); aukcja holenderska to aukcja ustna z wstecznym odliczaniem zegara."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rachunek ekonomiczny – definicja",
+      "back": "Ogół technik pozwalających wybrać najbardziej racjonalną metodę osiągnięcia celu gospodarowania (porównanie nakładów z efektami)."
+    },
+    {
+      "front": "Zasada racjonalnego gospodarowania",
+      "back": "Maksymalna korzyść z danego nakładu lub dana korzyść przy minimalnym nakładzie."
+    },
+    {
+      "front": "Jaki udział w dochodzie gospodarstw ekologicznych mają dopłaty?",
+      "back": "Ponad 60%."
+    },
+    {
+      "front": "Główny motyw przestawiania gospodarstw na ekologiczne (wg modułu)",
+      "back": "Chęć uzyskania wyższych dochodów."
+    },
+    {
+      "front": "Liczba gospodarstw ekologicznych w Polsce w 2011 r.",
+      "back": "23 449 (blisko 23,5 tys.)."
+    },
+    {
+      "front": "O ile wzrosła liczba gospodarstw ekologicznych w 2011 r. względem 2010 r.?",
+      "back": "O ok. 15%."
+    },
+    {
+      "front": "Województwa z największą liczbą gospodarstw ekologicznych (2011)",
+      "back": "Zachodniopomorskie (3065), warmińsko-mazurskie (3033), podlaskie (2440)."
+    },
+    {
+      "front": "Województwa z największą liczbą przetwórni ekologicznych",
+      "back": "Mazowieckie (54), wielkopolskie (41), lubelskie (28)."
+    },
+    {
+      "front": "Typowy konsument żywności ekologicznej",
+      "back": "Mieszkaniec dużego miasta, dobrze sytuowany, ze średnim lub wyższym wykształceniem."
+    },
+    {
+      "front": "Czynniki wpływające na wielkość rynku żywności ekologicznej",
+      "back": "Świadomość konsumentów, sytuacja materialna, wiarygodność producentów, cena."
+    },
+    {
+      "front": "Najważniejszy czynnik wzrostu popytu na żywność ekologiczną",
+      "back": "Zwiększenie dostępności tej żywności."
+    },
+    {
+      "front": "Z czego głównie wynikają wyższe ceny żywności ekologicznej?",
+      "back": "Z kosztów dystrybucji i marż handlowych (nie z kosztów produkcji)."
+    },
+    {
+      "front": "Wysokość marż uczestników obrotu produktami ekologicznymi",
+      "back": "14–40%."
+    },
+    {
+      "front": "Gdzie konsument płaci najniższą cenę za produkt ekologiczny?",
+      "back": "Kupując bezpośrednio od producenta."
+    },
+    {
+      "front": "Jak obniżyć ceny produktów ekologicznych wg ekonomistów?",
+      "back": "Zwiększyć dostępność i podaż, wprowadzić je do sklepów wielkoobszarowych."
+    },
+    {
+      "front": "O ile niższe są plony w gospodarstwach ekologicznych?",
+      "back": "O 10–50%, zależnie od gatunku i wcześniejszej intensywności."
+    },
+    {
+      "front": "O ile mniejsze są nakłady na środki produkcji w gospodarstwach ekologicznych?",
+      "back": "O ok. 10–20%."
+    },
+    {
+      "front": "O ile większe są nakłady robocizny w gospodarstwach ekologicznych?",
+      "back": "O 10–20%."
+    },
+    {
+      "front": "Novodor",
+      "back": "Biologiczny preparat na stonkę ziemniaczaną – nawet kilkakrotnie droższy od syntetycznych insektycydów."
+    },
+    {
+      "front": "Dlaczego rolnictwo ekologiczne jest mniej energochłonne?",
+      "back": "Nie stosuje się nawozów sztucznych (zwłaszcza azotowych), których produkcja pochłania dużo energii."
+    },
+    {
+      "front": "Jak zmienia się struktura zasiewów w gospodarstwach ekologicznych?",
+      "back": "Mniej zbóż i oleistych, więcej strączkowych, pastewnych, okopowych i warzyw."
+    },
+    {
+      "front": "Plon i cena pszenicy ozimej ekologicznej względem średnich krajowych",
+      "back": "Plon niższy o ok. 30%, cena wyższa o ok. 6%."
+    },
+    {
+      "front": "Koszty bezpośrednie",
+      "back": "Koszty, które można dokładnie przypisać danej uprawie."
+    },
+    {
+      "front": "Dodatkowe koszty w ekologicznej produkcji ziemniaków",
+      "back": "Koszty certyfikacji i kontroli gospodarstwa."
+    },
+    {
+      "front": "Czynniki rentowności ziemniaków ekologicznych",
+      "back": "Ceny w sezonie, plony i straty w przechowywaniu, zmiana kosztów stałych."
+    },
+    {
+      "front": "Co obejmuje „przygotowanie produktów ekologicznych do sprzedaży”?",
+      "back": "Przetwórstwo, konfekcjonowanie, handel hurtowy i dystrybucję, zmianę oznakowania."
+    },
+    {
+      "front": "Konfekcjonowanie",
+      "back": "Porcjowanie, zamykanie opakowań i ich znakowanie."
+    },
+    {
+      "front": "Które punkty sprzedaży są zwolnione z kontroli?",
+      "back": "Detaliczne, sprzedające opakowane i oznakowane produkty konsumentom bezpośrednim."
+    },
+    {
+      "front": "Rodzaje rozgraniczenia produkcji ekologicznej i konwencjonalnej",
+      "back": "Przestrzenne (osobne linie/obiekty) lub czasowe (różne terminy, czyszczenie maszyn)."
+    },
+    {
+      "front": "Warunek wspólnego przechowywania produktów ekologicznych i konwencjonalnych",
+      "back": "Fizyczne rozdzielenie i odpowiednie oznakowanie."
+    },
+    {
+      "front": "Maksymalny udział składników konwencjonalnych w produkcie znakowanym jako ekologiczny",
+      "back": "5% (tylko z urzędowego wykazu)."
+    },
+    {
+      "front": "Od kiedy paczkowaną żywność ekologiczną z UE znakuje się tylko nowym logo?",
+      "back": "Od 1 lipca 2012 r. (logo obowiązuje od 1 lipca 2010 r.)."
+    },
+    {
+      "front": "Czy Euro-liść jest obowiązkowy na produktach importowanych spoza UE?",
+      "back": "Nie."
+    },
+    {
+      "front": "Minimalny udział składników certyfikowanych pozwalający na użycie Euro-liścia",
+      "back": "95%."
+    },
+    {
+      "front": "Na jakich produktach nie wolno stosować logo ekologicznego?",
+      "back": "Z okresu konwersji, z <95% składników ekologicznych, z dziczyzny i rybołówstwa."
+    },
+    {
+      "front": "Wymogi dot. umieszczenia logo (art. 24 rozp. 834/2007)",
+      "back": "Widoczne miejsce, czytelne, nieusuwalne."
+    },
+    {
+      "front": "Jak wygląda Euro-liść?",
+      "back": "Obrysowany gwiazdkami wizerunek liścia na zielonym tle."
+    },
+    {
+      "front": "Elementy oznaczenia kodowego na etykiecie produktu ekologicznego",
+      "back": "Nr kodowy jednostki certyfikującej (max 3 cyfry), kod państwa (np. PL), wyróżnik BIO/EKO/ORG."
+    },
+    {
+      "front": "Wyróżniki statusu ekologicznego w kodzie",
+      "back": "BIO, EKO, ORG."
+    },
+    {
+      "front": "Kiedy stosuje się oznaczenie „Rolnictwo PL”?",
+      "back": "Gdy 98% składników pochodzi z Polski."
+    },
+    {
+      "front": "Kiedy stosuje się oznaczenie „Rolnictwo UE/spoza UE”?",
+      "back": "Gdy część składników pochodzi z UE, a część spoza UE."
+    },
+    {
+      "front": "Czego nie może sugerować oznakowanie produktu ekologicznego?",
+      "back": "Że „System kontroli WE” gwarantuje wyższą jakość organoleptyczną, żywieniową lub zdrowotną."
+    },
+    {
+      "front": "Do kogo musi sięgać dokumentacja przepływu produktów ekologicznych?",
+      "back": "Wstecz aż do dostawców surowców."
+    },
+    {
+      "front": "Receptura w dokumentacji przetwórni ekologicznej",
+      "back": "Skład surowcowy + udział surowców w produkcie gotowym."
+    },
+    {
+      "front": "Co obejmuje ewidencja bilansu surowce – produkty?",
+      "back": "Zapasy surowców, rejestry zakupów, ewidencję produkcji, sprzedaży i bieżących zapasów."
+    },
+    {
+      "front": "Udział przetwórstwa owoców i warzyw oraz zbóż w przetwórstwie ekologicznym (2012)",
+      "back": "Owoce i warzywa 29%, zboża 20%."
+    },
+    {
+      "front": "Udział mięsa i przetworów mlecznych w przetwórstwie ekologicznym (2012)",
+      "back": "Mięso 10%, przetwory mleczne 8%."
+    },
+    {
+      "front": "Najchętniej kupowane produkty ekologiczne",
+      "back": "Produkty zbożowe (dalej nasiona, warzywa i owoce, zioła i herbaty, nabiał)."
+    },
+    {
+      "front": "Dlaczego mówi się o przetwórstwie „ekorolniczym”, a nie „ekologicznym”?",
+      "back": "Wyróżnikiem są surowce z rolnictwa ekologicznego, a nie technologie."
+    },
+    {
+      "front": "Metody wykluczone w przetwórstwie ekorolniczym",
+      "back": "Napromienianie jonizujące, GMO, chemiczna obróbka, żywność z izolowanych składników."
+    },
+    {
+      "front": "Warunek transportu surowców ekologicznych luzem",
+      "back": "Tylko między podmiotami w systemie kontroli, prowadzącymi ewidencję ładunków."
+    },
+    {
+      "front": "Gdzie jest wykaz dozwolonych składników konwencjonalnych (do 5%)?",
+      "back": "Załącznik IX do rozporządzenia 889/2008."
+    },
+    {
+      "front": "Kanał dystrybucji bezpośredni vs pośredni",
+      "back": "Bezpośredni – producent sprzedaje sam; pośredni – z pomocą innych osób/instytucji."
+    },
+    {
+      "front": "Najpopularniejsza forma sprzedaży z promocją własnego gospodarstwa",
+      "back": "Dostawy do sklepów specjalistycznych."
+    },
+    {
+      "front": "Najbardziej przyszłościowa (choć marginalna) droga sprzedaży",
+      "back": "Dostawy do sieci handlowych i supermarketów."
+    },
+    {
+      "front": "Najpopularniejsza forma sprzedaży dla gospodarstw wielkoobszarowych",
+      "back": "Sprzedaż do przetwórców, hurtowni i za granicę („anonimowa”)."
+    },
+    {
+      "front": "Sprzedaż door to door",
+      "back": "Dostawy do domu – koszykowe, kartonowe, paczkowe; wymaga szerokiej gamy produktów i bliskości miasta."
+    },
+    {
+      "front": "Dominująca forma sprzedaży bezpośredniej w krajach o początkowej fazie rynku (Polska)",
+      "back": "Targowiska."
+    },
+    {
+      "front": "Wady sprzedaży bezpośredniej",
+      "back": "Trudność dotarcia do klientów, duże nakłady pracy na jednostkę, kolizja z pracami w gospodarstwie."
+    },
+    {
+      "front": "Dominujący kanał dystrybucji na dojrzałych rynkach (np. Niemcy)",
+      "back": "Supermarkety (wielkopowierzchniowe sklepy ogólnospożywcze)."
+    },
+    {
+      "front": "Jaki odsetek konsumentów uważa, że miejsce zakupu wpływa na ryzyko?",
+      "back": "Prawie 47% (najbardziej ryzykowne – hipermarkety)."
+    },
+    {
+      "front": "Gdzie i kiedy otwarto pierwszy biobazar?",
+      "back": "W Warszawie w 2010 r."
+    },
+    {
+      "front": "Liczba sklepów ekologicznych na milion mieszkańców: Polska, Niemcy, Czechy",
+      "back": "13, 194, 46."
+    },
+    {
+      "front": "Rola rynku hurtowego",
+      "back": "Zakup dużych partii, sortowanie i paczkowanie, kontrola jakości, odsprzedaż detalistom."
+    },
+    {
+      "front": "Cechy rynku hurtowego",
+      "back": "Duża skala transakcji, obecność towaru, sprzedaż w określonych porach, instytucje wspomagające."
+    },
+    {
+      "front": "Giełda towarowa",
+      "back": "Miejsce zorganizowanej wymiany towarów masowych, standaryzowanych i jednolitych; instytucja prywatno-prawna."
+    },
+    {
+      "front": "Czy na giełdzie towar musi być obecny fizycznie?",
+      "back": "Nie – handluje się towarami wystandaryzowanymi, które nie muszą być na miejscu."
+    },
+    {
+      "front": "Aukcja",
+      "back": "Publiczny przetarg, w którym można uzyskać najwyższą w danych warunkach cenę; towar obecny fizycznie."
+    },
+    {
+      "front": "Co musi posiadać aukcja w odróżnieniu od giełdy?",
+      "back": "Zaplecze przechowalniczo-magazynowe."
+    },
+    {
+      "front": "Aukcja angielska",
+      "back": "Wygrywa osoba, która zgłosi najwyższą cenę (nie niższą od wywoławczej)."
+    },
+    {
+      "front": "Aukcja holenderska",
+      "back": "Wysoka cena wywoławcza stopniowo obniżana z zegarem; kupuje pierwszy, kto zatrzyma zegar."
+    },
+    {
+      "front": "Kryteria podziału aukcji",
+      "back": "Regularność (regularne/nieregularne), sposób licytacji (angielska/holenderska), obecność uczestników (tradycyjne/elektroniczne)."
+    },
+    {
+      "front": "Dystrybucja – definicja",
+      "back": "Dostarczenie produktów klientom w takim czasie i miejscu, aby mogli je korzystnie nabyć."
+    },
+    {
+      "front": "Dlaczego obroty żywnością ekologiczną w supermarketach w Polsce są niskie?",
+      "back": "Niska podaż produktów ekologicznych (zwłaszcza przetworzonych) i krótka historia sklepów wielkopowierzchniowych."
+    },
+    {
+      "front": "Wymagania supermarketów wobec dostawców żywności ekologicznej",
+      "back": "Duże partie, jednorodna jakość, terminowe dostawy."
+    },
+    {
+      "front": "Który czynnik najbardziej warunkuje wzrost popytu na żywność ekologiczną (wg wykresu)?",
+      "back": "Powiększenie dostępności (29%), następnie wzrost dochodów (23%) i mniejsze różnice cenowe (22%).",
+      "img": "img/re4/czynniki-popytu.jpg"
+    },
+    {
+      "front": "Jakie produkty ekologiczne konsumenci kupują najchętniej?",
+      "back": "Produkty zbożowe (78%), nasiona (68%), warzywa i owoce (55%), zioła i herbaty (40%), nabiał (12%).",
+      "img": "img/re4/najchetniej-kupowane.jpg"
+    },
+    {
+      "front": "Liczba gospodarstw ekologicznych w Polsce w 2003 r. (rys. 4.1)",
+      "back": "2286 (w 2011 r. – 23 449)."
+    },
+    {
+      "front": "W którym roku liczba przetwórni ekologicznych w Polsce była największa (2003–2011)?",
+      "back": "W 2010 r. – 293 (w 2011 r. spadek do 270; w 2003 r. – 22)."
+    },
+    {
+      "front": "Powierzchnia upraw ekologicznych w Polsce w 2011 r. (rys. 4.3)",
+      "back": "605 519 (w 2003 r. – 61 236)."
+    },
+    {
+      "front": "Co to jest zużycie pośrednie?",
+      "back": "Koszty zużyte jako nakład w procesie produkcji w przeliczeniu na 1 ha użytków rolnych."
+    },
+    {
+      "front": "Kiedy handlowcy narzucają wysokie marże?",
+      "back": "Gdy popyt przewyższa podaż."
+    },
+    {
+      "front": "Dlaczego producent sprzedaje taniej hurtowni lub sklepowi niż konsumentowi?",
+      "back": "Bo firmy te ponoszą dodatkowe koszty transportu, przechowywania i pakowania."
+    },
+    {
+      "front": "Handel hurtowy i dystrybucja produktów ekologicznych – definicja",
+      "back": "Zakup produktów w celu odprzedaży bez zmiany ich rodzaju i oznakowania (zmienia się tylko sprzedający)."
+    },
+    {
+      "front": "Co trzeba robić przy czasowym rozgraniczeniu produkcji ekologicznej i konwencjonalnej?",
+      "back": "Każdorazowo czyścić urządzenia i maszyny przed przetwarzaniem produktów ekologicznych i dokumentować to w rejestrach czyszczenia."
+    },
+    {
+      "front": "Co wolno napisać na produkcie z mniej niż 95% składników ekologicznych?",
+      "back": "Tylko wymienić je w składzie surowcowym z podaniem łącznego % udziału w masie składników rolniczych – bez znakowania jako ekologiczny."
+    },
+    {
+      "front": "Kiedy stosuje się oznaczenie „Rolnictwo spoza UE”?",
+      "back": "Gdy wszystkie składniki pochodzą spoza UE."
+    },
+    {
+      "front": "Kiedy stosuje się oznaczenie „Rolnictwo UE”?",
+      "back": "Gdy wszystkie składniki pochodzą z UE."
+    },
+    {
+      "front": "Dokumenty sporządzane przy podjęciu przetwórstwa ekologicznego",
+      "back": "Opis przedsięwzięcia (rozdział części eko od konwencjonalnej), lista produktów do certyfikacji, receptury, lista dostawców, kopie ich certyfikatów, wzory dokumentów przepływu surowców, raporty produkcyjne i rejestry, projekty etykiet."
+    },
+    {
+      "front": "Czynniki rozwoju kanałów sprzedaży żywności ekologicznej",
+      "back": "Poziom i struktura podaży, stan przetwórstwa, preferencje konsumentów, ich dochody, rozwój systemu dystrybucji, udział importu, programy wsparcia."
+    },
+    {
+      "front": "Kanały dystrybucji zapewniające najlepsze efekty zagospodarowania produktów ekologicznych",
+      "back": "Bezpośrednia sprzedaż konsumentom; bezpośrednia sprzedaż do sklepów specjalistycznych i restauracji; sprzedaż certyfikowanemu przetwórcy; sprzedaż w ramach organizacji producentów; sprzedaż certyfikowanemu hurtownikowi."
+    },
+    {
+      "front": "Typowe kanały, którymi konsumenci docierają do produktów ekologicznych",
+      "back": "Rynki lokalne i ekorolnicze, sklepy ekologiczne, przydrożne stragany, zakupy w gospodarstwach, dostawy na zamówienia internetowe, sprzedaż abonamentowa."
+    },
+    {
+      "front": "Sprzedaż abonamentowa",
+      "back": "Klient płaci z góry za paczkę z określoną ilością produktów, dostarczaną często regularnie."
+    },
+    {
+      "front": "Formy sprzedaży bezpośredniej (wg modułu IV)",
+      "back": "Z gospodarstwa; na targach i targowiskach; door to door; do sklepów specjalistycznych; do restauracji i hoteli; do sklepów i sieci handlowych; do przetwórców, hurtowni i za granicę."
+    },
+    {
+      "front": "Jakie korzyści dają rolnikom rynki hurtowe?",
+      "back": "Informacje o cenach, popycie i podaży; doradztwo, koordynację i marketing."
+    },
+    {
+      "front": "Korzyści z giełd towarowych",
+      "back": "Przewidywanie potrzeb z wyprzedzeniem kilku miesięcy; standardy jakości, metod handlu i etyki; warunki zbliżone do konkurencji doskonałej i zapobieganie kartelom; wpływ na rozwiązania informatyczne; rozwój przechowalnictwa i laboratoriów jakości."
+    },
+    {
+      "front": "Cechy handlu na giełdzie towarowej",
+      "back": "Ściśle określony czas; towary ujednolicone co do ilości i jakości; bez ingerencji państwa; precyzyjne zasady; kontrola członków założycieli; dopuszczone podmioty; uczestnicy obecni fizycznie lub przez komputery."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Podstawą rachunku ekonomicznego jest zasada:",
+      "options": [
+        "racjonalnego gospodarowania",
+        "maksymalizacji nakładów",
+        "samowystarczalności nawozowej",
+        "zrównoważonego płodozmianu"
+      ],
+      "answer": 0,
+      "explain": "Podstawą rachunku ekonomicznego jest zasada racjonalnego gospodarowania."
+    },
+    {
+      "q": "Rachunek ekonomiczny polega na porównaniu:",
+      "options": [
+        "plonów z obsadą zwierząt",
+        "cen skupu z cenami detalicznymi",
+        "przychodów z dopłatami",
+        "nakładów z efektami"
+      ],
+      "answer": 3,
+      "explain": "Rachunek polega na porównaniu przewidywanych lub poniesionych nakładów z efektami."
+    },
+    {
+      "q": "Dopłaty stanowią w dochodzie gospodarstw ekologicznych:",
+      "options": [
+        "około 5%",
+        "około 20%",
+        "ponad 60%",
+        "około 35%"
+      ],
+      "answer": 2,
+      "explain": "Dopłaty, w tym ekologiczne, stanowią ponad 60% dochodu takich gospodarstw."
+    },
+    {
+      "q": "W 2011 r. najwięcej gospodarstw ekologicznych było w województwie:",
+      "options": [
+        "mazowieckim",
+        "zachodniopomorskim",
+        "małopolskim",
+        "śląskim"
+      ],
+      "answer": 1,
+      "explain": "Najwięcej gospodarstw było w zachodniopomorskim (3065), warmińsko-mazurskim (3033) i podlaskim (2440)."
+    },
+    {
+      "q": "Najwięcej przetwórni ekologicznych w 2011 r. działało w województwie:",
+      "options": [
+        "podlaskim",
+        "mazowieckim",
+        "zachodniopomorskim",
+        "opolskim"
+      ],
+      "answer": 1,
+      "explain": "Pod względem liczby przetwórni dominuje mazowieckie (54)."
+    },
+    {
+      "q": "Liczba gospodarstw ekologicznych w Polsce w 2011 r. wynosiła około:",
+      "options": [
+        "23,5 tys.",
+        "2,3 tys.",
+        "10 tys.",
+        "50 tys."
+      ],
+      "answer": 0,
+      "explain": "W 2011 r. liczba gospodarstw ekologicznych wynosiła 23 449."
+    },
+    {
+      "q": "Najważniejszym czynnikiem wzrostu popytu na żywność ekologiczną jest:",
+      "options": [
+        "wzrost zachorowalności",
+        "poszerzenie asortymentu",
+        "reklama telewizyjna",
+        "zwiększenie jej dostępności"
+      ],
+      "answer": 3,
+      "explain": "Najważniejszym czynnikiem jest wzrost dostępności tej żywności."
+    },
+    {
+      "q": "Wyższe ceny żywności ekologicznej wynikają przede wszystkim z:",
+      "options": [
+        "wyższych kosztów nawozów sztucznych",
+        "podatku ekologicznego",
+        "kosztów dystrybucji i marż handlowych",
+        "kosztów pestycydów"
+      ],
+      "answer": 2,
+      "explain": "Różnice cen wynikają głównie z kosztów dystrybucji i marż handlowych, a nie z kosztów produkcji."
+    },
+    {
+      "q": "Marże poszczególnych uczestników obrotu produktami ekologicznymi wynoszą:",
+      "options": [
+        "1–5%",
+        "50–80%",
+        "14–40%",
+        "100–150%"
+      ],
+      "answer": 2,
+      "explain": "Marże uczestników obrotu wynoszą od 14 do 40%."
+    },
+    {
+      "q": "Najniższą cenę za produkt ekologiczny konsument płaci, kupując:",
+      "options": [
+        "w hipermarkecie",
+        "bezpośrednio od producenta",
+        "w sklepie specjalistycznym",
+        "przez hurtownię"
+      ],
+      "answer": 1,
+      "explain": "Konsument płaci najniższą cenę, dokonując transakcji bezpośrednio z producentem."
+    },
+    {
+      "q": "Plony w gospodarstwach ekologicznych są w porównaniu z konwencjonalnymi mniejsze o:",
+      "options": [
+        "10–50%",
+        "1–5%",
+        "60–80%",
+        "nie różnią się"
+      ],
+      "answer": 0,
+      "explain": "Plony są mniejsze o 10–50% zależnie od gatunku i wcześniejszej intensywności."
+    },
+    {
+      "q": "Nakłady robocizny w gospodarstwach ekologicznych w porównaniu z konwencjonalnymi są:",
+      "options": [
+        "mniejsze o 10–20%",
+        "większe o 50–60%",
+        "takie same",
+        "większe o 10–20%"
+      ],
+      "answer": 3,
+      "explain": "Nakłady robocizny są większe o 10–20%."
+    },
+    {
+      "q": "Nakłady na zakup środków produkcji w gospodarstwach ekologicznych są:",
+      "options": [
+        "większe o ok. 10–20%",
+        "mniejsze o ok. 70%",
+        "takie same jak w konwencjonalnych",
+        "mniejsze o ok. 10–20%"
+      ],
+      "answer": 3,
+      "explain": "Gospodarstwa ekologiczne ponoszą o ok. 10–20% mniejsze nakłady na środki produkcji."
+    },
+    {
+      "q": "Biologiczny preparat Novodor stosuje się do zwalczania:",
+      "options": [
+        "zarazy ziemniaka",
+        "chwastów",
+        "stonki ziemniaczanej",
+        "mszyc na zbożach"
+      ],
+      "answer": 2,
+      "explain": "Zwalczanie stonki ziemniaczanej preparatem Novodor jest kilkakrotnie droższe niż środkami syntetycznymi."
+    },
+    {
+      "q": "Plony pszenicy ozimej uprawianej ekologicznie są w porównaniu ze średnią krajową niższe o około:",
+      "options": [
+        "5%",
+        "30%",
+        "60%",
+        "80%"
+      ],
+      "answer": 1,
+      "explain": "Plony pszenicy ozimej ekologicznej są niższe o ok. 30%, a cena wyższa o ok. 6%."
+    },
+    {
+      "q": "Koszty, które można dokładnie przypisać danej uprawie, to koszty:",
+      "options": [
+        "bezpośrednie",
+        "stałe",
+        "ogólnogospodarcze",
+        "pośrednie"
+      ],
+      "answer": 0,
+      "explain": "Koszty bezpośrednie to koszty, które można dokładnie przypisać uprawie."
+    },
+    {
+      "q": "Dodatkowym kosztem w ekologicznej produkcji ziemniaków jest koszt:",
+      "options": [
+        "certyfikacji i kontroli",
+        "nawozów azotowych",
+        "herbicydów",
+        "zapraw syntetycznych"
+      ],
+      "answer": 0,
+      "explain": "Dodatkowymi kosztami w metodzie ekologicznej są koszty certyfikacji i kontroli gospodarstwa."
+    },
+    {
+      "q": "Z obowiązku kontroli zwolnione są:",
+      "options": [
+        "hurtownie produktów ekologicznych",
+        "przetwórnie ekologiczne",
+        "firmy konfekcjonujące",
+        "punkty detaliczne sprzedające opakowane i oznakowane produkty konsumentom"
+      ],
+      "answer": 3,
+      "explain": "Zwolnione są punkty detaliczne sprzedające opakowane i oznakowane produkty konsumentom bezpośrednim."
+    },
+    {
+      "q": "Konfekcjonowanie produktów ekologicznych to:",
+      "options": [
+        "przerób technologiczny surowca",
+        "zakup w celu odprzedaży",
+        "porcjowanie, zamykanie i znakowanie opakowań",
+        "kontrola jakości w laboratorium"
+      ],
+      "answer": 2,
+      "explain": "Konfekcjonowanie obejmuje porcjowanie, zamykanie opakowań i ich znakowanie."
+    },
+    {
+      "q": "Czasowe rozgraniczenie produkcji ekologicznej i konwencjonalnej wymaga:",
+      "options": [
+        "osobnego budynku",
+        "czyszczenia maszyn udokumentowanego w rejestrach",
+        "zgody ARiMR",
+        "osobnego właściciela zakładu"
+      ],
+      "answer": 1,
+      "explain": "Urządzenia muszą być każdorazowo oczyszczone, co musi być udokumentowane w rejestrach czyszczenia."
+    },
+    {
+      "q": "Od 1 lipca 2012 r. paczkowaną żywność ekologiczną wyprodukowaną w UE znakuje się:",
+      "options": [
+        "dowolnym logo krajowym",
+        "wyłącznie unijnym logo (Euro-liść)",
+        "znakiem CE",
+        "logo IFOAM"
+      ],
+      "answer": 1,
+      "explain": "Od 1 lipca 2012 r. można używać tylko nowego unijnego logo produkcji ekologicznej."
+    },
+    {
+      "q": "Euro-liścia nie można stosować na produktach:",
+      "options": [
+        "z okresu konwersji",
+        "paczkowanych z UE",
+        "zawierających 100% składników ekologicznych",
+        "z chronioną nazwą geograficzną"
+      ],
+      "answer": 0,
+      "explain": "Logo nie można stosować na produktach z okresu konwersji, z <95% składników ekologicznych, z dziczyzny i rybołówstwa."
+    },
+    {
+      "q": "Euro-liść jest obowiązkowy na:",
+      "options": [
+        "produktach importowanych spoza UE",
+        "produktach z okresu konwersji",
+        "nieopakowanych warzywach",
+        "pakowanej żywności ekologicznej wytworzonej w UE"
+      ],
+      "answer": 3,
+      "explain": "Logo musi widnieć na pakowanej żywności ekologicznej z UE; dla importu spoza UE nie jest obowiązkowe."
+    },
+    {
+      "q": "Oznaczenie „Rolnictwo PL” stosuje się, gdy z Polski pochodzi:",
+      "options": [
+        "50% składników",
+        "75% składników",
+        "98% składników",
+        "90% składników"
+      ],
+      "answer": 2,
+      "explain": "„Rolnictwo PL” – jeśli 98% składników pochodzi z Polski."
+    },
+    {
+      "q": "Wyróżnikiem statusu ekologicznego w oznaczeniu kodowym NIE jest:",
+      "options": [
+        "BIO",
+        "EKO",
+        "ECO-PL",
+        "ORG"
+      ],
+      "answer": 2,
+      "explain": "Wyróżniki statusu ekologicznego to BIO, EKO, ORG."
+    },
+    {
+      "q": "Numer kodowy jednostki certyfikującej w oznaczeniu produktu jest:",
+      "options": [
+        "zawsze sześciocyfrowy",
+        "maksymalnie trzycyfrowy",
+        "literowy",
+        "zgodny z numerem NIP"
+      ],
+      "answer": 1,
+      "explain": "Nr kodowy jednostki certyfikującej to maks. trzycyfrowy numer nadany przez państwo członkowskie."
+    },
+    {
+      "q": "Dokumentacja przepływu produktów ekologicznych musi umożliwiać identyfikację wstecz aż do:",
+      "options": [
+        "dostawców surowców",
+        "konsumenta",
+        "sklepu detalicznego",
+        "jednostki certyfikującej"
+      ],
+      "answer": 0,
+      "explain": "Dokumentowanie musi umożliwiać identyfikację wstecz, aż do dostawców surowców."
+    },
+    {
+      "q": "Największy udział w przetwórstwie produktów ekologicznych w 2012 r. miało przetwórstwo:",
+      "options": [
+        "mięsa",
+        "mleka",
+        "zbóż",
+        "owoców i warzyw"
+      ],
+      "answer": 3,
+      "explain": "Przetwórstwo owoców i warzyw miało 29%, zbóż 20%, mięsa 10%, mleka 8%."
+    },
+    {
+      "q": "Którą metodę wyklucza się w przetwórstwie ekorolniczym?",
+      "options": [
+        "Fermentację",
+        "Obróbkę termiczną",
+        "Obróbkę mechaniczną",
+        "Napromienianie promieniami jonizującymi"
+      ],
+      "answer": 3,
+      "explain": "Wykluczone są m.in. napromienianie, GMO, chemiczna obróbka i żywność z izolowanych składników."
+    },
+    {
+      "q": "Transport surowców ekologicznych luzem jest dopuszczalny:",
+      "options": [
+        "zawsze",
+        "nigdy",
+        "tylko między podmiotami w systemie kontroli prowadzącymi ewidencję ładunków",
+        "tylko na odległość do 50 km"
+      ],
+      "answer": 2,
+      "explain": "Transport luzem może odbywać się wyłącznie między podmiotami objętymi systemem kontroli prowadzącymi ewidencję ładunków."
+    },
+    {
+      "q": "Najpopularniejszą formą sprzedaży dla rolników wielkoobszarowych jest:",
+      "options": [
+        "sprzedaż z gospodarstwa",
+        "sprzedaż do przetwórców, hurtowni i za granicę",
+        "sprzedaż na targowisku",
+        "dostawy door to door"
+      ],
+      "answer": 1,
+      "explain": "Sprzedaż do przetwórców, hurtowni i za granicę to najpopularniejsza forma dla rolników wielkoobszarowych."
+    },
+    {
+      "q": "Dominującą formą sprzedaży bezpośredniej w Polsce (rynek w początkowej fazie) są:",
+      "options": [
+        "targowiska",
+        "supermarkety",
+        "sklepy internetowe",
+        "giełdy towarowe"
+      ],
+      "answer": 0,
+      "explain": "W krajach o początkowej fazie rynku dominującą formą sprzedaży bezpośredniej są targowiska."
+    },
+    {
+      "q": "Pierwszy biobazar w Polsce otwarto w 2010 r. w:",
+      "options": [
+        "Warszawie",
+        "Krakowie",
+        "Poznaniu",
+        "Gdańsku"
+      ],
+      "answer": 0,
+      "explain": "Pierwszy biobazar otworzono w 2010 roku w Warszawie."
+    },
+    {
+      "q": "W Polsce na milion mieszkańców przypada sklepów z żywnością ekologiczną:",
+      "options": [
+        "46",
+        "194",
+        "100",
+        "13"
+      ],
+      "answer": 3,
+      "explain": "W Polsce jest 13 sklepów na milion mieszkańców, w Czechach 46, w Niemczech 194."
+    },
+    {
+      "q": "Na giełdzie towarowej handluje się:",
+      "options": [
+        "wyłącznie towarami obecnymi fizycznie",
+        "towarami niestandaryzowanymi",
+        "towarami wystandaryzowanymi, które nie muszą być na miejscu",
+        "wyłącznie produktami ekologicznymi"
+      ],
+      "answer": 2,
+      "explain": "Na giełdach handluje się towarami wystandaryzowanymi, które nie muszą znajdować się na miejscu transakcji."
+    },
+    {
+      "q": "W aukcji holenderskiej:",
+      "options": [
+        "wygrywa najwyższa zgłoszona oferta",
+        "cena wywoławcza jest stopniowo obniżana, a kupuje pierwszy, kto zatrzyma zegar",
+        "cena jest stała",
+        "transakcje zawiera się bez obecności towaru"
+      ],
+      "answer": 1,
+      "explain": "W aukcji holenderskiej wysoka cena wywoławcza jest obniżana, a nabywcą zostaje pierwszy, kto zatrzyma zegar."
+    },
+    {
+      "q": "Aukcja, w odróżnieniu od giełdy, musi posiadać:",
+      "options": [
+        "członków założycieli",
+        "zaplecze przechowalniczo-magazynowe",
+        "notowania komputerowe",
+        "towary standaryzowane"
+      ],
+      "answer": 1,
+      "explain": "Aukcja musi posiadać zaplecze przechowalniczo-magazynowe."
+    },
+    {
+      "q": "Wymaganiem supermarketów, często niemożliwym do spełnienia dla drobnych producentów ekologicznych, są:",
+      "options": [
+        "duże, jednorodne jakościowo i terminowe dostawy",
+        "dostawy wyłącznie produktów nieprzetworzonych",
+        "sprzedaż wyłącznie przez Internet",
+        "certyfikat Euro-liścia na produktach spoza UE"
+      ],
+      "answer": 0,
+      "explain": "Supermarkety wymagają dużych partii jednorodnych jakościowo produktów dostarczanych terminowo."
+    },
+    {
+      "q": "Ile wynosiła liczba gospodarstw ekologicznych w Polsce w 2003 r.?",
+      "options": [
+        "2286",
+        "9194",
+        "23 449",
+        "15 206"
+      ],
+      "answer": 0,
+      "explain": "Rys. 4.1: 2003 – 2286, 2006 – 9194, 2008 – 15 206, 2011 – 23 449."
+    },
+    {
+      "q": "Dlaczego producent ekologiczny sprzedający hurtowni otrzymuje niższą cenę niż przy sprzedaży konsumentowi?",
+      "options": [
+        "Hurtownia płaci podatek ekologiczny",
+        "Produkt traci certyfikat",
+        "Hurtownia ponosi koszty transportu, przechowywania i pakowania",
+        "Hurtownie kupują tylko produkty z konwersji"
+      ],
+      "answer": 2,
+      "explain": "Firmy pośredniczące ponoszą dodatkowe koszty transportu, przechowywania i pakowania."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Na rynkach stronę popytu reprezentują:",
+      "options": [
+        "nabywcy.",
+        "konsumenci.",
+        "oferenci.",
+        "sprzedawcy."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOstatnie lata w rozwoju rolnictwa ekologicznego w Polsce charakteryzują się …, liczby gospodarstw i przetwórni będących w systemie rolnictwa ekologicznego.",
+      "options": [
+        "wzrostem",
+        "spadkiem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWażną grupę konsumentów żywności ekologicznej stanowią matki małych dzieci, osoby chore oraz emeryci, którzy mimo niskich dochodów wybierają towar produkowany w sposób naturalny",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz, w jakich przypadkach używanie unijnego logo Euro-liść jest dobrowolne.",
+      "options": [
+        "W produktach zawierających więcej niż 95% składników pochodzenia ekorolniczego.",
+        "W reklamie ekoproduktów.",
+        "W produktach z obszaru UE wprowadzanych do obrotu jako ekologiczne.",
+        "W produktach importowanych spoza UE i wprowadzanych do obrotu jako ekologiczne."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nGospodarstwa ekologiczne ponoszą zazwyczaj o około 10–20% … nakłady na zakup środków produkcji.",
+      "options": [
+        "większe",
+        "mniejsze"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNakłady robocizny w gospodarstwach ekologicznych są zazwyczaj mniejsze niż w gospodarstwach konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co należy uwzględnić w ewidencji prowadzonej od momentu rozpoczęcia produkcji ekologicznej?",
+      "options": [
+        "Ewidencję sprzedaży.",
+        "Stan zapasów surowców.",
+        "Stan bieżących zapasów magazynowych surowców i produktów.",
+        "Ewidencję wyprodukowanych asortymentów."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonsumenci żywności ekologicznej to przede wszystkim mieszkańcy … miast, dobrze sytuowani materialnie oraz posiadający średnie i wyższe wykształcenie",
+      "options": [
+        "małych",
+        "dużych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAby móc wyodrębnić asortymenty ekologiczne spośród pozostałych produktów, konieczne jest ich odpowiednie oznakowanie w magazynie, podczas produkcji, oraz w dokumentacji handlowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie sposoby konserwacji i przetwórstwa nie mogą być wykorzystywane w obróbce produktów ekologicznych?",
+      "options": [
+        "Fermentacja.",
+        "Emulgacja środkami syntetycznymi.",
+        "Powlekanie.",
+        "Barwienie."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNajbardziej rozpowszechnionym w Polsce sposobem sprzedaży produktów ekologicznych jest sprzedaż ….",
+      "options": [
+        "w supermarketach",
+        "bezpośrednia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDystrybucja produktów ekologicznych poprzez sieci supermarketów daje szanse drobnym producentom, którym łatwo sprostać nieskomplikowanym wymaganiom.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki jest najważniejszy czynnik warunkujący wzrost popytu na żywność ekologiczną?",
+      "options": [
+        "Spadek cen żywności ekologicznej.",
+        "Pozytywne oddziaływanie kampanii społecznych promujących żywność ekologiczną.",
+        "Zwiększenie dostępności do żywności ekologicznej.",
+        "Wzrost mody na żywność ekologiczną."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLicytacja poprzez obniżenie ceny charakteryzuje aukcję ….",
+      "options": [
+        "holenderską",
+        "angielską"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAukcja to rodzaj publicznego przetargu, w czasie którego sprzedający i kupujący może uzyskać najwyższą w danych warunkach cenę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Cechą odróżniającą przetwórstwo ekorolnicze od konwencjonalnego jest:",
+      "options": [
+        "pochodzenie surowców.",
+        "wyłącznie termiczna obróbka żywności.",
+        "dodawanie emulgatorów.",
+        "stosowanie metod fermentacyjnych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa … sprzedawane są tylko i wyłącznie towary wystandaryzowane.",
+      "options": [
+        "aukcjach",
+        "giełdach"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻywność ekologiczna na rynku jest zazwyczaj tańsza od konwencjonalnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki powinien być udział składników ekologicznych w produkcie, aby można było zastosować na opakowaniu logo żywności ekologicznej?",
+      "options": [
+        "Co najmniej 75%.",
+        "Co najmniej 85%.",
+        "Co najmniej 65%.",
+        "Co najmniej 95%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa etykietach produktów ekologicznych … jest umieszczanie dodatkowych oznaczeń, jak np. logo i nazwy jednostek certyfikujących czy krajowe i prywatne logo rolnictwa ekologicznego.",
+      "options": [
+        "dopuszczalne",
+        "niedopuszczalne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLogo oraz oznaczenia rolnictwa ekologicznego powinny być stosowane w widocznym miejscu, czytelne, nieusuwalne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz typowe kanały dystrybucji produktów ekologicznych.",
+      "options": [
+        "Sklepy z żywnością ekologiczną.",
+        "Przydrożne stragany w regionach wiejskich.",
+        "Zakupy bezpośrednio w gospodarstwach.",
+        "Otwarte aukcje hurtowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW krajach o zaawansowanym stopniu rozwoju rynku żywnościowych produktów ekologicznych popularna jest sprzedaż bezpośrednia ….",
+      "options": [
+        "przez Internet",
+        "na targowiskach"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGiełda, w odróżnieniu od aukcji, musi posiadać odpowiednie zaplecze przechowalniczo-magazynowe, gdzie składowane są towary przeznaczone do sprzedaży.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przy zmianie metody produkcji ziemniaków z konwencjonalnej na ekologiczną wyeliminowano nawożenie:",
+      "options": [
+        "mineralne.",
+        "nawozami zielonymi.",
+        "obornikiem.",
+        "kompostem."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeśli udział składników certyfikowanych wynosi mniej niż 95% … wymienienie ich w składzie surowcowym.",
+      "options": [
+        "możliwe jest tylko",
+        "niemożliwe jest nawet"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przetwórstwie produktów ekologicznych nie mogą być stosowane syntetyczne dodatki, dozwolone jest natomiast napromienianie takiej żywności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie nowe koszty pojawiają się przy zmianie produkcji z konwencjonalnej na ekologiczną?",
+      "options": [
+        "Związane z założeniem Internetu.",
+        "Wprowadzenia płodozmianu.",
+        "Zakupu nawozów mineralnych.",
+        "Certyfikacji."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodmioty zajmujące się przygotowaniem do obrotu produktów rolnictwa ekologicznego są zobowiązane dokumentować ich przepływ na … etapach procesu produkcyjnego.",
+      "options": [
+        "wszystkich",
+        "odpowiednich"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wszystkie produkty żywności ekologicznej, które spełniają wytyczone normy, muszą posiadać oznakowanie unijnym logo niezależnie od rodzaju opakowań.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie etapy przygotowania produktów ekologicznych do obrotu wchodzą w zakres konfekcjonowania?",
+      "options": [
+        "Znakowanie opakowań.",
+        "Porcjowanie.",
+        "Zamykanie opakowań.",
+        "Przerób technologiczny."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nEuro-liść musi zawsze widnieć na pakowanej żywności organicznej, którą wytworzono w jednym z państw ….",
+      "options": [
+        "Europy",
+        "Unii Europejskiej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKanał dystrybucji żywności ekologicznej jest jednym z narzędzi marketingu, musi on być prawidłowo dobrany, aby produkt ekologiczny w odpowiednim miejscu, czasie i formie dotarł do konsumenta o określonych preferencjach",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynniki mają wpływ na wielkość rynku żywności ekologicznej?",
+      "options": [
+        "Świadomość konsumentów.",
+        "Wiarygodność producentów.",
+        "Cena produktów.",
+        "Sytuacja materialna konsumentów."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przetwórstwie produktów ekologicznych … metody mechaniczne, fizyczne, fermentacyjne.",
+      "options": [
+        "dopuszczalne są tradycyjne",
+        "nie dopuszczalne są żadne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTowary przeznaczone do sprzedaży są fizycznie obecne na ….",
+      "options": [
+        "aukcji",
+        "giełdzie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, gdzie można zakupić towary ekologiczne.",
+      "options": [
+        "Przez Internet.",
+        "Na biobazarze.",
+        "U rolnika w gospodarstwie.",
+        "W sklepach ze zdrową żywnością."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBiobazar to miejsce w którym produkty sprzedają licencjonowani przedstawiciele producentów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSprzedaż bezpośrednia dominuje w tych krajach, gdzie rynek żywnościowych produktów ekologicznych jest w początkowej fazie rozwoju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Według jakich kryteriów można podzielić aukcje produktów ekologicznych?",
+      "options": [
+        "Wpływu na rozwiązania informatyczne na rynkach.",
+        "Regularności odbywania się aukcji.",
+        "Obecności uczestników.",
+        "Sposobu licytacji."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzedmiotem sprzedaży … są małe partie towarów, co oznacza, że nakłady pracy na jednostkę produktu sprzedanego są znaczne.",
+      "options": [
+        "bezpośredniej",
+        "pośredniej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWzrost liczby gospodarstw ekologicznych w Polsce nastąpił wraz z pojawieniem się systemu wsparcia rolnictwa ekologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakich przypadkach obligatoryjne jest używanie unijnego logo Euro-liść.",
+      "options": [
+        "W reklamie ekoproduktów.",
+        "W produktach importowanych z krajów spoza Unii i wprowadzanych do obrotu jako ekologiczne.",
+        "W oznakowaniu ekoproduktów paczkowanych.",
+        "W produktach z obszaru UE wprowadzanych do obrotu jako ekologiczne."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW Polsce najchętniej kupowanymi produktami ekologicznymi są ….",
+      "options": [
+        "zioła i herbaty",
+        "produkty zbożowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKażdy producent żywności może równolegle prowadzić produkcję ekorolniczą i konwencjonalną pod warunkiem, otrzymania zgody od instytucji certyfikującej gospodarstwa ekologiczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie czynniki zwiększają koszty ogólnogospodarcze w przypadku produkcji ekologicznej?",
+      "options": [
+        "Dowóz produktów do klientów indywidualnych.",
+        "Druk ulotek.",
+        "Druk etykiet.",
+        "Mała ilość specjalistycznych sklepów ekologicznych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiększość rolników przekształcających swoje gospodarstwa na ekologiczne, kieruje się głównie modą i świadomością ekologiczną, czynnik ekonomiczny ma tu niewielkie znaczenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych dokumentów są niezbędne przy przetwarzaniu produktów rolnictwa ekologicznego?",
+      "options": [
+        "Lista planowanych dostawców surowców.",
+        "Lista produktów zgłaszanych do certyfikacji.",
+        "Kopie certyfikatów dostawców.",
+        "Receptury (skład surowcowy + udział surowców w produkcie gotowym)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co stanowi wadę bezpośredniego kanału dystrybucji?",
+      "options": [
+        "Wysokie marże.",
+        "Brak pośredników.",
+        "Małe zyski producentów.",
+        "Problemy z dotarciem do konsumentów."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNakłady materiałowo-pieniężne w ekologicznych gospodarstwach rolnych, poniesione na produkcję rolną (zakup nawozów, środków ochrony roślin, pasz) są znacznie większe niż w gospodarstwach konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie kanały dystrybucji są realizowane w obrocie produktami ekologicznymi?",
+      "options": [
+        "Sprzedaż do wyspecjalizowanego, posiadającego certyfikat, hurtownika.",
+        "Bezpośrednia sprzedaż indywidualnym konsumentom.",
+        "Bezpośrednia sprzedaż do specjalistycznych sklepów i restauracji.",
+        "Sprzedaż przetwórcy posiadającemu certyfikat."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie ewidencje należy prowadzić na każdym etapie produkcji ekologicznej?",
+      "options": [
+        "Rejestry zakupów poszczególnych surowców ze wskazaniem poszczególnych dostawców.",
+        "Rejestry obiorców.",
+        "Stan zapasów surowców.",
+        "Ewidencja wyprodukowanych asortymentów."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSurowce wchodzące w skład produktów ekologicznych muszą mieć aktualne certyfikaty zgodności z wymogami rolnictwa ekologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie średnie różnice w plonach występują w gospodarstwach ekologicznych w stosunku do tradycyjnych?",
+      "options": [
+        "Są o 10–50% mniejsze.",
+        "Są o 40–70% mniejsze.",
+        "Są o 10–20% większe.",
+        "Nie ma różnic w plonach lub są nieznaczne."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które stwierdzenia opisują giełdę towarową?",
+      "options": [
+        "Handel odbywa się w formie licytacji.",
+        "Handel odbywa się towarami ujednoliconymi co do ilości i jakości.",
+        "Sprzedaje się towary trudne do wystandaryzowania lub niestandaryzowane.",
+        "Handel odbywa się w ściśle określonym czasie."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDochody w gospodarstwach ekologicznych są porównywalne z uzyskiwanymi w gospodarstwach konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie warunki musi spełnić producent żywności, aby jednocześnie prowadzić działalność konwencjonalną i ekologiczną?",
+      "options": [
+        "Nie dopuścić do zmieszania się produktów obu działalności.",
+        "Znakować odpowiednio produkty.",
+        "Rozdzielić obie działalności przestrzennie lub czasowo.",
+        "Zapewnić odpowiednie kanały dystrybucji."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Licytacja poprzez obniżenie ceny charakteryzuje aukcję:",
+      "options": [
+        "holenderską.",
+        "regularną.",
+        "nieregularną.",
+        "angielską."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOd 1 lipca 2012 obowiązek znakowania Euro-liściem dotyczy także importowanych spoza Unii produktów ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTowary pochodzące z terenów o chronionych nazwach geograficznych mogą zachować swoje oznaczenie obok unijnego logo dla produktów ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż sformułowania opisujące aukcję.",
+      "options": [
+        "Uczestnicy muszą być fizycznie obecni.",
+        "Musi posiadać odpowiednie zaplecze magazynowe dla sprzedawanych towarów.",
+        "Towar nie jest fizycznie obecny.",
+        "To rodzaj publicznego przetargu."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dzięki istnieniu rynku hurtowego do rolników docierają informacje dotycząca cen, popytu i podaży towarów oraz mogą korzystać z doradztwa, koordynacji i marketingu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na rynkach stronę popytu reprezentują:",
+      "options": [
+        "konsumenci.",
+        "nabywcy.",
+        "sprzedawcy.",
+        "oferenci."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDopłaty, w tym dopłaty ekologiczne, stanowią ponad 60% dochodu gospodarstw ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przetwórnie konwencjonalne mogą prowadzić również produkcję ekologiczną pod warunkiem:",
+      "options": [
+        "zakazu produkowania tego samego produktu w wersji tradycyjnej i ekologicznej.",
+        "czasowego rozgraniczenia produkcji.",
+        "przestrzennego rozgraniczenia produkcji.",
+        "przestrzegania przepisów bhp."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Rozgraniczenie przestrzenne produkcji konwencjonalnej i ekologicznej polega na:",
+      "options": [
+        "odrębnych obiektach produkcyjnych.",
+        "prowadzeniu produkcji ekologicznej i konwencjonalnej w różnych terminach.",
+        "stosowaniu różnych opakowań.",
+        "osobnych liniach technologicznych."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProdukty pochodzenia ekologicznego są znacznie tańsze od produktów konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki jest maksymalny dopuszczalny udział składników konwencjonalnych w produkcie ekologicznym?",
+      "options": [
+        "5%.",
+        "7%.",
+        "15%.",
+        "10%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGospodarstwa ekologiczne mimo dopłat zazwyczaj wykazują niższą rentowność niż gospodarstwa konwencjonalne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPowiększenie dostępności produktów ekologicznych i wzrost dochodów konsumentów wpłynęły pozytywnie na zwiększenie popytu na żywność ekologiczną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych metod przerobu surowca są dozwolone w gospodarstwie ekorolniczym?",
+      "options": [
+        "Obróbka termiczna.",
+        "Obróbka chemiczna.",
+        "Napromieniowanie.",
+        "Metody mechaniczne.",
+        "Metody fermentacyjne."
+      ],
+      "answers": [
+        0,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe względu na sposób licytacji aukcje możemy podzielić na regularne i nieregularne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBiobazary to szansa dla producentów na dotarcie bezpośrednio do konsumentów, zainteresowanie ich nowymi produktami, zapoznanie ich z marką.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki kanał dystrybucji obejmuje pośrednictwo osób lub instytucji?",
+      "options": [
+        "Zintegrowany.",
+        "Konwencjonalny.",
+        "Pośredni.",
+        "Bezpośredni."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przetwórstwie, produkty rolnictwa ekologicznego nie mogą zostać zmieszane z produktami konwencjonalnymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych informacji powinno zawierać oznaczenie kodowe na etykiecie produktu ekologicznego?",
+      "options": [
+        "Nazwę jednostki certyfikującej.",
+        "Kod państwa jednostki certyfikującej.",
+        "Numer kodowy jednostki certyfikującej producenta lub dostawcy",
+        "Wyróżnik statusu: BIO, EKO, ORG."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki musi być minimalny udział polskich składników, aby można było na etykiecie produktu ekologicznego nadać oznaczenie „Rolnictwo PL”?",
+      "options": [
+        "75%.",
+        "85%.",
+        "98%.",
+        "95%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodmioty zajmujące się przygotowaniem do obrotu produktów rolnictwa ekologicznego są zobowiązane dokumentować ich przepływ w taki sposób, aby umożliwiać identyfikację wstecz, aż do dostawców surowców.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywa się kanał dystrybucji, gdy producent sam sprzedaje swoje produkty konsumentowi?",
+      "options": [
+        "Integrowany.",
+        "Pośredni.",
+        "Konwencjonalny.",
+        "Bezpośredni."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przetwórstwie ekologicznym dopuszczalne jest wykorzystywanie mikroorganizmów zmienionych w drodze inżynierii genetycznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

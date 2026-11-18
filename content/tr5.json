@@ -1,0 +1,2059 @@
+{
+  "id": "tr5",
+  "course": "Technika w rolnictwie",
+  "title": "Maszyny do zbioru i pozbiorowej obróbki płodów rolnych",
+  "number": "V",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Od doboru maszyn do zbioru zielonek i siana zależy jakość paszy, utrzymanie użytków zielonych oraz szybkość odrostu runi.",
+        "Kombajny zbożowe umożliwiają zbiór jednoetapowy – minimum ręcznej siły roboczej i większa wydajność zbioru.",
+        "Kombajny są uniwersalne – po przygotowaniu zespołów roboczych zbierają różne gatunki roślin; tanieją kombajny „Bizon”, kupowane przez gospodarstwa kilkunastohektarowe.",
+        "Areał roślin okopowych w Polsce maleje (ograniczenia produkcji cukru, znikome skarmianie ziemniaków).",
+        "Każdy centymetr głębszego ustawienia wyorywaczy roślin okopowych to przerzucenie kilkudziesięciu ton gleby więcej na hektarze.",
+        "Jednoetapowy zbiór zbóż, zbiór w złej pogodzie i uprawa kukurydzy wymuszają stosowanie urządzeń dosuszających.",
+        "Ziarno po zbiorze należy doczyścić przed siewem lub skarmianiem.",
+        "Kukurydza pochodzi spoza klimatu Polski (długi okres wegetacji) – jej ziarno trzeba dosuszać."
+      ]
+    },
+    {
+      "heading": "1. Technologie zbioru zielonek",
+      "points": [
+        "Zielonki zbiera się na siano, kiszonkę, do bezpośredniego skarmiania lub na susz.",
+        "Najczęściej stosuje się zbiór wieloetapowy – każda maszyna wykonuje pojedynczą operację według ściśle określonej technologii.",
+        "Kolejność zbioru sianokiszonki w balotach: koszenie → przetrząsanie → zgrabianie → prasowanie → transport → owijanie folią → magazynowanie."
+      ]
+    },
+    {
+      "heading": "1.1. Kosiarki",
+      "points": [
+        "Kosiarki służą do koszenia roślin niskołodygowych – do wysokości 150 cm.",
+        "Ważne kryterium podziału kosiarek: rodzaj zespołu tnącego.",
+        "Powszechne zespoły tnące: palcowy jednolistwowy i rotacyjny; mniej powszechne: bezpalcowe dwulistwowe i bębnowe.",
+        "Zespół palcowo-listwowy tnie podporowo – źdźbło opiera się na palcu i jest ucinane nożykiem; minimalne uszkodzenia tkanki.",
+        "Zespół palcowo-listwowy zaleca się do motylkowych drobnonasiennych (lucerna, koniczyny) i traw, gdy chcemy skrócić okres odrostu; daje zielonkę o minimalnym zanieczyszczeniu ziemią.",
+        "Kosiarki rotacyjne – uniwersalne, niskie koszty eksploatacji; cięcie bezpodporowe przez uderzenie noża poruszającego się z dużą prędkością.",
+        "Wady kosiarki rotacyjnej: miażdżenie tkanki (zwłaszcza stępionym nożem) → dłuższy odrost; większe zanieczyszczenie zielonki ziemią (np. z kretowisk).",
+        "Zbyt wysokie koszenie – straty zielonej masy i składników pokarmowych; zbyt niskie – utrudniony odrost (szczególnie lucerny z wysoko wysuniętą szyjką korzeniową).",
+        "Wysokość koszenia: w kosiarkach listwowych – ustawienie płóz względem listwy nożowej; w rotacyjnych – podkładki regulacyjne i zmiana talerza ślizgowego.",
+        "Przed pracą kosiarką listwową sprawdza się mocowanie i zużycie nożyków, mocowanie palców i przycisków listwy.",
+        "W kosiarce rotacyjnej szybko zużywają się noże; wymienia się jednorazowo cały komplet nożyków na tarczy (wyważenie wirujących mas), nawet gdy uszkodzony jest jeden.",
+        "Od doboru kosiarki zależy jakość i ilość skoszonego materiału oraz dalszy wzrost upraw wielokośnych (trawy, motylkowe drobnonasienne); od sposobu koszenia zależy też szybkość odrostu runi."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/kosiarka-rotacyjna-wysokosc-koszenia.jpg",
+          "caption": "Regulacja wysokości koszenia w kosiarce rotacyjnej (bęben, tarcza obrotowa, nożyk): koszenie niskie – talerz ślizgowy A, ok. 32 mm; średnie – talerz A z podkładką regulacyjną, ok. 42 mm; wysokie – talerz ślizgowy B, ok. 60 mm."
+        }
+      ]
+    },
+    {
+      "heading": "1.2. Przetrząsacze i zgrabiarki",
+      "points": [
+        "Do przetrząsania i zgrabiania stosuje się maszyny beznapędowe lub aktywne.",
+        "Aktywne przetrząsaczo-zgrabiarki działają intensywniej na pokos; sprawdzają się, gdy rośliny nie są zbyt mocno podsuszone.",
+        "Przy niskiej wilgotności siana maszyny aktywne powodują obłamywanie najcenniejszych blaszek liściowych.",
+        "Efekt przetrząsania lub zgrabiania uzyskuje się regulacją prędkości obrotowej zespołów roboczych.",
+        "Zbyt wysokie ustawienie zespołów – niedokładny zbiór; zbyt niskie – niszczenie darni i zagarnianie ziemi.",
+        "Przetrząsaczo-zgrabiarki pracują zadowalająco przy prędkości 6–7 km/h; często trzeba zmniejszać prędkość roboczą przy przetrząsaniu.",
+        "Rodzaje maszyn (rysunki): przetrząsacz karuzelowy, przetrząsaczo-zgrabiarka beznapędowa, zgrabiarka karuzelowa."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/przetrzasacz-karuzelowy.jpg",
+          "caption": "Przetrząsacz karuzelowy – wirujące ramiona z palcami (zębami sprężystymi) rozrzucają i przewracają pokos."
+        },
+        {
+          "src": "img/tr5/przetrzasaczo-zgrabiarka.jpg",
+          "caption": "Przetrząsaczo-zgrabiarka beznapędowa – koła palcowe obracane przez kontakt z podłożem."
+        },
+        {
+          "src": "img/tr5/zgrabiarka-karuzelowa.jpg",
+          "caption": "Zgrabiarka karuzelowa – karuzela z ramionami zakończonymi zębami zgrabia materiał w wał (pokos)."
+        }
+      ]
+    },
+    {
+      "heading": "1.3. Sieczkarnie i zbieracze pokosów",
+      "points": [
+        "Ścinacze zielonek i sieczkarnie – zbiór zielonek na kiszonkę, sianokiszonkę, susz lub do bezpośredniego spożycia.",
+        "Na małych powierzchniach – sieczkarnie przyczepiane lub zawieszane; na dużych areałach – samojezdne.",
+        "Praca sieczkarni: nagarnianie i podcinanie roślin → zespół rozdrabniający (cięcie na określoną długość) → kanał wyrzutu na przyczepę.",
+        "Główne regulacje sieczkarni: wysokość cięcia i stopień rozdrobnienia; przy kukurydzy zgniatacz ziarna ustawia się tak, by każde ziarno było uszkodzone.",
+        "Głośna praca, wibracje i stuki = konieczność gruntownego przeglądu; bębny tnące dobrze wyważone, noże naostrzone, sprawdzić napięcie pasków klinowych.",
+        "Sieczkarnia wielorzędowa może pracować z adapterem typu kemper.",
+        "Zbieracze pokosów zbierają zielonkę, powiędniętą trawę, lucernę, siano i słomę i transportują je na miejsce składowania.",
+        "Podstawowy element zbieracza – podbieracz; przy zielonce mogą mieć zespoły tnące; skrzynia z przenośnikiem łańcuchowo-listwowym do załadunku i rozładunku."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/sieczkarnia-kemper.jpg",
+          "caption": "Samojezdna sieczkarnia wielorzędowa z adapterem typu kemper (do kukurydzy, niezależny od rzędów); rozdrobniony materiał wyrzucany przez kanał wyrzutowy na przyczepę."
+        }
+      ]
+    },
+    {
+      "heading": "1.4. Prasy, owijarki i konserwacja zielonek",
+      "points": [
+        "Prasa zmniejsza objętość masy, ułatwiając transport i magazynowanie.",
+        "Prasy wysokiego stopnia zgniotu: z ok. 20 kg/m³ (luźne siano/słoma) do 200–250 kg/m³; zielonka do 450 kg/m³.",
+        "Wysoki zgniot ułatwia zakiszanie – usuwa powietrze z materiału.",
+        "Prasy zwijające ze zmienną komorą – lepsze zbicie i usunięcie powietrza; zalecane do sianokiszonek i kiszonek.",
+        "Prasy zwijające ze stałą komorą słabiej zagęszczają materiał w środku beli niż na zewnątrz.",
+        "Owijarki szczelnie owijają bele folią, zapewniając beztlenowe warunki zakiszania.",
+        "Folia ma szerokość 50 cm lub 75 cm, z filtrem UV (zapobiega psuciu się kiszonki od światła).",
+        "Naciąg folii mierzy się między rolką a belą – zalecany 70–80% pierwotnej szerokości folii.",
+        "System AG BAG – konserwacja zielonek i innych pasz (np. wilgotne ziarno kukurydzy, słonecznik) w rękawach foliowych."
+      ]
+    },
+    {
+      "heading": "1.5. Silosy",
+      "points": [
+        "Silosy dzielą się na przejazdowe i wieżowe.",
+        "Silos przejazdowy: dwie ściany i dno z kanałem odprowadzającym soki kiszonkowe; przyczepy wjeżdżają bezpośrednio na pryzmę.",
+        "Masę w silosie przejazdowym ugniata się odpowiednio dociążonymi ciągnikami.",
+        "Silosy wieżowe: otwarte i hermetycznie zamknięte (gazoszczelne); napełniane z góry przenośnikami lub urządzeniami chwytakowymi.",
+        "W silosach wieżowych (warstwa 5–25 m) nie trzeba ugniatać – następuje samougniatanie.",
+        "Silosy przejazdowe pozwalają przyczepom samowyładowczym wjeżdżać bezpośrednio na formowaną pryzmę."
+      ]
+    },
+    {
+      "heading": "2. Kombajny zbożowe – praca i dobór prędkości",
+      "points": [
+        "Kombajn umożliwia jednoetapowy zbiór zbóż; zalety: duża wydajność i ograniczenie strat ziarna.",
+        "Niekorzystne: zmienna pogoda, często konieczność dosuszania ziarna, krótki okres wykorzystania w sezonie, duże koszty zakupu.",
+        "Klasę kombajnu określa: przepustowość masy zbożowej, szerokość robocza, wydajność, rozwiązania konstrukcyjne zespołów roboczych i sposób ich napędu.",
+        "Prędkość robocza zależy ściśle od przepustowości; zbyt duża – przeciążenie i możliwe zatrzymanie młocarni; zbyt mała – niepełne wykorzystanie kombajnu.",
+        "Dobór prędkości uwzględnia: szerokość roboczą, przepustowość, plon, dopuszczalne straty, wysokość koszenia, zachwaszczenie i stan zboża.",
+        "Straty rosną wraz z obciążeniem słomą – dlatego na prędkość wpływa wysokość cięcia.",
+        "Nachylenie na terenie falistym zakłóca pracę układu omłotowego i czyszczącego; nowoczesne kombajny mają automatyczne poziomowanie zespołów roboczych."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/kombajn-zbozowy.jpg",
+          "caption": "Kombajn zbożowy z zespołem żniwnym (heder z nagarniaczem) – jednoetapowy zbiór zbóż."
+        }
+      ]
+    },
+    {
+      "heading": "2.1. Przystosowanie kombajnu do różnych roślin",
+      "points": [
+        "Zbiór dwuetapowy (np. rzepaku) – podbieracz do podbierania pokosu (np. palcowy).",
+        "Kukurydza: adapter do kolb (łańcuchy i walce obrywające kolby); chwytacz kamieni zasłonięty progiem; mocniejsze klepisko i wytrząsacze.",
+        "Kukurydza: sita żaluzjowe i kłosowe górne → kieszonkowe; żaluzjowe dolne → otworowe.",
+        "Rzepak jednoetapowo – zespół żniwny z dłuższym stołem.",
+        "Nasiona traw i koniczyny: osłonić wał młócący i klepiska; sita żaluzjowe → sita o małych otworach; znacznie zmniejszyć strumień powietrza (niższe obroty wentylatora).",
+        "Przy kukurydzy chwytacz kamieni zasłania się progiem, aby nie wpadały do niego kolby; przy nasionach traw i koniczyny osłony wału młócącego i klepisk zapobiegają gromadzeniu się nasion wewnątrz bębna."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/kombajn-adapter-kukurydza.jpg",
+          "caption": "Kombajn z adapterem do zbioru kolb kukurydzy – łańcuchy i walce zrywają kolby i podają je do zespołu młócącego."
+        }
+      ]
+    },
+    {
+      "heading": "2.2. Przegląd i uruchomienie kombajnu",
+      "points": [
+        "Przegląd przeprowadza się tuż po sezonie – usterki są świeżo w pamięci; warto sporządzić listę czynności przed kolejnym sezonem.",
+        "Czynności: mycie wewnątrz i na zewnątrz; założenie i napięcie pasów; usunięcie smaru konserwującego z łańcuchów i ich napięcie; czystość przenośników ziarnowego i kłosowego.",
+        "Dalej: oczyszczenie sprzęgieł przeciążeniowych i regulacja sprężyn; zamknięcie pokryw i okienek; smarowanie węzłów ruchomych; ciśnienie w ogumieniu.",
+        "Dalej: dokręcenie śrub (przedni most, układ kierowniczy, koła, wózek transportowy zespołu żniwnego); oświetlenie, urządzenia sterujące i wskaźniki; poziom olejów i płynów.",
+        "Usunąć zabezpieczenie silnika; sprawdzić uszczelnienia, płyn chłodzący, naładowanie akumulatora i poziom elektrolitu.",
+        "Po długim postoju: obracać silnik rozrusznikiem 30 s lub do zgaśnięcia lampki ciśnienia oleju – zapewnia smarowanie.",
+        "Następnie silnik 5 minut na połowie prędkości obrotowej; sprawdzić przecieki; uruchomić zespół młócący i żniwny przy obrotach o połowę niższych od nominalnych na biegu jałowym.",
+        "Na koniec sprawdzić, czy łożyska nie są przegrzane; usterki najlepiej usuwa profesjonalny serwis.",
+        "Smaruje się wszystkie węzły ruchome: przeguby, łożyska, sworznie, prowadnice; sprawdza się też wskaźniki kontrolne na pomoście operatora."
+      ]
+    },
+    {
+      "heading": "3. Maszyny do zbioru roślin okopowych",
+      "points": [
+        "Zbiór okopowych jest bardzo energochłonny – aby wykopać 2 kg ziemniaków, trzeba przesiać 150–200 kg gleby.",
+        "Przed zbiorem ziemniaków usuwa się łęciny: desykacja środkami ochrony roślin (np. Reglone 200 SL) lub mechanicznie rozdrabniaczem łęcin.",
+        "Przy ręcznym zbieraniu stosuje się kopaczki – najczęściej przenośnikowe półzawieszane, jedno- lub dwurzędowe.",
+        "Kopaczki: prosta budowa, duża wydajność, minimalne uszkodzenia bulw; wada – duża pracochłonność w porównaniu z kombajnem.",
+        "Kombajny ziemniaczane – zbiór jednoetapowy, mała pracochłonność, duża wydajność; wada – więcej uszkodzeń bulw i gorsze przechowywanie.",
+        "Ziemniaki do zbioru muszą być w pełni dojrzałe, by ograniczyć uszkodzenia skórki.",
+        "Zbiór wieloetapowy buraków: ogławiacze (usunięcie liści i załadunek) i wyorywacze (wyoranie, usunięcie ziemi, formowanie rzędów lub załadunek).",
+        "Kombajny buraczane przyczepiane: 1–2-rzędowe, ciągniki 50–80 KM, wydajność 0,1–0,2 ha/h, zbierają korzenie i liście (pasza dla opasów).",
+        "Kombajny buraczane samojezdne wielorzędowe: silniki 400–500 KM, wydajność do 2 ha/h; zbierają tylko korzenie, liście rozdrabniane i pozostawiane jako nawóz zielony.",
+        "Maszyny pracują w trudnych warunkach – po każdej pracy oczyścić z gleby, resztek roślin, chwastów i kamieni; konserwacja i smarowanie łożysk.",
+        "Przed pracą sprawdzić napięcie przenośników prętowych, taśm, pasków i łańcuchów.",
+        "Obecnie buraki zbiera się głównie jednoetapowo – kombajnami przyczepianymi (mniejsze gospodarstwa) i samojezdnymi (większe); w samojezdnych liście są rozdrabniane i częściowo mieszane z glebą.",
+        "Kopaczki stosuje się przy zbiorze ziemniaków z ręcznym zbieraniem bulw."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/kombajn-buraczany.jpg",
+          "caption": "Wielorzędowy samojezdny kombajn do zbioru buraków cukrowych – wyładowuje buraki na pryzmę (kopiec) na skraju pola."
+        }
+      ]
+    },
+    {
+      "heading": "4. Dosuszanie płodów rolnych",
+      "points": [
+        "Suszarnie służą do dosuszania rzepaku, zbóż i kukurydzy, a także do produkcji suszu i dosuszania siana.",
+        "Wilgotność kukurydzy przy zbiorze rzadko jest niższa niż 30%; do przechowywania musi wynosić 13–14%.",
+        "Suszenie naturalne – powietrze o temperaturze otoczenia: przesypywanie z pryzmy na pryzmę lub przewietrzanie w silosie; zapobiega samozagrzewaniu, bakteriom i pleśniom.",
+        "Suszenie sztuczne – ogrzane powietrze; szybsze, ale droższe (dosuszenie 1 t kukurydzy ok. 200 zł).",
+        "Maksymalna temperatura suszenia: ziarno siewne – 45°C, ziarno konsumpcyjne – 60°C; wyższe obniżają siłę kiełkowania.",
+        "Powszechne są suszarnie podłogowe w magazynach płaskich i silosach.",
+        "Przy dużych ilościach mokrego ziarna – suszarnie stacjonarne lub mobilne, porcjowe lub ciągłe; czynnik suszący – powietrze ogrzane podgrzewaczem na olej opałowy.",
+        "Suszarnie przepływowe: wydajność do 30 t/h, praca ciągła."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/silos-dosuszanie.jpg",
+          "caption": "Schemat silosu z możliwością dosuszania ziarna: wentylator i podgrzewacz tłoczą powietrze przewodem doprowadzającym (z korkiem) do wnętrza silosu; lej wysypowy, otwór spustowy."
+        },
+        {
+          "src": "img/tr5/suszarnia-podlogowa.jpg",
+          "caption": "Schemat suszarni podłogowej: wentylator tłoczy powietrze kanałem głównym do kanałów bocznych pod warstwą ziarna; powietrze przepływa przez ziarno ku górze; kanał ssący."
+        },
+        {
+          "src": "img/tr5/temperatura-suszenia-ziarna.jpg",
+          "caption": "Maksymalna temperatura suszenia ziarna: 45°C dla ziarna przeznaczonego do siewu i 60°C dla ziarna przeznaczonego do konsumpcji. Wyższe temperatury powodują zmniejszenie siły kiełkowania."
+        }
+      ]
+    },
+    {
+      "heading": "5. Czyszczenie i sortowanie ziarna",
+      "points": [
+        "Ziarno z kombajnu zawiera nasiona chwastów, resztki słomy, niedomłócone kłoski i części zielone.",
+        "Czyszczenie wykorzystuje: wielkość (długość, szerokość), kształt, gęstość, właściwości aerodynamiczne, współczynnik tarcia.",
+        "Czyszczalnie dzielą się na proste, złożone i specjalne.",
+        "Młynek – ukośny strumień powietrza zmienia tor spadania ziarna do rynienek (2–3 frakcje); sortowanie wg masy.",
+        "Wialnia – strumień powietrza wspomagany sitami; podział także wg kształtu i wielkości.",
+        "Czyszczalnia pneumatyczna – pionowy strumień powietrza przez ziarno na sicie; lekkie frakcje wydmuchiwane, reszta zsuwa się po sicie.",
+        "Żmijka – rozdział wg kształtu: okrągłe (groch, łubin, gorczyca) toczą się na zewnętrzny ślimak siłą odśrodkową, podłużne (owies, jęczmień) i uszkodzone – do wewnętrznego.",
+        "Tryjer – oddziela nasiona długie od krótkich (okrągłych, połamanych).",
+        "Płótniarka – oddziela nasiona niekształtne i szorstkie, np. owies od innych nasion.",
+        "Czyszczalnie złożone – z kilku zespołów prostych; większa wydajność i dokładność; ważne precyzyjne sita.",
+        "Czyszczalnie specjalne (magnetyczne, fotoelektryczne) – oddzielają nasiona chwastów bardzo podobne do nasion rośliny czyszczonej.",
+        "Celem czyszczenia jest oczyszczenie z niepożądanych gatunków nasion i oddzielenie nasion małych, niewykształconych lub uszkodzonych.",
+        "W żmijce (ustawionej pionowo) nasiona zsypują się w dół pod wpływem grawitacji; okrągłe siłą odśrodkową przemieszczają się na ślimak zewnętrzny, podłużne zsuwają się wolniej i trafiają do wewnętrznego."
+      ],
+      "images": [
+        {
+          "src": "img/tr5/mlynek.jpg",
+          "caption": "Młynek – ukośny strumień powietrza z wentylatora zmienia tor spadania ziarna z kosza zasypowego (zasuwa, zastawki rozdzielające); wyloty frakcji ciężkiej, lekkiej i bardzo lekkiej (sortowanie wg masy)."
+        },
+        {
+          "src": "img/tr5/wialnia.jpg",
+          "caption": "Wialnia – strumień powietrza z wentylatora (przesłona) wspomagany sitami (kosz z sitami, sito sortujące); oddziela zanieczyszczenia i pośład."
+        },
+        {
+          "src": "img/tr5/czyszczalnia-pneumatyczna.jpg",
+          "caption": "Czyszczalnia pneumatyczna – pionowy strumień powietrza z wentylatora (przysłona) przedmuchuje ziarno na sicie; lekkie zanieczyszczenia wydmuchiwane górnym wylotem, nasiona zsuwają się po sicie do wylotu nasion."
+        },
+        {
+          "src": "img/tr5/zmijka.jpg",
+          "caption": "Żmijka – pionowa, z koszem zsypowym, rozdzielaczem nasion, ślimakiem zewnętrznym i wewnętrznym; wyloty: nasion okrągłych, nasion płaskich i nasion uszkodzonych."
+        },
+        {
+          "src": "img/tr5/tryjer.jpg",
+          "caption": "Tryjer – obracający się bęben z zagłębieniami; nasiona krótkie unoszone w zagłębieniach wpadają do rynienki ze ślimakiem wygarniającym, nasiona długie zostają w bębnie."
+        },
+        {
+          "src": "img/tr5/plotniarka.jpg",
+          "caption": "Płótniarka – pochylona taśma (płótno) z wałkiem wygarniającym: nasiona gładkie staczają się w dół, zanieczyszczenia i nasiona szorstkie (np. owies) są wynoszone taśmą do góry."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Kosiarki – podział wg zespołu tnącego – Palcowe jednolistwowe i rotacyjne (najczęstsze), rzadziej bezpalcowe dwulistwowe i bębnowe; do roślin niskołodygowych do 150 cm.",
+        "Wialnia – zasada działania – Strumień powietrza wspomagany sitami: sito górne oddziela plewy, słomę, kłosy; dolne odsiewa poślad i drobne zanieczyszczenia; zdmuchnięty materiał dzieli się na frakcje od ziarna błędnego do plew."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Do jakiej wysokości roślin przeznaczone są kosiarki?",
+      "back": "Do koszenia roślin niskołodygowych – do 150 cm."
+    },
+    {
+      "front": "Kolejne etapy zbioru sianokiszonki w balotach",
+      "back": "Koszenie, przetrząsanie, zgrabianie, prasowanie, transport, owijanie folią, magazynowanie."
+    },
+    {
+      "front": "Zbiór wieloetapowy – na czym polega?",
+      "back": "Każda maszyna wykonuje pojedynczą operację w kolejności wg ściśle określonej technologii."
+    },
+    {
+      "front": "Najpowszechniejsze zespoły tnące kosiarek",
+      "back": "Palcowy jednolistwowy i rotacyjny."
+    },
+    {
+      "front": "Mniej powszechne zespoły tnące kosiarek",
+      "back": "Bezpalcowe dwulistwowe i bębnowe."
+    },
+    {
+      "front": "Jak tnie zespół palcowo-listwowy?",
+      "back": "Podporowo – źdźbło opiera się na palcu i jest ucinane nożykiem."
+    },
+    {
+      "front": "Do jakich roślin zaleca się kosiarkę palcowo-listwową?",
+      "back": "Do motylkowych drobnonasiennych (lucerna, koniczyny) oraz traw, gdy chcemy skrócić odrost."
+    },
+    {
+      "front": "Jak tnie kosiarka rotacyjna?",
+      "back": "Bezpodporowo – uderzeniem noża poruszającego się z dużą prędkością."
+    },
+    {
+      "front": "Zalety kosiarek rotacyjnych",
+      "back": "Duża uniwersalność i niskie koszty eksploatacji."
+    },
+    {
+      "front": "Wady kosiarek rotacyjnych",
+      "back": "Miażdżenie tkanki (dłuższy odrost) i większe zanieczyszczenie zielonki ziemią."
+    },
+    {
+      "front": "Skutek zbyt niskiego koszenia lucerny",
+      "back": "Utrudniony odrost (wysoko wysunięta szyjka korzeniowa), mniejszy plon."
+    },
+    {
+      "front": "Skutek zbyt wysokiego koszenia",
+      "back": "Straty zielonej masy i składników pokarmowych pozostawionych na polu."
+    },
+    {
+      "front": "Regulacja wysokości koszenia w kosiarce listwowej",
+      "back": "Zmiana ustawienia płóz w stosunku do listwy nożowej."
+    },
+    {
+      "front": "Regulacja wysokości koszenia w kosiarce rotacyjnej",
+      "back": "Podkładki regulacyjne i zmiana talerza ślizgowego."
+    },
+    {
+      "front": "Dlaczego w kosiarce rotacyjnej wymienia się cały komplet nożyków na tarczy?",
+      "back": "Ze względu na prawidłowe wyważenie wirujących mas."
+    },
+    {
+      "front": "Co sprawdzić przed pracą kosiarką listwową?",
+      "back": "Mocowanie i zużycie nożyków, mocowanie palców i przycisków listwy."
+    },
+    {
+      "front": "Kiedy aktywne przetrząsaczo-zgrabiarki powodują straty?",
+      "back": "Przy niskiej wilgotności siana – obłamują się blaszki liściowe."
+    },
+    {
+      "front": "Jak uzyskać efekt przetrząsania albo zgrabiania w tej samej maszynie?",
+      "back": "Regulując prędkość obrotową zespołów roboczych."
+    },
+    {
+      "front": "Prędkość robocza przetrząsaczo-zgrabiarek",
+      "back": "6–7 km/h."
+    },
+    {
+      "front": "Skutek zbyt nisko ustawionych zespołów przetrząsacza",
+      "back": "Niszczenie darni i zagarnianie ziemi (zanieczyszczenie paszy)."
+    },
+    {
+      "front": "Sieczkarnie na małe i duże areały",
+      "back": "Małe – przyczepiane lub zawieszane; duże – samojezdne."
+    },
+    {
+      "front": "Główne regulacje sieczkarni",
+      "back": "Wysokość cięcia i stopień rozdrobnienia materiału."
+    },
+    {
+      "front": "Jak ustawić zgniatacz ziarna przy zbiorze kukurydzy?",
+      "back": "Tak, aby każde ziarno zostało uszkodzone."
+    },
+    {
+      "front": "Objawy wymagające przeglądu sieczkarni",
+      "back": "Głośna praca, wibracje i stuki."
+    },
+    {
+      "front": "Podstawowy element roboczy zbieracza pokosów",
+      "back": "Podbieracz."
+    },
+    {
+      "front": "Przenośnik w skrzyni zbieracza pokosów",
+      "back": "Łańcuchowo-listwowy."
+    },
+    {
+      "front": "Gęstość luźnego siana/słomy",
+      "back": "Ok. 20 kg/m³."
+    },
+    {
+      "front": "Gęstość siana/słomy z prasy wysokiego zgniotu",
+      "back": "200–250 kg/m³."
+    },
+    {
+      "front": "Gęstość zielonki z prasy wysokiego zgniotu",
+      "back": "Do 450 kg/m³."
+    },
+    {
+      "front": "Którą prasę zwijającą zaleca się do kiszonek i sianokiszonek?",
+      "back": "Ze zmienną komorą prasowania."
+    },
+    {
+      "front": "Wada prasy ze stałą komorą",
+      "back": "Słabiej zagęszcza materiał w środku beli niż na zewnątrz."
+    },
+    {
+      "front": "Szerokość folii do owijania bel",
+      "back": "50 cm lub 75 cm (z filtrem UV)."
+    },
+    {
+      "front": "Zalecany naciąg folii przy owijaniu",
+      "back": "70–80% pierwotnej szerokości folii."
+    },
+    {
+      "front": "Gdzie mierzy się naprężenie folii?",
+      "back": "Między rolką folii a owijaną belą."
+    },
+    {
+      "front": "System AG BAG",
+      "back": "Konserwacja zielonek i innych pasz (np. wilgotnego ziarna kukurydzy) w rękawach foliowych."
+    },
+    {
+      "front": "Budowa silosu przejazdowego",
+      "back": "Dwie ściany i dno z kanałem odprowadzającym soki kiszonkowe."
+    },
+    {
+      "front": "Czym ugniata się masę w silosie przejazdowym?",
+      "back": "Odpowiednio dociążonymi ciągnikami."
+    },
+    {
+      "front": "Rodzaje silosów wieżowych",
+      "back": "Otwarte i hermetycznie zamknięte (gazoszczelne)."
+    },
+    {
+      "front": "Dlaczego w silosie wieżowym nie ugniata się masy?",
+      "back": "Warstwa 5–25 m powoduje samougniatanie."
+    },
+    {
+      "front": "Główne zalety kombajnu zbożowego",
+      "back": "Duża wydajność i ograniczenie strat ziarna."
+    },
+    {
+      "front": "Niekorzystne strony zbioru kombajnem",
+      "back": "Zmienna pogoda, konieczność dosuszania, krótki sezon wykorzystania, duże koszty zakupu."
+    },
+    {
+      "front": "Od czego zależy klasa kombajnu?",
+      "back": "Przepustowość, szerokość robocza, wydajność, rozwiązania zespołów roboczych i sposób ich napędu."
+    },
+    {
+      "front": "Skutek zbyt dużej prędkości kombajnu",
+      "back": "Przeciążenie młocarni, możliwe jej zatrzymanie."
+    },
+    {
+      "front": "Dlaczego wysokość cięcia wpływa na prędkość kombajnu?",
+      "back": "Straty rosną wraz z obciążeniem słomą."
+    },
+    {
+      "front": "Rozwiązanie strat na terenie falistym w kombajnie",
+      "back": "Automatyczne poziomowanie zespołów roboczych."
+    },
+    {
+      "front": "Wyposażenie kombajnu do dwuetapowego zbioru rzepaku",
+      "back": "Podbieracz pokosu (np. palcowy)."
+    },
+    {
+      "front": "Zmiany w kombajnie do zbioru kukurydzy",
+      "back": "Adapter do kolb, próg na chwytaczu kamieni, mocniejsze klepisko i wytrząsacze, sita kieszonkowe (górne) i otworowe (dolne)."
+    },
+    {
+      "front": "Zmiana w kombajnie do jednoetapowego zbioru rzepaku",
+      "back": "Zespół żniwny z dłuższym stołem."
+    },
+    {
+      "front": "Przystosowanie kombajnu do nasion traw i koniczyny",
+      "back": "Osłony wału i klepisk, sita o małych otworach, słabszy strumień powietrza."
+    },
+    {
+      "front": "Kiedy przeprowadzić przegląd kombajnu?",
+      "back": "Tuż po skończonym sezonie."
+    },
+    {
+      "front": "Jak długo kręcić silnik rozrusznikiem po długim postoju?",
+      "back": "30 sekund lub do zgaśnięcia lampki ciśnienia oleju."
+    },
+    {
+      "front": "Pierwsza praca silnika kombajnu po przechowaniu",
+      "back": "5 minut przy prędkości obrotowej zmniejszonej do połowy."
+    },
+    {
+      "front": "Ile gleby trzeba przesiać, by wykopać 2 kg ziemniaków?",
+      "back": "150–200 kg."
+    },
+    {
+      "front": "Sposoby usuwania łęcin",
+      "back": "Desykacja (np. Reglone 200 SL) lub mechanicznie rozdrabniaczem łęcin."
+    },
+    {
+      "front": "Najczęstsze kopaczki do ziemniaków",
+      "back": "Przenośnikowe półzawieszane, jedno- lub dwurzędowe."
+    },
+    {
+      "front": "Wada kombajnów ziemniaczanych",
+      "back": "Większe uszkodzenia bulw – gorsze przechowywanie."
+    },
+    {
+      "front": "Zadanie ogławiacza buraków",
+      "back": "Usunięcie liści z korzenia i załadunek na przyczepę."
+    },
+    {
+      "front": "Zadanie wyorywacza buraków",
+      "back": "Wyoranie korzeni, usunięcie ziemi, uformowanie rzędów lub załadunek."
+    },
+    {
+      "front": "Kombajn buraczany przyczepiany – moc ciągnika i wydajność",
+      "back": "50–80 KM; 0,1–0,2 ha/h."
+    },
+    {
+      "front": "Kombajn buraczany samojezdny – moc i wydajność",
+      "back": "400–500 KM; do 2 ha/h."
+    },
+    {
+      "front": "Co dzieje się z liśćmi przy kombajnie samojezdnym?",
+      "back": "Są rozdrabniane i zostają na polu jako nawóz zielony."
+    },
+    {
+      "front": "Wilgotność kukurydzy przy zbiorze i do przechowania",
+      "back": "Rzadko poniżej 30%; do przechowania 13–14%."
+    },
+    {
+      "front": "Suszenie naturalne",
+      "back": "Przepływ powietrza o temperaturze otoczenia (przesypywanie, przewietrzanie)."
+    },
+    {
+      "front": "Koszt dosuszenia 1 t kukurydzy",
+      "back": "Ok. 200 zł."
+    },
+    {
+      "front": "Maks. temperatura suszenia ziarna siewnego",
+      "back": "45°C."
+    },
+    {
+      "front": "Maks. temperatura suszenia ziarna konsumpcyjnego",
+      "back": "60°C."
+    },
+    {
+      "front": "Wydajność suszarni przepływowych",
+      "back": "Do 30 t/h, praca ciągła."
+    },
+    {
+      "front": "Czynnik suszący w suszarniach dużej wydajności",
+      "back": "Powietrze ogrzane podgrzewaczem na olej opałowy."
+    },
+    {
+      "front": "Właściwości nasion wykorzystywane przy czyszczeniu",
+      "back": "Wielkość, kształt, gęstość, właściwości aerodynamiczne, współczynnik tarcia."
+    },
+    {
+      "front": "Młynek",
+      "back": "Ukośny strumień powietrza; sortuje ziarno wg masy na 2–3 frakcje."
+    },
+    {
+      "front": "Wialnia",
+      "back": "Strumień powietrza + sita; podział wg masy, kształtu i wielkości."
+    },
+    {
+      "front": "Czyszczalnia pneumatyczna",
+      "back": "Pionowy strumień powietrza wydmuchuje lekkie frakcje z sita."
+    },
+    {
+      "front": "Żmijka",
+      "back": "Oddziela nasiona okrągłe (groch, łubin, gorczyca) od podłużnych i uszkodzonych."
+    },
+    {
+      "front": "Tryjer",
+      "back": "Oddziela nasiona długie od krótkich (okrągłych, połamanych)."
+    },
+    {
+      "front": "Płótniarka",
+      "back": "Oddziela nasiona niekształtne i szorstkie, np. owies."
+    },
+    {
+      "front": "Czyszczalnie specjalne",
+      "back": "Magnetyczne i fotoelektryczne – do nasion chwastów podobnych do rośliny czyszczonej."
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Tryjer – bęben z zagłębieniami oddziela nasiona krótkie (wpadają do rynienki ze ślimakiem) od długich.",
+      "img": "img/tr5/tryjer.jpg"
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Żmijka – rozdział wg kształtu: nasiona okrągłe (groch, łubin, gorczyca) siłą odśrodkową na ślimak zewnętrzny, płaskie/podłużne i uszkodzone – do wewnętrznego.",
+      "img": "img/tr5/zmijka.jpg"
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Płótniarka – pochylona taśma: nasiona gładkie staczają się w dół, nasiona szorstkie i zanieczyszczenia (np. owies) wynoszone są do góry.",
+      "img": "img/tr5/plotniarka.jpg"
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Młynek – ukośny strumień powietrza zmienia tor spadania ziarna; frakcje ciężka, lekka i bardzo lekka (sortowanie wg masy).",
+      "img": "img/tr5/mlynek.jpg"
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Wialnia – strumień powietrza wspomagany zespołem sit (podział także wg kształtu i wielkości).",
+      "img": "img/tr5/wialnia.jpg"
+    },
+    {
+      "front": "Jaka to maszyna do czyszczenia ziarna i na jakiej zasadzie działa?",
+      "back": "Czyszczalnia pneumatyczna – pionowy strumień powietrza przedmuchuje ziarno na sicie; lekkie frakcje są wydmuchiwane.",
+      "img": "img/tr5/czyszczalnia-pneumatyczna.jpg"
+    },
+    {
+      "front": "Jaka to maszyna?",
+      "back": "Zgrabiarka karuzelowa – zgrabia podsuszoną zielonkę/siano w wał.",
+      "img": "img/tr5/zgrabiarka-karuzelowa.jpg"
+    },
+    {
+      "front": "Jaka to maszyna?",
+      "back": "Przetrząsaczo-zgrabiarka beznapędowa (koła palcowe napędzane przez kontakt z ziemią).",
+      "img": "img/tr5/przetrzasaczo-zgrabiarka.jpg"
+    },
+    {
+      "front": "Jaka to maszyna i jaki ma adapter?",
+      "back": "Samojezdna sieczkarnia wielorzędowa z adapterem typu kemper.",
+      "img": "img/tr5/sieczkarnia-kemper.jpg"
+    },
+    {
+      "front": "Jak reguluje się wysokość koszenia w kosiarce rotacyjnej?",
+      "back": "Wymiana talerza ślizgowego i podkładki regulacyjne: talerz A – ok. 32 mm (niskie), talerz A + podkładka – ok. 42 mm (średnie), talerz B – ok. 60 mm (wysokie).",
+      "img": "img/tr5/kosiarka-rotacyjna-wysokosc-koszenia.jpg"
+    },
+    {
+      "front": "Jaki typ suszarni przedstawia schemat?",
+      "back": "Suszarnia podłogowa – wentylator tłoczy powietrze kanałem głównym do kanałów bocznych pod warstwą ziarna.",
+      "img": "img/tr5/suszarnia-podlogowa.jpg"
+    },
+    {
+      "front": "Kosiarki – podział wg zespołu tnącego",
+      "back": "Palcowe jednolistwowe i rotacyjne (najczęstsze), rzadziej bezpalcowe dwulistwowe i bębnowe; do roślin niskołodygowych do 150 cm."
+    },
+    {
+      "front": "Wialnia – zasada działania",
+      "back": "Strumień powietrza wspomagany sitami: sito górne oddziela plewy, słomę, kłosy; dolne odsiewa poślad i drobne zanieczyszczenia; zdmuchnięty materiał dzieli się na frakcje od ziarna błędnego do plew."
+    },
+    {
+      "front": "Po co przy zbiorze kukurydzy kombajnem zasłania się chwytacz kamieni progiem?",
+      "back": "Aby nie wpadały do niego kolby."
+    },
+    {
+      "front": "Po co osłania się wał młócący i klepiska przy zbiorze nasion traw i koniczyny?",
+      "back": "Aby nasiona nie gromadziły się wewnątrz bębna."
+    },
+    {
+      "front": "Jak żmijka rozdziela nasiona?",
+      "back": "Nasiona zsypują się grawitacyjnie po pionowej żmijce; okrągłe siłą odśrodkową przechodzą na ślimak zewnętrzny, podłużne (wolniejsze) i uszkodzone – do ślimaka wewnętrznego."
+    },
+    {
+      "front": "Jakie kombajny buraczane stosuje się w mniejszych, a jakie w większych gospodarstwach?",
+      "back": "Mniejsze – przyczepiane 1–2-rzędowe (zbierają korzenie i liście na paszę); większe – samojezdne wielorzędowe (tylko korzenie, liście na nawóz zielony)."
+    },
+    {
+      "front": "Przeznaczenie zbieranych zielonek",
+      "back": "Siano, kiszonka, bezpośrednie skarmianie, susz."
+    },
+    {
+      "front": "Zalety i wada kopaczek do ziemniaków",
+      "back": "Zalety: prosta budowa, duża wydajność, minimalne uszkodzenia bulw; wada: duża pracochłonność zbioru w porównaniu z kombajnem."
+    },
+    {
+      "front": "Podział czyszczalni",
+      "back": "Proste (młynek, wialnia, czyszczalnia pneumatyczna, żmijka, tryjer, płótniarka), złożone (z kilku zespołów prostych, precyzyjne sita), specjalne (magnetyczne, fotoelektryczne)."
+    },
+    {
+      "front": "Cel suszenia naturalnego (przesypywania, przewietrzania ziarna)",
+      "back": "Zapobieganie samozagrzewaniu się ziarna oraz rozwojowi bakterii i pleśni."
+    },
+    {
+      "front": "Czym jest zbiór dwuetapowy i jednoetapowy buraków?",
+      "back": "Wieloetapowy: ogławiacze (liście) + wyorywacze (korzenie); jednoetapowy – kombajny buraczane przyczepiane lub samojezdne (obecnie dominuje)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kosiarki przeznaczone są do koszenia roślin niskołodygowych o wysokości do:",
+      "options": [
+        "150 cm",
+        "80 cm",
+        "100 cm",
+        "200 cm"
+      ],
+      "answer": 0,
+      "explain": "Kosiarki służą do koszenia roślin niskołodygowych do wysokości 150 cm."
+    },
+    {
+      "q": "Który zespół tnący zaleca się do koszenia lucerny i koniczyn?",
+      "options": [
+        "Rotacyjny",
+        "Bębnowy",
+        "Palcowo-listwowy",
+        "Bijakowy"
+      ],
+      "answer": 2,
+      "explain": "Zespół palcowo-listwowy zaleca się przy koszeniu motylkowych drobnonasiennych."
+    },
+    {
+      "q": "Cięcie bezpodporowe przez uderzenie noża występuje w kosiarce:",
+      "options": [
+        "palcowej jednolistwowej",
+        "rotacyjnej",
+        "bezpalcowej dwulistwowej",
+        "listwowej z płozami"
+      ],
+      "answer": 1,
+      "explain": "W kosiarce rotacyjnej cięcie odbywa się bezpodporowo przez uderzenie noża."
+    },
+    {
+      "q": "Wysokość koszenia w kosiarce rotacyjnej reguluje się:",
+      "options": [
+        "zmianą ustawienia płóz względem listwy",
+        "zmianą prędkości obrotowej WOM",
+        "napięciem pasków klinowych",
+        "podkładkami regulacyjnymi i zmianą talerza ślizgowego"
+      ],
+      "answer": 3,
+      "explain": "W kosiarkach rotacyjnych wysokość reguluje się podkładkami i zmianą talerza ślizgowego."
+    },
+    {
+      "q": "Wysokość koszenia w kosiarce listwowej reguluje się:",
+      "options": [
+        "podkładkami pod talerzem",
+        "wymianą nożyków",
+        "zmianą obrotów bębna",
+        "ustawieniem płóz w stosunku do listwy nożowej"
+      ],
+      "answer": 3,
+      "explain": "W kosiarkach listwowych reguluje się ustawienie płóz względem listwy nożowej."
+    },
+    {
+      "q": "Gdy w kosiarce rotacyjnej uszkodzony jest jeden nożyk, należy:",
+      "options": [
+        "wymienić tylko uszkodzony nożyk",
+        "wymienić cały komplet nożyków na tarczy",
+        "naostrzyć uszkodzony nożyk",
+        "zdemontować nożyk po przeciwnej stronie"
+      ],
+      "answer": 1,
+      "explain": "Wymienia się cały komplet ze względu na wyważenie wirujących mas."
+    },
+    {
+      "q": "Przetrząsaczo-zgrabiarki pracują zadowalająco przy prędkości:",
+      "options": [
+        "2–3 km/h",
+        "10–12 km/h",
+        "6–7 km/h",
+        "15–18 km/h"
+      ],
+      "answer": 2,
+      "explain": "Przetrząsaczo-zgrabiarki pracują zadowalająco przy 6–7 km/h."
+    },
+    {
+      "q": "Aktywne przetrząsaczo-zgrabiarki powodują straty blaszek liściowych, gdy:",
+      "options": [
+        "siano ma niską wilgotność",
+        "rośliny są świeżo skoszone",
+        "pokos jest bardzo gruby",
+        "prędkość robocza jest mała"
+      ],
+      "answer": 0,
+      "explain": "Przy niskiej wilgotności siana obłamują się delikatne blaszki liściowe."
+    },
+    {
+      "q": "Zbyt nisko ustawione zespoły robocze przetrząsacza:",
+      "options": [
+        "niszczą darń i zagarniają ziemię",
+        "pozostawiają rośliny na polu",
+        "zwiększają wydajność",
+        "zmniejszają zanieczyszczenie paszy"
+      ],
+      "answer": 0,
+      "explain": "Zbyt nisko ustawione zespoły niszczą darń i zagarniają ziemię."
+    },
+    {
+      "q": "Przy zbiorze kukurydzy na kiszonkę zgniatacz ziarna w sieczkarni ustawia się tak, aby:",
+      "options": [
+        "ziarno pozostało całe",
+        "ziarno było oddzielone od sieczki",
+        "każde ziarno zostało uszkodzone",
+        "uszkodzić połowę ziaren"
+      ],
+      "answer": 2,
+      "explain": "Zgniatacz ustawia się tak, by każde ziarno zostało uszkodzone."
+    },
+    {
+      "q": "Podstawowym elementem roboczym zbieracza pokosów jest:",
+      "options": [
+        "zespół rozdrabniający",
+        "podbieracz",
+        "bęben młócący",
+        "owijarka"
+      ],
+      "answer": 1,
+      "explain": "Podstawowym elementem zbieracza pokosów jest podbieracz."
+    },
+    {
+      "q": "Prasy wysokiego stopnia zgniotu zagęszczają siano i słomę do:",
+      "options": [
+        "20–50 kg/m³",
+        "80–100 kg/m³",
+        "450–500 kg/m³",
+        "200–250 kg/m³"
+      ],
+      "answer": 3,
+      "explain": "Prasy wysokiego zgniotu zagęszczają siano i słomę do 200–250 kg/m³."
+    },
+    {
+      "q": "Do zbioru sianokiszonek i kiszonek zaleca się prasy zwijające:",
+      "options": [
+        "ze stałą komorą prasowania",
+        "kostkujące niskiego zgniotu",
+        "tłokowe bez wiązania",
+        "ze zmienną komorą prasowania"
+      ],
+      "answer": 3,
+      "explain": "Prasy ze zmienną komorą lepiej zbijają materiał i usuwają powietrze."
+    },
+    {
+      "q": "Zalecany naciąg folii przy owijaniu bel wynosi:",
+      "options": [
+        "30–40%",
+        "70–80% pierwotnej szerokości folii",
+        "50–60%",
+        "90–100%"
+      ],
+      "answer": 1,
+      "explain": "Zalecany naciąg folii to 70–80% jej pierwotnej szerokości."
+    },
+    {
+      "q": "Folia do owijania bel ma szerokość:",
+      "options": [
+        "25 cm lub 40 cm",
+        "100 cm lub 120 cm",
+        "50 cm lub 75 cm",
+        "150 cm"
+      ],
+      "answer": 2,
+      "explain": "Bele owija się folią o szerokości 50 lub 75 cm z filtrem UV."
+    },
+    {
+      "q": "System AG BAG to konserwacja pasz w:",
+      "options": [
+        "rękawach foliowych",
+        "silosach wieżowych",
+        "silosach przejazdowych",
+        "balotach owijanych"
+      ],
+      "answer": 0,
+      "explain": "AG BAG to technologia konserwacji pasz w rękawach foliowych."
+    },
+    {
+      "q": "W silosach wieżowych nie stosuje się urządzeń ugniatających, ponieważ:",
+      "options": [
+        "duża wysokość warstwy (5–25 m) powoduje samougniatanie",
+        "są zawsze gazoszczelne",
+        "masa jest suszona przed załadunkiem",
+        "stosuje się w nich folię"
+      ],
+      "answer": 0,
+      "explain": "Warstwa 5–25 m powoduje proces samougniatania."
+    },
+    {
+      "q": "Zbyt duża prędkość robocza kombajnu zbożowego powoduje:",
+      "options": [
+        "niepełne wykorzystanie kombajnu",
+        "mniejsze obciążenie słomą",
+        "przeciążenie młocarni i możliwość jej zatrzymania",
+        "zmniejszenie strat ziarna"
+      ],
+      "answer": 2,
+      "explain": "Przy zbyt dużej prędkości młocarnia nie nadąża i może się zatrzymać."
+    },
+    {
+      "q": "Straty ziarna w kombajnie zwiększają się wraz z:",
+      "options": [
+        "obniżeniem prędkości",
+        "obciążeniem słomą",
+        "zmniejszeniem plonu",
+        "poziomowaniem zespołów"
+      ],
+      "answer": 1,
+      "explain": "Straty rosną w miarę obciążenia kombajnu słomą."
+    },
+    {
+      "q": "Do dwuetapowego zbioru rzepaku kombajn wyposaża się w:",
+      "options": [
+        "adapter do kolb",
+        "sita kieszonkowe",
+        "dłuższy stół żniwny",
+        "podbieracz pokosu"
+      ],
+      "answer": 3,
+      "explain": "Do zbioru dwuetapowego potrzebny jest podbieracz pokosu, np. palcowy."
+    },
+    {
+      "q": "Przy zbiorze kukurydzy dolne sito żaluzjowe wymienia się na:",
+      "options": [
+        "kieszonkowe",
+        "kłosowe",
+        "żaluzjowe o większych otworach",
+        "otworowe"
+      ],
+      "answer": 3,
+      "explain": "Dolne sito żaluzjowe wymienia się na otworowe."
+    },
+    {
+      "q": "Jednoetapowy zbiór rzepaku wymaga zamontowania:",
+      "options": [
+        "adaptera do kolb",
+        "zespołu żniwnego z dłuższym stołem",
+        "osłon wału młócącego",
+        "podbieracza palcowego"
+      ],
+      "answer": 1,
+      "explain": "Do jednoetapowego zbioru rzepaku montuje się zespół żniwny z dłuższym stołem."
+    },
+    {
+      "q": "Przy zbiorze nasion traw i koniczyny strumień powietrza w czyszczalni kombajnu:",
+      "options": [
+        "znacznie się zwiększa",
+        "pozostaje bez zmian",
+        "znacznie się zmniejsza",
+        "kieruje się na wytrząsacze"
+      ],
+      "answer": 2,
+      "explain": "Należy znacznie obniżyć siłę strumienia, zmniejszając obroty wentylatora."
+    },
+    {
+      "q": "Przegląd techniczny kombajnu zbożowego najlepiej wykonać:",
+      "options": [
+        "tuż po skończonym sezonie",
+        "tuż przed żniwami",
+        "w środku zimy",
+        "po dwóch sezonach"
+      ],
+      "answer": 0,
+      "explain": "Przegląd zaleca się tuż po sezonie, gdy pamięta się usterki."
+    },
+    {
+      "q": "Po długim przechowywaniu silnik kombajnu obraca się rozrusznikiem przez:",
+      "options": [
+        "30 sekund lub do zgaśnięcia lampki ciśnienia oleju",
+        "5 sekund",
+        "2 minuty",
+        "5 minut"
+      ],
+      "answer": 0,
+      "explain": "Silnik obraca się rozrusznikiem 30 s lub do zgaśnięcia lampki ciśnienia oleju."
+    },
+    {
+      "q": "Aby wykopać 2 kg ziemniaków, trzeba przesiać:",
+      "options": [
+        "10–20 kg gleby",
+        "50–80 kg gleby",
+        "150–200 kg gleby",
+        "500–600 kg gleby"
+      ],
+      "answer": 2,
+      "explain": "Wykopanie 2 kg ziemniaków wymaga przesiania 150–200 kg gleby."
+    },
+    {
+      "q": "Zaletą kopaczek przenośnikowych do ziemniaków jest:",
+      "options": [
+        "mała pracochłonność zbioru",
+        "minimalizacja uszkodzeń bulw",
+        "zbiór jednoetapowy",
+        "usuwanie łęcin"
+      ],
+      "answer": 1,
+      "explain": "Zaletą kopaczek jest minimalizacja uszkodzeń bulw."
+    },
+    {
+      "q": "Wadą zbioru kombajnami ziemniaczanymi jest:",
+      "options": [
+        "mała wydajność",
+        "duża pracochłonność",
+        "konieczność ręcznego zbierania",
+        "większy stopień uszkodzeń bulw"
+      ],
+      "answer": 3,
+      "explain": "Kombajny ziemniaczane powodują więcej uszkodzeń, co pogarsza przechowywanie."
+    },
+    {
+      "q": "Kombajny buraczane przyczepiane agreguje się z ciągnikami o mocy:",
+      "options": [
+        "20–30 KM",
+        "120–150 KM",
+        "400–500 KM",
+        "50–80 KM"
+      ],
+      "answer": 3,
+      "explain": "Kombajny przyczepiane agreguje się z ciągnikami 50–80 KM."
+    },
+    {
+      "q": "Wydajność samojezdnego wielorzędowego kombajnu buraczanego wynosi:",
+      "options": [
+        "0,1–0,2 ha/h",
+        "do 2 ha/h",
+        "0,5 ha/h",
+        "do 10 ha/h"
+      ],
+      "answer": 1,
+      "explain": "Kombajny samojezdne osiągają wydajność do 2 ha/h."
+    },
+    {
+      "q": "Do prawidłowego przechowywania kukurydzy jej wilgotność musi wynosić:",
+      "options": [
+        "18–20%",
+        "22–24%",
+        "13–14%",
+        "30%"
+      ],
+      "answer": 2,
+      "explain": "Kukurydza do przechowywania musi mieć wilgotność 13–14%."
+    },
+    {
+      "q": "Maksymalna temperatura suszenia ziarna przeznaczonego do siewu wynosi:",
+      "options": [
+        "45°C",
+        "35°C",
+        "60°C",
+        "80°C"
+      ],
+      "answer": 0,
+      "explain": "Temperatura dla ziarna siewnego nie może przekroczyć 45°C."
+    },
+    {
+      "q": "Maksymalna temperatura suszenia ziarna konsumpcyjnego wynosi:",
+      "options": [
+        "60°C",
+        "45°C",
+        "75°C",
+        "90°C"
+      ],
+      "answer": 0,
+      "explain": "Dla ziarna konsumpcyjnego granica to 60°C."
+    },
+    {
+      "q": "Suszarnie przepływowe osiągają wydajność sięgającą:",
+      "options": [
+        "3 t/h",
+        "10 t/h",
+        "30 t/h",
+        "100 t/h"
+      ],
+      "answer": 2,
+      "explain": "Suszarnie przepływowe mają wydajność do 30 t/h."
+    },
+    {
+      "q": "Nasiona okrągłe (groch, łubin) od podłużnych oddziela:",
+      "options": [
+        "tryjer",
+        "żmijka",
+        "młynek",
+        "płótniarka"
+      ],
+      "answer": 1,
+      "explain": "Żmijka oddziela nasiona okrągłe od podłużnych i uszkodzonych."
+    },
+    {
+      "q": "Płótniarka służy do oddzielania:",
+      "options": [
+        "nasion długich od krótkich",
+        "lekkich frakcji strumieniem powietrza",
+        "nasion metalicznych",
+        "nasion niekształtnych i szorstkich, np. owsa"
+      ],
+      "answer": 3,
+      "explain": "Płótniarka oddziela nasiona niekształtne o szorstkiej budowie."
+    },
+    {
+      "q": "Nasiona chwastów bardzo podobne do nasion rośliny czyszczonej oddziela się w czyszczalniach:",
+      "options": [
+        "prostych – młynkach",
+        "pneumatycznych",
+        "wialniach",
+        "specjalnych (magnetycznych, fotoelektrycznych)"
+      ],
+      "answer": 3,
+      "explain": "Czyszczalnie specjalne – magnetyczne lub fotoelektryczne."
+    },
+    {
+      "q": "Młynek sortuje nasiona przede wszystkim ze względu na:",
+      "options": [
+        "kształt",
+        "masę",
+        "długość",
+        "szorstkość"
+      ],
+      "answer": 1,
+      "explain": "Młynek wykorzystuje ukośny strumień powietrza do sortowania wg masy."
+    },
+    {
+      "q": "Jaka maszyna do czyszczenia ziarna jest przedstawiona na rysunku?",
+      "options": [
+        "Tryjer",
+        "Żmijka",
+        "Wialnia",
+        "Płótniarka"
+      ],
+      "answer": 0,
+      "explain": "Tryjer – obracający się bęben z zagłębieniami oddziela nasiona krótkie od długich.",
+      "img": "img/tr5/tryjer.jpg"
+    },
+    {
+      "q": "Jaka maszyna jest przedstawiona na rysunku?",
+      "options": [
+        "Żmijka",
+        "Tryjer",
+        "Młynek",
+        "Czyszczalnia pneumatyczna"
+      ],
+      "answer": 0,
+      "explain": "Żmijka – pionowe ślimaki rozdzielają nasiona wg kształtu (okrągłe na zewnętrzny ślimak).",
+      "img": "img/tr5/zmijka.jpg"
+    },
+    {
+      "q": "Jaka maszyna jest przedstawiona na zdjęciu?",
+      "options": [
+        "Kombajn do zbioru buraków cukrowych",
+        "Kombajn zbożowy",
+        "Sieczkarnia samojezdna",
+        "Kopaczka do ziemniaków"
+      ],
+      "answer": 0,
+      "explain": "Zdjęcie przedstawia wielorzędowy samojezdny kombajn do zbioru buraków cukrowych.",
+      "img": "img/tr5/kombajn-buraczany.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Aby prawidłowo można było przechowywać kukurydzę, jej wilgotność musi wynosić ok.",
+      "options": [
+        "13-14%.",
+        "3-4%.",
+        "8-13%.",
+        "4-8%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCięcie ... powoduje zmiażdżenie tkanki rośliny.",
+      "options": [
+        "palcowo-listwowe",
+        "rotacyjne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOd sposobu koszenia i zbioru zielonek zależy jakość i ilość otrzymywanej paszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Niekorzystne dla zbioru zbóż z wykorzystaniem kombajnów są:",
+      "options": [
+        "krótki okres wykorzystania kombajnu w sezonie.",
+        "zmienne warunki atmosferyczne.",
+        "duże koszty zakupu.",
+        "konieczność dosuszania ziarna po zbiorze."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSuszenie ... polega na wykorzystaniu ogrzanego powietrza, co umożliwia znaczne przyśpieszenie procesu suszenia.",
+      "options": [
+        "sztuczne",
+        "naturalne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKombajny zwiększają wydajność zbioru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż maksymalną wysokość rośliny niskołodygowej.",
+      "options": [
+        "160 cm.",
+        "150 cm.",
+        "180 cm",
+        "130 cm.",
+        "190 cm."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW celu przygotowania ziarna do kolejnego siewu lub do skarmiania, należy je odpowiednio ....",
+      "options": [
+        "doczyścić",
+        "dosuszyć"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnicy coraz rzadziej uprawiają rośliny wywodzące się spoza klimatu Polski.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zielonki zbiera się z przeznaczeniem na:",
+      "options": [
+        "susz.",
+        "kiszonkę.",
+        "siano.",
+        "sianokiszonkę."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKosiarki przeznaczone są do koszenia roślin ....",
+      "options": [
+        "niskołodygowych",
+        "wysokołodygowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWadą kosiarek wyposażonych w zespoły tnące palcowo-listwowe jest zwiększenie zanieczyszczenia zielonki ziemią.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ścinacze zielonek i sieczkarnie wykorzystuje się do zbioru:",
+      "options": [
+        "suszu.",
+        "kiszonki.",
+        "zielonek.",
+        "sianokiszonki."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednym z ważniejszych kryteriów podziału kosiarek jest rodzaj zespołu ....",
+      "options": [
+        "zasilającego",
+        "tnącego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWysokość koszenia roślin nie wpływa na wielkość zbieranego plonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przetrząsaczo-zgrabiarki pracują zadowalająco przy prędkościach:",
+      "options": [
+        "8–9km/h.",
+        "6–7 km/h.",
+        "2–3 km/h.",
+        "4–5 km/h."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPowszechnie wykorzystuje się kosiarki z zespołem tnącym palcowym ....",
+      "options": [
+        "jednolistwowym",
+        "dwulistwowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobór odpowiedniego zespołu tnącego nie ma wpływu na odrost roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Suszarnie o przepływowym systemie suszenia charakteryzują się dużą wydajnością sięgającą:",
+      "options": [
+        "20 t/h.",
+        "10 t/h.",
+        "40 t/h.",
+        "30 t/h."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo zbyt ... koszeniu utrudnione jest odrastanie roślin.",
+      "options": [
+        "wysokim",
+        "niskim"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKosiarki z zespołem tnącym rotacyjnym stosuje się ze względu na niskie koszy eksploatacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, na podstawie jakich wielkości pracy określa się klasę kombajnu.",
+      "options": [
+        "Rozwiązania konstrukcyjne zespołów roboczych.",
+        "Przepustowość masy zbożowej.",
+        "Sposób napędu.",
+        "Szerokość roboczej wydajności."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCięcie z zespołem tnącym ... odbywa się w sposób bezpodporowy.",
+      "options": [
+        "palcowo-listwowym",
+        "rotacyjnym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa małych powierzchniach wykorzystywane są sieczkarnie przyczepiane.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W większych gospodarstwach wykorzystuje się kombajny buraczane samojezdne wielorzędowe, wyposażone w silniki:",
+      "options": [
+        "500–600 KM.",
+        "300–400 KM.",
+        "100–200 KM.",
+        "400–500 KM."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW kosiarkach ... wysokość koszenia ustala się poprzez podkładki regulacyjne oraz zmianę talerza ślizgowego.",
+      "options": [
+        "rotacyjnych",
+        "listwowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW kosiarce rotacyjnej szybkiemu zużyciu ulegają noże.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Praca sieczkarni polega na:",
+      "options": [
+        "przeniesieniu do zespołu rozdrabniającego.",
+        "przygotowaniu do zespołu rozdrabniającego.",
+        "nagarnianiu.",
+        "podcinaniu roślin."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSuszarnie wykorzystuje się przede wszystkim do dosuszania ziaren kukurydzy, których wilgotność podczas zbioru rzadko jest niższa od ....",
+      "options": [
+        "30%",
+        "40%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa większych areałach upraw wykorzystuje się sieczkarnie samojezdne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kombajny buraczane przyczepiane są najczęściej jedno- lub dwurzędowe i agregatowane z ciągnikami o mocy:",
+      "options": [
+        "10–30 KM.",
+        "50–80 KM.",
+        "30–50 KM.",
+        "80–90 KM."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWażnym czynnikiem wpływającym na poziom ... podczas zbioru kombajnem jest nachylenie maszyny na terenie falistym.",
+      "options": [
+        "strat",
+        "zysków"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrędkość robocza kombajnu zależy ściśle od jego przepustowości masy zbożowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zbieracze pokosów wykorzystywane są do zbioru:",
+      "options": [
+        "zielonki.",
+        "lucerny.",
+        "powiędniętej trawy.",
+        "siana."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednym ze sposobów zakiszania zielonek jest system ....",
+      "options": [
+        "kemper",
+        "AG BAG"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuszenie naturalne polega na wykorzystaniu przepływu powietrza o temperaturze otoczenia, które odprowadza nadmiar wilgoci.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przed uruchomieniem silnika po dłuższym przechowywaniu należy obracać silnik rozrusznikiem do momentu, gdy wskaźnik świetlny ciśnienia oleju silnikowego zgaśnie maksymalnie do:",
+      "options": [
+        "20 s.",
+        "40 s.",
+        "30 s.",
+        "10 s."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy wykorzystywaniu ogrzanych gazów do dosuszania ziarna, przeznaczonego do konsumpcji, ich temperatura nie powinna przekracza ....",
+      "options": [
+        "60°C",
+        "50°C"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNasiona zbierane kombajnami zbożowymi charakteryzują się znacznym zanieczyszczeniem nasionami chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "System AG BAG to technologia konserwacji:",
+      "options": [
+        "zielonek.",
+        "kukurydzy.",
+        "słonecznika.",
+        "wilgotnego ziarna."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy wykorzystywaniu ogrzanych gazów do dosuszania ziarna, przeznaczonego do siewu, temperatura nie powinna przekracza ....",
+      "options": [
+        "35°C",
+        "45°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu przygotowania nasion do siewu lub do skarmiania, niezbędne jest ich oczyszczenie z niepożądanych gatunków nasion.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Aby wykopać 2 kg ziemniaków, trzeba przesiać:",
+      "options": [
+        "300–350 kg gleby.",
+        "200–250 kg gleby.",
+        "150–200 kg gleby.",
+        "100–150 kg gleby."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKoszt dosuszenia 1 tony ziarna kukurydzy oscyluje w granicach ....",
+      "options": [
+        "200 zł.",
+        "400 zł."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwach zbierających duże ilości ziarna mokrego konieczne jest stosowanie suszarni o dużej wydajności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jaka jest wydajność przyczepianych kombajnów buraczanych?",
+      "options": [
+        "0,2–0,3 ha/h.",
+        "0,3–0,4 ha/h.",
+        "0,4–0,5 ha/h.",
+        "0,1–0,2 ha/h."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosowanie w kosiarkach zespołu tnącego palcowo-listwowego powoduje zmiażdżenie tkanek roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Spadek uprawy roślin okopowych w Polsce wynika z:",
+      "options": [
+        "znikomego wykorzystywania ziemniaków jako paszy.",
+        "ograniczenia w produkcji cukru.",
+        "braku odpowiednich warunków klimatycznych.",
+        "braku wyspecjalizowanego sprzętu."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czynności wykonywane podczas zbioru wieloetapowego zielonek na siano to m.in.",
+      "options": [
+        "koszenie.",
+        "przetrząsanie.",
+        "prasowanie.",
+        "zgrabianie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuszenie naturalne polega na wykorzystaniu ogrzanego powietrza, co umożliwia znaczne przyśpieszenie procesu suszenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu przygotowania ziarna do kolejnego siewu lub skarmiania, należy je odpowiednio doczyścić.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaletą zespołów tnących listowych jest uzyskanie zielonki wysokiej jakości dzięki:",
+      "options": [
+        "skróceniu okresu odrostu.",
+        "zmniejszeniu plonu.",
+        "minimalizacji zanieczyszczeń ziemią.",
+        "zmiażdżeniu tkanki rośliny."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKosiarki przeznaczone są do koszenia roślin niskołodygowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czyszczenia nasion dokonuje się poprzez wykorzystanie szeregu właściwości nasion, takich, jak np.",
+      "options": [
+        "wielości kształtu.",
+        "właściwości aerodynamicznych.",
+        "gęstości.",
+        "współczynnika tarcia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż rodzaje czyszczalni prostych do sortowania ziarna.",
+      "options": [
+        "Tryjer.",
+        "Czyszczalnia pneumatyczna.",
+        "Młynek.",
+        "Wialnia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z ważniejszych kryteriów podziału kosiarek jest rodzaj zespołu tnącego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPowszechnie wykorzystuje się kosiarki z zespołem tnącym palcowym dwulistwowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do czynności wykonywanych podczas zbioru wieloetapowego roślin na sianokiszonkę nie zaliczamy:",
+      "options": [
+        "owijania folią.",
+        "magazynowania.",
+        "transportu.",
+        "sprzedaży."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPo zbyt niskim koszeniu utrudnione jest odrastanie roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCięcie z zespołem tnącym rotacyjnym odbywa się w sposób bezpodporowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Aktywne przetrząsaczo-zgrabiarki nie działają dobrze na:",
+      "options": [
+        "rośliny mocno przesuszone.",
+        "pokos.",
+        "zielonki z trawy.",
+        "rośliny niezbyt mocno przesuszone."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW kosiarkach listwowych wysokość koszenia reguluje się poprzez podkładki regulacyjne oraz zmianę talerza ślizgowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Prasę wykorzystuje się w celu zmniejszenia objętości zbieranej masy, co ułatwia:",
+      "options": [
+        "osuszanie paszy.",
+        "transport paszy.",
+        "sprzedaż paszy.",
+        "zbieranie paszy."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuszarnie wykorzystuje się do dosuszania ziaren, których wilgotność podczas zbioru jest większa niż 15%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Odpowiednia wysokość do koszenia niskiego w kosiarce rotacyjnej powinna być ustawiona na:",
+      "options": [
+        "28 mm.",
+        "30 mm.",
+        "42 mm.",
+        "32 mm."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Prasy wysokiego stopnia zgniotu umożliwiają osiąganie gęstości z ok. 20 kg/m3 luźnego siana czy słomy do:",
+      "options": [
+        "200–250 kg/m3.",
+        "430 kg/m3.",
+        "450 kg/m3.",
+        "220–250 kg/m3."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWażnym czynnikiem wpływającym na poziom strat podczas zbioru kombajnem jest nachylenie maszyny na terenie falistym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W przypadku roślin z ziarnem, np. kukurydza, musimy ustawić zgniatacz ziarna w taki sposób, aby:",
+      "options": [
+        "żadne ziarno nie zostało uszkodzone.",
+        "każde ziarno zostało osuszone.",
+        "każde ziarno zostało uszkodzone.",
+        "żadne ziarno nie zostało osuszone."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym ze sposobów zakiszania zielonek jest system AG BAG.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy wykorzystywaniu ogrzanych gazów do dosuszania ziarna przeznaczonego do konsumpcji temperatura nie powinna przekracza 60°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W owijarkach bel, naprężenie foli między rolką folii a owijaną belą powinno być takie, aby naciąg w stosunku do pierwotnej szerokości folii wynosił:",
+      "options": [
+        "od 70 do 80%.",
+        "od 70 do 75%.",
+        "od 80%.",
+        "od 70%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy wykorzystywaniu ogrzanych gazów do dosuszania ziarna przeznaczonego do siewu temperatura nie przekracza 45°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKoszt dosuszenia 1 tony ziarna kukurydzy oscyluje w granicach 400 zł.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Kombajn do zbioru dwuetapowego, np. rzepaku, należy wyposażyć w:",
+      "options": [
+        "podbieracz palcowy.",
+        "urządzenie dosuszające.",
+        "podkładki regulacyjne.",
+        "dodatkowe zespoły tnące."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodporowy sposób cięcia roślin to taki, w którym źdźbła roślin opierają się na palcu i zostają ucięte przez nożyk.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż elementy silosu z możliwością dosuszania ziarna.",
+      "options": [
+        "Korek.",
+        "Lej wysypowy.",
+        "Otwór spustowy.",
+        "Wentylator."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Od odpowiedniego doboru kosiarki nie zależy:",
+      "options": [
+        "jakość skoszonego materiału.",
+        "jakość podłoża.",
+        "ilość skoszonego materiału.",
+        "dalszy wzrost upraw wielokośnych."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPłótniarka służy do oddzielenia nasion niekształtnych o szorstkiej budowie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż elementy suszarni podłogowej.",
+      "options": [
+        "Kanał ssący.",
+        "Kanał główny.",
+        "Kanał boczny.",
+        "Wentylator."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do oddzielenia nasion chwastów bardzo podobnych do rośliny czyszczonej używa się:",
+      "options": [
+        "płótniarki.",
+        "młynka.",
+        "czyszczalni magnetycznej.",
+        "czyszczalni pneumatycznych."
+      ],
+      "answers": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2025 @@
+{
+  "id": "ppz1",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Znaczenie gospodarcze i pokrój zwierząt gospodarskich",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – produkcja zwierzęca w rolnictwie",
+      "points": [
+        "Produkcja zwierzęca jest obok produkcji roślinnej jednym z najważniejszych działów rolnictwa; oba działy ściśle współpracują i są od siebie zależne.",
+        "Produkcja zwierzęca wykorzystuje wiele produktów roślinnych, których bezpośrednie spożycie przez człowieka byłoby niemożliwe.",
+        "W produkcji zwierzęcej niezbędna jest pomoc techniczna (maszyny, urządzenia, narzędzia) oraz elementy ekonomiki pozwalające oszacować opłacalność.",
+        "Zadania rolnictwa: pokrycie zapotrzebowania ludzkości na żywność, dostarczenie na rynek odpowiedniej ilości dobrej jakości produktów spożywczych, wyprodukowanie surowców i produktów na eksport, stworzenie miejsc pracy, dbanie o wysoką kulturę rolną.",
+        "Ludzie coraz chętniej kupują produkty białkowe (mięso i przetwory) kosztem pokarmów węglowodanowych – główną przyczyną jest wzrost poziomu życia społeczeństwa.",
+        "Poziom produkcji zwierzęcej zależy głównie od materiału wyjściowego, czyli gatunków i ras zwierząt.",
+        "Czynniki rozwoju produkcji zwierzęcej: praca hodowlana (doskonalenie cech genetycznych), racjonalne żywienie, dobrostan zwierząt.",
+        "Cel produkcji zwierzęcej: maksymalizacja potencjału produkcyjnego, optymalne wykorzystanie pomieszczeń i bazy paszowej oraz zapewnienie dobrostanu zwierzętom.",
+        "Znajomość znaczenia gospodarczego poszczególnych gatunków pozwala racjonalnie wybrać profil produkcji – liczą się: sytuacja rynkowa zwierząt i ich produktów, powszechność produkcji, dostępność materiału hodowlanego i towarowego oraz możliwość zakupu środków wspomagających produkcję.",
+        "Producenci surowców i produktów zwierzęcych muszą dostosowywać elementy chowu i hodowli do zmieniających się potrzeb i wymagań konsumentów."
+      ]
+    },
+    {
+      "heading": "Gatunki zwierząt gospodarskich i pogłowie w Polsce",
+      "points": [
+        "Produkcja zwierzęca w Polsce obejmuje chów i hodowlę: bydła, owiec, kóz, trzody chlewnej i drobiu.",
+        "Kolejność liczebności: 1. drób, 2. trzoda chlewna, 3. bydło; ostatnie miejsca – owce i kozy.",
+        "Pogłowie w 2012 r. (tys. szt.): drób – 130 596, trzoda chlewna – 10 926, bydło – 5520, owce – 218, kozy – 90.",
+        "Roczne spożycie mięsa w Polsce w 2011 r. (kg/mieszkańca): wieprzowina – ok. 42, drobiowe – ok. 25, wołowina – ok. 2."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/spozycie-miesa-wykres.jpg",
+          "caption": "Roczne spożycie mięsa w Polsce (2011 r., kg na osobę): wieprzowina – 42, drób – 25, wołowina – tylko 2."
+        }
+      ]
+    },
+    {
+      "heading": "Bydło – znaczenie gospodarcze",
+      "points": [
+        "W grudniu 2012 r. pogłowie bydła w Polsce wynosiło 5520,3 tys. sztuk – o 0,4% więcej niż rok wcześniej (GUS); liczebność jest od lat dość wyrównana.",
+        "Produkty od bydła: główne (mleko, mięso) i uboczne.",
+        "Główny cel chowu i hodowli bydła: produkcja wysokowartościowego białka zwierzęcego – białko roślinne nie jest w stanie w pełni go zastąpić w diecie człowieka.",
+        "Białko mleka krowiego zawiera prawie wszystkie niezbędne dla człowieka aminokwasy; mleko dostarcza też wapnia.",
+        "Roczne spożycie mleka w Polsce w 2011 r. – ok. 190 litrów na osobę.",
+        "Produkcja wołowiny w Polsce w 2011 r. – 385 tys. ton (MRiRW).",
+        "Spożycie wołowiny zajmuje ostatnie miejsce (ok. 2 kg/os./rok) z powodu wysokiej ceny tego mięsa.",
+        "Produkty uboczne: obornik (nawóz organiczny), skóra, rogi i racice (do produkcji klejów).",
+        "W krajach słabo rozwiniętych bydło jest nadal wykorzystywane jako siła robocza.",
+        "Pogłowie bydła w 2011 r. było największe w województwach: podlaskim, mazowieckim, łódzkim, kujawsko-pomorskim i warmińsko-mazurskim (MRiRW).",
+        "Wołowina jest jednym z najbardziej wartościowych gatunków mięsa w porównaniu z mięsem pozostałych gatunków zwierząt.",
+        "Wykres 1.2 (pogłowie bydła w województwach, 2011): zdecydowanie najwięcej w podlaskim (ok. 82 na skali wykresu), dalej mazowieckie (ok. 48), wielkopolskie (ok. 45), łódzkie (ok. 44), kujawsko-pomorskie (ok. 42), warmińsko-mazurskie (ok. 41); najmniej – dolnośląskie (ok. 8), zachodniopomorskie (ok. 10) i lubuskie (ok. 11)."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/bydlo-poglowie-wojewodztwa.jpg",
+          "caption": "Województwa o największym pogłowiu bydła (dane Ministerstwa Rolnictwa i Rozwoju Wsi, 2011 r., wideokast): podlaskie, mazowieckie, łódzkie, kujawsko-pomorskie i warmińsko-mazurskie (zaznaczone na zielono)."
+        }
+      ]
+    },
+    {
+      "heading": "Owce i kozy – znaczenie gospodarcze",
+      "points": [
+        "Owca domowa ma wszechstronny kierunek użytkowania, ale dużo mniejsze znaczenie gospodarcze niż bydło.",
+        "Produkty główne od owiec: wełna, mięso, mleko, skóry; uboczne: obornik, lanolina.",
+        "Owce wykorzystuje się jako „naturalne kosiarki” na terenach trudnych do uprawy – dzięki specyficznie zbudowanej wardze górnej bardzo nisko przygryzają rośliny.",
+        "Owce mają niskie wymagania żywieniowe i co do sposobu utrzymania; wypasane na halach i pastwiskach są atrakcją agroturystyczną.",
+        "W grudniu 2012 r. pogłowie owiec wynosiło 218,5 tys. sztuk; mała liczebność wynika z braku rynku zbytu i zaniku zainteresowania tym kierunkiem chowu.",
+        "Chów kóz ma w Polsce wieloletnią tradycję; kozy dostarczają wartościowego mleka o właściwościach dietetycznych – dla osób uczulonych na mleko krowie.",
+        "Inne produkty od kóz: mięso, skóry, rogi, obornik, wełna.",
+        "Kozy mają niskie wymagania co do utrzymania i żywienia, są bardzo odporne na niekorzystne warunki środowiska i łatwo się dostosowują; mogą być zwierzętami jucznymi i pociągowymi.",
+        "W połowie 2012 r. pogłowie kóz w Polsce wynosiło 89,9 tys. sztuk (GUS).",
+        "Kozy – według kursu jedyny gatunek zwierząt gospodarskich dostarczający mleka o specyficznych właściwościach żywieniowych; ze względu na charakter i skład białka mleko kozie mogą spożywać osoby uczulone na mleko krowie (wideokast).",
+        "Kozy, podobnie jak owce, są atrakcją w gospodarstwach agroturystycznych i cennym źródłem naturalnych surowców do produkcji wyrobów ekologicznych w specjalistycznych gospodarstwach."
+      ]
+    },
+    {
+      "heading": "Trzoda chlewna – znaczenie gospodarcze",
+      "points": [
+        "Główny cel chowu świń: utrzymanie wysokich wyników rozrodczych i użytkowych (jakość i ilość wieprzowiny).",
+        "Świnie mają dość jednostronną wartość użytkową (głównie mięso), ale są bardzo wydajnym źródłem mięsa.",
+        "Cechy gospodarcze świń: wysoka rozrodczość (wysoka płodność, plenność, policykliczność), wysoka wydajność rzeźna, optymalne wykorzystanie paszy, wszystkożerność, wysoka kaloryczność wieprzowiny, szybkie tempo wzrostu.",
+        "„Cykle świńskie” – niestabilność rynku wieprzowego wywołana głównie przez dużą zmienność plonów i zasobów pasz, cenę rynkową zbóż i cenę prosiąt.",
+        "Spożycie wieprzowiny – ok. 42 kg/mieszkańca/rok i z roku na rok maleje z powodu wysokiej ceny mięsa.",
+        "Wieprzowina zajmuje pierwsze miejsce w ogólnej produkcji mięsa w Polsce – w 2011 r. 1881 tys. ton (MRiRW).",
+        "Pod koniec marca 2013 r. pogłowie trzody chlewnej wynosiło 10 926,4 tys. sztuk – prawie 5% mniej niż rok wcześniej.",
+        "Obsada trzody chlewnej na 100 ha użytków rolnych jest największa w województwach wielkopolskim i kujawsko-pomorskim.",
+        "Wykres 1.4 (obsada trzody chlewnej na 100 ha UR, 2011, wartości przybliżone z wykresu, szt.): wielkopolskie ok. 222, kujawsko-pomorskie ok. 147, łódzkie ok. 115, opolskie ok. 114, pomorskie ok. 100, śląskie ok. 70, mazowieckie ok. 60, lubelskie, świętokrzyskie i warmińsko-mazurskie ok. 58, małopolskie i podlaskie ok. 42, zachodniopomorskie ok. 38, lubuskie ok. 36, dolnośląskie i podkarpackie ok. 30 (najmniej)."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/obsada-trzody-wojewodztwa.jpg",
+          "caption": "Obsada trzody chlewnej na 100 ha UR w województwach (wideokast) – zdecydowanie największa w wielkopolskim (ponad 200 szt.), na drugim miejscu kujawsko-pomorskie (ok. 150 szt.); najmniejsza m.in. w dolnośląskim i podkarpackim (ok. 30 szt.)."
+        }
+      ]
+    },
+    {
+      "heading": "Konie i drób – znaczenie gospodarcze",
+      "points": [
+        "Konie w niektórych krajach są jeszcze siłą roboczą i transportową, ale dziś większe znaczenie ma rekreacja (użytkowanie wierzchowe w ośrodkach wypoczynkowych i sportowych, agroturystyka).",
+        "Szlachetnym sposobem wykorzystania koni jest hipoterapia i rehabilitacja; duże znaczenie mają w sporcie (wyścigi, ujeżdżenie, biegi, skoki przez przeszkody).",
+        "Coraz mniejszą rolę odgrywa chów koni na mięso (koninę); w połowie 2012 r. pogłowie koni w Polsce – 222,2 tys. sztuk.",
+        "W zwierzęcej produkcji towarowej drób zajmuje trzecie miejsce – po bydle i trzodzie chlewnej.",
+        "Produkty z chowu drobiu: jaja i mięso (kurczęta brojlery, indyki brojlery), puch i pierze (kaczki, gęsi), cele ozdobne (gołębie hodowlane).",
+        "Za rozwojem drobiarstwa przemawiają: niski koszt produkcji jaj i mięsa, walory smakowe i dietetyczne mięsa, możliwość wykorzystania w gospodarstwach agroturystycznych i ekologicznych, niskie zużycie paszy na 1 kg przyrostu.",
+        "Największe znaczenie mają brojlery kurze i indycze; drób wodny rozwija się wolniej, bo zależy od popytu zagranicznego.",
+        "Pogłowie drobiu stale rośnie – w 2012 r. (zwierzęta powyżej 2. tygodnia życia) 130 596,4 tys. sztuk.",
+        "Produkcja mięsa drobiowego w 2011 r. – ok. 1426 tys. ton; spożycie – ok. 25 kg/mieszkańca/rok.",
+        "Hipoterapia to m.in. terapia dla chorych dzieci (wideokast)."
+      ]
+    },
+    {
+      "heading": "Pokrój (eksterier) – pojęcie i ocena",
+      "points": [
+        "Pokrój (eksterier) – zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia; obejmuje budowę zewnętrzną ciała i proporcje między jego częściami.",
+        "Na podstawie eksterieru można: oszacować wartość użytkową i produkcyjną, określić gatunek, określić typ użytkowy, rozróżnić płeć i wiek, ocenić stan zdrowia i fizjologiczny, ocenić kondycję, przeprowadzić brakowanie w stadzie.",
+        "Oceny pokroju dokonuje się za pomocą wzroku, dotyku i pomiarów; wykorzystuje się ją m.in. w programach hodowlanych doskonalących rasy.",
+        "Do oceny eksterieru służy wzorzec pokrojowy – najkorzystniejszy pod każdym względem wygląd poszczególnych partii ciała.",
+        "Ocena pokroju obejmuje harmonijność – zwierzę o prawidłowym pokroju ma dobrze zbudowane części ciała i odpowiednie proporcje.",
+        "Każdy gatunek zwierząt gospodarskich cechuje się swoistymi cechami pokrojowymi."
+      ]
+    },
+    {
+      "heading": "Pokrój bydła – głowa, szyja, przód",
+      "points": [
+        "Cechy pokrojowe bydła zależą od płci (krowy, buhaje), grupy wiekowej (cielęta, jałowizna, sztuki dorosłe), typu użytkowego, rasy i żywienia.",
+        "Głowa buhaja: krótka, szeroka, gruba skóra, bujnie owłosiona w części czołowej; głowa krowy: dłuższa, węższa, cienka skóra, delikatne owłosienie.",
+        "Prawidłowo: profil prosty, śluzawica wilgotna i zimna, silna szeroko rozstawiona żuchwa, uszy poziomo i poprzecznie do głowy, rogi lekko pochylone ku przodowi; wady głowy – profil barani i szczupaczy.",
+        "Szyja: harmonijne połączenie głowy z tułowiem; u buhaja krótka, szeroka, umięśniona; u krowy długa, słabiej umięśniona, cienka lekko pofałdowana skóra; wady – szyja płaska, wcięta.",
+        "Kłąb (wyniosłość między karkiem a grzbietem) – szeroki, umięśniony, w linii prostej z grzbietem; wady – kłąb ostry, dachowaty, rozłupany.",
+        "Łopatka – długa, szeroka, ukośnie ustawiona; wady – luźna, krótka, stroma.",
+        "Szerokość przodu (rozstaw guzów barkowych i wysklepienie żeber za łopatkami) – szeroka klatka, dobrze wysklepione żebra; wada – wąski przód.",
+        "Głębokość przodu (od szczytu kłębu do dolnej powierzchni mostka) powinna stanowić połowę wysokości w kłębie."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/pokroj-krowy.jpg",
+          "caption": "Rysunek 1.1. Pokrój krowy – 35 oznaczonych partii ciała (legenda pod rysunkiem), m.in. 1 – wał międzyrożny, 4 – ganasz, 5 – śluzawica, 8 – sanki, 9 – podgardle, 16 – mostek, 20 – żyła mleczna, 28 – kulsze, 30 – kłąb, 35 – słabizna."
+        }
+      ]
+    },
+    {
+      "heading": "Pokrój bydła – tułów, zad, kończyny, wymię",
+      "points": [
+        "Grzbiet – szeroki, poziomy od kłębu po guzy biodrowe; wady – grzbiet łęgowaty, karpiowaty.",
+        "Lędźwie – szerokie, proste, niezbyt długie; wady – nadmierna/zbyt mała długość, słaba nerka, ostre lędźwie.",
+        "Brzuch – pojemny, beczkowaty, nie obwisły; dół głodowy – część brzucha poniżej lędźwi, obok guza biodrowego.",
+        "Słabizna (boczna strona brzucha obok zadu, poniżej dołu głodowego) – zwarta, wypukła, sprężysta.",
+        "Zad – długi, szeroki, umięśniony, w linii prostej z grzbietem; wady – klinowaty, przebudowany, spadzisty.",
+        "Kończyny – szeroko rozstawione, właściwie spionowane; wady przednich: postawa francuska, iksowata, dosiebna, koziniec, podniebna, przedsiebna; wady tylnych: postawa krowia, szablasta, stroma, zasiebna; ważny jest stan racic.",
+        "Pożądane zawieszenie wymienia: sromowo-brzuszne; wady – zawieszenie sromowe lub brzuszne.",
+        "Głębokość wymienia (od podstawy do nasady strzyków) – pożądana jednolita dla ćwiartek przednich i tylnych; szerokość (mierzona w połowie głębokości przednich ćwiartek) – pożądana duża.",
+        "Prawidłowy kształt wymienia: miskowaty, skrzynkowaty; wady – piętrowe, kozie, przewężone, kuliste, obwisłe, dzikie.",
+        "Strzyki prawidłowe: cylindryczne, równej grubości, zakończenie stożkowe; wady – butelkowate, dzwonkowate, zbyt długie, za blisko rozstawione.",
+        "Skóra wymienia – cienka, z widoczną siecią naczyń krwionośnych, pokryta krótkim, delikatnym, błyszczącym włosem."
+      ]
+    },
+    {
+      "heading": "Pokrój owiec i kóz",
+      "points": [
+        "U owiec różnice pokrojowe zależą od płci, rasy i typu użytkowego; ważna jest harmonijność budowy i wymię (decyduje o wartości samicy).",
+        "Cechy wspólne wszystkich owiec: śluzawica nosowa podzielona pionową bruzdą, ruchliwa warga górna (wybieranie wartościowych części roślin, niskie przygryzanie), doły łzowe przy oczach (natłuszczają powieki), rogi o trójkątnym przekroju poprzecznym, gruczoł międzyraciczny wydzielający lanolinę (tłuszczopot).",
+        "Koza obok owcy i krowy jest źródłem wartościowego mleka; o jej produkcyjności decydują stan zdrowotny i budowa wymienia.",
+        "U kóz ważny jest stan racic – „racice niosą mleko”; regularna korekcja racic pozwala uzyskać produkt dobrej jakości i w pożądanej ilości."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/pokroj-owcy.jpg",
+          "caption": "Rysunek 1.2. Pokrój owcy – 21 partii ciała, m.in. 8 – kolano, 15 – kłąb, 16 – ucho, 17 – szyja, 21 – kulka."
+        },
+        {
+          "src": "img/ppz1/pokroj-kozy.jpg",
+          "caption": "Rysunek 1.3. Pokrój kozy – 26 partii ciała, m.in. 7 – wymię, 8 – strzyk, 10 – raciczki, 20 – broda, 21 – kolczyki (przydatki skórne na szyi), 26 – udo."
+        }
+      ]
+    },
+    {
+      "heading": "Pokrój trzody chlewnej",
+      "points": [
+        "Głowa – mało wartościowa część tuszy, mała, proporcjonalna, profil lekko wklęsły, uszy cienkie; wielkość i ustawienie uszu to cechy rasowe.",
+        "Szyja – średniej długości, szeroka, umięśniona; kłąb – szeroki, równy, skóra gładka.",
+        "Grzbiet – szeroki, równy, poziomy, umięśniony, długi; klatka piersiowa – szeroka, głęboka, bez wklęśnięć i przewężeń.",
+        "Brzuch – pojemny, linia podbrzusza równoległa do grzbietu; lędźwie i krzyż – równe, szerokie, umięśnione.",
+        "Zad – długi, szeroki, równy lub lekko spadzisty; szynka – szeroka, dobrze wypełniona mięśniami, zaokrąglona.",
+        "Ogon – gruby u nasady, stopniowo zwężający się; sutki – symetrycznie rozmieszczone, o właściwym kształcie.",
+        "Jądra – wyraźnie zarysowane, jednakowej wielkości, równo zawieszone, skóra moszny elastyczna.",
+        "Kończyny – mocne, proste, dobrze spionowane, szeroko rozstawione.",
+        "Skóra – elastyczna, gładka, bez poprzecznych fałd, odcień białoróżowy; szczecina – gęsta, długa, cienka, błyszcząca; umaszczenie – cecha rasowa.",
+        "Kłąb świni wg tekstu kursu: szeroki, równy, spiczasty, skóra gładka; klatka piersiowa – dobrze rozwinięta."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/pokroj-swini.jpg",
+          "caption": "Rysunek 1.4. Pokrój świni – 21 partii ciała, m.in. 2 – szynka przednia, 6 – pachwina, 9 – golonka, 15 – kark, 17 – ryj, 21 – szynka."
+        }
+      ]
+    },
+    {
+      "heading": "Pokrój konia",
+      "points": [
+        "Głowa duża, ciężka, masywna – pożądana u koni zimnokrwistych; wady profilu: szczupaczy, garbonosy.",
+        "Szyja – długość proporcjonalna do wielkości konia, kształt prosty; szyja krótka to wada u konia wierzchowego; wady – szyja jelenia, łabędzia.",
+        "Kłąb – wysoki, szeroki i długi u gorącokrwistych; słabo zaznaczony, krótki i niski u zimnokrwistych.",
+        "Grzbiet – krótki, prosty u koni wierzchowych; wady – wklęsły (łękowaty), wypukły (karpiowaty).",
+        "Lędźwie – krótkie, szerokie, dobrze związane; zad – dobrze umięśniony; wady zadu – horyzontalny, spadzisty.",
+        "Klatka piersiowa – głęboka, długa; wady – mało pojemna, wąska, płytka.",
+        "Brzuch – pojemny, mieszczący się w konturach żeber; wady – obwisły, rozepchany, podkasany.",
+        "Kończyny przednie: łopatka duża, skośna, umięśniona; nadgarstek szeroki i gruby; nadpęcie niezbyt długie, szerokie; staw pęcinowy szeroki i gruby; pęcina skątowana pod kątem 50°.",
+        "Wady kończyn przednich: postawa zbieżna, rozbieżna, wąska, iksowata, beczkowata, francuska, szpotawa; cofnięty nadgarstek (barania noga), koziniec; pęcina krótka, stroma, długa, miękka (niedźwiedzia łapa).",
+        "Kończyny tylne: udo stosunkowo krótkie, nachylone ku przodowi; podudzie długie, szerokie, grube, bardzo dobrze umięśnione; staw skokowy długi, szeroki, suchy, gruby.",
+        "Wady kończyn tylnych: staw skokowy wąski, ubogi, rozwarty, limfatyczny; postawa zbieżna, rozbieżna, beczkowata, krowia.",
+        "Prawidłowy profil głowy konia – prosty (Tabela 1.2); profil szczupaczy i garbonosy to wady."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/pokroj-konia.jpg",
+          "caption": "Rysunek 1.5. Pokrój konia – 40 partii ciała, m.in. 11 – puzdro, 13 – kasztany, 14 – korona ze stawem koronowym, 20 – kłąb, 21 – grzebień szyjny, 24 – potylica, 25 – ciemię."
+        }
+      ]
+    },
+    {
+      "heading": "Pokrój drobiu (kura i kogut)",
+      "points": [
+        "Dziób – krótki, ostro zakończony, w kolorach od jasnego do czarnego; głowa stosunkowo mała, z grzebieniem (prostym lub różyczkowym).",
+        "Oczy – okrągłe, o żółtopomarańczowej tęczówce; dzwonki – parzyste przydatki poniżej dzioba; zausznice – parzyste, owalne.",
+        "Szyja – dość długa, smukła, lekko wygięta w kształcie litery S, bogato upierzona.",
+        "Pierś – dobrze wysklepiona, zależnie od typu słabo lub silnie umięśniona; podbrzusze u dobrych niosek bardzo rozbudowane i szerokie.",
+        "Grzbiet – szeroki, słabo umięśniony, lekko opadający ku ogonowi; u nasady ogona gruczoły kuprowe.",
+        "Skrzydła – proporcjonalne do masy ciała, przylegające lub lekko odchylone; ogon krótki lub długi (wiewiórczy, zadarty, opadający, leżący).",
+        "Nogi różnej długości; u samców na skoku występuje ostroga.",
+        "Dzwonki u kury są różnej wielkości i kształtów."
+      ],
+      "images": [
+        {
+          "src": "img/ppz1/pokroj-kury-koguta.jpg",
+          "caption": "Rysunek 1.6. Pokrój koguta i kury: 1 – głowa, 2 – dziób, 3 – oko, 4 – brew, 5 – grzebień, 6 – uszy, 7 – zausznice, 8 – policzki, 9 – dzwonki, 10 – szyja, 11 – grzywa, 12 – plecy, 13 – siodło, 14 – piersi, 15 – pokrywy skrzydła, 16 – lotki I rzędu, 17 – lotki II rzędu, 18 – pióra siodła, 19 – pióra nasady ogona (kuper), 20 – sterówki, 21 – sierpówki, 22 – poduszka, 23 – brzuch, 24 – zad, 25 – bufy (udo), 26 – goleń, 27 – pięta, 28 – stopa, 29 – ostroga, 30 – tylny palec, 31 – zewnętrzny palec, 32 – środkowy palec, 33 – wewnętrzny palec."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Prawidłowa budowa głowy bydła – Profil prosty; buhaj – krótka, szeroka, gruba skóra, bujne owłosienie czoła; krowa – dłuższa, węższa, cienka skóra; śluzawica wilgotna i zimna, silna szeroko rozstawiona żuchwa, uszy poziomo.",
+        "Pożądany pokrój trzody chlewnej – Głowa mała, profil lekko wklęsły; kłąb szeroki, równy; grzbiet szeroki, poziomy, długi, umięśniony; klatka piersiowa szeroka i głęboka; brzuch pojemny, podbrzusze równoległe do grzbietu; zad długi, szeroki, równy lub lekko spadzisty; szynka szeroka, zaokrąglona, umięśniona; kończyny mocne, proste, szeroko rozstawione; szczecina gęsta, długa, cienka, błyszcząca."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Wymień 5 zadań rolnictwa",
+      "back": "Pokrycie zapotrzebowania na żywność, dostarczenie dobrej jakości produktów spożywczych, produkcja na eksport, tworzenie miejsc pracy, dbanie o wysoką kulturę rolną."
+    },
+    {
+      "front": "Główna przyczyna wzrostu spożycia produktów białkowych kosztem węglowodanowych",
+      "back": "Wzrost poziomu życia społeczeństwa."
+    },
+    {
+      "front": "Od czego głównie zależy poziom produkcji zwierzęcej?",
+      "back": "Od materiału wyjściowego – gatunków i ras zwierząt."
+    },
+    {
+      "front": "Czynniki wpływające na rozwój produkcji zwierzęcej (3)",
+      "back": "Praca hodowlana (doskonalenie cech genetycznych), racjonalne żywienie, dobrostan zwierząt."
+    },
+    {
+      "front": "Cel produkcji zwierzęcej",
+      "back": "Maksymalizacja potencjału produkcyjnego, optymalne wykorzystanie pomieszczeń i bazy paszowej, zapewnienie dobrostanu."
+    },
+    {
+      "front": "Gatunki zwierząt gospodarskich w produkcji zwierzęcej w Polsce (5)",
+      "back": "Bydło, owce, kozy, trzoda chlewna, drób."
+    },
+    {
+      "front": "Najliczniejszy gatunek zwierząt gospodarskich w Polsce",
+      "back": "Drób (2. trzoda chlewna, 3. bydło)."
+    },
+    {
+      "front": "Pogłowie drobiu w Polsce w 2012 r.",
+      "back": "130 596,4 tys. sztuk (zwierzęta powyżej 2. tygodnia życia)."
+    },
+    {
+      "front": "Pogłowie bydła w Polsce w grudniu 2012 r.",
+      "back": "5520,3 tys. sztuk (+0,4% r/r)."
+    },
+    {
+      "front": "Pogłowie trzody chlewnej w Polsce (koniec marca 2013 r.)",
+      "back": "10 926,4 tys. sztuk – prawie 5% mniej niż rok wcześniej."
+    },
+    {
+      "front": "Pogłowie owiec w Polsce w grudniu 2012 r.",
+      "back": "218,5 tys. sztuk."
+    },
+    {
+      "front": "Pogłowie kóz w Polsce w połowie 2012 r.",
+      "back": "89,9 tys. sztuk."
+    },
+    {
+      "front": "Pogłowie koni w Polsce w połowie 2012 r.",
+      "back": "222,2 tys. sztuk."
+    },
+    {
+      "front": "Podział produktów uzyskiwanych od bydła",
+      "back": "Główne (mleko, mięso) i uboczne."
+    },
+    {
+      "front": "Główny cel chowu i hodowli bydła",
+      "back": "Produkcja wysokowartościowego białka zwierzęcego."
+    },
+    {
+      "front": "Czy białko roślinne może w pełni zastąpić białko zwierzęce w diecie człowieka?",
+      "back": "Nie."
+    },
+    {
+      "front": "Co zawiera białko mleka krowiego?",
+      "back": "Prawie wszystkie niezbędne dla człowieka aminokwasy; mleko dostarcza też wapnia."
+    },
+    {
+      "front": "Roczne spożycie mleka w Polsce w 2011 r.",
+      "back": "Ok. 190 litrów na osobę."
+    },
+    {
+      "front": "Produkcja wołowiny w Polsce w 2011 r.",
+      "back": "385 tys. ton."
+    },
+    {
+      "front": "Roczne spożycie wołowiny w Polsce i powód jego niskiego poziomu",
+      "back": "Ok. 2 kg/os./rok – ostatnie miejsce, z powodu wysokiej ceny."
+    },
+    {
+      "front": "Produkty uboczne od bydła",
+      "back": "Obornik, skóra, rogi i racice (do produkcji klejów)."
+    },
+    {
+      "front": "Do czego wykorzystuje się rogi i racice bydła?",
+      "back": "Do produkcji klejów."
+    },
+    {
+      "front": "Produkty główne od owiec",
+      "back": "Wełna, mięso, mleko, skóry."
+    },
+    {
+      "front": "Produkty uboczne od owiec",
+      "back": "Obornik, lanolina."
+    },
+    {
+      "front": "Dlaczego owce nazywa się „naturalnymi kosiarkami”?",
+      "back": "Dzięki specyficznie zbudowanej wardze górnej bardzo nisko przygryzają rośliny – wypasa się je na terenach trudnych do uprawy."
+    },
+    {
+      "front": "Przyczyny niskiego pogłowia owiec w Polsce",
+      "back": "Brak rynku zbytu i zanik zainteresowania tym kierunkiem chowu."
+    },
+    {
+      "front": "Szczególna wartość mleka koziego",
+      "back": "Właściwości dietetyczne – dla osób uczulonych na mleko krowie."
+    },
+    {
+      "front": "Produkty od kóz poza mlekiem",
+      "back": "Mięso, skóry, rogi, obornik, wełna."
+    },
+    {
+      "front": "Do jakich prac mogą być wykorzystywane kozy?",
+      "back": "Jako zwierzęta juczne i pociągowe."
+    },
+    {
+      "front": "Główny cel chowu i hodowli świń",
+      "back": "Utrzymanie wysokich wyników rozrodczych i użytkowych (jakość i ilość wieprzowiny)."
+    },
+    {
+      "front": "Cechy gospodarcze świń (6)",
+      "back": "Wysoka rozrodczość, wysoka wydajność rzeźna, optymalne wykorzystanie paszy, wszystkożerność, wysoka kaloryczność wieprzowiny, szybkie tempo wzrostu."
+    },
+    {
+      "front": "Składowe wysokiej rozrodczości świń",
+      "back": "Wysoka płodność, wysoka plenność, policykliczność."
+    },
+    {
+      "front": "„Cykle świńskie” – przyczyny",
+      "back": "Duża zmienność plonów i zasobów pasz, cena rynkowa zbóż, cena prosiąt."
+    },
+    {
+      "front": "Roczne spożycie wieprzowiny w Polsce",
+      "back": "Ok. 42 kg na mieszkańca (maleje z powodu wysokiej ceny)."
+    },
+    {
+      "front": "Które mięso zajmuje 1. miejsce w produkcji mięsa w Polsce i ile go wyprodukowano w 2011 r.?",
+      "back": "Wieprzowina – 1881 tys. ton."
+    },
+    {
+      "front": "Obecnie główne zastosowanie koni",
+      "back": "Rekreacja i sport (użytkowanie wierzchowe), agroturystyka, hipoterapia/rehabilitacja."
+    },
+    {
+      "front": "Konina – jak zmienia się znaczenie chowu koni na mięso?",
+      "back": "Odgrywa coraz mniejszą rolę."
+    },
+    {
+      "front": "Miejsce drobiu w zwierzęcej produkcji towarowej w Polsce",
+      "back": "Trzecie – po bydle i trzodzie chlewnej."
+    },
+    {
+      "front": "Podstawowe produkty z chowu drobiu",
+      "back": "Jaja i mięso (brojlery kurze, indycze), puch i pierze (kaczki, gęsi), cele ozdobne (gołębie)."
+    },
+    {
+      "front": "Czynniki sprzyjające rozwojowi drobiarstwa",
+      "back": "Niski koszt produkcji jaj i mięsa, walory smakowe i dietetyczne, wykorzystanie w agroturystyce i ekologii, niskie zużycie paszy na 1 kg przyrostu."
+    },
+    {
+      "front": "Dlaczego chów drobiu wodnego rozwija się wolniej?",
+      "back": "Jest ściśle uzależniony od popytu zagranicznego."
+    },
+    {
+      "front": "Produkcja mięsa drobiowego w 2011 r. i jego spożycie",
+      "back": "Ok. 1426 tys. ton; spożycie ok. 25 kg/mieszkańca/rok."
+    },
+    {
+      "front": "Pokrój (eksterier) – definicja",
+      "back": "Zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia – budowa zewnętrzna ciała i proporcje między jego częściami."
+    },
+    {
+      "front": "Co można określić na podstawie eksterieru?",
+      "back": "Wartość użytkową i produkcyjną, gatunek, typ użytkowy, płeć i wiek, stan zdrowia i fizjologiczny, kondycję; można przeprowadzić brakowanie."
+    },
+    {
+      "front": "Metody oceny pokroju",
+      "back": "Wzrok, dotyk i pomiary."
+    },
+    {
+      "front": "Wzorzec pokrojowy",
+      "back": "Najkorzystniejszy pod każdym względem wygląd poszczególnych partii ciała – podstawa oceny eksterieru."
+    },
+    {
+      "front": "Wady profilu głowy u bydła",
+      "back": "Profil barani i szczupaczy."
+    },
+    {
+      "front": "Prawidłowa śluzawica u bydła",
+      "back": "Wilgotna i zimna."
+    },
+    {
+      "front": "Wady szyi u bydła",
+      "back": "Szyja płaska, szyja wcięta."
+    },
+    {
+      "front": "Kłąb – definicja (bydło)",
+      "back": "Wyniosłość między karkiem a grzbietem."
+    },
+    {
+      "front": "Wady kłębu u bydła",
+      "back": "Kłąb ostry, dachowaty, rozłupany."
+    },
+    {
+      "front": "Głębokość przodu u bydła – jaka powinna być?",
+      "back": "Połowa wysokości w kłębie (odległość od szczytu kłębu do dolnej powierzchni mostka)."
+    },
+    {
+      "front": "Wady grzbietu u bydła",
+      "back": "Grzbiet łęgowaty, karpiowaty."
+    },
+    {
+      "front": "Dół głodowy",
+      "back": "Część brzucha poniżej lędźwi, obok guza biodrowego."
+    },
+    {
+      "front": "Słabizna – położenie i prawidłowa budowa",
+      "back": "Boczna strona brzucha obok zadu, poniżej dołu głodowego; zwarta, wypukła, sprężysta."
+    },
+    {
+      "front": "Wady zadu u bydła",
+      "back": "Zad klinowaty, przebudowany, spadzisty."
+    },
+    {
+      "front": "Wady postawy kończyn tylnych bydła",
+      "back": "Postawa krowia, szablasta, stroma, zasiebna."
+    },
+    {
+      "front": "Pożądane zawieszenie wymienia u krowy",
+      "back": "Sromowo-brzuszne."
+    },
+    {
+      "front": "Prawidłowe kształty wymienia",
+      "back": "Miskowaty, skrzynkowaty."
+    },
+    {
+      "front": "Wadliwe kształty wymienia",
+      "back": "Piętrowe, kozie, przewężone, kuliste, obwisłe, dzikie."
+    },
+    {
+      "front": "Prawidłowe strzyki",
+      "back": "Cylindryczne, równej grubości, zakończenie stożkowe."
+    },
+    {
+      "front": "Wady strzyków",
+      "back": "Butelkowate, dzwonkowate, zbyt długie, za blisko rozstawione."
+    },
+    {
+      "front": "W którym miejscu ocenia się szerokość wymienia?",
+      "back": "W połowie głębokości przednich ćwiartek."
+    },
+    {
+      "front": "Cechy budowy wspólne wszystkim owcom (5)",
+      "back": "Śluzawica podzielona pionową bruzdą, ruchliwa warga górna, doły łzowe, rogi o trójkątnym przekroju, gruczoł międzyraciczny (lanolina)."
+    },
+    {
+      "front": "Lanolina (tłuszczopot) – skąd pochodzi u owcy?",
+      "back": "Z gruczołu międzyracicznego w szparze międzyracicznej."
+    },
+    {
+      "front": "„Racice niosą mleko” – do którego gatunku odnosi się to powiedzenie w module?",
+      "back": "Do kóz – stan racic i ich korekcja wpływają na ilość i jakość mleka."
+    },
+    {
+      "front": "Profil głowy świni",
+      "back": "Lekko wklęsły."
+    },
+    {
+      "front": "Prawidłowa skóra świni",
+      "back": "Elastyczna, gładka, bez poprzecznych fałd, odcień białoróżowy."
+    },
+    {
+      "front": "Linia podbrzusza u świni",
+      "back": "Równoległa do grzbietu."
+    },
+    {
+      "front": "Głowa duża, ciężka, masywna – u jakich koni jest pożądana?",
+      "back": "U koni zimnokrwistych."
+    },
+    {
+      "front": "Wady szyi konia",
+      "back": "Szyja jelenia, łabędzia; szyja krótka – wada u konia wierzchowego."
+    },
+    {
+      "front": "Kłąb u koni gorącokrwistych vs zimnokrwistych",
+      "back": "Gorącokrwiste – wysoki, szeroki, długi; zimnokrwiste – słabo zaznaczony, krótki, niski."
+    },
+    {
+      "front": "Prawidłowe skątowanie pęciny u konia",
+      "back": "50°."
+    },
+    {
+      "front": "Barania noga i niedźwiedzia łapa (koń)",
+      "back": "Barania noga – cofnięty nadgarstek; niedźwiedzia łapa – miękka pęcina."
+    },
+    {
+      "front": "Wady stawu skokowego konia",
+      "back": "Wąski, ubogi, rozwarty, limfatyczny."
+    },
+    {
+      "front": "Wady brzucha konia",
+      "back": "Obwisły, rozepchany, podkasany."
+    },
+    {
+      "front": "Dzwonki i zausznice u kury",
+      "back": "Dzwonki – parzyste przydatki poniżej dzioba; zausznice – parzyste, owalne."
+    },
+    {
+      "front": "Kształt szyi kury",
+      "back": "Dość długa, smukła, lekko wygięta w kształcie litery S, bogato upierzona."
+    },
+    {
+      "front": "Gdzie znajdują się gruczoły kuprowe u drobiu?",
+      "back": "U nasady ogona."
+    },
+    {
+      "front": "Ostroga u drobiu – gdzie i u kogo?",
+      "back": "Na skoku, u samców."
+    },
+    {
+      "front": "Podbrzusze u dobrej nioski",
+      "back": "Bardzo rozbudowane i szerokie."
+    },
+    {
+      "front": "Co bierze się pod uwagę, wybierając profil produkcji zwierzęcej?",
+      "back": "Sytuację rynkową zwierząt i ich produktów, powszechność produkcji, dostępność materiału hodowlanego i towarowego, możliwość zakupu środków wspomagających produkcję."
+    },
+    {
+      "front": "Województwa o największym pogłowiu bydła (2011)",
+      "back": "Podlaskie, mazowieckie, łódzkie, kujawsko-pomorskie, warmińsko-mazurskie."
+    },
+    {
+      "front": "Województwa o największej obsadzie trzody chlewnej na 100 ha UR",
+      "back": "Wielkopolskie i kujawsko-pomorskie."
+    },
+    {
+      "front": "Pokrój krowy – nazwij partie ciała oznaczone numerami.",
+      "back": "1 – wał międzyrożny, 2 – ucho, 3 – czoło, 4 – ganasz, 5 – śluzawica, 6 – wargi, 7 – róg, 8 – sanki, 9 – podgardle, 10 – przedramię, 11 – napięstnik, 12 – nadpięcie, 13 – staw pęcinowy, 14 – pęcina, 15 – racice, 16 – mostek, 17 – pępek, 18 – brzuch, 19 – strzyk, 20 – żyła mleczna, 21 – raciczka, 22 – nadpięcie, 23 – staw skokowy, 24 – wymię, 25 – podudzie, 26 – kolano, 27 – udo, 28 – kulsze, 29 – lędźwie, 30 – kłąb, 31 – łopatka, 32 – grzbiet, 33 – krzyż, 34 – ożebrowanie, 35 – słabizna.",
+      "img": "img/ppz1/pokroj-krowy-numery.jpg"
+    },
+    {
+      "front": "Pokrój świni – nazwij partie ciała oznaczone numerami.",
+      "back": "1 – podgardle, 2 – szynka przednia, 3 – racica, 4 – mostek, 5 – brzuch, 6 – pachwina, 7 – raciczka, 8 – staw skokowy, 9 – golonka, 10 – krzyż, 11 – biodro, 12 – lędźwie, 13 – grzbiet, 14 – kłąb, 15 – kark, 16 – uszy, 17 – ryj, 18 – szyja, 19 – łopatka, 20 – ożebrowanie (bok), 21 – szynka.",
+      "img": "img/ppz1/pokroj-swini-numery.jpg"
+    },
+    {
+      "front": "Pokrój konia – nazwij partie ciała oznaczone numerami.",
+      "back": "1 – podgardle, 2 – gardło, 3 – pierś, 4 – łokieć, 5 – napięstek, 6 – nadpięcie, 7 – staw pęcinowy, 8 – pęcina, 9 – kopyto, 10 – brzuch, 11 – puzdro, 12 – kolano, 13 – kasztany, 14 – korona ze stawem koronowym, 15 – staw skokowy, 16 – ogon, 17 – kulsze, 18 – biodro, 19 – lędźwie, 20 – kłąb, 21 – grzebień szyjny, 22 – kark, 23 – ucho, 24 – potylica, 25 – ciemię, 26 – czoło, 27 – oko, 28 – nos, 29 – nozdrza, 30 – warga górna, 31 – warga dolna, 32 – sanki, 33 – ganasz, 34 – szyja, 35 – łopatka, 36 – ożebrowanie, 37 – słabizna, 38 – udo, 39 – mostek, 40 – ramię.",
+      "img": "img/ppz1/pokroj-konia-numery.jpg"
+    },
+    {
+      "front": "W których województwach pogłowie bydła jest największe (zielone na mapie)?",
+      "back": "Podlaskie, mazowieckie, łódzkie, kujawsko-pomorskie, warmińsko-mazurskie.",
+      "img": "img/ppz1/bydlo-poglowie-wojewodztwa.jpg"
+    },
+    {
+      "front": "Prawidłowa budowa głowy bydła",
+      "back": "Profil prosty; buhaj – krótka, szeroka, gruba skóra, bujne owłosienie czoła; krowa – dłuższa, węższa, cienka skóra; śluzawica wilgotna i zimna, silna szeroko rozstawiona żuchwa, uszy poziomo."
+    },
+    {
+      "front": "Pożądany pokrój trzody chlewnej",
+      "back": "Głowa mała, profil lekko wklęsły; kłąb szeroki, równy; grzbiet szeroki, poziomy, długi, umięśniony; klatka piersiowa szeroka i głęboka; brzuch pojemny, podbrzusze równoległe do grzbietu; zad długi, szeroki, równy lub lekko spadzisty; szynka szeroka, zaokrąglona, umięśniona; kończyny mocne, proste, szeroko rozstawione; szczecina gęsta, długa, cienka, błyszcząca."
+    },
+    {
+      "front": "Pokrój owcy – nazwij partie ciała oznaczone numerami.",
+      "back": "1 – przedramię, 2 – napięstek, 3 – nadpięcie, 4 – staw pęcinowy, 5 – pęcina, 6 – mostek, 7 – brzuch, 8 – kolano, 9 – racica, 10 – staw skokowy, 11 – podudzie, 12 – krzyż, 13 – lędźwie, 14 – grzbiet, 15 – kłąb, 16 – ucho, 17 – szyja, 18 – łopatka, 19 – ramię, 20 – ożebrowanie, 21 – kulka.",
+      "img": "img/ppz1/pokroj-owcy-numery.jpg"
+    },
+    {
+      "front": "Pokrój kozy – nazwij partie ciała oznaczone numerami.",
+      "back": "1 – przedramię, 2 – napięstek, 3 – nadpięcie, 4 – pęcina, 5 – mostek, 6 – pępek, 7 – wymię, 8 – strzyk, 9 – racice, 10 – raciczki, 11 – staw skokowy, 12 – podudzie, 13 – kulsze, 14 – ogon, 15 – krzyż, 16 – lędźwie, 17 – grzbiet, 18 – kłąb, 19 – ucho, 20 – broda, 21 – kolczyki, 22 – szyja, 23 – łopatka, 24 – ramię, 25 – ożebrowanie, 26 – udo.",
+      "img": "img/ppz1/pokroj-kozy-numery.jpg"
+    },
+    {
+      "front": "Dlaczego mleko kozie mogą pić osoby uczulone na mleko krowie?",
+      "back": "Ze względu na charakter i skład białka mleka koziego (mleko o specyficznych właściwościach żywieniowych/dietetycznych)."
+    },
+    {
+      "front": "Które województwo miało zdecydowanie największe pogłowie bydła w 2011 r. (wykres 1.2)?",
+      "back": "Podlaskie."
+    },
+    {
+      "front": "Jaki profil głowy jest prawidłowy u konia, a jakie są wadliwe?",
+      "back": "Prawidłowy – prosty; wady – profil szczupaczy i garbonosy."
+    },
+    {
+      "front": "W których województwach obsada trzody chlewnej na 100 ha UR była najmniejsza (2011, wykres 1.4)?",
+      "back": "W dolnośląskim i podkarpackim (ok. 30 szt./100 ha UR); największa – wielkopolskie (ok. 222) i kujawsko-pomorskie (ok. 147)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Który gatunek zwierząt gospodarskich jest najliczniejszy w Polsce?",
+      "options": [
+        "Bydło",
+        "Trzoda chlewna",
+        "Drób",
+        "Owce"
+      ],
+      "answer": 2,
+      "explain": "Najliczniejszym gatunkiem w Polsce jest drób (130 596 tys. szt. w 2012 r.)."
+    },
+    {
+      "q": "Pogłowie bydła w Polsce w grudniu 2012 r. wynosiło ok.:",
+      "options": [
+        "5520 tys. sztuk",
+        "10 926 tys. sztuk",
+        "2180 tys. sztuk",
+        "1300 tys. sztuk"
+      ],
+      "answer": 0,
+      "explain": "W grudniu 2012 r. pogłowie bydła wynosiło 5520,3 tys. sztuk."
+    },
+    {
+      "q": "Głównym celem chowu i hodowli bydła jest produkcja:",
+      "options": [
+        "obornika jako nawozu",
+        "siły pociągowej",
+        "wełny i skór",
+        "wysokowartościowego białka zwierzęcego"
+      ],
+      "answer": 3,
+      "explain": "Głównym celem chowu bydła jest produkcja wysokowartościowego białka zwierzęcego."
+    },
+    {
+      "q": "Roczne spożycie mleka w Polsce w 2011 r. wynosiło ok.:",
+      "options": [
+        "90 l na osobę",
+        "190 l na osobę",
+        "290 l na osobę",
+        "42 l na osobę"
+      ],
+      "answer": 1,
+      "explain": "W 2011 r. spożycie mleka kształtowało się na poziomie ok. 190 litrów na osobę."
+    },
+    {
+      "q": "Które mięso zajmuje ostatnie miejsce pod względem spożycia w Polsce?",
+      "options": [
+        "Wieprzowina",
+        "Drobiowe",
+        "Wołowina",
+        "Żadne – spożycie jest równe"
+      ],
+      "answer": 2,
+      "explain": "Spożycie wołowiny zajmuje ostatnie miejsce (ok. 2 kg/os./rok) z powodu wysokiej ceny."
+    },
+    {
+      "q": "Rogi i racice bydła wykorzystuje się do produkcji:",
+      "options": [
+        "klejów",
+        "nawozów mineralnych",
+        "pasz treściwych",
+        "lanoliny"
+      ],
+      "answer": 0,
+      "explain": "Rogi oraz racice są używane do produkcji klejów."
+    },
+    {
+      "q": "Lanolina jest produktem ubocznym pozyskiwanym od:",
+      "options": [
+        "bydła",
+        "świń",
+        "drobiu",
+        "owiec"
+      ],
+      "answer": 3,
+      "explain": "Produkty uboczne od owiec to obornik i lanolina."
+    },
+    {
+      "q": "Owce są wykorzystywane jako „naturalne kosiarki”, ponieważ:",
+      "options": [
+        "mają cztery żołądki",
+        "dzięki specyficznie zbudowanej wardze górnej bardzo nisko przygryzają rośliny",
+        "są wszystkożerne",
+        "mają wysokie wymagania pokarmowe"
+      ],
+      "answer": 1,
+      "explain": "Owce dzięki specyficznie zbudowanej wardze górnej potrafią bardzo nisko przygryzać rośliny."
+    },
+    {
+      "q": "Przyczyną niskiego pogłowia owiec w Polsce jest:",
+      "options": [
+        "wysoka zachorowalność owiec",
+        "zakaz chowu owiec na nizinach",
+        "brak rynku zbytu i zanik zainteresowania tym kierunkiem",
+        "wysokie wymagania żywieniowe owiec"
+      ],
+      "answer": 2,
+      "explain": "Mała liczba owiec wynika z braku rynku zbytu oraz zaniku zainteresowania tym kierunkiem chowu."
+    },
+    {
+      "q": "Mleko którego gatunku poleca się osobom uczulonym na mleko krowie?",
+      "options": [
+        "Koziego",
+        "Owczego",
+        "Klaczy",
+        "Bawolego"
+      ],
+      "answer": 0,
+      "explain": "Kozy dostarczają mleka o właściwościach dietetycznych, dla osób uczulonych na mleko krowie."
+    },
+    {
+      "q": "Pogłowie kóz w Polsce w połowie 2012 r. wynosiło ok.:",
+      "options": [
+        "218 tys. sztuk",
+        "222 tys. sztuk",
+        "890 tys. sztuk",
+        "90 tys. sztuk"
+      ],
+      "answer": 3,
+      "explain": "W połowie 2012 r. pogłowie kóz wynosiło 89,9 tys. sztuk."
+    },
+    {
+      "q": "Wysoka rozrodczość świń obejmuje:",
+      "options": [
+        "wysoką wydajność rzeźną i wszystkożerność",
+        "wysoką płodność, plenność i policykliczność",
+        "szybkie tempo wzrostu i niską kaloryczność",
+        "sezonowość rozrodu"
+      ],
+      "answer": 1,
+      "explain": "Wysoka rozrodczość świń to wysoka płodność, wysoka plenność i policykliczność."
+    },
+    {
+      "q": "Które z wymienionych NIE jest przyczyną „cykli świńskich”?",
+      "options": [
+        "Zmienność plonów i zasobów pasz",
+        "Cena rynkowa zbóż",
+        "Cena prosiąt",
+        "Cena wełny"
+      ],
+      "answer": 3,
+      "explain": "Cykle świńskie wywołują zmienność plonów i zasobów pasz, cena zbóż i cena prosiąt."
+    },
+    {
+      "q": "Roczne spożycie wieprzowiny w Polsce wynosi ok.:",
+      "options": [
+        "42 kg na mieszkańca",
+        "25 kg na mieszkańca",
+        "2 kg na mieszkańca",
+        "90 kg na mieszkańca"
+      ],
+      "answer": 0,
+      "explain": "Spożycie wieprzowiny kształtuje się na poziomie ok. 42 kg rocznie na mieszkańca."
+    },
+    {
+      "q": "Które mięso zajmuje pierwsze miejsce w ogólnej produkcji mięsa w Polsce?",
+      "options": [
+        "Wołowina",
+        "Drobiowe",
+        "Wieprzowina",
+        "Baranina"
+      ],
+      "answer": 2,
+      "explain": "Produkcja wieprzowiny (1881 tys. ton w 2011 r.) utrzymuje pierwsze miejsce."
+    },
+    {
+      "q": "Obecnie największe znaczenie w użytkowaniu koni ma:",
+      "options": [
+        "produkcja koniny",
+        "praca w polu",
+        "transport towarów",
+        "rekreacja i sport"
+      ],
+      "answer": 3,
+      "explain": "Większe znaczenie ma dziś rekreacja – konie użytkowane są głównie wierzchowo, w sporcie i hipoterapii."
+    },
+    {
+      "q": "W zwierzęcej produkcji towarowej w Polsce drób zajmuje miejsce:",
+      "options": [
+        "pierwsze",
+        "trzecie – po bydle i trzodzie chlewnej",
+        "drugie – po bydle",
+        "ostatnie"
+      ],
+      "answer": 1,
+      "explain": "W zwierzęcej produkcji towarowej drób zajmuje trzecie miejsce – po bydle i trzodzie chlewnej."
+    },
+    {
+      "q": "Chów drobiu wodnego rozwija się wolniej, ponieważ:",
+      "options": [
+        "zależy od popytu zagranicznego",
+        "wymaga dużych zbiorników wodnych",
+        "ma wysokie zużycie paszy",
+        "jest zakazany w gospodarstwach ekologicznych"
+      ],
+      "answer": 0,
+      "explain": "Produkcja drobiu wodnego jest ściśle uzależniona od popytu zagranicznego."
+    },
+    {
+      "q": "Roczne spożycie mięsa drobiowego w Polsce wynosi ok.:",
+      "options": [
+        "2 kg na mieszkańca",
+        "42 kg na mieszkańca",
+        "25 kg na mieszkańca",
+        "190 kg na mieszkańca"
+      ],
+      "answer": 2,
+      "explain": "Roczne spożycie mięsa drobiowego na mieszkańca wynosi ok. 25 kg."
+    },
+    {
+      "q": "Pokrój (eksterier) to:",
+      "options": [
+        "skład chemiczny tuszy",
+        "zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia",
+        "wydajność mleczna w laktacji",
+        "budowa narządów wewnętrznych"
+      ],
+      "answer": 1,
+      "explain": "Pokrój to zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia."
+    },
+    {
+      "q": "Oceny pokroju dokonuje się za pomocą:",
+      "options": [
+        "badań krwi",
+        "analizy paszy",
+        "wzroku, dotyku i pomiarów",
+        "badania genetycznego"
+      ],
+      "answer": 2,
+      "explain": "Oceny pokroju dokonuje się za pomocą wzroku, dotyku i pomiarów."
+    },
+    {
+      "q": "Na podstawie eksterieru NIE można:",
+      "options": [
+        "określić typu użytkowego",
+        "ocenić kondycji",
+        "rozróżnić płci i wieku",
+        "określić składu mleka"
+      ],
+      "answer": 3,
+      "explain": "Eksterier pozwala m.in. określić typ użytkowy, płeć, wiek, kondycję i stan zdrowia – nie skład mleka."
+    },
+    {
+      "q": "Wadą profilu głowy u bydła jest profil:",
+      "options": [
+        "barani",
+        "prosty",
+        "lekko pochylony",
+        "szeroki"
+      ],
+      "answer": 0,
+      "explain": "Wady głowy bydła to profil barani i szczupaczy."
+    },
+    {
+      "q": "Prawidłowa śluzawica u bydła powinna być:",
+      "options": [
+        "sucha i ciepła",
+        "wilgotna i zimna",
+        "sucha i zimna",
+        "wilgotna i ciepła"
+      ],
+      "answer": 1,
+      "explain": "Prawidłowa śluzawica jest wilgotna i zimna."
+    },
+    {
+      "q": "Głębokość przodu u bydła powinna stanowić:",
+      "options": [
+        "1/3 wysokości w kłębie",
+        "2/3 wysokości w kłębie",
+        "całą wysokość w kłębie",
+        "połowę wysokości w kłębie"
+      ],
+      "answer": 3,
+      "explain": "Głębokość przodu powinna stanowić połowę wysokości w kłębie."
+    },
+    {
+      "q": "Kłąb ostry, dachowaty i rozłupany to u bydła:",
+      "options": [
+        "wady kłębu",
+        "prawidłowe cechy kłębu",
+        "wady zadu",
+        "wady łopatki"
+      ],
+      "answer": 0,
+      "explain": "Wady kłębu to kłąb ostry, dachowaty, rozłupany."
+    },
+    {
+      "q": "Część brzucha poniżej lędźwi, obok guza biodrowego, to:",
+      "options": [
+        "słabizna",
+        "kłąb",
+        "dół głodowy",
+        "nerka"
+      ],
+      "answer": 2,
+      "explain": "Część brzucha poniżej lędźwi a obok guza biodrowego nosi nazwę dołu głodowego."
+    },
+    {
+      "q": "Wadą zadu u bydła NIE jest zad:",
+      "options": [
+        "klinowaty",
+        "spadzisty",
+        "przebudowany",
+        "długi i szeroki"
+      ],
+      "answer": 3,
+      "explain": "Prawidłowy zad jest długi, szeroki, umięśniony; wady to zad klinowaty, przebudowany, spadzisty."
+    },
+    {
+      "q": "Pożądane zawieszenie wymienia u krowy to zawieszenie:",
+      "options": [
+        "sromowe",
+        "sromowo-brzuszne",
+        "brzuszne",
+        "piętrowe"
+      ],
+      "answer": 1,
+      "explain": "Pożądane zawieszenie wymienia to sromowo-brzuszne."
+    },
+    {
+      "q": "Prawidłowy kształt wymienia krowy to:",
+      "options": [
+        "miskowaty",
+        "kozi",
+        "kulisty",
+        "piętrowy"
+      ],
+      "answer": 0,
+      "explain": "Prawidłowy kształt wymienia to miskowaty lub skrzynkowaty."
+    },
+    {
+      "q": "Prawidłowe strzyki krowy mają kształt:",
+      "options": [
+        "butelkowaty",
+        "dzwonkowaty",
+        "cylindryczny ze stożkowym zakończeniem",
+        "kulisty"
+      ],
+      "answer": 2,
+      "explain": "Strzyki powinny być cylindryczne, równej grubości, z zakończeniem stożkowym."
+    },
+    {
+      "q": "Postawa krowia, szablasta, stroma i zasiebna to wady:",
+      "options": [
+        "kończyn przednich bydła",
+        "kończyn tylnych bydła",
+        "grzbietu",
+        "wymienia"
+      ],
+      "answer": 1,
+      "explain": "Wady kończyn tylnych bydła to postawa krowia, szablasta, stroma i zasiebna."
+    },
+    {
+      "q": "Cechą wspólną wszystkich owiec jest:",
+      "options": [
+        "śluzawica nosowa podzielona pionową bruzdą",
+        "rogi o okrągłym przekroju",
+        "brak gruczołu międzyracicznego",
+        "sztywna warga górna"
+      ],
+      "answer": 0,
+      "explain": "Owce mają m.in. śluzawicę podzieloną pionową bruzdą, rogi o trójkątnym przekroju i gruczoł międzyraciczny."
+    },
+    {
+      "q": "Rogi owiec mają przekrój poprzeczny:",
+      "options": [
+        "okrągły",
+        "owalny",
+        "kwadratowy",
+        "trójkątny"
+      ],
+      "answer": 3,
+      "explain": "Cechą wspólną owiec są rogi o trójkątnym przekroju poprzecznym."
+    },
+    {
+      "q": "Prawidłowy profil głowy świni jest:",
+      "options": [
+        "garbonosy",
+        "prosty",
+        "lekko wklęsły",
+        "barani"
+      ],
+      "answer": 2,
+      "explain": "Głowa świni ma profil lekko wklęsły."
+    },
+    {
+      "q": "Prawidłowe skątowanie pęciny u konia wynosi ok.:",
+      "options": [
+        "30°",
+        "50°",
+        "70°",
+        "90°"
+      ],
+      "answer": 1,
+      "explain": "Pęcina konia powinna być odpowiednio skątowana (50°)."
+    },
+    {
+      "q": "Głowa duża, ciężka i masywna jest pożądana u koni:",
+      "options": [
+        "wierzchowych",
+        "gorącokrwistych",
+        "sportowych",
+        "zimnokrwistych"
+      ],
+      "answer": 3,
+      "explain": "Głowa duża, ciężka, masywna jest pożądana u koni zimnokrwistych."
+    },
+    {
+      "q": "„Niedźwiedzia łapa” u konia to:",
+      "options": [
+        "miękka pęcina",
+        "cofnięty nadgarstek",
+        "wąski staw skokowy",
+        "szyja łabędzia"
+      ],
+      "answer": 0,
+      "explain": "Miękka pęcina nazywana jest niedźwiedzią łapą; cofnięty nadgarstek to barania noga."
+    },
+    {
+      "q": "U nasady ogona kury znajdują się:",
+      "options": [
+        "zausznice",
+        "dzwonki",
+        "gruczoły kuprowe",
+        "ostrogi"
+      ],
+      "answer": 2,
+      "explain": "Grzbiet kury przy nasadzie ogona ma gruczoły kuprowe."
+    },
+    {
+      "q": "Obsada trzody chlewnej na 100 ha użytków rolnych jest największa w województwach:",
+      "options": [
+        "podlaskim i mazowieckim",
+        "wielkopolskim i kujawsko-pomorskim",
+        "małopolskim i podkarpackim",
+        "lubuskim i zachodniopomorskim"
+      ],
+      "answer": 1,
+      "explain": "Według wideokastu największa obsada świń na 100 ha UR występuje w województwach wielkopolskim i kujawsko-pomorskim."
+    },
+    {
+      "q": "Województwem o jednym z największych pogłowi bydła w Polsce (2011) jest:",
+      "options": [
+        "lubuskie",
+        "opolskie",
+        "śląskie",
+        "podlaskie"
+      ],
+      "answer": 3,
+      "explain": "Pogłowie bydła było największe m.in. w województwie podlaskim, a także mazowieckim, łódzkim, kujawsko-pomorskim i warmińsko-mazurskim."
+    },
+    {
+      "q": "Na rysunku pokroju krowy numerem 30 oznaczono:",
+      "options": [
+        "kłąb",
+        "lędźwie",
+        "krzyż",
+        "grzbiet"
+      ],
+      "answer": 0,
+      "explain": "30 – kłąb; 29 – lędźwie, 32 – grzbiet, 33 – krzyż.",
+      "img": "img/ppz1/pokroj-krowy-numery.jpg"
+    },
+    {
+      "q": "Na rysunku pokroju konia numerem 13 (na wewnętrznej stronie kończyn) oznaczono:",
+      "options": [
+        "kasztany",
+        "pęcinę",
+        "koronę",
+        "puzdro"
+      ],
+      "answer": 0,
+      "explain": "13 – kasztany; 8 – pęcina, 11 – puzdro, 14 – korona ze stawem koronowym.",
+      "img": "img/ppz1/pokroj-konia-numery.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaki jest najważniejszy cel produkcji zwierzęcej, oprócz uzyskania optymalnego wykorzystania pomieszczeń, bazy paszowej oraz zapewnienia dobrostanu zwierzętom?",
+      "options": [
+        "Minimalizacja kosztów okołoprodukcyjnych w celu uzyskania najkorzystniejszego planu rozwoju.",
+        "Utrzymanie średniej oczekiwanej wartości produkcyjnej.",
+        "Maksymalizacja potencjału produkcyjnego."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNajbardziej licznym gatunkiem zwierząt gospodarskich utrzymywanym w naszym kraju jest ….",
+      "options": [
+        "trzoda chlewna",
+        "drób"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDomestykacja, czyli udomowienie, należy rozumieć jako całkowite dostosowanie się zwierząt do warunków stworzonych przez człowieka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do wad jakiej części ciała krowy używa się określeń klinowaty, przebudowany, spadzisty?",
+      "options": [
+        "Grzbiet.",
+        "Zad.",
+        "Brzuch.",
+        "Kłąb."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW 2011 roku najmniejsze pogłowie bydła zanotowano w województwie ….",
+      "options": [
+        "łódzkim",
+        "dolnośląskim"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPogłowie owiec w Polsce utrzymuje się na dość wysokim poziomie. Liczba owiec utrzymywana w naszym kraju jest wyższa niż ilość sztuk bydła hodowanego w Polsce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które zwierzęta cechuje wysoka plenność, wszystkożerność oraz wysoka wydajność rzeźna?",
+      "options": [
+        "Króliki.",
+        "Drób.",
+        "Kozy.",
+        "Trzodę chlewną."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW białku zawartym w mleku krowim znajdują się prawie wszystkie niezbędne dla człowieka ….",
+      "options": [
+        "aminy",
+        "aminokwasy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW Polsce spożycie wieprzowiny kształtuje się na poziomie około 35 kg rocznie na 1 mieszkańca i z roku na rok wzrasta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie zmiany przyniosła ze sobą domestykacja zwierząt gospodarskich?",
+      "options": [
+        "Zmiana budowy ciała.",
+        "Udoskonalenie cech użytkowych.",
+        "Spowolnienie dojrzewania płciowego.",
+        "Poprawa właściwości fizjologicznych.",
+        "Zmniejszenie jakości mięsa."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW 2012 roku pogłowie bydła … w stosunku do 2011 roku.",
+      "options": [
+        "zmniejszyło się",
+        "zwiększyło się"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWadą budowy głowy bydła jest profil barani i szczupaczy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Od czego przede wszystkim uzależniony jest chów i hodowla drobiu wodnego w Polsce?",
+      "options": [
+        "Od popytu na ten drób na rynku krajowym.",
+        "Od wysokości ceny paszy.",
+        "Od popytu zagranicznego."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Lanolina to produkt uboczny pozyskiwany od ….",
+      "options": [
+        "kóz.",
+        "owiec."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "jest prawdziwe, czy fałszywe.\nKoza jest źródłem wartościowego pod względem przetwórczym i odżywczym mleka. Stan zdrowotny i budowa wymienia mają wpływ na jej produkcyjność. Ważny jest także stan racic.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynniki wywołują częstą niestabilność rynku wieprzowego?",
+      "options": [
+        "Niskie tempo wzrostu prosiąt.",
+        "Cena rynkowa zbóż.",
+        "Cena prosiąt.",
+        "Duża zmienność plonów i zasobów pasz."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSpośród zwierząt gospodarskich, najwięcej kierunków użytkowania można wskazać dla ....",
+      "options": [
+        "bydła",
+        "owcy domowej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW Polsce roczne spożycie mleka w 2011 roku kształtuje się na poziomie ok. 190 litrów na osobę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywa się zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia?",
+      "options": [
+        "Pokrój (iksterier).",
+        "Pokrój (eksterier).",
+        "Pokraj (eksterier)."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMała liczba owiec utrzymywana w naszym kraju spowodowana jest … oraz zanikiem zainteresowania tym kierunkiem chowu.",
+      "options": [
+        "wysokimi wymaganiami utrzymania",
+        "brakiem rynku zbytu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKozy mają dość wysokie wymagania pod względem utrzymania i żywienia. Są bardzo odporne na niekorzystne warunki środowiska i łatwo się dostosowują do otoczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych wad dotyczą kończyn przednich/tylnych bydła?",
+      "options": [
+        "Postawa przyziemna.",
+        "Postawa iksowata.",
+        "Postawa francuska.",
+        "Wada kulista."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n…, dzięki specyficznie zbudowanej wardze górnej, potrafią bardzo nisko przygryzać rośliny.",
+      "options": [
+        "Owce",
+        "Konie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚluzawica nosowa podzielona pionową bruzdą jest wspólną cechą budowy dla wszystkich owiec, niezależnie od typu użytkowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "U koni wada kończyny przedniej spowodowana cofniętym nadgarstkiem jest inaczej nazywana:",
+      "options": [
+        "owczą nogą.",
+        "baranią nogą.",
+        "kozią nogą.",
+        "świńską nogą."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU konia wierzchowego wadą jest szyja ….",
+      "options": [
+        "krótka",
+        "długa"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKozie mleko ma właściwości dietetyczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych zwierząt mogą być wykorzystywane jako zwierzęta juczne i pociągowe?",
+      "options": [
+        "Kozy.",
+        "Konie.",
+        "Bydło.",
+        "Owce."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW zwierzęcej produkcji towarowej w Polsce drób zajmuje trzecie miejsce – po … i trzodzie chlewnej.",
+      "options": [
+        "kozach",
+        "bydle"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpożycie mięsa wieprzowego maleje z roku na rok, co wywołane jest jego wysoką ceną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest główna przyczyna zmiany ludzkich upodobań żywnościowych?",
+      "options": [
+        "Wzrost poziomu życia społeczeństwa.",
+        "Większe zapotrzebowanie na energię.",
+        "Mniejsze zapotrzebowanie społeczeństwa na cukry."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW użytkowaniu mięsnym drobiu największe znaczenie mają brojlery kurze i ….",
+      "options": [
+        "indycze",
+        "gęsie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOceny pokroju dokonuje się za pomocą wzroku, dotyku i pomiarów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z czym mogą być związane różnice pokrojowe występujące u zwierząt hodowlanych?",
+      "options": [
+        "Z domestykacją.",
+        "Z typem użytkowym.",
+        "Z rasą.",
+        "Z płcią."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWedług danych GUS na koniec marca 2013 roku pogłowie trzody chlewnej … do roku ubiegłego.",
+      "options": [
+        "zmniejszyło się",
+        "zwiększyło się"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłównym celem chowu i hodowli bydła jest produkcja wysokowartościowego białka zwierzęcego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakiego rodzaju mięsa odnotowano największe spożycie w 2011 roku w Polsce według danych Ministerstwa Rolnictwa i Rozwoju Wsi?",
+      "options": [
+        "Mięsa drobiowego.",
+        "Koniny.",
+        "Wołowiny.",
+        "Wieprzowiny."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWedług danych na rok 2012 w Polsce, wśród zwierząt gospodarskich najmniejsze jest pogłowie ….",
+      "options": [
+        "kóz",
+        "bydła."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzę o prawidłowym pokroju cechuje się dobrze zbudowanymi poszczególnymi częściami ciała oraz odpowiednimi proporcjami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników przemawiają za rozwojem produkcji drobiarskiej?",
+      "options": [
+        "Walory smakowe i dietetyczne mięsa drobiowego.",
+        "Produkcja wysokowartościowego białka zwierzęcego.",
+        "Niski koszt produkcji jaj i mięsa.",
+        "Niskie zużycie paszy na 1 kilogram przyrostu."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDawniej owce dostarczały głównie ….",
+      "options": [
+        "mięso",
+        "wełnę"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzyja wcięta to wada występująca u bydła, która zaniża ocenę pokroju zwierzęcia, u którego wada ta występuje.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych grup zwierząt są wykorzystywane na terenach trudnych pod względem uprawy rolniczej jako „naturalne kosiarki”?",
+      "options": [
+        "Świnie.",
+        "Owce.",
+        "Konie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDrób hoduje się przede wszystkim dla celów produkcyjnych, reprodukcyjnych, czy zarodowych, ale także dla celów ….",
+      "options": [
+        "ozdobnych",
+        "badawczych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW Polsce szczególnie popularny jest chów i hodowla drobiu wodnego, która z roku na rok się zwiększa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "1_PZ_05.jpg Podpis: Źródło: opracowanie własne wykonawcy na podstawie E. Marciniak-Kulka, Produkcja zwierzęca, część 1, Warszawa, Wydawnictwo Rea, s. 198. Jak nazywa się wyróżniona część ciała na schemacie pokroju krowy?",
+      "options": [
+        "Grzbiet.",
+        "Lędźwie.",
+        "Krzyż.",
+        "Kłąb."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/ppz1/testwiedzy_1.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoziom produkcji zwierzęcej w naszym kraju kształtuje się na dość wysokim poziomie. Zależy on głównie od materiału wyjściowego, czyli gatunków i ras zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pogłowie jakich trzech gatunków zwierząt jest najliczniejsze w polskich gospodarstwach?",
+      "options": [
+        "Pszczoły miodnej.",
+        "Drobiu.",
+        "Bydła.",
+        "Trzody chlewnej.",
+        "Zwierząt futerkowych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czym spowodowana jest mała liczba owiec utrzymywana w Polsce?",
+      "options": [
+        "Brakiem rynku zbytu.",
+        "Brakiem zainteresowania tym kierunkiem chowu.",
+        "Zbyt dużym kosztem utrzymania.",
+        "Wysokimi wymaganiami żywieniowymi."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzeznaczenie użytkowe świń jest dość jednostronne – głównie mięso.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które ze zwierząt postrzegane było jako symbol biedy i kojarzone z brakiem umiejętności gospodarowania?",
+      "options": [
+        "Koza.",
+        "Drób.",
+        "Owca."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są główne zalety utrzymywania kóz?",
+      "options": [
+        "Duży rynek zbytu.",
+        "Wysoka rozrodczość zwierząt.",
+        "Niskie wymagania pod względem utrzymania i żywienia."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Białko zwierzęce można w diecie człowieka łatwo zastąpić białkiem roślinnym, które jest równie wysokowartościowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "1_PZ_06.jpg Podpis: Źródło: opracowanie własne wykonawcy na podstawie E. Marciniak-Kulka, Produkcja zwierzęca, część 1, Warszawa, Wydawnictwo Rea, s. 198. Jak nazywa się wyróżniona część ciała na widocznym pokroju owcy?",
+      "options": [
+        "Kulka.",
+        "Ramię.",
+        "Przedramię.",
+        "Łopatka."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/ppz1/testwiedzy_9.jpg"
+    },
+    {
+      "q": "Od czego zależą cechy pokrojowe bydła?",
+      "options": [
+        "Grupy wiekowej.",
+        "Rasy.",
+        "Budowy ciała.",
+        "Typu użytkowego.",
+        "Płci."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z zalet hodowli drobiu jest niskie zużycie paszy na 1 kilogram przyrostu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co pomaga określić prawidłową budowę ciała zwierzęcia?",
+      "options": [
+        "Ocena pokroju.",
+        "Ocena eksteriesyjna.",
+        "Badanie eksteriesywne."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które zwierzęta cieszą się największym zainteresowaniem hodowców w Polsce?",
+      "options": [
+        "Owce.",
+        "Kozy.",
+        "Trzoda chlewna."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCechy pokrojowe bydła różnią się nieco w zależności od płci (krowy, buhaje), grupy wiekowej (cielęta, jałowizna, sztuki dorosłe), typu użytkowego, rasy czy żywienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLanolina to produkt uboczny pozyskiwany od kóz, który nadaje się do produkcji wyrobów kosmetycznych i dermatologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Coraz mniejszą rolę odgrywa chów koni w celach:",
+      "options": [
+        "agroturystycznych.",
+        "sportowych.",
+        "produkowania mięsa."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoza mlekiem od kóz można uzyskać również mięso i wełnę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie kształty strzyków u krów są uznawane za wadliwe?",
+      "options": [
+        "Stożkowe.",
+        "Butelkowate.",
+        "Cylindryczne.",
+        "Dzwonkowate."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDoskonalenie cech genetycznych gatunków to jeden z czynników, który ma wpływ na rozwój produkcji zwierzęcej w Polsce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie cechy trzody chlewnej decydują o tym, że jest ona tak efektywnym dostarczycielem mięsa?",
+      "options": [
+        "Optymalne wykorzystanie paszy.",
+        "Wysoka plenność.",
+        "Wysoka wydajność rzeźna.",
+        "Wszystkożerność.",
+        "Niskie tempo wzrostu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nO wartości danej samicy owcy w dużej mierze decyduje dobrze zbudowane i zdrowe wymię.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który ze sposobów użytkowania koni jest obecnie najpowszechniejszy?",
+      "options": [
+        "Siła robocza.",
+        "Rekreacja.",
+        "Siła transportowa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłowa trzody chlewnej jest wysokowartościową częścią tuszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPokrój (eksterier) – to zespół cech decydujących o wyglądzie zewnętrznym zwierzęcia. Obejmuje budowę zewnętrzną ciała oraz proporcje pomiędzy jego częściami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z podanych wad jest spotykaną u bydła?",
+      "options": [
+        "Postawa iksowata.",
+        "Szeroki rozstaw nóg.",
+        "Kłąb spiczasty."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAby prawidłowo dokonać oceny eksterieru, należy posłużyć się wzorcem pokrojowym, przedstawiającym najkorzystniejszy pod każdym względem wygląd poszczególnych partii ciała.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCechy pokrojowe bydła mogą różnić się nieco w zależności od płci, grupy wiekowej, typu użytkowego, rasy czy żywienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "1_PZ_09.jpgPodpis: Źródło: opracowanie własne wykonawcy na podstawie E. Marciniak-Kulka, Produkcja zwierzęca, część 1, Warszawa, Wydawnictwo Rea, s. 198.\nJak nazywa się wyróżniona część ciała na widocznym pokroju konia?",
+      "options": [
+        "Łokieć.",
+        "Staw skokowy.",
+        "Pęcina.",
+        "Nadpęcie."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/ppz1/testwiedzy_28.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStan zdrowotny racic oraz regularne, dokładne zabiegi pielęgnacyjne w postaci korekcji pozwolą hodowcy kóz osiągnąć dobrej jakości i pożądanej ilości zależny od gatunku produkt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Za pomocą czego dokonuje się oceny pokroju?",
+      "options": [
+        "Pomiarów.",
+        "Doświadczeń.",
+        "Dotyku.",
+        "Wzroku."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "1_PZ_07.jpg Podpis: Źródło: opracowanie własne wykonawcy na podstawie E. Marciniak-Kulka, Produkcja zwierzęca część 1, Warszawa, Wydawnictwo Rea, s. 198. Jak nazywa się wyróżniona część ciała na widocznym pokroju kozy?",
+      "options": [
+        "Krzyż.",
+        "Lędźwie.",
+        "Napięstek.",
+        "Kulsze."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/ppz1/testwiedzy_31.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJelenia szyja jest pożądana w prawidłowej budowie konia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Czego można się dowiedzieć na podstawie eksterieru?",
+      "options": [
+        "Ocenić stan zdrowia zwierząt.",
+        "Oszacować wartość użytkową i produkcyjną zwierząt gospodarskich.",
+        "Określić gatunek.",
+        "Rozróżnić płeć oraz wiek zwierząt."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Na jakim poziomie kształtuje się roczne spożycie mleka krowiego w Polsce na osobę?",
+      "options": [
+        "Ok. 190 litrów.",
+        "Ok. 350 litrów.",
+        "Ok. 55 litrów."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czym są „cykle świńskie”?",
+      "options": [
+        "To niestabilność rynku wieprzowego.",
+        "To okres rozrodczy świń.",
+        "To cykle, w których ocena pokroju świń jest najbardziej korzystna."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

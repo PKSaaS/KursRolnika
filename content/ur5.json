@@ -1,0 +1,2278 @@
+{
+  "id": "ur5",
+  "course": "Uprawa roślin",
+  "title": "Rośliny okopowe",
+  "number": "V",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rośliny okopowe – grupa roślin, w uprawie której dominującym zabiegiem jest okopywanie lub obsypywanie, a zbiór odbywa się przez wykopywanie lub wyorywanie plonu.",
+        "Okopowe bulwiaste: ziemniak, topinambur.",
+        "Okopowe korzeniowe: buraki cukrowe, buraki pastewne, marchew, brukiew, cykoria korzeniowa, rzepa.",
+        "Uprawy okopowe są najbardziej pracochłonnymi uprawami rolniczymi.",
+        "Największe znaczenie w Polsce mają ziemniak i burak cukrowy."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/ziemniak-burak.jpg",
+          "caption": "Ziemniak (roślina okopowa bulwiasta – bulwy w glebie) i burak cukrowy (roślina okopowa korzeniowa)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Znaczenie gospodarcze roślin okopowych",
+      "points": [
+        "Ziemniak – niskokaloryczna żywność z pełnowartościowym białkiem, witaminą C, potasem i jodem.",
+        "Ziemniak to surowiec do produkcji alkoholu i krochmalu (mąki ziemniaczanej) oraz roślina pastewna.",
+        "Burak cukrowy – surowiec dla przemysłu cukrowniczego; odpady (wysłodki buraczane i melasa) to pasza dla zwierząt.",
+        "Pozostałe okopowe dają paszę w postaci zgrubiałych korzeni, a buraki pastewne i brukiew również liści.",
+        "Znaczenie ziemniaka maleje, zwłaszcza jako pastewnego – zastępuje go m.in. kukurydza na ziarno, CCM.",
+        "Udział ziemniaka w powierzchni upraw: 1960 r. – 18%, 2000 r. – 10%, 2012 r. – 3,4%.",
+        "Okopowe są bardzo dobrym przedplonem; produkcja biopaliw (bioetanolu) może odbudować ich uprawę, szczególnie ziemniaków.",
+        "Ziemniaki zastąpiono roślinami o wyższej wydajności paszowej; malejąca powierzchnia okopowych to niepokojące zjawisko w rolnictwie."
+      ]
+    },
+    {
+      "heading": "2. Wymagania klimatyczne",
+      "points": [
+        "Ziemniak jest rośliną klimatu umiarkowanego; plonowanie najbardziej obniżają susza i wysokie temperatury w lecie.",
+        "Duże opady w czerwcu i lipcu sprzyjają gromadzeniu plonu, ale też zarazie ziemniaczanej.",
+        "Po sadzeniu ciepły okres sprzyja wschodom, wymagania wodne są minimalne; od wschodów do kwitnienia – dość ciepło, umiarkowane, równomierne opady.",
+        "Największe wymagania wodne ziemniaka: zawiązywanie i intensywny wzrost bulw – lipiec do połowy sierpnia.",
+        "Optymalna temperatura w tym okresie 15–20°C (w dzień 20–25°C, w nocy 15–16°C); wyższe dają drobne bulwy.",
+        "Bardzo niekorzystne: duże opady na przemian z suszą przy wysokich temperaturach – bulwy zdeformowane, z wadami miąższu.",
+        "Ziemniak jest wrażliwy na przymrozki: poniżej 0°C po wschodach rośliny giną, ale łatwo się odbudowują; niskie temperatury przy zbiorze zwiększają uszkodzenia i choroby przechowalnicze.",
+        "Burak: przy siewie temperatura gleby na głębokości 5–10 cm powinna wynosić 5–10°C.",
+        "Temperatura od –2 do –3°C podczas kiełkowania i w fazie liścieni całkowicie niszczy buraki; od fazy pierwszej pary liści właściwych znoszą do –5°C.",
+        "Okres przyrostu plonu buraka (lipiec–sierpień): optymalna średnia temperatura dobowa 15–17°C.",
+        "Zbyt niska temperatura na początku wegetacji buraka może wywołać pędy kwiatostanowe; niższe temperatury pod koniec wegetacji sprzyjają gromadzeniu cukru.",
+        "Plonowaniu buraka sprzyja słoneczny kwiecień, III dekada czerwca, I i II dekada lipca, III dekada sierpnia i wrzesień.",
+        "Okres krytyczny buraka (największe wymagania wodne, najintensywniejsza transpiracja): lipiec i sierpień.",
+        "Ciepła wiosna z małymi wahaniami temperatur dzień–noc sprzyja ogrzewaniu gleby i pozwala na wcześniejszy siew buraka.",
+        "Zbyt niska temperatura gleby powoduje nierównomierne lub przedłużające się wschody buraka; to samo daje zbyt wysoka temperatura przy niedoborze wody.",
+        "Warunki termiczne Polski są zbliżone do optymalnych dla buraka; nasłonecznienie ma duży wpływ na plon korzeni i zawartość cukru.",
+        "Po okresie krytycznym (lipiec–sierpień) współczynnik transpiracji buraka spada; ważny jest rozkład opadów odpowiedni do potrzeb roślin."
+      ]
+    },
+    {
+      "heading": "2. Wymagania glebowe",
+      "points": [
+        "Ziemniak jest tolerancyjny wobec gleb; najlepsze są gleby gliniasto-piaszczyste lub słabo gliniaste, przewiewne, zasobne.",
+        "Na glebach lekkich wysokie plony ziemniaka możliwe przy dobrym rozkładzie opadów lub nawadnianiu.",
+        "Ziemniak toleruje pH 4,5–6,5; odczyn alkaliczny sprzyja parchowi zwykłemu.",
+        "Gleby pod ziemniaki spulchnione na głębokość 25–30 cm; gleby zakamienione należy odkamienić.",
+        "Burak wymaga gleb żyznych, niekamienistych, na równinach, dogodnych dla maszyn.",
+        "Gleba pod buraka: warstwa próchniczna minimum 35 cm, orna 30 cm, średnia zawartość próchnicy i składników, pH 6,6–7,2, dobra struktura.",
+        "Większość gleb w Polsce nadaje się do uprawy ziemniaka; burak potrzebuje gleb pozwalających na rozwój systemu korzeniowego."
+      ]
+    },
+    {
+      "heading": "3. Stanowisko w zmianowaniu",
+      "points": [
+        "Ziemniak jest mało wymagający co do przedplonu, ale potrzebuje dobrej kultury gleby; najczęściej uprawiany po zbożach.",
+        "Bardzo dobre przedplony ziemniaka: motylkowate i strączkowe na nasiona lub zielonkę; dobry – rzepak (z poplonem ścierniskowym przyoranym na zimę).",
+        "Dobre efekty daje ziemniak po zbożach z wsiewką seradeli przyoraną na zimę.",
+        "Ziemniaka nie uprawia się na tym samym polu częściej niż co 4 lata – ryzyko mątwika ziemniaczanego (szkodnik kwarantannowy).",
+        "Dobre przedplony buraka: pszenica i jęczmień; korzystne: groch, wyka, warzywa.",
+        "Niekorzystne dla buraka: kukurydza, lucerna, koniczyna, ziemniaki (szkodniki glebowe niszczące siewki).",
+        "Buraka nie uprawia się po rzepaku i kapustowatych (nicienie, trudne zwalczanie samosiewów).",
+        "Burak na tym samym polu co 4–5 lat; tylko na glebach bardzo dobrych przy starannej uprawie co 3 lata.",
+        "Częsta uprawa ziemniaka grozi też nadmiernym rozprzestrzenianiem innych szkodników."
+      ]
+    },
+    {
+      "heading": "4. Nawożenie ziemniaków",
+      "points": [
+        "Wysokie plony wymagają nawożenia organiczno-mineralnego.",
+        "Obornik 25–30 t/ha (wyższe dawki pożądane), najlepiej jesienią przed orką zimową; na glebach lżejszych można wczesną wiosną pod orkę średnią 18–20 cm.",
+        "Gnojówka wiosną 15–20 m³/ha, natychmiast wymieszana z glebą (ograniczenie strat azotu).",
+        "Gnojowica 50–60 m³/ha na glebach lżejszych, na zwięzłych o 20% mniej; pod ziemniaki jadalne ograniczać (gorsza jakość bulw).",
+        "Kompost 40 t/ha; słoma rozdrobniona i od razu przyorana (dobrze dodać gnojowicę lub mocznik).",
+        "Poplony na przyoranie: seradela, peluszka, łubin, wyka, gorczyca, facelia, rzepak, rzepik, żyto.",
+        "Dawki mineralne ustala się na podstawie zasobności gleby i tego, czy zastosowano obornik (tab. 5.1).",
+        "Przykład (tab. 5.1): ziemniak późny na oborniku 30 t/ha przy plonie 30 t/ha – 50 kg N, 55 kg K2O; bez obornika przy 25 t/ha – 65 N, 30 P2O5, 140 K2O, 15 MgO.",
+        "Nawozy P i K najlepiej jesienią z obornikiem; na glebach lekkich wiosną przed uprawkami (unikanie wymycia).",
+        "Dokarmianie dolistne azotem: 5–6% roztwór mocznika, co 2 tygodnie, 2–4 razy w sezonie; także nawozy wieloskładnikowe 2–4 razy.",
+        "Obornik jesienią ułatwia przygotowanie pola wiosną i pracę sadzarek; wczesną wiosną stosuje się go ze względów organizacyjnych i ochrony środowiska.",
+        "Poplony jako alternatywa dla obornika przyoruje się na zimę lub wiosną; uprawia się je w mieszankach lub czystym siewie.",
+        "Potrzebę dokarmiania dolistnego ziemniaków określa się na podstawie wyglądu roślin lub analizy chemicznej.",
+        "Tab. 5.1 (kg/ha N/P2O5/K2O/MgO) – ziemniak późny na oborniku 30 t/ha: plon 30 t – 50/–/55/–; 35 t – 70/–/80/–; 40 t – 90/10/110/–; 45 t – 110/15/140/–.",
+        "Tab. 5.1 – ziemniak późny bez obornika: 25 t – 65/30/140/15; 30 t – 85/40/170/15; 35 t – 105/45/200/20; 40 t – 125/50/220/20.",
+        "Tab. 5.1 – ziemniak wczesny na oborniku 30 t/ha: 25 t – 40/–/50/–; 30 t – 50/–/75/–; 35 t – 60/10/100/–; 40 t – 70/15/130/–; 45 t – 80/20/150/–.",
+        "Tab. 5.1 – ziemniak wczesny bez obornika: 20 t – 30/20/100/10; 25 t – 50/25/130/10; 30 t – 70/35/160/10; 35 t – 85/40/180/10."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/tab-nawozenie-ziemniaki.jpg",
+          "caption": "Tabela 5.1 – zalecane dawki nawozów mineralnych (kg/ha) dla ziemniaka późnego i wczesnego, na oborniku (30 t/ha) i bez obornika, wg prognozowanego plonu."
+        }
+      ]
+    },
+    {
+      "heading": "4. Nawożenie buraka",
+      "points": [
+        "Najlepszy nawóz organiczny: obornik jesienią 30–40 t/ha; obornik wiosną nie jest racjonalny.",
+        "Gnojowica pod buraki maksymalnie 45 m³/ha, gnojowicę i gnojówkę natychmiast mieszać z glebą; komposty jak pod ziemniaki.",
+        "Potasem można nie nawozić, gdy jego zawartość przekracza: 35 mg K2O/100 g (gleby bardzo lekkie), 40 mg (lekkie), 50 mg (średnie), 60 mg (ciężkie).",
+        "Orientacyjne dawki potasu wg zasobności (b. niska → b. wysoka): 160, 140, 120, 100, 30 kg K2O/ha; fosforu: 110, 90, 70, 50, 30 kg P2O5/ha.",
+        "Bez nawożenia organicznego dawki mineralne zwiększa się o 30–40%.",
+        "P i K pod buraki jesienią, przed orką zimową (gleby średnie i ciężkie).",
+        "Azot w dwóch dawkach: 50% przed agregatem uprawowym, reszta w fazie 2–3 par liści właściwych.",
+        "Niedobór potasu obniża plony i odporność na choroby i szkodniki (mszyce).",
+        "Niedobór boru – zgorzel liści sercowych i sucha zgnilizna korzeni, spadek plonu nawet o 50%.",
+        "Wapnowanie najlepiej pod przedplon; w razie braku – jesienią 1,0–5,0 t/ha CaO.",
+        "Tab. 5.2 – burak cukrowy na oborniku 30 t/ha (N/P2O5/MgO; K2O nie podano): plon 40 t – 80/–/–; 50 t – 90/15/15; 60 t – 100/25/20; 70 t – 120/35/30.",
+        "Tab. 5.2 – burak pastewny na oborniku 30 t/ha (N/P2O5/K2O): 40 t – 80/–/–; 50 t – 100/15/35; 60 t – 120/25/65; 70 t – 150/35/95; 80 t – 180/45/125.",
+        "Tab. 5.2 dotyczy stanowiska o średniej zawartości przyswajalnego P, K i Mg, przy założeniu, że słoma rzepaku, zbóż i strączkowych zostaje na polu.",
+        "Tab. 5.3 – orientacyjne dawki azotu pod buraki wg zasobności gleby (b. niska → b. wysoka): 120, 110, 100, 90, 80 kg N/ha.",
+        "Buraki uprawia się na glebach średnich i ciężkich – P i K jesienią przed orką zimową zapewniają dobre wymieszanie z glebą i wysoką efektywność nawożenia.",
+        "Przed siewem buraków trzeba sprawdzić zawartość boru i w razie potrzeby uzupełnić."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/tab-nawozenie-buraki.jpg",
+          "caption": "Tabele 5.2 i 5.3 – dawki nawozów dla buraka cukrowego i pastewnego na oborniku wg plonu oraz orientacyjne dawki K, P, N wg zasobności gleby."
+        }
+      ]
+    },
+    {
+      "heading": "5. Zabiegi uprawowe i nawozowe",
+      "points": [
+        "Cel uprawy pod ziemniaki: wysoka kultura gleby, niszczenie chwastów rozłogowych (perzu), wymieszanie nawozów P, K i organicznych.",
+        "„Zmęczenie rozłogów perzu” – 3–4-krotna orka; przyorane rozłogi zamierają poniżej 20 cm z braku powietrza; masa rozłogów do 30 t/ha.",
+        "Metoda chemiczno-mechaniczna: wyciągnięcie rozłogów kultywatorem, herbicyd na perz w fazie 4–6 liści, orka przedzimowa (przed nią nawozy P i K).",
+        "Na polach bez perzu: podorywka, zabiegi pielęgnacyjne, orka przedzimowa (przed nią P, K, ewentualnie obornik lub kompost); można uprawiać poplon na nawóz zielony.",
+        "Wiosną pod ziemniaki: bronowanie lub włókowanie, rozsianie N, bronowanie, obornik/kompost, orka płytka, doprawienie broną lub agregatem, odkamienienie.",
+        "Burak – system tradycyjny: jesienią podorywka, bronowanie lub płytkie kultywatorowanie, orka przedzimowa z P i K; wiosną bronowanie/włókowanie, N, agregat (kultywator z wałem strunowym).",
+        "Burak – uprawa konserwująca: siew bezpośrednio w mulcz bez uprawek; siew w mulcz z międzyplonu (np. antymątwikowe odmiany gorczycy białej); siew w mulcz ze słomy (mulcz ścierniskowy).",
+        "Wiosenne bronowanie lub włókowanie pod ziemniaki ogranicza straty wody, niszczy wschodzące chwasty i przyspiesza ogrzanie gleby.",
+        "Na polach bez perzu poplon na nawóz zielony po talerzowaniu przyoruje się razem z nawozami P i K.",
+        "Siew w mulcz z międzyplonu: orka siewna lub wymieszanie resztek kultywatorem i wysiew międzyplonu; wiosną mieszanie mulczu kultywatorem z wałem strunowym i siew z nawozami albo siew bezpośredni.",
+        "Mulcz ścierniskowy: po zbiorze przedplonu resztki miesza się kultywatorem 1–2 razy z glebą, a wiosną wysiewa nasiona wraz z nawozami."
+      ]
+    },
+    {
+      "heading": "6. Materiał siewny i siew buraków",
+      "points": [
+        "Nasiona buraka do siewu: zdolność kiełkowania co najmniej 90%.",
+        "Uprawiane odmiany buraka cukrowego są mieszańcowe; nasiona produkuje się na plantacjach wyizolowanych.",
+        "Przygotowanie nasion: czyszczenie, sortowanie, szlifowanie, otoczkowanie i inkrustowanie.",
+        "Siew siewnikami precyzyjnymi (punktowymi) – mechanicznymi lub pneumatycznymi.",
+        "Głębokość siewu 2–3 cm, w rzędzie co 18 cm, rozstawa rzędów 45 cm; obsada przy zbiorze 75–95 tys. roślin/ha.",
+        "Terminy siewu: płd.-zach. Polska koniec marca–początek kwietnia; centralna – I połowa kwietnia; płn.-wsch. od połowy do końca kwietnia.",
+        "Warunki do siewu: gleba na 5 cm minimum 5°C, wilgotność 12–16% w warstwie 0–5 cm.",
+        "Przygotowane nasiona buraka trafiają do rolników z zakładów nasiennych; w praktyce termin siewu zależy od pogody, wilgotności gleby i możliwości wjazdu ciągnikiem."
+      ]
+    },
+    {
+      "heading": "7. Sadzenie ziemniaków",
+      "points": [
+        "Podstawą wysokiego plonu są sadzeniaki o wysokiej wartości nasiennej (niskie porażenie chorobami), z firm nasiennych.",
+        "Wymagania dla sadzeniaków – Rozporządzenie MRiRW z 8 marca 2004 r. (Dz.U. Nr 59 poz. 565): wolne od organizmów kwarantannowych, porażenie poniżej progów, odpowiedni kalibraż.",
+        "Przy własnych sadzeniakach usuwa się bulwy z mokrą i suchą zgnilizną, ospowatością, zarazą i uszkodzeniami.",
+        "Na wczesny zbiór podkiełkowanie jest niezbędne; w innych kierunkach zalecane pobudzanie.",
+        "Pobudzanie: 10–12°C przez 2–3 tygodnie przed sadzeniem, bez światła; kiełki 1–2 mm.",
+        "Podkiełkowanie: 12–15°C, wilgotność ok. 80%, światło 150 luksów przez 10–12 h/dobę, przez 6–8 tygodni.",
+        "Rozstawa rzędów najczęściej 62,5 cm (rzadziej 67,5 cm); dla przetwórstwa i na cele jadalne zalecane 75 cm.",
+        "Odległość w rzędzie 14–82 cm zależnie od przeznaczenia i wielkości bulw; głębokość sadzenia 4–7 cm.",
+        "Tab. 5.4 (PIORiN): 100 tys. pędów/ha lub 200 tys. – przetwórstwo spożywcze; 300 tys. pędów/ha – ziemniak skrobiowy i sadzeniaki.",
+        "Terminy sadzenia ziemniaków: najwcześniej w południowo-zachodniej Polsce – do 20 kwietnia, najpóźniej w północno-wschodniej – do 5 maja.",
+        "Szerokość międzyrzędzi ziemniaków wynika z rozstawu kół ciągnika i maszyn towarzyszących.",
+        "Rozporządzenie MRiRW z 8 marca 2004 r. dotyczy szczegółowych wymagań wytwarzania i jakości materiału siewnego.",
+        "Przy pobudzaniu światło jest zbędne, a nawet niekorzystne – hamuje wzrost kiełków.",
+        "Gęstość sadzenia zależy od kierunku użytkowania, rodzaju gleby, rozstawy międzyrzędzi i wielkości (średnicy) sadzeniaków.",
+        "Tab. 5.4 – 100 tys. pędów/ha (przetwórstwo spożywcze): sadzeniaki małe 3–4 cm/40 g – 31,2 tys. roślin/ha, 3205 cm²/roślinę, w rzędzie 51/47/43 cm (przy 62,5/67,5/75 cm), głębokość 4–5 cm; średnie 4–5 cm/70 g – 24,4 tys., 4098 cm², 66/61/65 cm, 5–6 cm; duże 5–6 cm/110 g – 19,6 tys., 5102 cm², 82/76/68 cm, 6–7 cm.",
+        "Tab. 5.4 – 200 tys. pędów/ha (przetwórstwo spożywcze): małe – 62,5 tys. roślin, 1600 cm², 26/24/21 cm; średnie – 48,8 tys., 2049 cm², 33/30/27 cm; duże – 39,2 tys., 2551 cm², 41/38/34 cm.",
+        "Tab. 5.4 – 300 tys. pędów/ha (skrobiowe i sadzeniaki): małe – 93,8 tys. roślin, 1066 cm², 17/16/14 cm; średnie – 73,2 tys., 1366 cm², 22/20/18 cm; duże – 58,8 tys., 1700 cm², 27/25/23 cm.",
+        "Zalecana głębokość sadzenia wg wielkości sadzeniaka: małe 4–5 cm, średnie 5–6 cm, duże 6–7 cm."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/terminy-sadzenia-ziemniakow.jpg",
+          "caption": "Terminy sadzenia ziemniaków: najwcześniej – do 20 IV – zachód i południowy zachód (Zielona Góra, Wrocław, Opole); 20–30 IV – większość kraju; najpóźniej – 20 IV–5 V – północ (okolice Gdańska) i północny wschód."
+        },
+        {
+          "src": "img/ur5/rozstawa-ziemniakow.jpg",
+          "caption": "Rozmieszczenie sadzeniaków w glebie – rozstawa rzędów najczęściej 62,5 cm."
+        },
+        {
+          "src": "img/ur5/sadzarka.jpg",
+          "caption": "Do sadzenia ziemniaków używamy sadzarek (agregowanych z ciągnikiem)."
+        },
+        {
+          "src": "img/ur5/pobudzanie-podkielkowanie-sadzeniakow.jpg",
+          "caption": "Zabiegi zalecane przed sadzeniem ziemniaków. Pobudzanie: sadzeniaki w pomieszczeniu i okryciu przez 2–3 tygodnie przed sadzeniem – w zagłębieniu oczek pojawiają się kiełki 1–2 mm. Podkiełkowanie: 12–15°C, wilgotność względna ok. 80%, światło 150 luksów przez 10–12 godzin na dobę, przez 6–8 tygodni (niezbędne przy produkcji na wczesny zbiór)."
+        },
+        {
+          "src": "img/ur5/tab-gestosc-sadzenia.jpg",
+          "caption": "Tabela 5.4 – szczegółowe zalecenia gęstości sadzenia ziemniaka (PIORiN): liczba roślin, powierzchnia na roślinę, odległość w rzędzie przy rozstawie 62,5/67,5/75 cm i głębokość sadzenia."
+        }
+      ]
+    },
+    {
+      "heading": "8. Technologie uprawy",
+      "points": [
+        "Burak: technologia pełna (z uprawą płużną) i uproszczona (bez); pozostałe zabiegi takie same.",
+        "Ziemniak: technologia tradycyjna, uproszczona i zagonowa.",
+        "Tradycyjna – pełen zakres uprawek, nawożenie organiczne i pełna mechaniczna pielęgnacja.",
+        "Uproszczona – rezygnacja z mechanicznego zwalczania chwastów; po sadzeniu formowanie redlin i herbicydy dolistne przed wschodami ziemniaków.",
+        "Zagonowa – na stanowiskach zakamienionych; maszyny dwurzędowe.",
+        "Uprawa zagonowa na płask (sadzeniaki): zagon 150–180 cm z trzema redlinami w rozstawie 40–50 cm; chwasty tylko herbicydami.",
+        "W technologii uproszczonej redliny formuje się obsypnikami z zębami spulchniającymi lub urządzeniami nadającymi kształt redlinie.",
+        "W uprawie zagonowej czasem potrzebne są większe odległości między przejazdami, by swobodnie poruszały się maszyny do zbioru."
+      ]
+    },
+    {
+      "heading": "9. Metody zapobiegawcze i zwalczanie agrofagów",
+      "points": [
+        "Burak – metody agrotechniczne: właściwe zmianowanie (bez buraka po buraku i po krzyżowych, ziemniakach, motylkowatych), wczesny siew, właściwe nawożenie, pielęgnacja.",
+        "Chwasty konkurują z burakiem w początkowej fazie i są siedliskiem chorób i szkodników.",
+        "Mechaniczne odchwaszczanie buraka pielnikami aktywnymi: szczotkowe, palcowe, szczotkowo-palcowe, wąsowe.",
+        "Ręcznie usuwa się duże chwasty, pędy nasienne pośpiechów i burakochwasty (krzyżówki buraka cukrowego z jednoroczną formą buraka).",
+        "Trzy metody herbicydowe w burakach: przedsiewnie w pełnych dawkach; na wschodzące chwasty dawkami dzielonymi; przedsiewnie i na wschodzące chwasty.",
+        "Metoda dawek dzielonych – zasada: zabieg na chwasty w fazie liścieni, niezależnie od fazy buraka.",
+        "Metoda łączona – herbicyd doglebowo w dawkach o połowę niższych, potem opóźnione zabiegi nalistne.",
+        "W okresie wschodów buraki chronią preparaty w otoczce nasion.",
+        "Ziemniak – metody agrotechniczne: zmianowanie, przygotowanie gleby, zdrowe i zaprawione sadzeniaki, unikanie częstej uprawy, pielęgnacja, nawożenie.",
+        "Metoda przedsiewna: herbicydy mieszane z glebą przed siewem, w trakcie siewu lub bezpośrednio po siewie, w pełnych dawkach – niszczą kiełkujące chwasty.",
+        "Dawki dzielone (niewielkie) można stosować bez względu na fazę rozwojową buraków.",
+        "W metodzie łączonej zabiegi nalistne można opóźnić, bo wschodzące chwasty są bardziej wrażliwe na preparaty nalistne.",
+        "Ziemniak – przy pojawieniu się agrofagów stosuje się metody mechaniczne, chemiczne lub mieszane."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/stonka-ziemniaczana.jpg",
+          "caption": "Stonka ziemniaczana – chrząszcz w czarno-żółte paski (po lewej) i pomarańczowa larwa z czarnymi kropkami (po prawej)."
+        }
+      ]
+    },
+    {
+      "heading": "10. Środki ochrony roślin",
+      "points": [
+        "Herbicydy stosuje się zgodnie z zaleceniami producenta i Instytutu Ochrony Roślin; najlepiej o szerokim spektrum lub w mieszankach.",
+        "Zgorzel siewek buraka – fungicyd w otoczce nasion (np. Tachigaren 70 WP).",
+        "Najgroźniejsze choroby liści buraka: chwościk burakowy, brunatna plamistość liści, mączniak właściwy, rdza buraka.",
+        "Brak metod zwalczania zgnilizn korzeni buraka – występują rzadko, w określonej pogodzie.",
+        "Zaprawy insektycydowe w otoczce (Montur Forte, Force Magna) chronią przed drobnicą burakową, pchełką, śmietką ćwiklanką, drutowcami, pędrakami, częściowo mszycami.",
+        "Na pędraki: Dursban 480 EC 3–4 dni przed siewem, wymieszany z glebą.",
+        "Mszyce na buraku: w fazie 4 par liści Danadin 400 EC, na większe rośliny np. Pirimor 500 EC.",
+        "Progi szkodliwości (burak): drutowce 5–8 szt./m²; mątwik burakowy 500 jaj i larw/100 g gleby; mszyca trzmielinowo-burakowa od fazy 4 liści – co najmniej 15% zasiedlonych liści; drobnica burakowa do fazy 4 liści – 20% opanowanych roślin.",
+        "Ziemniak – chwasty jednoliścienne: herbicydy powschodowo przed zwarciem rzędów z adiuwantem (np. Agil 100 EC, Focus Ultra, Targa Super).",
+        "Ziemniak – dwuliścienne przed wschodami (np. Roundup 360 SL, Afalon + Command), po wschodach (Basagran 480 SL, Titus 25 WG).",
+        "Herbicydy nie powinny zastępować obsypywania i bronowania – najlepiej łączyć metody.",
+        "Najgroźniejsze choroby grzybowe ziemniaka: zaraza ziemniaka, alternarioza, rizoktonioza; bakteryjna – czarna nóżka.",
+        "Choroby kwarantannowe ziemniaka: bakterioza pierścieniowa, śluzak (bakteryjne), rak ziemniaka (grzybowa) – brak środków, obszar obejmuje się kwarantanną.",
+        "Fungicydy na zarazę: systemiczne (Ridomil Gold), wgłębne (Pyton 60 WG), kontaktowe (Ranman, Bravo 500 SC).",
+        "Rizoktonioza: uprawa nie częściej niż co 4 lata, sadzeniaki podkiełkowane lub pobudzone, zaprawianie (Dithane M-45, Penncozeb, Tecto).",
+        "Czarna nóżka – brak skutecznej chemii, tylko staranna agrotechnika.",
+        "Najgroźniejsze wirusy: liściozwój ziemniaka i wirus Y; zwalczanie polega na zwalczaniu mszyc (wektorów).",
+        "Najgroźniejsze szkodniki ziemniaka: stonka ziemniaczana, rolnice, mszyce; rolnice zwalcza się nocą zwiększonymi dawkami.",
+        "Przed uprawą buraka trzeba wybrać metodę ochrony przed chwastami i dobrać herbicydy z programu ochrony.",
+        "Preparaty na choroby liści buraka (chwościk, brunatna plamistość, mączniak, rdza): np. Allegro 250 SC, Capitan 250 EW, Eminent 125 SL.",
+        "Zgnilizny korzeni buraka przestają się rozwijać przy zmianie pogody.",
+        "Gdy zaprawy przestają działać, na drutowce, śmietkę, pchełkę i drobnicę burakową stosuje się insektycydy, np. Sherpa 100 EC, Karate Zeon 050 CS, Bulldock 025 EC, Sumi Alpha 050 EC.",
+        "Szkodniki zwalcza się tylko po pojawieniu się agrofaga i przekroczeniu progu szkodliwości ekonomicznej.",
+        "Tab. 5.5 – herbicydy w burakach: chwastnica jednostronna, perz właściwy – Targa 10 EC, Fusilade Forte 150 EC; blekot pospolity, chaber bławatek, ostrożeń polny – Lontrel 300 SL; fiołek polny, maruna bezwonna, gorczyca polna, rumian polny – Pyramin 65 WG, Forte 430 SC.",
+        "Tab. 5.5 cd.: jasnota purpurowa – Kosynier 420 SC; komosa biała – Goltix 700 SC; poziewnik szorstki, szarłat szorstki, tobołki polne – Akord 180 OF, Betanal MaxxPro; przytulia czepna – Burakosat 500 SC; psianka czarna, tasznik pospolity – Venzar 500 SC.",
+        "Pełna lista fungicydów na zarazę ziemniaka i alternariozę: systemiczne – Ridomil Gold, Armetil M 72 WP; wgłębne – Inter Optimum 72,5 WP, Pyton 60 WG; kontaktowe – Ranman 400 SC, Bravo 500 SC, Gwarant 500 SC.",
+        "Zapobieganie chorobom kwarantannowym ziemniaka: zmianowanie, staranna uprawa gleby, sadzenie materiału kwalifikowanego i przebadanego, dezynfekcja maszyn i narzędzi.",
+        "Czarną nóżkę ogranicza się starannymi zabiegami agrotechnicznymi (np. orka, bronowanie).",
+        "Stonkę ziemniaczaną zwalcza się insektycydami, np. Actara 25 WG, Karate Zeon 050 CS; mszyce – np. Pirimor 500 WG, Karate Zeon 050 CS; rolnice – zwiększone dawki np. Karate Zeon 050 CS.",
+        "Zwalczanie rolnic jest trudne, zwłaszcza gdy larwy są starsze i w dzień przebywają w glebie."
+      ],
+      "images": [
+        {
+          "src": "img/ur5/tab-herbicydy-buraki.jpg",
+          "caption": "Tabela 5.5 – przykłady herbicydów do zwalczania najważniejszych chwastów w burakach cukrowych."
+        }
+      ]
+    },
+    {
+      "heading": "11. Zabiegi pielęgnacyjne",
+      "points": [
+        "Burak: skorupę po siewie kruszy się broną kolczastą, na glebach zwięzłych wałami Cambridge lub Croskill; po wschodach pielniki w międzyrzędziach.",
+        "Ziemniak – cel pielęgnacji: niszczenie chwastów, optymalne właściwości fizyczne gleby, uformowanie redlin.",
+        "Obsypnik przemieszcza glebę z dołu redliny do góry, brona-chwastownik z góry do dołu.",
+        "Chwasty niszczy się w fazie siewek – 95–98% skuteczności; w fazie wschodów chwastów tylko 40–60%.",
+        "Zabiegi przed wschodami ziemniaków co 6–8 dni, łącznie 3–6 zabiegów.",
+        "Po wschodach tylko obsypnik z elementami spulchniającymi 2–3 razy przed zwarciem międzyrzędzi; ostatni zabieg – profilowanie redlin.",
+        "Zabiegami pielęgnacyjnymi są też opryski pestycydami i nawadnianie.",
+        "W burakach do głównych zabiegów pielęgnacyjnych należy chemiczna ochrona opryskiwaczami; czasem trzeba ręcznie usunąć duże chwasty; pielniki po wschodach także spulchniają glebę.",
+        "Optymalne własności fizyczne gleby pod ziemniakiem to gęstość, porowatość, zwięzłość; zamiast brony-chwastownika można użyć bron lekkich, łańcucha lub brony-zgrzebła.",
+        "Liczba zabiegów przed wschodami ziemniaków zależy od pogody."
+      ]
+    },
+    {
+      "heading": "12. Zbiór i przechowywanie",
+      "points": [
+        "Burak osiąga dojrzałość po 160–180 dniach od siewu – żółkną i obumierają dolne liście rozety.",
+        "Zbiór buraków od połowy października do początku listopada.",
+        "Dominuje zbiór jednoetapowy (ogłowienie i wykopanie w jednym przejeździe) kombajnami 1-, 2-, 3-, 6-rzędowymi; czasem dwuetapowy.",
+        "Pryzmy buraków 2,5–3 m wysokości, szerokość dopasowana do maszyny czyszcząco-załadunkowej.",
+        "Przy przymrozkach pryzmy buraków bezwarunkowo okrywa się włókniną – nie plandeką, folią ani słomą.",
+        "Ziemniaki zbiera się w pełnej dojrzałości: naskórek nie złuszcza się pod kciukiem, bulwy łatwo odchodzą od stolonów; zbiór w ciepłą, suchą pogodę.",
+        "Niszczenie łęcin 1–3 tygodnie przed zbiorem: mechanicznie (rozdrabniacz bijakowy) lub chemicznie (Reglone).",
+        "Zbiór dwufazowy (kopaczka + ręczne zbieranie) stosowany rzadko.",
+        "Ziemniaki przechowuje się w kopcach, piwnicach i przechowalniach.",
+        "Kopiec: zagłębiony do 10 cm, szerokość ok. 180 cm, wysokość 90 cm.",
+        "Okrywa jesienna kopca: 10 cm słomy + ok. 5 cm ziemi, kalenica ze słomą odkryta; zimowa: 10–15 cm słomy + 10 cm ziemi, także na kalenicy – gdy w kopcu spadnie do 3°C.",
+        "Piwnice: pryzmy 100–120 cm, przy podłogach ażurowych do 150 cm; wietrzenie i termometr.",
+        "Przechowalnie: pryzmy 2–5 m lub palety skrzyniowe; pomieszczenia i palety myje się i dezynfekuje.",
+        "Zbiór buraków = prawidłowe ogłowienie, wykopanie korzeni i uformowanie pryzmy, w której czekają na dostawę do cukrowni.",
+        "Zbiór dwuetapowy buraków: 1. ogłowienie, 2. wyoranie i zbiór korzeni – zestawami maszyn; kombajny mogą być przyczepiane do ciągnika lub samobieżne.",
+        "W pełnej dojrzałości bulwy są najbardziej odporne na uszkodzenia mechaniczne; niszczenie łęcin wyrównuje dojrzałość bulw na całej plantacji.",
+        "Zbiór ziemniaków jest w pełni zmechanizowany (kombajny); w zbiorze dwufazowym kopaczka wykopuje bulwy na wały.",
+        "Zadanie przechowalnictwa: ograniczyć ubytki i straty masy bulw oraz utrzymać ich cechy jakościowe.",
+        "Termometr w piwnicy służy do decyzji o zamknięciu wywietrzników; w przechowalniach systemy wietrzenia i utrzymania wilgotności sterowane automatycznie lub ręcznie."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rośliny okopowe – definicja",
+      "back": "Rośliny, w których uprawie dominuje okopywanie lub obsypywanie, a zbiór polega na wykopywaniu lub wyorywaniu plonu."
+    },
+    {
+      "front": "Okopowe bulwiaste",
+      "back": "Ziemniak, topinambur."
+    },
+    {
+      "front": "Okopowe korzeniowe",
+      "back": "Buraki cukrowe i pastewne, marchew, brukiew, cykoria korzeniowa, rzepa."
+    },
+    {
+      "front": "Składniki odżywcze ziemniaka",
+      "back": "Pełnowartościowe białko, witamina C, potas i jod (żywność niskokaloryczna)."
+    },
+    {
+      "front": "Przemysłowe użycie ziemniaka",
+      "back": "Produkcja alkoholu i krochmalu (mąki ziemniaczanej)."
+    },
+    {
+      "front": "Odpady cukrowni wykorzystywane jako pasza",
+      "back": "Wysłodki buraczane i melasa."
+    },
+    {
+      "front": "Udział ziemniaka w powierzchni upraw: 1960 / 2000 / 2012",
+      "back": "18% / 10% / 3,4%."
+    },
+    {
+      "front": "Czynniki najbardziej obniżające plon ziemniaka",
+      "back": "Susza i wysokie temperatury w lecie."
+    },
+    {
+      "front": "Okres największych wymagań wodnych ziemniaka",
+      "back": "Zawiązywanie i intensywny wzrost bulw – lipiec do połowy sierpnia."
+    },
+    {
+      "front": "Optymalna temperatura przy wzroście bulw",
+      "back": "15–20°C (dzień 20–25°C, noc 15–16°C)."
+    },
+    {
+      "front": "Temperatura gleby (5–10 cm) przy siewie buraka",
+      "back": "5–10°C."
+    },
+    {
+      "front": "Jaki przymrozek niszczy buraki w fazie kiełkowania i liścieni?",
+      "back": "Od –2 do –3°C."
+    },
+    {
+      "front": "Do jakiej temperatury buraki znoszą przymrozki od fazy 1. pary liści?",
+      "back": "Do –5°C."
+    },
+    {
+      "front": "Optymalna średnia temperatura dobowa buraka w lipcu–sierpniu",
+      "back": "15–17°C."
+    },
+    {
+      "front": "Skutek zbyt niskiej temperatury na początku wegetacji buraka",
+      "back": "Pojawienie się pędów kwiatostanowych."
+    },
+    {
+      "front": "Okres krytyczny buraka pod względem wody",
+      "back": "Lipiec i sierpień (najintensywniejsza transpiracja)."
+    },
+    {
+      "front": "Najlepsze gleby pod ziemniaki",
+      "back": "Gliniasto-piaszczyste lub słabo gliniaste, przewiewne, zasobne."
+    },
+    {
+      "front": "Tolerowany odczyn gleby dla ziemniaka",
+      "back": "pH 4,5–6,5."
+    },
+    {
+      "front": "Skutek odczynu alkalicznego w uprawie ziemniaka",
+      "back": "Porażenie bulw parchem zwykłym."
+    },
+    {
+      "front": "Głębokość spulchnienia gleby pod ziemniaki",
+      "back": "25–30 cm."
+    },
+    {
+      "front": "Wymagana warstwa próchniczna / orna pod buraka",
+      "back": "Minimum 35 cm / 30 cm."
+    },
+    {
+      "front": "Odczyn gleby pod buraka",
+      "back": "Zbliżony do obojętnego, pH 6,6–7,2."
+    },
+    {
+      "front": "Najczęstszy przedplon ziemniaka",
+      "back": "Zboża."
+    },
+    {
+      "front": "Bardzo dobre przedplony ziemniaka",
+      "back": "Motylkowate i strączkowe na nasiona lub zielonkę."
+    },
+    {
+      "front": "Jak często można uprawiać ziemniaka na tym samym polu?",
+      "back": "Nie częściej niż co 4 lata (mątwik ziemniaczany)."
+    },
+    {
+      "front": "Dobre przedplony buraka",
+      "back": "Pszenica i jęczmień (korzystne też groch, wyka, warzywa)."
+    },
+    {
+      "front": "Niekorzystne przedplony buraka (szkodniki glebowe)",
+      "back": "Kukurydza, lucerna, koniczyna, ziemniaki."
+    },
+    {
+      "front": "Dlaczego nie uprawia się buraka po rzepaku i kapustowatych?",
+      "back": "Namnażanie nicieni i trudne zwalczanie samosiewów."
+    },
+    {
+      "front": "Jak często burak na tym samym polu?",
+      "back": "Co 4–5 lat; na bardzo dobrych glebach przy starannej uprawie co 3 lata."
+    },
+    {
+      "front": "Dawka obornika pod ziemniaki",
+      "back": "25–30 t/ha (wyższe pożądane), najlepiej jesienią."
+    },
+    {
+      "front": "Głębokość orki przy wiosennym oborniku pod ziemniaki",
+      "back": "Orka średnia 18–20 cm."
+    },
+    {
+      "front": "Dawka gnojówki pod ziemniaki",
+      "back": "15–20 m³/ha wiosną, od razu wymieszana z glebą."
+    },
+    {
+      "front": "Dawka gnojowicy pod ziemniaki",
+      "back": "50–60 m³/ha na glebach lżejszych; na zwięzłych o 20% mniej."
+    },
+    {
+      "front": "Dawka kompostu pod ziemniaki",
+      "back": "40 t/ha."
+    },
+    {
+      "front": "Kiedy stosować P i K pod ziemniaki na glebach lekkich?",
+      "back": "Wiosną przed uprawkami (unikanie wymycia)."
+    },
+    {
+      "front": "Dokarmianie dolistne ziemniaków azotem",
+      "back": "5–6% roztwór mocznika, co 2 tygodnie, 2–4 razy."
+    },
+    {
+      "front": "Dawka obornika pod buraki",
+      "back": "30–40 t/ha jesienią (wiosną nieracjonalnie)."
+    },
+    {
+      "front": "Maksymalna dawka gnojowicy pod buraki",
+      "back": "45 m³/ha."
+    },
+    {
+      "front": "Powyżej jakiej zawartości K2O można nie nawozić buraków potasem?",
+      "back": "35 mg/100 g (b. lekkie), 40 (lekkie), 50 (średnie), 60 (ciężkie)."
+    },
+    {
+      "front": "O ile zwiększyć dawki mineralne bez nawożenia organicznego (burak)?",
+      "back": "O 30–40%."
+    },
+    {
+      "front": "Podział nawożenia azotem pod buraki",
+      "back": "50% przed agregatem uprawowym, reszta w fazie 2–3 par liści właściwych."
+    },
+    {
+      "front": "Skutki niedoboru boru u buraka",
+      "back": "Zgorzel liści sercowych i sucha zgnilizna korzeni; spadek plonu nawet o 50%."
+    },
+    {
+      "front": "Wapnowanie jesienią przed burakiem (gdy nie pod przedplon)",
+      "back": "1,0–5,0 t/ha CaO."
+    },
+    {
+      "front": "„Zmęczenie rozłogów perzu”",
+      "back": "3–4-krotna orka; przyorane rozłogi zamierają poniżej 20 cm z braku powietrza."
+    },
+    {
+      "front": "Faza perzu do oprysku herbicydem",
+      "back": "4–6 liści."
+    },
+    {
+      "front": "Siew w mulcz z międzyplonu pod buraki – przykładowy międzyplon",
+      "back": "Antymątwikowe odmiany gorczycy białej."
+    },
+    {
+      "front": "Minimalna zdolność kiełkowania nasion buraka",
+      "back": "90%."
+    },
+    {
+      "front": "Etapy przygotowania nasion buraka",
+      "back": "Czyszczenie, sortowanie, szlifowanie, otoczkowanie, inkrustowanie."
+    },
+    {
+      "front": "Parametry siewu buraka",
+      "back": "Głębokość 2–3 cm, co 18 cm w rzędzie, rzędy 45 cm."
+    },
+    {
+      "front": "Obsada buraków przy zbiorze",
+      "back": "75–95 tys. roślin/ha."
+    },
+    {
+      "front": "Termin siewu buraka w części centralnej Polski",
+      "back": "Pierwsza połowa kwietnia."
+    },
+    {
+      "front": "Warunki gleby do siewu buraka",
+      "back": "Min. 5°C na głębokości 5 cm, wilgotność 12–16% w warstwie 0–5 cm."
+    },
+    {
+      "front": "Akt prawny o wymaganiach dla sadzeniaków",
+      "back": "Rozporządzenie MRiRW z 8 marca 2004 r. (Dz.U. Nr 59 poz. 565)."
+    },
+    {
+      "front": "Pobudzanie sadzeniaków",
+      "back": "10–12°C, 2–3 tygodnie przed sadzeniem, bez światła; kiełki 1–2 mm."
+    },
+    {
+      "front": "Podkiełkowanie sadzeniaków",
+      "back": "12–15°C, wilg. ok. 80%, 150 luksów przez 10–12 h/dobę, 6–8 tygodni."
+    },
+    {
+      "front": "Kiedy podkiełkowanie jest niezbędne?",
+      "back": "Przy uprawie ziemniaków na wczesny zbiór."
+    },
+    {
+      "front": "Najczęstsza rozstawa rzędów ziemniaka",
+      "back": "62,5 cm (rzadziej 67,5 cm); dla przetwórstwa i jadalnych 75 cm."
+    },
+    {
+      "front": "Głębokość sadzenia ziemniaków",
+      "back": "4–7 cm."
+    },
+    {
+      "front": "Obsada 300 tys. pędów/ha – dla jakiego kierunku?",
+      "back": "Ziemniak skrobiowy i sadzeniaki."
+    },
+    {
+      "front": "Technologie uprawy ziemniaka",
+      "back": "Tradycyjna, uproszczona, zagonowa."
+    },
+    {
+      "front": "Uprawa zagonowa na płask (sadzeniaki)",
+      "back": "Zagon 150–180 cm, trzy redliny w rozstawie 40–50 cm, chwasty tylko herbicydami."
+    },
+    {
+      "front": "Burakochwasty",
+      "back": "Krzyżówki buraka cukrowego z jednoroczną formą buraka."
+    },
+    {
+      "front": "Rodzaje pielników aktywnych",
+      "back": "Szczotkowe, palcowe, szczotkowo-palcowe, wąsowe."
+    },
+    {
+      "front": "Trzy metody stosowania herbicydów w burakach",
+      "back": "Przedsiewnie w pełnych dawkach; dawki dzielone na wschodzące chwasty; przedsiewnie + na wschodzące."
+    },
+    {
+      "front": "Zasada metody dawek dzielonych",
+      "back": "Herbicydy na chwasty w fazie liścieni."
+    },
+    {
+      "front": "Najgroźniejsze choroby liści buraka",
+      "back": "Chwościk burakowy, brunatna plamistość liści, mączniak właściwy, rdza buraka."
+    },
+    {
+      "front": "Próg szkodliwości drutowców (burak)",
+      "back": "5–8 osobników/m²."
+    },
+    {
+      "front": "Próg szkodliwości mątwika burakowego",
+      "back": "500 jaj i larw/100 g gleby."
+    },
+    {
+      "front": "Próg szkodliwości mszycy na buraku (od fazy 4 liści)",
+      "back": "Co najmniej 15% zasiedlonych liści."
+    },
+    {
+      "front": "Próg szkodliwości drobnicy burakowej",
+      "back": "20% opanowanych roślin (od wschodów do fazy 4 liści)."
+    },
+    {
+      "front": "Najgroźniejsze choroby grzybowe ziemniaka",
+      "back": "Zaraza ziemniaka, alternarioza, rizoktonioza."
+    },
+    {
+      "front": "Najgroźniejsza choroba bakteryjna ziemniaka",
+      "back": "Czarna nóżka (brak skutecznej chemii)."
+    },
+    {
+      "front": "Choroby kwarantannowe ziemniaka",
+      "back": "Bakterioza pierścieniowa, śluzak (bakteryjne), rak ziemniaka (grzybowa)."
+    },
+    {
+      "front": "Najgroźniejsze wirusy ziemniaka i ich zwalczanie",
+      "back": "Liściozwój i wirus Y; zwalczanie mszyc (nosicieli)."
+    },
+    {
+      "front": "Najgroźniejsze szkodniki ziemniaka",
+      "back": "Stonka ziemniaczana, rolnice, mszyce."
+    },
+    {
+      "front": "Kiedy zwalczać rolnice?",
+      "back": "Nocą, gdy larwy wychodzą na powierzchnię, zwiększonymi dawkami."
+    },
+    {
+      "front": "Obsypnik vs brona-chwastownik",
+      "back": "Obsypnik – gleba z dołu redliny do góry; brona-chwastownik – z góry na dół."
+    },
+    {
+      "front": "Skuteczność niszczenia chwastów w fazie siewek / wschodów",
+      "back": "95–98% / 40–60%."
+    },
+    {
+      "front": "Częstotliwość zabiegów przed wschodami ziemniaków",
+      "back": "Co 6–8 dni, łącznie 3–6 zabiegów."
+    },
+    {
+      "front": "Wały do kruszenia skorupy na glebach zwięzłych (burak)",
+      "back": "Cambridge lub Croskill."
+    },
+    {
+      "front": "Po ilu dniach burak osiąga dojrzałość?",
+      "back": "160–180 dni od siewu."
+    },
+    {
+      "front": "Termin zbioru buraków",
+      "back": "Od połowy października do początku listopada."
+    },
+    {
+      "front": "Wysokość pryzmy buraków",
+      "back": "2,5–3 m."
+    },
+    {
+      "front": "Czym okrywać pryzmy buraków przy przymrozkach?",
+      "back": "Włókniną (nie plandeką, folią ani słomą)."
+    },
+    {
+      "front": "Objawy pełnej dojrzałości bulw",
+      "back": "Naskórek nie złuszcza się pod kciukiem, bulwy łatwo odchodzą od stolonów."
+    },
+    {
+      "front": "Niszczenie łęcin – kiedy i czym?",
+      "back": "1–3 tygodnie przed zbiorem; rozdrabniacz bijakowy lub Reglone."
+    },
+    {
+      "front": "Wymiary kopca ziemniaków",
+      "back": "Zagłębiony do 10 cm, szer. ok. 180 cm, wys. 90 cm."
+    },
+    {
+      "front": "Okrywa jesienna kopca",
+      "back": "10 cm słomy + ok. 5 cm ziemi, kalenica odkryta."
+    },
+    {
+      "front": "Okrywa zimowa kopca – skład i termin",
+      "back": "10–15 cm słomy + 10 cm ziemi; gdy w kopcu spadnie do 3°C."
+    },
+    {
+      "front": "Grubość pryzmy ziemniaków w piwnicy",
+      "back": "100–120 cm; z podłogą ażurową do 150 cm."
+    },
+    {
+      "front": "Terminy sadzenia ziemniaków w Polsce",
+      "back": "Najwcześniej na południowym zachodzie – do 20 kwietnia; najpóźniej na północnym wschodzie – do 5 maja."
+    },
+    {
+      "front": "Od czego zależy szerokość międzyrzędzi ziemniaków?",
+      "back": "Od rozstawu kół ciągnika i maszyn towarzyszących (najczęściej 62,5 cm; dla przetwórstwa i na cele jadalne 75 cm)."
+    },
+    {
+      "front": "Do jakich grup roślin okopowych należą rośliny na zdjęciu?",
+      "back": "Ziemniak – okopowe bulwiaste; burak cukrowy – okopowe korzeniowe.",
+      "img": "img/ur5/ziemniak-burak.jpg"
+    },
+    {
+      "front": "Gdzie w Polsce sadzi się ziemniaki najwcześniej, a gdzie najpóźniej (wg mapy)?",
+      "back": "Najwcześniej (do 20 IV) – zachód i południowy zachód; najpóźniej (20 IV–5 V) – północ i północny wschód; w większości kraju 20–30 IV.",
+      "img": "img/ur5/terminy-sadzenia-ziemniakow.jpg"
+    },
+    {
+      "front": "Jak nazywa się maszyna do sadzenia ziemniaków?",
+      "back": "Sadzarka do ziemniaków (zawieszana na ciągniku).",
+      "img": "img/ur5/sadzarka.jpg"
+    },
+    {
+      "front": "Jaki szkodnik ziemniaka (dorosły i larwa) jest na zdjęciu?",
+      "back": "Stonka ziemniaczana – chrząszcz w czarno-żółte paski i pomarańczowa larwa z czarnymi kropkami.",
+      "img": "img/ur5/stonka-ziemniaczana.jpg"
+    },
+    {
+      "front": "Jak nazywa się zabieg widoczny na zdjęciu: sadzeniaki z kiełkami w skrzynce, przetrzymywane 6–8 tygodni w 12–15°C przy świetle?",
+      "back": "Podkiełkowanie – wilgotność ok. 80%, światło 150 luksów przez 10–12 h/dobę; niezbędne przy uprawie na wczesny zbiór.",
+      "img": "img/ur5/podkielkowane-sadzeniaki.jpg"
+    },
+    {
+      "front": "Dawki N i K2O pod ziemniak późny na oborniku przy plonie 30 t/ha (tab. 5.1)",
+      "back": "N 50 kg/ha, K2O 55 kg/ha (P i Mg – nie stosuje się); przy 35 t/ha: N 70, K2O 80."
+    },
+    {
+      "front": "Dawki NPK i Mg pod ziemniak późny bez obornika przy plonie 30 t/ha",
+      "back": "N 85, P2O5 40, K2O 170, MgO 15 kg/ha."
+    },
+    {
+      "front": "Dawki NPK pod ziemniak wczesny bez obornika przy plonie 25 t/ha",
+      "back": "N 50, P2O5 25, K2O 130, MgO 10 kg/ha."
+    },
+    {
+      "front": "Dawka N pod burak cukrowy na oborniku przy plonie 60 t/ha",
+      "back": "100 kg N/ha (P2O5 25, MgO 20)."
+    },
+    {
+      "front": "Dawki NPK pod burak pastewny na oborniku przy plonie 80 t/ha",
+      "back": "N 180, P2O5 45, K2O 125 kg/ha."
+    },
+    {
+      "front": "Orientacyjne dawki azotu pod buraki wg zasobności gleby",
+      "back": "B. niska 120, niska 110, średnia 100, wysoka 90, b. wysoka 80 kg N/ha."
+    },
+    {
+      "front": "Odległość sadzeniaków średnich w rzędzie przy rozstawie 62,5 cm i 100 tys. pędów/ha",
+      "back": "66 cm (głębokość 5–6 cm; 24,4 tys. roślin/ha)."
+    },
+    {
+      "front": "Głębokość sadzenia wg wielkości sadzeniaka",
+      "back": "Małe 4–5 cm, średnie 5–6 cm, duże 6–7 cm."
+    },
+    {
+      "front": "Herbicydy w burakach na chwastnicę jednostronną i perz",
+      "back": "Targa 10 EC, Fusilade Forte 150 EC."
+    },
+    {
+      "front": "Herbicyd w burakach na komosę białą",
+      "back": "Goltix 700 SC."
+    },
+    {
+      "front": "Herbicyd w burakach na blekot, chaber bławatek, ostrożeń polny",
+      "back": "Lontrel 300 SL."
+    },
+    {
+      "front": "Preparaty na choroby liści buraka (przykłady)",
+      "back": "Allegro 250 SC, Capitan 250 EW, Eminent 125 SL."
+    },
+    {
+      "front": "Insektycydy na stonkę ziemniaczaną (przykłady)",
+      "back": "Actara 25 WG, Karate Zeon 050 CS."
+    },
+    {
+      "front": "Jak zapobiegać chorobom kwarantannowym ziemniaka?",
+      "back": "Zmianowanie, staranna uprawa gleby, sadzenie materiału kwalifikowanego i przebadanego, dezynfekcja maszyn i narzędzi; przy wystąpieniu – kwarantanna obszaru."
+    },
+    {
+      "front": "Czy przy pobudzaniu sadzeniaków potrzebne jest światło?",
+      "back": "Nie – światło jest zbędne, a nawet niekorzystne, bo hamuje wzrost kiełków."
+    },
+    {
+      "front": "Od czego zależy gęstość sadzenia ziemniaków?",
+      "back": "Od kierunku użytkowania, rodzaju gleby, rozstawy międzyrzędzi i wielkości sadzeniaków (14–82 cm w rzędzie)."
+    },
+    {
+      "front": "Orientacyjne dawki potasu i fosforu pod buraki wg zasobności gleby (Tab. 5.3)",
+      "back": "K2O: b. niska 160, niska 140, średnia 120, wysoka 100, b. wysoka 30 kg/ha; P2O5: 110 / 90 / 70 / 50 / 30 kg/ha."
+    },
+    {
+      "front": "Dawki nawozów pod ziemniak wczesny na oborniku (30 t/ha) przy plonie 35 t/ha (Tab. 5.1)",
+      "back": "N 60, P2O5 10, K2O 100 kg/ha (MgO – nie stosuje się)."
+    },
+    {
+      "front": "Dawki nawozów pod ziemniak późny na oborniku (30 t/ha) przy plonie 40 t/ha (Tab. 5.1)",
+      "back": "N 90, P2O5 10, K2O 110 kg/ha (MgO – nie stosuje się)."
+    },
+    {
+      "front": "Dawki nawozów pod burak pastewny na oborniku przy plonie 60 t/ha (Tab. 5.2)",
+      "back": "N 120, P2O5 25, K2O 65 kg/ha (MgO – nie stosuje się)."
+    },
+    {
+      "front": "Odległość sadzeniaków w rzędzie przy 300 tys. pędów/ha (skrobiowe, sadzeniaki) i rozstawie 75 cm",
+      "back": "Małe 14 cm, średnie 18 cm, duże 23 cm (przy 62,5 cm: 17 / 22 / 27 cm)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Do roślin okopowych bulwiastych zalicza się:",
+      "options": [
+        "burak cukrowy i marchew",
+        "brukiew i rzepę",
+        "ziemniak i topinambur",
+        "cykorię korzeniową i burak pastewny"
+      ],
+      "answer": 2,
+      "explain": "Okopowe bulwiaste to ziemniak i topinambur."
+    },
+    {
+      "q": "Jaki procent powierzchni upraw zajmowały ziemniaki w 2012 r.?",
+      "options": [
+        "3,4%",
+        "18%",
+        "10%",
+        "7,5%"
+      ],
+      "answer": 0,
+      "explain": "W 2012 r. ziemniaki zajmowały 3,4% powierzchni upraw."
+    },
+    {
+      "q": "Odpady przemysłu cukrowniczego wykorzystywane jako pasza to:",
+      "options": [
+        "młóto i wywar",
+        "makuchy i śruta",
+        "otręby i plewy",
+        "wysłodki i melasa"
+      ],
+      "answer": 3,
+      "explain": "Wysłodki buraczane i melasa stanowią paszę dla zwierząt."
+    },
+    {
+      "q": "Największe wymagania wodne ziemniak ma w okresie:",
+      "options": [
+        "od sadzenia do wschodów",
+        "zawiązywania i intensywnego wzrostu bulw",
+        "od wschodów do kwitnienia",
+        "dojrzewania bulw we wrześniu"
+      ],
+      "answer": 1,
+      "explain": "Najwyższe wymagania wodne ziemniak ma przy zawiązywaniu i wzroście bulw (lipiec – połowa sierpnia)."
+    },
+    {
+      "q": "Optymalna temperatura w okresie intensywnego wzrostu bulw ziemniaka wynosi:",
+      "options": [
+        "5–10°C",
+        "15–20°C",
+        "25–30°C",
+        "10–12°C"
+      ],
+      "answer": 1,
+      "explain": "Optymalna temperatura w tym okresie to 15–20°C."
+    },
+    {
+      "q": "Buraki w fazie kiełkowania i liścieni całkowicie niszczy temperatura:",
+      "options": [
+        "od 0 do –1°C",
+        "od –5 do –7°C",
+        "poniżej –10°C",
+        "od –2 do –3°C"
+      ],
+      "answer": 3,
+      "explain": "Temperatura od –2 do –3°C w fazie kiełkowania i liścieni całkowicie niszczy buraki."
+    },
+    {
+      "q": "Od fazy pierwszej pary liści właściwych buraki znoszą przymrozki do:",
+      "options": [
+        "–5°C",
+        "–1°C",
+        "–10°C",
+        "–15°C"
+      ],
+      "answer": 0,
+      "explain": "W fazie pierwszej pary liści właściwych i później buraki znoszą przymrozki do –5°C."
+    },
+    {
+      "q": "Okresem krytycznym buraka pod względem zapotrzebowania na wodę jest:",
+      "options": [
+        "kwiecień i maj",
+        "wrzesień i październik",
+        "lipiec i sierpień",
+        "maj i czerwiec"
+      ],
+      "answer": 2,
+      "explain": "Burak najintensywniej transpiruje w lipcu i sierpniu – to czas krytyczny."
+    },
+    {
+      "q": "Ziemniak dobrze toleruje odczyn gleby w zakresie pH:",
+      "options": [
+        "6,6–7,2",
+        "7,0–8,0",
+        "3,0–4,0",
+        "4,5–6,5"
+      ],
+      "answer": 3,
+      "explain": "Ziemniaki dobrze tolerują odczyn gleby pH 4,5–6,5."
+    },
+    {
+      "q": "Odczyn alkaliczny gleby w uprawie ziemniaka sprzyja porażeniu bulw przez:",
+      "options": [
+        "zarazę ziemniaka",
+        "czarną nóżkę",
+        "parcha zwykłego",
+        "raka ziemniaka"
+      ],
+      "answer": 2,
+      "explain": "Odczyn alkaliczny często powoduje porażenie bulw parchem zwykłym."
+    },
+    {
+      "q": "Gleba pod buraka cukrowego powinna mieć odczyn:",
+      "options": [
+        "pH 4,5–5,5",
+        "pH 6,6–7,2",
+        "pH 5,0–6,0",
+        "pH 7,5–8,5"
+      ],
+      "answer": 1,
+      "explain": "Burak wymaga odczynu zbliżonego do obojętnego (pH 6,6–7,2)."
+    },
+    {
+      "q": "Minimalna głębokość warstwy próchnicznej gleby pod buraka wynosi:",
+      "options": [
+        "35 cm",
+        "15 cm",
+        "20 cm",
+        "60 cm"
+      ],
+      "answer": 0,
+      "explain": "Gleba pod buraka powinna mieć warstwę próchniczną minimum 35 cm."
+    },
+    {
+      "q": "Ziemniaków nie należy uprawiać na tym samym polu częściej niż co 4 lata ze względu na:",
+      "options": [
+        "stonkę ziemniaczaną",
+        "zarazę ziemniaka",
+        "mątwika ziemniaczanego",
+        "chwościka"
+      ],
+      "answer": 2,
+      "explain": "Częstsza uprawa grozi wystąpieniem mątwika ziemniaczanego – szkodnika kwarantannowego."
+    },
+    {
+      "q": "Dobrymi przedplonami dla buraka cukrowego są:",
+      "options": [
+        "pszenica i jęczmień",
+        "kukurydza i lucerna",
+        "rzepak i kapusta",
+        "ziemniaki i koniczyna"
+      ],
+      "answer": 0,
+      "explain": "Dobrymi przedplonami dla buraka są pszenica i jęczmień."
+    },
+    {
+      "q": "Buraka nie należy uprawiać po rzepaku ze względu na:",
+      "options": [
+        "niedobór boru",
+        "zbyt niskie pH",
+        "nadmiar potasu",
+        "namnażanie nicieni"
+      ],
+      "answer": 3,
+      "explain": "Po rzepaku i kapustowatych namnażają się nicienie i trudno zwalczyć samosiewy."
+    },
+    {
+      "q": "Zalecana dawka obornika pod ziemniaki wynosi:",
+      "options": [
+        "5–10 t/ha",
+        "25–30 t/ha",
+        "60–80 t/ha",
+        "10–15 t/ha"
+      ],
+      "answer": 1,
+      "explain": "Obornik pod ziemniaki stosuje się w dawce 25–30 t/ha."
+    },
+    {
+      "q": "Gnojowicę na glebach zwięzłych pod ziemniaki stosuje się w dawce mniejszej o:",
+      "options": [
+        "5%",
+        "20%",
+        "50%",
+        "70%"
+      ],
+      "answer": 1,
+      "explain": "Na glebach zwięzłych dawka gnojowicy jest o 20% mniejsza niż 50–60 m³/ha."
+    },
+    {
+      "q": "Do dolistnego dokarmiania ziemniaków azotem stosuje się roztwór mocznika o stężeniu:",
+      "options": [
+        "0,5–1%",
+        "15–20%",
+        "30%",
+        "5–6%"
+      ],
+      "answer": 3,
+      "explain": "Do dokarmiania stosuje się wodny roztwór mocznika 5–6%."
+    },
+    {
+      "q": "Dawka gnojowicy pod buraki nie powinna przekraczać:",
+      "options": [
+        "45 m³/ha",
+        "15 m³/ha",
+        "80 m³/ha",
+        "120 m³/ha"
+      ],
+      "answer": 0,
+      "explain": "Dawka gnojowicy pod buraki nie powinna przekraczać 45 m³/ha."
+    },
+    {
+      "q": "Przy uprawie buraka bez nawożenia organicznego dawki nawozów mineralnych należy zwiększyć o:",
+      "options": [
+        "5–10%",
+        "60–70%",
+        "30–40%",
+        "100%"
+      ],
+      "answer": 2,
+      "explain": "Bez nawożenia organicznego dawki mineralne zwiększa się o 30–40%."
+    },
+    {
+      "q": "Drugą część dawki azotu pod buraki stosuje się w fazie:",
+      "options": [
+        "liścieni",
+        "zwarcia rzędów",
+        "przed zbiorem",
+        "2–3 par liści właściwych"
+      ],
+      "answer": 3,
+      "explain": "50% azotu stosuje się przed agregatem, resztę w fazie 2–3 par liści właściwych."
+    },
+    {
+      "q": "Zgorzel liści sercowych i sucha zgnilizna korzeni buraka są skutkiem niedoboru:",
+      "options": [
+        "magnezu",
+        "azotu",
+        "boru",
+        "miedzi"
+      ],
+      "answer": 2,
+      "explain": "Niedobór boru powoduje zgorzel liści sercowych i suchą zgniliznę korzeni."
+    },
+    {
+      "q": "„Zmęczenie rozłogów perzu” polega na:",
+      "options": [
+        "jednokrotnym talerzowaniu",
+        "3–4-krotnym wykonaniu orki",
+        "wapnowaniu pola",
+        "wysiewie poplonu"
+      ],
+      "answer": 1,
+      "explain": "Metoda polega na 3–4-krotnej orce; przyorane rozłogi zamierają poniżej 20 cm."
+    },
+    {
+      "q": "Nasiona buraka przeznaczone do siewu muszą mieć zdolność kiełkowania co najmniej:",
+      "options": [
+        "90%",
+        "60%",
+        "75%",
+        "99%"
+      ],
+      "answer": 0,
+      "explain": "Do siewu buraków stosuje się nasiona o zdolności kiełkowania co najmniej 90%."
+    },
+    {
+      "q": "Buraki wysiewa się na głębokość:",
+      "options": [
+        "0,5–1 cm",
+        "5–6 cm",
+        "2–3 cm",
+        "8–10 cm"
+      ],
+      "answer": 2,
+      "explain": "Buraki sieje się na głębokość 2–3 cm."
+    },
+    {
+      "q": "Rozstawa rzędów przy siewie buraka cukrowego wynosi:",
+      "options": [
+        "45 cm",
+        "12,5 cm",
+        "62,5 cm",
+        "75 cm"
+      ],
+      "answer": 0,
+      "explain": "Buraki sieje się co 18 cm w rzędzie przy rozstawie rzędów 45 cm."
+    },
+    {
+      "q": "Pobudzanie sadzeniaków ziemniaka prowadzi się w temperaturze:",
+      "options": [
+        "2–4°C przez 6 tygodni",
+        "20–25°C przez 3 dni",
+        "12–15°C przez 6–8 tygodni ze światłem",
+        "10–12°C przez 2–3 tygodnie"
+      ],
+      "answer": 3,
+      "explain": "Pobudzanie polega na umieszczeniu sadzeniaków w 10–12°C na 2–3 tygodnie przed sadzeniem."
+    },
+    {
+      "q": "Podkiełkowanie sadzeniaków trwa:",
+      "options": [
+        "3–5 dni",
+        "6–8 tygodni",
+        "2–3 tygodnie",
+        "4–5 miesięcy"
+      ],
+      "answer": 1,
+      "explain": "Podkiełkowanie prowadzi się w 12–15°C przy świetle 150 luksów przez 6–8 tygodni."
+    },
+    {
+      "q": "Ziemniaki sadzi się na głębokość:",
+      "options": [
+        "1–2 cm",
+        "4–7 cm",
+        "12–15 cm",
+        "20–25 cm"
+      ],
+      "answer": 1,
+      "explain": "Ziemniaki sadzi się na głębokość od 4 do 7 cm."
+    },
+    {
+      "q": "Uprawę zagonową ziemniaków stosuje się przede wszystkim na stanowiskach:",
+      "options": [
+        "podmokłych",
+        "o odczynie zasadowym",
+        "zachwaszczonych perzem",
+        "zakamienionych"
+      ],
+      "answer": 3,
+      "explain": "Uprawę zagonową stosuje się na stanowiskach zakamienionych."
+    },
+    {
+      "q": "Burakochwasty to:",
+      "options": [
+        "krzyżówki buraka cukrowego z jednoroczną formą buraka",
+        "chwasty jednoliścienne w burakach",
+        "samosiewy rzepaku",
+        "buraki z pędami kwiatostanowymi z zimna"
+      ],
+      "answer": 0,
+      "explain": "Burakochwasty to krzyżówki buraka cukrowego z jednoroczną formą buraka."
+    },
+    {
+      "q": "Naczelną zasadą metody dawek dzielonych w burakach jest stosowanie herbicydów na chwasty w fazie:",
+      "options": [
+        "kwitnienia",
+        "4–6 liści",
+        "liścieni",
+        "dojrzewania nasion"
+      ],
+      "answer": 2,
+      "explain": "W metodzie dawek dzielonych herbicydy stosuje się na chwasty w fazie liścieni."
+    },
+    {
+      "q": "Próg szkodliwości mątwika burakowego wynosi:",
+      "options": [
+        "5–8 osobników/m²",
+        "20% opanowanych roślin",
+        "15% zasiedlonych liści",
+        "500 jaj i larw/100 g gleby"
+      ],
+      "answer": 3,
+      "explain": "Próg dla mątwika burakowego to 500 jaj i larw/100 g gleby."
+    },
+    {
+      "q": "Do chorób kwarantannowych ziemniaka należy:",
+      "options": [
+        "alternarioza",
+        "zaraza ziemniaka",
+        "rak ziemniaka",
+        "rizoktonioza"
+      ],
+      "answer": 2,
+      "explain": "Choroby kwarantannowe to bakterioza pierścieniowa, śluzak i rak ziemniaka."
+    },
+    {
+      "q": "Zwalczanie wirusów ziemniaka (np. wirusa Y) polega na:",
+      "options": [
+        "oprysku fungicydem kontaktowym",
+        "zwalczaniu mszyc",
+        "wapnowaniu gleby",
+        "niszczeniu łęcin w lipcu"
+      ],
+      "answer": 1,
+      "explain": "Zwalczanie wirusów polega na zwalczaniu mszyc, które są nosicielami."
+    },
+    {
+      "q": "Chwasty w ziemniakach najskuteczniej niszczy się w fazie siewek, co pozwala zniszczyć:",
+      "options": [
+        "95–98% chwastów",
+        "20–30% chwastów",
+        "40–60% chwastów",
+        "70–75% chwastów"
+      ],
+      "answer": 0,
+      "explain": "W fazie siewek można zniszczyć 95–98% chwastów, w fazie wschodów tylko 40–60%."
+    },
+    {
+      "q": "Burak cukrowy osiąga dojrzałość technologiczną po:",
+      "options": [
+        "60–80 dniach",
+        "100–120 dniach",
+        "160–180 dniach od siewu",
+        "220–250 dniach"
+      ],
+      "answer": 2,
+      "explain": "Buraki w Polsce osiągają dojrzałość po 160–180 dniach wegetacji."
+    },
+    {
+      "q": "Pryzmy buraków w czasie przymrozków należy okryć:",
+      "options": [
+        "włókniną",
+        "folią",
+        "słomą",
+        "plandeką"
+      ],
+      "answer": 0,
+      "explain": "Do okrywania pryzm stosuje się włókninę; nie należy używać plandek, folii ani słomy."
+    },
+    {
+      "q": "Okrywę zimową kopca ziemniaków wykonuje się, gdy temperatura wewnątrz kopca spadnie do:",
+      "options": [
+        "10°C",
+        "0°C",
+        "–2°C",
+        "3°C"
+      ],
+      "answer": 3,
+      "explain": "Okrywę zimową wykonuje się, gdy temperatura w kopcu spadnie do 3°C."
+    },
+    {
+      "q": "Niszczenie łęcin ziemniaka wykonuje się przed zbiorem na:",
+      "options": [
+        "1–2 dni",
+        "1–3 tygodnie",
+        "6–8 tygodni",
+        "3 miesiące"
+      ],
+      "answer": 1,
+      "explain": "Łęciny niszczy się 1–3 tygodnie przed planowanym zbiorem."
+    },
+    {
+      "q": "Do kiedy sadzi się ziemniaki w północno-wschodniej Polsce?",
+      "options": [
+        "Do 20 kwietnia",
+        "Do 5 maja",
+        "Do 31 marca",
+        "Do 15 czerwca"
+      ],
+      "answer": 1,
+      "explain": "Najpóźniej ziemniaki sadzi się na północnym wschodzie – do 5 maja; na południowym zachodzie do 20 kwietnia."
+    },
+    {
+      "q": "Szkodnik na zdjęciu (chrząszcz i larwa) to:",
+      "options": [
+        "rolnica",
+        "stonka ziemniaczana",
+        "mszyca",
+        "drutowiec"
+      ],
+      "answer": 1,
+      "explain": "Stonka ziemniaczana – najgroźniejszy szkodnik ziemniaka obok rolnic i mszyc.",
+      "img": "img/ur5/stonka-ziemniaczana.jpg"
+    },
+    {
+      "q": "Ile azotu zaleca tabela 5.1 dla ziemniaka późnego uprawianego na oborniku przy plonie 30 t/ha?",
+      "options": [
+        "50 kg/ha",
+        "70 kg/ha",
+        "85 kg/ha",
+        "110 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Tab. 5.1: na oborniku 30 t – 50 N, 35 t – 70 N, 40 t – 90 N, 45 t – 110 N; bez obornika 30 t – 85 N."
+    },
+    {
+      "q": "Który herbicyd podano w tab. 5.5 do zwalczania przytulii czepnej w burakach?",
+      "options": [
+        "Goltix 700 SC",
+        "Lontrel 300 SL",
+        "Venzar 500 SC",
+        "Burakosat 500 SC"
+      ],
+      "answer": 3,
+      "explain": "Przytulia czepna – Burakosat 500 SC; komosa – Goltix; blekot/chaber/ostrożeń – Lontrel; psianka/tasznik – Venzar."
+    },
+    {
+      "q": "Jaka obsada pędów zalecana jest dla ziemniaków skrobiowych i sadzeniaków?",
+      "options": [
+        "100 tys./ha",
+        "200 tys./ha",
+        "300 tys./ha",
+        "400 tys./ha"
+      ],
+      "answer": 2,
+      "explain": "Tab. 5.4: 300 tys. pędów/ha – ziemniak skrobiowy i sadzeniaki; 100 i 200 tys. – przetwórstwo spożywcze."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobór potasu powoduje zgorzel liści sercowych buraków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zabiegi agrotechniczne wykonywane w przypadku uprawy ziemniaka na polach wolnych od perzu.",
+      "options": [
+        "Podorywka.",
+        "Nawożenie fosforowe.",
+        "Nawożenie organiczne (obornik).",
+        "Orka przedzimowa."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZiemniaki sadzimy na głębokość … cm.",
+      "options": [
+        "od 6 do 11",
+        "od 4 do 7"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż najważniejsze metody agrotechniczne stosowane w celu zapobiegania chorobom i szkodnikom oraz ograniczania ilości chwastów.",
+      "options": [
+        "Właściwe nawożenie.",
+        "Wczesny siew.",
+        "Mechaniczne zabiegi pielęgnacyjne.",
+        "Stosowanie właściwego zmianowania."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRizoktonioza i alternarioza to najgroźniejsze choroby bakteryjne buraków cukrowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zwalczania rolnic stosuje się zwiększone dawki preparatu Karate Zeon 050 CS.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW warunkach klimatycznych Polski, buraki osiągają dojrzałość po … dniach wegetacji, licząc od daty siewu.",
+      "options": [
+        "120",
+        "160–180"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku pojawienia się przymrozków pryzmy z burakami należy przykryć plandeką lub folią.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cele stosowania zabiegów agrotechnicznych w uprawie ziemniaków.",
+      "options": [
+        "Wniesienie nawozów mineralnych.",
+        "Równomierne rozmieszczenie nawozów organicznych.",
+        "Doprowadzenie gleby do wysokiej kultury.",
+        "Niszczenie perzu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMarchew i brukiew to bulwiaste rośliny okopowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo siewu buraków stosujemy nasiona o zdolności kiełkowania co najmniej 90%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż technologie uprawy ziemniaka.",
+      "options": [
+        "Zagonowa.",
+        "Precyzyjna.",
+        "Uproszczona.",
+        "Tradycyjna."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKorzystne warunki do siewu buraka są wtedy, gdy temperatura gleby na głębokości 5 cm wynosi minimum …°C.",
+      "options": [
+        "3",
+        "5"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPobudzenie ziemniaków polega na umieszczeniu sadzeniaków w pomieszczeniu i okryciu na … tygodnie przed sadzeniem.",
+      "options": [
+        "1-2",
+        "2-3"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co jest najlepszym przedplonem dla buraka?",
+      "options": [
+        "Kukurydza.",
+        "Ziemniaki.",
+        "Jęczmień.",
+        "Pszenica."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaz nawozy, których można użyć przed orką przedzimową w przypadku uprawy ziemniaka.",
+      "options": [
+        "Fosforowy.",
+        "Potasowy.",
+        "Obornik.",
+        "Kompost."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zwalczenia alternariozy powinno się zastosować chemiczne zaprawianie preparatem Tecto 450 FW.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBuraka nie powinno się uprawiać na tym samym polu częściej niż co ….",
+      "options": [
+        "2-3 lata",
+        "4-5 lat"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStonkę ziemniaczaną zwalczyć można za pomocą preparatu Pyton 60 WG.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLiściozwój ziemniaka i wirus Y to najgroźniejsze choroby … ziemniaków.",
+      "options": [
+        "wirusowe",
+        "bakteryjne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKorzystne warunki do siewu buraka są wtedy, gdy wilgotność w wierzchniej warstwie wynosi …%.",
+      "options": [
+        "12-16",
+        "8-9"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nawozy organiczne stosowane pod ziemniaki.",
+      "options": [
+        "Kompost.",
+        "Obornik.",
+        "Gnojowica.",
+        "Gnojówka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBuraki należy siać w rzędzie w odległości co … cm.",
+      "options": [
+        "18",
+        "7"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż choroby grzybowe liści buraków cukrowych.",
+      "options": [
+        "Rdza buraka.",
+        "Chwościk burakowy.",
+        "Brunatna plamistość liści.",
+        "Mączniak właściwy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zwalczania perzu właściwego w uprawie buraków cukrowych należy zastosować herbicyd o nazwie Lontrel 300 SL.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku uprawy ziemniaków na wczesny zbiór zabiegiem niezbędnym jest podkiełkowanie sadzeniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie występują rodzaje pielników?",
+      "options": [
+        "Palcowe.",
+        "Szczotkowo-palcowe.",
+        "Szczotkowe.",
+        "Wąsowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo sadzenia ziemniaków używamy ….",
+      "options": [
+        "rozdrabniacza bijakowego",
+        "sadzarek"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChwastnicę jednostronna zwalczymy stosując preparat Burakosat 500 SC.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż rośliny okopowe korzeniowe.",
+      "options": [
+        "Ziemniak.",
+        "Buraki pastewne.",
+        "Marchew.",
+        "Rzepa."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co powoduje niedobór potasu podczas uprawy buraków?",
+      "options": [
+        "Zmniejszenie odporności na choroby.",
+        "Zgorzel liści sercowych buraków.",
+        "Zmniejszenie odporności na szkodniki.",
+        "Obniżenie plonów."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChoroby grzybowe siewek zwalczane są przez dodanie do otoczki nasion fungicydów, np. Tachigaren 70 WP.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwalczanie czarnej nóżki odbywa się za pomocą starannie wykonywanych zabiegów agrotechnicznych, ponieważ nie ma skutecznych środków chemicznych do jej zwalczania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSusza i wysokie temperatury w lecie nie maja wpływu na plonowanie ziemniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPod uprawę ziemniaka przemysłowego można wykorzystać gnojowicę, którą stosuje się w ilości … m3/ha.",
+      "options": [
+        "15-20",
+        "50-60"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Kiedy należy zastosować nawozy fosforowe i potasowe w uprawie buraka?",
+      "options": [
+        "Wiosną.",
+        "Latem.",
+        "Zimą.",
+        "Jesienią."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJedną z mechanicznych metod zwalczania perzu jest metoda ….",
+      "options": [
+        "zmęczenia rozłogów perzu",
+        "zmrożenia rozłogów perzu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż możliwe zabiegi agrotechniczne wykonywane wiosną w przypadku uprawy ziemniaka.",
+      "options": [
+        "Wykonanie orki płytkiej.",
+        "Włókowanie.",
+        "Bronowanie.",
+        "Rozsianie nawozów azotowych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSiew nasion buraków wykonujemy za pomocą siewników precyzyjnych, zwanych ….",
+      "options": [
+        "miejscowymi",
+        "punktowymi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW uprawie ziemniaków zwalczanie chwastów herbicydami …, jak obsypywanie i bronowanie.",
+      "options": [
+        "powinno zastępować zabiegi mechaniczne",
+        "nie powinno zastępować zabiegów mechanicznych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajgroźniejsze szkodniki ziemniaków to stonka ziemniaczana i rolnice.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBuraki należy siać na głębokość … cm.",
+      "options": [
+        "2-3",
+        "9-10"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na czym polega przygotowanie nasion buraka do siewu?",
+      "options": [
+        "Inkrustowaniu.",
+        "Czyszczeniu.",
+        "Otoczkowaniu.",
+        "Sortowaniu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDawka gnojowicy w nawożeniu buraka nie powinna przekraczać … m3/ha.",
+      "options": [
+        "45",
+        "65"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zabiegi wykonywane w chemiczno-mechanicznej metodzie zwalczania perzu.",
+      "options": [
+        "Wykonanie orki przedzimowej.",
+        "Wyciągnięcie rozłogów perzu za pomocą kultywatora.",
+        "Nawożenie fosforem.",
+        "Opryskiwanie herbicydem."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż rośliny poplonowe przyorywane na zimę bądź wiosnę, stosowane jako alternatywa dla nawozów organicznych w uprawie ziemniaków.",
+      "options": [
+        "Gorczyca.",
+        "Seradela.",
+        "Wyka.",
+        "Łubin."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W celu uzyskania wczesnych zbiorów ziemniaków należy zastosować zabieg podkiełkowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż metody w technologii uprawy konserwującej buraka cukrowego.",
+      "options": [
+        "Siew nasion w mulcz ze słomy.",
+        "Wysiew bezpośredni w mulcz.",
+        "Bronowanie.",
+        "Siew w mulcz z międzyplonu."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie zabiegi wykonuje się w tradycyjnym systemie uprawy buraka wiosną?",
+      "options": [
+        "Bronowanie.",
+        "Włókowanie.",
+        "Doprawianie roli przed siewem agregatem uprawowym.",
+        "Nawożenie azotowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czym powinna charakteryzować się gleba przeznaczona do uprawy buraka?",
+      "options": [
+        "Głęboką warstwą próchniczą (min. 35 cm).",
+        "Dobrą strukturą.",
+        "Odczynem zbliżonym do obojętnego (pH 6,6–7,2).",
+        "Głęboka warstwą orną (30 cm)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co jest najlepszym przedplonem dla ziemniaka?",
+      "options": [
+        "Rzepak.",
+        "Zboża z wsiewką saradeli przyorywaną na zimę.",
+        "Strączkowe.",
+        "Motylkowate."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBurak posiada wysokie wymagania wodne szczególnie w lipcu i sierpniu, kiedy transpiruje wodę najintensywniej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTechnologia uprawy konserwującej w uprawie buraka cukrowego polega na wysiewie bezpośrednim w mulcz bez żadnych zabiegów uprawowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zwalczenia maruny bezwonnej należy zastosować preparat o nazwie Targa 10 EC.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż rodzaj działania fungicydów stosowanych do zwalczania chorób grzybowych w ziemniakach.",
+      "options": [
+        "Zewnętrzny.",
+        "Kontaktowy.",
+        "Wgłębny.",
+        "Systemiczny."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z chorób ziemniaka to choroby grzybowe?",
+      "options": [
+        "Czarna nóżka.",
+        "Zaraza ziemniaka.",
+        "Alternarioza.",
+        "Ryzoktonioza."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTopinambur to korzeniowa roślina okopowa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZiemniak należy do roślin wrażliwych na przymrozki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż niekorzystne przedplony dla buraka.",
+      "options": [
+        "Pszenica.",
+        "Kukurydza.",
+        "Ziemniaki.",
+        "Groch."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo zbioru buraka powinno się przystępować na początku września.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co stosuje się do przykrycia pryzmy z burakami w przypadku pojawienia się przymrozków?",
+      "options": [
+        "Folię.",
+        "Włókninę.",
+        "Słomę.",
+        "Plandekę."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiszczenie łęcin ziemniaka można wykonać mechanicznie za pomocą rozdrabniacza bijakowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż metody przechowywania ziemniaków.",
+      "options": [
+        "W kopcach.",
+        "Pod budynkami.",
+        "W piwnicach wolnostojących.",
+        "W przechowalniach."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZiemniaki w przechowalniach mogą leżeć w pryzmach o maksymalnej wysokości 90 cm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż choroby kwarantannowe ziemniaka.",
+      "options": [
+        "Bakterioza pierścieniowa.",
+        "Rak ziemniaka.",
+        "Śluzak.",
+        "Wirus Y."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajlepsze do uprawy ziemniaka są gleby gliniasto-piaszczyste lub słabogliniaste.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW warunkach klimatycznych Polski buraki osiągają dojrzałość po 80 dniach wegetacji, licząc od daty siewu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, którego herbicydu używa się do zwalczania komosy białej.",
+      "options": [
+        "Kosynier 420 SC.",
+        "Goltix 700 SC.",
+        "Venzar 500 SC.",
+        "Akord 180 OF."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLiściozwój ziemniaka i wirus Y to najgroźniejsze choroby bakteryjne ziemniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNie ma żadnych metod zwalczania chorób atakujących korzenie buraków cukrowych, gdyż pojawienie i ustąpienie zgnilizn zależy tylko od warunków pogodowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z fungicydów zwalczających alternariozę to fungicydy kontaktowe?",
+      "options": [
+        "Pyton 60 WG.",
+        "Armetil M 72 WP.",
+        "Gwarant 500 S.C.",
+        "Bravo 500 S.C."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLiściozwój ziemniaka to choroba bakteryjna ziemniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawie buraka cukrowego stosuje się mechaniczne zabiegi pielęgnacyjne w celu kruszenia skorupy gleby i niszczenia chwastów w międzyrzędziach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zabiegi pielęgnacyjne w uprawie ziemniaków.",
+      "options": [
+        "Obsypywanie.",
+        "Opryskiwanie pestycydami.",
+        "Użycie brony kolczastej.",
+        "Nawadnianie plantacji roślin okopowych."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawie ziemniaków do zwalczania chwastów jednoliściennych można zastosować preparat o nazwie Focus Ultra 100 EC.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przed jakimi szkodnikami chronione są buraki cukrowe za pomocą zapraw nasiennych Montur Forte i Force Magna?",
+      "options": [
+        "Larwami drutowców.",
+        "Śmietką ćwiklanką.",
+        "Drobnicą burakową.",
+        "Pchełką burakową."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzarna nóżka to grzybowa choroba ziemniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim celu stosuje się zabiegi pielęgnacyjne w ziemniakach?",
+      "options": [
+        "Prawidłowego uformowania redlin.",
+        "Niszczenia rozwijających się chwastów.",
+        "Zapewnienia ochrony przed szkodnikami.",
+        "Zachowania optymalnych właściwości fizycznych gleby."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż nawozy organiczne stosowane w nawożeniu buraka.",
+      "options": [
+        "Gnojowica.",
+        "Obornik.",
+        "Gnojówka.",
+        "Kompost."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo dolistnego dokarmiania ziemniaków azotem stosuje się wodny roztwór mocznika (5–6%).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,1355 +1,2117 @@
 {
- "id": "bhp1",
- "course": "Teoria BHP",
- "title": "Podstawowe pojęcia BHP, ppoż., ochrony środowiska i ergonomii",
- "number": "I",
- "notes": [
-  {
-   "heading": "1. Pojęcia związane z BHP — zakres bhp",
-   "points": [
-    "W zakres bhp wchodzą: techniki bezpieczeństwa pracy, podstawy higieny pracy, elementy fizjologii pracy, elementy socjologii pracy, elementy organizacji i ekonomiki pracy oraz podstawy ergonomii.",
-    "Higiena pracy — nauka o normach kształtowania zdrowych, higienicznych, nieuciążliwych i nieszkodliwych warunków pracy oraz zapobieganiu chorobom zawodowym.",
-    "Fizjologia pracy — badanie wpływu środowiska na organizm człowieka podczas wykonywania pracy.",
-    "Socjologia pracy — badanie wpływu środowiska i rodzaju pracy na stosunek pracownika do pracy i jego wydajność.",
-    "Organizacja i ekonomika pracy — dobór najwłaściwszych środków i warunków do osiągnięcia wyników pracy bez uszczerbku na zdrowiu.",
-    "Ergonomia — nauka o dostosowaniu pracy do właściwości psychicznych i możliwości fizycznych człowieka."
-   ]
-  },
-  {
-   "heading": "1. Pojęcia związane z BHP — zagrożenie, ryzyko, wypadek przy pracy",
-   "points": [
-    "Zagrożenie — zjawisko wywołane siłami natury bądź człowieka, przez które poczucie bezpieczeństwa maleje lub zanika; sytuacja grożąca wypadkiem.",
-    "System zapobiegania wypadkom polega przede wszystkim na wykrywaniu i usuwaniu zagrożeń, zanim wydarzy się wypadek.",
-    "Zagrożenie i ryzyko to dwa odrębne zjawiska (jak przyczyna i skutek): sople zwisające z dachu to zagrożenie, przechodzenie pod nimi to ryzyko.",
-    "Zdarzenie jest wypadkiem przy pracy tylko, gdy spełnia równocześnie wszystkie cztery warunki z definicji.",
-    "Uraz — uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego.",
-    "Na równi z wypadkiem przy pracy traktuje się m.in. wypadki w czasie: zadań zleconych przez organizacje związkowe, szkolenia z powszechnej samoobrony, podróży służbowej, pracy na umowie zlecenia/agencyjnej, sportu osoby ze stypendium sportowym, sprawowania mandatu posła lub senatora pobierającego uposażenie.",
-    "Rodzaje wypadków przy pracy określa art. 3 ust. 6 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.",
-    "Skutki wypadków przy pracy dzielą się na dwie kategorie: moralne i ekonomiczne."
-   ]
-  },
-  {
-   "heading": "1. Pojęcia związane z BHP — postępowanie powypadkowe i choroba zawodowa",
-   "points": [
-    "Obowiązki pracodawcy po wypadku: weryfikacja stanu faktycznego, ustalenie przyczyn, zapobieganie wypadkom na przyszłość, obowiązki informacyjne i ewidencyjne.",
-    "Postępowanie powypadkowe: powołanie zespołu powypadkowego, ustalenie przyczyn i skutków, ustalenie czy przyczyną były czynniki zewnętrzne czy wina pracownika, ustalenie osób odpowiedzialnych.",
-    "Protokół powypadkowy sporządza się w terminie 14 dni od daty wypadku; poszkodowany ma prawo zgłosić zastrzeżenia.",
-    "Kierownik zakładu zatwierdza protokół powypadkowy w terminie 5 dni od daty sporządzenia.",
-    "Choroba zawodowa — choroba z wykazu chorób zawodowych, spowodowana bezspornie lub z wysokim prawdopodobieństwem czynnikami szkodliwymi w środowisku pracy lub sposobem wykonywania pracy.",
-    "Podejrzenie choroby zawodowej zgłasza: pracodawca, lekarz, lekarz dentysta, pracownik lub były pracownik (zatrudniony — za pośrednictwem lekarza profilaktyka).",
-    "Zgłoszenie kieruje się do właściwego państwowego inspektora sanitarnego i właściwego inspektora pracy.",
-    "Stwierdzenie choroby zawodowej jest decyzją państwowego powiatowego inspektora sanitarnego."
-   ]
-  },
-  {
-   "heading": "1. Pojęcia związane z BHP — czynniki w środowisku pracy",
-   "points": [
-    "Według Polskich Norm wyróżnia się czynniki: niebezpieczne, szkodliwe i uciążliwe; czynnik uciążliwy może przekształcić się w szkodliwy, a szkodliwy w niebezpieczny.",
-    "Czynnik niebezpieczny — może prowadzić do urazu (wypadku przy pracy), np. czynniki mechaniczne (spadające materiały, praca na wysokości, śliskie powierzchnie, ruchome maszyny) i prąd elektryczny.",
-    "Czynnik szkodliwy — prowadzi lub może prowadzić do choroby zawodowej lub innego schorzenia związanego z pracą (hałas, drgania, pyły, azbest, benzen, promieniowanie, pole elektromagnetyczne 0 Hz — 300 GHz).",
-    "Pracodawcy mają obowiązek prowadzenia pomiarów czynników szkodliwych.",
-    "NDS — średnia ważona stężenia przy 8-godzinnym dobowym i przeciętnym tygodniowym wymiarze czasu pracy, bez ujemnych zmian zdrowia pracownika i przyszłych pokoleń.",
-    "NDSCH — stężenie chwilowe: nie dłużej niż 15 minut, nie częściej niż 2 razy na zmianę, w odstępie nie krótszym niż 1 godzina.",
-    "NDSP — stężenie pułapowe, które nie może być przekroczone w żadnym momencie.",
-    "Czynnik uciążliwy — powoduje złe samopoczucie lub nadmierne zmęczenie, bez trwałego pogorszenia zdrowia: mikroklimat, monotonia, obciążenie psychiczne, obciążenie statyczne, oświetlenie, wysiłek fizyczny.",
-    "Elementy mikroklimatu: temperatura, wilgotność względna powietrza i prędkość jego przepływu."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — zasady i obowiązki",
-   "points": [
-    "Ochrona przeciwpożarowa to ochrona życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem przez zapobieganie, zapewnienie sił i środków oraz działania ratownicze.",
-    "Podstawa prawna: Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 1991 r. Nr 81, poz. 351).",
-    "Odpowiedzialność za przestrzeganie przepisów bhp i ppoż. spoczywa na właścicielach firm lub ich zarządach.",
-    "Działania ppoż. dostosowuje się do rodzaju i zakresu działalności, liczby pracowników i innych osób, rodzaju i poziomu zagrożeń.",
-    "Art. 209¹ Kodeksu pracy (od 18 stycznia 2009 r.) nakłada obowiązek wyznaczenia pracownika do ochrony ppoż. i ewakuacji.",
-    "Informacja o wyznaczonej osobie: imię i nazwisko, miejsce pracy, numer telefonu lub innego środka komunikacji; osoba musi być przeszkolona.",
-    "Sprzęt ppoż. powinien posiadać aprobatę, certyfikaty ITB i/lub CNBOP.",
-    "Obiekty użyteczności publicznej i zbiorowego zamieszkania wymagają „Instrukcji bezpieczeństwa pożarowego”; wymagania ppoż. procesów technologicznych umieszcza się w „Instrukcji technologiczno-ruchowej”.",
-    "Szczególne wymagania co do palności elementów dotyczą dróg ewakuacji i pomieszczeń, w których może przebywać jednocześnie ponad 50 osób."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — przyczyny pożarów",
-   "points": [
-    "Najczęstsza przyczyna pożarów: nieostrożność oraz lekkomyślność ludzi.",
-    "Inne przyczyny: wady urządzeń elektrycznych, grzewczych i mechanicznych, wady procesów technologicznych, nieprawidłowe magazynowanie, samozapalenie, wyładowania elektryczne i atmosferyczne, elektryczność statyczna, podpalenia.",
-    "Przykłady nieostrożności z ogniem: porzucanie niewygaszonych papierosów, wypalanie traw i pozostałości po uprawach, palenie ognisk bez zasad bezpieczeństwa.",
-    "Wady instalacji elektrycznych: przeciążenie, prowizoryczne urządzenia, naprawa bezpieczników drutem, palne osłony punktów świetlnych.",
-    "Samozapaleniu ulegają materiały zaolejone (czyściwo) oraz niewłaściwie składowane wilgotne materiały: węgiel, siano, pasza, nawozy sztuczne.",
-    "Pożarom od wyładowań atmosferycznych zapobiega się tylko właściwie wykonanymi instalacjami odgromowymi (piorunochronnymi).",
-    "Elektryczności statycznej zapobiega się przez uziemianie maszyn, zbiorników i instalacji."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — spalanie i bezpieczeństwo pożarowe",
-   "points": [
-    "Spalanie — reakcja chemiczna materiału palnego z utleniaczem z wydzieleniem ciepła i światła; najpowszechniejszym utleniaczem jest tlen z powietrza.",
-    "Trzy typy zapoczątkowania spalania: zapłon (punktowy bodziec), samozapłon (ciągły bodziec), samozapalenie (przemiany w samym materiale).",
-    "Temperatura zapłonu: acetylen -20°C, benzyna lekka 24—38°C, ropa naftowa 20°C; temperatura samozapłonu: odpowiednio 350°C, 280°C, 482°C.",
-    "Łatwość samozapalenia zależy też od zdolności łączenia się paliwa z tlenem, wilgotności i stopnia rozdrobnienia.",
-    "Bierna (pasywna) ochrona ppoż. — prace budowlane zwiększające bezpieczeństwo i minimalizujące straty (ogniotrwałe dachy i ściany, strefy pożarowe, magazyny z dala od zabudowań).",
-    "Czynna (aktywna) ochrona ppoż. — zwiększa skuteczność działań w chwili pożaru: systemy tłumienia ognia, oddymiania, wentylacji pożarowej, alarmowe.",
-    "Podstawą systemów tłumienia ognia są instalacje tryskaczowe (zraszaczowe).",
-    "Elementy systemów alarmowych: czujniki dymu, ciepła i płomienia, sygnalizatory akustyczno-optyczne, systemy sygnalizacji pożarowej."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — klasy pożarów i sprzęt gaśniczy",
-   "points": [
-    "Grupy pożarów: A — ciała stałe, B — ciecze palne i substancje topiące się, C — gazy palne, D — metale, F — tłuszcze.",
-    "Wody nie używa się do: substancji reagujących z wodą (karbid), ciał o bardzo wysokiej temperaturze żaru, cieczy lżejszych od wody, urządzeń pod napięciem.",
-    "Piasek odcina dostęp tlenu; nie gasi się nim cieczy lżejszych od wody, precyzyjnych urządzeń mechanicznych ani urządzeń pod napięciem.",
-    "Hydronetka — ok. 15 litrów środka, ręczna pompka dwustronnego działania; najskuteczniej gasi małe pożary ciał stałych.",
-    "Gaśnica musi być czerwona, mieć etykietę i zawór samozamykalny; powyżej 3 kg środka — wąż nie krótszy niż 80% wysokości gaśnicy; gaz napędowy wyłącznie niepalny (azot, hel, argon).",
-    "Koc gaśniczy — z włókna szklanego, ok. 3 m², przykrywa się ogień od swojej strony; wielokrotnego użytku.",
-    "Agregat gaśniczy — ponad 20 kg środka, obsługa co najmniej 2 osób; chroni np. stacje benzynowe, lakiernie, hangary.",
-    "Kula gaśnicza — aktywacja w 3—10 sekund, gasi do 10 m²; sito kominowe — do gaszenia sadzy w kominie; hydranty: uliczne (nadziemne, podziemne) i wewnętrzne."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — postępowanie przy pożarze i ewakuacja",
-   "points": [
-    "Równocześnie z alarmowaniem należy gasić pożar dostępnym sprzętem i pomagać poszkodowanym.",
-    "Straż Pożarną wzywa się pod numer alarmowy 998.",
-    "Do przybycia straży akcją kieruje właściciel, zarządca, użytkownik lub osoba najbardziej energiczna i opanowana; potem Kierownik Akcji Ratowniczej.",
-    "W pierwszej kolejności ewakuuje się osoby z pomieszczeń objętych pożarem lub zagrożonych odcięciem.",
-    "Przy zadymieniu poruszać się w pozycji schylonej, zasłaniać usta mokrą chustką, iść wzdłuż ścian; po zadymionych schodach schodzić tyłem na czworakach.",
-    "Ewakuacja mienia nie może odbywać się kosztem ratowania ludzi.",
-    "Przy odciętej drodze ucieczki: zostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić mokrym materiałem, otworzyć okna i czekać przy oknie.",
-    "Ewakuowanych umieszcza się w bezpiecznej odległości od budynku, od strony zawietrznej."
-   ]
-  },
-  {
-   "heading": "2. Ochrona przeciwpożarowa — konsekwencje zaniedbań i PSP",
-   "points": [
-    "Konsekwencje zaniedbań ponosi właściciel firmy lub zarząd, niezależnie od wyznaczenia osoby odpowiedzialnej.",
-    "Art. 283 § 1 Kodeksu pracy — wykroczenie zagrożone grzywną od 100 zł do 30 000 zł.",
-    "Art. 163 § 1 pkt 1 Kodeksu karnego — kara pozbawienia wolności od roku do lat 12.",
-    "Inne skutki: straty materialne, odmowa wypłaty odszkodowania przez ubezpieczyciela, procesy sądowe ze strony poszkodowanych.",
-    "Kontrolę przestrzegania przepisów ppoż. prowadzą Państwowa Straż Pożarna i Państwowa Inspekcja Pracy; środki prawne wydaje Państwowa Straż Pożarna.",
-    "Zadania PSP: analiza zagrożeń, kontrole, wstępne ustalanie przyczyn pożarów, współpraca z wymiarem sprawiedliwości, postępowania administracyjne."
-   ]
-  },
-  {
-   "heading": "3. Ochrona środowiska — pojęcia i zanieczyszczenia powietrza",
-   "points": [
-    "Ochrona środowiska — całokształt działań (czasem zaniechań) na rzecz właściwego wykorzystania i odnawiania zasobów środowiska; nauka o ochronie środowiska to sozologia.",
-    "Podstawa prawna: ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska” (Dz. U. Nr 62, poz. 627 ze zm.).",
-    "Czynniki biotyczne — oddziaływanie żywych organizmów na inne; abiotyczne — natury fizycznej (gleba, klimat, temperatura, światło, ciśnienie itp.).",
-    "Źródła zanieczyszczeń: naturalne (np. wulkany) i sztuczne (antropogeniczne).",
-    "Najbardziej zanieczyszczają atmosferę: dwutlenek węgla, dwutlenek siarki, tlenki azotu i pyły; procesy spalania są głównym źródłem antropogenicznym.",
-    "Kwaśny deszcz zawiera kwas siarkowy i azotowy; smog — duże stężenie pyłów i gazów, głównie z motoryzacji i przemysłu.",
-    "Dziura ozonowa — spadek ozonu na wysokości 15—20 km, głównie nad biegunem południowym, ok. 3% na rok; główna przyczyna — freony.",
-    "Naturalny efekt cieplarniany podnosi temperaturę Ziemi o około 15°C.",
-    "Urządzenia oczyszczające powietrze: cyklony, filtry workowe, elektrofiltry, skrubery, odpylacze."
-   ]
-  },
-  {
-   "heading": "3. Ochrona środowiska — woda, gleba, spaliny",
-   "points": [
-    "Głównym źródłem zanieczyszczeń wody są ścieki; inne: transport, pestycydy i nawozy, odpady, eutrofizacja.",
-    "Eutrofizacja — wzbogacanie zbiorników wodnych w substancje pokarmowe, wzrost żyzności wód; przyspieszają ją ścieki i intensyfikacja rolnictwa (np. gnojówka).",
-    "Substancje refrakcyjne — zanieczyszczenia bardzo trwałe, trudno ulegające rozkładowi.",
-    "Podział zanieczyszczeń wody według trwałości: rozkładalne (ścieki domowe), nierozkładalne (sole metali ciężkich), trwałe (pestycydy, fenole, produkty destylacji ropy).",
-    "Według źródła: punktowe (kanalizacja), powierzchniowe/obszarowe (spływy z pól i lasów), liniowe/pasmowe (komunikacja, rurociągi).",
-    "Oczyszczanie ścieków: procesy fizyczne (cedzenie, sedymentacja, flotacja, filtracja), biologiczne i chemiczne.",
-    "Źródła zanieczyszczeń gleby: odpady, gazy i pyły przemysłowe, spaliny, nawozy sztuczne i środki ochrony roślin; skutki — m.in. spadek plonów.",
-    "EURO (I—VI) — europejskie normy emisji spalin dla nowych samochodów sprzedawanych w UE."
-   ]
-  },
-  {
-   "heading": "3. Ochrona środowiska — utylizacja, recykling, energia",
-   "points": [
-    "Utylizacja — przygotowanie do powtórnego wykorzystania (potocznie też zniszczenie) odpadów; najczęstszy sposób to spalanie.",
-    "Recykling ogranicza zużycie surowców naturalnych i ilość odpadów; definiuje go ustawa o odpadach z dnia 27 kwietnia 2001 roku (Dz. U. z 2001 r. Nr 62, poz. 628).",
-    "Kody recyklingowe tworzyw wprowadziło Society of the Plastics Industry Inc. (USA) w 1988 r.: trzy strzałki w trójkącie, liczba w środku, skrót polimeru pod spodem.",
-    "Biodegradacja — biochemiczny rozkład związków organicznych pod wpływem światła, tlenu, wody i organizmów; przyspieszona biodegradacja to kompostowanie.",
-    "W biologicznych oczyszczalniach rozkładowi może ulegać nawet 95% substancji szkodliwych.",
-    "Odnawialne źródła energii: woda, wiatr, słońce, energia geotermiczna, biogaz; ich udział nie przekroczy kilkunastu procent; wadą jest wysoki koszt w stosunku do mocy."
-   ]
-  },
-  {
-   "heading": "3. Ochrona środowiska — obowiązki pracodawcy, kontrole i kary",
-   "points": [
-    "Podmiotem korzystającym ze środowiska jest m.in. osoba prowadząca działalność wytwórczą w rolnictwie (uprawy, chów i hodowla zwierząt, ogrodnictwo, leśnictwo, rybactwo śródlądowe).",
-    "Pozwolenia wymagane są na: wprowadzanie gazów lub pyłów do powietrza, ścieków do wód lub ziemi, wytwarzanie odpadów.",
-    "Zezwolenie na zbieranie i transport odpadów wydaje starosta (ustawa o odpadach — art. 28).",
-    "Ewidencję korzystania ze środowiska aktualizuje się co pół roku.",
-    "Ewidencję odpadów prowadzi się na karcie ewidencji odpadu i karcie przekazania odpadu; nie dotyczy wytwórców odpadów komunalnych.",
-    "Opłata produktowa i depozytowa dotyczy m.in. opakowań oraz akumulatorów, baterii, olejów smarowych, lamp wyładowczych i opon.",
-    "Kontroli dokonuje Wojewódzki Inspektor Ochrony Środowiska; kontrola nie wcześniej niż po 7 dniach i nie później niż 30 dni od zawiadomienia, może trwać 28 dni.",
-    "Kary: 10-krotność jednostkowej stawki opłat (powietrze, pobór wód) lub 0,1 stawki za każdą dobę (naruszenia przy składowaniu i magazynowaniu odpadów).",
-    "Usunięcie drzew i krzewów wymaga zezwolenia wójta, burmistrza lub prezydenta miasta (dla zabytków — wojewódzkiego konserwatora zabytków); nie dotyczy drzew owocowych, plantacji i drzew do 5 lat.",
-    "Kara za zniszczenie drzew lub krzewów — trzykrotność opłaty za ich usunięcie."
-   ]
-  },
-  {
-   "heading": "4. Ergonomia — człowiek i środowisko pracy",
-   "points": [
-    "Stan zdrowia — stan względnej równowagi organizmu reagującego na zmienne bodźce środowiska.",
-    "Warunki zewnętrzne dzielą się na naturalne (np. pogodowo-klimatyczne) i sztuczne (stworzone przez człowieka, np. w produkcji).",
-    "Środowisko pracy — zespół czynników materialnych i społecznych, z którymi styka się pracownik podczas pracy.",
-    "Warunki pracy obejmują: higienę pracy, eliminację warunków szkodliwych, kształtowanie środowiska pracy, zapobieganie wypadkom, działalność socjalno-bytową.",
-    "Wpływ środowiska pracy: na poszczególne narządy oraz ogólny na ustrój (np. hałas działa też na układ nerwowy).",
-    "Trzy grupy czynników środowiska pracy: fizyczne, chemiczne, biologiczne.",
-    "Likwidacja lub ograniczenie czynników niebezpiecznych, szkodliwych i uciążliwych to podstawowy obowiązek pracodawcy.",
-    "Kolejność eliminacji zagrożeń: 1) eliminacja źródeł, 2) odsunięcie człowieka, 3) osłonięcie strefy narażenia, 4) ochrony osobiste, 5) dobór pracowników i organizacja pracy."
-   ]
-  },
-  {
-   "heading": "4. Ergonomia — rodzaje pracy i obciążenia",
-   "points": [
-    "Każda praca zawiera elementy wysiłku umysłowego i fizycznego; właściwiej mówić o pracy z przewagą wysiłku umysłowego lub fizycznego.",
-    "Mechanizacja zastępuje pracę ręczną pracą maszyn, ale jej nie eliminuje; automatyzacja zastępuje pracę fizyczną i umysłową maszynami działającymi na zasadzie samoregulacji.",
-    "Rodzaje obciążenia (kryterium fizjologiczne): fizyczne, psychiczne, nerwowe.",
-    "Praca statyczna — długotrwałe napięcie mięśni bez ruchu (stanie, siedzenie); długie stanie sprzyja obrzękom i żylakom.",
-    "Praca dynamiczna — izotoniczne skurcze mięśni i ruch ciała; jest korzystniejsza dla organizmu niż statyczna.",
-    "Faza beztlenowa trwająca 20—30 sekund powoduje tworzenie się kwasu mlekowego; białkomocz wysiłkowy pojawia się około pół godziny po wysiłku.",
-    "Najbardziej męczące pozycje: stojąca pochylona, siedząca ze skręceniem tułowia, nienaturalne położenie nóg, praca zbyt wysoko lub zbyt nisko."
-   ]
-  },
-  {
-   "heading": "4. Ergonomia — kierunki i stanowisko pracy",
-   "points": [
-    "Ergonomia — nauka o projektowaniu systemów pracy, produktów i środowiska zgodnie z fizycznymi i umysłowymi możliwościami człowieka.",
-    "Ergonomia koncepcyjna (projektowa) — optymalizacja układu człowiek — technika — środowisko na etapie projektowania; powinna być dominująca.",
-    "Ergonomia korekcyjna — realizowana w istniejącym miejscu pracy (np. poprawa mikroklimatu, wyciszenie hałasu, zamiana pozycji stojącej na siedzącą); ograniczają ją możliwości techniczne i względy ekonomiczne.",
-    "Kryteria antropometryczne: stanowisko dostosowane do co najmniej 90% użytkowników (między 5. a 95. centylem).",
-    "Kryterium biomechaniczne: pozycja przy pracy, czas pracy i częstotliwość czynności.",
-    "Zasięgi rąk: normalny (strefa optymalna), maksymalny, wymuszony (wymaga ruchów tułowia).",
-    "Antropometria — pomiary porównawcze części ciała; Alphonse Bertillon opracował system 11 pomiarów."
-   ]
-  },
-  {
-   "heading": "4. Ergonomia — barwy i znaki bezpieczeństwa",
-   "points": [
-    "Cechy barw: kolor, jasność, nasycenie.",
-    "Czerwona — kategoryczny zakaz; oznacza się nią urządzenia przeciwpożarowe i wyłączniki awaryjne.",
-    "Żółta — ostrzeżenie przed niebezpieczeństwem; często w zestawieniu z czarną (pasy żółto-czarne).",
-    "Zielona — miejsca i przejścia bezpieczne, wyjścia awaryjne, punkty pierwszej pomocy.",
-    "Niebieska — nakaz (np. stosowania środków ochrony osobistej), barwa informacyjna.",
-    "Znaczenie ma nie tylko barwa, ale i kształt znaku; barw systemu nie wolno używać do innych celów.",
-    "Nowi pracownicy poznają system barw i znaków podczas szkolenia wstępnego.",
-    "Wzrok najczęściej zatrzymuje się w lewej górnej ćwiartce; górna część tablicy skupia 75% punktów fiksacji, dolna 25%."
-   ]
-  }
- ],
- "flashcards": [
-  {
-   "front": "Zakres bhp — z czego się składa?",
-   "back": "Techniki bezpieczeństwa pracy, podstawy higieny pracy, elementy fizjologii, socjologii, organizacji i ekonomiki pracy oraz podstawy ergonomii."
-  },
-  {
-   "front": "Higiena pracy",
-   "back": "Nauka zajmująca się określaniem norm kształtowania zdrowych, higienicznych, nieuciążliwych i nieszkodliwych warunków pracy oraz zapobieganiem chorobom zawodowym."
-  },
-  {
-   "front": "Fizjologia pracy",
-   "back": "Badanie wpływu środowiska na organizm człowieka podczas wykonywania przez niego pracy."
-  },
-  {
-   "front": "Zagrożenie",
-   "back": "Zjawisko wywołane działaniem sił natury bądź człowieka, które powoduje, że poczucie bezpieczeństwa maleje lub zanika; sytuacja grożąca wypadkiem."
-  },
-  {
-   "front": "Czym różni się zagrożenie od ryzyka?",
-   "back": "To dwa odrębne zjawiska (jak przyczyna i skutek). Np. zwisające sople to zagrożenie, a przechodzenie pod nimi to ryzyko."
-  },
-  {
-   "front": "Ile warunków musi spełnić zdarzenie, by było wypadkiem przy pracy?",
-   "back": "Wszystkie cztery warunki podane w definicji — równocześnie."
-  },
-  {
-   "front": "Uraz",
-   "back": "Uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego."
-  },
-  {
-   "front": "Wypadek traktowany na równi z wypadkiem przy pracy — przykłady",
-   "back": "Wypadek w czasie: zadań zleconych przez organizacje związkowe, szkolenia z powszechnej samoobrony, podróży służbowej, pracy na umowie zlecenia lub agencyjnej, odbywania zastępczych form służby wojskowej."
-  },
-  {
-   "front": "Jaka ustawa określa rodzaje wypadków przy pracy?",
-   "back": "Art. 3 ust. 6 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych."
-  },
-  {
-   "front": "Obowiązki pracodawcy po wypadku przy pracy — zakres",
-   "back": "Weryfikacja stanu faktycznego, ustalenie przyczyn wypadku, zapobieganie wypadkom na przyszłość oraz obowiązki informacyjne i ewidencyjne."
-  },
-  {
-   "front": "Pierwsza czynność postępowania powypadkowego",
-   "back": "Powołanie zespołu powypadkowego."
-  },
-  {
-   "front": "Termin sporządzenia protokołu powypadkowego",
-   "back": "14 dni od daty wypadku."
-  },
-  {
-   "front": "Termin zatwierdzenia protokołu powypadkowego",
-   "back": "5 dni od daty sporządzenia; zatwierdza go kierownik zakładu."
-  },
-  {
-   "front": "Kategorie skutków wypadków przy pracy",
-   "back": "Moralne i ekonomiczne."
-  },
-  {
-   "front": "Choroba zawodowa",
-   "back": "Choroba z wykazu chorób zawodowych, spowodowana (bezspornie lub z wysokim prawdopodobieństwem) czynnikami szkodliwymi w środowisku pracy lub sposobem wykonywania pracy."
-  },
-  {
-   "front": "Kto zgłasza podejrzenie choroby zawodowej?",
-   "back": "Pracodawca, lekarz, lekarz dentysta oraz pracownik lub były pracownik (pracownik zatrudniony — za pośrednictwem lekarza profilaktyka)."
-  },
-  {
-   "front": "Do kogo zgłasza się podejrzenie choroby zawodowej?",
-   "back": "Do właściwego państwowego inspektora sanitarnego i właściwego inspektora pracy."
-  },
-  {
-   "front": "Kto wydaje decyzję o stwierdzeniu choroby zawodowej?",
-   "back": "Państwowy powiatowy inspektor sanitarny."
-  },
-  {
-   "front": "Trzy rodzaje czynników w środowisku pracy (wg Polskich Norm)",
-   "back": "Niebezpieczne, szkodliwe i uciążliwe."
-  },
-  {
-   "front": "Czynnik niebezpieczny",
-   "back": "Czynnik, który może prowadzić do powstania u pracującego urazu (wypadku przy pracy), np. czynniki mechaniczne, prąd elektryczny."
-  },
-  {
-   "front": "Czynnik szkodliwy",
-   "back": "Czynnik, którego oddziaływanie prowadzi lub może prowadzić do choroby zawodowej lub innego schorzenia związanego z pracą."
-  },
-  {
-   "front": "Przykłady czynników szkodliwych",
-   "back": "Hałas, drgania mechaniczne, pyły (np. drewna, mąki), pyły z azbestem, benzen, mikroklimat zimny i gorący, promieniowanie laserowe, pole elektromagnetyczne 0 Hz — 300 GHz."
-  },
-  {
-   "front": "NDS",
-   "back": "Najwyższe Dopuszczalne Stężenie — średnia ważona stężenia przy 8-godzinnym dobowym i przeciętnym tygodniowym czasie pracy, niepowodująca ujemnych zmian zdrowia pracownika i przyszłych pokoleń."
-  },
-  {
-   "front": "NDSCH",
-   "back": "Najwyższe Dopuszczalne Stężenie Chwilowe — nie powinno szkodzić, jeśli występuje nie dłużej niż 15 minut, nie częściej niż 2 razy na zmianę, w odstępie min. 1 godziny."
-  },
-  {
-   "front": "NDSP",
-   "back": "Najwyższe Dopuszczalne Stężenie Pułapowe — wartość, która ze względu na zagrożenie zdrowia lub życia nie może być przekroczona w żadnym momencie."
-  },
-  {
-   "front": "Czynnik uciążliwy",
-   "back": "Czynnik powodujący złe samopoczucie lub nadmierne zmęczenie, który nie prowadzi do trwałego pogorszenia zdrowia, ale może obniżać wydajność."
-  },
-  {
-   "front": "Główne czynniki uciążliwe",
-   "back": "Mikroklimat, monotonia, obciążenie psychiczne, obciążenie statyczne, oświetlenie, wysiłek fizyczny."
-  },
-  {
-   "front": "Elementy mikroklimatu",
-   "back": "Temperatura, wilgotność względna powietrza oraz prędkość jego przepływu."
-  },
-  {
-   "front": "Ochrona przeciwpożarowa — definicja",
-   "back": "Realizacja przedsięwzięć chroniących życie, zdrowie, mienie lub środowisko przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem."
-  },
-  {
-   "front": "Ustawa o ochronie przeciwpożarowej — data",
-   "back": "Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 1991 r. Nr 81, poz. 351)."
-  },
-  {
-   "front": "Kto odpowiada za stan bhp i ppoż. w zakładzie?",
-   "back": "Pracodawca — właściciel firmy lub jej zarząd."
-  },
-  {
-   "front": "Art. 209¹ Kodeksu pracy",
-   "back": "Od 18 stycznia 2009 r. nakłada na pracodawcę obowiązek wyznaczenia pracownika do ochrony przeciwpożarowej i ewakuacji."
-  },
-  {
-   "front": "Co powinna zawierać informacja o osobie od pierwszej pomocy, ewakuacji i ppoż.?",
-   "back": "Imię i nazwisko, miejsce wykonywania pracy oraz numer telefonu lub innego środka komunikacji elektronicznej."
-  },
-  {
-   "front": "Certyfikaty ITB",
-   "back": "Certyfikaty Instytutu Techniki Budowlanej — dla wyrobów i usług budowlanych, zakładowej kontroli produkcji, systemów zarządzania, kompetencji personelu."
-  },
-  {
-   "front": "CNBOP",
-   "back": "Centrum Naukowo-Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego — bada i certyfikuje wyroby ppoż. oraz wydaje opinie i ekspertyzy."
-  },
-  {
-   "front": "Najczęstsza przyczyna pożarów",
-   "back": "Nieostrożność oraz lekkomyślność ludzi."
-  },
-  {
-   "front": "Samozapalenie — jakie materiały?",
-   "back": "Materiały zaolejone (np. czyściwo w skrzyni) oraz niewłaściwie składowane wilgotne: węgiel, siano, pasza, nawozy sztuczne."
-  },
-  {
-   "front": "Jak zapobiegać pożarom od piorunów?",
-   "back": "Tylko przez właściwie wykonane instalacje odgromowe (piorunochronne)."
-  },
-  {
-   "front": "Jak zapobiegać elektryczności statycznej?",
-   "back": "Przez uziemianie maszyn, zbiorników i instalacji."
-  },
-  {
-   "front": "Spalanie",
-   "back": "Reakcja chemiczna między materiałem palnym a utleniaczem z wydzieleniem ciepła i światła."
-  },
-  {
-   "front": "Zapłon a samozapłon",
-   "back": "Zapłon wymaga punktowego bodźca (zapałka, iskra), samozapłon — ciągłego bodźca energetycznego (np. strumień ciepła)."
-  },
-  {
-   "front": "Temperatura zapłonu",
-   "back": "Temperatura, do jakiej należy wstępnie ogrzać paliwo, aby wywołać jego zapalenie."
-  },
-  {
-   "front": "Temperatura samozapłonu",
-   "back": "Temperatura powodująca samorzutne zapoczątkowanie spalania materiałów samozapalnych."
-  },
-  {
-   "front": "Bezpieczeństwo pożarowe",
-   "back": "Stan eliminujący zagrożenie dla życia i zdrowia ludzi, uzyskiwany przez system norm prawnych, techniczne środki zabezpieczenia i działania zapobiegawcze."
-  },
-  {
-   "front": "Bierna ochrona przeciwpożarowa",
-   "back": "Pasywna — prace budowlane zwiększające bezpieczeństwo i minimalizujące straty w razie pożaru (np. ognioodporne ściany, strefy pożarowe)."
-  },
-  {
-   "front": "Czynna ochrona przeciwpożarowa",
-   "back": "Aktywna — rozwiązania zwiększające skuteczność działań w chwili pożaru: systemy tłumienia, oddymiania, wentylacji pożarowej, alarmowe."
-  },
-  {
-   "front": "Podstawa systemów tłumienia ognia",
-   "back": "Instalacje tryskaczowe (zraszaczowe)."
-  },
-  {
-   "front": "Pożar grupy A",
-   "back": "Pożar ciał stałych."
-  },
-  {
-   "front": "Pożar grupy B",
-   "back": "Pożar cieczy palnych i substancji topiących się pod wpływem ciepła."
-  },
-  {
-   "front": "Pożar grupy C",
-   "back": "Pożar gazów palnych."
-  },
-  {
-   "front": "Pożar grupy D",
-   "back": "Pożar metali."
-  },
-  {
-   "front": "Pożar grupy F",
-   "back": "Pożar tłuszczów."
-  },
-  {
-   "front": "Czego nie gasić wodą?",
-   "back": "Substancji reagujących z wodą (karbid), ciał o bardzo wysokiej temperaturze żaru, cieczy lżejszych od wody, urządzeń pod napięciem."
-  },
-  {
-   "front": "Jak działa piasek jako środek gaśniczy?",
-   "back": "Odcina dostęp tlenu do palącego się materiału i zapobiega rozbryzgom."
-  },
-  {
-   "front": "Hydronetka",
-   "back": "Przenośny sprzęt z ręczną pompką dwustronnego działania, ok. 15 litrów wody lub piany; najlepsza do małych pożarów ciał stałych."
-  },
-  {
-   "front": "Wymogi dla gaśnicy",
-   "back": "Kolor czerwony, etykieta, zawór samozamykalny, uruchamianie bez odwracania; gaz napędowy wyłącznie niepalny (azot, hel, argon)."
-  },
-  {
-   "front": "Wąż gaśnicy — kiedy i jak długi?",
-   "back": "Gaśnice z ponad 3 kg środka muszą mieć wąż o długości nie mniejszej niż 80% wysokości gaśnicy."
-  },
-  {
-   "front": "Koc gaśniczy",
-   "back": "Z włókna szklanego, ok. 3 m²; odcina dopływ powietrza. Przykrywa się ogień od swojej strony; nadaje się do gaszenia ubrania."
-  },
-  {
-   "front": "Agregat gaśniczy",
-   "back": "Sprzęt z ponad 20 kg środka gaśniczego, obsługiwany przez co najmniej 2 osoby; chroni np. stacje benzynowe, lakiernie, hangary."
-  },
-  {
-   "front": "Kula gaśnicza",
-   "back": "Proszek w styropianowej kuli z ładunkiem wybuchowym; aktywacja w 3—10 sekund, gasi do 10 m²."
-  },
-  {
-   "front": "Sito kominowe",
-   "back": "Podręczny sprzęt do gaszenia pożarów sadzy w przewodach kominowych."
-  },
-  {
-   "front": "Hydrant",
-   "back": "Urządzenie do bezpośredniego poboru wody z sieci wodociągowej; uliczne (nadziemne, podziemne) lub wewnętrzne."
-  },
-  {
-   "front": "Numer alarmowy Straży Pożarnej",
-   "back": "998."
-  },
-  {
-   "front": "Kto kieruje akcją po przybyciu Straży Pożarnej?",
-   "back": "Kierownik Akcji Ratowniczej — może żądać pomocy od instytucji, organizacji i obywateli."
-  },
-  {
-   "front": "Jak poruszać się przy silnym zadymieniu?",
-   "back": "W pozycji schylonej, z ustami zasłoniętymi mokrą chustką, wzdłuż ścian; po zadymionych schodach — tyłem na czworakach."
-  },
-  {
-   "front": "Co zrobić, gdy dym odciął drogę ucieczki?",
-   "back": "Zostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić je czymś mokrym, otworzyć okna i czekać na pomoc przy oknie."
-  },
-  {
-   "front": "Kara z art. 283 § 1 Kodeksu pracy",
-   "back": "Grzywna od 100 zł do 30 000 zł za wykroczenie przeciwko przepisom bhp."
-  },
-  {
-   "front": "Kara z art. 163 § 1 pkt 1 Kodeksu karnego",
-   "back": "Pozbawienie wolności od roku do lat 12."
-  },
-  {
-   "front": "Instytucje kontrolujące przepisy ppoż.",
-   "back": "Państwowa Straż Pożarna i Państwowa Inspekcja Pracy (środki prawne wydaje PSP)."
-  },
-  {
-   "front": "Ochrona środowiska — definicja",
-   "back": "Całokształt działań (czasem zaniechań) służących właściwemu wykorzystaniu i odnawianiu zasobów i składników środowiska."
-  },
-  {
-   "front": "Sozologia",
-   "back": "Nauka o ochronie środowiska."
-  },
-  {
-   "front": "Prawo ochrony środowiska — data ustawy",
-   "back": "Ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska” (Dz. U. Nr 62, poz. 627 ze zm.)."
-  },
-  {
-   "front": "Czynniki biotyczne",
-   "back": "Czynniki ekologiczne polegające na oddziaływaniu żywych organizmów na inne organizmy; regulują rozmieszczenie i liczebność populacji."
-  },
-  {
-   "front": "Czynniki abiotyczne",
-   "back": "Czynniki natury fizycznej (przyroda nieożywiona), np. typ gleby, klimat, temperatura, światło, ciśnienie atmosferyczne."
-  },
-  {
-   "front": "Zanieczyszczenie środowiska",
-   "back": "Wprowadzanie do powietrza, wody lub gruntu substancji lub energii w ilościach mogących szkodzić zdrowiu, przyrodzie, klimatowi, glebie lub wodzie."
-  },
-  {
-   "front": "Główne zanieczyszczenia atmosfery",
-   "back": "Dwutlenek węgla, dwutlenek siarki, tlenki azotu i pyły."
-  },
-  {
-   "front": "Kwaśny deszcz",
-   "back": "Opad o niskim pH zawierający kwas siarkowy i azotowy; zakwasza wody, niszczy florę, faunę, glebę i zabytki."
-  },
-  {
-   "front": "Smog",
-   "back": "Zanieczyszczone powietrze o dużym stężeniu pyłów i toksycznych gazów, głównie z motoryzacji i przemysłu."
-  },
-  {
-   "front": "Dziura ozonowa",
-   "back": "Spadek zawartości ozonu na wysokości 15—20 km, głównie nad biegunem południowym; główną rolę odgrywają freony."
-  },
-  {
-   "front": "Efekt cieplarniany",
-   "back": "Wzrost temperatury planety wywołany gazami cieplarnianymi; naturalny efekt podnosi temperaturę Ziemi o około 15°C."
-  },
-  {
-   "front": "Główne źródło zanieczyszczeń wody",
-   "back": "Ścieki."
-  },
-  {
-   "front": "Eutrofizacja",
-   "back": "Wzbogacanie zbiorników wodnych w substancje pokarmowe, prowadzące do wzrostu żyzności wód; przyspieszana m.in. przez rolnictwo i gnojówkę."
-  },
-  {
-   "front": "Substancje refrakcyjne",
-   "back": "Zanieczyszczenia bardzo trwałe w wodzie, trudno ulegające chemicznym i biochemicznym procesom rozkładu."
-  },
-  {
-   "front": "Oczyszczanie ścieków — procesy fizyczne",
-   "back": "Cedzenie, sedymentacja, flotacja i filtracja — usuwanie stałych zanieczyszczeń."
-  },
-  {
-   "front": "Normy EURO",
-   "back": "Europejskie standardy dopuszczalnej emisji spalin (I—VI) dla nowych samochodów sprzedawanych w UE."
-  },
-  {
-   "front": "Utylizacja",
-   "back": "Przygotowanie do powtórnego wykorzystania (potocznie też zniszczenie) odpadów lub materiałów bez wartości użytkowej; najczęściej przez spalanie."
-  },
-  {
-   "front": "Recykling",
-   "back": "Odzysk polegający na powtórnym przetwarzaniu substancji z odpadów w celu uzyskania materiału o przeznaczeniu pierwotnym lub innym (z wyjątkiem odzysku energii)."
-  },
-  {
-   "front": "Kody recyklingowe — kto i kiedy?",
-   "back": "Society of the Plastics Industry Inc. (USA) w 1988 r."
-  },
-  {
-   "front": "Biodegradacja",
-   "back": "Biochemiczny rozkład związków organicznych na prostsze pod wpływem światła, tlenu, wody i organizmów żywych."
-  },
-  {
-   "front": "Na co pracodawca potrzebuje pozwoleń środowiskowych?",
-   "back": "Na wprowadzanie gazów lub pyłów do powietrza, ścieków do wód lub ziemi oraz na wytwarzanie odpadów."
-  },
-  {
-   "front": "Kto wydaje zezwolenie na zbieranie i transport odpadów?",
-   "back": "Starosta (ustawa o odpadach — art. 28)."
-  },
-  {
-   "front": "Jak często aktualizuje się ewidencję korzystania ze środowiska?",
-   "back": "Co pół roku."
-  },
-  {
-   "front": "Dokumenty ewidencji odpadów",
-   "back": "Karta ewidencji odpadu (dla każdego rodzaju osobno) i karta przekazania odpadu."
-  },
-  {
-   "front": "Kto kontroluje i karze pracodawców w ochronie środowiska?",
-   "back": "Wojewódzki Inspektor Ochrony Środowiska."
-  },
-  {
-   "front": "Terminy kontroli inspekcji ochrony środowiska",
-   "back": "Nie wcześniej niż po 7 dniach i nie później niż po 30 dniach od doręczenia zawiadomienia; kontrola może trwać 28 dni."
-  },
-  {
-   "front": "Kto zezwala na usunięcie drzew i krzewów?",
-   "back": "Wójt, burmistrz albo prezydent miasta; dla nieruchomości w rejestrze zabytków — wojewódzki konserwator zabytków."
-  },
-  {
-   "front": "Kiedy nie trzeba zezwolenia na usunięcie drzew?",
-   "back": "M.in. dla drzew i krzewów owocowych, na plantacjach oraz w wieku do 5 lat."
-  },
-  {
-   "front": "Kara za zniszczenie drzew lub krzewów",
-   "back": "Trzykrotność opłaty za ich usunięcie."
-  },
-  {
-   "front": "Środowisko pracy",
-   "back": "Zespół czynników materialnych i społecznych, z którymi styka się pracownik podczas wykonywanej pracy."
-  },
-  {
-   "front": "Trzy grupy czynników środowiska pracy",
-   "back": "Fizyczne, chemiczne i biologiczne."
-  },
-  {
-   "front": "Podstawowy obowiązek pracodawcy wobec czynników zagrożeń",
-   "back": "Likwidacja lub ograniczenie oddziaływania czynników niebezpiecznych, szkodliwych i uciążliwych."
-  },
-  {
-   "front": "Mechanizacja",
-   "back": "Zastępowanie pracy ręcznej pracą maszyn; nie eliminuje pracy ręcznej, a jedynie ją ogranicza."
-  },
-  {
-   "front": "Automatyzacja",
-   "back": "Zastępowanie pracy fizycznej i umysłowej maszynami działającymi na zasadzie samoregulacji, bez udziału człowieka."
-  },
-  {
-   "front": "Rodzaje obciążenia pracą",
-   "back": "Fizyczne (praca mięśniowa), psychiczne (uwaga i myślenie), nerwowe (warunki pracy)."
-  },
-  {
-   "front": "Praca statyczna",
-   "back": "Praca, w której mięśnie są w długotrwałym napięciu bez widocznego ruchu (stanie, siedzenie); szybciej męczy."
-  },
-  {
-   "front": "Praca dynamiczna",
-   "back": "Praca w ruchu z izotonicznymi skurczami i rozkurczami mięśni; korzystniejsza dla organizmu niż statyczna."
-  },
-  {
-   "front": "Ergonomia",
-   "back": "Nauka o projektowaniu systemów pracy, produktów i środowiska zgodnie z fizycznymi i umysłowymi możliwościami człowieka."
-  },
-  {
-   "front": "Ergonomia koncepcyjna",
-   "back": "Projektowa — optymalizacja układu człowiek — technika — środowisko na etapie projektowania."
-  },
-  {
-   "front": "Ergonomia korekcyjna",
-   "back": "Realizowana w istniejącym miejscu pracy, np. poprawa oświetlenia czy wyciszenie hałasu; ograniczona technicznie i ekonomicznie."
-  },
-  {
-   "front": "Kryterium antropometryczne stanowiska",
-   "back": "Stanowisko dostosowane do co najmniej 90% użytkowników — między 5. a 95. centylem."
-  },
-  {
-   "front": "Antropometria",
-   "back": "Metoda pomiarów porównawczych części ciała ludzkiego (długość kości, proporcje, waga, rozstaw oczu)."
-  },
-  {
-   "front": "Barwa czerwona w bhp",
-   "back": "Kategoryczny zakaz; oznacza urządzenia przeciwpożarowe i wyłączniki awaryjne."
-  },
-  {
-   "front": "Barwa żółta w bhp",
-   "back": "Ostrzeżenie przed niebezpieczeństwem; często w żółto-czarne pasy."
-  },
-  {
-   "front": "Barwa zielona w bhp",
-   "back": "Stan bezpieczeństwa — drogi ewakuacyjne, wyjścia awaryjne, punkty pierwszej pomocy."
-  },
-  {
-   "front": "Barwa niebieska w bhp",
-   "back": "Nakaz, np. stosowania środków ochrony osobistej; barwa informacyjna."
-  },
-  {
-   "front": "Gdzie umieszczać najważniejsze informacje na tablicy?",
-   "back": "W górnej części, z nastawieniem na lewą stronę — górna część skupia 75% punktów fiksacji wzroku."
-  }
- ],
- "quiz": [
-  {
-   "q": "W jakim terminie od daty wypadku należy sporządzić protokół powypadkowy?",
-   "options": [
-    "30 dni",
-    "7 dni",
-    "14 dni",
-    "5 dni"
-   ],
-   "answer": 2,
-   "explain": "Protokół powypadkowy sporządza się w terminie 14 dni od daty wypadku."
-  },
-  {
-   "q": "W jakim terminie kierownik zakładu zatwierdza protokół powypadkowy?",
-   "options": [
-    "7 dni od daty sporządzenia",
-    "5 dni od daty sporządzenia",
-    "14 dni od daty wypadku",
-    "30 dni od daty wypadku"
-   ],
-   "answer": 1,
-   "explain": "Protokół zatwierdza kierownik zakładu w terminie 5 dni od daty sporządzenia."
-  },
-  {
-   "q": "Kto wydaje decyzję o stwierdzeniu choroby zawodowej?",
-   "options": [
-    "Lekarz medycyny pracy",
-    "Okręgowy inspektor pracy",
-    "Państwowy powiatowy inspektor sanitarny",
-    "Pracodawca"
-   ],
-   "answer": 2,
-   "explain": "Stwierdzenie choroby zawodowej jest decyzją państwowego powiatowego inspektora sanitarnego."
-  },
-  {
-   "q": "Do kogo zgłasza się podejrzenie choroby zawodowej?",
-   "options": [
-    "Do Państwowej Straży Pożarnej",
-    "Do państwowego inspektora sanitarnego i inspektora pracy",
-    "Do starosty",
-    "Do ZUS i KRUS"
-   ],
-   "answer": 1,
-   "explain": "Zgłoszenia dokonuje się do właściwego państwowego inspektora sanitarnego oraz właściwego inspektora pracy."
-  },
-  {
-   "q": "Ile warunków z definicji musi spełnić zdarzenie, aby uznać je za wypadek przy pracy?",
-   "options": [
-    "Co najmniej dwa",
-    "Jeden dowolny",
-    "Trzy z czterech",
-    "Wszystkie cztery równocześnie"
-   ],
-   "answer": 3,
-   "explain": "Zdarzenie jest wypadkiem przy pracy tylko, gdy spełnia równocześnie wszystkie cztery warunki."
-  },
-  {
-   "q": "Uraz to:",
-   "options": [
-    "nadmierne zmęczenie pracownika",
-    "choroba z wykazu chorób zawodowych",
-    "uszkodzenie tkanek lub narządów wskutek działania czynnika zewnętrznego",
-    "każde złe samopoczucie w pracy"
-   ],
-   "answer": 2,
-   "explain": "Urazem jest uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego."
-  },
-  {
-   "q": "Zwisające z dachu sople w materiale są przykładem:",
-   "options": [
-    "ryzyka",
-    "zagrożenia",
-    "czynnika uciążliwego",
-    "wypadku przy pracy"
-   ],
-   "answer": 1,
-   "explain": "Sople to zagrożenie, a przebywanie pod nimi to ryzyko."
-  },
-  {
-   "q": "Czynnik, który może prowadzić do urazu (wypadku przy pracy), to czynnik:",
-   "options": [
-    "szkodliwy",
-    "biotyczny",
-    "niebezpieczny",
-    "uciążliwy"
-   ],
-   "answer": 2,
-   "explain": "Czynnik niebezpieczny może prowadzić do powstania urazu."
-  },
-  {
-   "q": "Czynnik, który prowadzi lub może prowadzić do choroby zawodowej, to czynnik:",
-   "options": [
-    "abiotyczny",
-    "niebezpieczny",
-    "szkodliwy",
-    "uciążliwy"
-   ],
-   "answer": 2,
-   "explain": "Czynniki szkodliwe prowadzą lub mogą prowadzić do choroby zawodowej lub innego schorzenia."
-  },
-  {
-   "q": "Który z wymienionych jest czynnikiem uciążliwym według materiału?",
-   "options": [
-    "Spadające materiały",
-    "Monotonia",
-    "Prąd elektryczny",
-    "Pył zawierający azbest"
-   ],
-   "answer": 1,
-   "explain": "Do czynników uciążliwych zalicza się m.in. mikroklimat, monotonię, obciążenie psychiczne i statyczne, oświetlenie, wysiłek fizyczny."
-  },
-  {
-   "q": "NDSCH dotyczy stężenia występującego nie dłużej niż:",
-   "options": [
-    "1 godzinę, max raz na zmianę",
-    "15 minut, max 2 razy na zmianę, co najmniej co 1 godzinę",
-    "8 godzin dziennie",
-    "30 minut, max 4 razy na zmianę"
-   ],
-   "answer": 1,
-   "explain": "NDSCH — nie dłużej niż 15 minut, nie częściej niż 2 razy w czasie zmiany, w odstępie nie krótszym niż 1 godzina."
-  },
-  {
-   "q": "Stężenie, które nie może być przekroczone w żadnym momencie, to:",
-   "options": [
-    "NDSP",
-    "NDN",
-    "NDSCH",
-    "NDS"
-   ],
-   "answer": 0,
-   "explain": "NDSP (pułapowe) nie może być przekroczone w środowisku pracy w żadnym momencie."
-  },
-  {
-   "q": "NDS odnosi się do dobowego wymiaru czasu pracy wynoszącego:",
-   "options": [
-    "8 godzin",
-    "12 godzin",
-    "6 godzin",
-    "10 godzin"
-   ],
-   "answer": 0,
-   "explain": "NDS to średnia ważona stężenia przy 8-godzinnym dobowym wymiarze czasu pracy."
-  },
-  {
-   "q": "Elementami mikroklimatu są:",
-   "options": [
-    "pyły, gazy i dymy",
-    "monotonia i stres",
-    "temperatura, wilgotność względna i prędkość przepływu powietrza",
-    "hałas, drgania i oświetlenie"
-   ],
-   "answer": 2,
-   "explain": "Elementami mikroklimatu są temperatura, wilgotność względna powietrza oraz prędkość jego przepływu."
-  },
-  {
-   "q": "Od kiedy obowiązuje art. 209¹ Kodeksu pracy nakładający obowiązek wyznaczenia pracownika do ochrony ppoż. i ewakuacji?",
-   "options": [
-    "Od 27 kwietnia 2001 r.",
-    "Od 24 sierpnia 1991 r.",
-    "Od 18 stycznia 2009 r.",
-    "Od 1 stycznia 2004 r."
-   ],
-   "answer": 2,
-   "explain": "Nowelizacja Kodeksu pracy (art. 209¹) obowiązuje od 18 stycznia 2009 r."
-  },
-  {
-   "q": "Ustawa o ochronie przeciwpożarowej pochodzi z dnia:",
-   "options": [
-    "26 czerwca 1974 r.",
-    "30 października 2002 r.",
-    "27 kwietnia 2001 r.",
-    "24 sierpnia 1991 r."
-   ],
-   "answer": 3,
-   "explain": "Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej."
-  },
-  {
-   "q": "Najczęstszą przyczyną pożarów według materiału jest:",
-   "options": [
-    "wyładowania atmosferyczne",
-    "nieostrożność oraz lekkomyślność ludzi",
-    "podpalenia",
-    "samozapalenie materiałów"
-   ],
-   "answer": 1,
-   "explain": "Nieostrożność oraz lekkomyślność ludzi to najczęstsza przyczyna pożarów."
-  },
-  {
-   "q": "Który materiał może ulec samozapaleniu przy niewłaściwym składowaniu?",
-   "options": [
-    "Wilgotne siano",
-    "Stal",
-    "Suchy piasek",
-    "Szkło"
-   ],
-   "answer": 0,
-   "explain": "Samozapaleniu ulegają m.in. niewłaściwie składowane wilgotne materiały: węgiel, siano, pasza, nawozy sztuczne."
-  },
-  {
-   "q": "Jak zapobiega się powstawaniu iskier od elektryczności statycznej?",
-   "options": [
-    "Przez polewanie wodą",
-    "Przez uziemianie maszyn, zbiorników i instalacji",
-    "Przez zwiększenie tarcia",
-    "Przez stosowanie gumowego obuwia"
-   ],
-   "answer": 1,
-   "explain": "Elektryczności statycznej zapobiega się poprzez uziemianie maszyn, zbiorników i instalacji."
-  },
-  {
-   "q": "Pożarom od wyładowań atmosferycznych można zapobiegać:",
-   "options": [
-    "gaśnicami proszkowymi",
-    "uziemieniem pasów transmisyjnych",
-    "tylko właściwie wykonanymi instalacjami odgromowymi",
-    "kocami gaśniczymi"
-   ],
-   "answer": 2,
-   "explain": "Pożarom od piorunów można zapobiegać tylko przez instalacje odgromowe (piorunochronne)."
-  },
-  {
-   "q": "Typ zapoczątkowania spalania wymagający ciągłego bodźca energetycznego to:",
-   "options": [
-    "zapłon",
-    "samozapłon",
-    "wybuch",
-    "samozapalenie"
-   ],
-   "answer": 1,
-   "explain": "Samozapłon — musi występować ciągły bodziec energetyczny, np. strumień ciepła."
-  },
-  {
-   "q": "Temperatura zapłonu acetylenu podana w materiale wynosi:",
-   "options": [
-    "350°C",
-    "482°C",
-    "-20°C",
-    "20°C"
-   ],
-   "answer": 2,
-   "explain": "Tabela: acetylen — temperatura zapłonu -20°C, samozapłonu 350°C."
-  },
-  {
-   "q": "Budowa ognioodpornych ścian i dachów to przykład ochrony przeciwpożarowej:",
-   "options": [
-    "biernej",
-    "ratowniczej",
-    "operacyjnej",
-    "czynnej"
-   ],
-   "answer": 0,
-   "explain": "Bierna (pasywna) ochrona ppoż. obejmuje m.in. budowę dachów i ścian ogniotrwałych."
-  },
-  {
-   "q": "Podstawę systemów tłumienia ognia stanowią:",
-   "options": [
-    "hydranty podziemne",
-    "kurtyny przeciwpożarowe",
-    "czujniki dymu",
-    "instalacje tryskaczowe (zraszaczowe)"
-   ],
-   "answer": 3,
-   "explain": "Podstawę systemów tłumienia ognia stanowią instalacje tryskaczowe."
-  },
-  {
-   "q": "Pożar grupy B to pożar:",
-   "options": [
-    "gazów palnych",
-    "ciał stałych",
-    "metali",
-    "cieczy palnych i substancji topiących się pod wpływem ciepła"
-   ],
-   "answer": 3,
-   "explain": "Grupa B — pożar cieczy palnych i substancji topiących się pod wpływem ciepła."
-  },
-  {
-   "q": "Pożar tłuszczów (np. oleju w kuchni) to pożar grupy:",
-   "options": [
-    "C",
-    "A",
-    "F",
-    "D"
-   ],
-   "answer": 2,
-   "explain": "Grupa F — pożar tłuszczów."
-  },
-  {
-   "q": "Czego NIE wolno gasić wodą?",
-   "options": [
-    "Palącego się drewna",
-    "Papieru",
-    "Słomy",
-    "Urządzeń elektrycznych pod napięciem"
-   ],
-   "answer": 3,
-   "explain": "Wody nie używa się m.in. do urządzeń pod napięciem, bo przewodzi prąd."
-  },
-  {
-   "q": "Ile środka gaśniczego mieści hydronetka?",
-   "options": [
-    "Około 15 litrów",
-    "Około 50 litrów",
-    "Około 3 litrów",
-    "Ponad 20 kg"
-   ],
-   "answer": 0,
-   "explain": "Zbiornik hydronetki zawiera ok. 15 litrów środka gaśniczego."
-  },
-  {
-   "q": "Gaśnice zawierające ponad 3 kg środka powinny mieć wąż o długości nie mniejszej niż:",
-   "options": [
-    "1 metr",
-    "100% wysokości gaśnicy",
-    "50% wysokości gaśnicy",
-    "80% wysokości gaśnicy"
-   ],
-   "answer": 3,
-   "explain": "Wąż gaśnicy powinien mieć długość nie mniejszą niż 80% jej wysokości."
-  },
-  {
-   "q": "Jako czynnik napędowy w gaśnicach mogą być stosowane:",
-   "options": [
-    "tlen",
-    "propan-butan",
-    "wyłącznie gazy niepalne, np. azot, hel, argon",
-    "wodór"
-   ],
-   "answer": 2,
-   "explain": "W gaśnicach stosuje się wyłącznie gazy niepalne (obojętne)."
-  },
-  {
-   "q": "Używając koca gaśniczego, należy przykrywać ogień:",
-   "options": [
-    "od strony przeciwnej",
-    "od swojej strony",
-    "dopiero po ugaszeniu płomieni wodą",
-    "od góry rzucając z daleka"
-   ],
-   "answer": 1,
-   "explain": "Koc przykrywa się od swojej strony, aby uniknąć poparzenia."
-  },
-  {
-   "q": "Agregat gaśniczy to sprzęt mający zapas środka gaśniczego:",
-   "options": [
-    "ok. 15 litrów",
-    "ponad 20 kg",
-    "do 3 kg",
-    "do 6 kg"
-   ],
-   "answer": 1,
-   "explain": "Agregat gaśniczy ma zapas środka gaśniczego w ilości ponad 20 kg."
-  },
-  {
-   "q": "Pod jakim numerem alarmowym wzywa się Straż Pożarną według materiału?",
-   "options": [
-    "999",
-    "998",
-    "996",
-    "997"
-   ],
-   "answer": 1,
-   "explain": "Należy powiadomić Straż Pożarną, dzwoniąc pod telefon alarmowy 998."
-  },
-  {
-   "q": "Po zadymionych, nieoświetlonych schodach należy schodzić:",
-   "options": [
-    "wyprostowanym",
-    "biegiem",
-    "tyłem na czworakach",
-    "trzymając się środka schodów"
-   ],
-   "answer": 2,
-   "explain": "Po zadymionych, nieoświetlonych schodach należy schodzić tyłem na czworakach."
-  },
-  {
-   "q": "Gdy dym odciął drogę ucieczki z pomieszczenia, należy:",
-   "options": [
-    "przebiec przez dym",
-    "otworzyć drzwi, aby wpuścić powietrze",
-    "zamknąć drzwi na klucz i schować się w szafie",
-    "zostać, zamknąć drzwi (nie na klucz), uszczelnić je i czekać przy oknie"
-   ],
-   "answer": 3,
-   "explain": "Należy pozostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić je i czekać na pomoc przy oknie."
-  },
-  {
-   "q": "Za naruszenie przepisów bhp na podstawie art. 283 § 1 Kodeksu pracy grozi grzywna:",
-   "options": [
-    "od 100 zł do 30 000 zł",
-    "od 10 000 zł do 50 000 zł",
-    "od 1000 zł do 2000 zł",
-    "do 5000 zł"
-   ],
-   "answer": 0,
-   "explain": "Art. 283 § 1 Kp — kara grzywny od 100 zł do 30 000 zł."
-  },
-  {
-   "q": "Art. 163 § 1 pkt 1 Kodeksu karnego przewiduje karę pozbawienia wolności:",
-   "options": [
-    "od 3 miesięcy do 5 lat",
-    "do 30 dni",
-    "od roku do lat 12",
-    "do 2 lat"
-   ],
-   "answer": 2,
-   "explain": "Grozi kara pozbawienia wolności od roku do lat 12."
-  },
-  {
-   "q": "Która instytucja jest uprawniona do nadzoru i wydawania środków prawnych w zakresie ochrony ppoż.?",
-   "options": [
-    "Wojewódzki Inspektor Ochrony Środowiska",
-    "Urząd Dozoru Technicznego",
-    "Państwowa Straż Pożarna",
-    "Państwowa Inspekcja Sanitarna"
-   ],
-   "answer": 2,
-   "explain": "Do nadzoru i wydawania środków prawnych uprawniona jest Państwowa Straż Pożarna."
-  },
-  {
-   "q": "Nauka o ochronie środowiska to:",
-   "options": [
-    "fizjologia",
-    "ergonomia",
-    "sozologia",
-    "antropometria"
-   ],
-   "answer": 2,
-   "explain": "Nauka o ochronie środowiska to sozologia."
-  },
-  {
-   "q": "Ustawa „Prawo ochrony środowiska” pochodzi z dnia:",
-   "options": [
-    "13 kwietnia 2007 roku",
-    "21 grudnia 2000 roku",
-    "24 sierpnia 1991 roku",
-    "27 kwietnia 2001 roku"
-   ],
-   "answer": 3,
-   "explain": "Obowiązek ochrony środowiska reguluje ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska”."
-  },
-  {
-   "q": "Który z wymienionych jest czynnikiem abiotycznym?",
-   "options": [
-    "Drapieżnictwo",
-    "Liczebność populacji",
-    "Konkurencja między gatunkami",
-    "Typ gleby"
-   ],
-   "answer": 3,
-   "explain": "Do czynników abiotycznych zalicza się m.in. typ gleby, klimat, temperaturę, światło."
-  },
-  {
-   "q": "Za powstawanie dziury ozonowej odpowiadają przede wszystkim:",
-   "options": [
-    "związki chlorofluorowęglowe (freony)",
-    "nawozy azotowe",
-    "metan z hodowli",
-    "pyły cementowe"
-   ],
-   "answer": 0,
-   "explain": "Największe znaczenie mają freony, z których uwolniony chlor atakuje ozon."
-  },
-  {
-   "q": "Naturalny efekt cieplarniany podnosi temperaturę Ziemi o około:",
-   "options": [
-    "0,5°C",
-    "30°C",
-    "15°C",
-    "3°C"
-   ],
-   "answer": 2,
-   "explain": "Naturalny efekt cieplarniany podnosi temperaturę o około 15°C."
-  },
-  {
-   "q": "Eutrofizacja to:",
-   "options": [
-    "wzbogacanie zbiorników wodnych w substancje pokarmowe",
-    "rozkład związków organicznych przez bakterie",
-    "spadek zawartości ozonu",
-    "zakwaszanie gleby"
-   ],
-   "answer": 0,
-   "explain": "Eutrofizacja to proces wzbogacania zbiorników wodnych w substancje pokarmowe, skutkujący wzrostem żyzności wód."
-  },
-  {
-   "q": "Głównym źródłem zanieczyszczeń wody są:",
-   "options": [
-    "ścieki",
-    "wyładowania atmosferyczne",
-    "wietrzenie skał",
-    "pył kosmiczny"
-   ],
-   "answer": 0,
-   "explain": "Ścieki to główne źródło zanieczyszczeń wody."
-  },
-  {
-   "q": "Pestycydy i fenole to zanieczyszczenia wody:",
-   "options": [
-    "rozkładalne",
-    "biologiczne",
-    "nierozkładalne",
-    "trwałe"
-   ],
-   "answer": 3,
-   "explain": "Trwałe — ulegają rozkładowi w niewielkim stopniu (pestycydy, fenole, produkty destylacji ropy)."
-  },
-  {
-   "q": "Kto wydaje zezwolenie na prowadzenie działalności w zakresie zbierania i transportu odpadów?",
-   "options": [
-    "Starosta",
-    "Wojewoda",
-    "Minister środowiska",
-    "Wójt"
-   ],
-   "answer": 0,
-   "explain": "Wniosek o zezwolenie składa się do starosty (ustawa o odpadach — art. 28)."
-  },
-  {
-   "q": "Jak często należy aktualizować ewidencję gazów, pyłów, wody i ścieków?",
-   "options": [
-    "Co roku",
-    "Co miesiąc",
-    "Co pół roku",
-    "Co 2 lata"
-   ],
-   "answer": 2,
-   "explain": "Pracodawca prowadzi aktualizowaną co pół roku ewidencję."
-  },
-  {
-   "q": "Kontrola Inspekcji Ochrony Środowiska nie może być wszczęta przed upływem:",
-   "options": [
-    "14 dni",
-    "7 dni od doręczenia zawiadomienia",
-    "1 dnia",
-    "30 dni"
-   ],
-   "answer": 1,
-   "explain": "Kontrola nie może być wszczęta przed upływem siedmiu dni lub po upływie 30 dni od doręczenia zawiadomienia."
-  },
-  {
-   "q": "Kto wymierza administracyjne kary pieniężne za przekroczenie warunków pozwoleń środowiskowych?",
-   "options": [
-    "Państwowa Inspekcja Pracy",
-    "Państwowa Straż Pożarna",
-    "Starosta",
-    "Wojewódzki Inspektor Ochrony Środowiska"
-   ],
-   "answer": 3,
-   "explain": "Administracyjne kary pieniężne wymierza Wojewódzki Inspektor Ochrony Środowiska."
-  },
-  {
-   "q": "Zezwolenie na usunięcie drzew NIE jest wymagane dla drzew, których wiek nie przekracza:",
-   "options": [
-    "5 lat",
-    "2 lat",
-    "10 lat",
-    "15 lat"
-   ],
-   "answer": 0,
-   "explain": "Zezwolenia nie dotyczą m.in. drzew i krzewów, których wiek nie przekracza 5 lat."
-  },
-  {
-   "q": "Kara za zniszczenie drzew lub krzewów wynosi:",
-   "options": [
-    "równowartość opłaty",
-    "10-krotność stawki",
-    "trzykrotność opłaty za ich usunięcie",
-    "dwukrotność opłaty"
-   ],
-   "answer": 2,
-   "explain": "Karę ustala się w wysokości równej trzykrotnej opłacie za usunięcie."
-  },
-  {
-   "q": "Pierwszym krokiem w zasadach eliminacji zagrożeń jest:",
-   "options": [
-    "stosowanie ochron osobistych",
-    "dobór psychologiczny pracowników",
-    "eliminacja źródeł czynników niebezpiecznych i szkodliwych",
-    "stosowanie znaków bezpieczeństwa"
-   ],
-   "answer": 2,
-   "explain": "Pierwsza zasada to eliminacja źródeł czynników niebezpiecznych i szkodliwych."
-  },
-  {
-   "q": "Praca, w której mięśnie pozostają w długotrwałym napięciu bez widocznego ruchu, to praca:",
-   "options": [
-    "dynamiczna",
-    "izotoniczna",
-    "statyczna",
-    "umysłowa"
-   ],
-   "answer": 2,
-   "explain": "Praca statyczna — mięśnie w stałym napięciu, np. podczas stania czy siedzenia."
-  },
-  {
-   "q": "Ergonomia realizowana w istniejącym miejscu pracy to ergonomia:",
-   "options": [
-    "korekcyjna",
-    "koncepcyjna",
-    "projektowa",
-    "systemowa"
-   ],
-   "answer": 0,
-   "explain": "Ergonomia korekcyjna to taka, która jest realizowana w miejscu pracy."
-  },
-  {
-   "q": "Według kryterium antropometrycznego stanowisko pracy powinno być dostosowane do co najmniej:",
-   "options": [
-    "50% użytkowników",
-    "100% użytkowników",
-    "90% użytkowników (5.—95. centyl)",
-    "75% użytkowników"
-   ],
-   "answer": 2,
-   "explain": "Stanowisko powinno być dostosowane do przynajmniej 90% użytkowników — między 5. a 95. centylem."
-  },
-  {
-   "q": "Barwa niebieska w bhp oznacza:",
-   "options": [
-    "ostrzeżenie",
-    "drogę ewakuacyjną",
-    "zakaz",
-    "nakaz, np. stosowania ochron osobistych"
-   ],
-   "answer": 3,
-   "explain": "Barwa niebieska oznacza nakaz, np. stosowania ochronnego sprzętu osobistego."
-  },
-  {
-   "q": "Żółto-czarne pasy stosuje się, aby:",
-   "options": [
-    "oznaczyć wyjście ewakuacyjne",
-    "wskazać punkt pierwszej pomocy",
-    "oznaczyć gaśnicę",
-    "wzmocnić ostrzeżenie przed niebezpieczeństwem"
-   ],
-   "answer": 3,
-   "explain": "Barwę żółtą (ostrzeżenie) dla większego efektu łączy się z czarną."
-  },
-  {
-   "q": "W której części tablicy informacyjnej należy umieszczać najważniejsze treści?",
-   "options": [
-    "Na środku dolnej części",
-    "W dolnej prawej",
-    "W górnej, z nastawieniem na lewą stronę",
-    "W prawej dolnej ćwiartce"
-   ],
-   "answer": 2,
-   "explain": "Górna część tablicy skupia 75% punktów fiksacji, a wzrok najczęściej zatrzymuje się w lewej górnej ćwiartce."
-  }
- ]
+  "id": "bhp1",
+  "course": "Teoria BHP",
+  "title": "Podstawowe pojęcia BHP, ppoż., ochrony środowiska i ergonomii",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "1. Pojęcia związane z BHP — zakres bhp",
+      "points": [
+        "W zakres bhp wchodzą: techniki bezpieczeństwa pracy, podstawy higieny pracy, elementy fizjologii pracy, elementy socjologii pracy, elementy organizacji i ekonomiki pracy oraz podstawy ergonomii.",
+        "Higiena pracy — nauka o normach kształtowania zdrowych, higienicznych, nieuciążliwych i nieszkodliwych warunków pracy oraz zapobieganiu chorobom zawodowym.",
+        "Fizjologia pracy — badanie wpływu środowiska na organizm człowieka podczas wykonywania pracy.",
+        "Socjologia pracy — badanie wpływu środowiska i rodzaju pracy na stosunek pracownika do pracy i jego wydajność.",
+        "Organizacja i ekonomika pracy — dobór najwłaściwszych środków i warunków do osiągnięcia wyników pracy bez uszczerbku na zdrowiu.",
+        "Ergonomia — nauka o dostosowaniu pracy do właściwości psychicznych i możliwości fizycznych człowieka.",
+        "Prawo do bezpiecznych i higienicznych warunków pracy jest jednym z podstawowych praw obywatelskich.",
+        "Pracodawca ma obowiązek zapewnić pracownikom bezpieczne i higieniczne warunki pracy, tak aby nie istniały zagrożenia dla ich życia i zdrowia; pracownik ma obowiązek znać i stosować przepisy i zasady bhp."
+      ]
+    },
+    {
+      "heading": "1. Pojęcia związane z BHP — zagrożenie, ryzyko, wypadek przy pracy",
+      "points": [
+        "Zagrożenie — zjawisko wywołane siłami natury bądź człowieka, przez które poczucie bezpieczeństwa maleje lub zanika; sytuacja grożąca wypadkiem.",
+        "System zapobiegania wypadkom polega przede wszystkim na wykrywaniu i usuwaniu zagrożeń, zanim wydarzy się wypadek.",
+        "Zagrożenie i ryzyko to dwa odrębne zjawiska (jak przyczyna i skutek): sople zwisające z dachu to zagrożenie, przechodzenie pod nimi to ryzyko.",
+        "Zdarzenie jest wypadkiem przy pracy tylko, gdy spełnia równocześnie wszystkie cztery warunki z definicji.",
+        "Uraz — uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego.",
+        "Na równi z wypadkiem przy pracy traktuje się m.in. wypadki w czasie: zadań zleconych przez organizacje związkowe, szkolenia z powszechnej samoobrony, podróży służbowej, pracy na umowie zlecenia/agencyjnej, sportu osoby ze stypendium sportowym, sprawowania mandatu posła lub senatora pobierającego uposażenie.",
+        "Rodzaje wypadków przy pracy określa art. 3 ust. 6 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.",
+        "Skutki wypadków przy pracy dzielą się na dwie kategorie: moralne i ekonomiczne.",
+        "Wypadek przy pracy – zdarzenie nagłe (w ciągu jednego dnia pracy), wywołane przyczyną zewnętrzną, powodujące uraz (lub śmierć), mające związek z wykonywaną pracą.",
+        "Na równi z wypadkiem przy pracy (pełna lista z materiału): zadania zlecone przez organizacje związkowe u pracodawcy; szkolenie z powszechnej samoobrony; podróż służbowa (chyba że wypadek spowodowało zachowanie niezwiązane z zadaniami); praca członka rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych na ich rzecz; odpłatna praca więźnia lub tymczasowo aresztowanego; sport osoby ze stypendium sportowym (zawody, treningi); staż/szkolenie absolwenta ze stypendium ze skierowania powiatowego urzędu pracy; mandat posła lub senatora pobierającego uposażenie; praca na umowie agencyjnej, zlecenia lub o świadczenie usług oraz współpraca przy takiej pracy; nauka w KSAP słuchaczy ze stypendium; zwykłe czynności przy prowadzeniu działalności pozarolniczej lub współpracy przy niej; czynności religijne/duszpasterskie osoby duchownej; zastępcze formy służby wojskowej; praca na umowie zlecenia/agencyjnej/o dzieło zawartej z własnym pracodawcą lub wykonywanej na jego rzecz.",
+        "Rodzaje wypadków przy pracy: lekki (niezdolność do pracy do 28 dni), ciężki (niezdolność ponad 28 dni i ciężkie uszkodzenie ciała), zbiorowy (co najmniej 2 osoby wskutek tego samego zdarzenia), inwalidzki (trwałe kalectwo i uznanie za inwalidę jednej z trzech grup inwalidzkich), śmiertelny (śmierć w ciągu 6 miesięcy od zdarzenia).",
+        "Ciężkie uszkodzenie ciała to m.in.: utrata wzroku, słuchu, mowy, zdolności rozrodczej, inne uszkodzenie lub rozstrój zdrowia naruszający podstawowe funkcje organizmu, choroba nieuleczalna lub zagrażająca życiu, trwała choroba psychiczna, całkowita lub częściowa niezdolność do pracy w zawodzie, trwałe istotne zeszpecenie lub zniekształcenie ciała.",
+        "Skutki wypadków przy pracy (schemat): lekkie obrażenie ciała, ciężkie obrażenie ciała, złamania i pęknięcia, utrata narządów lub zmysłów (ręki, wzroku, słuchu, mowy), utrata zdolności do wykonywania zawodu, śmierć."
+      ],
+      "images": [
+        {
+          "src": "img/bhp1/wypadek-przy-pracy-definicja.jpg",
+          "caption": "Wypadek przy pracy – zdarzenie: nagłe, wywołane przyczyną zewnętrzną, powodujące uraz lub śmierć, które nastąpiło w związku z pracą, tj.: (1) podczas lub w związku z wykonywaniem zwykłych czynności lub poleceń przełożonych, (2) podczas lub w związku z wykonywaniem czynności na rzecz pracodawcy, nawet bez polecenia, (3) w czasie pozostawania w dyspozycji pracodawcy w drodze między siedzibą pracodawcy a miejscem wykonywania obowiązku."
+        },
+        {
+          "src": "img/bhp1/rodzaje-wypadkow-przy-pracy.jpg",
+          "caption": "Rodzaje wypadków przy pracy: lekki – niezdolność do pracy do 28 dni; ciężki – niezdolność ponad 28 dni i ciężkie uszkodzenie ciała (utrata wzroku, słuchu, mowy, zdolności rozrodczej, choroba nieuleczalna lub zagrażająca życiu, trwała choroba psychiczna, niezdolność do pracy w zawodzie, trwałe zeszpecenie); zbiorowy – co najmniej 2 osoby w tym samym zdarzeniu; inwalidzki – trwałe kalectwo i uznanie za inwalidę jednej z trzech grup; śmiertelny – śmierć w okresie 6 miesięcy od zdarzenia."
+        },
+        {
+          "src": "img/bhp1/skutki-wypadkow-przy-pracy.jpg",
+          "caption": "Skutki wypadków przy pracy: lekkie obrażenie ciała, ciężkie obrażenie ciała, złamania i pęknięcia, utrata narządów lub zmysłów (np. ręki, wzroku, słuchu, mowy), utrata zdolności do wykonywania zawodu, śmierć."
+        }
+      ]
+    },
+    {
+      "heading": "1. Pojęcia związane z BHP — postępowanie powypadkowe i choroba zawodowa",
+      "points": [
+        "Obowiązki pracodawcy po wypadku: weryfikacja stanu faktycznego, ustalenie przyczyn, zapobieganie wypadkom na przyszłość, obowiązki informacyjne i ewidencyjne.",
+        "Postępowanie powypadkowe: powołanie zespołu powypadkowego, ustalenie przyczyn i skutków, ustalenie czy przyczyną były czynniki zewnętrzne czy wina pracownika, ustalenie osób odpowiedzialnych.",
+        "Protokół powypadkowy sporządza się w terminie 14 dni od daty wypadku; poszkodowany ma prawo zgłosić zastrzeżenia.",
+        "Kierownik zakładu zatwierdza protokół powypadkowy w terminie 5 dni od daty sporządzenia.",
+        "Choroba zawodowa — choroba z wykazu chorób zawodowych, spowodowana bezspornie lub z wysokim prawdopodobieństwem czynnikami szkodliwymi w środowisku pracy lub sposobem wykonywania pracy.",
+        "Podejrzenie choroby zawodowej zgłasza: pracodawca, lekarz, lekarz dentysta, pracownik lub były pracownik (zatrudniony — za pośrednictwem lekarza profilaktyka).",
+        "Zgłoszenie kieruje się do właściwego państwowego inspektora sanitarnego i właściwego inspektora pracy.",
+        "Stwierdzenie choroby zawodowej jest decyzją państwowego powiatowego inspektora sanitarnego.",
+        "W małej firmie (do 10 pracowników) zadania służby bhp może pełnić sam pracodawca – wtedy on prowadzi postępowanie powypadkowe.",
+        "Przyczyny wypadku należy natychmiast usunąć, aby nie zagrażały innym pracownikom.",
+        "Protokół powypadkowy przedstawia się poszkodowanemu – może zgłosić zastrzeżenia, a jeśli ich nie ma, podpisuje protokół; następnie protokół trafia do kierownika zakładu.",
+        "W postępowaniu powypadkowym ustala się, czy wypadek powstał wskutek czynników zewnętrznych (np. wybuch, porażenie prądem), czy z winy pracownika.",
+        "Rozpoznanie choroby zawodowej może nastąpić w okresie zatrudnienia w narażeniu zawodowym lub po jego zakończeniu, pod warunkiem wystąpienia udokumentowanych objawów w okresie ustalonym w wykazie chorób zawodowych.",
+        "Lekarz dentysta zgłasza podejrzenie choroby zawodowej, gdy powziął je podczas wykonywania zawodu.",
+        "Przykład z wideocastu: właściciel firmy z 9 pracownikami sam pełni zadania służby bhp — przeprowadza postępowanie powypadkowe: ustala, czy to wypadek przy pracy, ustala i natychmiast usuwa przyczyny, ustala osoby odpowiedzialne, w 14 dni sporządza protokół."
+      ]
+    },
+    {
+      "heading": "1. Pojęcia związane z BHP — czynniki w środowisku pracy",
+      "points": [
+        "Według Polskich Norm wyróżnia się czynniki: niebezpieczne, szkodliwe i uciążliwe; czynnik uciążliwy może przekształcić się w szkodliwy, a szkodliwy w niebezpieczny.",
+        "Czynnik niebezpieczny — może prowadzić do urazu (wypadku przy pracy), np. czynniki mechaniczne (spadające materiały, praca na wysokości, śliskie powierzchnie, ruchome maszyny) i prąd elektryczny.",
+        "Czynnik szkodliwy — prowadzi lub może prowadzić do choroby zawodowej lub innego schorzenia związanego z pracą (hałas, drgania, pyły, azbest, benzen, promieniowanie, pole elektromagnetyczne 0 Hz — 300 GHz).",
+        "Pracodawcy mają obowiązek prowadzenia pomiarów czynników szkodliwych.",
+        "NDS — średnia ważona stężenia przy 8-godzinnym dobowym i przeciętnym tygodniowym wymiarze czasu pracy, bez ujemnych zmian zdrowia pracownika i przyszłych pokoleń.",
+        "NDSCH — stężenie chwilowe: nie dłużej niż 15 minut, nie częściej niż 2 razy na zmianę, w odstępie nie krótszym niż 1 godzina.",
+        "NDSP — stężenie pułapowe, które nie może być przekroczone w żadnym momencie.",
+        "Czynnik uciążliwy — powoduje złe samopoczucie lub nadmierne zmęczenie, bez trwałego pogorszenia zdrowia: mikroklimat, monotonia, obciążenie psychiczne, obciążenie statyczne, oświetlenie, wysiłek fizyczny.",
+        "Elementy mikroklimatu: temperatura, wilgotność względna powietrza i prędkość jego przepływu.",
+        "Czynniki szkodliwe — pełna lista kategorii: fizyczne (hałas, hałas ultradźwiękowy, drgania mechaniczne); pyły całkowity i respirabilny (np. pył drewna twardego, mąki); pyły i dymy spawalnicze z substancjami toksycznymi (tlenki, metale); metale pyliste (ołów, żelazo); mikroklimat zimny i gorący (chłodnie, piekarnie); czynniki toksyczne, chemiczne i lotne związki organiczne (benzen); pyły z azbestem; promieniowanie optyczne nielaserowe; promieniowanie laserowe; pole/promieniowanie elektromagnetyczne 0 Hz — 300 GHz.",
+        "Najważniejszy przepis: rozporządzenie Ministra Pracy i Polityki Społecznej o najwyższych dopuszczalnych stężeniach i natężeniach czynników szkodliwych — zawiera wartości stężeń czynników chemicznych i pyłowych (NDS, NDSCH, NDSP) oraz najwyższych dopuszczalnych natężeń czynników fizycznych.",
+        "Czynniki uciążliwe mogą prowadzić do dłuższej nieobecności z powodu choroby lub obniżenia wydajności.",
+        "Czynniki uciążliwe zależą od miejsca pracy: w dydaktyce — hałas, mikroklimat, oświetlenie, długotrwała wymuszona pozycja, stres; w warsztatach samochodowych i budownictwie — podnoszenie i przenoszenie ciężarów oraz stres; podobnie w piekarnictwie i produkcji żywności.",
+        "Oświetlenie jako czynnik uciążliwy: migotanie i efekty stroboskopowe, zmiany natężenia i równomierności, olśnienie — obniżają koncentrację i wydajność.",
+        "Mikroklimat podlega analizie podczas badań warunków pracy — zmiana każdego jego elementu wpływa na komfort i wydajność."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — zasady i obowiązki",
+      "points": [
+        "Ochrona przeciwpożarowa to ochrona życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem przez zapobieganie, zapewnienie sił i środków oraz działania ratownicze.",
+        "Podstawa prawna: Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 1991 r. Nr 81, poz. 351).",
+        "Odpowiedzialność za przestrzeganie przepisów bhp i ppoż. spoczywa na właścicielach firm lub ich zarządach.",
+        "Działania ppoż. dostosowuje się do rodzaju i zakresu działalności, liczby pracowników i innych osób, rodzaju i poziomu zagrożeń.",
+        "Art. 209¹ Kodeksu pracy (od 18 stycznia 2009 r.) nakłada obowiązek wyznaczenia pracownika do ochrony ppoż. i ewakuacji.",
+        "Informacja o wyznaczonej osobie: imię i nazwisko, miejsce pracy, numer telefonu lub innego środka komunikacji; osoba musi być przeszkolona.",
+        "Sprzęt ppoż. powinien posiadać aprobatę, certyfikaty ITB i/lub CNBOP.",
+        "Obiekty użyteczności publicznej i zbiorowego zamieszkania wymagają „Instrukcji bezpieczeństwa pożarowego”; wymagania ppoż. procesów technologicznych umieszcza się w „Instrukcji technologiczno-ruchowej”.",
+        "Szczególne wymagania co do palności elementów dotyczą dróg ewakuacji i pomieszczeń, w których może przebywać jednocześnie ponad 50 osób.",
+        "Ochrona ppoż. obejmuje: zapobieganie powstawaniu i rozprzestrzenianiu się pożaru, klęski żywiołowej lub miejscowego zagrożenia; zapewnienie sił i środków do ich zwalczania; prowadzenie działań ratowniczych.",
+        "Obowiązki właściciela budynku/obiektu/terenu: przestrzegać wymagań techniczno-budowlanych, instalacyjnych i technologicznych; wyposażyć w urządzenia ppoż. i gaśnice; zapewnić ich konserwację i naprawy; zapewnić bezpieczeństwo i możliwość ewakuacji; przygotować obiekt do akcji ratowniczej; zapoznać pracowników z przepisami ppoż.; ustalić sposób postępowania na wypadek pożaru.",
+        "Pracodawca musi zapewnić bieżącą łączność z wyspecjalizowanymi służbami zewnętrznymi.",
+        "Szczegółowe obowiązki pracodawcy (c.d.): właściwy dostęp do podręcznego sprzętu gaśniczego i hydrantów; sprawne i dostępne (zwłaszcza zimą) źródła wody do gaszenia; sprawność urządzeń zabezpieczających i usuwanie każdej awarii przed ponownym uruchomieniem linii technologicznej; okresowe przeglądy i konserwacja instalacji elektrycznej, piorunochronnej, gazowej, kominowej i wentylacyjnej.",
+        "Warunki ewakuacji: zabezpieczenie klatek schodowych (wydzielenie i oddymianie).",
+        "Ćwiczenia: w zakładach produkcyjnych — z likwidowania źródeł zagrożeń, w obiektach użyteczności publicznej — z ewakuacji ludzi i mienia; zakres można konsultować z Komendą Miejską/Powiatową PSP.",
+        "Certyfikaty ITB (Instytut Techniki Budowlanej) dotyczą wyrobów i usług budowlanych, zakładowej kontroli produkcji, systemów zarządzania i kompetencji personelu; CNBOP (Centrum Naukowo-Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego) bada i certyfikuje wyroby ppoż., certyfikuje firmy usług ppoż., wydaje opinie i ekspertyzy."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — przyczyny pożarów",
+      "points": [
+        "Najczęstsza przyczyna pożarów: nieostrożność oraz lekkomyślność ludzi.",
+        "Inne przyczyny: wady urządzeń elektrycznych, grzewczych i mechanicznych, wady procesów technologicznych, nieprawidłowe magazynowanie, samozapalenie, wyładowania elektryczne i atmosferyczne, elektryczność statyczna, podpalenia.",
+        "Przykłady nieostrożności z ogniem: porzucanie niewygaszonych papierosów, wypalanie traw i pozostałości po uprawach, palenie ognisk bez zasad bezpieczeństwa.",
+        "Wady instalacji elektrycznych: przeciążenie, prowizoryczne urządzenia, naprawa bezpieczników drutem, palne osłony punktów świetlnych.",
+        "Samozapaleniu ulegają materiały zaolejone (czyściwo) oraz niewłaściwie składowane wilgotne materiały: węgiel, siano, pasza, nawozy sztuczne.",
+        "Pożarom od wyładowań atmosferycznych zapobiega się tylko właściwie wykonanymi instalacjami odgromowymi (piorunochronnymi).",
+        "Elektryczności statycznej zapobiega się przez uziemianie maszyn, zbiorników i instalacji.",
+        "14 grup przyczyn pożarów: 1 nieostrożność z ogniem otwartym; 2 nieostrożność z substancjami łatwopalnymi; 3 nieostrożność przy pracach pożarowo niebezpiecznych; 4 wady i zła eksploatacja urządzeń elektrycznych; 5 — urządzeń grzewczych; 6 — urządzeń mechanicznych; 7 wady procesów i nieprzestrzeganie reżimów technologicznych; 8 nieprawidłowe magazynowanie substancji niebezpiecznych; 9 samozapalenie; 10 wyładowania elektryczne; 11 wyładowania atmosferyczne; 12 elektryczność statyczna; 13 podpalenia; 14 inne.",
+        "Nieostrożność z ogniem otwartym także: palenie tytoniu w miejscach zagrożonych zapaleniem/wybuchem, ogień w pobliżu par cieczy i gazów palnych, nieostrożność ze świecami i lampami naftowymi.",
+        "Nieostrożność z substancjami łatwopalnymi: zmywanie podłóg płynami łatwopalnymi, pranie odzieży w benzynie, rozpalanie pieców cieczą łatwopalną, przelewanie jej przy źródle ognia, niewłaściwe użycie pirotechniki.",
+        "Prace pożarowo niebezpieczne: złe przygotowanie stanowiska do spawania, brak nadzoru nad spawaniem, prace remontowe z ogniem przy materiałach palnych.",
+        "Wady instalacji elektrycznych (c.d.): źle dobrana instalacja, nieusuwanie wad, żarówki blisko materiałów palnych, samowolne naprawy, mechaniczne uszkodzenia instalacji.",
+        "Elektryczne urządzenia grzewcze: niesprawne lub prowizoryczne, pozostawione bez dozoru (grzałki, czajniki, grzejniki, żelazka), ustawione na palnym podłożu.",
+        "Urządzenia grzewcze na paliwo stałe, ciekłe i gazowe: pęknięcia i nieszczelności, zbyt mała odległość od materiałów palnych, wysypywanie żaru, uszkodzone kominy, drewniane elementy w kominie, zła obsługa butli propan-butan, suszenie materiałów przy źródle ciepła, zbyt intensywne palenie (iskry, zapalenie sadzy), brak nadzoru nad piecem.",
+        "Urządzenia mechaniczne: konstrukcja powodująca tarcie i iskrzenie, brak konserwacji (np. łożysk), praca bez nadzoru, brak konserwacji wentylacji i klimatyzacji.",
+        "Wady procesów: zły dobór urządzeń, złe dozowanie cieczy łatwopalnych, przegrzewanie pojemników, praca bez dozoru, przekraczanie temperatury/ciśnienia, nieszczelności, samodzielne naprawy automatyki.",
+        "Nieprawidłowe magazynowanie: składowanie razem materiałów reagujących ze sobą lub z ciepłem, światłem, wilgocią; trzymanie cieczy palnych w nieszczelnych lub tłukących się naczyniach.",
+        "Samozapalenie wynika z procesów biochemicznych powodujących samoogrzewanie materiału.",
+        "Na pioruny najbardziej narażone są wysokie obiekty i samotne drzewa; elektryczność statyczna powstaje przy tarciu, przelewaniu, przewijaniu, chodzeniu w gumowym obuwiu — może dawać iskry.",
+        "Pożary to jedna z najgroźniejszych klęsk żywiołowych — należą do najważniejszych zagrożeń zarówno w czasie wojny, jak i pokoju (pożary naturalne i wywołane przez człowieka).",
+        "Ogólne typy przyczyn pożarów: wady i niewłaściwa eksploatacja urządzeń elektrycznych i grzewczo-kominowych; wady urządzeń technicznych; źle rozwiązane procesy technologiczne; działanie sił przyrody; nieostrożność i lekkomyślność ludzi (najczęstsza przyczyna)."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — spalanie i bezpieczeństwo pożarowe",
+      "points": [
+        "Spalanie — reakcja chemiczna materiału palnego z utleniaczem z wydzieleniem ciepła i światła; najpowszechniejszym utleniaczem jest tlen z powietrza.",
+        "Trzy typy zapoczątkowania spalania: zapłon (punktowy bodziec), samozapłon (ciągły bodziec), samozapalenie (przemiany w samym materiale).",
+        "Temperatura zapłonu: acetylen -20°C, benzyna lekka 24—38°C, ropa naftowa 20°C; temperatura samozapłonu: odpowiednio 350°C, 280°C, 482°C.",
+        "Łatwość samozapalenia zależy też od zdolności łączenia się paliwa z tlenem, wilgotności i stopnia rozdrobnienia.",
+        "Bierna (pasywna) ochrona ppoż. — prace budowlane zwiększające bezpieczeństwo i minimalizujące straty (ogniotrwałe dachy i ściany, strefy pożarowe, magazyny z dala od zabudowań).",
+        "Czynna (aktywna) ochrona ppoż. — zwiększa skuteczność działań w chwili pożaru: systemy tłumienia ognia, oddymiania, wentylacji pożarowej, alarmowe.",
+        "Podstawą systemów tłumienia ognia są instalacje tryskaczowe (zraszaczowe).",
+        "Elementy systemów alarmowych: czujniki dymu, ciepła i płomienia, sygnalizatory akustyczno-optyczne, systemy sygnalizacji pożarowej.",
+        "Paliwa i utleniacze mogą być gazowe, ciekłe lub stałe.",
+        "Bezpieczeństwo pożarowe trzeba uwzględniać już przy planowaniu działalności, na etapie projektowania.",
+        "Obiekt projektuje się tak, aby w razie pożaru: zachował nośność przez czas potrzebny na ewakuację, ogień nie przechodził na sąsiednie strefy lub budynki, a ekipy ratunkowe były bezpieczne.",
+        "Przykłady biernej ochrony: dachy i ściany ogniotrwałe; magazyny materiałów palnych z dala od zabudowań; produkcja o większym ryzyku pożaru w wydzielonych pomieszczeniach; instalacje bez ryzyka zwarć i iskrzenia; nieskładowanie materiałów łatwopalnych i wybuchowych w nieprzystosowanych miejscach.",
+        "Strefy pożarowe wydziela się płytami, ścianami, szybami i drzwiami ogniochronnymi, podwieszanymi sufitami, okładzinami i natryskami ogniochronnymi; uzupełniają je kanały kablowe, klapy odcinające, przewody wentylacyjne i oddymiające oraz masy, kleje i zaprawy ogniochronne.",
+        "Przykłady czynnej ochrony: wymiary budynku, klatek i wyjść umożliwiające szybką ewakuację; rozmieszczenie urządzeń gaśniczych; instalacje alarmowe dla najwcześniejszego powiadomienia; dojazd dla straży pożarnej.",
+        "W skład czynnej ochrony wchodzą też systemy zabezpieczające przed rozprzestrzenianiem pożaru: drzwi przeciwpożarowe (drewniane lub stalowe), stalowe bramy (przesuwane lub rolowane), drzwi i ścianki profilowe, kurtyny przeciwpożarowe; a także systemy oddymiania i odprowadzania ciepła.",
+        "Bezpieczeństwo pożarowe — stan eliminujący zagrożenie dla życia i zdrowia ludzi, uzyskiwany przez funkcjonowanie systemu norm prawnych i technicznych środków zabezpieczenia przeciwpożarowego oraz działania zapobiegawcze."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — klasy pożarów i sprzęt gaśniczy",
+      "points": [
+        "Grupy pożarów: A — ciała stałe, B — ciecze palne i substancje topiące się, C — gazy palne, D — metale, F — tłuszcze.",
+        "Wody nie używa się do: substancji reagujących z wodą (karbid), ciał o bardzo wysokiej temperaturze żaru, cieczy lżejszych od wody, urządzeń pod napięciem.",
+        "Piasek odcina dostęp tlenu; nie gasi się nim cieczy lżejszych od wody, precyzyjnych urządzeń mechanicznych ani urządzeń pod napięciem.",
+        "Hydronetka — ok. 15 litrów środka, ręczna pompka dwustronnego działania; najskuteczniej gasi małe pożary ciał stałych.",
+        "Gaśnica musi być czerwona, mieć etykietę i zawór samozamykalny; powyżej 3 kg środka — wąż nie krótszy niż 80% wysokości gaśnicy; gaz napędowy wyłącznie niepalny (azot, hel, argon).",
+        "Koc gaśniczy — z włókna szklanego, ok. 3 m², przykrywa się ogień od swojej strony; wielokrotnego użytku.",
+        "Agregat gaśniczy — ponad 20 kg środka, obsługa co najmniej 2 osób; chroni np. stacje benzynowe, lakiernie, hangary.",
+        "Kula gaśnicza — aktywacja w 3—10 sekund, gasi do 10 m²; sito kominowe — do gaszenia sadzy w kominie; hydranty: uliczne (nadziemne, podziemne) i wewnętrzne.",
+        "Podręczny sprzęt gaśniczy służy do gaszenia pożaru w pierwszej fazie — lekki i prosty, mogą go użyć osoby bez przeszkolenia (instrukcja na etykiecie); najprostszy sprzęt to wiadro i łopata, najprostsze środki — woda i piasek.",
+        "Woda pochłania ciepło, a powstająca para wypiera tlen; ciecze mieszające się z wodą rozcieńcza; jest tania, łatwo dostępna, może być podawana jako strumień zwarty, rozproszony lub mgła wodna.",
+        "Dlaczego nie woda: karbid — pożar się zwiększa; bardzo wysoka temperatura żaru — rozkład wody na wodór i tlen; ciecze lżejsze od wody — rozbryzg; urządzenia pod napięciem — porażenie prądem.",
+        "Piasek jest tani, higroskopijny (zmienne właściwości), może przewodzić prąd i zimą się zbrylać; w cieczach lżejszych od wody tonie, precyzyjne urządzenia uszkadza mechanicznie.",
+        "Hydronetka: wąż zakończony prądownicą; druga osoba może dolewać wodę, by gaszenie było ciągłe; hydronetki są wypierane przez nowocześniejszy sprzęt.",
+        "Gaśnica musi być przymocowana zaczepem na ścianie lub stać w specjalnej obejmie; mniejsze stosuje się w samochodach, większe w obiektach publicznych i przemysłowych.",
+        "Koc gaśniczy: dawniej z konopi z azbestem; nadaje się do przykrycia małego przedmiotu lub beczki z palącą się cieczą; wada — tylko małe źródła ognia blisko gaszącego; zaleta — nie niszczy gaszonych przedmiotów.",
+        "Węże pożarnicze: ssawne — z drucianym oplotem przeciw spłaszczeniu, do zasysania wody z otwartego zbiornika (np. rzeki) i środka pianotwórczego; tłoczne — bez oplotu, łatwo zwijalne, z koszulką z tworzywa, do tłoczenia wody i roztworów pianotwórczych. Węże łączy się z pompą oraz z prądownicą (tłoczne) lub smokiem ssawnym (ssawne).",
+        "Agregat gaśniczy ma znacznie większe natężenie strumienia niż gaśnica; chroni też warsztaty samochodowe; montowany na podwoziu, wózku, samochodzie lub przyczepie.",
+        "Kula gaśnicza: płomień zapala lont prochowy, wybuch rozrywa kulę z czerwoną powłoką i uwalnia proszek.",
+        "Sito kominowe przydusza pożar sadzy i zapobiega wydostawaniu się płonącej sadzy z komina — chroni dachy i sąsiednie budynki.",
+        "Hydranty wewnętrzne są natynkowe lub wnękowe; hydrantem nazywa się też elastyczny wąż do wyprowadzania wody z sieci lub zbiornika.",
+        "Gaśnicę uruchamia się bez odwracania jej do góry dnem (dawniej odwracano gaśnicę, aby specjalnym zbijakiem uwolnić gaz napędowy).",
+        "Piasek zapobiega rozbryzgom palącej się substancji."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — postępowanie przy pożarze i ewakuacja",
+      "points": [
+        "Równocześnie z alarmowaniem należy gasić pożar dostępnym sprzętem i pomagać poszkodowanym.",
+        "Straż Pożarną wzywa się pod numer alarmowy 998.",
+        "Do przybycia straży akcją kieruje właściciel, zarządca, użytkownik lub osoba najbardziej energiczna i opanowana; potem Kierownik Akcji Ratowniczej.",
+        "W pierwszej kolejności ewakuuje się osoby z pomieszczeń objętych pożarem lub zagrożonych odcięciem.",
+        "Przy zadymieniu poruszać się w pozycji schylonej, zasłaniać usta mokrą chustką, iść wzdłuż ścian; po zadymionych schodach schodzić tyłem na czworakach.",
+        "Ewakuacja mienia nie może odbywać się kosztem ratowania ludzi.",
+        "Przy odciętej drodze ucieczki: zostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić mokrym materiałem, otworzyć okna i czekać przy oknie.",
+        "Ewakuowanych umieszcza się w bezpiecznej odległości od budynku, od strony zawietrznej.",
+        "Ewakuuje się ze szczególnym uwzględnieniem osób niepełnosprawnych, starszych, dzieci i nieznających obiektu; w miarę możliwości zabezpiecza się mienie; osoby przy drodze dojazdowej wskazują kierunek służbom; osoby postronne zachowują spokój i słuchają kierujących akcją.",
+        "Kierownik Akcji Ratowniczej może żądać pomocy od instytucji państwowych, organizacji społecznych, jednostek gospodarczych i obywateli.",
+        "Zasady ewakuacji: niezwłocznie powiadomić wszystkich o zagrożeniu; poruszać się zgodnie ze znakami ewakuacyjnymi; na korytarzu szybkim krokiem, bez biegania i wyprzedzania; nie zatrzymywać się i nie iść pod prąd; na schodach od razu w dół, tempo jak osoby poniżej, bez popychania i krzyków.",
+        "Przy zablokowanym wyjściu kieruje się ludzi do drugiego wyjścia tak, aby nie było spiętrzenia i paniki; nie rozdziela się grup i zachowuje płynność ruchu.",
+        "Równocześnie z ewakuacją ludzi ewakuuje się najcenniejsze mienie i gasi pożar podręcznym sprzętem; po ewakuacji sprawdza się pomieszczenia — podejrzenie, że ktoś został, zgłasza się dowódcy akcji; kierujący ewakuacją informuje przybyłą PSP o przebiegu i podporządkowuje się dowódcy."
+      ]
+    },
+    {
+      "heading": "2. Ochrona przeciwpożarowa — konsekwencje zaniedbań i PSP",
+      "points": [
+        "Konsekwencje zaniedbań ponosi właściciel firmy lub zarząd, niezależnie od wyznaczenia osoby odpowiedzialnej.",
+        "Art. 283 § 1 Kodeksu pracy — wykroczenie zagrożone grzywną od 100 zł do 30 000 zł.",
+        "Art. 163 § 1 pkt 1 Kodeksu karnego — kara pozbawienia wolności od roku do lat 12.",
+        "Inne skutki: straty materialne, odmowa wypłaty odszkodowania przez ubezpieczyciela, procesy sądowe ze strony poszkodowanych.",
+        "Kontrolę przestrzegania przepisów ppoż. prowadzą Państwowa Straż Pożarna i Państwowa Inspekcja Pracy; środki prawne wydaje Państwowa Straż Pożarna.",
+        "Zadania PSP: analiza zagrożeń, kontrole, wstępne ustalanie przyczyn pożarów, współpraca z wymiarem sprawiedliwości, postępowania administracyjne.",
+        "Zadania PSP (pełna lista): analiza zagrożeń pożarowych i miejscowych; inicjowanie poprawy bezpieczeństwa pożarowego; kontrole przepisów ppoż.; rozpoznawanie i ewidencja zagrożeń; wstępne ustalanie przyczyn pożarów; inicjowanie eliminowania przyczyn; współpraca z wymiarem sprawiedliwości; opiniowanie sposobów postępowania na wypadek zagrożenia; postępowania administracyjne."
+      ]
+    },
+    {
+      "heading": "3. Ochrona środowiska — pojęcia i zanieczyszczenia powietrza",
+      "points": [
+        "Ochrona środowiska — całokształt działań (czasem zaniechań) na rzecz właściwego wykorzystania i odnawiania zasobów środowiska; nauka o ochronie środowiska to sozologia.",
+        "Podstawa prawna: ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska” (Dz. U. Nr 62, poz. 627 ze zm.).",
+        "Czynniki biotyczne — oddziaływanie żywych organizmów na inne; abiotyczne — natury fizycznej (gleba, klimat, temperatura, światło, ciśnienie itp.).",
+        "Źródła zanieczyszczeń: naturalne (np. wulkany) i sztuczne (antropogeniczne).",
+        "Najbardziej zanieczyszczają atmosferę: dwutlenek węgla, dwutlenek siarki, tlenki azotu i pyły; procesy spalania są głównym źródłem antropogenicznym.",
+        "Kwaśny deszcz zawiera kwas siarkowy i azotowy; smog — duże stężenie pyłów i gazów, głównie z motoryzacji i przemysłu.",
+        "Dziura ozonowa — spadek ozonu na wysokości 15—20 km, głównie nad biegunem południowym, ok. 3% na rok; główna przyczyna — freony.",
+        "Naturalny efekt cieplarniany podnosi temperaturę Ziemi o około 15°C.",
+        "Urządzenia oczyszczające powietrze: cyklony, filtry workowe, elektrofiltry, skrubery, odpylacze.",
+        "Sposoby ochrony środowiska: racjonalne gospodarowanie zgodnie z zasadą zrównoważonego rozwoju, przeciwdziałanie zanieczyszczeniom, utrzymywanie i przywracanie elementów przyrody do właściwego stanu, recykling.",
+        "Czynniki abiotyczne (pełna lista): typ gleby, ukształtowanie terenu, skalistość, czynniki chemiczne (skład atmosfery i wód, zasolenie, natlenienie), klimat, wilgotność powietrza, temperatura, światło, ciśnienie atmosferyczne, promieniowanie i jonizacja powietrza.",
+        "Zanieczyszczenia antropogeniczne wynikają z systematycznej emisji lub z awarii; stan środowiska ocenia się względem stanu naturalnego.",
+        "Zanieczyszczenia powietrza dzielą się na pyłowe i gazowe; są najbardziej niebezpieczne, bo mobilne — mogą skazić duże obszary, a człowiek jest wobec nich bezradny.",
+        "Antropogeniczne źródła zanieczyszczeń powietrza: chemiczna konwersja paliw, wydobycie i transport surowców, przemysł chemiczny, rafineryjny, metalurgiczny, cementownie, składowiska surowców i odpadów, motoryzacja. Naturalne: wulkany, wietrzenie skał, pożary lasów i stepów, wyładowania atmosferyczne, pył kosmiczny, procesy biologiczne.",
+        "Skutki zanieczyszczeń powietrza: choroby układu oddechowego, zaburzenia reprodukcji, alergie; korozja metali i materiałów budowlanych; zaburzenie fotosyntezy, transpiracji i oddychania roślin; wtórne skażenie wody i gleby; zmiany klimatu; zakwaszenie wody pitnej (więcej ołowiu, miedzi, cynku, glinu, kadmu).",
+        "Kwaśny deszcz zwiększa śmiertelność niemowląt i osłabia płuca; kwas siarkowy pochodzi ze spalania zasiarczonego węgla.",
+        "Dziura ozonowa obserwowana od końca lat 80.; chlor z freonów (uwolniony przez UV) rozkłada ozon do tlenu i tlenku chloru; poza Antarktydą spadek 0,4—0,8% na rok w umiarkowanych szerokościach północnych i poniżej 0,2% w tropikach; ozon filtruje promieniowanie UV.",
+        "Efekt cieplarniany wywołują gazy cieplarniane ograniczające ucieczkę promieniowania cieplnego; nazwa od szklarni; występuje też na Marsie i Wenus.",
+        "Działania oczyszczające powietrze: zmiany technologiczne, urządzenia oczyszczające, prawidłowe kryteria oceny zanieczyszczeń.",
+        "Zanieczyszczenie środowiska — wprowadzanie do powietrza, wody lub gruntu substancji (stałych, ciekłych, gazowych) lub energii w takich ilościach i składzie, że może to ujemnie wpływać na zdrowie człowieka, przyrodę, klimat, glebę, wodę.",
+        "Światowa Organizacja Zdrowia (WHO): powietrze zanieczyszczone to takie, którego skład chemiczny może ujemnie wpłynąć na zdrowie człowieka, roślin i zwierząt oraz na inne elementy środowiska (wodę, glebę). Przy skażeniu powietrza można jedynie czekać, aż zanieczyszczenie opadnie lub się rozrzedzi.",
+        "Zakwaszone (przez zanieczyszczenia powietrza) wody niszczą instalacje wodociągowe, wypłukując z nich substancje toksyczne.",
+        "Czynniki biotyczne regulują rozmieszczenie i liczebność populacji (zespołu organizmów danego gatunku żyjących w danym środowisku)."
+      ]
+    },
+    {
+      "heading": "3. Ochrona środowiska — woda, gleba, spaliny",
+      "points": [
+        "Głównym źródłem zanieczyszczeń wody są ścieki; inne: transport, pestycydy i nawozy, odpady, eutrofizacja.",
+        "Eutrofizacja — wzbogacanie zbiorników wodnych w substancje pokarmowe, wzrost żyzności wód; przyspieszają ją ścieki i intensyfikacja rolnictwa (np. gnojówka).",
+        "Substancje refrakcyjne — zanieczyszczenia bardzo trwałe, trudno ulegające rozkładowi.",
+        "Podział zanieczyszczeń wody według trwałości: rozkładalne (ścieki domowe), nierozkładalne (sole metali ciężkich), trwałe (pestycydy, fenole, produkty destylacji ropy).",
+        "Według źródła: punktowe (kanalizacja), powierzchniowe/obszarowe (spływy z pól i lasów), liniowe/pasmowe (komunikacja, rurociągi).",
+        "Oczyszczanie ścieków: procesy fizyczne (cedzenie, sedymentacja, flotacja, filtracja), biologiczne i chemiczne.",
+        "Źródła zanieczyszczeń gleby: odpady, gazy i pyły przemysłowe, spaliny, nawozy sztuczne i środki ochrony roślin; skutki — m.in. spadek plonów.",
+        "EURO (I—VI) — europejskie normy emisji spalin dla nowych samochodów sprzedawanych w UE.",
+        "Zanieczyszczenie wód — niekorzystne zmiany właściwości fizycznych, chemicznych i bakteriologicznych przez nadmiar substancji nieorganicznych, organicznych, radioaktywnych lub ciepła, ograniczające użycie wody do picia i w gospodarce.",
+        "Obieg wody zakłócają: wycinanie lasów, monokultura w rolnictwie, niewłaściwe i nadmierne zabiegi rolnicze, urbanizacja.",
+        "Skrajna eutrofizacja (np. surowe ścieki lub gnojówka w jeziorze) powoduje niemal całkowity zanik organizmów wyższych poza cienką, kilkudziesięciocentymetrową warstwą przy powierzchni.",
+        "Według pochodzenia zanieczyszczenia wody są naturalne (zasolenie, związki żelaza) i sztuczne; sztuczne dzielą się na biologiczne (bakterie, wirusy, grzyby, glony) i chemiczne (oleje, benzyna, smary, ropa, nawozy, pestycydy, kwasy, zasady).",
+        "Według szkodliwości: bezpośrednio szkodliwe (fenole, kwas cyjanowodorowy, kwas siarkowy i siarczany, kwaśny deszcz) i pośrednio szkodliwe (obniżają ilość tlenu w wodzie poniżej poziomu potrzebnego organizmom).",
+        "Procesy biologiczne w oczyszczalni usuwają zanieczyszczenia koloidalne i rozpuszczone oraz przetwarzają osady; chemiczne — oczyszczają ścieki przemysłowe i usuwają związki biogenne.",
+        "Skutki zanieczyszczenia gleby: zmiany chemiczne, fizyczne i biologiczne, spadek urodzajności i jakości plonów, zakłócenie wegetacji, niszczenie szaty roślinnej, korozja fundamentów i rurociągów; wymywane zanieczyszczenia trafiają do wód.",
+        "Spaliny to gazowy efekt spalania paliwa, także mgła i dym; nowe pojazdy niespełniające norm EURO nie mogą być sprzedawane w UE, ale normy nie dotyczą pojazdów już jeżdżących.",
+        "Zanieczyszczenia bezpośrednio szkodliwe dla wód i ich źródła: fenole (gazownie, koksownie), kwas cyjanowodorowy (gazownie), kwas siarkowy i siarczany, kwaśny deszcz (fabryki nawozów sztucznych, celulozownie, fabryki włókien sztucznych).",
+        "Oczyszczanie ścieków — usuwanie ze ścieków zanieczyszczeń w celu zminimalizowania ich szkodliwego wpływu na wody powierzchniowe lub grunty; oczyszczalnia ścieków to zespół urządzeń i obiektów do oczyszczania ścieków (w dużych oczyszczalniach poszczególne procesy prowadzi się w wydzielonych urządzeniach). Procesy fizyczne usuwają zanieczyszczenia stałe.",
+        "Zanieczyszczenia gleb i gruntów — wszelkie związki chemiczne, pierwiastki promieniotwórcze i mikroorganizmy występujące w glebie w zwiększonych ilościach; gazy i pyły zanieczyszczające glebę pochodzą m.in. z zakładów chemicznych, petrochemicznych, cementowni, hut i elektrowni."
+      ]
+    },
+    {
+      "heading": "3. Ochrona środowiska — utylizacja, recykling, energia",
+      "points": [
+        "Utylizacja — przygotowanie do powtórnego wykorzystania (potocznie też zniszczenie) odpadów; najczęstszy sposób to spalanie.",
+        "Recykling ogranicza zużycie surowców naturalnych i ilość odpadów; definiuje go ustawa o odpadach z dnia 27 kwietnia 2001 roku (Dz. U. z 2001 r. Nr 62, poz. 628).",
+        "Kody recyklingowe tworzyw wprowadziło Society of the Plastics Industry Inc. (USA) w 1988 r.: trzy strzałki w trójkącie, liczba w środku, skrót polimeru pod spodem.",
+        "Biodegradacja — biochemiczny rozkład związków organicznych pod wpływem światła, tlenu, wody i organizmów; przyspieszona biodegradacja to kompostowanie.",
+        "W biologicznych oczyszczalniach rozkładowi może ulegać nawet 95% substancji szkodliwych.",
+        "Odnawialne źródła energii: woda, wiatr, słońce, energia geotermiczna, biogaz; ich udział nie przekroczy kilkunastu procent; wadą jest wysoki koszt w stosunku do mocy.",
+        "Przykłady utylizacji: makulatura w papiernictwie, złom w hutnictwie, fekalia do nawożenia; piece utylizacyjne bywają używane do ogrzewania osiedli; utylizacja to też przerób padliny i odpadów mięsnych i rybnych na mączki pastewne, tłuszcze techniczne, żelatynę i kleje.",
+        "Recykling dotyczy produkcji dóbr i powstawania z nich odpadów; system recyklingu tworzą m.in.: polityka państwa, technologie przetwarzania, projektowanie dóbr z materiałów nadających się do recyklingu, jednorodnych i łatwych do rozdzielenia, oznaczanie opakowań, edukacja ekologiczna, logistyka zbiórki i przetwarzanie odpadów.",
+        "Kody recyklingu pierwotnie dotyczyły opakowań domowych z tworzyw, potem rozszerzono je na inne tworzywa i metale; strzałki są skierowane zgodnie z ruchem wskazówek zegara, a skrót pochodzi od angielskiej nazwy polimeru.",
+        "Biologiczna oczyszczalnia potrzebuje odpowiedniej temperatury i braku substancji toksycznych dla mikroorganizmów (detergenty, pestycydy); trwałe tworzywa i detergenty zastępuje się biodegradowalnymi.",
+        "Większość energii pochodzi z ropy naftowej, gazu ziemnego i węgla; OZE mają znikomy wpływ na środowisko i będą jedynie uzupełnieniem energetyki konwencjonalnej.",
+        "Utylizacja dotyczy też (w ostatnich latach) przygotowania do ponownego wykorzystania lub zniszczenia sprzętu elektronicznego, stolarki budowlanej i sprzętu biurowego. Mączki pastewne z utylizacji: mięsno-kostna, z krwi, kostna, rybna, keratynowa, precypitat paszowy, susz z krwi.",
+        "Recykling wg ustawy o odpadach — odzysk polegający na powtórnym przetwarzaniu substancji lub materiałów z odpadów w procesie produkcyjnym w celu uzyskania materiału o przeznaczeniu pierwotnym lub innym, w tym recykling organiczny, z wyjątkiem odzysku energii."
+      ],
+      "images": [
+        {
+          "src": "img/bhp1/symbol-recyklingu.jpg",
+          "caption": "Symbol recyklingu – trzy strzałki tworzące zamknięty obieg (ponowne wykorzystanie odpadów jako surowca)."
+        },
+        {
+          "src": "img/bhp1/kod-recyklingu-pp-05.jpg",
+          "caption": "Kod recyklingu tworzyw sztucznych: trzy strzałki w trójkącie, w środku numer, pod spodem skrót polimeru – tu 05 PP = polipropylen."
+        }
+      ]
+    },
+    {
+      "heading": "3. Ochrona środowiska — obowiązki pracodawcy, kontrole i kary",
+      "points": [
+        "Podmiotem korzystającym ze środowiska jest m.in. osoba prowadząca działalność wytwórczą w rolnictwie (uprawy, chów i hodowla zwierząt, ogrodnictwo, leśnictwo, rybactwo śródlądowe).",
+        "Pozwolenia wymagane są na: wprowadzanie gazów lub pyłów do powietrza, ścieków do wód lub ziemi, wytwarzanie odpadów.",
+        "Zezwolenie na zbieranie i transport odpadów wydaje starosta (ustawa o odpadach — art. 28).",
+        "Ewidencję korzystania ze środowiska aktualizuje się co pół roku.",
+        "Ewidencję odpadów prowadzi się na karcie ewidencji odpadu i karcie przekazania odpadu; nie dotyczy wytwórców odpadów komunalnych.",
+        "Opłata produktowa i depozytowa dotyczy m.in. opakowań oraz akumulatorów, baterii, olejów smarowych, lamp wyładowczych i opon.",
+        "Kontroli dokonuje Wojewódzki Inspektor Ochrony Środowiska; kontrola nie wcześniej niż po 7 dniach i nie później niż 30 dni od zawiadomienia, może trwać 28 dni.",
+        "Kary: 10-krotność jednostkowej stawki opłat (powietrze, pobór wód) lub 0,1 stawki za każdą dobę (naruszenia przy składowaniu i magazynowaniu odpadów).",
+        "Usunięcie drzew i krzewów wymaga zezwolenia wójta, burmistrza lub prezydenta miasta (dla zabytków — wojewódzkiego konserwatora zabytków); nie dotyczy drzew owocowych, plantacji i drzew do 5 lat.",
+        "Kara za zniszczenie drzew lub krzewów — trzykrotność opłaty za ich usunięcie.",
+        "Podmioty korzystające ze środowiska: przedsiębiorca, rolnik produkujący, osoba z indywidualną praktyką medyczną, jednostka organizacyjna niebędąca przedsiębiorcą, osoba fizyczna, gdy korzystanie wymaga pozwolenia.",
+        "Rodzaje pozwoleń: zintegrowane, na wprowadzanie gazów lub pyłów do powietrza, wodnoprawne (ścieki do wód lub ziemi), na wytwarzanie odpadów.",
+        "Ze zezwolenia na zbieranie i transport zwolniony jest wytwórca odpadów z pozwoleniem na wytwarzanie odpadów lub zatwierdzonym programem gospodarki odpadami niebezpiecznymi, a także posiadacz, który łącznie odzyskuje/unieszkodliwia oraz zbiera/transportuje odpady.",
+        "Ewidencja korzystania ze środowiska zawiera: ilość i rodzaje gazów/pyłów do powietrza, ilość i jakość pobranej wody, ilość, stan i skład ścieków, wielkość i zagospodarowanie terenu, z którego odprowadza się ścieki.",
+        "Ewidencji odpadów nie prowadzą też osoby fizyczne i jednostki niebędące przedsiębiorcami wykorzystujące odpady na własne potrzeby; minister ds. środowiska określa odpady zwolnione z ewidencji i małe/średnie firmy z uproszczoną ewidencją.",
+        "Opłata produktowa/depozytowa dotyczy opakowań z tworzyw, aluminium, stali, papieru i tektury, szkła (poza ampułkami) i drewna oraz akumulatorów, ogniw i baterii, olejów smarowych, lamp wyładowczych (bez świetlówek kompaktowych) i opon pneumatycznych; obowiązek ma też firma pakująca cudze produkty lub zlecająca produkcję pod swoją marką.",
+        "Zużyty sprzęt elektryczny i elektroniczny reguluje osobna ustawa; czego nie reguluje, do tego stosuje się przepisy o odpadach.",
+        "Kary administracyjne WIOŚ za: przekroczenie emisji gazów/pyłów, przekroczenie warunków ścieków, przekroczenie poboru wody, naruszenie warunków składowania/magazynowania odpadów, przekroczenie poziomu hałasu.",
+        "Zezwolenie na usunięcie drzew może zależeć od przesadzenia ich lub zastąpienia innymi; kary nakłada wójt (burmistrz, prezydent) — także za zniszczenie zieleni przy robotach ziemnych, użycie szkodliwej chemii i złą pielęgnację.",
+        "Posiadacz odpadów prowadzi ich ilościową i jakościową ewidencję zgodnie z katalogiem odpadów i listą odpadów niebezpiecznych; kartę ewidencji odpadu prowadzi się odrębnie dla każdego rodzaju odpadu. Minister ds. środowiska określa wzory dokumentów ewidencji (z wyodrębnieniem komunalnych osadów ściekowych i zużytego sprzętu elektrycznego i elektronicznego).",
+        "Zawiadomienie o kontroli WIOŚ firma otrzymuje listownie albo doręczane osobiście przez pracownika wojewódzkiego inspektoratu ochrony środowiska.",
+        "Ustawa o zużytym sprzęcie elektrycznym i elektronicznym określa wymagania dla tego sprzętu i zasady postępowania ze zużytym sprzętem (ochrona zdrowia, życia i środowiska, zrównoważony rozwój) — cel: mniej odpadów oraz odpowiedni poziom zbierania, odzysku i recyklingu.",
+        "Nawet właściciele małych firm mają obowiązki z zakresu ochrony środowiska — wystarczy używać samochodu lub wytwarzać odpady; większość obowiązków zapisano w ustawie „Prawo ochrony środowiska”."
+      ]
+    },
+    {
+      "heading": "4. Ergonomia — człowiek i środowisko pracy",
+      "points": [
+        "Stan zdrowia — stan względnej równowagi organizmu reagującego na zmienne bodźce środowiska.",
+        "Warunki zewnętrzne dzielą się na naturalne (np. pogodowo-klimatyczne) i sztuczne (stworzone przez człowieka, np. w produkcji).",
+        "Środowisko pracy — zespół czynników materialnych i społecznych, z którymi styka się pracownik podczas pracy.",
+        "Warunki pracy obejmują: higienę pracy, eliminację warunków szkodliwych, kształtowanie środowiska pracy, zapobieganie wypadkom, działalność socjalno-bytową.",
+        "Wpływ środowiska pracy: na poszczególne narządy oraz ogólny na ustrój (np. hałas działa też na układ nerwowy).",
+        "Trzy grupy czynników środowiska pracy: fizyczne, chemiczne, biologiczne.",
+        "Likwidacja lub ograniczenie czynników niebezpiecznych, szkodliwych i uciążliwych to podstawowy obowiązek pracodawcy.",
+        "Kolejność eliminacji zagrożeń: 1) eliminacja źródeł, 2) odsunięcie człowieka, 3) osłonięcie strefy narażenia, 4) ochrony osobiste, 5) dobór pracowników i organizacja pracy.",
+        "Czynniki pogodowo-klimatyczne sprzyjają przeziębieniom, anginom, zapaleniom oskrzeli i płuc, stanom zapalnym dróg moczowych, omdleniom w upały, oparzeniom I i II stopnia, wzrostowi ciśnienia, zmianom zakrzepowym żył.",
+        "Czynniki fizyczne: oświetlenie, hałas, mikroklimat (temperatura, ruch i wilgotność powietrza, promieniowanie podczerwone), drgania i wstrząsy, promieniowanie jonizujące i elektromagnetyczne, pyły (pyłami zajmuje się głównie higiena pracy). Chemiczne: gazy, rozpuszczalniki, materiały pędne, smary, polimery (patologia przemysłowa). Biologiczne: od podrażnień i alergii po infekcje, choroby zakaźne i reakcje toksyczne.",
+        "Szczegóły zasad eliminacji zagrożeń: 1) nieszkodliwe surowce, bezpieczne technologie i maszyny, unieszkodliwianie odpadów; 2) roboty, mechanizacja, automatyzacja, wydzielenie uciążliwych urządzeń, właściwy transport, sygnalizatory i blokada wejścia w strefę zagrożenia; 3) kubatura i materiały dźwiękoizolacyjne, hermetyzacja procesów, osłony, ekrany, wentylacja, klimatyzacja; 4) dobór, przechowywanie, konserwacja i przydział ochron osobistych oraz znaki nakazu; 5) przeciwwskazania zdrowotne, kwalifikacje, dobór psychologiczny, przerwy, rotacja, skrócony czas pracy, szkolenia, kary i nagrody, sygnały i znaki bezpieczeństwa.",
+        "Środowisko pracy — ogół elementów, warunków i czynników wpływających na organizm człowieka w trakcie wykonywania określonej pracy lub zawodu.",
+        "Przykłady warunków pracy: higiena pracy — środki czystości, urządzenia sanitarne; zapobieganie wypadkom — środki ochrony, szkolenia; działalność socjalno-bytowa — dopłaty do obiadów, posiłki regeneracyjne.",
+        "Hałas działa nie tylko na słuch, ale też na ośrodkowy układ nerwowy i układ wegetatywny (autonomiczny); oddziaływanie ogólne bywa istotniejsze niż na poszczególne narządy.",
+        "Bodźce środowiska organizm odbiera przez układ nerwowy i odpowiada reakcjami przystosowawczymi."
+      ]
+    },
+    {
+      "heading": "4. Ergonomia — rodzaje pracy i obciążenia",
+      "points": [
+        "Każda praca zawiera elementy wysiłku umysłowego i fizycznego; właściwiej mówić o pracy z przewagą wysiłku umysłowego lub fizycznego.",
+        "Mechanizacja zastępuje pracę ręczną pracą maszyn, ale jej nie eliminuje; automatyzacja zastępuje pracę fizyczną i umysłową maszynami działającymi na zasadzie samoregulacji.",
+        "Rodzaje obciążenia (kryterium fizjologiczne): fizyczne, psychiczne, nerwowe.",
+        "Praca statyczna — długotrwałe napięcie mięśni bez ruchu (stanie, siedzenie); długie stanie sprzyja obrzękom i żylakom.",
+        "Praca dynamiczna — izotoniczne skurcze mięśni i ruch ciała; jest korzystniejsza dla organizmu niż statyczna.",
+        "Faza beztlenowa trwająca 20—30 sekund powoduje tworzenie się kwasu mlekowego; białkomocz wysiłkowy pojawia się około pół godziny po wysiłku.",
+        "Najbardziej męczące pozycje: stojąca pochylona, siedząca ze skręceniem tułowia, nienaturalne położenie nóg, praca zbyt wysoko lub zbyt nisko.",
+        "Im większy udział kory mózgowej i ośrodków podkorowych, tym bardziej jest to praca umysłowa; za szczególną pracę umysłową uważa się pracę niektórych artystów (muzyków, rzeźbiarzy), która wymaga dużego wysiłku mięśni.",
+        "Automatyzacja to też używanie maszyn do pracy niemożliwej dla ludzi z powodu zagrożeń.",
+        "Stanowiska wymagające długiego utrzymywania jednej pozycji: obsługa monitorów i pulpitów sterowniczych, taśmy montażowe, produkcja elektroniki, jazda ciężarówką na długich trasach, kasa w supermarkecie; potrzebne są odpowiednie wyposażenie i częste przerwy.",
+        "Charakterystyka pracy statycznej: napięte mięśnie uciskają naczynia i utrudniają przepływ krwi, potrzebują dłuższego wypoczynku, zmęczenie przychodzi szybciej mimo małego wydatku energii; skutek — dyskomfort, osłabienie i ból mięśni.",
+        "Wydatek energetyczny pracy dynamicznej rośnie razem ze zużyciem tlenu, tętnem, ciśnieniem krwi i temperaturą ciała; całkowity wydatek to część poza pracą zawodową plus część związana z pracą.",
+        "Wysiłek większy od maksymalnego powoduje niedobór tlenu, a potem dług tlenowy spłacany po wysiłku.",
+        "Skutki ciężkiej pracy dynamicznej: hamowanie wydzielania soków trawiennych, utrata wody (pot), mniejsza objętość krwi krążącej przy szybszym przepływie, więcej potasu i noradrenaliny we krwi, większa aktywność układu współczulnego i rdzenia nadnerczy, białkomocz wysiłkowy.",
+        "Praca dynamiczna jest lepsza, bo skurcz wyciska produkty przemiany materii, a w rozkurczu dopływa krew z tlenem; stanowisko organizuje się tak, aby wysiłek statyczny był jak najmniejszy.",
+        "Każda praca jest dla człowieka źródłem obciążenia biologicznego (zmiany czynnościowe w układach i całym organizmie).",
+        "Przy długotrwałym staniu wzrasta ciśnienie hydrostatyczne w nogach, co sprzyja obrzękom i żylakom.",
+        "Przy pracy umiarkowanej dostarczana ilość tlenu w pełni wystarcza mięśniom, co pozwala znacznie wydłużyć efektywny czas pracy."
+      ]
+    },
+    {
+      "heading": "4. Ergonomia — kierunki i stanowisko pracy",
+      "points": [
+        "Ergonomia — nauka o projektowaniu systemów pracy, produktów i środowiska zgodnie z fizycznymi i umysłowymi możliwościami człowieka.",
+        "Ergonomia koncepcyjna (projektowa) — optymalizacja układu człowiek — technika — środowisko na etapie projektowania; powinna być dominująca.",
+        "Ergonomia korekcyjna — realizowana w istniejącym miejscu pracy (np. poprawa mikroklimatu, wyciszenie hałasu, zamiana pozycji stojącej na siedzącą); ograniczają ją możliwości techniczne i względy ekonomiczne.",
+        "Kryteria antropometryczne: stanowisko dostosowane do co najmniej 90% użytkowników (między 5. a 95. centylem).",
+        "Kryterium biomechaniczne: pozycja przy pracy, czas pracy i częstotliwość czynności.",
+        "Zasięgi rąk: normalny (strefa optymalna), maksymalny, wymuszony (wymaga ruchów tułowia).",
+        "Antropometria — pomiary porównawcze części ciała; Alphonse Bertillon opracował system 11 pomiarów.",
+        "Ergonomiczna ocena stanowiska: po przejęciu stanowiska należy dostosować je do siebie – oświetlenie, położenie narzędzi i dokumentów, wysokość fotela, ustawienie monitora.",
+        "Przykład: osoba praworęczna ustawia lampkę po lewej stronie, a najczęściej używane narzędzia i dokumenty po prawej, w zasięgu rąk; fotel dopasowuje do swojego wzrostu.",
+        "Zakres ergonomii obejmuje: fizjologię, psychologię, antropometrię, biomechanikę, higienę pracy, socjologię, nauki mechaniczne, naukową organizację pracy, technikę i technologię.",
+        "Podstawą projektowania ergonomicznego są badania podstawowe oraz diagnoza i modelowanie; optymalizacja to szukanie najlepszego rozwiązania według kryterium (koszt, droga, wydajność).",
+        "Ergonomia korekcyjna obejmuje analizę i ocenę istniejących warunków, wymagania organizacyjne i społeczne oraz projekt optymalizacji; przebudowy urządzenia wymaga się tylko przy poważnym zagrożeniu zdrowia lub życia.",
+        "Przykłady stanowisk pracy: przy komputerze, fotelu fryzjerskim, taśmie montażowej, w centrali telefonicznej, w kabinie samochodu.",
+        "Zasięgi rąk uzupełniają odległości bezpieczne podane w Polskiej Normie; centyl — punkt skali, poniżej którego leży dany procent wyników (5. centyl = 5% wyników poniżej).",
+        "Antropometria mierzy m.in. długość kości, objętość i proporcje czaszki, proporcje i wagę ciała, rozstaw oczu, pigmentację oczu, włosów i skóry; używa metod statystycznych; przemysł korzysta z niej przy rozmiarach ubrań, obuwia i ławek szkolnych.",
+        "11 pomiarów Bertillona: wzrost, stretch (od lewego ramienia do środkowego palca uniesionej prawej ręki), bust (tors mierzony na siedząco), długość głowy, szerokość głowy, długość prawego ucha, długość lewej stopy, długość lewego środkowego palca, długość ręki od łokcia do środkowego palca, szerokość policzków, długość lewego małego palca.",
+        "W wideocaście poprzednik pani Magdy był wysokim, leworęcznym mężczyzną — dlatego ustawienie stanowiska jej nie odpowiadało.",
+        "Ergonomia to też nauka o przystosowaniu wszystkiego, co nas otacza i czym się posługujemy, do wygody człowieka przy jak najmniejszych stratach dla środowiska i minimalnej liczbie ograniczeń.",
+        "Ergonomia koncepcyjna jest bardziej racjonalna i skuteczna od korekcyjnej, bo działa we wczesnej fazie opracowywania rozwiązań technicznych."
+      ],
+      "images": [
+        {
+          "src": "img/bhp1/ergonomia-za-niskie-drzwi.jpg",
+          "caption": "Źle zaprojektowane ergonomicznie stanowisko: za niski otwór drzwiowy – pracownik ma kłopoty ze swobodnym wejściem do pomieszczenia."
+        },
+        {
+          "src": "img/bhp1/ergonomia-lampa-za-nisko.jpg",
+          "caption": "Źle zaprojektowane ergonomicznie stanowisko: lampa oświetlająca stanowisko wisi za nisko – dotyka głowy i zasłania pole widzenia."
+        },
+        {
+          "src": "img/bhp1/ergonomia-uchwyt-za-wysoko.jpg",
+          "caption": "Źle zaprojektowana przestrzeń: uchwyty umieszczone za wysoko – człowiek musi bardzo wysoko podnieść rękę."
+        }
+      ]
+    },
+    {
+      "heading": "4. Ergonomia — barwy i znaki bezpieczeństwa",
+      "points": [
+        "Cechy barw: kolor, jasność, nasycenie.",
+        "Czerwona — kategoryczny zakaz; oznacza się nią urządzenia przeciwpożarowe i wyłączniki awaryjne.",
+        "Żółta — ostrzeżenie przed niebezpieczeństwem; często w zestawieniu z czarną (pasy żółto-czarne).",
+        "Zielona — miejsca i przejścia bezpieczne, wyjścia awaryjne, punkty pierwszej pomocy.",
+        "Niebieska — nakaz (np. stosowania środków ochrony osobistej), barwa informacyjna.",
+        "Znaczenie ma nie tylko barwa, ale i kształt znaku; barw systemu nie wolno używać do innych celów.",
+        "Nowi pracownicy poznają system barw i znaków podczas szkolenia wstępnego.",
+        "Wzrok najczęściej zatrzymuje się w lewej górnej ćwiartce; górna część tablicy skupia 75% punktów fiksacji, dolna 25%.",
+        "Oświetlenie dobiera się indywidualnie do stanowiska i czynności; przy komputerze potrzebne jest dobre światło do dokumentów i klawiatury oraz do monitora.",
+        "Jasność decyduje o sile odbicia; nasycenie to oddalenie barwy od szarej o tej samej jasności — im mniej szarości, tym barwa jaskrawsza.",
+        "Barwą żółtą oznacza się: ruchome części maszyn, bariery przy miejscach podwyższonych lub zagłębionych, wystające elementy, miejsca groźne uderzeniem lub upadkiem, krawędzie wysuwanych części, elementy grożące skaleczeniem lub zgnieceniem, krawędzie suwnic, przenośników i wózków.",
+        "Barwy działają na psychikę: czerwone pobudzają, czarne przygnębiają, jasne poprawiają nastrój; przy dobrze dobranych barwach wypadków jest znacznie mniej; ważne są też powłoki malarskie, na których kurz nie osiada szybko.",
+        "Rozkład punktów fiksacji wzroku: lewa górna ćwiartka 46%, prawa górna 29%, lewa dolna 11%, prawa dolna 14%; lewa połowa 57%, prawa 43%. Ruchy oka przy czytaniu są skokowe.",
+        "Barwę zieloną stosuje się też do wskazania stacji ratunkowych; czerwoną maluje się również miejsca przechowywania urządzeń przeciwpożarowych."
+      ],
+      "images": [
+        {
+          "src": "img/bhp1/pole-widzenia-fiksacja.jpg",
+          "caption": "Częstotliwość zatrzymywania wzroku w strefach pola obserwacji: lewa górna ćwiartka 46%, prawa górna 29%, lewa dolna 11%, prawa dolna 14%; góra razem 75%, dół 25%, lewa strona 57%, prawa 43% – najważniejsze informacje umieszcza się u góry, z lewej."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Choroba zawodowa – Choroba znajdująca się w wykazie chorób zawodowych, spowodowana czynnikami szkodliwymi występującymi w środowisku pracy.",
+        "Ergonomia – Nauka, której celem jest kształtowanie działalności człowieka, przede wszystkim środowiska pracy, odpowiednio do jego fizjologicznych i psychologicznych możliwości.",
+        "Kodeks pracy – Główny akt prawny regulujący zagadnienia prawa pracy.",
+        "Mikroklimat (środowisko pracy) – Czynnik kształtujący środowisko pracy; jego elementy to temperatura, wilgotność względna powietrza i prędkość przepływu powietrza.",
+        "Pożar – Niekontrolowane rozprzestrzenianie się ognia.",
+        "Stanowisko pracy – Układ, w którym człowiek za pomocą środków pracy, w określonej przestrzeni i środowisku, wykonuje zorganizowane czynności mające na celu wytworzenie określonego produktu.",
+        "Wypadek przy pracy – Nagłe, nieprzewidziane zdarzenie wywołane przyczyną zewnętrzną, które wystąpiło w związku z pracą i spowodowało uraz ciała.",
+        "Wypadek zbiorowy – Wypadek, w którym urazu doznały co najmniej dwie osoby."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Zakres bhp — z czego się składa?",
+      "back": "Techniki bezpieczeństwa pracy, podstawy higieny pracy, elementy fizjologii, socjologii, organizacji i ekonomiki pracy oraz podstawy ergonomii."
+    },
+    {
+      "front": "Higiena pracy",
+      "back": "Nauka zajmująca się określaniem norm kształtowania zdrowych, higienicznych, nieuciążliwych i nieszkodliwych warunków pracy oraz zapobieganiem chorobom zawodowym."
+    },
+    {
+      "front": "Fizjologia pracy",
+      "back": "Badanie wpływu środowiska na organizm człowieka podczas wykonywania przez niego pracy."
+    },
+    {
+      "front": "Zagrożenie",
+      "back": "Zjawisko wywołane działaniem sił natury bądź człowieka, które powoduje, że poczucie bezpieczeństwa maleje lub zanika; sytuacja grożąca wypadkiem."
+    },
+    {
+      "front": "Czym różni się zagrożenie od ryzyka?",
+      "back": "To dwa odrębne zjawiska (jak przyczyna i skutek). Np. zwisające sople to zagrożenie, a przechodzenie pod nimi to ryzyko."
+    },
+    {
+      "front": "Ile warunków musi spełnić zdarzenie, by było wypadkiem przy pracy?",
+      "back": "Wszystkie cztery warunki podane w definicji — równocześnie."
+    },
+    {
+      "front": "Uraz",
+      "back": "Uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego."
+    },
+    {
+      "front": "Wypadek traktowany na równi z wypadkiem przy pracy — przykłady",
+      "back": "Wypadek w czasie: zadań zleconych przez organizacje związkowe, szkolenia z powszechnej samoobrony, podróży służbowej, pracy na umowie zlecenia lub agencyjnej, odbywania zastępczych form służby wojskowej."
+    },
+    {
+      "front": "Jaka ustawa określa rodzaje wypadków przy pracy?",
+      "back": "Art. 3 ust. 6 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych."
+    },
+    {
+      "front": "Obowiązki pracodawcy po wypadku przy pracy — zakres",
+      "back": "Weryfikacja stanu faktycznego, ustalenie przyczyn wypadku, zapobieganie wypadkom na przyszłość oraz obowiązki informacyjne i ewidencyjne."
+    },
+    {
+      "front": "Pierwsza czynność postępowania powypadkowego",
+      "back": "Powołanie zespołu powypadkowego."
+    },
+    {
+      "front": "Termin sporządzenia protokołu powypadkowego",
+      "back": "14 dni od daty wypadku."
+    },
+    {
+      "front": "Termin zatwierdzenia protokołu powypadkowego",
+      "back": "5 dni od daty sporządzenia; zatwierdza go kierownik zakładu."
+    },
+    {
+      "front": "Kategorie skutków wypadków przy pracy",
+      "back": "Moralne i ekonomiczne."
+    },
+    {
+      "front": "Choroba zawodowa",
+      "back": "Choroba z wykazu chorób zawodowych, spowodowana (bezspornie lub z wysokim prawdopodobieństwem) czynnikami szkodliwymi w środowisku pracy lub sposobem wykonywania pracy."
+    },
+    {
+      "front": "Kto zgłasza podejrzenie choroby zawodowej?",
+      "back": "Pracodawca, lekarz, lekarz dentysta oraz pracownik lub były pracownik (pracownik zatrudniony — za pośrednictwem lekarza profilaktyka)."
+    },
+    {
+      "front": "Do kogo zgłasza się podejrzenie choroby zawodowej?",
+      "back": "Do właściwego państwowego inspektora sanitarnego i właściwego inspektora pracy."
+    },
+    {
+      "front": "Kto wydaje decyzję o stwierdzeniu choroby zawodowej?",
+      "back": "Państwowy powiatowy inspektor sanitarny."
+    },
+    {
+      "front": "Trzy rodzaje czynników w środowisku pracy (wg Polskich Norm)",
+      "back": "Niebezpieczne, szkodliwe i uciążliwe."
+    },
+    {
+      "front": "Czynnik niebezpieczny",
+      "back": "Czynnik, który może prowadzić do powstania u pracującego urazu (wypadku przy pracy), np. czynniki mechaniczne, prąd elektryczny."
+    },
+    {
+      "front": "Czynnik szkodliwy",
+      "back": "Czynnik, którego oddziaływanie prowadzi lub może prowadzić do choroby zawodowej lub innego schorzenia związanego z pracą."
+    },
+    {
+      "front": "Przykłady czynników szkodliwych",
+      "back": "Hałas, drgania mechaniczne, pyły (np. drewna, mąki), pyły z azbestem, benzen, mikroklimat zimny i gorący, promieniowanie laserowe, pole elektromagnetyczne 0 Hz — 300 GHz."
+    },
+    {
+      "front": "NDS",
+      "back": "Najwyższe Dopuszczalne Stężenie — średnia ważona stężenia przy 8-godzinnym dobowym i przeciętnym tygodniowym czasie pracy, niepowodująca ujemnych zmian zdrowia pracownika i przyszłych pokoleń."
+    },
+    {
+      "front": "NDSCH",
+      "back": "Najwyższe Dopuszczalne Stężenie Chwilowe — nie powinno szkodzić, jeśli występuje nie dłużej niż 15 minut, nie częściej niż 2 razy na zmianę, w odstępie min. 1 godziny."
+    },
+    {
+      "front": "NDSP",
+      "back": "Najwyższe Dopuszczalne Stężenie Pułapowe — wartość, która ze względu na zagrożenie zdrowia lub życia nie może być przekroczona w żadnym momencie."
+    },
+    {
+      "front": "Czynnik uciążliwy",
+      "back": "Czynnik powodujący złe samopoczucie lub nadmierne zmęczenie, który nie prowadzi do trwałego pogorszenia zdrowia, ale może obniżać wydajność."
+    },
+    {
+      "front": "Główne czynniki uciążliwe",
+      "back": "Mikroklimat, monotonia, obciążenie psychiczne, obciążenie statyczne, oświetlenie, wysiłek fizyczny."
+    },
+    {
+      "front": "Elementy mikroklimatu",
+      "back": "Temperatura, wilgotność względna powietrza oraz prędkość jego przepływu."
+    },
+    {
+      "front": "Ochrona przeciwpożarowa — definicja",
+      "back": "Realizacja przedsięwzięć chroniących życie, zdrowie, mienie lub środowisko przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem."
+    },
+    {
+      "front": "Ustawa o ochronie przeciwpożarowej — data",
+      "back": "Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 1991 r. Nr 81, poz. 351)."
+    },
+    {
+      "front": "Kto odpowiada za stan bhp i ppoż. w zakładzie?",
+      "back": "Pracodawca — właściciel firmy lub jej zarząd."
+    },
+    {
+      "front": "Art. 209¹ Kodeksu pracy",
+      "back": "Od 18 stycznia 2009 r. nakłada na pracodawcę obowiązek wyznaczenia pracownika do ochrony przeciwpożarowej i ewakuacji."
+    },
+    {
+      "front": "Co powinna zawierać informacja o osobie od pierwszej pomocy, ewakuacji i ppoż.?",
+      "back": "Imię i nazwisko, miejsce wykonywania pracy oraz numer telefonu lub innego środka komunikacji elektronicznej."
+    },
+    {
+      "front": "Certyfikaty ITB",
+      "back": "Certyfikaty Instytutu Techniki Budowlanej — dla wyrobów i usług budowlanych, zakładowej kontroli produkcji, systemów zarządzania, kompetencji personelu."
+    },
+    {
+      "front": "CNBOP",
+      "back": "Centrum Naukowo-Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego — bada i certyfikuje wyroby ppoż. oraz wydaje opinie i ekspertyzy."
+    },
+    {
+      "front": "Najczęstsza przyczyna pożarów",
+      "back": "Nieostrożność oraz lekkomyślność ludzi."
+    },
+    {
+      "front": "Samozapalenie — jakie materiały?",
+      "back": "Materiały zaolejone (np. czyściwo w skrzyni) oraz niewłaściwie składowane wilgotne: węgiel, siano, pasza, nawozy sztuczne."
+    },
+    {
+      "front": "Jak zapobiegać pożarom od piorunów?",
+      "back": "Tylko przez właściwie wykonane instalacje odgromowe (piorunochronne)."
+    },
+    {
+      "front": "Jak zapobiegać elektryczności statycznej?",
+      "back": "Przez uziemianie maszyn, zbiorników i instalacji."
+    },
+    {
+      "front": "Spalanie",
+      "back": "Reakcja chemiczna między materiałem palnym a utleniaczem z wydzieleniem ciepła i światła."
+    },
+    {
+      "front": "Zapłon a samozapłon",
+      "back": "Zapłon wymaga punktowego bodźca (zapałka, iskra), samozapłon — ciągłego bodźca energetycznego (np. strumień ciepła)."
+    },
+    {
+      "front": "Temperatura zapłonu",
+      "back": "Temperatura, do jakiej należy wstępnie ogrzać paliwo, aby wywołać jego zapalenie."
+    },
+    {
+      "front": "Temperatura samozapłonu",
+      "back": "Temperatura powodująca samorzutne zapoczątkowanie spalania materiałów samozapalnych."
+    },
+    {
+      "front": "Bezpieczeństwo pożarowe",
+      "back": "Stan eliminujący zagrożenie dla życia i zdrowia ludzi, uzyskiwany przez system norm prawnych, techniczne środki zabezpieczenia i działania zapobiegawcze."
+    },
+    {
+      "front": "Bierna ochrona przeciwpożarowa",
+      "back": "Pasywna — prace budowlane zwiększające bezpieczeństwo i minimalizujące straty w razie pożaru (np. ognioodporne ściany, strefy pożarowe)."
+    },
+    {
+      "front": "Czynna ochrona przeciwpożarowa",
+      "back": "Aktywna — rozwiązania zwiększające skuteczność działań w chwili pożaru: systemy tłumienia, oddymiania, wentylacji pożarowej, alarmowe."
+    },
+    {
+      "front": "Podstawa systemów tłumienia ognia",
+      "back": "Instalacje tryskaczowe (zraszaczowe)."
+    },
+    {
+      "front": "Pożar grupy A",
+      "back": "Pożar ciał stałych."
+    },
+    {
+      "front": "Pożar grupy B",
+      "back": "Pożar cieczy palnych i substancji topiących się pod wpływem ciepła."
+    },
+    {
+      "front": "Pożar grupy C",
+      "back": "Pożar gazów palnych."
+    },
+    {
+      "front": "Pożar grupy D",
+      "back": "Pożar metali."
+    },
+    {
+      "front": "Pożar grupy F",
+      "back": "Pożar tłuszczów."
+    },
+    {
+      "front": "Czego nie gasić wodą?",
+      "back": "Substancji reagujących z wodą (karbid), ciał o bardzo wysokiej temperaturze żaru, cieczy lżejszych od wody, urządzeń pod napięciem."
+    },
+    {
+      "front": "Jak działa piasek jako środek gaśniczy?",
+      "back": "Odcina dostęp tlenu do palącego się materiału i zapobiega rozbryzgom."
+    },
+    {
+      "front": "Hydronetka",
+      "back": "Przenośny sprzęt z ręczną pompką dwustronnego działania, ok. 15 litrów wody lub piany; najlepsza do małych pożarów ciał stałych."
+    },
+    {
+      "front": "Wymogi dla gaśnicy",
+      "back": "Kolor czerwony, etykieta, zawór samozamykalny, uruchamianie bez odwracania; gaz napędowy wyłącznie niepalny (azot, hel, argon)."
+    },
+    {
+      "front": "Wąż gaśnicy — kiedy i jak długi?",
+      "back": "Gaśnice z ponad 3 kg środka muszą mieć wąż o długości nie mniejszej niż 80% wysokości gaśnicy."
+    },
+    {
+      "front": "Koc gaśniczy",
+      "back": "Z włókna szklanego, ok. 3 m²; odcina dopływ powietrza. Przykrywa się ogień od swojej strony; nadaje się do gaszenia ubrania."
+    },
+    {
+      "front": "Agregat gaśniczy",
+      "back": "Sprzęt z ponad 20 kg środka gaśniczego, obsługiwany przez co najmniej 2 osoby; chroni np. stacje benzynowe, lakiernie, hangary."
+    },
+    {
+      "front": "Kula gaśnicza",
+      "back": "Proszek w styropianowej kuli z ładunkiem wybuchowym; aktywacja w 3—10 sekund, gasi do 10 m²."
+    },
+    {
+      "front": "Sito kominowe",
+      "back": "Podręczny sprzęt do gaszenia pożarów sadzy w przewodach kominowych."
+    },
+    {
+      "front": "Hydrant",
+      "back": "Urządzenie do bezpośredniego poboru wody z sieci wodociągowej; uliczne (nadziemne, podziemne) lub wewnętrzne."
+    },
+    {
+      "front": "Numer alarmowy Straży Pożarnej",
+      "back": "998."
+    },
+    {
+      "front": "Kto kieruje akcją po przybyciu Straży Pożarnej?",
+      "back": "Kierownik Akcji Ratowniczej — może żądać pomocy od instytucji, organizacji i obywateli."
+    },
+    {
+      "front": "Jak poruszać się przy silnym zadymieniu?",
+      "back": "W pozycji schylonej, z ustami zasłoniętymi mokrą chustką, wzdłuż ścian; po zadymionych schodach — tyłem na czworakach."
+    },
+    {
+      "front": "Co zrobić, gdy dym odciął drogę ucieczki?",
+      "back": "Zostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić je czymś mokrym, otworzyć okna i czekać na pomoc przy oknie."
+    },
+    {
+      "front": "Kara z art. 283 § 1 Kodeksu pracy",
+      "back": "Grzywna od 100 zł do 30 000 zł za wykroczenie przeciwko przepisom bhp."
+    },
+    {
+      "front": "Kara z art. 163 § 1 pkt 1 Kodeksu karnego",
+      "back": "Pozbawienie wolności od roku do lat 12."
+    },
+    {
+      "front": "Instytucje kontrolujące przepisy ppoż.",
+      "back": "Państwowa Straż Pożarna i Państwowa Inspekcja Pracy (środki prawne wydaje PSP)."
+    },
+    {
+      "front": "Ochrona środowiska — definicja",
+      "back": "Całokształt działań (czasem zaniechań) służących właściwemu wykorzystaniu i odnawianiu zasobów i składników środowiska."
+    },
+    {
+      "front": "Sozologia",
+      "back": "Nauka o ochronie środowiska."
+    },
+    {
+      "front": "Prawo ochrony środowiska — data ustawy",
+      "back": "Ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska” (Dz. U. Nr 62, poz. 627 ze zm.)."
+    },
+    {
+      "front": "Czynniki biotyczne",
+      "back": "Czynniki ekologiczne polegające na oddziaływaniu żywych organizmów na inne organizmy; regulują rozmieszczenie i liczebność populacji."
+    },
+    {
+      "front": "Czynniki abiotyczne",
+      "back": "Czynniki natury fizycznej (przyroda nieożywiona), np. typ gleby, klimat, temperatura, światło, ciśnienie atmosferyczne."
+    },
+    {
+      "front": "Zanieczyszczenie środowiska",
+      "back": "Wprowadzanie do powietrza, wody lub gruntu substancji lub energii w ilościach mogących szkodzić zdrowiu, przyrodzie, klimatowi, glebie lub wodzie."
+    },
+    {
+      "front": "Główne zanieczyszczenia atmosfery",
+      "back": "Dwutlenek węgla, dwutlenek siarki, tlenki azotu i pyły."
+    },
+    {
+      "front": "Kwaśny deszcz",
+      "back": "Opad o niskim pH zawierający kwas siarkowy i azotowy; zakwasza wody, niszczy florę, faunę, glebę i zabytki."
+    },
+    {
+      "front": "Smog",
+      "back": "Zanieczyszczone powietrze o dużym stężeniu pyłów i toksycznych gazów, głównie z motoryzacji i przemysłu."
+    },
+    {
+      "front": "Dziura ozonowa",
+      "back": "Spadek zawartości ozonu na wysokości 15—20 km, głównie nad biegunem południowym; główną rolę odgrywają freony."
+    },
+    {
+      "front": "Efekt cieplarniany",
+      "back": "Wzrost temperatury planety wywołany gazami cieplarnianymi; naturalny efekt podnosi temperaturę Ziemi o około 15°C."
+    },
+    {
+      "front": "Główne źródło zanieczyszczeń wody",
+      "back": "Ścieki."
+    },
+    {
+      "front": "Eutrofizacja",
+      "back": "Wzbogacanie zbiorników wodnych w substancje pokarmowe, prowadzące do wzrostu żyzności wód; przyspieszana m.in. przez rolnictwo i gnojówkę."
+    },
+    {
+      "front": "Substancje refrakcyjne",
+      "back": "Zanieczyszczenia bardzo trwałe w wodzie, trudno ulegające chemicznym i biochemicznym procesom rozkładu."
+    },
+    {
+      "front": "Oczyszczanie ścieków — procesy fizyczne",
+      "back": "Cedzenie, sedymentacja, flotacja i filtracja — usuwanie stałych zanieczyszczeń."
+    },
+    {
+      "front": "Normy EURO",
+      "back": "Europejskie standardy dopuszczalnej emisji spalin (I—VI) dla nowych samochodów sprzedawanych w UE."
+    },
+    {
+      "front": "Utylizacja",
+      "back": "Przygotowanie do powtórnego wykorzystania (potocznie też zniszczenie) odpadów lub materiałów bez wartości użytkowej; najczęściej przez spalanie."
+    },
+    {
+      "front": "Recykling",
+      "back": "Odzysk polegający na powtórnym przetwarzaniu substancji z odpadów w celu uzyskania materiału o przeznaczeniu pierwotnym lub innym (z wyjątkiem odzysku energii)."
+    },
+    {
+      "front": "Kody recyklingowe — kto i kiedy?",
+      "back": "Society of the Plastics Industry Inc. (USA) w 1988 r."
+    },
+    {
+      "front": "Biodegradacja",
+      "back": "Biochemiczny rozkład związków organicznych na prostsze pod wpływem światła, tlenu, wody i organizmów żywych."
+    },
+    {
+      "front": "Na co pracodawca potrzebuje pozwoleń środowiskowych?",
+      "back": "Na wprowadzanie gazów lub pyłów do powietrza, ścieków do wód lub ziemi oraz na wytwarzanie odpadów."
+    },
+    {
+      "front": "Kto wydaje zezwolenie na zbieranie i transport odpadów?",
+      "back": "Starosta (ustawa o odpadach — art. 28)."
+    },
+    {
+      "front": "Jak często aktualizuje się ewidencję korzystania ze środowiska?",
+      "back": "Co pół roku."
+    },
+    {
+      "front": "Dokumenty ewidencji odpadów",
+      "back": "Karta ewidencji odpadu (dla każdego rodzaju osobno) i karta przekazania odpadu."
+    },
+    {
+      "front": "Kto kontroluje i karze pracodawców w ochronie środowiska?",
+      "back": "Wojewódzki Inspektor Ochrony Środowiska."
+    },
+    {
+      "front": "Terminy kontroli inspekcji ochrony środowiska",
+      "back": "Nie wcześniej niż po 7 dniach i nie później niż po 30 dniach od doręczenia zawiadomienia; kontrola może trwać 28 dni."
+    },
+    {
+      "front": "Kto zezwala na usunięcie drzew i krzewów?",
+      "back": "Wójt, burmistrz albo prezydent miasta; dla nieruchomości w rejestrze zabytków — wojewódzki konserwator zabytków."
+    },
+    {
+      "front": "Kiedy nie trzeba zezwolenia na usunięcie drzew?",
+      "back": "M.in. dla drzew i krzewów owocowych, na plantacjach oraz w wieku do 5 lat."
+    },
+    {
+      "front": "Kara za zniszczenie drzew lub krzewów",
+      "back": "Trzykrotność opłaty za ich usunięcie."
+    },
+    {
+      "front": "Środowisko pracy",
+      "back": "Zespół czynników materialnych i społecznych, z którymi styka się pracownik podczas wykonywanej pracy."
+    },
+    {
+      "front": "Trzy grupy czynników środowiska pracy",
+      "back": "Fizyczne, chemiczne i biologiczne."
+    },
+    {
+      "front": "Podstawowy obowiązek pracodawcy wobec czynników zagrożeń",
+      "back": "Likwidacja lub ograniczenie oddziaływania czynników niebezpiecznych, szkodliwych i uciążliwych."
+    },
+    {
+      "front": "Mechanizacja",
+      "back": "Zastępowanie pracy ręcznej pracą maszyn; nie eliminuje pracy ręcznej, a jedynie ją ogranicza."
+    },
+    {
+      "front": "Automatyzacja",
+      "back": "Zastępowanie pracy fizycznej i umysłowej maszynami działającymi na zasadzie samoregulacji, bez udziału człowieka."
+    },
+    {
+      "front": "Rodzaje obciążenia pracą",
+      "back": "Fizyczne (praca mięśniowa), psychiczne (uwaga i myślenie), nerwowe (warunki pracy)."
+    },
+    {
+      "front": "Praca statyczna",
+      "back": "Praca, w której mięśnie są w długotrwałym napięciu bez widocznego ruchu (stanie, siedzenie); szybciej męczy."
+    },
+    {
+      "front": "Praca dynamiczna",
+      "back": "Praca w ruchu z izotonicznymi skurczami i rozkurczami mięśni; korzystniejsza dla organizmu niż statyczna."
+    },
+    {
+      "front": "Ergonomia",
+      "back": "Nauka o projektowaniu systemów pracy, produktów i środowiska zgodnie z fizycznymi i umysłowymi możliwościami człowieka."
+    },
+    {
+      "front": "Ergonomia koncepcyjna",
+      "back": "Projektowa — optymalizacja układu człowiek — technika — środowisko na etapie projektowania."
+    },
+    {
+      "front": "Ergonomia korekcyjna",
+      "back": "Realizowana w istniejącym miejscu pracy, np. poprawa oświetlenia czy wyciszenie hałasu; ograniczona technicznie i ekonomicznie."
+    },
+    {
+      "front": "Kryterium antropometryczne stanowiska",
+      "back": "Stanowisko dostosowane do co najmniej 90% użytkowników — między 5. a 95. centylem."
+    },
+    {
+      "front": "Antropometria",
+      "back": "Metoda pomiarów porównawczych części ciała ludzkiego (długość kości, proporcje, waga, rozstaw oczu)."
+    },
+    {
+      "front": "Barwa czerwona w bhp",
+      "back": "Kategoryczny zakaz; oznacza urządzenia przeciwpożarowe i wyłączniki awaryjne."
+    },
+    {
+      "front": "Barwa żółta w bhp",
+      "back": "Ostrzeżenie przed niebezpieczeństwem; często w żółto-czarne pasy."
+    },
+    {
+      "front": "Barwa zielona w bhp",
+      "back": "Stan bezpieczeństwa — drogi ewakuacyjne, wyjścia awaryjne, punkty pierwszej pomocy."
+    },
+    {
+      "front": "Barwa niebieska w bhp",
+      "back": "Nakaz, np. stosowania środków ochrony osobistej; barwa informacyjna."
+    },
+    {
+      "front": "Gdzie umieszczać najważniejsze informacje na tablicy?",
+      "back": "W górnej części, z nastawieniem na lewą stronę — górna część skupia 75% punktów fiksacji wzroku."
+    },
+    {
+      "front": "Wypadek przy pracy – definicja (4 warunki)",
+      "back": "Zdarzenie nagłe, wywołane przyczyną zewnętrzną, powodujące uraz (lub śmierć), które nastąpiło w związku z pracą."
+    },
+    {
+      "front": "Co robi poszkodowany z protokołem powypadkowym?",
+      "back": "Zapoznaje się z nim; może zgłosić zastrzeżenia, a jeśli ich nie ma – podpisuje protokół. Następnie protokół zatwierdza kierownik zakładu."
+    },
+    {
+      "front": "Kto może pełnić zadania służby bhp w małej firmie?",
+      "back": "Sam pracodawca (zakład zatrudniający do 10 pracowników)."
+    },
+    {
+      "front": "Ergonomiczna ocena stanowiska pracy – co dostosować?",
+      "back": "Oświetlenie (lampka po stronie przeciwnej do ręki piszącej), położenie najczęściej używanych narzędzi i dokumentów (w zasięgu ręki), wysokość fotela do wzrostu, ustawienie monitora."
+    },
+    {
+      "front": "Prawo do bezpiecznych i higienicznych warunków pracy",
+      "back": "Jedno z podstawowych praw obywatelskich; pracodawca musi je zapewnić, a pracownik ma obowiązek znać i stosować przepisy bhp."
+    },
+    {
+      "front": "Jakie 4 warunki musi spełniać zdarzenie, by było wypadkiem przy pracy?",
+      "back": "Nagłe, wywołane przyczyną zewnętrzną, powodujące uraz lub śmierć, które nastąpiło w związku z pracą (przy zwykłych czynnościach/poleceniach, przy czynnościach na rzecz pracodawcy nawet bez polecenia lub w drodze między siedzibą pracodawcy a miejscem wykonywania obowiązku).",
+      "img": "img/bhp1/wypadek-przy-pracy-definicja.jpg"
+    },
+    {
+      "front": "Czym różni się wypadek lekki od ciężkiego, a co to wypadek zbiorowy i śmiertelny?",
+      "back": "Lekki – niezdolność do pracy do 28 dni; ciężki – ponad 28 dni i ciężkie uszkodzenie ciała; zbiorowy – co najmniej 2 osoby w tym samym zdarzeniu; śmiertelny – śmierć w ciągu 6 miesięcy od zdarzenia.",
+      "img": "img/bhp1/rodzaje-wypadkow-przy-pracy.jpg"
+    },
+    {
+      "front": "Co oznacza ten symbol na opakowaniu?",
+      "back": "Kod recyklingu tworzywa sztucznego: 05 PP – polipropylen (trzy strzałki w trójkącie, numer w środku, skrót polimeru pod spodem).",
+      "img": "img/bhp1/kod-recyklingu-pp-05.jpg"
+    },
+    {
+      "front": "Jaki błąd ergonomiczny przedstawia rysunek?",
+      "back": "Za niski otwór drzwiowy – nie uwzględniono odpowiedniej wysokości, pracownik ma kłopot z wejściem.",
+      "img": "img/bhp1/ergonomia-za-niskie-drzwi.jpg"
+    },
+    {
+      "front": "Jaki błąd ergonomiczny przedstawia rysunek?",
+      "back": "Lampa zawieszona za nisko – dotyka głowy i zasłania pole widzenia.",
+      "img": "img/bhp1/ergonomia-lampa-za-nisko.jpg"
+    },
+    {
+      "front": "Jaki błąd ergonomiczny przedstawia rysunek?",
+      "back": "Uchwyty umieszczone za wysoko – trzeba bardzo wysoko podnosić rękę (źle zaprojektowana przestrzeń).",
+      "img": "img/bhp1/ergonomia-uchwyt-za-wysoko.jpg"
+    },
+    {
+      "front": "W której części tablicy informacyjnej wzrok zatrzymuje się najczęściej?",
+      "back": "W lewej górnej ćwiartce (46%); górna część skupia 75% punktów fiksacji, dolna 25% – ważne informacje umieszcza się u góry z lewej.",
+      "img": "img/bhp1/pole-widzenia-fiksacja.jpg"
+    },
+    {
+      "front": "Kodeks pracy",
+      "back": "Główny akt prawny regulujący zagadnienia prawa pracy."
+    },
+    {
+      "front": "Mikroklimat (środowisko pracy)",
+      "back": "Czynnik kształtujący środowisko pracy; jego elementy to temperatura, wilgotność względna powietrza i prędkość przepływu powietrza."
+    },
+    {
+      "front": "Pożar",
+      "back": "Niekontrolowane rozprzestrzenianie się ognia."
+    },
+    {
+      "front": "Stanowisko pracy",
+      "back": "Układ, w którym człowiek za pomocą środków pracy, w określonej przestrzeni i środowisku, wykonuje zorganizowane czynności mające na celu wytworzenie określonego produktu."
+    },
+    {
+      "front": "Wypadek przy pracy",
+      "back": "Nagłe, nieprzewidziane zdarzenie wywołane przyczyną zewnętrzną, które wystąpiło w związku z pracą i spowodowało uraz ciała."
+    },
+    {
+      "front": "Wypadek zbiorowy",
+      "back": "Wypadek, w którym urazu doznały co najmniej dwie osoby."
+    },
+    {
+      "front": "Wypadek inwalidzki",
+      "back": "Wypadek, w wyniku którego poszkodowany doznał trwałego kalectwa i uznano go za inwalidę jednej z trzech grup inwalidzkich."
+    },
+    {
+      "front": "Ciężkie uszkodzenie ciała przy wypadku ciężkim — przykłady",
+      "back": "Utrata wzroku, słuchu, mowy lub zdolności rozrodczej, choroba nieuleczalna lub zagrażająca życiu, trwała choroba psychiczna, całkowita lub częściowa niezdolność do pracy w zawodzie, trwałe zeszpecenie lub zniekształcenie ciała."
+    },
+    {
+      "front": "Skutki wypadków przy pracy (schemat)",
+      "back": "Lekkie obrażenie ciała, ciężkie obrażenie ciała, złamania i pęknięcia, utrata narządów lub zmysłów, utrata zdolności do wykonywania zawodu, śmierć."
+    },
+    {
+      "front": "Wypadki rolnicze traktowane na równi z wypadkiem przy pracy",
+      "back": "Wypadek członka rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych przy pracy na rzecz spółdzielni."
+    },
+    {
+      "front": "Kiedy można rozpoznać chorobę zawodową?",
+      "back": "W czasie zatrudnienia w narażeniu lub po jego zakończeniu, jeśli udokumentowane objawy wystąpiły w okresie podanym w wykazie chorób zawodowych."
+    },
+    {
+      "front": "Pełna lista kategorii czynników szkodliwych",
+      "back": "Fizyczne (hałas, ultradźwięki, drgania), pyły całkowite i respirabilne, pyły i dymy spawalnicze, metale pyliste, mikroklimat zimny i gorący, czynniki toksyczne i lotne związki organiczne, pyły z azbestem, promieniowanie optyczne nielaserowe, promieniowanie laserowe, pole elektromagnetyczne 0 Hz — 300 GHz."
+    },
+    {
+      "front": "Jakie zjawiska oświetleniowe są uciążliwe?",
+      "back": "Migotanie i efekty stroboskopowe, zmiany natężenia i równomierności światła, olśnienie — obniżają koncentrację i wydajność."
+    },
+    {
+      "front": "Trzy elementy ochrony przeciwpożarowej wg ustawy",
+      "back": "Zapobieganie powstawaniu i rozprzestrzenianiu się pożaru, zapewnienie sił i środków do jego zwalczania, prowadzenie działań ratowniczych."
+    },
+    {
+      "front": "Do czego pracodawca dostosowuje działania ppoż.?",
+      "back": "Do rodzaju i zakresu działalności, liczby pracowników i innych osób w zakładzie oraz rodzaju i poziomu zagrożeń."
+    },
+    {
+      "front": "Jakie ćwiczenia ppoż. się przeprowadza?",
+      "back": "W zakładach produkcyjnych — z likwidowania źródeł zagrożeń; w obiektach użyteczności publicznej — z ewakuacji ludzi i mienia (zakres można uzgodnić z PSP)."
+    },
+    {
+      "front": "14 grup przyczyn pożarów",
+      "back": "Nieostrożność z ogniem otwartym, z substancjami łatwopalnymi, przy pracach pożarowo niebezpiecznych; wady urządzeń elektrycznych, grzewczych, mechanicznych; wady procesów; złe magazynowanie; samozapalenie; wyładowania elektryczne; wyładowania atmosferyczne; elektryczność statyczna; podpalenia; inne."
+    },
+    {
+      "front": "Wymagania pożarowe przy projektowaniu budynku",
+      "back": "Nośność konstrukcji przez czas potrzebny na ewakuację, brak przejścia ognia na sąsiednie strefy lub budynki, bezpieczeństwo ekip ratunkowych."
+    },
+    {
+      "front": "Systemy zabezpieczające przed rozprzestrzenianiem pożaru",
+      "back": "Drzwi przeciwpożarowe (drewniane lub stalowe), stalowe bramy przesuwane lub rolowane, drzwi i ścianki profilowe, kurtyny przeciwpożarowe."
+    },
+    {
+      "front": "Dlaczego nie gasi się wodą ciał o bardzo wysokiej temperaturze żaru?",
+      "back": "Bo grozi to rozkładem wody na wodór i tlen."
+    },
+    {
+      "front": "Jak woda gasi pożar?",
+      "back": "Pochłania ciepło, a powstająca para wypiera tlen; ciecze mieszające się z wodą rozcieńcza."
+    },
+    {
+      "front": "Wady piasku jako środka gaśniczego",
+      "back": "Jest higroskopijny (zmienne właściwości), może przewodzić prąd, zimą się zbryla."
+    },
+    {
+      "front": "Wąż ssawny a wąż tłoczny",
+      "back": "Ssawny ma druciany oplot przeciw spłaszczeniu i zasysa wodę z otwartego zbiornika; tłoczny jest bez oplotu, łatwo zwijalny, z koszulką z tworzywa i tłoczy wodę lub roztwór pianotwórczy na miejsce pożaru."
+    },
+    {
+      "front": "Hydranty wewnętrzne — rodzaje",
+      "back": "Natynkowe lub wnękowe (na wewnętrznej instalacji przeciwpożarowej budynku)."
+    },
+    {
+      "front": "Kogo ewakuuje się ze szczególną uwagą?",
+      "back": "Osoby niepełnosprawne, starsze, dzieci i osoby nieznające obiektu."
+    },
+    {
+      "front": "Jak się poruszać na schodach podczas ewakuacji?",
+      "back": "Od razu schodzić w dół do wyjścia, w tempie osób poniżej, bez popychania, wyprzedzania i krzyków."
+    },
+    {
+      "front": "Co zrobić, gdy ktoś mógł zostać w zagrożonej strefie?",
+      "back": "Natychmiast zgłosić to dowódcy akcji gaśniczej lub dowolnemu przybyłemu funkcjonariuszowi."
+    },
+    {
+      "front": "Sposoby ochrony środowiska",
+      "back": "Racjonalne gospodarowanie zgodne z zasadą zrównoważonego rozwoju, przeciwdziałanie zanieczyszczeniom, utrzymywanie i przywracanie elementów przyrody, recykling."
+    },
+    {
+      "front": "Naturalne źródła zanieczyszczeń powietrza",
+      "back": "Wybuchy wulkanów, wietrzenie chemiczne skał, pożary lasów i stepów, wyładowania atmosferyczne, pył kosmiczny, procesy biologiczne."
+    },
+    {
+      "front": "Dlaczego zanieczyszczenia powietrza są najgroźniejsze?",
+      "back": "Są mobilne — mogą skazić duże obszary i wszystkie składniki środowiska, a człowiek jest wobec nich bezradny."
+    },
+    {
+      "front": "Działania człowieka zakłócające obieg wody",
+      "back": "Wycinanie lasów, monokultura w rolnictwie, niewłaściwe i nadmierne zabiegi rolnicze, urbanizacja."
+    },
+    {
+      "front": "Zanieczyszczenia wody pośrednio szkodliwe",
+      "back": "Takie, które obniżają ilość tlenu w wodzie poniżej poziomu potrzebnego do życia organizmów wodnych."
+    },
+    {
+      "front": "Skutki zanieczyszczenia gleby",
+      "back": "Zmiany chemiczne, fizyczne i biologiczne, spadek plonów i ich jakości, zakłócenie wegetacji, niszczenie szaty roślinnej, korozja fundamentów i rurociągów."
+    },
+    {
+      "front": "Rodzaje pozwoleń środowiskowych",
+      "back": "Zintegrowane, na wprowadzanie gazów lub pyłów do powietrza, wodnoprawne (ścieki), na wytwarzanie odpadów."
+    },
+    {
+      "front": "Opakowania objęte opłatą produktową",
+      "back": "Z tworzyw sztucznych, aluminium, stali, papieru i tektury, szkła gospodarczego (poza ampułkami), drewna."
+    },
+    {
+      "front": "Za co WIOŚ nakłada administracyjne kary pieniężne?",
+      "back": "Przekroczenie emisji gazów/pyłów, warunków dotyczących ścieków, ilości pobranej wody, naruszenie warunków składowania lub magazynowania odpadów, przekroczenie poziomu hałasu."
+    },
+    {
+      "front": "Pięć zasad eliminacji zagrożeń — kolejność",
+      "back": "1) eliminacja źródeł, 2) odsunięcie człowieka (roboty, automatyzacja), 3) osłonięcie strefy narażenia (hermetyzacja, osłony, wentylacja), 4) ochrony osobiste, 5) dobór pracowników i organizacja pracy."
+    },
+    {
+      "front": "Przykłady stanowisk z pracą statyczną",
+      "back": "Obsługa monitorów i pulpitów sterowniczych, taśma montażowa, produkcja elektroniki, jazda ciężarówką na długich trasach, kasa w supermarkecie."
+    },
+    {
+      "front": "Dlaczego praca dynamiczna jest lepsza od statycznej?",
+      "back": "Skurcz wyciska z mięśni produkty przemiany materii, a w rozkurczu dopływa krew z tlenem; przy pracy statycznej produkty się gromadzą i zmęczenie przychodzi szybciej."
+    },
+    {
+      "front": "Skutki ciężkiej pracy dynamicznej",
+      "back": "Hamowanie soków trawiennych, utrata wody, mniejsza objętość krwi krążącej, więcej potasu i noradrenaliny, większa aktywność układu współczulnego, białkomocz wysiłkowy."
+    },
+    {
+      "front": "Dziedziny wchodzące w zakres ergonomii",
+      "back": "Fizjologia, psychologia, antropometria, biomechanika, higiena pracy, socjologia, nauki mechaniczne, naukowa organizacja pracy, technika i technologia."
+    },
+    {
+      "front": "Centyl",
+      "back": "Punkt na skali, poniżej którego leży określony procent wyników (np. 5. centyl — 5%)."
+    },
+    {
+      "front": "Do czego używa się barwy żółtej?",
+      "back": "Do oznaczania ruchomych części maszyn, barier przy miejscach podwyższonych/zagłębionych, wystających elementów, miejsc grożących uderzeniem lub upadkiem, elementów grożących skaleczeniem lub zgnieceniem, krawędzi suwnic, przenośników i wózków."
+    },
+    {
+      "front": "Nasycenie barwy",
+      "back": "Stopień oddalenia barwy od szarej o tej samej jasności — im mniej szarości, tym barwa bardziej jaskrawa."
+    },
+    {
+      "front": "Rozkład punktów fiksacji wzroku na tablicy",
+      "back": "Lewa górna 46%, prawa górna 29%, lewa dolna 11%, prawa dolna 14%; lewa połowa 57%, prawa 43%; góra 75%, dół 25%."
+    },
+    {
+      "front": "Bezpieczeństwo pożarowe — definicja",
+      "back": "Stan eliminujący zagrożenie dla życia i zdrowia ludzi, uzyskiwany przez system norm prawnych i technicznych środków zabezpieczenia ppoż. oraz działania zapobiegawcze."
+    },
+    {
+      "front": "Ogólne typy przyczyn pożarów",
+      "back": "Wady i zła eksploatacja urządzeń elektrycznych i grzewczo-kominowych, wady urządzeń technicznych, źle rozwiązane procesy technologiczne, działanie sił przyrody, nieostrożność i lekkomyślność ludzi (najczęstsza)."
+    },
+    {
+      "front": "Zanieczyszczenie środowiska — definicja",
+      "back": "Wprowadzanie do powietrza, wody lub gruntu substancji lub energii w takich ilościach i składzie, że może to ujemnie wpływać na zdrowie człowieka, przyrodę, klimat, glebę lub wodę."
+    },
+    {
+      "front": "Zanieczyszczenia bezpośrednio szkodliwe dla wód — przykłady i źródła",
+      "back": "Fenole (gazownie, koksownie), kwas cyjanowodorowy (gazownie), kwas siarkowy i siarczany oraz kwaśny deszcz (fabryki nawozów sztucznych, celulozownie, fabryki włókien sztucznych)."
+    },
+    {
+      "front": "Zanieczyszczenia gleb — co to jest?",
+      "back": "Wszelkie związki chemiczne, pierwiastki promieniotwórcze i mikroorganizmy występujące w glebach w zwiększonych ilościach."
+    },
+    {
+      "front": "Recykling według ustawy o odpadach",
+      "back": "Odzysk polegający na powtórnym przetwarzaniu substancji/materiałów z odpadów w procesie produkcyjnym, by uzyskać materiał o przeznaczeniu pierwotnym lub innym (także recykling organiczny), z wyjątkiem odzysku energii."
+    },
+    {
+      "front": "Środowisko pracy — definicja",
+      "back": "Ogół elementów, warunków i czynników wpływających na organizm człowieka podczas wykonywania określonej pracy lub zawodu; zespół czynników materialnych i społecznych, z którymi styka się pracownik."
+    },
+    {
+      "front": "Dlaczego długotrwałe stanie szkodzi?",
+      "back": "Wzrasta ciśnienie hydrostatyczne w nogach, co sprzyja obrzękom i powstawaniu żylaków."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "W jakim terminie od daty wypadku należy sporządzić protokół powypadkowy?",
+      "options": [
+        "30 dni",
+        "7 dni",
+        "14 dni",
+        "5 dni"
+      ],
+      "answer": 2,
+      "explain": "Protokół powypadkowy sporządza się w terminie 14 dni od daty wypadku."
+    },
+    {
+      "q": "W jakim terminie kierownik zakładu zatwierdza protokół powypadkowy?",
+      "options": [
+        "7 dni od daty sporządzenia",
+        "5 dni od daty sporządzenia",
+        "14 dni od daty wypadku",
+        "30 dni od daty wypadku"
+      ],
+      "answer": 1,
+      "explain": "Protokół zatwierdza kierownik zakładu w terminie 5 dni od daty sporządzenia."
+    },
+    {
+      "q": "Kto wydaje decyzję o stwierdzeniu choroby zawodowej?",
+      "options": [
+        "Lekarz medycyny pracy",
+        "Okręgowy inspektor pracy",
+        "Państwowy powiatowy inspektor sanitarny",
+        "Pracodawca"
+      ],
+      "answer": 2,
+      "explain": "Stwierdzenie choroby zawodowej jest decyzją państwowego powiatowego inspektora sanitarnego."
+    },
+    {
+      "q": "Do kogo zgłasza się podejrzenie choroby zawodowej?",
+      "options": [
+        "Do Państwowej Straży Pożarnej",
+        "Do państwowego inspektora sanitarnego i inspektora pracy",
+        "Do starosty",
+        "Do ZUS i KRUS"
+      ],
+      "answer": 1,
+      "explain": "Zgłoszenia dokonuje się do właściwego państwowego inspektora sanitarnego oraz właściwego inspektora pracy."
+    },
+    {
+      "q": "Ile warunków z definicji musi spełnić zdarzenie, aby uznać je za wypadek przy pracy?",
+      "options": [
+        "Co najmniej dwa",
+        "Jeden dowolny",
+        "Trzy z czterech",
+        "Wszystkie cztery równocześnie"
+      ],
+      "answer": 3,
+      "explain": "Zdarzenie jest wypadkiem przy pracy tylko, gdy spełnia równocześnie wszystkie cztery warunki."
+    },
+    {
+      "q": "Uraz to:",
+      "options": [
+        "nadmierne zmęczenie pracownika",
+        "choroba z wykazu chorób zawodowych",
+        "uszkodzenie tkanek lub narządów wskutek działania czynnika zewnętrznego",
+        "każde złe samopoczucie w pracy"
+      ],
+      "answer": 2,
+      "explain": "Urazem jest uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego."
+    },
+    {
+      "q": "Zwisające z dachu sople w materiale są przykładem:",
+      "options": [
+        "ryzyka",
+        "zagrożenia",
+        "czynnika uciążliwego",
+        "wypadku przy pracy"
+      ],
+      "answer": 1,
+      "explain": "Sople to zagrożenie, a przebywanie pod nimi to ryzyko."
+    },
+    {
+      "q": "Czynnik, który może prowadzić do urazu (wypadku przy pracy), to czynnik:",
+      "options": [
+        "szkodliwy",
+        "biotyczny",
+        "niebezpieczny",
+        "uciążliwy"
+      ],
+      "answer": 2,
+      "explain": "Czynnik niebezpieczny może prowadzić do powstania urazu."
+    },
+    {
+      "q": "Czynnik, który prowadzi lub może prowadzić do choroby zawodowej, to czynnik:",
+      "options": [
+        "abiotyczny",
+        "niebezpieczny",
+        "szkodliwy",
+        "uciążliwy"
+      ],
+      "answer": 2,
+      "explain": "Czynniki szkodliwe prowadzą lub mogą prowadzić do choroby zawodowej lub innego schorzenia."
+    },
+    {
+      "q": "Który z wymienionych jest czynnikiem uciążliwym według materiału?",
+      "options": [
+        "Spadające materiały",
+        "Monotonia",
+        "Prąd elektryczny",
+        "Pył zawierający azbest"
+      ],
+      "answer": 1,
+      "explain": "Do czynników uciążliwych zalicza się m.in. mikroklimat, monotonię, obciążenie psychiczne i statyczne, oświetlenie, wysiłek fizyczny."
+    },
+    {
+      "q": "NDSCH dotyczy stężenia występującego nie dłużej niż:",
+      "options": [
+        "1 godzinę, max raz na zmianę",
+        "15 minut, max 2 razy na zmianę, co najmniej co 1 godzinę",
+        "8 godzin dziennie",
+        "30 minut, max 4 razy na zmianę"
+      ],
+      "answer": 1,
+      "explain": "NDSCH — nie dłużej niż 15 minut, nie częściej niż 2 razy w czasie zmiany, w odstępie nie krótszym niż 1 godzina."
+    },
+    {
+      "q": "Stężenie, które nie może być przekroczone w żadnym momencie, to:",
+      "options": [
+        "NDSP",
+        "NDN",
+        "NDSCH",
+        "NDS"
+      ],
+      "answer": 0,
+      "explain": "NDSP (pułapowe) nie może być przekroczone w środowisku pracy w żadnym momencie."
+    },
+    {
+      "q": "NDS odnosi się do dobowego wymiaru czasu pracy wynoszącego:",
+      "options": [
+        "8 godzin",
+        "12 godzin",
+        "6 godzin",
+        "10 godzin"
+      ],
+      "answer": 0,
+      "explain": "NDS to średnia ważona stężenia przy 8-godzinnym dobowym wymiarze czasu pracy."
+    },
+    {
+      "q": "Elementami mikroklimatu są:",
+      "options": [
+        "pyły, gazy i dymy",
+        "monotonia i stres",
+        "temperatura, wilgotność względna i prędkość przepływu powietrza",
+        "hałas, drgania i oświetlenie"
+      ],
+      "answer": 2,
+      "explain": "Elementami mikroklimatu są temperatura, wilgotność względna powietrza oraz prędkość jego przepływu."
+    },
+    {
+      "q": "Od kiedy obowiązuje art. 209¹ Kodeksu pracy nakładający obowiązek wyznaczenia pracownika do ochrony ppoż. i ewakuacji?",
+      "options": [
+        "Od 27 kwietnia 2001 r.",
+        "Od 24 sierpnia 1991 r.",
+        "Od 18 stycznia 2009 r.",
+        "Od 1 stycznia 2004 r."
+      ],
+      "answer": 2,
+      "explain": "Nowelizacja Kodeksu pracy (art. 209¹) obowiązuje od 18 stycznia 2009 r."
+    },
+    {
+      "q": "Ustawa o ochronie przeciwpożarowej pochodzi z dnia:",
+      "options": [
+        "26 czerwca 1974 r.",
+        "30 października 2002 r.",
+        "27 kwietnia 2001 r.",
+        "24 sierpnia 1991 r."
+      ],
+      "answer": 3,
+      "explain": "Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej."
+    },
+    {
+      "q": "Najczęstszą przyczyną pożarów według materiału jest:",
+      "options": [
+        "wyładowania atmosferyczne",
+        "nieostrożność oraz lekkomyślność ludzi",
+        "podpalenia",
+        "samozapalenie materiałów"
+      ],
+      "answer": 1,
+      "explain": "Nieostrożność oraz lekkomyślność ludzi to najczęstsza przyczyna pożarów."
+    },
+    {
+      "q": "Który materiał może ulec samozapaleniu przy niewłaściwym składowaniu?",
+      "options": [
+        "Wilgotne siano",
+        "Stal",
+        "Suchy piasek",
+        "Szkło"
+      ],
+      "answer": 0,
+      "explain": "Samozapaleniu ulegają m.in. niewłaściwie składowane wilgotne materiały: węgiel, siano, pasza, nawozy sztuczne."
+    },
+    {
+      "q": "Jak zapobiega się powstawaniu iskier od elektryczności statycznej?",
+      "options": [
+        "Przez polewanie wodą",
+        "Przez uziemianie maszyn, zbiorników i instalacji",
+        "Przez zwiększenie tarcia",
+        "Przez stosowanie gumowego obuwia"
+      ],
+      "answer": 1,
+      "explain": "Elektryczności statycznej zapobiega się poprzez uziemianie maszyn, zbiorników i instalacji."
+    },
+    {
+      "q": "Pożarom od wyładowań atmosferycznych można zapobiegać:",
+      "options": [
+        "gaśnicami proszkowymi",
+        "uziemieniem pasów transmisyjnych",
+        "tylko właściwie wykonanymi instalacjami odgromowymi",
+        "kocami gaśniczymi"
+      ],
+      "answer": 2,
+      "explain": "Pożarom od piorunów można zapobiegać tylko przez instalacje odgromowe (piorunochronne)."
+    },
+    {
+      "q": "Typ zapoczątkowania spalania wymagający ciągłego bodźca energetycznego to:",
+      "options": [
+        "zapłon",
+        "samozapłon",
+        "wybuch",
+        "samozapalenie"
+      ],
+      "answer": 1,
+      "explain": "Samozapłon — musi występować ciągły bodziec energetyczny, np. strumień ciepła."
+    },
+    {
+      "q": "Temperatura zapłonu acetylenu podana w materiale wynosi:",
+      "options": [
+        "350°C",
+        "482°C",
+        "-20°C",
+        "20°C"
+      ],
+      "answer": 2,
+      "explain": "Tabela: acetylen — temperatura zapłonu -20°C, samozapłonu 350°C."
+    },
+    {
+      "q": "Budowa ognioodpornych ścian i dachów to przykład ochrony przeciwpożarowej:",
+      "options": [
+        "biernej",
+        "ratowniczej",
+        "operacyjnej",
+        "czynnej"
+      ],
+      "answer": 0,
+      "explain": "Bierna (pasywna) ochrona ppoż. obejmuje m.in. budowę dachów i ścian ogniotrwałych."
+    },
+    {
+      "q": "Podstawę systemów tłumienia ognia stanowią:",
+      "options": [
+        "hydranty podziemne",
+        "kurtyny przeciwpożarowe",
+        "czujniki dymu",
+        "instalacje tryskaczowe (zraszaczowe)"
+      ],
+      "answer": 3,
+      "explain": "Podstawę systemów tłumienia ognia stanowią instalacje tryskaczowe."
+    },
+    {
+      "q": "Pożar grupy B to pożar:",
+      "options": [
+        "gazów palnych",
+        "ciał stałych",
+        "metali",
+        "cieczy palnych i substancji topiących się pod wpływem ciepła"
+      ],
+      "answer": 3,
+      "explain": "Grupa B — pożar cieczy palnych i substancji topiących się pod wpływem ciepła."
+    },
+    {
+      "q": "Pożar tłuszczów (np. oleju w kuchni) to pożar grupy:",
+      "options": [
+        "C",
+        "A",
+        "F",
+        "D"
+      ],
+      "answer": 2,
+      "explain": "Grupa F — pożar tłuszczów."
+    },
+    {
+      "q": "Czego NIE wolno gasić wodą?",
+      "options": [
+        "Palącego się drewna",
+        "Papieru",
+        "Słomy",
+        "Urządzeń elektrycznych pod napięciem"
+      ],
+      "answer": 3,
+      "explain": "Wody nie używa się m.in. do urządzeń pod napięciem, bo przewodzi prąd."
+    },
+    {
+      "q": "Ile środka gaśniczego mieści hydronetka?",
+      "options": [
+        "Około 15 litrów",
+        "Około 50 litrów",
+        "Około 3 litrów",
+        "Ponad 20 kg"
+      ],
+      "answer": 0,
+      "explain": "Zbiornik hydronetki zawiera ok. 15 litrów środka gaśniczego."
+    },
+    {
+      "q": "Gaśnice zawierające ponad 3 kg środka powinny mieć wąż o długości nie mniejszej niż:",
+      "options": [
+        "1 metr",
+        "100% wysokości gaśnicy",
+        "50% wysokości gaśnicy",
+        "80% wysokości gaśnicy"
+      ],
+      "answer": 3,
+      "explain": "Wąż gaśnicy powinien mieć długość nie mniejszą niż 80% jej wysokości."
+    },
+    {
+      "q": "Jako czynnik napędowy w gaśnicach mogą być stosowane:",
+      "options": [
+        "tlen",
+        "propan-butan",
+        "wyłącznie gazy niepalne, np. azot, hel, argon",
+        "wodór"
+      ],
+      "answer": 2,
+      "explain": "W gaśnicach stosuje się wyłącznie gazy niepalne (obojętne)."
+    },
+    {
+      "q": "Używając koca gaśniczego, należy przykrywać ogień:",
+      "options": [
+        "od strony przeciwnej",
+        "od swojej strony",
+        "dopiero po ugaszeniu płomieni wodą",
+        "od góry rzucając z daleka"
+      ],
+      "answer": 1,
+      "explain": "Koc przykrywa się od swojej strony, aby uniknąć poparzenia."
+    },
+    {
+      "q": "Agregat gaśniczy to sprzęt mający zapas środka gaśniczego:",
+      "options": [
+        "ok. 15 litrów",
+        "ponad 20 kg",
+        "do 3 kg",
+        "do 6 kg"
+      ],
+      "answer": 1,
+      "explain": "Agregat gaśniczy ma zapas środka gaśniczego w ilości ponad 20 kg."
+    },
+    {
+      "q": "Pod jakim numerem alarmowym wzywa się Straż Pożarną według materiału?",
+      "options": [
+        "999",
+        "998",
+        "996",
+        "997"
+      ],
+      "answer": 1,
+      "explain": "Należy powiadomić Straż Pożarną, dzwoniąc pod telefon alarmowy 998."
+    },
+    {
+      "q": "Po zadymionych, nieoświetlonych schodach należy schodzić:",
+      "options": [
+        "wyprostowanym",
+        "biegiem",
+        "tyłem na czworakach",
+        "trzymając się środka schodów"
+      ],
+      "answer": 2,
+      "explain": "Po zadymionych, nieoświetlonych schodach należy schodzić tyłem na czworakach."
+    },
+    {
+      "q": "Gdy dym odciął drogę ucieczki z pomieszczenia, należy:",
+      "options": [
+        "przebiec przez dym",
+        "otworzyć drzwi, aby wpuścić powietrze",
+        "zamknąć drzwi na klucz i schować się w szafie",
+        "zostać, zamknąć drzwi (nie na klucz), uszczelnić je i czekać przy oknie"
+      ],
+      "answer": 3,
+      "explain": "Należy pozostać w pomieszczeniu, zamknąć drzwi (nie na klucz), uszczelnić je i czekać na pomoc przy oknie."
+    },
+    {
+      "q": "Za naruszenie przepisów bhp na podstawie art. 283 § 1 Kodeksu pracy grozi grzywna:",
+      "options": [
+        "od 100 zł do 30 000 zł",
+        "od 10 000 zł do 50 000 zł",
+        "od 1000 zł do 2000 zł",
+        "do 5000 zł"
+      ],
+      "answer": 0,
+      "explain": "Art. 283 § 1 Kp — kara grzywny od 100 zł do 30 000 zł."
+    },
+    {
+      "q": "Art. 163 § 1 pkt 1 Kodeksu karnego przewiduje karę pozbawienia wolności:",
+      "options": [
+        "od 3 miesięcy do 5 lat",
+        "do 30 dni",
+        "od roku do lat 12",
+        "do 2 lat"
+      ],
+      "answer": 2,
+      "explain": "Grozi kara pozbawienia wolności od roku do lat 12."
+    },
+    {
+      "q": "Która instytucja jest uprawniona do nadzoru i wydawania środków prawnych w zakresie ochrony ppoż.?",
+      "options": [
+        "Wojewódzki Inspektor Ochrony Środowiska",
+        "Urząd Dozoru Technicznego",
+        "Państwowa Straż Pożarna",
+        "Państwowa Inspekcja Sanitarna"
+      ],
+      "answer": 2,
+      "explain": "Do nadzoru i wydawania środków prawnych uprawniona jest Państwowa Straż Pożarna."
+    },
+    {
+      "q": "Nauka o ochronie środowiska to:",
+      "options": [
+        "fizjologia",
+        "ergonomia",
+        "sozologia",
+        "antropometria"
+      ],
+      "answer": 2,
+      "explain": "Nauka o ochronie środowiska to sozologia."
+    },
+    {
+      "q": "Ustawa „Prawo ochrony środowiska” pochodzi z dnia:",
+      "options": [
+        "13 kwietnia 2007 roku",
+        "21 grudnia 2000 roku",
+        "24 sierpnia 1991 roku",
+        "27 kwietnia 2001 roku"
+      ],
+      "answer": 3,
+      "explain": "Obowiązek ochrony środowiska reguluje ustawa z dnia 27 kwietnia 2001 roku „Prawo ochrony środowiska”."
+    },
+    {
+      "q": "Który z wymienionych jest czynnikiem abiotycznym?",
+      "options": [
+        "Drapieżnictwo",
+        "Liczebność populacji",
+        "Konkurencja między gatunkami",
+        "Typ gleby"
+      ],
+      "answer": 3,
+      "explain": "Do czynników abiotycznych zalicza się m.in. typ gleby, klimat, temperaturę, światło."
+    },
+    {
+      "q": "Za powstawanie dziury ozonowej odpowiadają przede wszystkim:",
+      "options": [
+        "związki chlorofluorowęglowe (freony)",
+        "nawozy azotowe",
+        "metan z hodowli",
+        "pyły cementowe"
+      ],
+      "answer": 0,
+      "explain": "Największe znaczenie mają freony, z których uwolniony chlor atakuje ozon."
+    },
+    {
+      "q": "Naturalny efekt cieplarniany podnosi temperaturę Ziemi o około:",
+      "options": [
+        "0,5°C",
+        "30°C",
+        "15°C",
+        "3°C"
+      ],
+      "answer": 2,
+      "explain": "Naturalny efekt cieplarniany podnosi temperaturę o około 15°C."
+    },
+    {
+      "q": "Eutrofizacja to:",
+      "options": [
+        "wzbogacanie zbiorników wodnych w substancje pokarmowe",
+        "rozkład związków organicznych przez bakterie",
+        "spadek zawartości ozonu",
+        "zakwaszanie gleby"
+      ],
+      "answer": 0,
+      "explain": "Eutrofizacja to proces wzbogacania zbiorników wodnych w substancje pokarmowe, skutkujący wzrostem żyzności wód."
+    },
+    {
+      "q": "Głównym źródłem zanieczyszczeń wody są:",
+      "options": [
+        "ścieki",
+        "wyładowania atmosferyczne",
+        "wietrzenie skał",
+        "pył kosmiczny"
+      ],
+      "answer": 0,
+      "explain": "Ścieki to główne źródło zanieczyszczeń wody."
+    },
+    {
+      "q": "Pestycydy i fenole to zanieczyszczenia wody:",
+      "options": [
+        "rozkładalne",
+        "biologiczne",
+        "nierozkładalne",
+        "trwałe"
+      ],
+      "answer": 3,
+      "explain": "Trwałe — ulegają rozkładowi w niewielkim stopniu (pestycydy, fenole, produkty destylacji ropy)."
+    },
+    {
+      "q": "Kto wydaje zezwolenie na prowadzenie działalności w zakresie zbierania i transportu odpadów?",
+      "options": [
+        "Starosta",
+        "Wojewoda",
+        "Minister środowiska",
+        "Wójt"
+      ],
+      "answer": 0,
+      "explain": "Wniosek o zezwolenie składa się do starosty (ustawa o odpadach — art. 28)."
+    },
+    {
+      "q": "Jak często należy aktualizować ewidencję gazów, pyłów, wody i ścieków?",
+      "options": [
+        "Co roku",
+        "Co miesiąc",
+        "Co pół roku",
+        "Co 2 lata"
+      ],
+      "answer": 2,
+      "explain": "Pracodawca prowadzi aktualizowaną co pół roku ewidencję."
+    },
+    {
+      "q": "Kontrola Inspekcji Ochrony Środowiska nie może być wszczęta przed upływem:",
+      "options": [
+        "14 dni",
+        "7 dni od doręczenia zawiadomienia",
+        "1 dnia",
+        "30 dni"
+      ],
+      "answer": 1,
+      "explain": "Kontrola nie może być wszczęta przed upływem siedmiu dni lub po upływie 30 dni od doręczenia zawiadomienia."
+    },
+    {
+      "q": "Kto wymierza administracyjne kary pieniężne za przekroczenie warunków pozwoleń środowiskowych?",
+      "options": [
+        "Państwowa Inspekcja Pracy",
+        "Państwowa Straż Pożarna",
+        "Starosta",
+        "Wojewódzki Inspektor Ochrony Środowiska"
+      ],
+      "answer": 3,
+      "explain": "Administracyjne kary pieniężne wymierza Wojewódzki Inspektor Ochrony Środowiska."
+    },
+    {
+      "q": "Zezwolenie na usunięcie drzew NIE jest wymagane dla drzew, których wiek nie przekracza:",
+      "options": [
+        "5 lat",
+        "2 lat",
+        "10 lat",
+        "15 lat"
+      ],
+      "answer": 0,
+      "explain": "Zezwolenia nie dotyczą m.in. drzew i krzewów, których wiek nie przekracza 5 lat."
+    },
+    {
+      "q": "Kara za zniszczenie drzew lub krzewów wynosi:",
+      "options": [
+        "równowartość opłaty",
+        "10-krotność stawki",
+        "trzykrotność opłaty za ich usunięcie",
+        "dwukrotność opłaty"
+      ],
+      "answer": 2,
+      "explain": "Karę ustala się w wysokości równej trzykrotnej opłacie za usunięcie."
+    },
+    {
+      "q": "Pierwszym krokiem w zasadach eliminacji zagrożeń jest:",
+      "options": [
+        "stosowanie ochron osobistych",
+        "dobór psychologiczny pracowników",
+        "eliminacja źródeł czynników niebezpiecznych i szkodliwych",
+        "stosowanie znaków bezpieczeństwa"
+      ],
+      "answer": 2,
+      "explain": "Pierwsza zasada to eliminacja źródeł czynników niebezpiecznych i szkodliwych."
+    },
+    {
+      "q": "Praca, w której mięśnie pozostają w długotrwałym napięciu bez widocznego ruchu, to praca:",
+      "options": [
+        "dynamiczna",
+        "izotoniczna",
+        "statyczna",
+        "umysłowa"
+      ],
+      "answer": 2,
+      "explain": "Praca statyczna — mięśnie w stałym napięciu, np. podczas stania czy siedzenia."
+    },
+    {
+      "q": "Ergonomia realizowana w istniejącym miejscu pracy to ergonomia:",
+      "options": [
+        "korekcyjna",
+        "koncepcyjna",
+        "projektowa",
+        "systemowa"
+      ],
+      "answer": 0,
+      "explain": "Ergonomia korekcyjna to taka, która jest realizowana w miejscu pracy."
+    },
+    {
+      "q": "Według kryterium antropometrycznego stanowisko pracy powinno być dostosowane do co najmniej:",
+      "options": [
+        "50% użytkowników",
+        "100% użytkowników",
+        "90% użytkowników (5.—95. centyl)",
+        "75% użytkowników"
+      ],
+      "answer": 2,
+      "explain": "Stanowisko powinno być dostosowane do przynajmniej 90% użytkowników — między 5. a 95. centylem."
+    },
+    {
+      "q": "Barwa niebieska w bhp oznacza:",
+      "options": [
+        "ostrzeżenie",
+        "drogę ewakuacyjną",
+        "zakaz",
+        "nakaz, np. stosowania ochron osobistych"
+      ],
+      "answer": 3,
+      "explain": "Barwa niebieska oznacza nakaz, np. stosowania ochronnego sprzętu osobistego."
+    },
+    {
+      "q": "Żółto-czarne pasy stosuje się, aby:",
+      "options": [
+        "oznaczyć wyjście ewakuacyjne",
+        "wskazać punkt pierwszej pomocy",
+        "oznaczyć gaśnicę",
+        "wzmocnić ostrzeżenie przed niebezpieczeństwem"
+      ],
+      "answer": 3,
+      "explain": "Barwę żółtą (ostrzeżenie) dla większego efektu łączy się z czarną."
+    },
+    {
+      "q": "W której części tablicy informacyjnej należy umieszczać najważniejsze treści?",
+      "options": [
+        "Na środku dolnej części",
+        "W dolnej prawej",
+        "W górnej, z nastawieniem na lewą stronę",
+        "W prawej dolnej ćwiartce"
+      ],
+      "answer": 2,
+      "explain": "Górna część tablicy skupia 75% punktów fiksacji, a wzrok najczęściej zatrzymuje się w lewej górnej ćwiartce."
+    },
+    {
+      "q": "Po której stronie praworęczny pracownik biurowy powinien ustawić lampkę na biurku?",
+      "options": [
+        "Po prawej stronie",
+        "Po lewej stronie",
+        "Bezpośrednio za monitorem",
+        "Za plecami"
+      ],
+      "answer": 1,
+      "explain": "Lampka po stronie przeciwnej do ręki piszącej nie powoduje cienia na dokumentach – dla praworęcznych jest to lewa strona."
+    },
+    {
+      "q": "Co może zrobić poszkodowany po przedstawieniu mu protokołu powypadkowego?",
+      "options": [
+        "Musi go podpisać bez uwag",
+        "Zatwierdza go zamiast kierownika zakładu",
+        "Sporządza go samodzielnie w ciągu 14 dni",
+        "Może zgłosić zastrzeżenia, a jeśli ich nie ma – podpisuje protokół"
+      ],
+      "answer": 3,
+      "explain": "Poszkodowany ma prawo zgłosić zastrzeżenia do protokołu; gdy ich nie ma, składa podpis, a protokół zatwierdza kierownik zakładu."
+    },
+    {
+      "q": "Jak nazywa się wypadek, w którym co najmniej 2 osoby uległy skutkom tego samego zdarzenia?",
+      "options": [
+        "Ciężki",
+        "Inwalidzki",
+        "Zbiorowy",
+        "Lekki"
+      ],
+      "answer": 2,
+      "explain": "Wypadek zbiorowy – co najmniej 2 osoby ulegają mu na skutek tego samego czynnika zewnętrznego lub zdarzenia.",
+      "img": "img/bhp1/rodzaje-wypadkow-przy-pracy.jpg"
+    },
+    {
+      "q": "Jaki procent punktów fiksacji wzroku przypada na górną połowę tablicy informacyjnej?",
+      "options": [
+        "25%",
+        "46%",
+        "57%",
+        "75%"
+      ],
+      "answer": 3,
+      "explain": "Górna część skupia 75% punktów fiksacji, dolna 25%; najczęściej wzrok zatrzymuje się w lewej górnej ćwiartce (46%).",
+      "img": "img/bhp1/pole-widzenia-fiksacja.jpg"
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wypadek przy pracy to:",
+      "options": [
+        "nagłe nieprzewidziane zdarzenie, które spowodowało uraz ciała",
+        "uszkodzenie przez pracownika ciała",
+        "nagłe nieprzewidziane zdarzenie wywołane przyczyną zewnętrzną, które wystąpiło w związku z pracą i spowodowało uraz ciała",
+        "nagłe nieprzewidziane zdarzenie wywołane przyczyną zewnętrzną, które spowodowało uraz ciała"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wypadek zbiorowy to taki wypadek:",
+      "options": [
+        "w którym urazu doznały, co najmniej dwie osoby",
+        "w którym urazu doznały więcej niż dwie osoby",
+        "w którym uczestniczyły, co najmniej dwie osoby",
+        "w którym uczestniczyły, więcej niż dwie osoby"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Za śmiertelny wypadek przy pracy uważa się wypadek:",
+      "options": [
+        "w wyniku którego nastąpiła śmierć w okresie nieprzekraczającym 1 roku od dnia wypadku",
+        "w wyniku którego nastąpiła śmierć w okresie nieprzekraczającym 3 miesięcy od dnia wypadku",
+        "w wyniku którego nastąpiła śmierć pracownika",
+        "w wyniku którego nastąpiła śmierć w okresie nieprzekraczającym 6 miesięcy od dnia wypadku"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Czy wypadek podczas podróży służbowej można traktować na równi z wypadkiem przy pracy?",
+      "options": [
+        "tak, można",
+        "tak, można jeżeli pracownik pracuje na stanowisku kierowcy",
+        "nie, nie można",
+        "nie jest to wypadek przy pracy tylko w drodze do/z pracy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Choroba zawodowa to:",
+      "options": [
+        "choroba wymieniona w wykazie chorób zawodowych",
+        "choroba znajdująca się w wykazie chorób zawodowych i spowodowana czynnikami szkodliwymi występującymi w środowisku pracy",
+        "choroba wymieniona w wykazie chorób zawodowych lub spowodowana czynnikami szkodliwymi występującymi w środowisku pracy",
+        "choroba spowodowana czynnikami szkodliwymi występującymi w środowisku pracy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Decyzję o uznaniu choroby pracownika za chorobę zawodową wydaje:",
+      "options": [
+        "lekarz zakładowy",
+        "Państwowy Inspektor Pracy",
+        "pracodawca",
+        "Państwowy Powiatowy inspektor Sanitarny"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Główny akt prawny regulujący zagadnienia ochrony przeciwpożarowej w Polsce to:",
+      "options": [
+        "Ustawa o zwalczaniu pożarów",
+        "Ustawa o ochronie przeciwpożarowej",
+        "Ustawa o niepoduszczaniu do pożarów",
+        "Ustawa o Straży Pożarnej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ochrona przed pożarami jest:",
+      "options": [
+        "obowiązkiem osób zatrudnionych w zakładach o zwiększonym ryzyku pożarowym",
+        "prawem każdego pracownika",
+        "prawem każdego obywatela",
+        "obowiązkiem każdego obywatela"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Działania w zakresie ochrony przeciwpożarowej muszą być prowadzone przez:",
+      "options": [
+        "każdego pracodawcę",
+        "pracodawcę zatrudniającego ponad 10 osób",
+        "pracodawcę prowadzącego działalność związaną z większym ryzykiem pożarowym",
+        "pracodawcę zatrudniającego ponad 100 osób"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pożar to:",
+      "options": [
+        "niekontrolowane rozprzestrzenianie się ognia",
+        "palenie się materiałów",
+        "rozprzestrzenianie się ognia",
+        "kontrolowane rozprzestrzenianie się ognia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ergonomia jest to nauka:",
+      "options": [
+        "której celem jest zapoznanie się z procesami technicznymi",
+        "której celem jest kształtowanie działalności człowieka w tym przede wszystkim środowiska pracy odpowiednio do jego fizjologicznych i psychologicznych możliwości",
+        "której celem jest kształtowanie działalności człowieka",
+        "której celem jest kształtowanie działalności człowieka w tym przede wszystkim środowiska pracy odpowiednio do jego fizjologicznych i psychologicznych potrzeb"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na etapie projektowania urządzenia i stanowiska roboczego mamy do czynienia z:",
+      "options": [
+        "ergonomią korekcyjną-koncepcyjną",
+        "ergonomią korekcyjną",
+        "ergonomią koncepcyjną",
+        "pomiarami antropometrycznymi"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Do czego dąży ergonomia korekcyjna?",
+      "options": [
+        "do usprawnień technicznych",
+        "do zmiany czasu pracy",
+        "do zwiększenia wydajności pracy",
+        "do poprawy istniejących warunków pracy"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Stanowisko pracy to:",
+      "options": [
+        "układ, gdzie człowiek za pomocą środków pracy w określonej przestrzeni i środowisku wykonuje zorganizowane czynności mające na celu wytworzenie określonego produktu",
+        "układ między środkami pracy i środowiskiem",
+        "konfiguracja środków pracy",
+        "miejsce projektowania systemów pracy, produktów i środowiska"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na wiedzę ergonomiczną składają się:",
+      "options": [
+        "fizjologia pracy, psychologia, antropologia, biomechanika, higiena pracy, socjologia",
+        "biologia, chemia, fizyka, anatomia",
+        "psychologia, technika bezpieczeństwa, ochrona środowiska, fizyka",
+        "chemia, fizyka, anatomia, matematyka"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co należy dostosować do człowieka przy projektowaniu stanowiska pracy?",
+      "options": [
+        "należy dostosować środowisko, oświetlenie, klimatyzację, przedmioty pracy",
+        "należy dostosować pracowników, przedmioty i środki pracy",
+        "należy dostosować: środki pracy, przestrzeń, środowisko, organizację pracy",
+        "należy dostosować pracodawców, pracowników, przedmioty i środki pracy"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Co stanowi pierwszoplanową rolę w procesie projektowania ergonomicznego?",
+      "options": [
+        "przedmioty pracy i środki pracy",
+        "środki pracy i człowiek",
+        "struktura przestrzenna stanowiska pracy",
+        "uzyskanie wysokiej wydajności pracy"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jakich czynności dokonuje się na etapie tworzenia koncepcji?",
+      "options": [
+        "Analizowania oczekiwań pracodawcy",
+        "Opracowania rysunków oraz modelowanie (tworzenie modeli roboczych)",
+        "Rejestracji i analizy procesu pracy",
+        "Gromadzenia i analizowania informacji"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie cechy barw wyróżniamy?",
+      "options": [
+        "szarość i jaskrawość",
+        "kolor",
+        "kolor, jasność, nasycenie",
+        "nasycenie i natężenie"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jakie kody barwne wyróżniamy?",
+      "options": [
+        "barwa czerwona, żółta, zielona, niebieska, czarna",
+        "barwa czerwona, żółta, czarna",
+        "barwa czerwona, pomarańczowa, zielona, żółta, niebieska",
+        "barwa czerwona, żółta, zielona, niebieska"
+      ],
+      "answers": [
+        3
+      ]
+    }
+  ]
 }

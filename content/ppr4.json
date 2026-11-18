@@ -16,7 +16,8 @@
         "Dobór nawożenia uwzględnia: typ, rodzaj i gatunek gleby, właściwości fizyczne, chemiczne i fizykochemiczne, stopień kultury roli, klimat, warunki wodno-powietrzne, ukształtowanie terenu.",
         "Niedobór azotu i fosforu (pierwiastki ruchliwe) – objawy najpierw na starszych liściach; azot: żółtozielone zabarwienie; fosfor: liście matowe, ciemne z odcieniem fioletowym lub purpurowym.",
         "Potas – zwiędły pokrój, liście niebieskozielone; wapń – młode liście skręcone haczykowato, sucha zgnilizna owoców; magnez – chlorozy przechodzące w nekrozy, plamki między żyłkami dolnych liści; siarka – objawy jak przy azocie (narażone krzyżowe, np. rzepak).",
-        "Żelazo – chlorozy młodych liści; mangan – wrażliwość na niskie temperatury (owies); cynk – „choroba małych liści”; bor – zamieranie wierzchołków (buraki, lucerna); miedź – zaburzenia turgoru; molibden – deformacja pędu."
+        "Żelazo – chlorozy młodych liści; mangan – wrażliwość na niskie temperatury (owies); cynk – „choroba małych liści”; bor – zamieranie wierzchołków (buraki, lucerna); miedź – zaburzenia turgoru; molibden – deformacja pędu.",
+        "Nawozy stosuje się tylko w ilościach wymaganych przez rośliny lub glebę."
       ]
     },
     {
@@ -30,7 +31,26 @@
         "Gnojowica – płynny nawóz z chowu bezściółkowego (kał, mocz, trochę wody); ok. 0,38% N, 0,2% P, 0,41% K, 0,32% Ca, 0,09% Mg; może zastępować obornik.",
         "Gnojówka – przefermentowany mocz, nawóz azotowo-potasowy; ok. 0,3–0,6% N, 0,68–0,83% K, 0,01–0,04% P.",
         "Kompost – z odpadów roślinnych i zwierzęcych; ok. 0,3–0,4% N, 0,4% K, 0,2% P; niezależnie od dawki nie szkodzi uprawom ani glebie.",
-        "Słoma – łodygi i liście dojrzałych roślin po omłocie; w świeżej masie ok. 0,5–0,7% N, 1,5% K, 0,2% P."
+        "Słoma – łodygi i liście dojrzałych roślin po omłocie; w świeżej masie ok. 0,5–0,7% N, 1,5% K, 0,2% P.",
+        "Główne zalety nawozów organicznych: są ważnym źródłem próchnicy, wzbogacają mikroflorę gleby, łagodzą negatywny wpływ niezrównoważonego nawożenia mineralnego oraz silnego zakwaszenia gleby.",
+        "Kompost wytwarza się w pryzmach kompostowych, kompostownikach, specjalnych bioreaktorach lub toaletach kompostujących.",
+        "Cechy fizykochemiczne gnojowicy zależą od zawartości wody, gatunku i wieku zwierząt, sposobu żywienia i użytkowania.",
+        "Kompost powstaje z odpadów roślinnych (wyplewione chwasty, skoszona trawa, słoma, siano, obierki ziemniaków) i zwierzęcych (odchody, sierść, pióra); wzbogaca glebę w próchnicę, zwiększa jej pojemność wodną i powietrzną.",
+        "Obornik kompostowany ma duży stopień rozkładu."
+      ],
+      "images": [
+        {
+          "src": "img/ppr4/nawozy-organiczne-pochodzenie.jpg",
+          "caption": "Podział nawozów organicznych wg pochodzenia: niekonwencjonalne – ścieki i osady ściekowe; pochodzenia zwierzęcego (nawozy naturalne) – obornik, gnojówka, gnojowica, guano; pochodzenia roślinnego – kompost z odpadów roślinnych, słoma, torf, nawozy zielone i resztki pożniwne."
+        },
+        {
+          "src": "img/ppr4/zalety-nawozow-organicznych.jpg",
+          "caption": "Główne zalety nawozów organicznych: są ważnym źródłem próchnicy, poprawiają właściwości fizyczne, chemiczne i biologiczne gleby oraz wzbogacają jej mikroflorę; łagodzą negatywny wpływ niezrównoważonego nawożenia mineralnego i silnego zakwaszenia gleby."
+        },
+        {
+          "src": "img/ppr4/rodzaje-nawozow-organicznych.jpg",
+          "caption": "Rodzaje nawozów organicznych: obornik – przefermentowany kał, mocz i ściółka; gnojowica – płynny nawóz z chowu bezściółkowego (kał, mocz, trochę wody); gnojówka – przefermentowany mocz, nawóz azotowo-potasowy z niewielką ilością fosforu; kompost – z odpadów roślinnych i zwierzęcych w pryzmach, kompostownikach lub bioreaktorach. Słoma – łodygi i liście dojrzałych roślin (zbóż, rzepaku, lnu) po omłocie."
+        }
       ]
     },
     {
@@ -44,7 +64,13 @@
         "Wapniowe i magnezowe – wapnowanie odkwasza glebę; forma tlenkowa do gleb ciężkich, węglanowa do gleb lekkich.",
         "Mikronawozy – mikroelementy (bor, mangan, miedź, cynk, molibden); wieloskładnikowe – co najmniej dwa składniki (polifoska, potafoska, lubofoska).",
         "Najniższa bezpieczna dawka – gleby piaszczyste, najwyższa – gleby gliniaste.",
-        "Nadmiar azotu: skażenie roślin, gleby i wód (zatrucia, nowotwory), zakwaszenie gleby, hamowanie pożytecznych bakterii i wzrost toksycznych grzybów."
+        "Nadmiar azotu: skażenie roślin, gleby i wód (zatrucia, nowotwory), zakwaszenie gleby, hamowanie pożytecznych bakterii i wzrost toksycznych grzybów.",
+        "Przykładowe dawki fosforu pod rośliny jare (kg/ha): pszenica 30–100, jęczmień 60–100, owies 30–70, buraki cukrowe na oborniku 50–100, bez obornika 80–120, buraki pastewne 70–100, bobik 90–120, łubin biały 80–100.",
+        "Przykładowe dawki potasu pod rośliny jare (kg/ha): pszenica 70–140, owies 60–130, buraki cukrowe na oborniku 120–200, bez obornika 150–250, buraki pastewne 140–220, bobik 100–120, łubin biały 50–80.",
+        "Wapnowanie doprowadza glebę do wymaganego odczynu obojętnego; nawożenie magnezowe wpływa na wzrost roślin, plon i jakość technologiczną.",
+        "Mikronawozy wpływają pozytywnie na rozwój roślin i organizmów glebowych.",
+        "Nawozy wieloskładnikowe to nawozy uniwersalne – dla wszystkich gatunków roślin.",
+        "Nadmiar azotu w skrajnych przypadkach może doprowadzić do śmierci (skażona woda, żywność, pasze); zakwaszenie gleby pogarsza jakość i ilość plonów."
       ]
     },
     {
@@ -59,7 +85,26 @@
         "Magnez 50–100 kg/ha (wyjątkowo do 200 kg/ha); najwięcej pobierają buraki i kukurydza (ponad 50 kg z 1 ha), najmniej zboża (do 30 kg z 1 ha).",
         "Kodeks Dobrej Praktyki Rolniczej: zakaz nawozów naturalnych i organicznych od początku grudnia do końca lutego; zakaz płynnych nawozów naturalnych w okresie wegetacji.",
         "Zbocza o nachyleniu ponad 10% bez okrywy – zakaz płynnych nawozów naturalnych i azotowych mineralnych; do 20 m od wód – zakaz nawozów naturalnych, mineralne rozsiewać ręcznie.",
-        "Woda gruntowa powyżej 1,2 m – bez płynnych nawozów naturalnych; płycej niż 1,5 m – zakaz ścieków; nawozy naturalne i organiczne wymieszać z glebą najpóźniej następnego dnia."
+        "Woda gruntowa powyżej 1,2 m – bez płynnych nawozów naturalnych; płycej niż 1,5 m – zakaz ścieków; nawozy naturalne i organiczne wymieszać z glebą najpóźniej następnego dnia.",
+        "Przyczyny pogorszenia siedliska i zanieczyszczenia środowiska: zbyt duże dawki, niewłaściwe proporcje składników, niewłaściwa pora nawożenia, brak możliwości wykorzystania nawozu w danych warunkach glebowych.",
+        "Gnojówka: bez rozcieńczania wczesną wiosną przedsiewnie (okopowe, rośliny późnego wysiewu); dopuszczalnie późną wiosną pogłównie rozcieńczona, międzyrzędowo – z wyłączeniem roślin do bezpośredniego spożycia przez ludzi lub skarmiania.",
+        "Gnojowica przedsiewnie i pogłównie: zimą pod rośliny jare, ziemniaki, buraki, pastewne; wiosną pod kapustę pastewną i kukurydzę na kiszonkę; latem pod rzepak i zboża ozime.",
+        "Nawozy azotowe: siarczan amonowy i wodę amoniakalną stosuje się przedsiewnie, pozostałe przedsiewnie i pogłównie; przykładowa dawka azotu pod pszenżyto ozime – 60 kg/ha.",
+        "Nawozy fosforowe stosuje się jesienią najczęściej na ścierń pod podorywkę lub na podorywkę i przykrywa orką przedzimową.",
+        "Wiosną interwencyjnie – wapno granulowane niewymagające mieszania z glebą (np. pod zboża ozime, rzepak).",
+        "Wapnowanie na glebach lekkich (0,5–1 t/ha co 3–4 lata) np. pod ziemniaki, żyto, owies, brukiew, len, słonecznik; na cięższych (do 2 t/ha co 5 lat) np. pod pszenicę, jęczmień, kukurydzę, rzepak, bobik.",
+        "KDPR: zimą, gdy gleba jest zamarznięta i pod śniegiem, nie stosuje się nawozów – związki azotu są wymywane do wód.",
+        "Poza okresem zakazu nie powinno się nawozić gleby nieobsianej lub gdy rośliny są zbyt młode (szczególnie gleby lekkie, przepuszczalne); pod osłonami nawozy można stosować w dowolnych terminach.",
+        "Zbocza: nawozić ostrożnie (zwłaszcza nachylenie >10%) – spływ składników, głównie fosforu; o sposobie i terminie decydują nachylenie, skład granulometryczny, sposób uprawy, natężenie opadów, okrywa roślinna.",
+        "Na zboczach płynne nawozy naturalne wprowadza się pod powierzchnię gleby, stałe miesza z glebą bezpośrednio po rozrzuceniu; na użytkach zielonych rozrzuca się równomiernie, bez kupek i pryzm.",
+        "Na terenach narażonych na erozję unika się stosowania nawozów łącznie ze środkami ochrony roślin; u podnóży zboczy akumulują się składniki mineralne.",
+        "Na piaskach luźnych, słabogliniastych i gliniastych lekkich (gleby przepuszczalne) zakazane są komunalne osady ściekowe.",
+        "W pobliżu wód powierzchniowych i źródeł wody pitnej obowiązują szczególne zasady co do dawek, rodzajów i postaci nawozów oraz sprzętu.",
+        "Dawki składników ustala się na podstawie potrzeb nawozowych roślin; po przedplonach motylkowych uwzględnia się azot związany biologicznie w resztkach pożniwnych; przed pierwszą dawką warto znać zawartość azotu mineralnego w glebie.",
+        "Gnojowicę i gnojówkę stosuje się na nieobsianą glebę wczesną wiosną, także na rośliny – z wyjątkiem roślin do bezpośredniego spożycia lub na krótko przed skarmianiem; 45 m3 gnojowicy ≈ 170 kg N/ha.",
+        "W części KDPR roczna dawka obornika to do 40 ton (170 kg N) na hektar (w części o planowaniu nawożenia podano 45 ton/ha).",
+        "Gnojowicę i gnojówkę wprowadza się bezpośrednio do gleby wężami rozlewowymi połączonymi z zębami kultywatora.",
+        "Azotowe nawozy mineralne stosuje się bezpośrednio przed okresem maksymalnego zapotrzebowania roślin, równomiernie na całej powierzchni."
       ]
     },
     {
@@ -72,7 +117,28 @@
         "Potrzeby rzepaku: P = 84 × 1,15 = 96,6 kg/ha; K = 175 × 1,2 = 210 kg/ha.",
         "Potrzeby pszenicy: P = 77 × 1,15 = 88,6 kg/ha; K = 147 × 1,2 = 176,4 kg/ha.",
         "Słoma rzepaku zostawia 21,0 kg P (6 kg × 3,5 t) i 140,0 kg K (40 kg × 3,5 t).",
-        "Dawka pod pszenicę: fosfor 88,6 – 21,0 = 67,6 kg/ha; potas 176,4 – 140,0 = 36,4 kg/ha."
+        "Dawka pod pszenicę: fosfor 88,6 – 21,0 = 67,6 kg/ha; potas 176,4 – 140,0 = 36,4 kg/ha.",
+        "Przykład dotyczy gleby średniej o umiarkowanej zasobności w fosfor i potas."
+      ]
+    },
+    {
+      "heading": "6. Obliczenia nawozowe – schematy rozwiązań (arkusze CKE)",
+      "points": [
+        "Wzór: dawka nawozu (kg/ha) = potrzeby nawozowe (kg składnika/ha) × 100 : zawartość składnika w nawozie (%).",
+        "Mocznik zawiera 46% N, saletra amonowa 32% lub 34% N, saletrzak, salmag i canwil – 27% N i 4% MgO.",
+        "Przykład: 92 kg N/ha mocznikiem (46%) → 92 × 100 : 46 = 200 kg/ha; na 5 ha = 1000 kg.",
+        "Przykład: 136 kg N/ha saletrą amonową (34%) na 10 ha → 1360 kg N : 0,34 = 4000 kg = 4 t.",
+        "Rzepak ozimy, 140 kg N/ha: 140 × 100 : 46 = 304 kg/ha mocznika albo 140 × 100 : 34 = 411 kg/ha saletry amonowej.",
+        "Pszenica ozima, wiosenna dawka 123 kg N/ha: 123 × 100 : 27 = 455 kg/ha saletrzaku.",
+        "Liczba worków: masa nawozu : masa worka, zaokrąglona w górę (np. 1666,7 kg : 50 kg = 33,3 → 34 worki).",
+        "Przeliczanie tlenków na czysty składnik: P = P₂O₅ × 0,44; K = K₂O × 0,83; Mg = MgO × 0,6.",
+        "Polifoska 13-13-21 (13% N, 13% P₂O₅, 21% K₂O) zawiera 5,7% P i 17,4% K.",
+        "Nawozy wieloskładnikowe: najpierw liczy się dawkę nawozu wg jednego składnika (np. P), potem ile pozostałych składników ona wnosi, a brakującą resztę uzupełnia nawozami jednoskładnikowymi.",
+        "Polifoskę z saletrą amonową miesza się bezpośrednio przed siewem.",
+        "Mocznik nadaje się do nawożenia przedsiewnego jesienią: hydrolizuje stopniowo do formy amonowej, a niska temperatura hamuje nitryfikację, więc mniej azotu jest wymywane.",
+        "Wiosną przed ruszeniem wegetacji stosuje się szybko działające nawozy uniwersalne (saletra amonowa, saletrzak, salmag, canwil) z azotem azotanowym i amonowym; salmag i canwil dostarczają też magnez.",
+        "Cena 1 kg składnika = cena nawozu : ilość składnika w nim (np. 1 t mocznika za 975 zł zawiera 460 kg N → 975 : 460 = 2,12 zł za 1 kg N).",
+        "Pasza: maksymalna dawka kiszonki = dzienne zapotrzebowanie na suchą masę : zawartość s.m. (np. krowa 600 kg × 3,5% = 21 kg s.m.; kiszonka 30% s.m. → 21 : 0,3 = 70 kg kiszonki)."
       ]
     }
   ],
@@ -356,6 +422,131 @@
     {
       "front": "Wyliczenie dawki potasu pod pszenicę po rzepaku (przykład)",
       "back": "147 kg × 1,2 = 176,4 kg/ha; minus 140,0 kg potasu ze słomy rzepaku = 36,4 kg/ha."
+    },
+    {
+      "front": "Główne zalety nawozów organicznych",
+      "back": "Ważne źródło próchnicy; poprawiają właściwości fizyczne, chemiczne i biologiczne gleby; wzbogacają mikroflorę; łagodzą negatywny wpływ niezrównoważonego nawożenia mineralnego i silnego zakwaszenia gleby."
+    },
+    {
+      "front": "Gdzie wytwarza się kompost?",
+      "back": "W pryzmach kompostowych, kompostownikach, specjalnych bioreaktorach lub toaletach kompostujących."
+    },
+    {
+      "front": "Jaki nawóz organiczny składowany jest w takiej pryzmie (przefermentowany kał, mocz i ściółka)?",
+      "back": "Obornik – zawiera wszystkie składniki potrzebne roślinom i poprawia właściwości fizyczne gleby; dawka nawozów naturalnych do 170 kg N/ha UR rocznie.",
+      "img": "img/ppr4/pryzma-obornika.jpg"
+    },
+    {
+      "front": "Jak obliczyć dawkę nawozu, gdy znasz potrzeby nawozowe rośliny?",
+      "back": "Dawka nawozu (kg/ha) = potrzeby nawozowe (kg składnika/ha) × 100 : zawartość składnika w nawozie (%)."
+    },
+    {
+      "front": "Ile mocznika (46% N) trzeba na 5 ha, aby dostarczyć 92 kg N/ha?",
+      "back": "92 × 100 : 46 = 200 kg/ha, czyli 200 × 5 = 1000 kg mocznika."
+    },
+    {
+      "front": "Ile saletry amonowej (34% N) kupić na 10 ha pszenicy ozimej przy 136 kg N/ha?",
+      "back": "136 × 10 = 1360 kg N; 1360 : 0,34 = 4000 kg = 4 t saletry."
+    },
+    {
+      "front": "Rzepak ozimy potrzebuje 140 kg N/ha. Ile to mocznika (46%), a ile saletry amonowej (34%)?",
+      "back": "Mocznik: 140 × 100 : 46 = 304 kg/ha. Saletra amonowa: 140 × 100 : 34 = 411 kg/ha."
+    },
+    {
+      "front": "Wiosenna dawka azotu pod pszenicę ozimą to 123 kg N/ha. Ile saletrzaku (27% N)?",
+      "back": "123 × 100 : 27 = 455 kg/ha saletrzaku."
+    },
+    {
+      "front": "Ile azotu i magnezu zawierają saletrzak, salmag i canwil?",
+      "back": "27% N i 4% MgO."
+    },
+    {
+      "front": "Jak przeliczyć P₂O₅, K₂O i MgO na czysty składnik?",
+      "back": "P = P₂O₅ × 0,44; K = K₂O × 0,83; Mg = MgO × 0,6."
+    },
+    {
+      "front": "Ile czystego P i K zawiera polifoska 13-13-21?",
+      "back": "13% P₂O₅ × 0,44 = 5,7% P; 21% K₂O × 0,83 = 17,4% K (oraz 13% N)."
+    },
+    {
+      "front": "Ile worków saletrzaku 50 kg kupić na 7,5 ha przy 60 kg N/ha?",
+      "back": "60 × 7,5 = 450 kg N; 450 × 100 : 27 = 1666,7 kg; 1666,7 : 50 = 33,3 → 34 worki."
+    },
+    {
+      "front": "Ile worków mocznika 25 kg kupić na 7,5 ha przy przedsiewnej dawce 20 kg N/ha?",
+      "back": "20 × 7,5 = 150 kg N; 150 × 100 : 46 = 326 kg; 326 : 25 = 13 worków."
+    },
+    {
+      "front": "Dlaczego mocznik nadaje się do jesiennego nawożenia przedsiewnego?",
+      "back": "Stopniowo hydrolizuje do formy amonowej, a niska temperatura hamuje nitryfikację, więc rośliny pobierają azot, a mniej go jest wymywane."
+    },
+    {
+      "front": "Jak liczyć nawożenie, gdy część potrzeb pokrywa nawóz wieloskładnikowy?",
+      "back": "Liczy się dawkę nawozu wieloskładnikowego wg jednego składnika (np. P), sprawdza ile wnosi pozostałych (N, K), a brakującą resztę uzupełnia nawozami jednoskładnikowymi."
+    },
+    {
+      "front": "Kiedy można mieszać polifoskę z saletrą amonową?",
+      "back": "Bezpośrednio przed siewem."
+    },
+    {
+      "front": "1 t mocznika kosztuje 975 zł. Ile kosztuje 1 kg N?",
+      "back": "1 t mocznika zawiera 460 kg N; 975 : 460 = 2,12 zł za 1 kg N."
+    },
+    {
+      "front": "Ile kiszonki (30% s.m.) można maksymalnie podać krowie 600 kg, gdy zapotrzebowanie na s.m. to 3,5% masy ciała?",
+      "back": "600 × 3,5% = 21 kg s.m.; 21 : 0,3 = 70 kg kiszonki."
+    },
+    {
+      "front": "Przykładowe dawki fosforu pod rośliny jare",
+      "back": "Pszenica 30–100, jęczmień 60–100, owies 30–70, buraki cukrowe na oborniku 50–100 (bez obornika 80–120), buraki pastewne 70–100, bobik 90–120, łubin biały 80–100 kg/ha."
+    },
+    {
+      "front": "Przykładowe dawki potasu pod rośliny jare",
+      "back": "Pszenica 70–140, owies 60–130, buraki cukrowe na oborniku 120–200 (bez obornika 150–250), buraki pastewne 140–220, bobik 100–120, łubin biały 50–80 kg/ha."
+    },
+    {
+      "front": "Gnojówka – terminy stosowania",
+      "back": "Bez rozcieńczania wczesną wiosną przedsiewnie (okopowe, rośliny późnego wysiewu); dopuszczalnie późną wiosną pogłównie w formie rozcieńczonej, międzyrzędowo – nie na rośliny do bezpośredniego spożycia lub skarmiania; do 30 m3/ha rocznie."
+    },
+    {
+      "front": "Które nawozy azotowe stosuje się tylko przedsiewnie?",
+      "back": "Siarczan amonowy i wodę amoniakalną; pozostałe nawozy azotowe – przedsiewnie i pogłównie."
+    },
+    {
+      "front": "Jak stosuje się nawozy fosforowe jesienią?",
+      "back": "Na większość gleb (poza kwaśnymi), najczęściej na ścierń pod podorywkę lub na podorywkę, przykrywając orką przedzimową."
+    },
+    {
+      "front": "Pod jakie rośliny wapnuje się gleby lekkie, a pod jakie cięższe?",
+      "back": "Lekkie (0,5–1 t/ha co 3–4 lata): ziemniaki, żyto, owies, brukiew, len, słonecznik. Cięższe (do 2 t/ha co 5 lat): pszenica, jęczmień, kukurydza, rzepak, bobik."
+    },
+    {
+      "front": "Zasady nawożenia gruntów na zboczach (KDPR)",
+      "back": "Ostrożnie przy nachyleniu >10% (spływ fosforu); płynne nawozy naturalne pod powierzchnię gleby, stałe wymieszać zaraz po rozrzuceniu; na UZ bez kupek i pryzm; na terenach erozyjnych nie łączyć nawozów ze środkami ochrony roślin; u podnóża zboczy akumulują się składniki."
+    },
+    {
+      "front": "Gdzie zakazane jest stosowanie komunalnych osadów ściekowych?",
+      "back": "Na glebach o dużej przepuszczalności: piaskach luźnych, słabogliniastych i gliniastych lekkich."
+    },
+    {
+      "front": "Jak wprowadza się gnojowicę i gnojówkę do gleby?",
+      "back": "Bezpośrednio do gleby za pomocą węży rozlewowych połączonych z zębami kultywatora."
+    },
+    {
+      "front": "Kiedy stosować azotowe nawozy mineralne?",
+      "back": "W okresach bezpośrednio poprzedzających maksymalne zapotrzebowanie roślin, równomiernie na całej powierzchni."
+    },
+    {
+      "front": "Co uwzględnić przy ustalaniu dawek azotu po przedplonach motylkowych?",
+      "back": "Azot związany biologicznie w resztkach pożniwnych roślin motylkowych; warto też znać zawartość azotu mineralnego w glebie."
+    },
+    {
+      "front": "Kiedy można stosować nawozy pod osłonami?",
+      "back": "W dowolnych terminach wynikających ze specyfiki uprawy."
+    },
+    {
+      "front": "Z czego wytwarza się kompost i jak działa na glebę?",
+      "back": "Z odpadów roślinnych (chwasty, trawa, słoma, siano, obierki) i zwierzęcych (odchody, sierść, pióra); wzbogaca w próchnicę, zwiększa pojemność wodną i powietrzną gleby; nie szkodzi niezależnie od dawki."
     }
   ],
   "quiz": [
@@ -754,6 +945,1009 @@
       ],
       "answer": 2,
       "explain": "88,6 kg/ha potrzeb minus 21,0 kg fosforu z przyoranej słomy rzepaku = 67,6 kg/ha."
+    },
+    {
+      "q": "Która z wymienionych jest zaletą stosowania nawozów organicznych?",
+      "options": [
+        "Łagodzą negatywny wpływ silnego zakwaszenia gleby",
+        "Działają natychmiast po zastosowaniu",
+        "Nie wymagają mineralizacji w glebie",
+        "Można je stosować bez ograniczeń dawki"
+      ],
+      "answer": 0,
+      "explain": "Nawozy organiczne są źródłem próchnicy, wzbogacają mikroflorę i łagodzą skutki niezrównoważonego nawożenia mineralnego oraz zakwaszenia."
+    },
+    {
+      "q": "Ile mocznika (46% N) należy zastosować na 5 ha, aby dostarczyć 92 kg N/ha?",
+      "options": [
+        "500 kg",
+        "1000 kg",
+        "1500 kg",
+        "2000 kg"
+      ],
+      "answer": 1,
+      "explain": "92 × 100 : 46 = 200 kg/ha × 5 ha = 1000 kg."
+    },
+    {
+      "q": "Ile saletry amonowej (34% N) trzeba kupić na 10 ha przy dawce 136 kg N/ha?",
+      "options": [
+        "1,36 t",
+        "2,5 t",
+        "3,4 t",
+        "4 t"
+      ],
+      "answer": 3,
+      "explain": "1360 kg N : 0,34 = 4000 kg."
+    },
+    {
+      "q": "Ile saletrzaku (27% N) zastosować, aby dostarczyć 123 kg N/ha?",
+      "options": [
+        "455 kg/ha",
+        "332 kg/ha",
+        "267 kg/ha",
+        "123 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "123 × 100 : 27 = 455 kg/ha."
+    },
+    {
+      "q": "Ile kilogramów kiszonki (30% s.m.) można maksymalnie podać krowie 600 kg, jeśli zapotrzebowanie na s.m. wynosi 3,5% masy ciała?",
+      "options": [
+        "21 kg",
+        "63 kg",
+        "70 kg",
+        "90 kg"
+      ],
+      "answer": 2,
+      "explain": "600 × 3,5% = 21 kg s.m.; 21 : 0,3 = 70 kg."
+    },
+    {
+      "q": "Aby przeliczyć zawartość P₂O₅ na czysty fosfor (P), mnoży się ją przez",
+      "options": [
+        "0,83",
+        "0,6",
+        "1,2",
+        "0,44"
+      ],
+      "answer": 3,
+      "explain": "P stanowi 44% masy P₂O₅ (62 : 142)."
+    },
+    {
+      "q": "1 t mocznika (46% N) kosztuje 975 zł. Cena 1 kg N wynosi około",
+      "options": [
+        "0,98 zł",
+        "2,12 zł",
+        "4,60 zł",
+        "9,75 zł"
+      ],
+      "answer": 1,
+      "explain": "975 zł : 460 kg N = 2,12 zł/kg N."
+    },
+    {
+      "q": "Które nawozy azotowe stosuje się wyłącznie przedsiewnie?",
+      "options": [
+        "Saletra wapniowa i mocznik",
+        "Siarczan amonowy i woda amoniakalna",
+        "Saletrzak i salmag",
+        "Roztwór saletrzano-mocznikowy"
+      ],
+      "answer": 1,
+      "explain": "Siarczan amonowy i wodę amoniakalną stosuje się przedsiewnie; pozostałe nawozy azotowe przedsiewnie i pogłównie."
+    },
+    {
+      "q": "Na terenach narażonych na erozję należy unikać:",
+      "options": [
+        "wapnowania jesienią",
+        "nawożenia fosforem",
+        "stosowania nawozów łącznie ze środkami ochrony roślin",
+        "uprawy roślin motylkowych"
+      ],
+      "answer": 2,
+      "explain": "Wg KDPR na terenach erozyjnych unika się stosowania nawozów łącznie ze środkami ochrony roślin."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Na jakie podstawowe cechy gleby należy zwrócić uwagę, dobierając rodzaj i wielkość nawożenia:",
+      "options": [
+        "ukształtowanie terenu.",
+        "stopień kultury roli.",
+        "warunki klimatyczne.",
+        "właściwości gleby."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nawozy … są wyprodukowane z substancji organicznej lub z mieszanin substancji organicznych, w tym komposty, a także komposty wyprodukowane z wykorzystaniem dżdżownic.",
+      "options": [
+        "organiczne",
+        "mineralne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Nawozy stosuje się w celu utrzymania w glebie odpowiedniej ilości i właściwej proporcji składników odżywczych, jak również w celu utrzymania odpowiedniej jakości gleby.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do jakiej odległości od wód powierzchniowych, stref ochrony wód i obszarów morskiego pasa nadbrzeżnego obowiązuje zakaz stosowania nawozów naturalnych, natomiast nawozy mineralne powinny być rozsiewane ręcznie?",
+      "options": [
+        "Do 50 m.",
+        "Do 10 m.",
+        "Do 20 m.",
+        "Do 30 m."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nawozy … wpływają na rozwój roślin, liczbę i jakość plonów, zawierają potas w formie rozpuszczalnych soli, stosowane przedsiewnie, najczęściej w połączeniu z nawozami fosforowymi.",
+      "options": [
+        "azotowe",
+        "potasowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niedobory składników mineralnych zawartych w glebie przyczyniają się do zaburzeń w rozwoju roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżnia się rodzaje obornika?",
+      "options": [
+        "Kompostowany",
+        "Świeży",
+        "Słomiasty",
+        "Przefermentowany"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to przefermentowany mocz zwierząt gospodarskich. Jest organicznym nawozem azotowo-potasowym z nieznaczną ilością fosforu.",
+      "options": [
+        "Gnojówka",
+        "Gnojowica"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zalecane przez producentów nawozów mineralnych bezpieczne dawki uzależnione są od rodzaju gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie nawozy polepszają strukturę gleb, wpływając pozytywnie na rozwój roślin i organizmów glebowych, oraz zawierają mikroelementy?",
+      "options": [
+        "Saletrzano-amonowe",
+        "Mikronawozy",
+        "Wieloskładnikowe",
+        "Wapniowo-magnezowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nawozy mineralne, nazywane nawozami …, wytwarzane są przez przemysł chemiczny jako produkt jedno- lub wieloskładnikowy.",
+      "options": [
+        "sztucznymi",
+        "naturalnymi"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż formy nawozów azotowych.",
+      "options": [
+        "Nawozy amonowe.",
+        "Nawozy amidowe.",
+        "Nawozy fosforowe.",
+        "Nawozy saletrzane."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zakazane jest stosowanie nawozów naturalnych w formie płynnej oraz azotowych nawozów mineralnych na polach pozbawionych okrywy roślinnej o nachyleniu większym niż 10.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Roczna dawka nawozu naturalnego nie może przekraczać ilości zawierającej … kg azotu całkowitego na 1 ha użytków rolnych.",
+      "options": [
+        "170",
+        "270"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Azotowe nawozy mineralne muszą być przykryte lub wymieszane z glebą za pomocą narzędzi uprawowych nie później niż następnego dnia po ich zastosowaniu.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie nawozy jako uniwersalne dedykowane są dla wszystkich gatunków roślin i zawierają co najmniej dwa składniki pokarmowe?",
+      "options": [
+        "Wieloskładnikowe",
+        "Mikronawozy",
+        "Wapniowe",
+        "Azotowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Przed zastosowaniem … dawki nawozów warto znać zawartość azotu mineralnego w próbie gleby w celu dobrania właściwych dawek nawozu.",
+      "options": [
+        "pierwszej",
+        "ostatniej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dopuszcza się użycie nawozów azotowych na uprawach roślin ozimych na glebach powierzchniowo zamarzniętych w okresach odwilży, ale tylko, jeśli uzasadniają to względy organizacyjne lub agrotechniczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Obornik to przefermentowane:",
+      "options": [
+        "ściółka",
+        "kał",
+        "sierść i pióra",
+        "mocz"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Niedobory … mogą objawiać się zahamowaniem wzrostu części nadziemnych i podziemnych, sztywnym, strzelistym pokrojem rośliny, zabarwieniem rośliny żółto-zielonym, ograniczonym kwitnieniem i plonowaniem.",
+      "options": [
+        "azotu",
+        "żelaza"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Nawozy organiczne, ze względu na swoje długotrwałe działanie, powinny być stosowane co 4–6 lat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz nawozy pochodzenia roślinnego:",
+      "options": [
+        "kompost z odpadów roślinnych",
+        "gnojówka",
+        "ścieki i osady ściekowe",
+        "torf"
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to nawóz organiczny wytwarzany z odpadów roślinnych i zwierzęcych.",
+      "options": [
+        "Kompost",
+        "Obornik"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Nawożenie obornikiem późną jesienią jest dopuszczalne pod warunkiem, że zostanie natychmiast przeorany.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie szkody może spowodować nadmierne stosowanie nawozów azotowych?",
+      "options": [
+        "Niezależnie od stosowanych dawek, nie wyrządza szkód ani uprawom, ani glebie.",
+        "Powoduje skażenie roślin, gleby, a w konsekwencji i wód gruntowych.",
+        "Prowadzi do zahamowania rozwoju pożytecznych bakterii glebowych i wzrostu ilości w glebie toksycznych grzybów."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zarówno zbyt duże dawki nawozów, jak również nieodpowiednie proporcje składników pokarmowych, niewłaściwa pora nawożenia, czy też brak możliwości wykorzystania nawozu w danych warunkach glebowych są przyczyną pogorszenia jakości siedliska rolniczego oraz zanieczyszczenia środowiska.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Niedobory … mogą powodować zwiędły pokrój rośliny, liście matowe, niebieskozielone, skąpy system korzeniowy, międzywęźla skrócone.",
+      "options": [
+        "potasu",
+        "wapnia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Objawy braku jakiego związku przypominają objawy niedoboru azotu, szczególnie u roślin z rodziny krzyżowych?",
+      "options": [
+        "Magnezu",
+        "Boru",
+        "Wapnia",
+        "Siarki"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Wynikiem niedoboru … może być skrócenie międzywęźli, liście o mniejszej powierzchni, niekiedy skupienia małych liści.",
+      "options": [
+        "boru",
+        "cynku"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Najniższa dawka nawozów mineralnych przeznaczona jest dla gleb gliniastych, najwyższa dla gleb piaszczystych.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Kompost zastosowany na glebę wzbogaca ją w próchnicę, zwiększa jej pojemność wodną i powietrzną, a w konsekwencji pozytywnie wpływa na wzrost i rozwój roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Brak jakiego związku powoduje zaburzenia w turgorze (brak jędrności), na liściach nekrotyczne plamy, bielenie młodszych liści, a na starszych chlorozy?",
+      "options": [
+        "Boru",
+        "Wapnia",
+        "Magnezu",
+        "Miedzi"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … stosuje się, podobnie jak obornik, głównie pod rośliny okopowe, a roczna dawka nie powinna przekraczać 40 ton na 1 hektar użytków rolnych.",
+      "options": [
+        "Słomę",
+        "Kompost"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz nawozy pochodzenia zwierzęcego.",
+      "options": [
+        "Gnojówka",
+        "Torf",
+        "Obornik",
+        "Guano"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nawozy … stosuje się jesienią na większość gleb, najczęściej na ścierń pod podorywkę lub na podorywkę i przykrywa orką przedzimową.",
+      "options": [
+        "fosforowe",
+        "magnezowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zbyt duże dawki lub niewłaściwe proporcje składników odżywczych zawartych w nawozach nie przyczyniają się do degradacji siedliska rolniczego, czasami powodują tylko zanieczyszczenia środowiska.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Cechy fizykochemiczne jakiego nawozu są zależne od zawartości wody, gatunku, wieku zwierząt, sposobu ich żywienia i użytkowania?",
+      "options": [
+        "Obornika",
+        "Kompostu",
+        "Gnojówki",
+        "Gnojowicy"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Roczna dawka gnojowicy nie powinna przekraczać … m3 (170 kg azotu) na hektar.",
+      "options": [
+        "55",
+        "45"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProporcje w stosowaniu nawozów nie mają znaczenia dla wykorzystania składników przez rośliny lub glebę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co ile lat zaleca się stosowanie nawozów wapniowych na ziemiach lekkich, przy założeniu dawki w ilości 0,5–1 t/h?",
+      "options": [
+        "Co 2 lata.",
+        "Co 3–4 lata.",
+        "Co roku.",
+        "Co 4–5 lat."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przy ustalaniu dawek azotu dla roślin uprawianych po przedplonach motylkowych należy uwzględnić ilość azotu związanego biologicznie w resztkach pożniwnych tych roślin.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Grunty, na których woda gruntowa występuje płycej niż … m, wyłączone są z nawożenia ściekami, natomiast na piaskach luźnych i słabogliniastych oraz piaskach gliniastych lekkich zakazane jest stosowanie komunalnych osadów ściekowych.",
+      "options": [
+        "1,5",
+        "1,2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co ile lat zaleca się stosowanie nawozów wapniowych na ziemiach ciężkich przy założeniu dawki w ilości 2 t/h?",
+      "options": [
+        "Co 2 lata.",
+        "Co 5 lat.",
+        "Co 3–4 lata.",
+        "Co roku."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZaleca się stosowanie nawozów magnezowych w ilości … kg/ha, w wyjątkowych sytuacjach jednorazowa dawka nawozu może zostać zwiększona do 200 kg/ha.",
+      "options": [
+        "100–150",
+        "50–100"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW okresie zimowym, gdy gleba jest zamarznięta i pokryta śniegiem, nie powinno się stosować nawozów, gdyż składniki mineralne w nich zawarte, szczególnie związki azotu, narażone są na wymywanie do wód gruntowych lub powierzchniowych.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie nawozy wpływają na rozwój roślin, ilość i jakość plonów, zawierają potas w formie rozpuszczalnych soli, są stosowane przedsiewnie, najczęściej w połączeniu z nawozami fosforowymi?",
+      "options": [
+        "Mikronawozy",
+        "Potasowe",
+        "Wapniowe",
+        "Azotowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Gnojówka jest organicznym nawozem azotowo-potasowym z nieznaczną ilością fosforu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakiej rocznej dawki azotu całkowitego na 1 ha użytków rolnych nie można przekraczać przy nawożeniu naturalnym?",
+      "options": [
+        "100 kg/ha.",
+        "170 kg/ha.",
+        "70 kg/ha.",
+        "270 kg/ha."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dawki nawozów naturalnych należy ustalać według zawartości w nich tzw. azotu działającego, który wykazuje działanie nawozowe jak azot nawozów mineralnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Nawozy to produkty przeznaczone do dostarczania roślinom składników pokarmowych lub zwiększania żyzności stawów rybnych, którymi są nawozy mineralne, nawozy naturalne, nawozy organiczne i nawozy organiczno-mineralne.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych roślin pobierają najwięcej magnezu z gleby (ponad 50 kg z 1 ha)?",
+      "options": [
+        "Rzepak",
+        "Buraki",
+        "Ziemniaki",
+        "Kukurydza"
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakich wielkości nie powinna przekraczać roczna dawka kompostu?",
+      "options": [
+        "10 t/ha.",
+        "60 t/ha.",
+        "20 t/ha.",
+        "40 t/ha."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobór magnezu może powodować na liściach chlorozy przechodzące w nekrozy, pokrój rośliny zwiędły, w liściach dolnych pięter plamki pomiędzy żyłkami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przed zastosowaniem której dawki nawozów warto znać zawartość azotu mineralnego w próbie gleby w celu dobrania właściwych dawek nawozu?",
+      "options": [
+        "Pierwszej",
+        "Nie ma takiej potrzeby.",
+        "Każdej",
+        "Ostatniej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Niedobór jakich pierwiastków może powodować zahamowanie wzrostu części nadziemnych i podziemnych, sztywny, strzelisty pokrój rośliny, ograniczone kwitnienie i plonowanie rośliny?",
+      "options": [
+        "Potasu",
+        "Fosforu",
+        "Magnezu",
+        "Azotu"
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa glebach o wysokim poziomie wody gruntowej (powyżej 1,2 m) nie powinny być stosowane nawozy naturalne w postaci płynnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które zjawiska w metodzie bilansowej uznawane są za rozchody składników pokarmowych?",
+      "options": [
+        "Straty składników w glebie.",
+        "Resztki pożniwne.",
+        "Wynoszenie składników z plonami.",
+        "Opady atmosferyczne."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ze względu na swoje długotrwałe działanie, co ile lat powinny być stosowane nawozy organiczne?",
+      "options": [
+        "Co 4–6 lat.",
+        "Co 6–8 lat.",
+        "Co 7 lat.",
+        "Co 2–3 lata."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy organiczne są to różnorodne nawozy zawierające w swoim składzie niezbędne dla roślin składniki odżywcze w postaci związków organicznych, wywierają ponadto pozytywny wpływ na glebę, na jej właściwości fizyczne, chemiczne i biologiczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie zakazuje się stosowania wszystkich nawozów?",
+      "options": [
+        "Na glebach przykrytych śniegiem.",
+        "Na terenach o spadku powyżej 10%.",
+        "Na glebach zalanych wodą.",
+        "Na glebach zamarzniętych."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Roczna dawka gnojowicy nie powinna przekraczać:",
+      "options": [
+        "35 m3/ha.",
+        "55 m3/ha.",
+        "45 m3/ha.",
+        "25 m3/ha."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobory boru mogą powodować zamieranie wierzchołków pędu i korzeni, zamieranie kwiatów, brak owoców.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy fosforowe wpływają na jakość plonu, nieznacznie na jego ilość, efektywność nawożenia azotem, zawierają fosfor głównie w postaci soli kwasu ortofosforowego, są stosowane przedsiewnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNie powinno się stosować w tym samym roku wapna i nawozów organicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Roczna dawka obornika nie powinna przekraczać:",
+      "options": [
+        "20 t/ha.",
+        "10 t/ha.",
+        "60 t/ha.",
+        "40 t/ha."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Na jakich glebach zakazane jest stosowanie komunalnych osadów ściekowych?",
+      "options": [
+        "Na piaskach gliniastych lekkich.",
+        "Na glebach gliniastych.",
+        "Na piaskach luźnych.",
+        "Na piaskach słabogliniastych."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy nieorganiczne są produkowane w drodze przemian chemicznych, fizycznych lub przerobu surowców mineralnych, w tym wapno nawozowe, do którego zalicza się wapno nawozowe zawierające magnez, a także niektóre nawozy pochodzenia organicznego.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy organiczne, nawet niewłaściwie przechowywane i wykorzystywane, nie mogą stanowić zagrożenie dla ludzi i zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Plany nawożenia powinny uwzględniać następujące czynniki:",
+      "options": [
+        "czynniki środowiskowe, np. pochylenie terenu, erozja gleby, sąsiedztwo cieków wodnych.",
+        "specyficzne potrzeby uprawianej roślinności.",
+        "jakość gleby, np. zawartość próchnicy, struktura i typ gleby."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy organiczne są ważnym źródłem próchnicy, ich stosowanie polepsza właściwości fizyczne, chemiczne i biologiczne gleby oraz wzbogaca jej mikroflorę.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile fosforu wprowadza się do gleby w 1 tonie obornika?",
+      "options": [
+        "30 kg.",
+        "0,3 kg.",
+        "0,03 kg.",
+        "3 kg."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRoczna dawka gnojówki nie powinna przekraczać 30 m3/1 h użytków rolnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nawozy saletrzano-amonowe?",
+      "options": [
+        "Saletra amonowa.",
+        "Saletrzak magnezowy.",
+        "Saletra wapniowa.",
+        "Siarczan amonowy."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGnojowica nie może zastępować obornika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOd początku grudnia do końca lutego nie wolno stosować nawozów naturalnych oraz nawozów organicznych, natomiast w pozostałych okresach nie powinno się stosować nawozów, gdy gleba jest nieobsiana lub rośliny są zbyt młode.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPotrzeby nawozowe poszczególnych roślin powinny być obliczone precyzyjnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wprowadza się do gleby azotu w 1 tonie obornika?",
+      "options": [
+        "50 kg.",
+        "0,5 kg.",
+        "5 kg.",
+        "0,05 kg."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jaką zawartość azotu posiada przeciętnie świeża masa słomy?",
+      "options": [
+        "3%.",
+        "0,2%.",
+        "1,5%.",
+        "0,5–0,7%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy azotowe wpływają na intensywny wzrost i rozwój roślin, a jednocześnie mogą obniżać jakość technologiczną niektórych roślin.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaleca się stosować gnojówkę bez rozcieńczania wczesną wiosną przedsiewnie, ponadto dopuszcza się stosowanie późną wiosną pogłównie w formie rozcieńczonej na różne rośliny międzyrzędowo, z wyłączeniem przeznaczonych do bezpośredniego spożycia przez ludzi lub do skarmiania zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
     }
   ]
 }

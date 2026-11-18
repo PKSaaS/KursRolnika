@@ -1,0 +1,1949 @@
+{
+  "id": "tr1",
+  "course": "Technika w rolnictwie",
+  "title": "Rysunek w technice rolniczej",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – normy rysunku technicznego",
+      "points": [
+        "Rysunek techniczny – rysunek prezentujący i opisujący obiekt zgodnie ze zbiorem norm ujednolicających przekaz informacji między projektantem, wykonawcą i użytkownikiem.",
+        "Każdy rysunek techniczny musi zawierać adnotację dotyczącą normy, zgodnie z którą został wykonany.",
+        "PN – Polska Norma; normy europejskie oznacza się PN-EN, międzynarodowe (ISO – International Standard Organization) PN-ISO lub PN-EN ISO.",
+        "Podział rysunków technicznych i terminy dokumentacji technicznej wyrobów zdefiniowano w normie PN-ISO-1:1994.",
+        "W technice rolniczej znajomość zasad rysunku jest potrzebna do odczytywania katalogów maszyn i instrukcji obsługi oraz przygotowania maszyn do pracy."
+      ]
+    },
+    {
+      "heading": "1. Rodzaje rysunku technicznego",
+      "points": [
+        "Szkic – odręcznie wykonany rysunek, zazwyczaj punkt wyjściowy do dalszej pracy.",
+        "Rysunek – obraz obiektu w określonej podziałce (skali), wykonany przyborami kreślarskimi.",
+        "Schemat – uproszczone przedstawienie zasady działania lub budowy urządzenia.",
+        "Plan – przedstawienie ułożenia elementów składowych względem siebie.",
+        "Wykres – graficzna prezentacja zależności zmiennych.",
+        "Rysunek wykonawczy – zawiera wszystkie dane potrzebne do wykonania (odtworzenia) obiektu.",
+        "Rysunek złożeniowy – przedstawia pozycję wszystkich elementów, np. maszyny po zamontowaniu (złożeniu).",
+        "Rysunek montażowy – zawiera wszystkie dane potrzebne do zamontowania urządzenia.",
+        "Rysunek instalacyjny – rozmieszczenie elementów instalacji i sposób ich połączenia.",
+        "Rysunek katalogowy – stosowany w katalogach do prezentacji obiektu, np. maszyny."
+      ]
+    },
+    {
+      "heading": "Widoki, rzuty i przekroje",
+      "points": [
+        "Najważniejsze rysunki podstawowe: widoki, rzuty, przekroje i schematy.",
+        "Widok – przedstawia zewnętrzne, widoczne kształty przedmiotu.",
+        "Rzutowanie – sprowadzenie punktów przedmiotu na płaszczyznę rzutów (rzutnię), czyli płaszczyznę arkusza.",
+        "Rzutowanie aksonometryczne – pokazuje przedmiot we wszystkich trzech wymiarach (długość, szerokość, wysokość) jednym rzutem, poglądowo.",
+        "Rysunki katalogowe części zamiennych wykonuje się m.in. w rzucie aksonometrycznym.",
+        "Przekrój wykonuje się, gdy złożonych kształtów wewnętrznych nie da się jednoznacznie odwzorować nawet maksymalną liczbą rzutów.",
+        "Przekrój – przecięcie obiektu wyobrażalną płaszczyzną przez interesujące szczegóły, odrzucenie w myśli części między płaszczyzną a obserwatorem i narysowanie rzutu reszty.",
+        "Rzut aksonometryczny przedstawia obraz poglądowo – daje optyczne wrażenie, że patrzy się na rzeczywisty przedmiot w przestrzeni."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/tuleja-rzuty-przekroj.jpg",
+          "caption": "Tuleja z kołnierzem: a) rysunek poglądowy, b) rzut główny – widok z zaznaczeniem krawędzi niewidocznych (linie kreskowe), c) rzut główny – przekrój (kreskowanie w miejscu przecięcia)."
+        }
+      ]
+    },
+    {
+      "heading": "Rysunki katalogowe, instrukcyjne i schematy",
+      "points": [
+        "Rysunek katalogowy części ułatwia prawidłowe dobranie elementów i obrazuje ich wzajemne położenie.",
+        "Tabele katalogowe zawierają informacje o podzespołach i częściach: oznaczenia, ilości, spełnianie norm.",
+        "Rysunek instrukcyjny przedstawia instrukcję obsługi maszyn, montażu i demontażu podzespołów (np. kierunek obrotu klucza, zakaz klucza pneumatycznego – przekreślony czerwonym krzyżykiem).",
+        "Schemat – w porównaniu z rysunkiem wykonawczym łatwiejszy w wykonaniu i prostszy w odczytywaniu.",
+        "Schemat strukturalny – zasada działania całego układu (urządzenia).",
+        "Schemat montażowy – sposób montażu i wzajemnego ułożenia części urządzenia.",
+        "Schemat podłączenia – sposób podłączenia urządzenia, np. do sieci elektrycznej.",
+        "Schematy wykonuje się bez określonej podziałki; ułożenie części nie musi odpowiadać rzeczywistemu.",
+        "Podzespoły na schemacie można zaznaczać w uproszczeniu (np. prostokątami) własnymi oznaczeniami – obok schematu trzeba podać ich znaczenie.",
+        "Uproszczenia stosuje się dla przejrzystości; zwłaszcza części znormalizowane przedstawia się i wymiaruje w uproszczeniu.",
+        "Przykład: rysunek katalogowy lusterka ciągnika Ursus MF 255 z tabelą katalogową – poz. 1 nakrętka M10-5-B PN-86/M-82144 (2 szt.), poz. 2 podkładka 10,2 PN-77/M-82008 (2 szt.), poz. 3 lusterko lewe 80.345.208 i prawe 80.345.209 (po 1 szt.), poz. 4 śruba M10x95-5.6-B PN-85/M-82101 (2 szt.).",
+        "Kolumny tabeli katalogowej: nr pozycji, oznaczenie (numer katalogowy), nazwa podzespołu lub części (z normą), liczba sztuk, uwagi.",
+        "Numery katalogowe (oznaczenia) z tabeli 1.1 lusterka Ursus MF 255: nakrętka M10-5-B – 54.23.13.12, podkładka 10,2 – 54.61.12.10, lusterko lewe – 80.345.208, lusterko prawe – 80.345.209, śruba M10x95-5.6-B – 54.21.16.19."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/plug-rysunek-katalogowy.jpg",
+          "caption": "Rysunek katalogowy części zamiennych korpusu pługa w rzucie aksonometrycznym – części oznaczone numerami pozycji, które odpowiadają tabeli katalogowej."
+        },
+        {
+          "src": "img/tr1/rysunek-instrukcyjny-sruba-kola.jpg",
+          "caption": "Rysunek instrukcyjny przykręcenia śruby zabezpieczającej koła: strzałka pokazuje obrót klucza zgodnie z ruchem wskazówek zegara; przekreślony czerwonym krzyżykiem klucz pneumatyczny = zakaz jego użycia."
+        },
+        {
+          "src": "img/tr1/schemat-pluga.jpg",
+          "caption": "Schemat pługa – uproszczone przedstawienie zasady działania; osie i linie środkowe zaznaczone linią punktową cienką."
+        },
+        {
+          "src": "img/tr1/lusterko-ursus-katalog.jpg",
+          "caption": "Rysunek katalogowy lusterka ciągnika Ursus MF 255 i tabela katalogowa: 1 – nakrętka M10-5-B (2 szt.), 2 – podkładka 10,2 (2 szt.), 3 – lusterko lewe / prawe (po 1 szt.), 4 – śruba M10x95-5.6-B (2 szt.); kolumny: nr poz., oznaczenie, nazwa, sztuk, uwagi."
+        }
+      ]
+    },
+    {
+      "heading": "Wykonywanie rysunku – przybory i materiały",
+      "points": [
+        "Rysunki wykonuje się ręcznie lub komputerowo; rysujący komputerowo muszą znać zasady rysunku ręcznego.",
+        "Jedno z najpopularniejszych oprogramowań do rysunku – typu CAD.",
+        "Przybory kreślarskie: stół kreślarski, rysownica, przykładnica, liniały, trójkąty, skalówka, kątomierz, krzywki, cyrkiel, przenośnik, grafion, rapidograf, pióra.",
+        "Materiały kreślarskie – elementy zużywające się: ołówki grafitowe, gumki, tusze, papier, pinezki, taśma samoprzylepna, papier ścierny."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/rysunek-techniczny-podzial.jpg",
+          "caption": "Podział rysunku technicznego wg sposobu wykonania: komputerowo (programy CAD) lub ręcznie – za pomocą przyborów i materiałów kreślarskich. Rysunek ręczny musi przestrzegać zasad i norm (polskich, europejskich lub międzynarodowych), aby był czytelny."
+        }
+      ]
+    },
+    {
+      "heading": "Formaty arkuszy i obramowanie",
+      "points": [
+        "Wielkość arkuszy jest znormalizowana; podstawą formatu jest szereg oznaczany dużą literą – najpopularniejsze A, B i C.",
+        "Podstawowy format według PN: A4 – 210 x 297 mm.",
+        "Największy arkusz w szeregu oznacza się cyfrą 0; każdy następny jest połową poprzedniego (A0 → A1 → A2…).",
+        "Wymiary szeregu A: A0 1189 x 841, A1 841 x 594, A2 594 x 420, A3 420 x 297, A4 297 x 210 mm.",
+        "Obramowanie: 5 mm od krawędzi dla A3 i mniejszych, 7–10 mm dla arkuszy większych od A3.",
+        "Grubość linii obramowania – minimum 0,7 mm.",
+        "Tabliczkę rysunkową umieszcza się w prawym dolnym rogu arkusza, wewnątrz obramowania.",
+        "Tabliczki rysunkowe różnią się wielkością, kształtem i zawartymi informacjami – zależnie od rodzaju rysunku."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/formaty-arkuszy.jpg",
+          "caption": "Formaty arkuszy szeregu A (wymiary w mm): A0 1189 x 841, A1 841 x 594, A2 594 x 420, A3 420 x 297, A4 297 x 210. Każdy następny format to połowa poprzedniego, oznaczona cyfrą większą o 1."
+        }
+      ]
+    },
+    {
+      "heading": "Rodzaje i grubości linii",
+      "points": [
+        "W rysunku technicznym stosuje się trzy grubości linii.",
+        "Ciągła bardzo gruba – połączenia lutowane i klejone, linie wykresowe.",
+        "Ciągła gruba – widoczne krawędzie i zarysy w widokach i przekrojach, końce śladów płaszczyzn przekrojów, obramowanie arkusza, linie wykresowe.",
+        "Ciągła cienka – linie wymiarowe i pomocnicze, kreskowanie przekrojów, gwinty, ograniczenie powiększanego szczegółu.",
+        "Kreskowa cienka – niewidoczne krawędzie i zarysy, linie wykresowe.",
+        "Punktowa gruba – powierzchnie podlegające obróbce cieplnej lub powierzchniowej.",
+        "Punktowa cienka – osie symetrii, ślady płaszczyzny symetrii, linie podziałowe kół zębatych i gwintów, osie okręgów.",
+        "Dwupunktowa cienka – skrajne położenia części ruchomych, pierwotny i ostateczny kształt, linie gięcia, osie ciężkości.",
+        "Falista cienka – urwania i przerwania przedmiotów; zygzakowa – to samo przy kreśleniu maszynowym.",
+        "Linia ciągła gruba oznacza też krótkie kreski końców śladów płaszczyzn przekrojów i miejsc załamania tych płaszczyzn."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/rodzaje-linii-tabela.jpg",
+          "caption": "Rodzaje linii rysunkowych: 1 – ciągła bardzo gruba, 2 – ciągła gruba, 3 – ciągła cienka, 4 – kreskowa, 5 – punktowa gruba, 6 – punktowa cienka, 7 – dwupunktowa, 8 – falista cienka, 9 – zygzakowa."
+        }
+      ]
+    },
+    {
+      "heading": "Podziałka (skala) rysunkowa",
+      "points": [
+        "Podziałka – stosunek wymiarów przedmiotu na rysunku do jego wymiarów rzeczywistych.",
+        "Naturalna – wymiary zgodne z rzeczywistymi.",
+        "Zmniejszająca – np. 1:2, 1:5, 1:10, 1:20.",
+        "Zwiększająca – np. 2:1."
+      ]
+    },
+    {
+      "heading": "Wymiarowanie rysunku",
+      "points": [
+        "Wymiarowanie – umieszczanie wymiarów obiektu na rysunku; używa się linii ciągłych cienkich (prostych lub łukowych), linii pomocniczych, cyfr i symboli.",
+        "Linie wymiarowe zakończone grotami (czasem jednym); groty dotykają końcem (od wewnątrz) linii, między którymi podaje się odległość; jednakowa długość grotów.",
+        "Linia wymiarowa równoległa do kierunku wymiaru, linie pomocnicze prostopadłe.",
+        "Wymiary podaje się w milimetrach bez oznaczenia mm; inne jednostki z oznaczeniem, np. 2” (2 cale), 5 cm.",
+        "Liczby wymiarowe – wysokość co najmniej 3,5 mm, umieszczane 0,5–1,5 mm nad poziomą linią wymiarową.",
+        "Linie wymiarowe i pomocnicze nie mogą przecinać się z liniami krawędziowymi obiektu.",
+        "Wymiary podaje się na rzutach, gdzie element jest najlepiej widoczny; unika się powtarzania wymiarów i wymiarów, które można obliczyć; rozkłada się je równomiernie.",
+        "Średnice poprzedza się znakiem Ø, promienie literą R.",
+        "Groty powinny mieć jednakową długość na całym rysunku; dopuszcza się, aby nie były zaczernione. Wymiary muszą być łatwo czytelne."
+      ]
+    },
+    {
+      "heading": "2. Uproszczenia i połączenia rozłączne (gwintowe)",
+      "points": [
+        "Elementy rysuje się szczegółowo, umownie lub w uproszczeniu; uproszczenia są znormalizowane.",
+        "Uproszczenia I stopnia (przedstawienie uproszczone) – głównie rysunki wykonawcze części maszynowych.",
+        "Uproszczenia II stopnia (przedstawienie umowne) – rysunki złożeniowe.",
+        "Uproszczenia III stopnia – różnego rodzaju schematy.",
+        "Gwint w rzucie osiowym: dna bruzd linią ciągłą cienką; w rzucie prostopadłym do osi – cienki łuk o długości ¾ obwodu, nie zaczynający się ani nie kończący na osiach.",
+        "Gwint niewidoczny rysuje się liniami kreskowymi; ograniczeń jego długości można nie zaznaczać.",
+        "W połączeniach gwintowych gwint zewnętrzny dominuje i zawsze zasłania gwint wewnętrzny.",
+        "Śruby, nakrętki, wkręty, podkładki i zawleczki można przedstawiać w uproszczeniu; połączenia wielowypustowe i wielokarbowe – rzeczywiście lub w uproszczeniu.",
+        "Wymiarowanie gwintu – oznaczenie gwintu i jego długość użytkowa.",
+        "Oznaczenie: litera rodzaju (M – metryczny, Tr – trapezowy symetryczny), średnica w mm, dla drobnozwojowych skok w mm, np. M10 x 1,5.",
+        "Gwinty lewoskrętne oznacza się literami LH, np. M12LH.",
+        "Stopień uproszczenia przyjmuje się w zależności od podziałki i charakteru rysunku."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/gwint-stopnie-uproszczenia.jpg",
+          "caption": "Oznaczenia połączeń gwintowych (śrubowych): a) połączenie bez uproszczeń, b) połączenie w I stopniu uproszczenia, c) połączenie w II stopniu uproszczenia (umowne – sam krzyżyk na osi)."
+        }
+      ]
+    },
+    {
+      "heading": "Połączenia nierozłączne i elementy sprężyste",
+      "points": [
+        "Połączenia nierozłączne: nitowe (rysunek dokładny lub uproszczony), spawane, lutowane i klejone.",
+        "Połączenia lutowane i klejone rysuje się tak samo, dodając napis „lut” lub „klej”.",
+        "Sprężyny w widoku i przekroju – na rysunkach wykonawczych i złożeniowych; w uproszczeniu – na złożeniowych i schematach.",
+        "Sprężyny śrubowe o lewym kierunku zwojów na rysunku uproszczonym oznacza się symbolem LH.",
+        "Wymiary sprężyn podaje się na rysunku wykonawczym, uzupełnionym wykresem odkształcenia; ważne cechy w tabliczce w prawym górnym rogu.",
+        "Rodzaje pokazane na rysunkach: sprężyna śrubowa naciskowa, śrubowa naciągowa, talerzowa, resor."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/polaczenie-nitowe.jpg",
+          "caption": "Połączenie nitowe: u góry rysunek dokładny (widoczny łeb nitu), na dole rysunek uproszczony (nit jako linia z poprzeczkami)."
+        },
+        {
+          "src": "img/tr1/polaczenia-spawane.jpg",
+          "caption": "Połączenia spawane – spoiny zaczernione (czarne pola) między łączonymi częściami."
+        },
+        {
+          "src": "img/tr1/polaczenia-lutowane-klejone.jpg",
+          "caption": "Połączenia lutowane i klejone – rysuje się je tak samo (gruba czarna linia lutu/kleju), dodając jedynie napis „lut” lub „klej”."
+        },
+        {
+          "src": "img/tr1/sprezyny-rodzaje.jpg",
+          "caption": "Sprężyny w widoku, przekroju i uproszczeniu: a) sprężyna śrubowa naciskowa, b) sprężyna śrubowa naciągowa (z zaczepami), c) sprężyna talerzowa, d) resor."
+        }
+      ]
+    },
+    {
+      "heading": "Elementy napędów mechanicznych",
+      "points": [
+        "Osie i wały: na rysunkach wykonawczych praktycznie bez uproszczeń; na złożeniowych w uproszczeniu, nawet bez gwintów i wielowypustów.",
+        "Na rysunkach złożeniowych łożyska ślizgowe rysuje się bez uproszczeń, a toczne w uproszczeniu (pomijając zaokrąglenia i ścięcia).",
+        "W widoku prostopadłym do osi łożyska poprzecznego lub skośnego rysuje się tylko jeden element toczny w postaci okręgu – niezależnie od kształtu (kulka, baryłka, walec, stożek, igiełka).",
+        "Części łożyska tocznego: pierścień zewnętrzny, bieżnia zewnętrzna, element toczny, koszyczek, bieżnia wewnętrzna, pierścień wewnętrzny.",
+        "Uszczelnienia spoczynkowe (np. O-ringi) – bez uproszczenia lub w uproszczeniu; znormalizowane uszczelnienia wskazane w uproszczeniu lub umownie.",
+        "Koła pasowe na rysunkach wykonawczych bez uproszczeń; na złożeniowych przekładni pasowej można pominąć nieistotne szczegóły.",
+        "Koło łańcuchowe w uproszczeniu: walec podstaw zębów linią ciągłą cienką (widok) lub grubą (przekrój), walec podziałowy linią punktową cienką.",
+        "Łańcuch zaznacza się liniami punktowymi cienkimi stycznymi do okręgów podziałowych.",
+        "Uszczelnienia rurowe można przedstawiać różnymi sposobami, podobnie jak łożyska toczne."
+      ],
+      "images": [
+        {
+          "src": "img/tr1/lozysko-toczne-przekroj.jpg",
+          "caption": "Przekrój łożyska tocznego: 1 – pierścień zewnętrzny, 2 – bieżnia zewnętrzna, 3 – element toczny, 4 – koszyczek, 5 – bieżnia wewnętrzna, 6 – pierścień wewnętrzny."
+        }
+      ]
+    },
+    {
+      "heading": "Czytanie rysunku wykonawczego i złożeniowego",
+      "points": [
+        "Czytanie rysunku wykonawczego zaczyna się od tabliczki rysunkowej: nazwa części, materiał, masa, podziałka.",
+        "Dalej: rzuty i przekroje (kształt przestrzenny), potem analiza wymiarów.",
+        "Czytanie rysunku złożeniowego zaczyna się od tabliczki rysunkowej i tabliczki wykazu części.",
+        "Wykaz części pokazuje ilość elementów i czy są znormalizowane, czy trzeba je wykonać samodzielnie.",
+        "Myślowe odtworzenie – wizualizacja kształtu, wielkości, kolejności montażu i ewentualnie demontażu.",
+        "Odczyt rysunku złożeniowego jest najbardziej istotny, gdy nie znamy budowy maszyny i opieramy się wyłącznie na rysunku."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rysunek techniczny – definicja",
+      "back": "Rysunek prezentujący i opisujący obiekt zgodnie z normami precyzyjnie określającymi sposób jego przedstawiania."
+    },
+    {
+      "front": "Co musi zawierać każdy rysunek techniczny w zakresie norm?",
+      "back": "Adnotację o normie, zgodnie z którą został wykonany."
+    },
+    {
+      "front": "Co oznacza skrót PN na rysunku?",
+      "back": "Rysunek wykonano zgodnie z Polską Normą."
+    },
+    {
+      "front": "Jak oznacza się normy europejskie i międzynarodowe przyjęte w Polsce?",
+      "back": "Europejskie: PN-EN; międzynarodowe ISO: PN-ISO lub PN-EN ISO."
+    },
+    {
+      "front": "Która norma definiuje podział rysunków technicznych i terminy dokumentacji?",
+      "back": "PN-ISO-1:1994."
+    },
+    {
+      "front": "Szkic",
+      "back": "Odręcznie wykonany rysunek, zazwyczaj punkt wyjściowy do dalszej pracy."
+    },
+    {
+      "front": "Schemat",
+      "back": "Uproszczone przedstawienie zasady działania lub budowy urządzenia."
+    },
+    {
+      "front": "Plan (rodzaj przedstawienia)",
+      "back": "Przedstawienie ułożenia elementów składowych względem siebie."
+    },
+    {
+      "front": "Wykres",
+      "back": "Graficzna prezentacja zależności zmiennych."
+    },
+    {
+      "front": "Rysunek wykonawczy",
+      "back": "Zawiera wszystkie dane potrzebne do wykonania (odtworzenia) obiektu."
+    },
+    {
+      "front": "Rysunek złożeniowy",
+      "back": "Przedstawia pozycję wszystkich elementów, np. maszyny po złożeniu."
+    },
+    {
+      "front": "Rysunek montażowy",
+      "back": "Zawiera wszystkie dane potrzebne do zamontowania urządzenia."
+    },
+    {
+      "front": "Rysunek instalacyjny",
+      "back": "Przedstawia rozmieszczenie elementów instalacji i sposób ich połączenia."
+    },
+    {
+      "front": "Rysunek katalogowy",
+      "back": "Stosowany w katalogach do prezentacji obiektu, np. maszyny; ułatwia dobór części i pokazuje ich położenie."
+    },
+    {
+      "front": "Widok",
+      "back": "Przedstawia zewnętrzne, widoczne kształty przedmiotu."
+    },
+    {
+      "front": "Rzutowanie",
+      "back": "Sprowadzenie punktów przedmiotu na płaszczyznę rzutów (rzutnię), czyli płaszczyznę arkusza."
+    },
+    {
+      "front": "Rzutowanie aksonometryczne",
+      "back": "Pokazuje przedmiot w trzech wymiarach (długość, szerokość, wysokość) jednym rzutem, poglądowo."
+    },
+    {
+      "front": "Kiedy wykonuje się przekrój obiektu?",
+      "back": "Gdy złożonych kształtów wewnętrznych nie da się jednoznacznie odwzorować rzutami."
+    },
+    {
+      "front": "Jak powstaje przekrój?",
+      "back": "Przecina się obiekt wyobrażalną płaszczyzną, odrzuca w myśli część przed nią (od strony obserwatora) i rysuje rzut pozostałej części."
+    },
+    {
+      "front": "Co zawierają tabele katalogowe części?",
+      "back": "Informacje o podzespołach i częściach: oznaczenia, ilości, spełnianie wymaganych norm."
+    },
+    {
+      "front": "Rysunek instrukcyjny – zadanie",
+      "back": "Przedstawienie instrukcji obsługi maszyn, montażu i demontażu podzespołów."
+    },
+    {
+      "front": "Schemat strukturalny",
+      "back": "Pokazuje zasadę działania całego układu (urządzenia)."
+    },
+    {
+      "front": "Schemat montażowy",
+      "back": "Ukazuje sposób montażu i wzajemne ułożenie części urządzenia."
+    },
+    {
+      "front": "Schemat podłączenia",
+      "back": "Przedstawia sposób podłączenia urządzenia, np. do sieci elektrycznej."
+    },
+    {
+      "front": "W jakiej podziałce wykonuje się schematy?",
+      "back": "Bez określonej podziałki."
+    },
+    {
+      "front": "Co trzeba podać obok schematu z własnymi oznaczeniami?",
+      "back": "Znaczenie poszczególnych oznaczeń i symboli."
+    },
+    {
+      "front": "Po co stosuje się uproszczenia rysunkowe?",
+      "back": "Dla zwiększenia przejrzystości rysunku."
+    },
+    {
+      "front": "Popularne oprogramowanie do rysunku technicznego",
+      "back": "Oprogramowanie typu CAD."
+    },
+    {
+      "front": "Przybory kreślarskie – przykłady",
+      "back": "Stół kreślarski, rysownica, przykładnica, liniały, trójkąty, skalówka, kątomierz, krzywki, cyrkiel, grafion, rapidograf."
+    },
+    {
+      "front": "Materiały kreślarskie",
+      "back": "Elementy zużywające się przy rysowaniu: ołówki, gumki, tusze, papier, pinezki, taśma, papier ścierny."
+    },
+    {
+      "front": "Najpopularniejsze szeregi formatów arkuszy",
+      "back": "A, B i C."
+    },
+    {
+      "front": "Podstawowy format arkusza według PN",
+      "back": "A4 – 210 x 297 mm."
+    },
+    {
+      "front": "Jak oznacza się największy arkusz w szeregu?",
+      "back": "Cyfrą 0 (np. A0)."
+    },
+    {
+      "front": "Jaka jest zależność między kolejnymi formatami w szeregu?",
+      "back": "Następny format to połowa poprzedniego, oznaczony cyfrą większą o 1."
+    },
+    {
+      "front": "Wymiary arkusza A0",
+      "back": "1189 x 841 mm."
+    },
+    {
+      "front": "Wymiary arkusza A3",
+      "back": "420 x 297 mm."
+    },
+    {
+      "front": "Wymiary arkusza A2",
+      "back": "594 x 420 mm."
+    },
+    {
+      "front": "Wymiary arkusza A1",
+      "back": "841 x 594 mm."
+    },
+    {
+      "front": "Odległość obramowania od krawędzi arkusza A3 i mniejszego",
+      "back": "5 mm."
+    },
+    {
+      "front": "Odległość obramowania dla arkuszy większych od A3",
+      "back": "7–10 mm."
+    },
+    {
+      "front": "Minimalna grubość linii obramowania",
+      "back": "0,7 mm."
+    },
+    {
+      "front": "Gdzie umieszcza się tabliczkę rysunkową?",
+      "back": "W prawym dolnym rogu arkusza, wewnątrz obramowania."
+    },
+    {
+      "front": "Ile grubości linii stosuje się w rysunku technicznym?",
+      "back": "Trzy."
+    },
+    {
+      "front": "Linia ciągła bardzo gruba – zastosowanie",
+      "back": "Połączenia lutowane i klejone, linie wykresowe."
+    },
+    {
+      "front": "Linia ciągła gruba – zastosowanie",
+      "back": "Widoczne krawędzie i zarysy, obramowanie arkusza, końce śladów płaszczyzn przekrojów."
+    },
+    {
+      "front": "Linia ciągła cienka – zastosowanie",
+      "back": "Linie wymiarowe i pomocnicze, kreskowanie przekrojów, gwinty."
+    },
+    {
+      "front": "Linia kreskowa cienka – zastosowanie",
+      "back": "Niewidoczne krawędzie i zarysy przedmiotów."
+    },
+    {
+      "front": "Linia punktowa gruba – zastosowanie",
+      "back": "Powierzchnie podlegające obróbce cieplnej lub powierzchniowej."
+    },
+    {
+      "front": "Linia punktowa cienka – zastosowanie",
+      "back": "Osie symetrii, osie okręgów, linie podziałowe kół zębatych i gwintów."
+    },
+    {
+      "front": "Linia dwupunktowa cienka – zastosowanie",
+      "back": "Skrajne położenia części ruchomych, linie gięcia, osie ciężkości, pierwotny i ostateczny kształt."
+    },
+    {
+      "front": "Linia falista cienka – zastosowanie",
+      "back": "Urwania i przerwania przedmiotów (linia zygzakowa – to samo przy kreśleniu maszynowym)."
+    },
+    {
+      "front": "Podziałka (skala) rysunkowa",
+      "back": "Stosunek wymiarów przedmiotu na rysunku do jego wymiarów rzeczywistych."
+    },
+    {
+      "front": "Przykłady podziałek zmniejszających",
+      "back": "1:2, 1:5, 1:10, 1:20."
+    },
+    {
+      "front": "Przykład podziałki zwiększającej",
+      "back": "2:1."
+    },
+    {
+      "front": "W jakich jednostkach podaje się wymiary na rysunku?",
+      "back": "W milimetrach, bez oznaczenia mm."
+    },
+    {
+      "front": "Minimalna wysokość liczb wymiarowych",
+      "back": "3,5 mm."
+    },
+    {
+      "front": "W jakiej odległości nad linią wymiarową umieszcza się liczby?",
+      "back": "0,5–1,5 mm nad poziomą linią wymiarową."
+    },
+    {
+      "front": "Położenie linii wymiarowej i pomocniczych względem wymiaru",
+      "back": "Wymiarowa równoległa do kierunku wymiaru, pomocnicze prostopadłe."
+    },
+    {
+      "front": "Jak oznacza się średnicę i promień?",
+      "back": "Średnicę znakiem Ø, promień literą R."
+    },
+    {
+      "front": "Jakich wymiarów należy unikać?",
+      "back": "Powtarzania tych samych wymiarów i wymiarów, które można obliczyć."
+    },
+    {
+      "front": "Uproszczenia I stopnia – gdzie?",
+      "back": "Głównie rysunki wykonawcze części maszynowych (przedstawienie uproszczone)."
+    },
+    {
+      "front": "Uproszczenia II stopnia – gdzie?",
+      "back": "Rysunki złożeniowe (przedstawienie umowne)."
+    },
+    {
+      "front": "Uproszczenia III stopnia – gdzie?",
+      "back": "Różnego rodzaju schematy."
+    },
+    {
+      "front": "Jak rysuje się gwint w rzucie prostopadłym do osi?",
+      "back": "Cienkim łukiem o długości ¾ obwodu, nie zaczynającym się ani nie kończącym na osiach."
+    },
+    {
+      "front": "Jak rysuje się gwint niewidoczny?",
+      "back": "Liniami kreskowymi."
+    },
+    {
+      "front": "Który gwint dominuje w połączeniu gwintowym?",
+      "back": "Gwint zewnętrzny – zawsze zasłania wewnętrzny."
+    },
+    {
+      "front": "Na czym polega wymiarowanie gwintu?",
+      "back": "Na podaniu oznaczenia gwintu i jego długości użytkowej."
+    },
+    {
+      "front": "Co oznacza litera M i Tr w oznaczeniu gwintu?",
+      "back": "M – gwint metryczny; Tr – trapezowy symetryczny."
+    },
+    {
+      "front": "Co oznacza zapis M10 x 1,5?",
+      "back": "Gwint metryczny drobnozwojowy o średnicy 10 mm i skoku 1,5 mm."
+    },
+    {
+      "front": "Oznaczenie gwintu lewoskrętnego",
+      "back": "LH, np. M12LH."
+    },
+    {
+      "front": "Jak rysuje się połączenia lutowane i klejone?",
+      "back": "Tak samo jak inne nierozłączne, dodając napis „lut” lub „klej”."
+    },
+    {
+      "front": "Oznaczenie sprężyny śrubowej o lewym kierunku zwojów",
+      "back": "Symbol LH."
+    },
+    {
+      "front": "Gdzie podaje się wymiary sprężyn?",
+      "back": "Na rysunku wykonawczym, uzupełnionym wykresem odkształcenia; ważne cechy w tabliczce w prawym górnym rogu."
+    },
+    {
+      "front": "Jak rysuje się łożyska na rysunkach złożeniowych?",
+      "back": "Ślizgowe bez uproszczeń, toczne w uproszczeniu."
+    },
+    {
+      "front": "Ile elementów tocznych rysuje się w widoku prostopadłym do osi łożyska?",
+      "back": "Tylko jeden, w postaci okręgu – niezależnie od kształtu."
+    },
+    {
+      "front": "Części łożyska tocznego",
+      "back": "Pierścień zewnętrzny, bieżnia zewnętrzna, element toczny, koszyczek, bieżnia wewnętrzna, pierścień wewnętrzny."
+    },
+    {
+      "front": "Jak zaznacza się łańcuch w przekładni łańcuchowej?",
+      "back": "Liniami punktowymi cienkimi stycznymi do okręgów podziałowych."
+    },
+    {
+      "front": "Jak rysuje się walec podziałowy koła łańcuchowego?",
+      "back": "Linią punktową cienką."
+    },
+    {
+      "front": "Od czego zaczyna się czytanie rysunku wykonawczego?",
+      "back": "Od tabliczki rysunkowej (nazwa części, materiał, masa, podziałka)."
+    },
+    {
+      "front": "Od czego zaczyna się czytanie rysunku złożeniowego?",
+      "back": "Od tabliczki rysunkowej i tabliczki wykazu części."
+    },
+    {
+      "front": "Co pokazuje tabliczka wykazu części?",
+      "back": "Ilość elementów i czy są znormalizowane, czy trzeba je wykonać samodzielnie."
+    },
+    {
+      "front": "Nazwij części łożyska tocznego oznaczone numerami 1–6.",
+      "back": "1 – pierścień zewnętrzny, 2 – bieżnia zewnętrzna, 3 – element toczny, 4 – koszyczek, 5 – bieżnia wewnętrzna, 6 – pierścień wewnętrzny.",
+      "img": "img/tr1/lozysko-toczne-przekroj.jpg"
+    },
+    {
+      "front": "Jaki stopień uproszczenia połączenia gwintowego pokazują rysunki a), b) i c)?",
+      "back": "a) połączenie bez uproszczeń, b) I stopień uproszczenia, c) II stopień uproszczenia (przedstawienie umowne).",
+      "img": "img/tr1/gwint-stopnie-uproszczenia.jpg"
+    },
+    {
+      "front": "Jakie rodzaje sprężyn pokazano na rysunkach a)–d)?",
+      "back": "a) śrubowa naciskowa, b) śrubowa naciągowa, c) talerzowa, d) resor.",
+      "img": "img/tr1/sprezyny-rodzaje.jpg"
+    },
+    {
+      "front": "Co przedstawia rysunek tulei z kołnierzem: a), b), c)?",
+      "back": "a) rysunek poglądowy, b) rzut główny – widok z krawędziami niewidocznymi (linie kreskowe), c) rzut główny – przekrój.",
+      "img": "img/tr1/tuleja-rzuty-przekroj.jpg"
+    },
+    {
+      "front": "Jaki to rodzaj rysunku technicznego i co przekazuje?",
+      "back": "Rysunek instrukcyjny – pokazuje przykręcenie śruby zabezpieczającej koła: obrót klucza zgodnie z ruchem wskazówek zegara i zakaz użycia klucza pneumatycznego (przekreślony czerwonym krzyżykiem).",
+      "img": "img/tr1/rysunek-instrukcyjny-sruba-kola.jpg"
+    },
+    {
+      "front": "Jakie połączenie przedstawia rysunek (zaczernione pola między częściami)?",
+      "back": "Połączenie spawane – zaczernione pola to spoiny łączące części.",
+      "img": "img/tr1/polaczenia-spawane.jpg"
+    },
+    {
+      "front": "Podaj wymiary formatów A0–A4 (mm).",
+      "back": "A0 1189 x 841, A1 841 x 594, A2 594 x 420, A3 420 x 297, A4 297 x 210.",
+      "img": "img/tr1/formaty-arkuszy.jpg"
+    },
+    {
+      "front": "Jakie kolumny ma tabela katalogowa części (np. lusterka Ursus MF 255)?",
+      "back": "Nr pozycji (zgodny z numerem na rysunku), oznaczenie (numer katalogowy), nazwa podzespołu lub części (z normą), liczba sztuk, uwagi.",
+      "img": "img/tr1/lusterko-ursus-katalog.jpg"
+    },
+    {
+      "front": "Od czego zależy stopień uproszczenia rysunku technicznego?",
+      "back": "Od podziałki i charakteru rysunku (uproszczenia są znormalizowane)."
+    },
+    {
+      "front": "Czy groty linii wymiarowych muszą być zaczernione?",
+      "back": "Nie – dopuszcza się niezaczernione, ale muszą mieć jednakową długość na całym rysunku i dotykać od wewnątrz linii, między którymi podaje się wymiar."
+    },
+    {
+      "front": "Jak przedstawia się uszczelnienia spoczynkowe (np. O-ringi) i rurowe?",
+      "back": "Spoczynkowe – bez uproszczenia lub w uproszczeniu (znormalizowane najlepiej w uproszczeniu lub umownie); rurowe – różnymi sposobami, podobnie jak łożyska toczne."
+    },
+    {
+      "front": "Jakie są najważniejsze rysunki podstawowe?",
+      "back": "Widoki, rzuty, przekroje i schematy."
+    },
+    {
+      "front": "Czym różni się schemat od rysunku wykonawczego?",
+      "back": "Schemat jest łatwiejszy w wykonaniu i prostszy w odczytywaniu; wykonuje się go bez podziałki, a ułożenie części nie musi odpowiadać rzeczywistemu."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Co oznacza skrót PN na rysunku technicznym?",
+      "options": [
+        "Rysunek wykonano zgodnie z Polską Normą",
+        "Rysunek wykonano zgodnie z normą europejską",
+        "Rysunek jest projektem niezatwierdzonym",
+        "Rysunek wykonano w podziałce naturalnej"
+      ],
+      "answer": 0,
+      "explain": "Skrót PN oznacza, że rysunek wykonano zgodnie z Polską Normą."
+    },
+    {
+      "q": "Odręcznie wykonany rysunek, stanowiący zazwyczaj punkt wyjściowy do dalszej pracy, to:",
+      "options": [
+        "schemat",
+        "plan",
+        "rysunek wykonawczy",
+        "szkic"
+      ],
+      "answer": 3,
+      "explain": "Szkic to odręczny rysunek będący zwykle punktem wyjścia do dalszej pracy."
+    },
+    {
+      "q": "Rysunek zawierający wszystkie dane potrzebne do wykonania (odtworzenia) obiektu to rysunek:",
+      "options": [
+        "katalogowy",
+        "złożeniowy",
+        "wykonawczy",
+        "instalacyjny"
+      ],
+      "answer": 2,
+      "explain": "Rysunek wykonawczy zawiera wszystkie dane potrzebne do odtworzenia obiektu."
+    },
+    {
+      "q": "Rysunek przedstawiający pozycję wszystkich elementów maszyny po jej złożeniu to rysunek:",
+      "options": [
+        "wykonawczy",
+        "złożeniowy",
+        "instalacyjny",
+        "instrukcyjny"
+      ],
+      "answer": 1,
+      "explain": "Rysunek złożeniowy przedstawia pozycję wszystkich elementów, np. maszyny po złożeniu."
+    },
+    {
+      "q": "Uproszczone przedstawienie zasady działania lub budowy urządzenia to:",
+      "options": [
+        "szkic",
+        "schemat",
+        "wykres",
+        "przekrój"
+      ],
+      "answer": 1,
+      "explain": "Schemat to uproszczone przedstawienie zasady działania lub budowy urządzenia."
+    },
+    {
+      "q": "Rzutowanie aksonometryczne pozwala:",
+      "options": [
+        "pokazać przedmiot w trzech wymiarach jednym rzutem",
+        "pokazać wyłącznie kształty wewnętrzne",
+        "przedstawić tylko rzut z góry",
+        "narysować przedmiot bez zachowania proporcji"
+      ],
+      "answer": 0,
+      "explain": "Rzut aksonometryczny przedstawia długość, szerokość i wysokość jednym rzutem."
+    },
+    {
+      "q": "Przekrój obiektu wykonuje się, gdy:",
+      "options": [
+        "obiekt jest bardzo duży",
+        "rysunek wykonuje się w skali 1:1",
+        "obiekt ma wyłącznie proste kształty zewnętrzne",
+        "złożonych kształtów wewnętrznych nie da się odwzorować rzutami"
+      ],
+      "answer": 3,
+      "explain": "Przekrój stosuje się, gdy rzuty nie odwzorowują jednoznacznie kształtów wewnętrznych."
+    },
+    {
+      "q": "Schemat pokazujący sposób podłączenia urządzenia do sieci elektrycznej to schemat:",
+      "options": [
+        "strukturalny",
+        "montażowy",
+        "podłączenia",
+        "kinematyczny"
+      ],
+      "answer": 2,
+      "explain": "Schemat podłączenia przedstawia sposób podłączenia urządzenia, np. do sieci elektrycznej."
+    },
+    {
+      "q": "Schematy wykonuje się:",
+      "options": [
+        "zawsze w podziałce 1:1",
+        "wyłącznie w podziałce zmniejszającej",
+        "bez określonej podziałki",
+        "w podziałce 2:1"
+      ],
+      "answer": 2,
+      "explain": "Schematy wykonuje się bez określonej podziałki."
+    },
+    {
+      "q": "Podstawowym formatem arkusza rysunkowego według PN jest:",
+      "options": [
+        "A3 – 297 x 420 mm",
+        "A4 – 210 x 297 mm",
+        "A0 – 841 x 1189 mm",
+        "B4 – 250 x 353 mm"
+      ],
+      "answer": 1,
+      "explain": "Podstawowym formatem według PN jest A4 o wymiarach 210 x 297 mm."
+    },
+    {
+      "q": "Wymiary arkusza A0 wynoszą:",
+      "options": [
+        "1189 x 841 mm",
+        "841 x 594 mm",
+        "594 x 420 mm",
+        "1000 x 700 mm"
+      ],
+      "answer": 0,
+      "explain": "Arkusz A0 ma wymiary 1189 x 841 mm."
+    },
+    {
+      "q": "Format A2 w stosunku do A1 jest:",
+      "options": [
+        "dwa razy większy",
+        "taki sam, ale w poziomie",
+        "o 1/4 mniejszy",
+        "o połowę mniejszy"
+      ],
+      "answer": 3,
+      "explain": "Każdy następny format w szeregu jest połową poprzedniego."
+    },
+    {
+      "q": "Obramowanie arkusza A4 wyznacza się w odległości od krawędzi:",
+      "options": [
+        "2 mm",
+        "10 mm",
+        "15 mm",
+        "5 mm"
+      ],
+      "answer": 3,
+      "explain": "Dla arkuszy A3 i mniejszych obramowanie jest 5 mm od krawędzi."
+    },
+    {
+      "q": "Minimalna grubość linii obramowania arkusza wynosi:",
+      "options": [
+        "0,25 mm",
+        "0,35 mm",
+        "0,7 mm",
+        "1,5 mm"
+      ],
+      "answer": 2,
+      "explain": "Grubość linii obramowania powinna wynosić minimum 0,7 mm."
+    },
+    {
+      "q": "Tabliczkę rysunkową umieszcza się:",
+      "options": [
+        "w lewym górnym rogu, poza obramowaniem",
+        "w prawym dolnym rogu, wewnątrz obramowania",
+        "na środku dolnej krawędzi",
+        "w prawym górnym rogu, poza obramowaniem"
+      ],
+      "answer": 1,
+      "explain": "Tabliczkę umieszcza się w prawym dolnym rogu arkusza wewnątrz obramowania."
+    },
+    {
+      "q": "Niewidoczne krawędzie przedmiotów rysuje się linią:",
+      "options": [
+        "kreskową cienką",
+        "ciągłą grubą",
+        "punktową cienką",
+        "dwupunktową cienką"
+      ],
+      "answer": 0,
+      "explain": "Linia kreskowa cienka służy do niewidocznych krawędzi i zarysów."
+    },
+    {
+      "q": "Osie symetrii rysuje się linią:",
+      "options": [
+        "punktową cienką",
+        "kreskową cienką",
+        "ciągłą bardzo grubą",
+        "falistą cienką"
+      ],
+      "answer": 0,
+      "explain": "Linia punktowa cienka służy m.in. do osi symetrii i osi okręgów."
+    },
+    {
+      "q": "Linią ciągłą grubą rysuje się:",
+      "options": [
+        "linie wymiarowe",
+        "kreskowanie przekrojów",
+        "osie symetrii",
+        "widoczne krawędzie przedmiotów"
+      ],
+      "answer": 3,
+      "explain": "Linia ciągła gruba – widoczne krawędzie i wyraźne zarysy przedmiotów."
+    },
+    {
+      "q": "Powierzchnie podlegające obróbce cieplnej oznacza się linią:",
+      "options": [
+        "punktową cienką",
+        "kreskową cienką",
+        "punktową grubą",
+        "ciągłą cienką"
+      ],
+      "answer": 2,
+      "explain": "Linia punktowa gruba oznacza powierzchnie podlegające obróbce cieplnej lub powierzchniowej."
+    },
+    {
+      "q": "Skrajne położenia części ruchomych rysuje się linią:",
+      "options": [
+        "falistą cienką",
+        "dwupunktową cienką",
+        "ciągłą grubą",
+        "punktową grubą"
+      ],
+      "answer": 1,
+      "explain": "Linia dwupunktowa cienka oznacza skrajne położenia części ruchomych."
+    },
+    {
+      "q": "Urwania i przerwania przedmiotów rysuje się linią:",
+      "options": [
+        "dwupunktową cienką",
+        "falistą cienką",
+        "kreskową cienką",
+        "ciągłą bardzo grubą"
+      ],
+      "answer": 1,
+      "explain": "Linia falista cienka oznacza urwania i przerwania przedmiotów."
+    },
+    {
+      "q": "Linie wymiarowe i kreskowanie przekrojów rysuje się linią:",
+      "options": [
+        "ciągłą cienką",
+        "ciągłą grubą",
+        "punktową cienką",
+        "kreskową cienką"
+      ],
+      "answer": 0,
+      "explain": "Linia ciągła cienka – linie wymiarowe, pomocnicze i kreskowanie przekrojów."
+    },
+    {
+      "q": "Podziałka 1:5 jest podziałką:",
+      "options": [
+        "zwiększającą",
+        "naturalną",
+        "umowną",
+        "zmniejszającą"
+      ],
+      "answer": 3,
+      "explain": "Podziałki zmniejszające to np. 1:2, 1:5, 1:10, 1:20."
+    },
+    {
+      "q": "Wymiary na rysunku technicznym podaje się:",
+      "options": [
+        "w centymetrach z oznaczeniem cm",
+        "w calach",
+        "w milimetrach bez oznaczenia mm",
+        "w metrach z oznaczeniem m"
+      ],
+      "answer": 2,
+      "explain": "Wymiary podaje się w milimetrach bez oznaczenia jednostki."
+    },
+    {
+      "q": "Liczby wymiarowe powinny mieć wysokość co najmniej:",
+      "options": [
+        "1,5 mm",
+        "2,5 mm",
+        "3,5 mm",
+        "7 mm"
+      ],
+      "answer": 2,
+      "explain": "Liczby wymiarowe powinny mieć wysokość co najmniej 3,5 mm."
+    },
+    {
+      "q": "Liczby wymiarowe umieszcza się nad poziomą linią wymiarową w odległości:",
+      "options": [
+        "2–3 mm",
+        "0,5–1,5 mm",
+        "3,5–5 mm",
+        "bezpośrednio na linii"
+      ],
+      "answer": 1,
+      "explain": "Liczby wymiarowe umieszcza się 0,5–1,5 mm nad poziomą linią wymiarową."
+    },
+    {
+      "q": "Przy wymiarowaniu promienia liczbę wymiarową poprzedza się:",
+      "options": [
+        "literą R",
+        "znakiem Ø",
+        "literą M",
+        "literą D"
+      ],
+      "answer": 0,
+      "explain": "Przy wymiarowaniu promieni stosuje się literę R, a średnic znak Ø."
+    },
+    {
+      "q": "Uproszczenia II stopnia (przedstawienie umowne) stosuje się głównie na rysunkach:",
+      "options": [
+        "wykonawczych części maszynowych",
+        "schematach",
+        "szkicach",
+        "złożeniowych"
+      ],
+      "answer": 3,
+      "explain": "Uproszczenia II stopnia stosuje się na rysunkach złożeniowych."
+    },
+    {
+      "q": "Gwint w rzucie prostopadłym do osi rysuje się cienkim łukiem o długości:",
+      "options": [
+        "½ obwodu",
+        "całego obwodu",
+        "¼ obwodu",
+        "¾ obwodu"
+      ],
+      "answer": 3,
+      "explain": "W rzucie prostopadłym do osi gwint rysuje się cienkim łukiem o długości ¾ obwodu."
+    },
+    {
+      "q": "W połączeniu gwintowym na rysunku:",
+      "options": [
+        "gwint wewnętrzny zasłania zewnętrzny",
+        "oba gwinty rysuje się liniami kreskowymi",
+        "gwint zewnętrzny zawsze zasłania gwint wewnętrzny",
+        "gwintów się nie rysuje"
+      ],
+      "answer": 2,
+      "explain": "Gwint zewnętrzny dominuje i zawsze zasłania gwint wewnętrzny."
+    },
+    {
+      "q": "Oznaczenie M12LH oznacza gwint:",
+      "options": [
+        "trapezowy o skoku 12 mm",
+        "metryczny lewoskrętny o średnicy 12 mm",
+        "metryczny prawoskrętny o skoku 12 mm",
+        "rurowy o średnicy 12 cali"
+      ],
+      "answer": 1,
+      "explain": "M oznacza gwint metryczny, liczba średnicę w mm, a LH gwint lewoskrętny."
+    },
+    {
+      "q": "Połączenia lutowane i klejone na rysunku odróżnia się przez:",
+      "options": [
+        "dodanie napisu „lut” lub „klej”",
+        "rysowanie linią falistą",
+        "zaznaczenie kolorem czerwonym",
+        "pominięcie ich na rysunku"
+      ],
+      "answer": 0,
+      "explain": "Połączenia lutowane i klejone rysuje się tak samo, dodając napis lut lub klej."
+    },
+    {
+      "q": "W widoku prostopadłym do osi łożyska tocznego na rysunku uproszczonym rysuje się:",
+      "options": [
+        "jeden element toczny w postaci okręgu",
+        "wszystkie kulki",
+        "wszystkie elementy toczne w rzeczywistym kształcie",
+        "tylko pierścień zewnętrzny"
+      ],
+      "answer": 0,
+      "explain": "Rysuje się tylko jeden element toczny jako okrąg, niezależnie od jego kształtu."
+    },
+    {
+      "q": "Łańcuch w przekładni łańcuchowej zaznacza się:",
+      "options": [
+        "linią ciągłą grubą",
+        "linią kreskową cienką",
+        "linią falistą",
+        "liniami punktowymi cienkimi stycznymi do okręgów podziałowych"
+      ],
+      "answer": 3,
+      "explain": "Łańcuch zaznacza się liniami punktowymi cienkimi stycznymi do okręgów podziałowych."
+    },
+    {
+      "q": "Czytanie rysunku wykonawczego rozpoczyna się od:",
+      "options": [
+        "analizy wymiarów",
+        "przekrojów",
+        "tabliczki rysunkowej",
+        "wykazu norm na odwrocie"
+      ],
+      "answer": 2,
+      "explain": "Czytanie zaczyna się od tabliczki rysunkowej z nazwą części, materiałem, masą i podziałką."
+    },
+    {
+      "q": "Na rysunkach złożeniowych łożyska ślizgowe rysuje się:",
+      "options": [
+        "w uproszczeniu III stopnia",
+        "bez uproszczeń",
+        "jako jeden okrąg",
+        "linią kreskową"
+      ],
+      "answer": 1,
+      "explain": "Na rysunkach złożeniowych łożyska ślizgowe rysuje się bez uproszczeń, a toczne w uproszczeniu."
+    },
+    {
+      "q": "Którą cyfrą oznaczono koszyczek na przekroju łożyska tocznego?",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "Na rysunku: 1 – pierścień zewnętrzny, 2 – bieżnia zewnętrzna, 3 – element toczny, 4 – koszyczek, 5 – bieżnia wewnętrzna, 6 – pierścień wewnętrzny.",
+      "img": "img/tr1/lozysko-toczne-przekroj.jpg"
+    },
+    {
+      "q": "Jakie połączenie nierozłączne przedstawia rysunek?",
+      "options": [
+        "Nitowe",
+        "Spawane",
+        "Wpustowe",
+        "Gwintowe"
+      ],
+      "answer": 0,
+      "explain": "Rysunek pokazuje połączenie nitowe – u góry w sposób dokładny, na dole w uproszczeniu.",
+      "img": "img/tr1/polaczenie-nitowe.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaką adnotację będzie zawierał rysunek techniczny wykonany zgodnie z normami europejskimi?",
+      "options": [
+        "NE.",
+        "PN-UE.",
+        "PN-EN.",
+        "PN-NE."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRysunek prezentujący i opisujący obiekt zgodnie z ustalonymi normami nazywa się rysunkiem ….",
+      "options": [
+        "technicznym",
+        "znormalizowanym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKażdy rysunek techniczny znormalizowany musi zawierać adnotację dotyczącą normy, zgodnie z którą został wykonany.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wybierz normy, według których można sporządzić rysunek techniczny.",
+      "options": [
+        "Międzynarodowe.",
+        "Unijne.",
+        "Polskie.",
+        "Europejskie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKażdy rysunek techniczny znormalizowany musi zawierać … dotyczącą normy, zgodnie z którą został wykonany.",
+      "options": [
+        "adnotację",
+        "grafikę"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSchemat to uproszczone przedstawienie zasady działania lub budowy urządzenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak określa się odręcznie wykonany rysunek stanowiący zazwyczaj punkt wyjściowy do dalszej pracy?",
+      "options": [
+        "Wykres.",
+        "Szkic.",
+        "Rysunek.",
+        "Plan."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRysunek … zawiera wszystkie potrzebne dane do wykonania (odtworzenia) obiektu.",
+      "options": [
+        "złożeniowy",
+        "wykonawczy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRysunek złożeniowy przedstawia pozycję wszystkich elementów (obiektów), np. maszyny po zamontowaniu (złożeniu).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Spośród podanych elementów wybierz rodzaje rysunków ze względu na sposób ich wykonania.",
+      "options": [
+        "Katalogowy.",
+        "Instalacyjny.",
+        "Montażowy.",
+        "Wykonawczy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… obiektu powstaje poprzez przecięcie go wyobrażalną płaszczyzną przeprowadzoną przez interesujące nas szczegóły.",
+      "options": [
+        "Przekrój",
+        "Rysunek"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rysunek katalogowy przedstawia rozmieszczenie elementów instalacji oraz sposób ich połączenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z rodzajów rysunków służy do przedstawienia w uproszczony sposób zasady działania urządzenia lub instalacji?",
+      "options": [
+        "Plan.",
+        "Schemat.",
+        "Wykres.",
+        "Szkic."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… wykonuje się bez określonej podziałki, a wzajemne ułożenie części składowych nie musi odpowiadać faktycznemu rozmieszczeniu.",
+      "options": [
+        "Schematy",
+        "Plany"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoszczególne podzespoły urządzenia na schemacie można zaznaczać w sposób uproszczony (np. za pomocą prostokątów), stosując własne oznaczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z podanych wyrazów wybierz rodzaje schematów.",
+      "options": [
+        "Miękki.",
+        "Strukturalny.",
+        "Montażowy.",
+        "Podłączenia."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSchemat … przedstawia sposób podłączenia urządzenia, np. do sieci elektrycznej.",
+      "options": [
+        "podłączenia",
+        "montażowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOsoby, które wykonują rysunki przy użyciu komputera, nie muszą znać zasad ręcznego wykonania rysunku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakiego typu oprogramowanie jest najczęściej stosowane przy wykonywaniu rysunków technicznych?",
+      "options": [
+        "DEMO.",
+        "CAD.",
+        "SIM."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo ręcznego wykonania rysunku technicznego niezbędne są przybory ….",
+      "options": [
+        "malarskie",
+        "kreślarskie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOłówki grafitowe oznakowane są pod względem ich twardości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co przedstawia pierwszy z zamieszczonych rysunków?",
+      "options": [
+        "Rysunek poglądowy tulei z kołnierzem.",
+        "Przekrój tulei z kołnierzem.",
+        "Rzut główny tulei z kołnierzem.",
+        "Rysunek katalogowy tulei z kołnierzem."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr1/samoewaluacja_22.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRzutowanie aksonometryczne umożliwia przedstawienie obrazu przedmiotu w … wymiarach na jednym rzucie.",
+      "options": [
+        "dwóch",
+        "trzech"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku rysowania elementów, które posiadają złożone kształty wewnętrzne, najlepsze jest wykonanie przekroju obiektu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co przedstawia zamieszczony na ekranie rysunek?",
+      "options": [
+        "Schemat połączenia gwintowego.",
+        "Połączenie gwintowe w I stopniu uproszczenia.",
+        "Połączenie gwintowe w II stopniu uproszczenia.",
+        "Połączenie gwintowe bez uproszczeń."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/tr1/samoewaluacja_25.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodstawą określania formatu arkusza jest szereg i oznacza się go … literą.",
+      "options": [
+        "wielką",
+        "małą"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed przystąpieniem do rysowania na każdym arkuszu należy wyznaczyć obramowanie, które powinno znajdować się w odległości 5 mm od krawędzi dla arkuszy A3 i mniejszych, oraz 7–10mm dla większych od A3.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z podanych elementów wybierz przybory kreślarskie.",
+      "options": [
+        "Tusz.",
+        "Kątomierz.",
+        "Rysownica.",
+        "Papier.",
+        "Liniał."
+      ],
+      "answers": [
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodstawowym formatem arkusza rysunkowego według PN jest … o wymiarach 210 x 297 mm.",
+      "options": [
+        "A4",
+        "A3"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodziałka (skala) rysunkowa to stosunek wymiarów przedmiotu na rysunku do jego wymiarów rzeczywistych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką linię stosuje się, aby wyrysować niewidoczne krawędzie i zarysy przedmiotów?",
+      "options": [
+        "Punktową grubą.",
+        "Dwupunktową cienką.",
+        "Ciągłą grubą.",
+        "Kreskową cienką."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLinią punktową … oznacza się osie symetrii, ślady płaszczyzny symetrii, linie podziałowe w kołach zębatych, gwintach itp., osie okręgów i innych przedmiotów.",
+      "options": [
+        "grubą",
+        "cienką"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW piśmie technicznym odstępy pomiędzy znakami powinny wynosić 2 s.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co przedstawia zamieszczony na ekranie rysunek?",
+      "options": [
+        "Przekrój łożyska tocznego.",
+        "Rysunek poglądowy łożyska tocznego.",
+        "Rzut łożyska tocznego.",
+        "Schemat łożyska tocznego."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr1/samoewaluacja_34.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUmieszczanie wymiarów na rysunku nazywamy ….",
+      "options": [
+        "wymiarowaniem",
+        "opisywaniem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGroty linii wymiarowych nie muszą dotykać końcem miejsc, których odległość ma być podana.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W każdym szeregu największy arkusz papieru oznacza się cyfrą",
+      "options": [
+        "1.",
+        "2.",
+        "4.",
+        "0."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy wymiarowaniu średnic liczbę wymiarową poprzedza się znakiem Ø, a przy wymiarowaniu promieni literą ….",
+      "options": [
+        "R",
+        "P"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy rysowaniu połączeń rozłącznych element gwintowany (gwint) przedstawia się w sposób uproszczony.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co na rysunku technicznym oznacza się linią dwupunktową cienką?",
+      "options": [
+        "Skraje położenia części ruchomych.",
+        "Linie wykresowe.",
+        "Linie gięcia.",
+        "Powierzchnie podlegające obróbce cieplnej."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW połączeniach nitowych nity w rzucie poosiowym rysuje się dokładnie lub w uproszczeniu, a w rzucie na płaszczyznę prostopadłą do osi ….",
+      "options": [
+        "trójkątem",
+        "krzyżykiem"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzytanie rysunku wykonawczego powinniśmy rozpocząć od informacji znajdujących się w tabliczce rysunkowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką linią rysuje się linie wymiarowe i pomocnicze?",
+      "options": [
+        "Ciągłą cienką.",
+        "Falistą cienką.",
+        "Punktową grubą.",
+        "Ciągłą bardzo grubą."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa rysunku uproszczonym sprężyny śrubowe z lewym kierunkiem zwojów powinny być oznaczone symbolem ….",
+      "options": [
+        "LK",
+        "LH"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa rysunkach złożeniowych łożyska toczne rysuje się bez uproszeń, a łożyska ślizgowe w sposób uproszczony, pomijając np. zaokrąglenia i ścięcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jaką linią oznacza się powierzchnie poddawane obróbce cieplnej?",
+      "options": [
+        "Punktową grubą.",
+        "Dwupunktową cienką.",
+        "Falistą."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSchemat, w porównaniu z rysunkiem wykonawczym, jest trudniejszy w wykonaniu i bardziej skomplikowany w odczytaniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Z podanych elementów wybierz materiały kreślarskie.",
+      "options": [
+        "Gumka.",
+        "Pinezka.",
+        "Ołówek.",
+        "Cyrkiel.",
+        "Krzywik."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Rysunek przedstawiający zewnętrzne, widoczne kształty przedmiotu to:",
+      "options": [
+        "schemat.",
+        "rzut.",
+        "przekrój.",
+        "widok."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawą określania formatu arkusza papieru wykorzystywanego przy rysunkach technicznych jest szereg i oznacza się go dużą literą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który schemat ukazuje sposób montażu i wzajemnego ułożenia względem siebie poszczególnych części urządzenia?",
+      "options": [
+        "Montażowy.",
+        "Podłączenia.",
+        "Strukturalny."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki rodzaj rysunku ze względu na sposób wykonania stosowany jest w katalogach w celu prezentacji obiektu, np. maszyny?",
+      "options": [
+        "Złożeniowy.",
+        "Katalogowy.",
+        "Instalacyjny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa rysunkach wykonawczych osie i wały przedstawia się praktycznie bez uproszczeń, natomiast na rysunkach złożeniowych można je przedstawić w uproszczeniu bez powiększonych fragmentów, a nawet z pominięciem gwintów i wielowypustów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zamieszczony na ekranie rysunek to:",
+      "options": [
+        "rysunek poglądowy.",
+        "rysunek poglądowy uproszczony.",
+        "schemat uproszczony.",
+        "rysunek katalogowy."
+      ],
+      "answers": [
+        1
+      ],
+      "img": "img/tr1/testwiedzy_9.jpg"
+    },
+    {
+      "q": "Zamieszczony na ekranie rysunek przedstawia:",
+      "options": [
+        "rysunek poglądowy połączeń nitowych.",
+        "rysunek poglądowy połączeń spawanych.",
+        "rysunek poglądowy sprężyny talerzowej.",
+        "rysunek poglądowy połączeń lutowanych."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/tr1/testwiedzy_10.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymiary na rysunku technicznym podaje się w milimetrach bez oznaczenia mm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakim znakiem oznacza się wymiar średnicy?",
+      "options": [
+        "π.",
+        "∑.",
+        "Ω.",
+        "Ø."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jakimi literami oznacza się gwinty lewoskrętne?",
+      "options": [
+        "LH.",
+        "LK.",
+        "HL."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGroty strzałek linii wymiarowych powinny mieć jednakową długość na całym rysunku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymiary powinny być w miarę możliwości naniesione na rzucie z góry.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Gdzie na rysunku złożeniowym znajduje się informacja o ilości poszczególnych elementów niezbędnych do złożenia części?",
+      "options": [
+        "W nagłówku.",
+        "Na odwrocie kartki.",
+        "W tabliczce wykazu części."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOznaczenie gwintu jest ustalone normami i składa się ze znaku literowego określającego rodzaj gwintu i liczby określającej jego wymiary.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "1:2 – jaka to skala?",
+      "options": [
+        "Zmniejszająca.",
+        "Zwiększająca.",
+        "Naturalna."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLinie wymiarowe i pomocnicze różnych wymiarów mogą się przecinać z liniami krawędziowymi obiektu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak określa się graficzną prezentację zależności zmiennych?",
+      "options": [
+        "Plan.",
+        "Schemat.",
+        "Wykres.",
+        "Rysunek."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jakim skrótem określa się zgodność rysunku technicznego z normami międzynarodowymi?",
+      "options": [
+        "PN.",
+        "EN.",
+        "ISO."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczegółowy podział rysunków technicznych i znaczenie terminów stosowanych w dokumentacji technicznej wyrobów, dotyczących tych rysunków we wszystkich dziedzinach zastosowania, ustalono i zdefiniowano w normie PN-ISO-1:1994.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wyrazów nie jest określeniem rodzaju rysunku?",
+      "options": [
+        "Wykres.",
+        "Tabela.",
+        "Plan."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUmiejętność prawidłowego odczytania rysunku technicznego wymaga poznania zasad jego sporządzania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRzutowanie aksonometryczne umożliwia przedstawienie obrazu przedmiotu we wszystkich trzech wymiarach (długość, szerokość, wysokość) jednym tylko rzutem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który ze schematów pokazuje zasadę działania całego układu (urządzenia)?",
+      "options": [
+        "Strukturalny.",
+        "Podłączenia.",
+        "Montażowy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSchemat montażowy ukazuje sposób montażu i wzajemnego ułożenia względem siebie poszczególnych części urządzenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSchematy wykonuje się bez określonej podziałki, a wzajemne ułożenie części składowych nie musi odpowiadać faktycznemu rozmieszczeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z rysunków przedstawia rozmieszczenie elementów instalacji oraz sposób ich połączenia?",
+      "options": [
+        "Wykonawczy.",
+        "Złożeniowy.",
+        "Instalacyjny."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRysunek katalogowy jest stosowany w katalogach w celu prezentacji obiektu, np. maszyny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z formatów są większe niż 200 x 280 mm?",
+      "options": [
+        "A4",
+        "A2",
+        "A5",
+        "A3"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaką linią oznacza się połączenia lutowane?",
+      "options": [
+        "Ciągłą cienką.",
+        "Ciągłą bardzo grubą.",
+        "Dwupunktową cienką.",
+        "Zygzakową."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z podstawowych zasad wymiarowania jest to, że wymiary powinny być w miarę możliwości rozłożone równomiernie na wszystkich rzutach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zamieszczony na ekranie rysunek przedstawia:",
+      "options": [
+        "Rysunek poglądowy tulei z kołnierzem.",
+        "Rysunek katalogowy tulei z kołnierzem.",
+        "Rzut główny – przekrój tulei z kołnierzem.",
+        "Rzut główny – widok z zamieszczeniem krawędzi niewidocznych tulei z kołnierzem."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/tr1/testwiedzy_34.jpg"
+    },
+    {
+      "q": "Jaką linią oznacza się urwanie i przerwanie przedmiotu?",
+      "options": [
+        "Falistą.",
+        "Punktową cienką.",
+        "Kreskowaną cienką.",
+        "Kreskowaną grubą."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2001 @@
+{
+  "id": "pz5",
+  "course": "Produkcja zwierzęca",
+  "title": "Rozród zwierząt gospodarskich",
+  "number": "V",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rozród zwierząt gospodarskich jest podstawowym warunkiem zachowania gatunku – daje potomstwo od sztuk dorosłych.",
+        "Podstawowym czynnikiem prawidłowego odnawiania gatunku jest płodność, czyli zdolność do wydawania potomstwa.",
+        "Na płodność wpływają (oprócz cech dziedzicznych): żywienie, warunki zoohigieny i sposób użytkowania.",
+        "Dojrzałość płciowa (fizjologiczna) – zdolność wytwarzania komórek jajowych w pęcherzykach jajnikowych.",
+        "Dojrzałość rozpłodowa – zdolność do wydania potomstwa bez szkody dla własnego organizmu; określana dla gatunku i rasy na podstawie wieku i masy ciała."
+      ]
+    },
+    {
+      "heading": "1. Bydło – dojrzałość rozpłodowa i metody rozrodu",
+      "points": [
+        "Jałówki osiągają dojrzałość rozpłodową w wieku 15–16 miesięcy (rasy szybko dojrzewające) lub 18 miesięcy (rasy wolno dojrzewające).",
+        "Jałówki kierowane do krycia powinny mieć ok. 60–70% masy sztuki dorosłej danej rasy.",
+        "Jałowice powinny zakończyć wzrost szkieletu – zapłodnienie hamuje wzrost; sztuki pokryte zbyt wcześnie są niższe od pozostałych.",
+        "Krowy cielą się raz w roku, z reguły jedno cielę; ciąże bliźniacze statystycznie raz na 50 wycieleń.",
+        "Od krowy w ciągu życia uzyskuje się 4–6 cieląt (czasem 10 i więcej) – zależy to od stopnia brakowania.",
+        "Krycie naturalne – buhaj oddaje nasienie bezpośrednio do pochwy; najczęściej przy bydle mięsnym utrzymywanym w stadzie.",
+        "Krycie z ręki – buhaja doprowadza się do krowy w rui (lub odwrotnie); kopulacja pod nadzorem człowieka.",
+        "Krycie haremowe (grupowe) – buhaj stale lub okresowo w stadzie 25–30 krów; buhaj bardziej eksploatowany, ale znamy buhaja kryjącego.",
+        "Krycie wolne – w dużych stadach stale na pastwisku, ok. 1 buhaj na 30 krów; wada: nieznajomość ojcostwa cieląt.",
+        "Inseminacja (sztuczne unasiennianie) – powszechna w Polsce; nasienie wprowadza inseminator pipetą do dróg rodnych.",
+        "Zalety inseminacji: mniejsza pracochłonność, ograniczenie chorób, mniejsza liczba czynnych buhajów, niższe koszty chowu.",
+        "Przy kryciu haremowym buhaj jest bardziej eksploatowany, ponieważ może obskakiwać kilkakrotnie jedną krowę.",
+        "Zarówno przy inseminacji, jak i kryciu naturalnym o wyborze momentu zapłodnienia decyduje hodowca – musi umieć rozpoznać zwierzęta w rui."
+      ]
+    },
+    {
+      "heading": "1. Bydło – ruja i rozpoznawanie ciąży",
+      "points": [
+        "Ruja – stan organizmu samicy, w którym jest ona zdolna do zapłodnienia; właściwy moment zapłodnienia wybiera hodowca.",
+        "Okres przedrujowy trwa od kilku do kilkunastu godzin: pobudliwość i niepokój, próby wspinania się na inne krowy, lekkie obrzmienie i zaczerwienienie warg sromowych, skąpy śluz, częstsze ryczenie.",
+        "Ruja właściwa: odruch tolerancji na obskakiwanie, obskakiwanie innych krów, obfity, ciągliwy i przejrzysty śluz, silne zaczerwienienie i obrzęk warg sromowych, spadek apetytu i mleczności, wzrost temperatury ciała o ok. 0,5°C.",
+        "Najpowszechniejszy sposób wykrywania rui – stała obserwacja zwierząt w ciągu dnia.",
+        "Ruja u krów trwa średnio 18–20 godzin.",
+        "Najodpowiedniejszy termin krycia – 10–18 godzina od pierwszych objawów rui; jeśli objawy nie ustępują, krycie powtarza się po ok. 12 godzinach.",
+        "Pierwszy objaw ciąży – brak rui w ciągu 3–4 tygodni po pokryciu.",
+        "W 4. miesiącu ciążę można wykryć po wyokrągleniu brzucha po prawej stronie; płód można wyczuć, ugniatając prawą słabiznę (najlepiej rano przed zadaniem paszy).",
+        "Późniejsze objawy ciąży: powiększenie powłok brzusznych, stopniowy spadek mleczności, wzrost procentu tłuszczu w mleku; coraz częściej stosuje się USG.",
+        "Ciąża trwa przeciętnie 285 dni (ok. 9 miesięcy), z wahaniami 277–290 dni (zależnie od płci płodu, rasy, kondycji, żywienia, mnogości ciąży).",
+        "Buhajki rodzą się z większą masą i zwykle kilka dni później niż cieliczki; ciąże bliźniacze i krowy w słabej kondycji – wcześniej, krowy otłuszczone – później.",
+        "Ruja właściwa u krowy – także wzmożona pobudliwość i szukanie kontaktu z innymi krowami.",
+        "Po inseminacji lub kryciu należy nadal obserwować krowy – pozwala to szybko wykryć krowy niezacielone lub te, u których zarodki zamarły przed wykształceniem łożyska lub płodu."
+      ]
+    },
+    {
+      "heading": "1. Bydło – pielęgnacja i żywienie krów cielnych, zasuszenie",
+      "points": [
+        "Stanowiska dla krów cielnych: suche, wygodne, bez dużych spadków; gwałtowne przepędzanie, bicie, kopanie może spowodować poronienie; wskazany wybieg.",
+        "W ciąży należy ograniczać pasze objętościowe – w nadmiarze wypychają żwacz, który uciska macicę i płód.",
+        "Zalecane pasze objętościowe: zielonki, siano, marchew, buraki pastewne; kiszonki tylko w pierwszym okresie ciąży, w drugiej połowie należy ich unikać.",
+        "Pasze nieświeże, zepsute, zamarznięte są niedopuszczalne; pojenie świeżą wodą co najmniej 3 razy dziennie.",
+        "Od 4. miesiąca ciąży dodatek paszy wystarczający na produkcję 2 l mleka, od 7. miesiąca – na 3 l mleka.",
+        "Częstym błędem jest zbyt skąpe żywienie krów cielnych.",
+        "Krowę zasusza się 6–8 tygodni przed wycieleniem – regeneracja tkanki gruczołowej wymienia, przygotowanie do laktacji, pełne odżywienie płodu.",
+        "W okresie zasuszenia przyrasta 40% masy ciała płodu."
+      ]
+    },
+    {
+      "heading": "1. Bydło – poród",
+      "points": [
+        "Objawy zbliżającego się porodu: nabrzmienie wymienia, wyciek siary ze strzyków, zapadnięcie okolicy krzyżowo-lędźwiowej po obu stronach nasady ogona, niepokój (przydeptywanie, częste oddawanie moczu, porykiwanie), częste kładzenie się i wstawanie, przekrwiony i nabrzmiały srom, obfity wyciek śluzu, rozluźnienie wiązadeł miednicy.",
+        "Etap 1 – rozwieranie szyjki macicy i rozluźnienie więzadeł łonowych: 6–12 godzin.",
+        "Etap 2 – wypieranie płodu: od wydalenia pęcherza płodowego, trwa 0,5–3 godzin.",
+        "Przy położeniu główkowym najpierw wysuwają się przednie nogi z głową na nich, przy pośladkowym – tylne nogi.",
+        "Można zakładać linki porodowe i pociągać cielę razem ze skurczem krowy – bez nadmiernej siły.",
+        "Etap 3 – wypieranie łożyska i błon płodowych; łożysko powinno odejść w ciągu 6 godzin, potem wzywa się lekarza weterynarii (ryzyko ostrej infekcji).",
+        "Po porodzie: pójło z ciepłej wody i spokój.",
+        "W 1. etapie porodu krowy są niespokojne, a skurcze w miarę zbliżania się porodu są coraz częstsze; w 2. etapie silne skurcze macicy i mięśni brzucha wypierają pęcherz błon płodowych.",
+        "Przy pomocy przy porodzie nie wolno używać nadmiernej siły, aby nie uszkodzić dróg rodnych krowy; zalegające łożysko może wywołać ostrą infekcję.",
+        "Przed porodem następuje rozluźnienie więzadeł miednicy, mięśni brzucha i więzadła macicy; tuż przed porodem z otwartej szpary sromowej obficie wycieka śluz."
+      ]
+    },
+    {
+      "heading": "1. Użytkowanie rozpłodowe buhaja",
+      "points": [
+        "Jądra produkują plemniki od ok. 6. miesiąca życia (dojrzałość płciowa).",
+        "Użytkowanie rozpłodowe buhaja rozpoczyna się w wieku 13–19 miesięcy, zależnie od rasy.",
+        "W wychowalniach buhajów nasienie pobiera się już od ok. 10. miesiąca – ocena przydatności rozpłodowej i szybka eliminacja.",
+        "Buhaje muszą mieć bardzo dobrą kondycję i ruch na świeżym powietrzu (zapobiega otłuszczeniu, utrzymuje racice w dobrym stanie).",
+        "W kryciu naturalnym jeden buhaj przypada na 20–100 krów.",
+        "W stacjach unasienniania nasienie pobiera się 2–3 razy w tygodniu; nasieniem jednego buhaja pokrywa się ok. 2000 krów rocznie.",
+        "W stacjach unasienniania nasienie pobrane od buhaja (2–3 razy w tygodniu) ocenia się, konserwuje i przechowuje."
+      ],
+      "images": [
+        {
+          "src": "img/pz5/uzytkowanie-buhaja.jpg",
+          "caption": "Użytkowanie buhaja: nasienie pobiera się od ok. 10. miesiąca życia; buhaj musi być w bardzo dobrej kondycji; w kryciu naturalnym 1 buhaj pokrywa 20–100 krów, a przy pobieraniu nasienia (stacje unasienniania) – ok. 2000 krów."
+        },
+        {
+          "src": "img/pz5/buhaj-dojrzalosc-plciowa-6-mies.jpg",
+          "caption": "Buhaj osiąga dojrzałość płciową w wieku ok. 6 miesięcy – jądra zaczynają wtedy produkować plemniki."
+        },
+        {
+          "src": "img/pz5/buhaj-uzytkowanie-13-19-mies.jpg",
+          "caption": "Użytkowanie rozpłodowe buhaja rozpoczyna się w wieku 13–19 miesięcy, zależnie od rasy (w wychowalniach nasienie pobiera się już od ok. 10. miesiąca)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Świnie – dojrzałość i ruja",
+      "points": [
+        "Dojrzałość płciowa: 5–7 miesięcy (zależnie od rasy).",
+        "Dojrzałość hodowlana: 8–9 miesięcy i masa ciała ok. 90–110 kg.",
+        "Wartość rozpłodową loch określa płodność i plenność.",
+        "Lochy mogą być zdolne do rozpłodu nawet 10 lat, w praktyce 3–4 lata (6–9 miotów), potem plenność spada.",
+        "Płodność – liczba żywo urodzonych prosiąt w miocie.",
+        "Plenność – liczba odchowanych prosiąt od lochy w ciągu roku.",
+        "Ruja u świń powtarza się przeciętnie co 3 tygodnie.",
+        "Faza przedrujowa: spadek apetytu, niepokój, pohukiwanie, obrzęk i zaczerwienienie sromu, wyciek śluzu, obskakiwanie innych loch bez tolerancji na obskakiwanie.",
+        "Ruja właściwa: odruch tolerancji na obskakiwanie i próbę dosiadu, ustąpienie obrzęku sromu, wyciek śluzu, przyjmowanie postawy do krycia.",
+        "Faza porujowa: brak odruchu tolerancji, wypływ gęstego śluzu, spokojniejsze zachowanie, poprawa apetytu.",
+        "Cykl płciowy – okres od pierwszego dnia rui do dnia poprzedzającego kolejne objawy rujowe.",
+        "Ruja u lochy trwa 2–3 doby; krycie lub inseminacja w połowie rui; odruch tolerancji przeciętnie po 10 godzinach od początku rui.",
+        "W praktyce lochy kryje się dwa razy: po zauważeniu rui i ponownie po ok. 12–18 godzinach; najlepiej rano lub wieczorem (szczególnie w upały).",
+        "Dojrzałość hodowlana – taki wiek i masa ciała, które umożliwiają wydanie potomstwa bez nadmiernego obciążenia organizmu.",
+        "Faza porujowa – brak reakcji na próby wyzwolenia odruchu tolerancji."
+      ]
+    },
+    {
+      "heading": "2. Świnie – ciąża, poród i żywienie loch prośnych",
+      "points": [
+        "Ciąża u świń trwa 114 dni (3 miesiące, 3 tygodnie i 3 dni).",
+        "Za prośną uznaje się lochę bez objawów rui przez 42 dni (dwa kolejne cykle płciowe).",
+        "Na 1–2 tygodnie przed porodem lochę przenosi się do kojca porodowego z wydzielonym miejscem dla prosiąt.",
+        "W 90. dniu ciąży płód ma zaledwie 50% masy urodzeniowej (ok. 700 g), a w ostatnich ok. 24 dniach podwaja masę.",
+        "Oznaki porodu: opuszczenie brzucha i nabrzmienie sutków 2–3 dni przed porodem, nabrzmienie sromu, wyciek śluzu, niepokój; siara bezbarwna, na 12 godzin przed porodem gęstnieje i staje się białokremowa.",
+        "Poród powinien być zawsze nadzorowany – ogranicza upadki prosiąt.",
+        "Poród trwa ok. 3 godzin, prosięta rodzą się co 10–30 minut; najczęściej 8–16 prosiąt.",
+        "Przy porodzie: oczyścić prosię ze śluzu, skrócić pępowinę do ok. 3 cm i zdezynfekować, umieścić pod promiennikiem, szybko dosadzić do wymienia.",
+        "Łożysko powinno zostać wydalone w ciągu 2 godzin, inaczej wzywa się lekarza weterynarii.",
+        "Do 3. miesiąca ciąży: ok. 24 MJ i ok. 350 g białka strawnego dziennie; po 3. miesiącu: ok. 36 MJ energii metabolicznej i ok. 400 g białka.",
+        "W ostatnich dniach przed porodem dawkę zmniejsza się nawet o połowę; pasze rzadsze, wycofuje się pasze mlekopędne i zatwardzające.",
+        "W dniu porodu głodówka; do wody można dodać niewielką ilość otrąb pszennych.",
+        "Pomieszczenia dla loch prośnych powinny zapewniać swobodę i spokój.",
+        "Locha potrafi oprosić się sama, ale poród nadzoruje się ze względu na możliwe komplikacje.",
+        "W pierwszych miesiącach ciąży płód przyrasta bardzo wolno – lochę żywi się umiarkowanie, pamiętając o białku, witaminach oraz wapniu i fosforze potrzebnych do budowy młodych organizmów.",
+        "Zmniejszenie dawki przed porodem ma zapobiec przeładowaniu przewodu pokarmowego i ułatwić poród."
+      ]
+    },
+    {
+      "heading": "2. Użytkowanie rozpłodowe knurów",
+      "points": [
+        "Spermatogeneza u knura zaczyna się ok. 3. miesiąca życia, dojrzałość płciowa – ok. 6 miesięcy.",
+        "Do ukończenia 8–9 miesięcy knur nie powinien być użytkowany rozpłodowo.",
+        "Młody knur do 12. miesiąca – krycie nie częściej niż 2 razy w tygodniu.",
+        "Knur dojrzały (15–16 miesięcy): 1–2 krycia dziennie, maksymalnie 12 w tygodniu; jeden dzień w tygodniu wolny od krycia.",
+        "Przy kryciu naturalnym na 1 knura przypada ok. 20 loch.",
+        "W Stacjach Unasienniania Loch (SUL) nasienie pobiera się 1–2 razy w tygodniu; knury przyucza się do skoków na fantom.",
+        "Z jednego ejakulatu przygotowuje się ok. 15 porcji; ok. 900 porcji inseminacyjnych rocznie od knura, co wystarcza na ok. 140 loch.",
+        "W SUL ejakulat pobiera się do specjalnego zbiorniczka, a porcje inseminacyjne przygotowuje się w laboratorium."
+      ]
+    },
+    {
+      "heading": "3. Użytkowanie rozpłodowe koni",
+      "points": [
+        "Dojrzałość płciowa: konie gorącokrwiste 15–18 miesięcy, zimnokrwiste 12–15 miesięcy.",
+        "Dojrzałość rozpłodowa: 30–42 miesiące.",
+        "Użytkowanie rozpłodowe klaczy – nawet do 16–20 lat, ogierów – najczęściej 10–15 lat.",
+        "Cykl płciowy klaczy – przeciętnie 21–22 dni (wahania 18–28 dni); ruja trwa 2–15 dni.",
+        "Owulacja następuje 2 dni przed końcem rui; jajo zdolne do zapłodnienia 10 godzin po owulacji.",
+        "Objawy rui: niepokój, z nabrzmiałego, przekrwionego, zaczerwienionego sromu wycieka śluz.",
+        "Największe szanse zapłodnienia – krycie co 36–48 godzin przez cały okres rui.",
+        "Ciąża u klaczy: 320–340 dni, średnio 333 dni (11 miesięcy); klacz, która po 19–21 dniach od pokrycia nie przyjmuje ogiera, jest zwykle źrebna.",
+        "Źrebna klacz: chronić przed urazami (zwłaszcza głowy i brzucha), regularny ruch i lekka praca wskazane.",
+        "Objawy porodu: niepokój, częste wstawanie i kładzenie się, nabrzmiałe wymię z siarą, nabrzmiałe wargi sromowe, oddawanie moczu ze śluzem, silne pocenie.",
+        "Pierwszy objaw porodu – pęcherz płodowy z wodami; potem nogi (zwykle przednie), główka i całe źrebię; poród trwa 0,5–1 godziny.",
+        "Nierozerwaną pępowinę przecina się odkażonymi nożyczkami i przewiązuje tasiemką 5 cm od brzucha; źrebię niewylizane osusza się słomą lub sianem.",
+        "Łożysko powinno odejść po 15–30 minutach; jeśli nie odejdzie w ciągu 3 godzin – lekarz weterynarii.",
+        "Klacze źrebne później w ciąży otrzymują dodatek na rozwój płodu – ok. 10 MJ energii metabolicznej i 200 g białka.",
+        "Ogier w pierwszym sezonie kryje nie więcej niż 40–60 klaczy, starszy (po trzecim sezonie) do 80 klaczy, ale nie więcej niż 2 dziennie.",
+        "Objawy rui u klaczy mogą być bardzo wyraźne lub niezauważalne; o ciąży świadczy brak rui.",
+        "Zaraz po porodzie klacz powinna wylizać źrebię; dopiero gdy tego nie zrobi, osusza się je słomą lub sianem.",
+        "W pierwszych miesiącach ciąży klacze źrebne żywi się jak konie użytkowe."
+      ]
+    },
+    {
+      "heading": "4. Rozród owiec",
+      "points": [
+        "Dojrzałość płciowa: 6–8 miesięcy; dojrzałość rozpłodowa: maciorki przy 45 kg, tryki przy 75 kg (najczęściej po roku życia).",
+        "Ruja powtarza się co 16–17 dni i trwa przeciętnie 24–36 godzin; owulacja zwykle pod koniec rui.",
+        "Brak zewnętrznych objawów rui – jedyny sposób wykrycia to dopuszczenie samca i przyjęcie go przez samicę.",
+        "Stanówka – okres rozrodu owiec: merynosy od czerwca do lipca, pozostałe owce od sierpnia do października.",
+        "Przygotowanie do stanówki: poprawa kondycji, usunięcie niezakwalifikowanych tryków i matek; intensywne żywienie tryków 2 miesiące, a samic 3 tygodnie przed stanówką.",
+        "Tryki strzyże się ok. miesiąc przed stanówką – lepsza jakość nasienia.",
+        "Inseminacja – rzadko stosowana w Polsce, nasieniem jednego tryka można pokryć ok. 500 maciorek.",
+        "Krycie z ręki – tryk pokrywa w stanówce ok. 35 matek; haremowe – 1 tryk na ok. 25 matek; wolne – tryki stale w stadzie.",
+        "Ciąża: 142–156 dni, średnio 150 dni (5 miesięcy); najintensywniejszy rozwój płodu w ostatnich 2 miesiącach – intensywne żywienie.",
+        "Ok. 2 miesiące przed wykotami usuwa się obornik i dezynfekuje owczarnię; miesiąc przed porodem strzyże się owce.",
+        "Ok. 3 tygodnie przed porodem stado dzieli się na trzy grupy wg terminów porodu; rodzących owiec nie izoluje się od stada.",
+        "Poród trwa ok. 30 minut, bez interwencji człowieka, w pozycji leżącej; łożysko wydalane w ciągu 1–4 godzin.",
+        "Pępowinę odcina się ok. 8 cm od brzucha jagnięcia.",
+        "Po wykocie: czysta woda i przez pierwsze dni tylko dobre siano – zbyt intensywne żywienie grozi zapaleniem wymienia.",
+        "Przed stanówką w miejsce usuniętych tryków i matek wprowadza się młode zwierzęta.",
+        "Ostrzyżone przed stanówką tryki są lżejsze i jest im chłodniej, co poprawia jakość nasienia.",
+        "Inseminacja owiec umożliwia uzyskanie szybkiego postępu genetycznego.",
+        "W końcowym okresie ciąży dobrze, jeśli owce mają możliwość ruchu na okólnikach; strzyżenie przed porodem wykonuje się spokojnie i delikatnie.",
+        "Rodzących owiec nie izoluje się od stada, bo w stadzie mniej się stresują; objawy zbliżającego się porodu są podobne jak u krowy.",
+        "Jeśli pępowina nie uległa zerwaniu, odcina się ją czystymi nożyczkami; opieka nad jagniętami po porodzie jest taka sama jak przy bydle."
+      ]
+    },
+    {
+      "heading": "5. Rozród kóz",
+      "points": [
+        "Dojrzałość płciowa: 4–7 miesięcy; dojrzałość rozpłodowa: 7–8 miesięcy i 30–35 kg masy ciała.",
+        "Ruja sezonowa, najczęściej jesienią od końca sierpnia do listopada.",
+        "Objawy rui: niepokój, obrzmienie warg sromowych, śluz, nastroszone włosy na grzbiecie, częste meczenie i oddawanie moczu, merdanie ogonem (zwłaszcza po dotknięciu lędźwi), obskakiwanie innych kóz.",
+        "Ruja trwa średnio 36 godzin, owulacja ok. 30 godziny od pojawienia się objawów.",
+        "Kozę doprowadza się do kozła między 6 a 12 godziną od pierwszych objawów; ponownie po 16–24 godzinach; przy nieskutecznym kryciu – po ok. 3 tygodniach.",
+        "Ciąża: średnio 150 dni (147–153 dni); dowody: brak rui po kryciu, spokój i ociężałość.",
+        "W drugiej połowie ciąży masa płodu wzrasta o 60–70% – trzeba to uwzględnić w dawce.",
+        "Zasuszenie ok. 2 tygodnie przed porodem – stopniowo, z ograniczeniem pasz mlekopędnych (buraki, kiszonka, pasze treściwe).",
+        "Poronienia zwłaszcza w 1–2 miesiącu ciąży: stres, pasożyty, niedobór składników mineralnych i witamin; w drugiej połowie – leki, urazy mechaniczne, poronienia zakaźne.",
+        "Objawy porodu: zwiotczenie więzadeł, powiększenie wymienia, siara, obrzęk sromu i śluz, utrata apetytu, niepokój, beczenie.",
+        "Fazy porodu: skurcze i bóle, pojawienie się błon płodowych, pęknięcie błon i wypłynięcie wód, wyparcie koźląt, wyparcie łożyska.",
+        "Poród trwa ok. 30 minut (ciąże mnogie 3–4 godziny); wyparcie łożyska nie dłużej niż 3–4 godziny.",
+        "Koza w rui sama pozwala się obskakiwać.",
+        "W pierwszych trzech miesiącach ciąży przyrost masy płodu kozy jest niewielki, choć rozwój znaczny.",
+        "Zasuszenie kozy: stopniowe zaprzestawanie dojenia; w ciąży kozy potrzebują czystych, suchych i spokojnych pomieszczeń z możliwością korzystania z wybiegu.",
+        "Poród kozy najczęściej odbywa się bez pomocy człowieka; wyparcie łożyska zaczyna się po urodzeniu koźląt."
+      ]
+    },
+    {
+      "heading": "6. Rozród drobiu",
+      "points": [
+        "Dojrzałość płciową kaczki, gęsi, kury i indyki osiągają z chwilą zniesienia pierwszego jaja.",
+        "Masa kur w tym momencie: 1,5 kg (lekkie rasy nieśne) do 2,5–3 kg (rasy ciężkie).",
+        "Koguty dojrzewają w wieku 4–5 miesięcy, indory i kaczory w 6–7 miesiącu, gęsiory w 7–8 miesiącu.",
+        "Rozmnażanie: krycie naturalne (haremowe lub wolne) – w chowie przydomowym; sztuczne unasiennianie – w chowie wielkotowarowym, zwłaszcza indyków i kur.",
+        "Zdolność wylęgowa – przydatność zapłodnionych jaj do wylęgu zdrowych piskląt.",
+        "Czynniki zdolności wylęgowej: warunki hodowlane (żywienie, utrzymanie, zdrowie, wiek, stosunek samic do samców), budowa i jakość jaj, warunki od zniesienia do aparatu wylęgowego (pakowanie, przechowywanie, transport, dezynfekcja).",
+        "Masa jaj wylęgowych: kury 53–65 g, kaczki i indyki 75–95 g, gęsi 140–190 g.",
+        "Indeks kształtu (stosunek długości podłużnej do poprzecznej) prawidłowego jaja: 1,19–1,36.",
+        "Skorupa gładka, równa, bez zgrubień i pęknięć; przechowywanie nie dłużej niż 7–10 dni.",
+        "Jakość jaja: pojedyncze, nieruchome, centralne żółtko, nienaruszone sznury białkowe, mała nieruchoma komora powietrzna w tępym końcu, brak ciał obcych i plam krwistych.",
+        "Kontrola lęgów: prześwietlanie i ważenie jaj, otwieranie jaj z zamarłymi zarodkami, obserwacja klucia i ocena piskląt.",
+        "Wyniki lęgów zależą od zdolności wylęgowej jaj oraz od czynników wpływających na rozwój zarodka w okresie inkubacji.",
+        "Budowa jaj i jakość treści jako czynnik zdolności wylęgowej: wielkość, kształt, stan skorupy, świeżość, pojedyncze centralnie położone żółtko, brak ciał obcych."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Płodność (definicja ogólna)",
+      "back": "Zdolność do wydawania potomstwa – podstawowy czynnik odnawiania gatunku."
+    },
+    {
+      "front": "Czynniki wpływające na płodność (oprócz dziedzicznych)",
+      "back": "Żywienie, warunki zoohigieny i sposób użytkowania."
+    },
+    {
+      "front": "Dojrzałość płciowa (fizjologiczna)",
+      "back": "Zdolność wytwarzania komórek jajowych w pęcherzykach jajnikowych."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa",
+      "back": "Zdolność do wydania potomstwa bez szkody dla własnego organizmu; określana na podstawie wieku i masy ciała."
+    },
+    {
+      "front": "Wiek dojrzałości rozpłodowej jałówek",
+      "back": "15–16 miesięcy (rasy szybko dojrzewające), 18 miesięcy (wolno dojrzewające)."
+    },
+    {
+      "front": "Jaką masę powinna mieć jałówka kierowana do krycia?",
+      "back": "Ok. 60–70% masy sztuki dorosłej danej rasy."
+    },
+    {
+      "front": "Jak często zdarzają się ciąże bliźniacze u krów?",
+      "back": "Statystycznie raz na 50 wycieleń."
+    },
+    {
+      "front": "Ile cieląt uzyskuje się od krowy w ciągu życia?",
+      "back": "4–6 (czasem 10 i więcej) – zależnie od stopnia brakowania."
+    },
+    {
+      "front": "Krycie haremowe bydła – ile krów na buhaja?",
+      "back": "25–30 krów."
+    },
+    {
+      "front": "Krycie wolne bydła – wada",
+      "back": "Nieznajomość ojcostwa cieląt (ok. 1 buhaj na 30 krów)."
+    },
+    {
+      "front": "Krycie z ręki",
+      "back": "Doprowadzenie buhaja do krowy w rui (lub odwrotnie); kopulacja pod nadzorem człowieka."
+    },
+    {
+      "front": "Zalety inseminacji bydła (4)",
+      "back": "Mniejsza pracochłonność, ograniczenie chorób, mniej czynnych buhajów, niższe koszty chowu."
+    },
+    {
+      "front": "Ruja",
+      "back": "Stan organizmu samicy, w którym jest ona zdolna do zapłodnienia."
+    },
+    {
+      "front": "Główny objaw rui właściwej u krowy",
+      "back": "Odruch tolerancji na obskakiwanie przez inne krowy."
+    },
+    {
+      "front": "O ile wzrasta temperatura ciała krowy w rui?",
+      "back": "O ok. 0,5°C."
+    },
+    {
+      "front": "Śluz rujowy krowy w rui właściwej",
+      "back": "Obfity, ciągliwy i przejrzysty."
+    },
+    {
+      "front": "Czas trwania rui u krów",
+      "back": "Średnio 18–20 godzin."
+    },
+    {
+      "front": "Optymalny termin krycia krowy",
+      "back": "10–18 godzina od pierwszych objawów rui; powtórka po ok. 12 godzinach, jeśli objawy nie ustępują."
+    },
+    {
+      "front": "Pierwszy objaw ciąży u krowy",
+      "back": "Brak rui w ciągu 3–4 tygodni po pokryciu."
+    },
+    {
+      "front": "Od kiedy hodowca może wykryć ciążę krowy po wyglądzie?",
+      "back": "Od 4. miesiąca – wyokrąglenie brzucha po prawej stronie."
+    },
+    {
+      "front": "Czas trwania ciąży u krów",
+      "back": "Przeciętnie 285 dni (277–290 dni), ok. 9 miesięcy."
+    },
+    {
+      "front": "Pasze objętościowe, których należy unikać w drugiej połowie ciąży krowy",
+      "back": "Kiszonki."
+    },
+    {
+      "front": "Ile razy dziennie poić krowę cielną?",
+      "back": "Co najmniej 3 razy dziennie świeżą wodą."
+    },
+    {
+      "front": "Dodatek paszy dla krowy cielnej od 4. i od 7. miesiąca",
+      "back": "Od 4. miesiąca – na 2 l mleka, od 7. miesiąca – na 3 l mleka."
+    },
+    {
+      "front": "Kiedy zasusza się krowę?",
+      "back": "6–8 tygodni przed wycieleniem."
+    },
+    {
+      "front": "Jaka część masy płodu cielęcia przyrasta w okresie zasuszenia?",
+      "back": "40%."
+    },
+    {
+      "front": "Etapy porodu krowy i czas trwania",
+      "back": "1) rozwieranie szyjki: 6–12 h; 2) wypieranie płodu: 0,5–3 h; 3) wypieranie łożyska."
+    },
+    {
+      "front": "W jakim czasie powinno odejść łożysko u krowy?",
+      "back": "W ciągu 6 godzin – potem lekarz weterynarii."
+    },
+    {
+      "front": "Co podać krowie po porodzie?",
+      "back": "Pójło z ciepłej wody, zapewnić spokój."
+    },
+    {
+      "front": "Od kiedy jądra buhaja produkują plemniki?",
+      "back": "Od ok. 6. miesiąca życia."
+    },
+    {
+      "front": "Wiek rozpoczęcia użytkowania rozpłodowego buhaja",
+      "back": "13–19 miesięcy (zależnie od rasy)."
+    },
+    {
+      "front": "Ile krów pokrywa się rocznie nasieniem jednego buhaja w stacji unasienniania?",
+      "back": "Ok. 2000."
+    },
+    {
+      "front": "Jak często pobiera się nasienie od buhaja w stacji unasienniania?",
+      "back": "2–3 razy w tygodniu."
+    },
+    {
+      "front": "Dojrzałość płciowa i hodowlana świń",
+      "back": "Płciowa 5–7 miesięcy; hodowlana 8–9 miesięcy i 90–110 kg."
+    },
+    {
+      "front": "Płodność lochy",
+      "back": "Liczba żywo urodzonych prosiąt w miocie."
+    },
+    {
+      "front": "Plenność lochy",
+      "back": "Liczba odchowanych prosiąt od lochy w ciągu roku."
+    },
+    {
+      "front": "Praktyczny okres użytkowania rozpłodowego lochy",
+      "back": "3–4 lata (6–9 miotów)."
+    },
+    {
+      "front": "Co ile powtarza się ruja u świń?",
+      "back": "Przeciętnie co 3 tygodnie."
+    },
+    {
+      "front": "Cykl płciowy",
+      "back": "Okres od pierwszego dnia rui do dnia poprzedzającego kolejne objawy rujowe."
+    },
+    {
+      "front": "Czas trwania rui u lochy",
+      "back": "2–3 doby."
+    },
+    {
+      "front": "Kiedy pojawia się odruch tolerancji u lochy?",
+      "back": "Przeciętnie po 10 godzinach od początku rui."
+    },
+    {
+      "front": "Drugie krycie lochy – po jakim czasie?",
+      "back": "Po ok. 12–18 godzinach od pierwszego."
+    },
+    {
+      "front": "Czas trwania ciąży u świń",
+      "back": "114 dni (3 miesiące, 3 tygodnie i 3 dni)."
+    },
+    {
+      "front": "Kiedy uznaje się lochę za prośną?",
+      "back": "Gdy przez 42 dni (dwa cykle) nie miała objawów rui."
+    },
+    {
+      "front": "Kiedy przenieść lochę do kojca porodowego?",
+      "back": "1–2 tygodnie przed porodem."
+    },
+    {
+      "front": "Masa płodu prosięcia w 90. dniu ciąży",
+      "back": "Ok. 50% masy urodzeniowej, ok. 700 g."
+    },
+    {
+      "front": "Siara lochy na 12 h przed porodem",
+      "back": "Gęstnieje i nabiera barwy białokremowej."
+    },
+    {
+      "front": "Czas porodu lochy i odstępy między prosiętami",
+      "back": "Ok. 3 godziny; co 10–30 minut."
+    },
+    {
+      "front": "Do ilu cm skraca się pępowinę prosięcia?",
+      "back": "Do ok. 3 cm (i dezynfekuje)."
+    },
+    {
+      "front": "Łożysko u lochy – w jakim czasie?",
+      "back": "W ciągu 2 godzin od zakończenia porodu."
+    },
+    {
+      "front": "Żywienie lochy prośnej do 3. miesiąca",
+      "back": "Ok. 24 MJ i ok. 350 g białka strawnego dziennie."
+    },
+    {
+      "front": "Żywienie lochy prośnej po 3. miesiącu",
+      "back": "Ok. 36 MJ energii metabolicznej i ok. 400 g białka dziennie."
+    },
+    {
+      "front": "Żywienie lochy w dniu porodu",
+      "back": "Głodówka; do wody niewielka ilość otrąb pszennych."
+    },
+    {
+      "front": "Od kiedy można użytkować knura rozpłodowo?",
+      "back": "Po ukończeniu 8–9 miesięcy."
+    },
+    {
+      "front": "Częstotliwość krycia młodego knura (do 12 m-cy)",
+      "back": "Nie częściej niż 2 razy w tygodniu."
+    },
+    {
+      "front": "Częstotliwość krycia dojrzałego knura",
+      "back": "1–2 razy dziennie, maksymalnie 12 razy w tygodniu; 1 dzień wolny."
+    },
+    {
+      "front": "Ile loch na knura przy kryciu naturalnym?",
+      "back": "Ok. 20 loch."
+    },
+    {
+      "front": "SUL – porcje nasienia z knura",
+      "back": "Ok. 15 porcji z ejakulatu, ok. 900 rocznie – ok. 140 loch."
+    },
+    {
+      "front": "Dojrzałość płciowa koni",
+      "back": "Gorącokrwiste 15–18 miesięcy, zimnokrwiste 12–15 miesięcy."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa koni",
+      "back": "30–42 miesiące."
+    },
+    {
+      "front": "Cykl płciowy klaczy",
+      "back": "Przeciętnie 21–22 dni (18–28 dni); ruja 2–15 dni."
+    },
+    {
+      "front": "Owulacja u klaczy",
+      "back": "2 dni przed końcem rui; jajo zdolne do zapłodnienia 10 godzin po owulacji."
+    },
+    {
+      "front": "Odstępy krycia klaczy dające największą szansę zapłodnienia",
+      "back": "Co 36–48 godzin przez cały okres rui."
+    },
+    {
+      "front": "Czas trwania ciąży u klaczy",
+      "back": "320–340 dni, średnio 333 dni (11 miesięcy)."
+    },
+    {
+      "front": "Pępowina źrebięcia – w jakiej odległości przewiązać?",
+      "back": "5 cm od brzucha."
+    },
+    {
+      "front": "Czas porodu klaczy i odejście łożyska",
+      "back": "Poród 0,5–1 h; łożysko po 15–30 min (lekarz, jeśli nie odejdzie w ciągu 3 h)."
+    },
+    {
+      "front": "Ile klaczy może pokryć ogier w pierwszym sezonie?",
+      "back": "Nie więcej niż 40–60 (starszy do 80, max 2 dziennie)."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa owiec (masa)",
+      "back": "Maciorki 45 kg, tryki 75 kg."
+    },
+    {
+      "front": "Ruja u owiec – częstotliwość i długość",
+      "back": "Co 16–17 dni, trwa 24–36 godzin."
+    },
+    {
+      "front": "Stanówka",
+      "back": "Okres rozrodu owiec: merynosy czerwiec–lipiec, pozostałe sierpień–październik."
+    },
+    {
+      "front": "Kiedy strzyże się tryki przed stanówką?",
+      "back": "Ok. miesiąc przed stanówką."
+    },
+    {
+      "front": "Ile maciorek można pokryć nasieniem jednego tryka (inseminacja)?",
+      "back": "Ok. 500."
+    },
+    {
+      "front": "Ciąża u owiec",
+      "back": "142–156 dni, średnio 150 dni (5 miesięcy)."
+    },
+    {
+      "front": "Pępowina jagnięcia – odległość cięcia",
+      "back": "Ok. 8 cm od brzucha."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa kóz",
+      "back": "7–8 miesięcy i 30–35 kg masy ciała."
+    },
+    {
+      "front": "Ruja u kóz – sezon i długość",
+      "back": "Jesień (koniec sierpnia–listopad); trwa średnio 36 godzin."
+    },
+    {
+      "front": "Kiedy doprowadzić kozę do kozła?",
+      "back": "Między 6 a 12 godziną od pierwszych objawów rui."
+    },
+    {
+      "front": "Ciąża u kóz",
+      "back": "Średnio 150 dni (147–153 dni)."
+    },
+    {
+      "front": "Kiedy zasusza się kozę?",
+      "back": "Ok. 2 tygodnie przed porodem."
+    },
+    {
+      "front": "Kiedy drób osiąga dojrzałość płciową?",
+      "back": "Z chwilą zniesienia pierwszego jaja."
+    },
+    {
+      "front": "Dojrzałość płciowa kogutów, indorów, kaczorów, gęsiorów",
+      "back": "Koguty 4–5 m-cy, indory i kaczory 6–7 m-c, gęsiory 7–8 m-c."
+    },
+    {
+      "front": "Zdolność wylęgowa",
+      "back": "Przydatność zapłodnionych jaj do wylęgu zdrowych piskląt."
+    },
+    {
+      "front": "Masa jaj wylęgowych kur, kaczek/indyków, gęsi",
+      "back": "Kury 53–65 g, kaczki i indyki 75–95 g, gęsi 140–190 g."
+    },
+    {
+      "front": "Indeks kształtu prawidłowego jaja wylęgowego",
+      "back": "1,19–1,36."
+    },
+    {
+      "front": "Maksymalny czas przechowywania jaj wylęgowych",
+      "back": "7–10 dni."
+    },
+    {
+      "front": "Dlaczego przy kryciu haremowym buhaj jest bardziej eksploatowany?",
+      "back": "Bo może obskakiwać kilkakrotnie jedną krowę (w stadzie 25–30 krów)."
+    },
+    {
+      "front": "Po co obserwować krowy po inseminacji/kryciu?",
+      "back": "By szybko wykryć krowy niezacielone lub te, u których zarodki zamarły przed wykształceniem łożyska lub płodu."
+    },
+    {
+      "front": "Objawy okresu przedrujowego u krowy",
+      "back": "Wzmożona pobudliwość i niepokój, próby wspinania się na inne krowy, lekkie obrzmienie i zaczerwienienie warg sromowych, skąpy śluz, częstsze ryczenie (trwa od kilku do kilkunastu godzin)."
+    },
+    {
+      "front": "Dojrzałość hodowlana świń – definicja",
+      "back": "Wiek i masa ciała umożliwiające wydanie potomstwa bez nadmiernego obciążenia organizmu (8–9 miesięcy, 90–110 kg)."
+    },
+    {
+      "front": "Fazy rui u świń",
+      "back": "Faza przedrujowa, ruja właściwa, faza porujowa."
+    },
+    {
+      "front": "Objawy fazy porujowej u lochy",
+      "back": "Brak reakcji na próby wyzwolenia odruchu tolerancji, brak tolerancji na obskakiwanie, wypływ gęstego śluzu, spokojniejsze zachowanie, poprawa apetytu."
+    },
+    {
+      "front": "Po co zmniejsza się dawkę paszy lochy w ostatnich dniach przed porodem?",
+      "back": "By uniknąć przeładowania przewodu pokarmowego i ułatwić poród (dawka nawet o połowę mniejsza, pasze rzadsze, bez mlekopędnych i zatwardzających)."
+    },
+    {
+      "front": "Jak żywi się klacze źrebne w pierwszych miesiącach ciąży?",
+      "back": "Jak konie użytkowe; później dodatek na rozwój płodu – ok. 10 MJ energii metabolicznej i 200 g białka."
+    },
+    {
+      "front": "Po czym poznać, że klacz jest źrebna?",
+      "back": "Brak rui; klacz doprowadzona do ogiera po 19–21 dniach od pokrycia nie chce go przyjąć."
+    },
+    {
+      "front": "Jak wykrywa się ruję u owiec?",
+      "back": "Nie ma objawów zewnętrznych – jedynie przez dopuszczenie samca i przyjęcie go przez samicę."
+    },
+    {
+      "front": "Sposoby krycia owiec i liczba matek na tryka",
+      "back": "Inseminacja (ok. 500 maciorek z nasienia jednego tryka), krycie z ręki (ok. 35 matek w stanówce), haremowe (ok. 25 matek na tryka), wolne (tryki stale w stadzie)."
+    },
+    {
+      "front": "Dlaczego rodzących owiec nie izoluje się od stada?",
+      "back": "Bo w stadzie mniej się stresują."
+    },
+    {
+      "front": "Czas porodu owcy i wydalenia łożyska",
+      "back": "Poród ok. 30 minut (bez interwencji, w pozycji leżącej); łożysko 1–4 godziny."
+    },
+    {
+      "front": "Objawy rui u kóz",
+      "back": "Niepokój, obrzmienie warg sromowych, wypływ śluzu, nastroszone włosy na grzbiecie, częste meczenie i oddawanie moczu, merdanie ogonem (zwłaszcza po dotknięciu lędźwi), obskakiwanie innych kóz i pozwalanie się obskakiwać."
+    },
+    {
+      "front": "Przyczyny poronień u kóz w 1–2 miesiącu i w drugiej połowie ciąży",
+      "back": "1–2 miesiąc: nadmierny stres, pasożyty, niedobór składników mineralnych i witamin; druga połowa: środki farmakologiczne, urazy mechaniczne (uderzenia), poronienia zakaźne."
+    },
+    {
+      "front": "Fazy porodu kozy",
+      "back": "Skurcze macicy z bólami porodowymi, pojawienie się błon płodowych, pęknięcie błon i wypłynięcie wód, wyparcie koźląt, wyparcie łożyska."
+    },
+    {
+      "front": "Czynniki wpływające na zdolność wylęgową jaj (3 grupy)",
+      "back": "Warunki hodowlane (żywienie, utrzymanie, zdrowie, wiek, stosunek samic do samców); budowa jaj i jakość treści; warunki od zniesienia do aparatu wylęgowego (pakowanie, przechowywanie, transport, dezynfekcja)."
+    },
+    {
+      "front": "Jak kontroluje się przebieg lęgów?",
+      "back": "Prześwietlanie i ważenie części jaj, otwieranie jaj z zamarłymi zarodkami, obserwacja klucia i ocena jakości piskląt."
+    },
+    {
+      "front": "Co dzieje się z nasieniem buhaja w stacji unasienniania?",
+      "back": "Pobiera się je 2–3 razy w tygodniu, ocenia, konserwuje i przechowuje – nasieniem jednego buhaja pokrywa się ok. 2000 krów rocznie."
+    },
+    {
+      "front": "Po co w wychowalniach pobiera się nasienie od buhajków już w wieku ok. 10 miesięcy?",
+      "back": "By określić przydatność rozpłodową i szybko wyeliminować z hodowli sztuki o wątpliwej przydatności."
+    },
+    {
+      "front": "Dlaczego buhaje rozpłodowe muszą mieć ruch na świeżym powietrzu?",
+      "back": "Zapobiega to otłuszczeniu i pozwala utrzymać racice w dobrym stanie (buhaj musi być w bardzo dobrej kondycji)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "W jakim wieku jałówki ras szybko dojrzewających osiągają dojrzałość rozpłodową?",
+      "options": [
+        "15–16 miesięcy",
+        "10–12 miesięcy",
+        "20–22 miesięcy",
+        "24 miesięcy"
+      ],
+      "answer": 0,
+      "explain": "Jałówki ras szybko dojrzewających osiągają dojrzałość rozpłodową w wieku 15–16 miesięcy."
+    },
+    {
+      "q": "Jałówka kierowana do krycia powinna osiągnąć masę ciała równą:",
+      "options": [
+        "30–40% masy sztuki dorosłej",
+        "45–50% masy sztuki dorosłej",
+        "60–70% masy sztuki dorosłej",
+        "90–100% masy sztuki dorosłej"
+      ],
+      "answer": 2,
+      "explain": "Jałówki do krycia powinny osiągnąć ok. 60–70% masy sztuki dorosłej danej rasy."
+    },
+    {
+      "q": "Przy kryciu haremowym bydła jeden buhaj przebywa w stadzie liczącym:",
+      "options": [
+        "25–30 krów",
+        "5–10 krów",
+        "50–60 krów",
+        "100–120 krów"
+      ],
+      "answer": 0,
+      "explain": "Przy kryciu haremowym buhaj przebywa w stadzie 25–30 krów."
+    },
+    {
+      "q": "Wadą krycia wolnego bydła jest:",
+      "options": [
+        "konieczność stałego nadzoru człowieka",
+        "wysoki koszt nasienia",
+        "nieznajomość ojcostwa cieląt",
+        "brak możliwości krycia na pastwisku"
+      ],
+      "answer": 2,
+      "explain": "Wadą krycia wolnego jest nieznajomość ojcostwa rodzonych cieląt."
+    },
+    {
+      "q": "Ruja u krów trwa średnio:",
+      "options": [
+        "18–20 godzin",
+        "2–3 doby",
+        "36 godzin",
+        "5–7 dni"
+      ],
+      "answer": 0,
+      "explain": "Okres rui u krów wynosi średnio 18–20 godzin."
+    },
+    {
+      "q": "Najodpowiedniejszy termin krycia krowy to:",
+      "options": [
+        "1–2 godzina od pierwszych objawów rui",
+        "30–36 godzina od pierwszych objawów rui",
+        "3. doba rui",
+        "10–18 godzina od pierwszych objawów rui"
+      ],
+      "answer": 3,
+      "explain": "Najodpowiedniejszy termin krycia to 10–18 godzina od zaobserwowania pierwszych objawów rui."
+    },
+    {
+      "q": "O ile podwyższa się temperatura ciała krowy w czasie rui właściwej?",
+      "options": [
+        "o ok. 2°C",
+        "o ok. 0,5°C",
+        "o ok. 3°C",
+        "nie zmienia się"
+      ],
+      "answer": 1,
+      "explain": "Ruja właściwa charakteryzuje się podwyższeniem temperatury ciała o ok. 0,5°C."
+    },
+    {
+      "q": "Pierwszym objawem ciąży u krowy jest:",
+      "options": [
+        "wzrost mleczności",
+        "brak rui w ciągu 3–4 tygodni po pokryciu",
+        "wyciek siary",
+        "zapadnięcie okolicy nasady ogona"
+      ],
+      "answer": 1,
+      "explain": "Pierwszym objawem ciąży jest brak rui w ciągu 3–4 tygodni po pokryciu."
+    },
+    {
+      "q": "Ciąża u krów trwa przeciętnie:",
+      "options": [
+        "114 dni",
+        "150 dni",
+        "285 dni",
+        "333 dni"
+      ],
+      "answer": 2,
+      "explain": "Ciąża u krów trwa przeciętnie 285 dni (277–290 dni)."
+    },
+    {
+      "q": "Krowę zasusza się:",
+      "options": [
+        "1–2 tygodnie przed wycieleniem",
+        "6–8 tygodni przed wycieleniem",
+        "3–4 miesiące przed wycieleniem",
+        "bezpośrednio po wycieleniu"
+      ],
+      "answer": 1,
+      "explain": "W 6–8 tygodniu przed wycieleniem należy zasuszyć krowę."
+    },
+    {
+      "q": "W drugiej połowie ciąży krowy należy unikać skarmiania:",
+      "options": [
+        "siana",
+        "kiszonek",
+        "marchwi",
+        "zielonek"
+      ],
+      "answer": 1,
+      "explain": "Kiszonki zaleca się tylko w pierwszym okresie ciąży, w drugiej połowie należy ich unikać."
+    },
+    {
+      "q": "Łożysko u krowy powinno odejść w ciągu:",
+      "options": [
+        "30 minut",
+        "2 dni",
+        "6 godzin",
+        "24 godzin"
+      ],
+      "answer": 2,
+      "explain": "Łożysko powinno odejść w ciągu 6 godzin, potem należy wezwać lekarza weterynarii."
+    },
+    {
+      "q": "Faza rozwierania szyjki macicy u krowy trwa:",
+      "options": [
+        "15–30 minut",
+        "1–2 doby",
+        "0,5–1 godziny",
+        "6–12 godzin"
+      ],
+      "answer": 3,
+      "explain": "Rozwieranie szyjki macicy i rozluźnienie więzadeł łonowych trwa 6–12 godzin."
+    },
+    {
+      "q": "Użytkowanie rozpłodowe buhaja powinno się rozpocząć w wieku:",
+      "options": [
+        "6–8 miesięcy",
+        "13–19 miesięcy",
+        "24–30 miesięcy",
+        "3–4 lat"
+      ],
+      "answer": 1,
+      "explain": "Użytkowanie rozpłodowe buhaja powinno się rozpocząć w wieku 13–19 miesięcy."
+    },
+    {
+      "q": "Nasieniem jednego buhaja w stacji unasienniania pokrywa się rocznie ok.:",
+      "options": [
+        "2000 krów",
+        "100 krów",
+        "500 krów",
+        "20 000 krów"
+      ],
+      "answer": 0,
+      "explain": "Dzięki eksploatacji w stacjach nasieniem jednego buhaja pokrywa się ok. 2000 krów rocznie."
+    },
+    {
+      "q": "Plenność lochy to:",
+      "options": [
+        "liczba żywo urodzonych prosiąt w miocie",
+        "liczba miotów w ciągu życia",
+        "liczba prosiąt martwo urodzonych",
+        "liczba odchowanych prosiąt od lochy w ciągu roku"
+      ],
+      "answer": 3,
+      "explain": "Plenność to liczba odchowanych prosiąt od lochy w ciągu roku."
+    },
+    {
+      "q": "Płodność lochy to:",
+      "options": [
+        "liczba odchowanych prosiąt w roku",
+        "liczba żywo urodzonych prosiąt w miocie",
+        "masa miotu w 21. dniu",
+        "liczba krycia do zaprośnienia"
+      ],
+      "answer": 1,
+      "explain": "Płodność to liczba żywo urodzonych prosiąt w miocie."
+    },
+    {
+      "q": "Dojrzałość hodowlaną świnie osiągają w wieku:",
+      "options": [
+        "5–7 miesięcy przy masie 60 kg",
+        "12 miesięcy przy masie 150 kg",
+        "8–9 miesięcy przy masie 90–110 kg",
+        "3–4 miesięcy przy masie 40 kg"
+      ],
+      "answer": 2,
+      "explain": "Dojrzałość hodowlaną świnie uzyskują w wieku 8–9 miesięcy i przy masie ok. 90–110 kg."
+    },
+    {
+      "q": "Ruja u lochy trwa zwykle:",
+      "options": [
+        "2–3 doby",
+        "18–20 godzin",
+        "5–7 dni",
+        "6–8 godzin"
+      ],
+      "answer": 0,
+      "explain": "Ruja u lochy trwa zwykle 2–3 doby."
+    },
+    {
+      "q": "Ciąża u świń trwa:",
+      "options": [
+        "150 dni",
+        "285 dni",
+        "114 dni",
+        "90 dni"
+      ],
+      "answer": 2,
+      "explain": "Ciąża u świń trwa 114 dni (3 miesiące, 3 tygodnie i 3 dni)."
+    },
+    {
+      "q": "Lochę uznaje się za prośną, jeśli nie wykazywała objawów rui przez:",
+      "options": [
+        "7 dni",
+        "14 dni",
+        "90 dni",
+        "42 dni"
+      ],
+      "answer": 3,
+      "explain": "Za prośną uznaje się lochę, która przez 42 dni (dwa cykle) nie miała objawów rui."
+    },
+    {
+      "q": "Pępowinę u nowo narodzonego prosięcia skraca się do ok.:",
+      "options": [
+        "8 cm",
+        "3 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "answer": 1,
+      "explain": "Oderwaną pępowinę skraca się do ok. 3 cm, jednocześnie ją dezynfekując."
+    },
+    {
+      "q": "Locha prośna po trzecim miesiącu ciąży powinna otrzymywać dziennie ok.:",
+      "options": [
+        "24 MJ i 350 g białka",
+        "10 MJ i 200 g białka",
+        "36 MJ EM i 400 g białka",
+        "50 MJ i 600 g białka"
+      ],
+      "answer": 2,
+      "explain": "Po trzecim miesiącu ciąży podaje się ok. 36 MJ energii metabolicznej i ok. 400 g białka."
+    },
+    {
+      "q": "Dojrzały knur może kryć maksymalnie:",
+      "options": [
+        "2 razy w tygodniu",
+        "5 razy dziennie",
+        "12 razy w tygodniu",
+        "20 razy w tygodniu"
+      ],
+      "answer": 2,
+      "explain": "Dojrzały knur może kryć 1–2 razy dziennie, a w tygodniu maksymalnie 12 razy."
+    },
+    {
+      "q": "Przy kryciu naturalnym na jednego knura powinno przypadać ok.:",
+      "options": [
+        "5 loch",
+        "20 loch",
+        "140 loch",
+        "60 loch"
+      ],
+      "answer": 1,
+      "explain": "Przy naturalnym kryciu w gospodarstwach na 1 knura przypada ok. 20 loch."
+    },
+    {
+      "q": "Ciąża u klaczy trwa średnio:",
+      "options": [
+        "333 dni",
+        "285 dni",
+        "150 dni",
+        "380 dni"
+      ],
+      "answer": 0,
+      "explain": "Ciąża u klaczy trwa 320–340 dni, średnio 333 dni."
+    },
+    {
+      "q": "Największe szanse na zapłodnienie klaczy daje krycie w odstępach:",
+      "options": [
+        "36–48-godzinnych przez cały okres rui",
+        "co 6 godzin przez 1 dobę",
+        "jednorazowo w 1. dniu rui",
+        "co 5 dni"
+      ],
+      "answer": 0,
+      "explain": "Największe szanse zapłodnienia klaczy są przy kryciu co 36–48 godzin przez cały okres rui."
+    },
+    {
+      "q": "Pępowinę źrebięcia przewiązuje się tasiemką w odległości:",
+      "options": [
+        "1 cm od brzucha",
+        "15 cm od brzucha",
+        "30 cm od brzucha",
+        "5 cm od brzucha"
+      ],
+      "answer": 3,
+      "explain": "Pępowinę przewiązuje się tasiemką w odległości 5 cm od brzucha."
+    },
+    {
+      "q": "Ogier w pierwszym sezonie krycia nie powinien pokryć więcej niż:",
+      "options": [
+        "10 klaczy",
+        "40–60 klaczy",
+        "100 klaczy",
+        "150 klaczy"
+      ],
+      "answer": 1,
+      "explain": "Ogier w pierwszym sezonie krycia nie powinien kryć więcej niż 40–60 klaczy."
+    },
+    {
+      "q": "Ruja u maciorek owczych powtarza się co:",
+      "options": [
+        "21–22 dni",
+        "28 dni",
+        "7–8 dni",
+        "16–17 dni"
+      ],
+      "answer": 3,
+      "explain": "Ruja u maciorek powtarza się zwykle co 16–17 dni."
+    },
+    {
+      "q": "Stanówka u merynosów przypada na:",
+      "options": [
+        "sierpień–październik",
+        "czerwiec–lipiec",
+        "grudzień–styczeń",
+        "marzec–kwiecień"
+      ],
+      "answer": 1,
+      "explain": "Stanówka u merynosów występuje sezonowo od czerwca do lipca."
+    },
+    {
+      "q": "Ciąża u owiec trwa średnio:",
+      "options": [
+        "150 dni",
+        "114 dni",
+        "285 dni",
+        "333 dni"
+      ],
+      "answer": 0,
+      "explain": "Ciąża u owiec trwa 142–156 dni, średnio 150 dni."
+    },
+    {
+      "q": "Po wykocie przez pierwsze dni owca powinna otrzymywać tylko dobre siano, ponieważ zbyt intensywne żywienie może spowodować:",
+      "options": [
+        "kwasicę żwacza",
+        "tężyczkę pastwiskową",
+        "kamicę moczową",
+        "zapalenie wymienia"
+      ],
+      "answer": 3,
+      "explain": "Zbyt intensywne żywienie po wykocie może spowodować zapalenie wymienia."
+    },
+    {
+      "q": "Kozę należy doprowadzić do kozła:",
+      "options": [
+        "w 30. godzinie rui",
+        "po 3 dobach rui",
+        "przed wystąpieniem objawów rui",
+        "między 6 a 12 godziną od pierwszych objawów rui"
+      ],
+      "answer": 3,
+      "explain": "Samicę należy doprowadzić do kozła między 6 a 12 godziną od pierwszych objawów rui."
+    },
+    {
+      "q": "Kozę zasusza się:",
+      "options": [
+        "ok. 2 tygodnie przed porodem",
+        "6–8 tygodni przed porodem",
+        "4 miesiące przed porodem",
+        "nie zasusza się kóz"
+      ],
+      "answer": 0,
+      "explain": "Kozę trzeba zasuszyć na ok. 2 tygodnie przed planowanym porodem."
+    },
+    {
+      "q": "Drób osiąga dojrzałość płciową:",
+      "options": [
+        "w 10. tygodniu życia",
+        "po osiągnięciu 1 kg masy ciała",
+        "po pierwszym pierzeniu",
+        "z chwilą zniesienia pierwszego jaja"
+      ],
+      "answer": 3,
+      "explain": "Kaczki, gęsi, kury i indyki uzyskują dojrzałość płciową z chwilą zniesienia pierwszego jaja."
+    },
+    {
+      "q": "Prawidłowa masa jaj wylęgowych kur wynosi:",
+      "options": [
+        "40–45 g",
+        "75–95 g",
+        "53–65 g",
+        "140–190 g"
+      ],
+      "answer": 2,
+      "explain": "Odpowiednia wielkość jaj wylęgowych dla kur to 53–65 g."
+    },
+    {
+      "q": "Indeks kształtu prawidłowego jaja wylęgowego wynosi:",
+      "options": [
+        "1,19–1,36",
+        "0,80–0,95",
+        "1,50–1,70",
+        "2,00–2,20"
+      ],
+      "answer": 0,
+      "explain": "Przy prawidłowym jaju indeks kształtu wynosi 1,19–1,36."
+    },
+    {
+      "q": "Jaja wylęgowe nie powinny być przechowywane dłużej niż:",
+      "options": [
+        "1–2 dni",
+        "21 dni",
+        "7–10 dni",
+        "30 dni"
+      ],
+      "answer": 2,
+      "explain": "Jaja wylęgowe nie powinny być przechowywane dłużej niż 7–10 dni."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Ile średnio trwa okres rui u krów?",
+      "options": [
+        "18–20 godzin.",
+        "36–48 godzin.",
+        "24–36 godzin.",
+        "8–12 godzin."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJałówki kierowane do krycia powinny osiągnąć masę ok. … sztuki dorosłej, charakterystycznej dla danej rasy.",
+      "options": [
+        "90–100%",
+        "60–70%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapłodnienie powoduje zahamowanie wzrostu u bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim wieku jałówki osiągają dojrzałość płciową?",
+      "options": [
+        "15–16 miesięcy u ras szybko dojrzewających.",
+        "10–12 miesięcy u ras szybko dojrzewających.",
+        "18 miesięcy u ras wolno dojrzewających.",
+        "22–24 miesięcy u ras wolno dojrzewających."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiąże bliźniacze u bydła zdarzają się bardzo ….",
+      "options": [
+        "rzadko",
+        "często"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW okresie ciąży powinno się zwiększać porcje paszy objętościowej krowom cielnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile potomstwa przeciętnie w ciągu życia może wydać krowa?",
+      "options": [
+        "2–3 cieląt.",
+        "1–2 cieląt.",
+        "4–6 cieląt."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRuja u świń zgodnie z cyklem płciowym powtarza się przeciętnie co ….",
+      "options": [
+        "2 miesiące",
+        "3 tygodnie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZarówno przy sztucznym unasiennianiu, jak i przy kryciu naturalnym o wyborze właściwego momentu zapłodnienia decyduje hodowca, który musi rozpoznać zwierzęta w rui.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie cechy charakteryzują metodę inseminacji stosowaną u bydła?",
+      "options": [
+        "Ograniczenie liczby czynnych buhajów.",
+        "Ograniczenie kosztów chowu bydła.",
+        "Ograniczenie chorób.",
+        "Większe ryzyko chorób.",
+        "Zwiększenie pracochłonności.",
+        "Zmniejszenie pracochłonności."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRują nazywamy taki stan organizmu samicy, w którym ….",
+      "options": [
+        "jest ona zdolna do zapłodnienia",
+        "osiąga ona dojrzałość płciową"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHodowca bydła może po pewnych oznakach (wyokrąglenie się brzucha po prawej stronie) wykryć ciążę w 2 miesiącu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile trwa ciąża u bydła?",
+      "options": [
+        "360 dni.",
+        "320 dni.",
+        "285 dni.",
+        "180 dni."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiąża u świń trwa … dni.",
+      "options": [
+        "285",
+        "114"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku bydła po ok. 12 godzinach, gdy objawy rui po pierwszym kryciu nie ustępują, należy powtórzyć krycie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie można wyróżnić metody krycia naturalnego?",
+      "options": [
+        "Krycie wolne.",
+        "Krycie z ręki.",
+        "Krycie haremowe.",
+        "Inseminacja."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrawidłowo przebiegający poród lochy trwa zwykle ok. ….",
+      "options": [
+        "3 godzin.",
+        "godziny."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu prawidłowego rozwoju płodu krowie dodatkowo powinno się podawać od czwartego miesiąca ciąży taką ilość paszy, która wystarcza na produkcje 2 l mleka, a od 7 miesiąca – na 3 l mleka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim wieku świnie osiągają dojrzałość płciową?",
+      "options": [
+        "W wieku 18 miesięcy.",
+        "W wieku 15–16 miesięcy.",
+        "W wieku 8–9 miesięcy.",
+        "W wieku 5–7 miesięcy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLochy rodzą przeciętnie … prosiąt.",
+      "options": [
+        "2–4",
+        "8–16"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlenność to liczba żywo urodzonych prosiąt w miocie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych objawów pomagają wykryć ciążę u krów?",
+      "options": [
+        "Spadek procentu tłuszczu w mleku.",
+        "Wzrost procentu tłuszczu w mleku.",
+        "Stopniowy spadek mleczności.",
+        "Widoczne powiększenie powłok brzusznych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Knury osiągają dojrzałość płciową w wieku ... miesięcy",
+      "options": [
+        "6",
+        "3"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCykl płciowy to okres od pierwszego dnia rui do dnia poprzedzającego wystąpienie kolejnych objawów rujowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo może trwać użytkowanie rozpłodowe klaczy?",
+      "options": [
+        "10–15 lat.",
+        "12–15 lat.",
+        "16–20 lat.",
+        "20–26 lat."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonie ras szlachetnych, gorącokrwiste osiągają dojrzałość płciową wieku 15–18 miesięcy, a zimnokrwiste w wieku … miesięcy.",
+      "options": [
+        "18–20",
+        "12–15"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozpoznanie rui u owiec jest niezwykle trudne, ponieważ w przeciwieństwie do bydła czy świń nie występują objawy zewnętrzne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Od czego zależna jest długość trwania ciąży u bydła?",
+      "options": [
+        "Od mnogości ciąży.",
+        "Od rasy.",
+        "Od pory roku.",
+        "Od kondycji krowy.",
+        "Od płci płodu.",
+        "Od żywienia."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPoród klaczy trwa zwykle od ….",
+      "options": [
+        "0,5 do 1 godziny",
+        "2 do 3 godzin"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Stanowiska dla krów cielnych powinny być suche, wygodne, bez dużych spadków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo średnio trwa ciąża u klaczy?",
+      "options": [
+        "114 dni.",
+        "333 dni.",
+        "365 dni.",
+        "285 dni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCykl płciowy u klaczy trwa przeciętnie … dni.",
+      "options": [
+        "17-32",
+        "21-22"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZa prośną uznaje się lochę, która przez 42 dni, czyli przez dwa kolejne cykle płciowe, nie miała objawów rui.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką metodą może odbywać się rozmnażanie ptaków?",
+      "options": [
+        "Krycie wolne.",
+        "Krycie z ręki.",
+        "Sztuczne unasiennienie.",
+        "Krycie haremowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOwulacja u klaczy ma miejsce … dni przed zakończeniem rui.",
+      "options": [
+        "dwa",
+        "osiem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNależy izolować rodzące owce od stada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim wieku owce uzyskują dojrzałość płciową?",
+      "options": [
+        "4–5 miesięcy.",
+        "18 miesięcy.",
+        "6–8 miesięcy.",
+        "15–16 miesięcy."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to okres rozrodu owiec występujący u merynosów sezonowo od czerwca do lipca, a u pozostałych owiec, od sierpnia do października.",
+      "options": [
+        "Stanówka",
+        "Plenność"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoród u owiec jest długi, trwa ok. 3 godzin i wymaga interwencji człowieka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie czynniki mają wpływ na zdolność wylęgową?",
+      "options": [
+        "Budowa jaj i jakość jego treści.",
+        "Pora roku.",
+        "Warunki hodowlane.",
+        "Warunki przechowywania jaj od chwili zniesienia."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKozy osiągają dojrzałość płciową w wieku … miesięcy.",
+      "options": [
+        "15–16",
+        "4–7"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuja u kóz występuje sezonowo, najczęściej w okresie letnim od końca maja do sierpnia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak długo średnio trwa ciąża u owiec?",
+      "options": [
+        "150 dni.",
+        "285 dni.",
+        "333 dni.",
+        "114 dni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCiąża u kóz trwa średnio … dni.",
+      "options": [
+        "205",
+        "150"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZbliżający się poród klaczy można poznać miedzy innymi po niespokojnym zachowaniu się zwierzęcia, które często wstaje i kładzie się.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Kiedy kaczki, kury, gęsi oraz indyki osiągają dojrzałość płciową?",
+      "options": [
+        "W wieku 6 miesięcy.",
+        "W wieku 3 miesięcy.",
+        "W wieku 4–5 miesięcy.",
+        "Z chwilą zniesienia pierwszego jaja."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Okres ciąży u krów może wahać się od 277 do 290 dni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹrebna klacz powinna się regularnie poruszać, wskazana jest również lekka praca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo trwa poród u kóz?",
+      "options": [
+        "3 godziny.",
+        "Około godziny.",
+        "Około 30 minut.",
+        "2 godziny."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed okresem stanówki nie należy ze stada owiec usuwać tryków i matek niezakwalifikowanych do rozrodu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim wieku buhaje osiągają dojrzałość płciową?",
+      "options": [
+        "18 miesięcy.",
+        "15–16 miesięcy.",
+        "6 miesięcy",
+        "10 miesięcy."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nMaciorki dojrzałość rozpłodową osiągają po uzyskaniu wagi 45 kg, tryki – 75 kg. Najczęściej następuje to po roku życia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajpowszechniejszym sposobem wykrywania rui jest stała obserwacja zwierząt w ciągu dnia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są objawy fazy porujowej u świń?",
+      "options": [
+        "Brak tolerancji na obskakiwanie.",
+        "Pohukiwanie.",
+        "Spokojne zachowanie.",
+        "Spadek apetytu."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak często powtarza się ruja u maciorek?",
+      "options": [
+        "Co 26–28 dni.",
+        "Co 20–22 dni.",
+        "Co 28–30 dni.",
+        "Co 16–17 dni."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPierwszym objawem ciąży u krów jest brak rui w ciągu 3–4 tygodni po pokryciu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZbliżający się poród u loch można zaobserwować poprzez wyraźne opuszczenie brzucha i nabrzmienie sutków na 2–3 dni przed porodem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo trwa ruja u lochy?",
+      "options": [
+        "2–3 doby.",
+        "18–20 godzin.",
+        "4–5 dób.",
+        "1 dobę."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBuhaje rodzą się zazwyczaj z większą masą ciała i ich poród jest przeważnie późniejszy niż cieliczek o kilka dni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCiąże bliźniacze są o kilka dni dłuższe, zwierzęta w słabej kondycji rodzą się wcześniej, natomiast otłuszczone później.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim wieku rozpoczyna się użytkowanie rozpłodowe buhajów?",
+      "options": [
+        "13–19 miesięcy.",
+        "22 miesięcy.",
+        "10 miesięcy.",
+        "6 miesięcy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW 6–8 tygodniu przed wycieleniem krowy przyrasta 60% masy ciała płodu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim wieku świnie osiągają dojrzałość hodowlaną?",
+      "options": [
+        "8–9 miesięcy.",
+        "15–16 miesięcy.",
+        "5–7 miesięcy.",
+        "13–19 miesięcy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozwieranie się szyjki macicy i rozluźnienie więzadeł łonowych to pierwszy etap porodu u krowy, który trwa ok. 3–4 godzin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObjawy rui u klaczy mogą być bardzo wyraźne lub też mogą być niezauważalne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim wieku knury osiągają dojrzałość płciową?",
+      "options": [
+        "6 miesięcy.",
+        "8–9 miesięcy.",
+        "15–16 miesięcy.",
+        "3 miesięcy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapadnięcie okolicy krzyżowo-lędźwiowej z obu stron nasady ogona u krowy może oznaczać zbliżający się poród.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiedy kozy osiągają dojrzałość rozpłodową?",
+      "options": [
+        "7–8 miesięcy.",
+        "15–16 miesięcy.",
+        "13–19 miesięcy.",
+        "30–34 miesięcy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZalegające łożysko może wywołać ostrą infekcję.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrycie lub inseminacja u lochy powinny nastąpić pod koniec rui.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak długo trwa ruja u klaczy?",
+      "options": [
+        "2–3 dni.",
+        "3–8 dni.",
+        "12–16 dni.",
+        "2–15 dni."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlenność to liczba odchowanych prosiąt od lochy w ciągu roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodczas trwania ciąży u świń płód nie przyrasta równomiernie, osiągając w 90 dniu zaledwie 50% masy urodzeniowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo może trwać użytkowanie rozpłodowe ogierów?",
+      "options": [
+        "16–20 lat.",
+        "12–15 lat.",
+        "7–9 lat.",
+        "10–15 lat."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCiąża u świń trwa 4 miesiące, 4 tygodnie i 4 dni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajlepszym dowodem ciąży u kóz jest brak rui po kryciu, a także spokój i ociężałość.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim wieku konie osiągają dojrzałość rozpłodową?",
+      "options": [
+        "12–15 miesięcy.",
+        "16–22 miesięcy.",
+        "26 miesięcy.",
+        "30–42 miesięcy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Za dojrzałego uważa się knura po osiągnięciu wieku 15–16 miesięcy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest najczęstsza przyczyna poronień u kóz w pierwszych dwóch miesiącach ciąży?",
+      "options": [
+        "Duża ruchliwość.",
+        "Nadmierny stres.",
+        "Infekcja pasożytów.",
+        "Niedobór składników mineralnych i witamin."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak długo trwa ruja u kóz?",
+      "options": [
+        "2-15 dni.",
+        "36 godzin.",
+        "12-16 dni.",
+        "2-3 dni."
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

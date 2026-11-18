@@ -1,0 +1,1932 @@
+{
+  "id": "ppz5",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Dobrostan zwierząt gospodarskich",
+  "number": "V",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – czym jest dobrostan",
+      "points": [
+        "Dobrostan zwierząt to zespół warunków związanych z potrzebami biologicznymi i behawioralnymi zwierząt, które zapewniają pełne ujawnienie genetycznych zdolności produkcyjnych.",
+        "Potrzeby biologiczne – podstawowe potrzeby wynikające z fizjologii organizmu (np. odżywianie, oddychanie).",
+        "Potrzeby behawioralne – odnoszą się do sposobu bycia danego gatunku (np. utrzymywanie grupowo lub indywidualnie).",
+        "Ważne jest też etyczne spojrzenie: zwierzę odczuwa ból i cierpienie – to istota żyjąca, a nie wyłącznie przedmiot produkcji.",
+        "Elementy dobrostanu: obchodzenie się ze zwierzętami, mikroklimat pomieszczeń inwentarskich, obsada na jednostce powierzchni, transport, zasady uśmiercania.",
+        "Cel: optymalny stan fizyczny i psychiczny zwierząt oraz łatwość adaptacji (dostosowania się) do warunków otoczenia."
+      ]
+    },
+    {
+      "heading": "Przepisy i wskaźniki dobrostanu",
+      "points": [
+        "Wymogi dobrostanu dla gatunków opisują rozporządzenia MRiRW, np. Rozporządzenie MRiRW z 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymania gatunków zwierząt gospodarskich, dla których normy ochrony nie zostały określone w przepisach UE (Dz.U. nr 116 poz. 778).",
+        "Wskaźniki dobrostanu (objawy zewnętrzne i wyniki produkcyjne): stan zdrowia, dobre wyniki rozrodcze (wysoka płodność, plenność), wysoka produktywność, odpowiednie zachowanie.",
+        "Wg przepisów UE zwierzętom należy zapewnić: odpowiednią opiekę i warunki utrzymania, ochronę przed niekorzystnymi warunkami atmosferycznymi, ochronę przed drapieżnikami, ochronę zdrowia, swobodę ruchu, wolność od głodu, pragnienia, strachu i cierpienia."
+      ]
+    },
+    {
+      "heading": "1. Mikroklimat pomieszczeń inwentarskich",
+      "points": [
+        "Warunki utrzymania wpływają na zdrowie i produkcyjność zwierząt w dużym stopniu – podobnie jak żywienie.",
+        "Parametry mikroklimatu: temperatura, wilgotność, wentylacja, oświetlenie, stężenie szkodliwych gazów.",
+        "Dla parametrów wyznaczono warunki minimalne, optymalne i maksymalne.",
+        "Przyrządy pomiarowe: temperatura – termometr (lub urządzenie wielofunkcyjne), wilgotność – higrometr, oświetlenie – luksomierz.",
+        "Każdy parametr mikroklimatu może korzystnie lub niekorzystnie wpływać na samopoczucie i produkcyjność zwierząt; mikroklimat ma zapewnić zwierzętom komfort."
+      ]
+    },
+    {
+      "heading": "Temperatura – trzoda chlewna (min–max, °C)",
+      "points": [
+        "Temperatura w największym stopniu decyduje o poziomie pozostałych czynników mikroklimatu; można ją regulować np. zmianą obsady zwierząt.",
+        "Knury 12–15; lochy 12–15; lochy wysokoprośne 15–19; lochy karmiące 18–20.",
+        "Prosięta do 14 dni 24–28; prosięta 14–28 dni 18–23; prosięta starsze 18–21.",
+        "Warchlaki 17–19; tuczniki 15–18; knurki i loszki 14–17."
+      ]
+    },
+    {
+      "heading": "Temperatura – bydło (min / optymalna, °C)",
+      "points": [
+        "Krowy: min 6, optymalna 8–16.",
+        "Krowy w porodówce: min 16, optymalna 16–20.",
+        "Cielęta do 3 miesięcy: min 8, optymalna 12–20.",
+        "Cielęta w profilaktorium: min 16, optymalna 16–20.",
+        "Cielęta powyżej 3 miesięcy: min 4, optymalna 12–16; jałówki powyżej 6 miesięcy: min 4, optymalna 8–16.",
+        "Opasy, buhaje: min 4, optymalna 10–18."
+      ],
+      "images": [
+        {
+          "src": "img/ppz5/tabela-temperatury-bydlo.jpg",
+          "caption": "Minimalne i maksymalne temperatury (°C) w pomieszczeniach dla bydła: krowy 6 / 8–16; porodówka i cielęta w profilaktorium 16 / 16–20; cielęta do 3 mies. 8 / 12–20; cielęta powyżej 3 mies. 4 / 12–16; jałówki powyżej 6 mies. 4 / 8–16; opasy, buhaje 4 / 10–18. Temperaturę mierzy się termometrem."
+        }
+      ]
+    },
+    {
+      "heading": "Temperatura – drób (°C)",
+      "points": [
+        "Kury: dorosłe 10–20, młodzież 18–20, pisklęta 28–32.",
+        "Brojlery kurze w pomieszczeniu z dodatkowym źródłem ciepła (pod źródłem / w pomieszczeniu): 1. tydzień 30–34 / 20–24; 2. tydz. 26–30 / 18–20; 3. tydz. 24–26 / 18–20; 4. tydz. 20–24 / 18–20.",
+        "Brojlery w pomieszczeniu bez dodatkowego źródła ciepła: 1. tydz. 33; 2. – 29; 3. – 25; 4. – 22; 5. – 20; 6. – 18; 7–8. tydz. 16.",
+        "Brojlery w 5. tygodniu 18–20, w 6. i 7–8. tygodniu 16–20 (w pomieszczeniu z dodatkowym źródłem ciepła).",
+        "Indyki: dorosłe 8–18, młodzież 18–24, pisklęta 35–38.",
+        "Kaczki i gęsi: dorosłe 6–18, młodzież 18–20, pisklęta 27–30."
+      ]
+    },
+    {
+      "heading": "Wilgotność względna powietrza",
+      "points": [
+        "Zawartość pary wodnej zależy m.in. od liczby zwierząt, rodzaju paszy i ilości wody, wilgotności powietrza na zewnątrz i rodzaju ściółki.",
+        "Bydło (wszystkie kategorie: krowy mleczne i cielne, cielęta, jałówki, opasy): 60–80%.",
+        "Trzoda: knury 75%; lochy, lochy wysokoprośne i karmiące 70%; tuczniki, knurki i loszki 70%.",
+        "Prosięta (do 14 dni, 14–28 dni, starsze) i warchlaki: 60%."
+      ],
+      "images": [
+        {
+          "src": "img/ppz5/higrometr.jpg",
+          "caption": "Higrometr – przyrząd do pomiaru wilgotności względnej powietrza w pomieszczeniach inwentarskich (w oborze dla wszystkich kategorii bydła 60–80%)."
+        }
+      ]
+    },
+    {
+      "heading": "Wentylacja – wymiana powietrza (zima / lato)",
+      "points": [
+        "Wentylacja decyduje o szybkości przepływu powietrza; dzieli się na mechaniczną (wymuszoną) i swobodną (grawitacyjną).",
+        "Nieprawidłowa wentylacja powoduje zaduch, podwyższenie wilgotności i większe stężenie szkodliwych gazów.",
+        "Bydło (m³/szt./h): krowa 90 / 350–400; cielę do 2. tyg. 20 / 80; cielę 2.–6. tyg. 30 / 90–120; jałówki i młode bydło opasowe do 18 mies. 60 / 250; jałówki powyżej 18 mies. 70 / 280–300.",
+        "Trzoda (m³/szt./h): knurki i loszki hodowlane 20 / 90; knury i lochy luźne i prośne 20 / 100; lochy karmiące 50 / 150; prosięta odsadzone do 8. tyg. 5 / 20; warchlaki do 12. tyg. 8 / 30; tuczniki 15 / 80.",
+        "Owce (m³/szt./h): matki z jagniętami 15 / 70; maciorki, tryczki i skopki 12 / 56; matki jałowe, jarki i skopy 13 / 63; tryki 22 / 100.",
+        "Drób (m³ na 1 kg masy ciała/h): kury 0,5 / 5,0–6,0; indyki 0,8 / 7,0; gęsi 0,5 / 6,0."
+      ],
+      "images": [
+        {
+          "src": "img/ppz5/tabela-wymiana-powietrza-bydlo.jpg",
+          "caption": "Wymiana powietrza dla bydła (m³ na 1 szt./godz., zima / lato): krowa 90 / 350–400; cielę do 2. tyg. 20 / 80; cielę 2.–6. tyg. 30 / 90–120; jałówki i młode bydło opasowe do 18 mies. 60 / 250; jałówki powyżej 18 mies. 70 / 280–300."
+        }
+      ]
+    },
+    {
+      "heading": "Oświetlenie",
+      "points": [
+        "Oświetlenie może być naturalne lub sztuczne; mierzy się je luksomierzem.",
+        "Ilość światła naturalnego zależy m.in. od pory dnia i roku, usytuowania budynku, wielkości i liczby okien.",
+        "Bydło – stosunek okien do podłogi: porodówka 1:15; krowy, jałówki, cielęta powyżej 2 tygodni 1:18; bukaty 1:25.",
+        "Bydło – natężenie: porodówka oraz krowy, jałówki i cielęta 20–30 lx (jarzeniowe 4 W/m², żarowe 16 W/m²); bukaty 10–20 lx (2 W/m² i 8 W/m²).",
+        "Trzoda – stosunek okien do podłogi: knury, lochy luźne i prośne, lochy karmiące, knurki i loszki hodowlane 1:20; prosięta 1:25; tuczniki 1:30; oświetlenie sztuczne 40 lx.",
+        "Kury (wychowalnia kurcząt i młodzieży, brojlernie): oświetlenie dzienne nienormowane, sztuczne 20 lx, nocne 3–5 lx.",
+        "Bydło – stanowiska zabiegowe: okna:podłoga 1:18, 20–30 lx, oświetlenie sztuczne jarzeniowe 3 W/m², żarowe 12 W/m².",
+        "Bydło – paszarnie: okna:podłoga 1:20, 50 lx, jarzeniowe 5 W/m², żarowe 20 W/m²; oświetlenie nocne w budynkach dla bydła 3–5 W/m².",
+        "Bydło – oświetlenie sztuczne: porodówka oraz krowy, jałówki i cielęta powyżej 2 tygodni – jarzeniowe 4 W/m², żarowe 16 W/m²; bukaty – 2 i 8 W/m²."
+      ],
+      "images": [
+        {
+          "src": "img/ppz5/tabela-oswietlenie-bydlo.jpg",
+          "caption": "Oświetlenie w budynkach dla bydła: stosunek okien do podłogi (porodówka 1:15, krowy 1:18, bukaty 1:25, paszarnie 1:20), natężenie 20–30 lx (bukaty 10–20, paszarnie 50), oświetlenie sztuczne jarzeniowe/żarowe w W/m²; oświetlenie nocne 3–5 W/m². Pomiar – luksomierzem."
+        }
+      ]
+    },
+    {
+      "heading": "Szkodliwe gazy – dopuszczalne stężenia",
+      "points": [
+        "W ocenie mikroklimatu najczęściej określa się zawartość trzech szkodliwych gazów.",
+        "Dwutlenek węgla (CO₂) – do 3000 ppm.",
+        "Siarkowodór (H₂S) – do 5 ppm.",
+        "Amoniak (NH₃) – do 20 ppm."
+      ],
+      "images": [
+        {
+          "src": "img/ppz5/tabela-gazy-szkodliwe.jpg",
+          "caption": "Dopuszczalne stężenia gazów szkodliwych: dwutlenek węgla (CO₂) do 3000 ppm, siarkowodór (H₂S) do 5 ppm, amoniak (NH₃) do 20 ppm."
+        }
+      ]
+    },
+    {
+      "heading": "2. Minimalne warunki utrzymania bydła",
+      "points": [
+        "Powierzchnia utrzymania musi być dostosowana do gatunku i grupy produkcyjnej – to element dobrostanu wpływający na efektywność produkcji.",
+        "Stanowiska na uwięzi (dł. × szer., m): krowa i jałówka powyżej 7. mies. ciąży 1,6 × 1,1; jałówka powyżej 6. mies. życia (do 7. mies. ciąży) 1,5 × 1,0; buhaj 2,4 × 1,4; opasy do 300 kg 1,3 × 0,8; opasy powyżej 300 kg 1,45 × 0,95.",
+        "Boksy legowiskowe: krowa i jałówka powyżej 7. mies. ciąży 2,1 × 1,1 m; jałówka powyżej 6. mies. życia 1,9 × 0,9 m.",
+        "Kojce grupowe na ściółce (m²/szt.): krowa i jałówka powyżej 7. mies. ciąży 4,5; jałówka powyżej 6. mies. 2,2; opas do 300 kg 1,6; opas powyżej 300 kg 2,2; buhaj 9.",
+        "Kojce grupowe bez ściółki (m²/szt., bez buhajów i krów/jałówek powyżej 7. mies. ciąży): jałówka powyżej 19. mies. 2; jałówka 6.–19. mies. 1,6; bydło opasowe 1,8.",
+        "Kojce wolnostanowiskowe bez uwięzi: jałówka 10 m², krowa 15 m², buhaj 20 m².",
+        "Kojec dla cielęcia pojedynczo: szerokość = wysokość cielęcia w kłębie, długość = 110% całkowitej długości ciała.",
+        "Kojec dla cieląt grupowo (m²/szt.): do 150 kg 1,5; 150–220 kg 1,7; ponad 220 kg 1,8."
+      ]
+    },
+    {
+      "heading": "Minimalne warunki utrzymania koni",
+      "points": [
+        "Boks na ściółce: koń dorosły o wysokości w kłębie do 1,47 m – 6 m²; powyżej 1,47 m – 9 m²; klacz ze źrebięciem – 12 m².",
+        "Stanowisko na uwięzi: koń do 1,47 m w kłębie 2,1 × 1,6 m; powyżej 1,47 m 3,1 × 1,8 m.",
+        "System wolnostanowiskowy bez uwięzi: konie dorosłe lub młodzież po odsadzeniu 10 m²; klacz ze źrebięciem 12 m².",
+        "Ogiery i klacze powyżej 1. roku życia utrzymuje się oddzielnie."
+      ]
+    },
+    {
+      "heading": "Minimalne warunki utrzymania owiec i kóz",
+      "points": [
+        "Owce – utrzymanie pojedyncze (m²): tryk 3; matka z jagnięciem 2,5 + 0,7 na każde następne jagnię ssące; jarka 1,5; tryczek 2; skopek 0,8.",
+        "Owce – utrzymanie grupowe (m²): tryk 2,0; matka z jagnięciem 1,5 + 0,5 na każde następne jagnię ssące; jarka 0,8; tryczek 1,5; skopek 0,6.",
+        "Kozy – stanowisko na uwięzi dla kozy dorosłej 1,35 × 0,75 m.",
+        "Kozy – kojec pojedynczy bez uwięzi: koza dorosła 1,5 m² + 0,5 m² na koźlę ssące; kozioł 1,5 m²; kozioł reproduktor 3,0 m².",
+        "Kozy – kojec grupowy: koza dorosła 1,5 m² + 0,3 m² na koźlę ssące; kozioł 1,5 m²; kozioł reproduktor 3,0 m²; koźlęta 1,0 m².",
+        "Wybieg: koza 4,0 m², kozioł 6,0 m²."
+      ]
+    },
+    {
+      "heading": "Minimalne warunki utrzymania świń",
+      "points": [
+        "Kojce pojedyncze stosuje się dla loch z prosiętami, zwierząt chorych lub podejrzanych o chorobę, knurów, loch i loszek prośnych (poniżej 10 szt.).",
+        "Kojec pojedynczy: knur 6 m²; knur, jeżeli w kojcu odbywa się krycie – 10 m².",
+        "Kojec grupowy – warchlaki i tuczniki (m²/szt.): do 10 kg 0,15; 10–20 kg 0,2; 20–30 kg 0,3; 30–50 kg 0,4; 50–85 kg 0,55; 85–110 kg 0,65; powyżej 110 kg 1,0.",
+        "Loszki i knurki hodowlane (30–110 kg) 1,4 m²; loszki i lochy prośne 1,64–2,25 m²."
+      ]
+    },
+    {
+      "heading": "Pozostałe potrzeby i wymogi dobrostanu",
+      "points": [
+        "Większość gatunków (owce, trzoda chlewna) to zwierzęta stadne – potrzebują kontaktu, choćby wzrokowego, z innymi osobnikami.",
+        "Utrzymanie zwierząt określa system cross-compliance (Zasada Wzajemnej Zgodności).",
+        "Ochronę przed warunkami atmosferycznymi zapewniają dostosowane budynki lub dobrze zorganizowane pastwiska (np. zadrzewienie dające cień i osłonę przed opadami).",
+        "Ochrona przed drapieżnikami – np. ogrodzone pastwiska.",
+        "Hodowca ma obowiązek zapewnić wolność od głodu, pragnienia, strachu i cierpienia – przez odpowiednie traktowanie i żywienie.",
+        "Prawidłowo zorganizowana praca w budynku lub na pastwisku pozwala stworzyć bezpieczne warunki dla zwierząt.",
+        "Zapewnienie odpowiedniej powierzchni to tylko jeden z elementów dobrostanu – trzeba uwzględnić także pozostałe potrzeby zwierząt (kontakt z innymi osobnikami, ochrona przed pogodą i drapieżnikami, ochrona zdrowia, swoboda ruchu)."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Dobrostan zwierząt – definicja",
+      "back": "Zespół warunków związanych z potrzebami biologicznymi i behawioralnymi zwierząt, zapewniających pełne ujawnienie genetycznych zdolności produkcyjnych."
+    },
+    {
+      "front": "Potrzeby biologiczne zwierząt",
+      "back": "Podstawowe potrzeby wynikające z fizjologii organizmu, np. odżywianie, oddychanie."
+    },
+    {
+      "front": "Potrzeby behawioralne zwierząt",
+      "back": "Potrzeby wynikające ze sposobu bycia gatunku, np. utrzymywanie grupowo lub indywidualnie."
+    },
+    {
+      "front": "Elementy dobrostanu zwierząt gospodarskich (5)",
+      "back": "Obchodzenie się ze zwierzętami, mikroklimat pomieszczeń, obsada na jednostce powierzchni, transport, zasady uśmiercania."
+    },
+    {
+      "front": "Wskaźniki dobrostanu (4)",
+      "back": "Stan zdrowia, dobre wyniki rozrodcze (płodność, plenność), wysoka produktywność, odpowiednie zachowanie."
+    },
+    {
+      "front": "Rozporządzenie o minimalnych warunkach utrzymania (gatunki bez norm UE) – data",
+      "back": "Rozporządzenie MRiRW z 28 czerwca 2010 r. (Dz.U. nr 116 poz. 778)."
+    },
+    {
+      "front": "Co wg przepisów UE należy zapewnić zwierzętom gospodarskim?",
+      "back": "Opiekę i warunki utrzymania, ochronę przed złą pogodą i drapieżnikami, ochronę zdrowia, swobodę ruchu, wolność od głodu, pragnienia, strachu i cierpienia."
+    },
+    {
+      "front": "Parametry mikroklimatu pomieszczeń inwentarskich (5)",
+      "back": "Temperatura, wilgotność, wentylacja, oświetlenie, stężenie szkodliwych gazów."
+    },
+    {
+      "front": "Który parametr mikroklimatu w największym stopniu decyduje o pozostałych?",
+      "back": "Temperatura."
+    },
+    {
+      "front": "Jak można regulować temperaturę w pomieszczeniu inwentarskim?",
+      "back": "Np. poprzez zmianę obsady zwierząt w pomieszczeniu."
+    },
+    {
+      "front": "Przyrząd do pomiaru wilgotności",
+      "back": "Higrometr."
+    },
+    {
+      "front": "Przyrząd do pomiaru oświetlenia",
+      "back": "Luksomierz."
+    },
+    {
+      "front": "Temperatura dla knurów i loch",
+      "back": "12–15°C."
+    },
+    {
+      "front": "Temperatura dla loch wysokoprośnych",
+      "back": "15–19°C."
+    },
+    {
+      "front": "Temperatura dla loch karmiących",
+      "back": "18–20°C."
+    },
+    {
+      "front": "Temperatura dla prosiąt do 14 dni",
+      "back": "24–28°C."
+    },
+    {
+      "front": "Temperatura dla prosiąt 14–28 dni",
+      "back": "18–23°C."
+    },
+    {
+      "front": "Temperatura dla warchlaków",
+      "back": "17–19°C."
+    },
+    {
+      "front": "Temperatura dla tuczników",
+      "back": "15–18°C."
+    },
+    {
+      "front": "Temperatura dla knurków i loszek",
+      "back": "14–17°C."
+    },
+    {
+      "front": "Temperatura optymalna dla krów (i minimalna)",
+      "back": "8–16°C (minimum 6°C)."
+    },
+    {
+      "front": "Temperatura w porodówce dla krów",
+      "back": "16–20°C (minimum 16°C)."
+    },
+    {
+      "front": "Temperatura optymalna dla cieląt do 3 miesięcy",
+      "back": "12–20°C (minimum 8°C)."
+    },
+    {
+      "front": "Temperatura optymalna dla opasów i buhajów",
+      "back": "10–18°C (minimum 4°C)."
+    },
+    {
+      "front": "Temperatura dla dorosłych kur",
+      "back": "10–20°C."
+    },
+    {
+      "front": "Temperatura dla piskląt kur",
+      "back": "28–32°C."
+    },
+    {
+      "front": "Temperatura pod dodatkowym źródłem ciepła dla brojlerów w 1. tygodniu",
+      "back": "30–34°C (w pomieszczeniu 20–24°C)."
+    },
+    {
+      "front": "Temperatura dla brojlerów w 1. tygodniu w pomieszczeniu bez dodatkowego źródła ciepła",
+      "back": "33°C."
+    },
+    {
+      "front": "Temperatura dla brojlerów w 7–8. tygodniu (bez dodatkowego źródła ciepła)",
+      "back": "16°C."
+    },
+    {
+      "front": "Temperatura dla piskląt indyków",
+      "back": "35–38°C."
+    },
+    {
+      "front": "Temperatura dla dorosłych indyków",
+      "back": "8–18°C."
+    },
+    {
+      "front": "Temperatura dla piskląt kaczek i gęsi",
+      "back": "27–30°C."
+    },
+    {
+      "front": "Temperatura dla dorosłych kaczek i gęsi",
+      "back": "6–18°C."
+    },
+    {
+      "front": "Od czego zależy zawartość pary wodnej w pomieszczeniu inwentarskim?",
+      "back": "Od liczby zwierząt, rodzaju paszy i ilości wody, wilgotności na zewnątrz i rodzaju ściółki."
+    },
+    {
+      "front": "Wilgotność względna w oborze (wszystkie kategorie bydła)",
+      "back": "60–80%."
+    },
+    {
+      "front": "Wilgotność względna dla knurów",
+      "back": "75%."
+    },
+    {
+      "front": "Wilgotność względna dla loch i tuczników",
+      "back": "70%."
+    },
+    {
+      "front": "Wilgotność względna dla prosiąt i warchlaków",
+      "back": "60%."
+    },
+    {
+      "front": "Rodzaje wentylacji",
+      "back": "Mechaniczna (wymuszona) i swobodna (grawitacyjna)."
+    },
+    {
+      "front": "Skutki nieprawidłowej wentylacji",
+      "back": "Zaduch, podwyższenie wilgotności, większe stężenie szkodliwych gazów."
+    },
+    {
+      "front": "Wymiana powietrza dla krowy (zima / lato)",
+      "back": "90 / 350–400 m³ na sztukę na godzinę."
+    },
+    {
+      "front": "Wymiana powietrza dla cielęcia do 2. tygodnia (zima / lato)",
+      "back": "20 / 80 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla jałówek powyżej 18 miesięcy (zima / lato)",
+      "back": "70 / 280–300 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla loch karmiących (zima / lato)",
+      "back": "50 / 150 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla tuczników (zima / lato)",
+      "back": "15 / 80 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla prosiąt odsadzonych do 8. tygodnia (zima / lato)",
+      "back": "5 / 20 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla tryków (zima / lato)",
+      "back": "22 / 100 m³/szt./h."
+    },
+    {
+      "front": "Wymiana powietrza dla kur (zima / lato)",
+      "back": "0,5 / 5,0–6,0 m³ na 1 kg masy ciała na godzinę."
+    },
+    {
+      "front": "Wymiana powietrza dla indyków (zima / lato)",
+      "back": "0,8 / 7,0 m³ na 1 kg masy ciała na godzinę."
+    },
+    {
+      "front": "Od czego zależy ilość światła naturalnego w budynku?",
+      "back": "Od pory dnia i roku, usytuowania budynku, wielkości i liczby okien."
+    },
+    {
+      "front": "Stosunek powierzchni okien do podłogi w porodówce dla bydła",
+      "back": "1:15."
+    },
+    {
+      "front": "Stosunek okien do podłogi dla krów, jałówek i cieląt powyżej 2 tygodni",
+      "back": "1:18."
+    },
+    {
+      "front": "Natężenie oświetlenia dla krów i w porodówce",
+      "back": "20–30 lx."
+    },
+    {
+      "front": "Stosunek okien do podłogi w tuczarni",
+      "back": "1:30."
+    },
+    {
+      "front": "Stosunek okien do podłogi dla prosiąt",
+      "back": "1:25."
+    },
+    {
+      "front": "Natężenie oświetlenia sztucznego w wychowalni kurcząt i brojlerni",
+      "back": "20 lx (nocne 3–5 lx; dzienne nienormowane)."
+    },
+    {
+      "front": "Dopuszczalne stężenie CO₂ w pomieszczeniu inwentarskim",
+      "back": "Do 3000 ppm."
+    },
+    {
+      "front": "Dopuszczalne stężenie siarkowodoru (H₂S)",
+      "back": "Do 5 ppm."
+    },
+    {
+      "front": "Dopuszczalne stężenie amoniaku (NH₃)",
+      "back": "Do 20 ppm."
+    },
+    {
+      "front": "Stanowisko na uwięzi dla krowy (i jałówki powyżej 7. mies. ciąży)",
+      "back": "1,6 m długości × 1,1 m szerokości."
+    },
+    {
+      "front": "Stanowisko na uwięzi dla buhaja",
+      "back": "2,4 × 1,4 m."
+    },
+    {
+      "front": "Boks legowiskowy dla krowy",
+      "back": "2,1 × 1,1 m."
+    },
+    {
+      "front": "Powierzchnia w kojcu grupowym na ściółce dla krowy (powyżej 7. mies. ciąży)",
+      "back": "4,5 m²."
+    },
+    {
+      "front": "Powierzchnia w kojcu grupowym na ściółce dla buhaja",
+      "back": "9 m²."
+    },
+    {
+      "front": "Powierzchnia w kojcach wolnostanowiskowych bez uwięzi: jałówka / krowa / buhaj",
+      "back": "10 / 15 / 20 m²."
+    },
+    {
+      "front": "Wymiary kojca dla cielęcia utrzymywanego pojedynczo",
+      "back": "Szerokość = wysokość w kłębie; długość = 110% całkowitej długości ciała."
+    },
+    {
+      "front": "Powierzchnia kojca grupowego dla cieląt do 150 kg",
+      "back": "1,5 m² na sztukę (150–220 kg – 1,7; ponad 220 kg – 1,8)."
+    },
+    {
+      "front": "Boks na ściółce dla konia o wysokości w kłębie do 1,47 m / powyżej",
+      "back": "6 m² / 9 m²."
+    },
+    {
+      "front": "Boks dla klaczy ze źrebięciem",
+      "back": "12 m²."
+    },
+    {
+      "front": "Stanowisko na uwięzi dla konia powyżej 1,47 m w kłębie",
+      "back": "3,1 × 1,8 m."
+    },
+    {
+      "front": "Które konie utrzymuje się oddzielnie?",
+      "back": "Ogiery i klacze powyżej 1. roku życia."
+    },
+    {
+      "front": "Powierzchnia dla tryka – utrzymanie pojedyncze / grupowe",
+      "back": "3 m² / 2,0 m²."
+    },
+    {
+      "front": "Powierzchnia dla matki z jagnięciem przy utrzymaniu pojedynczym",
+      "back": "2,5 m² + 0,7 m² na każde następne jagnię ssące."
+    },
+    {
+      "front": "Powierzchnia dla skopka – pojedynczo / grupowo",
+      "back": "0,8 m² / 0,6 m²."
+    },
+    {
+      "front": "Stanowisko na uwięzi dla kozy dorosłej",
+      "back": "1,35 × 0,75 m."
+    },
+    {
+      "front": "Powierzchnia kojca dla kozła reproduktora",
+      "back": "3,0 m²."
+    },
+    {
+      "front": "Powierzchnia wybiegu: koza / kozioł",
+      "back": "4,0 m² / 6,0 m²."
+    },
+    {
+      "front": "Kojec pojedynczy dla knura (bez krycia / z kryciem)",
+      "back": "6 m² / 10 m²."
+    },
+    {
+      "front": "Powierzchnia kojca grupowego dla tucznika 85–110 kg",
+      "back": "0,65 m²."
+    },
+    {
+      "front": "Powierzchnia kojca grupowego dla świni powyżej 110 kg",
+      "back": "1,0 m²."
+    },
+    {
+      "front": "Powierzchnia dla loszek i knurków hodowlanych (30–110 kg)",
+      "back": "1,4 m²."
+    },
+    {
+      "front": "Powierzchnia dla loszek i loch prośnych w kojcu grupowym",
+      "back": "1,64–2,25 m²."
+    },
+    {
+      "front": "Zwierzęta stadne – co oznacza?",
+      "back": "Gatunki (np. owce, trzoda chlewna) potrzebujące kontaktu, choćby wzrokowego, z innymi osobnikami."
+    },
+    {
+      "front": "Jak pastwisko może chronić zwierzęta przed warunkami atmosferycznymi?",
+      "back": "Zadrzewienie daje cień i osłonę przed opadami."
+    },
+    {
+      "front": "Oświetlenie w paszarni (bydło)",
+      "back": "Okna:podłoga 1:20, natężenie 50 lx; sztuczne – jarzeniowe 5 W/m², żarowe 20 W/m²."
+    },
+    {
+      "front": "Oświetlenie stanowisk zabiegowych (bydło)",
+      "back": "Okna:podłoga 1:18, 20–30 lx; sztuczne – jarzeniowe 3 W/m², żarowe 12 W/m²."
+    },
+    {
+      "front": "Natężenie oświetlenia sztucznego w chlewni",
+      "back": "40 lx (dla wszystkich kategorii świń)."
+    },
+    {
+      "front": "System określający zasady utrzymania zwierząt (wymienia go moduł o dobrostanie)",
+      "back": "Cross-compliance – Zasada Wzajemnej Zgodności."
+    },
+    {
+      "front": "Wymiana powietrza dla owiec (zima / lato, m³/szt./h)",
+      "back": "Matki z jagniętami 15 / 70; maciorki, tryczki i skopki 12 / 56; matki jałowe, jarki i skopy 13 / 63; tryki 22 / 100."
+    },
+    {
+      "front": "Wymiana powietrza dla gęsi (zima / lato)",
+      "back": "0,5 / 6,0 m³ na 1 kg masy ciała na godzinę."
+    },
+    {
+      "front": "Powierzchnia kojca dla kozy dorosłej z koźlęciem – pojedynczy / grupowy",
+      "back": "Pojedynczy: 1,5 m² + 0,5 m² na koźlę ssące; grupowy: 1,5 m² + 0,3 m² na koźlę ssące (koźlęta w kojcu grupowym – 1,0 m²)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dobrostan zwierząt określa zespół warunków związanych z potrzebami:",
+      "options": [
+        "biologicznymi i behawioralnymi",
+        "wyłącznie żywieniowymi",
+        "wyłącznie ekonomicznymi hodowcy",
+        "transportowymi i ubojowymi"
+      ],
+      "answer": 0,
+      "explain": "Dobrostan to zespół warunków związanych z potrzebami biologicznymi i behawioralnymi zwierząt."
+    },
+    {
+      "q": "Utrzymywanie zwierząt grupowo lub indywidualnie to przykład potrzeby:",
+      "options": [
+        "biologicznej",
+        "fizjologicznej",
+        "behawioralnej",
+        "żywieniowej"
+      ],
+      "answer": 2,
+      "explain": "Potrzeby behawioralne odnoszą się do sposobu bycia gatunku, np. utrzymywania grupowo lub indywidualnie."
+    },
+    {
+      "q": "Który z wymienionych NIE jest wskaźnikiem dobrostanu wg modułu?",
+      "options": [
+        "stan zdrowia",
+        "duża obsada zwierząt na 1 m²",
+        "wysoka płodność i plenność",
+        "odpowiednie zachowanie"
+      ],
+      "answer": 1,
+      "explain": "Wskaźniki dobrostanu to stan zdrowia, dobre wyniki rozrodcze, wysoka produktywność i odpowiednie zachowanie."
+    },
+    {
+      "q": "Który parametr mikroklimatu w największym stopniu decyduje o poziomie pozostałych?",
+      "options": [
+        "oświetlenie",
+        "stężenie amoniaku",
+        "wilgotność",
+        "temperatura"
+      ],
+      "answer": 3,
+      "explain": "Temperatura w największym stopniu decyduje o poziomie pozostałych czynników."
+    },
+    {
+      "q": "Wilgotność powietrza w pomieszczeniu inwentarskim mierzy się:",
+      "options": [
+        "luksomierzem",
+        "anemometrem",
+        "termometrem rtęciowym",
+        "higrometrem"
+      ],
+      "answer": 3,
+      "explain": "Wilgotność mierzy się za pomocą higrometru."
+    },
+    {
+      "q": "Natężenie oświetlenia w budynku inwentarskim mierzy się:",
+      "options": [
+        "higrometrem",
+        "luksomierzem",
+        "manometrem",
+        "barometrem"
+      ],
+      "answer": 1,
+      "explain": "Pomiaru oświetlenia dokonuje się za pomocą luksomierza."
+    },
+    {
+      "q": "Optymalna temperatura dla prosiąt do 14. dnia życia wynosi:",
+      "options": [
+        "12–15°C",
+        "15–18°C",
+        "24–28°C",
+        "18–20°C"
+      ],
+      "answer": 2,
+      "explain": "Dla prosiąt do 14 dni temperatura wynosi 24–28°C."
+    },
+    {
+      "q": "Zalecana temperatura dla loch karmiących to:",
+      "options": [
+        "18–20°C",
+        "12–15°C",
+        "24–28°C",
+        "6–8°C"
+      ],
+      "answer": 0,
+      "explain": "Lochy karmiące: 18–20°C."
+    },
+    {
+      "q": "Zalecana temperatura dla tuczników wynosi:",
+      "options": [
+        "15–18°C",
+        "24–28°C",
+        "8–10°C",
+        "20–24°C"
+      ],
+      "answer": 0,
+      "explain": "Tuczniki: 15–18°C."
+    },
+    {
+      "q": "Optymalna temperatura w oborze dla krów (bez porodówki) wynosi:",
+      "options": [
+        "16–20°C",
+        "20–24°C",
+        "8–16°C",
+        "0–4°C"
+      ],
+      "answer": 2,
+      "explain": "Krowy: min 6°C, optymalnie 8–16°C."
+    },
+    {
+      "q": "Temperatura optymalna w porodówce dla krów to:",
+      "options": [
+        "6–8°C",
+        "16–20°C",
+        "8–12°C",
+        "24–28°C"
+      ],
+      "answer": 1,
+      "explain": "Krowy w porodówce: 16–20°C."
+    },
+    {
+      "q": "Pisklęta indyków wymagają temperatury:",
+      "options": [
+        "18–24°C",
+        "27–30°C",
+        "8–18°C",
+        "35–38°C"
+      ],
+      "answer": 3,
+      "explain": "Pisklęta indyków: 35–38°C."
+    },
+    {
+      "q": "W pomieszczeniu bez dodatkowego źródła ciepła brojlery w 1. tygodniu potrzebują:",
+      "options": [
+        "20°C",
+        "25°C",
+        "16°C",
+        "33°C"
+      ],
+      "answer": 3,
+      "explain": "Brojlery w 1. tygodniu bez dodatkowego źródła ciepła – 33°C."
+    },
+    {
+      "q": "Temperatura dla dorosłych kur wynosi:",
+      "options": [
+        "28–32°C",
+        "10–20°C",
+        "30–34°C",
+        "2–6°C"
+      ],
+      "answer": 1,
+      "explain": "Kury dorosłe: 10–20°C."
+    },
+    {
+      "q": "Pisklęta kaczek i gęsi wymagają temperatury:",
+      "options": [
+        "35–38°C",
+        "18–20°C",
+        "27–30°C",
+        "6–18°C"
+      ],
+      "answer": 2,
+      "explain": "Pisklęta kaczek i gęsi: 27–30°C."
+    },
+    {
+      "q": "Wilgotność względna powietrza w oborze dla krów mlecznych powinna wynosić:",
+      "options": [
+        "60–80%",
+        "30–40%",
+        "85–95%",
+        "40–50%"
+      ],
+      "answer": 0,
+      "explain": "Dla wszystkich kategorii bydła wilgotność wynosi 60–80%."
+    },
+    {
+      "q": "Zalecana wilgotność względna dla knurów wynosi:",
+      "options": [
+        "75%",
+        "60%",
+        "50%",
+        "90%"
+      ],
+      "answer": 0,
+      "explain": "Knury: 75%."
+    },
+    {
+      "q": "Wilgotność względna dla prosiąt i warchlaków wynosi:",
+      "options": [
+        "75%",
+        "80%",
+        "60%",
+        "45%"
+      ],
+      "answer": 2,
+      "explain": "Prosięta i warchlaki: 60%."
+    },
+    {
+      "q": "Wentylacja swobodna to inaczej wentylacja:",
+      "options": [
+        "wymuszona",
+        "grawitacyjna",
+        "mechaniczna",
+        "ciśnieniowa"
+      ],
+      "answer": 1,
+      "explain": "Wentylację dzieli się na mechaniczną (wymuszoną) i swobodną (grawitacyjną)."
+    },
+    {
+      "q": "Nieprawidłowa wentylacja w budynku inwentarskim powoduje:",
+      "options": [
+        "spadek wilgotności i zapylenia",
+        "obniżenie stężenia amoniaku",
+        "poprawę mikroklimatu zimą",
+        "zaduch i większe stężenie szkodliwych gazów"
+      ],
+      "answer": 3,
+      "explain": "Zły system wentylacji przyczynia się do zaduchu, wyższej wilgotności i większego stężenia gazów."
+    },
+    {
+      "q": "Wymiana powietrza latem dla krowy wynosi:",
+      "options": [
+        "90 m³/szt./h",
+        "80 m³/szt./h",
+        "1000 m³/szt./h",
+        "350–400 m³/szt./h"
+      ],
+      "answer": 3,
+      "explain": "Krowa: zima 90, lato 350–400 m³ na sztukę na godzinę."
+    },
+    {
+      "q": "Zimowa wymiana powietrza dla krowy to:",
+      "options": [
+        "20 m³/szt./h",
+        "90 m³/szt./h",
+        "350 m³/szt./h",
+        "5 m³/szt./h"
+      ],
+      "answer": 1,
+      "explain": "Krowa zimą: 90 m³ na sztukę na godzinę."
+    },
+    {
+      "q": "Wymiana powietrza latem dla tuczników wynosi:",
+      "options": [
+        "20 m³/szt./h",
+        "150 m³/szt./h",
+        "80 m³/szt./h",
+        "350 m³/szt./h"
+      ],
+      "answer": 2,
+      "explain": "Tuczniki: zima 15, lato 80 m³/szt./h."
+    },
+    {
+      "q": "Wymianę powietrza dla drobiu podaje się w:",
+      "options": [
+        "m³ na 1 kg masy ciała na godzinę",
+        "m³ na sztukę na dobę",
+        "litrach na minutę na stado",
+        "m³ na 1 m² podłogi"
+      ],
+      "answer": 0,
+      "explain": "Dla drobiu wymianę powietrza podaje się w m³ na 1 kg masy ciała na godzinę."
+    },
+    {
+      "q": "Stosunek powierzchni okien do podłogi w tuczarni wynosi:",
+      "options": [
+        "1:30",
+        "1:15",
+        "1:10",
+        "1:5"
+      ],
+      "answer": 0,
+      "explain": "Tuczniki: 1:30."
+    },
+    {
+      "q": "Stosunek okien do podłogi w porodówce dla bydła wynosi:",
+      "options": [
+        "1:30",
+        "1:25",
+        "1:15",
+        "1:40"
+      ],
+      "answer": 2,
+      "explain": "Porodówka dla bydła: 1:15."
+    },
+    {
+      "q": "Natężenie oświetlenia nocnego w brojlerni wynosi:",
+      "options": [
+        "20 lx",
+        "3–5 lx",
+        "40 lx",
+        "50–100 lx"
+      ],
+      "answer": 1,
+      "explain": "Oświetlenie nocne w wychowalniach i brojlerniach: 3–5 lx."
+    },
+    {
+      "q": "Dopuszczalne stężenie amoniaku w pomieszczeniu inwentarskim wynosi:",
+      "options": [
+        "do 5 ppm",
+        "do 3000 ppm",
+        "do 200 ppm",
+        "do 20 ppm"
+      ],
+      "answer": 3,
+      "explain": "Amoniak (NH₃) – do 20 ppm."
+    },
+    {
+      "q": "Dopuszczalne stężenie siarkowodoru wynosi:",
+      "options": [
+        "do 20 ppm",
+        "do 50 ppm",
+        "do 3000 ppm",
+        "do 5 ppm"
+      ],
+      "answer": 3,
+      "explain": "Siarkowodór (H₂S) – do 5 ppm."
+    },
+    {
+      "q": "Dopuszczalne stężenie dwutlenku węgla to:",
+      "options": [
+        "do 20 ppm",
+        "do 3000 ppm",
+        "do 300 ppm",
+        "do 30 000 ppm"
+      ],
+      "answer": 1,
+      "explain": "CO₂ – do 3000 ppm."
+    },
+    {
+      "q": "Minimalne wymiary stanowiska na uwięzi dla krowy to:",
+      "options": [
+        "2,4 × 1,4 m",
+        "1,3 × 0,8 m",
+        "1,6 × 1,1 m",
+        "2,1 × 1,6 m"
+      ],
+      "answer": 2,
+      "explain": "Krowa i jałówka powyżej 7. mies. ciąży: 1,6 × 1,1 m."
+    },
+    {
+      "q": "Minimalna powierzchnia w kojcu wolnostanowiskowym bez uwięzi dla krowy wynosi:",
+      "options": [
+        "15 m²",
+        "10 m²",
+        "20 m²",
+        "4,5 m²"
+      ],
+      "answer": 0,
+      "explain": "Kojce wolnostanowiskowe: jałówka 10, krowa 15, buhaj 20 m²."
+    },
+    {
+      "q": "Długość kojca dla cielęcia utrzymywanego pojedynczo powinna wynosić:",
+      "options": [
+        "110% całkowitej długości jego ciała",
+        "100% długości ciała",
+        "150% długości ciała",
+        "dwukrotność wysokości w kłębie"
+      ],
+      "answer": 0,
+      "explain": "Długość kojca – 110% całkowitej długości ciała cielęcia."
+    },
+    {
+      "q": "Powierzchnia boksu na ściółce dla konia o wysokości w kłębie powyżej 1,47 m wynosi:",
+      "options": [
+        "6 m²",
+        "12 m²",
+        "9 m²",
+        "4 m²"
+      ],
+      "answer": 2,
+      "explain": "Koń powyżej 1,47 m w kłębie: 9 m²."
+    },
+    {
+      "q": "Ogiery i klacze utrzymuje się oddzielnie od wieku:",
+      "options": [
+        "powyżej 3. miesiąca życia",
+        "powyżej 1. roku życia",
+        "powyżej 3. roku życia",
+        "od urodzenia"
+      ],
+      "answer": 1,
+      "explain": "Ogiery i klacze powyżej 1. roku życia utrzymuje się oddzielnie."
+    },
+    {
+      "q": "Przy utrzymaniu pojedynczym tryk potrzebuje co najmniej:",
+      "options": [
+        "0,8 m²",
+        "1,5 m²",
+        "6 m²",
+        "3 m²"
+      ],
+      "answer": 3,
+      "explain": "Owce – utrzymanie pojedyncze: tryk 3 m²."
+    },
+    {
+      "q": "Minimalna powierzchnia wybiegu dla kozła wynosi:",
+      "options": [
+        "4,0 m²",
+        "1,5 m²",
+        "10 m²",
+        "6,0 m²"
+      ],
+      "answer": 3,
+      "explain": "Wybieg: koza 4,0 m², kozioł 6,0 m²."
+    },
+    {
+      "q": "Kojec pojedynczy dla knura, w którym odbywa się krycie, ma mieć co najmniej:",
+      "options": [
+        "6 m²",
+        "10 m²",
+        "4 m²",
+        "1,4 m²"
+      ],
+      "answer": 1,
+      "explain": "Knur – 6 m², a gdy w kojcu odbywa się krycie – 10 m²."
+    },
+    {
+      "q": "Tucznik o masie 85–110 kg w kojcu grupowym potrzebuje co najmniej:",
+      "options": [
+        "0,3 m²",
+        "1,4 m²",
+        "0,65 m²",
+        "0,15 m²"
+      ],
+      "answer": 2,
+      "explain": "Warchlaki i tuczniki 85–110 kg: 0,65 m²."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Luksomierz jest przyrządem do mierzenia:",
+      "options": [
+        "wysokości temperatury.",
+        "szybkości przepływu powietrza.",
+        "natężenia oświetlenia.",
+        "poziomu stężenia gazów szkodliwych.",
+        "poziomu wilgotności w %."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPotrzeby behawioralne zwierząt odnoszą się do ….",
+      "options": [
+        "sposobu bycia danego gatunku",
+        "podstawowych potrzeb wynikających z fizjologii organizmu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymagania w zakresie utrzymania zwierząt określa system cross-compliance, czyli zasada wzajemnej zgodności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dobrostan zwierząt gospodarskich dotyczy:",
+      "options": [
+        "obchodzenia się ze zwierzętami.",
+        "innych zwierząt i innego ich traktowania niż produkcja dla konsumpcji.",
+        "mikroklimatu pomieszczeń inwentarskich.",
+        "zasad uśmiercania.",
+        "transportu.",
+        "obsady na jednostce powierzchni."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPowierzchnia boksu na ściółce dla klaczy ze źrebięciem powinna wynosić minimum … m2.",
+      "options": [
+        "12",
+        "15"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPowierzchnia boksu na ściółce dla konia dorosłego o wysokości w kłębie powyżej 1,47 m to 12m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest minimalna powierzchnia wybiegu dla kozła?",
+      "options": [
+        "3 m2",
+        "8 m2",
+        "5 m2",
+        "6 m2",
+        "4 m2"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMinimalna powierzchnia (10 m2) kojca wolnostanowiskowego, bez uwięzi, przeznaczona jest dla ….",
+      "options": [
+        "krowy",
+        "jałówki"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja mechaniczna to inaczej wentylacja grawitacyjna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Prawidłowe zapewnienie i dostosowanie elementów dobrostanu ma zagwarantować zwierzętom:",
+      "options": [
+        "optymalny stan psychiczny.",
+        "ciągłe podnoszenie jakości bytu.",
+        "optymalny stan fizyczny.",
+        "łatwość dostosowania się do warunków otoczenia."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPowierzchnia kojca dla cieląt utrzymywanych grupowo o wadze … kg wynosi 1,7 m2.",
+      "options": [
+        "150–220",
+        "ponad 220"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBydło opasowe o masie ciała do 300 kg wymaga stanowiska 1,3 x 0,8 m na jedną sztukę trzymaną na uwięzi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia pomieszczenia dla jarki w utrzymaniu grupowym?",
+      "options": [
+        "0,8 m2",
+        "3 m2",
+        "1,5 m2",
+        "2,5 m2",
+        "2 m2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBydło opasowe o masie ciała … wymaga powierzchni 1,6 m2 w kojcu grupowym bez wydzielonych stanowisk na ściółce dla jednej sztuki.",
+      "options": [
+        "powyżej 300 kg",
+        "do 300 kg"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla krów, jałówek i cieląt powyżej 2 tygodnia życia przy oświetleniu dziennym stosunek okien do podłogi powinien wynosić 1:15.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cechy, które wskazują na dobrostan.",
+      "options": [
+        "Dobry stan zdrowia.",
+        "Obecność drapieżników.",
+        "Wysoka produktywność.",
+        "Odpowiednie zachowanie.",
+        "Dobre wyniki rozrodcze."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWentylacja dzieli się na mechaniczną i ….",
+      "options": [
+        "swobodną",
+        "wymuszoną"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNatężenie oświetlenia sztucznego w pomieszczeniu inwentarskim dla trzody chlewnej powinno wynosić 40 luksów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWymiana powietrza na sztukę tucznika zimą wynosi ….",
+      "options": [
+        "15 m3 na godzinę.",
+        "60 m3 na godzinę."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW pomieszczeniach inwentarskich wilgotność mierzy się za pomocą higrometru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja mechaniczna to inaczej wentylacja grawitacyjna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Najczęściej w ocenie mikroklimatu pomieszczeń inwentarskich określa się zawartość trzech szkodliwych gazów. Jakich?",
+      "options": [
+        "Amoniak.",
+        "Siarkowodór.",
+        "Arsenowodór.",
+        "Dwutlenek węgla.",
+        "Cyjanowodór."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMinimalna powierzchnia kojca pojedynczego dla knurów wynosi … m2.",
+      "options": [
+        "8",
+        "6"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIlość światła naturalnego docierającego do wnętrza budynku jest zależna między innymi od pory dnia i roku, usytuowania budynku, wielkości czy ilości okien.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi powierzchnia kojca pojedynczego bez uwięzi dla kozła reproduktora?",
+      "options": [
+        "4 m2",
+        "3,5 m2",
+        "3 m2",
+        "4,5 m2",
+        "2 m2"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDobrostan określa zespół warunków związanych z potrzebami … i behawioralnymi zwierząt.",
+      "options": [
+        "reprodukcyjnymi",
+        "biologicznymi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwce należą do zwierząt stadnych, czyli potrzebujących kontaktu, choćby wzrokowego, z innymi osobnikami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Minimalna temperatura 18˚C w pomieszczeniu jest odpowiednia dla:",
+      "options": [
+        "loch.",
+        "loch karmiących.",
+        "tuczników.",
+        "krów.",
+        "starszych prosiąt."
+      ],
+      "answers": [
+        1,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJałówka powyżej 6 miesiąca życia powinna mieć zapewnioną minimalną temperaturę pomieszczenia ….",
+      "options": [
+        "4˚C",
+        "8˚C"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWychowalnia kurcząt i młodzieży oraz brojlernie mają nienormowane oświetlenie dzienne, natomiast sztuczne wynosi 20 luksów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi dopuszczalna norma stężenia amoniaku w pomieszczeniach inwentarskich?",
+      "options": [
+        "Do 5 ppm.",
+        "Do 20 ppm.",
+        "Do 30 ppm.",
+        "Do 10 ppm.",
+        "Do 15 ppm."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalna temperatura pomieszczenia bez dodatkowego źródła ciepła dla dorosłego indyka wynosi ….",
+      "options": [
+        "18–24˚C",
+        "8–18˚C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymogi dobrostanu muszą być dostosowane dla poszczególnych gatunków zwierząt gospodarskich.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W tworzeniu mikroklimatu, o poziomie pozostałych czynników, w największym stopniu decyduje:",
+      "options": [
+        "oświetlenie.",
+        "stężenie szkodliwych gazów.",
+        "temperatura.",
+        "wentylacja.",
+        "rodzaj wyściółki."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWilgotność względna powietrza w oborze dla cieląt miedzy 2 a 6 miesiącem życia wynosi ….",
+      "options": [
+        "60–80%",
+        "40–60%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZgodnie z przepisami unijnymi dotyczącymi dobrostanu, zwierzętom gospodarskim należy zapewnić ochronę przed głodem i cierpieniem, nie ma w nich natomiast mowy o warunkach atmosferycznych czy drapieżnikach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką wilgotność powietrza w chlewni powinna mieć zapewnioną locha karmiąca?",
+      "options": [
+        "80%",
+        "70%",
+        "65%",
+        "60%",
+        "75%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJałówkom powyżej 18 miesiąca życia powinniśmy zapewnić wymianę powietrza o wartości … w okresie letnim.",
+      "options": [
+        "90–120 m3 na godzinę",
+        "280–300 m3 na godzinę"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZawartość pary wodnej w powietrzu zależy między innymi od wilgotności powietrza na zewnątrz budynku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co składa się na mikroklimat pomieszczeń, w których trzymane są zwierzęta gospodarskie?",
+      "options": [
+        "Wentylacja.",
+        "Temperatura.",
+        "Stężenie szkodliwych gazów.",
+        "Rodzaj wyściółki.",
+        "Wilgotność.",
+        "Oświetlenie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMinimalną powierzchnią kojca grupowego dla tuczników o masie ciała między 20 a 30 kg jest ….",
+      "options": [
+        "0,4 m2",
+        "0,3 m2"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla klaczy ze źrebięciem w systemie wolnostanowiskowym bez uwięzi wymagane jest stanowisko o minimalnej powierzchni 12 m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką powierzchnię minimalną musi mieć kojec grupowy bez uwięzi dla dorosłej kozy?",
+      "options": [
+        "1,5 m2",
+        "1 m2",
+        "0,5 m2",
+        "2,5 m2",
+        "2 m2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDopuszczalna norma występowania siarkowodoru w pomieszczeniach inwentarskich wynosi do ….",
+      "options": [
+        "5 ppm",
+        "20 ppm"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMinimalna powierzchnia kojca pojedynczego dla knurów wynosi 8 m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Ile wynosi wilgotność względna powietrza w oborze dla cieląt miedzy 2 a 6 miesiącem życia?",
+      "options": [
+        "60–70%",
+        "50–60%",
+        "40–60%",
+        "20–40%",
+        "60–80%"
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dopuszczalna norma stężenia amoniaku w pomieszczeniach inwentarskich wynosi 20 ppm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które cechy wskazują na dobrostan?",
+      "options": [
+        "Odpowiednie zachowanie.",
+        "Dobry stan zdrowia.",
+        "Dobre wyniki rozrodcze.",
+        "Wysoka produktywność."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile wynosi optymalna temperatura pomieszczenia bez dodatkowego źródła ciepła dla dorosłego indyka?",
+      "options": [
+        "8–18°C",
+        "8–14°C",
+        "6–8°C",
+        "12–14°C",
+        "12–18°C"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPowierzchnia kojca dla cieląt utrzymywanych grupowo o wadze 100 –150 kg wynosi 1,7 m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką minimalną temperaturę pomieszczenia powinna mieć zapewniona jałówka powyżej 6 miesiąca życia?",
+      "options": [
+        "5°C",
+        "2°C",
+        "6°C",
+        "7°C",
+        "4°C"
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Ile m3/godzinę wynosi wymiana powietrza na sztukę tucznika zimą?",
+      "options": [
+        "15",
+        "60",
+        "30",
+        "10",
+        "5"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrostan określa zespół warunków związanych z potrzebami biologicznymi i behawioralnymi zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia dla jarki w utrzymaniu pojedynczym?",
+      "options": [
+        "0,7 m2",
+        "0,6 m2",
+        "2 m2",
+        "0,8 m2",
+        "1,5 m2"
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Jaka powinna być minimalna powierzchnia kojca grupowego bez uwięzi dla koźląt?",
+      "options": [
+        "1,0 m2",
+        "4,0 m2",
+        "1,5 m2",
+        "3,0 m2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla krów, jałówek i cieląt powyżej 2 tygodnia życia przy oświetleniu dziennym stosunek powierzchni okien do powierzchni podłogi powinien wynosić 1:18.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Bydło opasowe o jakiej masie ciała wymaga powierzchni w kojcu grupowym bez wydzielonych stanowisk na ściółce dla jednej sztuki o wymiarach 1,6 m2?",
+      "options": [
+        "do 100 kg",
+        "do 150 kg",
+        "do 200 kg",
+        "do 300 kg",
+        "do 350 kg"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Ile powinno wynosić natężenie oświetlenia sztucznego w pomieszczeniu inwentarskim dla trzody chlewnej?",
+      "options": [
+        "10 luksów",
+        "20 luksów",
+        "40 luksów",
+        "50 luksów",
+        "30 luksów"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMinimalna powierzchnia kojca pojedynczego dla knurów wynosi 8 m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPotrzeby behawioralne zwierząt odnoszą się do podstawowych potrzeb wynikających z fizjologii organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Dopuszczalne normy występowania siarkowodoru w pomieszczeniach inwentarskich wynosi do:",
+      "options": [
+        "25 ppm",
+        "15 ppm",
+        "10 ppm",
+        "5 ppm",
+        "20 ppm"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW pomieszczeniach inwentarskich wilgotność mierzy się za pomocą higrometru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakiego zwierzęcia określona jest minimalna powierzchnia 10 m2 kojca wolnostanowiskowego bez uwięzi?",
+      "options": [
+        "Cieląt trzymanych grupowo do 150 kg.",
+        "Buhaja.",
+        "Kozy.",
+        "Krowy.",
+        "Jałówki."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDopuszczalna norma stężenia amoniaku w pomieszczeniach inwentarskich wynosi do 30 ppm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Dla utrzymywanych grupowo cieląt o jakiej masie powierzchnia kojca wynosi 1,7 m2?",
+      "options": [
+        "150–220 kg",
+        "180–220 kg",
+        "180–260 kg",
+        "do 150 kg"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia pomieszczenia dla jarki w utrzymaniu grupowym?",
+      "options": [
+        "3 m2",
+        "2,5 m2",
+        "1,5 m2",
+        "0,8 m2",
+        "2 m2"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja mechaniczna to inaczej wentylacja grawitacyjna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Luksomierz jest przyrządem do mierzenia:",
+      "options": [
+        "wysokości temperatury.",
+        "poziomu stężenia gazów szkodliwych.",
+        "natężenia oświetlenia.",
+        "poziomu wilgotności w %.",
+        "szybkości przepływu powietrza."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTemperaturę w pomieszczeniu gospodarskim można regulować np. poprzez zmiany obsady zwierząt w pomieszczeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymagania w zakresie utrzymania zwierząt określa system cross-compliance, czyli zasada wzajemnej zgodności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia wybiegu dla kozła?",
+      "options": [
+        "6 m2",
+        "3 m2",
+        "4 m2",
+        "5 m2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrawidłowe zapewnienie i dostosowanie elementów dobrostanu ma zagwarantować zwierzętom m.in. optymalny stan psychiczny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBydło opasowe o masie ciała do 300 kg wymaga stanowiska 1,3 x 0,8 m na jedną sztukę trzymaną na uwięzi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Najczęściej w ocenie mikroklimatu pomieszczeń inwentarskich określa się zawartość szkodliwych gazów. Wskaż, które gazy nie są brane pod uwagę.",
+      "options": [
+        "Cyjanowodór.",
+        "Arsenowodór.",
+        "Dwutlenek węgla.",
+        "Siarkowodór.",
+        "Amoniak."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co się składa na mikroklimat pomieszczeń gospodarskich?",
+      "options": [
+        "Stężenie szkodliwych gazów.",
+        "Wentylacja.",
+        "Wilgotność.",
+        "Rodzaj wyściółki.",
+        "Temperatura."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia dla jarki w utrzymaniu grupowym?",
+      "options": [
+        "0,7 m2",
+        "1,5 m2",
+        "0,8 m2",
+        "0,6 m2",
+        "2 m2"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Powierzchnia kojca pojedynczego bez uwięzi dla kozła reproduktora wynosi minimum:",
+      "options": [
+        "3,5 m2",
+        "4 m2",
+        "3 m2",
+        "4,5 m2",
+        "2 m2"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPowierzchnia boksu na ściółce dla konia dorosłego o wysokości w kłębie powyżej 1,47 m wynosi 12 m2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Minimalna temperatura 18°C w pomieszczeniu jest odpowiednia dla:",
+      "options": [
+        "krów.",
+        "tuczników.",
+        "loch karmiących.",
+        "loch.",
+        "starszych prosiąt."
+      ],
+      "answers": [
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Dobrostan zwierząt gospodarskich nie dotyczy:",
+      "options": [
+        "obchodzenia się ze zwierzętami.",
+        "innych zwierząt i innego ich traktowania niż produkcja dla konsumpcji.",
+        "obsady na jednostce powierzchni.",
+        "transportu.",
+        "zasad uśmiercania."
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

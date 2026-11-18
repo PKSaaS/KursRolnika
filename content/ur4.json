@@ -1,0 +1,2108 @@
+{
+  "id": "ur4",
+  "course": "Uprawa roślin",
+  "title": "Rośliny zbożowe ozime",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie i znaczenie gospodarcze",
+      "points": [
+        "Zboża występują w formie jarej i ozimej; dzięki własnościom biologicznym i prostocie uprawy są na czele roślin uprawianych w gospodarstwach.",
+        "Zboża ozime plonują o ok. 20–30% wyżej niż jare, więc ich uprawa jest bardziej opłacalna.",
+        "Wadą jest większe ryzyko całkowitej utraty plonu przez wymarznięcie lub wygnicie przy nadmiarze wody wiosną.",
+        "Struktura zasiewów zbóż w 2012 r. (GUS): pszenica 27%, mieszanki zbożowe 16,6%, jęczmień 15,1%, żyto 13,5%, pszenżyto 12,8%, kukurydza na ziarno 7%, owies 6,7%, gryka 0,9%, proso 0,3%.",
+        "Ok. 75% pszenicy to forma ozima; mieszanki ozime – 8% udziału; ok. 15% jęczmienia to forma ozima.",
+        "Pszenżyto ozime zajmuje ok. 80% powierzchni pszenżyta; żyto uprawia się praktycznie tylko w formie ozimej.",
+        "Uprawa zbóż jest głównym kierunkiem działalności gospodarstw rolnych."
+      ]
+    },
+    {
+      "heading": "2. Odmiany zbóż ozimych",
+      "points": [
+        "W rejestrze COBORU jest ponad 150 odmian zbóż ozimych.",
+        "Pszenica ozima: orkiszowa (szczególne walory odżywcze) – Rokosz; twarda (makarony) – Komnata; zwyczajna – 70 odmian.",
+        "Pszenica zwyczajna wg wartości technologicznej: elitarna (Astoria), jakościowa (Kredo), chlebowa (Speedway), pastewna (Satyna), na ciastka (Slade, Bagou).",
+        "Jęczmień ozimy może być 2- lub 6-rzędowy: browarne 2-rzędowe (Wintmalt, Tiffany, Nickela), pastewne 6-rzędowe – 26 odmian (np. Bartosz, Bażant, Marlot).",
+        "Pszenżyto ozime – 38 odmian, w tym odmiany o krótkiej słomie.",
+        "Żyto ozime – 38 odmian: typy mieszańcowe, syntetyczne, liniowo-populacyjne.",
+        "Odmiany syntetyczne – z wzajemnego przepylenia 5 linii hodowlanych; mieszańcowe – 2 linii; liniowo-populacyjne – zapylenie w obrębie 1 linii.",
+        "Przykłady żyta: mieszańcowe – Stah, Visello; syntetyczne – Herakles; pastewne – Pastar; liniowo-populacyjne – Gradan."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/klosy-zboz-ozimych.jpg",
+          "caption": "Zboża ozime: kłos i ziarno pszenicy (u góry z lewej), żyto (u góry z prawej), kłos jęczmienia z długimi ośćmi (u dołu z lewej), kłosy pszenżyta (u dołu z prawej)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wymagania klimatyczne",
+      "points": [
+        "Żyto – najniższe wymagania: znosi –30°C bez okrywy śnieżnej, kiełkuje nieco powyżej 0°C, rozwija się już w 1–2°C, optimum 10–15°C.",
+        "Temperatury powyżej 30°C szkodzą żytu: hamują wzrost, pogarszają zapłodnienie, przyspieszają dojrzewanie, ziarno gorzej wykształcone.",
+        "Żyto ma dużo niższe wymagania wodne niż inne zboża (mocne korzenie, słabsze ulistnienie); nadmiar wody w wypełnianiu ziarna grozi wyleganiem i porastaniem w kłosach.",
+        "Pszenica ozima: znosi –20°C bez śniegu i –30°C pod śniegiem; kiełkuje w 2–3°C; optimum 16–20°C; wytrzymuje przymrozki wiosenne do –5°C.",
+        "Pszenica ma wyższe wymagania wodne (silne ulistnienie, wyższy współczynnik transpiracji); okres krytyczny – strzelanie w źdźbło (czerwiec).",
+        "Dla pszenicy ważne jest światło – zbyt gęsty siew silnie obniża plony.",
+        "Jęczmień ozimy – najbardziej wrażliwy na mróz: wytrzymuje do –13°C; wrażliwy na wahania temperatury wiosną; wymagania wodne podobne do żyta.",
+        "U jęczmienia niedobór wody w kłoszeniu i kwitnieniu pogarsza ziarno, nadmiar powoduje wyleganie.",
+        "Pszenżyto ozime – wymagania cieplne pośrednie między żytem i pszenicą: kiełkuje w 2–6°C, optimum 8–14°C, w wypełnianiu ziarna 16–17°C.",
+        "Wymagania wodne pszenżyta: wyższe niż żyta, niższe niż pszenicy; lepiej niż pszenica znosi niedobór wody.",
+        "Pszenżyto ozime reaguje na warunki klimatyczne różnie w zależności od odmiany; zaczyna wzrastać w temperaturze nieco wyższej od minimalnej.",
+        "Zbyt gęsty siew ograniczający dopływ światła obniża plony pszenicy i innych zbóż."
+      ]
+    },
+    {
+      "heading": "3. Wymagania glebowe",
+      "points": [
+        "Najmniejsze wymagania glebowe ma żyto, największe pszenica.",
+        "Żyto rośnie na wszystkich glebach, ale ekonomicznie zalecane są klasy IV i V (kompleksy żytnie); znosi zakwaszenie do pH 5,0.",
+        "Pszenica ozima najlepiej plonuje na kompleksie pszennym bardzo dobrym i dobrym; na pszennym wadliwym oraz żytnim bardzo dobrym i dobrym – ryzyko, zależność od pogody.",
+        "Na kompleksie żytnim bardzo dobrym pszenica da wysokie plony tylko przy optymalnym pH 6,5.",
+        "Pszenżyto najlepiej plonuje na kompleksie pszennym bardzo dobrym i dobrym; na słabszych glebach plonuje gorzej niż żyto, lepiej niż pszenica.",
+        "Na kompleksie żytnim bardzo dobrym pszenżyto plonuje lepiej niż pszenica, żyto i jęczmień; na żytnim dobrym – znacznie gorzej niż żyto czy jęczmień.",
+        "Jęczmień ozimy – wymagania między pszenicą a żytem; dobrze plonuje na kompleksie pszennym wadliwym, żytnim bardzo dobrym i dobrym.",
+        "Jęczmień jest wrażliwy na odczyn – optymalne pH 5,4–7,5; na glebach żytnich plonuje dobrze przy pH zbliżonym do obojętnego.",
+        "Na kompleksie pszennym wadliwym pszenica nie da wysokich plonów w lata suche i zimne.",
+        "Uprawa pszenżyta na kompleksie pszennym bardzo dobrym i dobrym jest zasadna, jeśli gleby te przeznacza się pod zboża pastewne.",
+        "Im słabsze gleby, tym słabiej plonuje jęczmień ozimy."
+      ]
+    },
+    {
+      "heading": "4. Stanowisko w zmianowaniu",
+      "points": [
+        "Ozime uprawia się po przedplonach wcześnie schodzących z pola (czas na uprawę i siew).",
+        "Po orce siewnej siew powinien nastąpić w odleżałą glebę – 2–3 tygodnie po orce.",
+        "Najlepsze przedplony dla zbóż to rośliny niezbożowe.",
+        "Żyto dobrze plonuje po motylkowatych i wczesnych ziemniakach; może być uprawiane po zbożach i po sobie przy zwiększonym nawożeniu mineralnym.",
+        "Pszenica ozima i jęczmień ozimy – po rzepaku, wczesnych i średnio wczesnych ziemniakach, motylkowatych; nie po sobie (choroby podstawy źdźbła).",
+        "Pszenica nie wymaga odleżałej gleby.",
+        "Pszenżyto zastępuje w płodozmianie głównie żyto; najlepsze przedplony: wczesne strączkowe na nasiona, motylkowate wieloletnie, wczesne i średnio wczesne ziemniaki; dobre – rzepak i owies.",
+        "Unikać pszenżyta po pszenicy i życie – wspólne choroby.",
+        "Przykład płodozmianu: owies – pszenica ozima – rzepak ozimy – żyto ozime.",
+        "Przykład płodozmianu: okopowe – zboża jare + wsiewka koniczyny czerwonej – pastewne – zboża ozime.",
+        "Przykład płodozmianu: okopowe – pastewne – zboża ozime – zboża jare.",
+        "Konieczność wczesnego zejścia przedplonu wynika z potrzeby przygotowania gleby i dotrzymania terminu siewu."
+      ]
+    },
+    {
+      "heading": "5. Nawożenie organiczne i mineralne",
+      "points": [
+        "Zboża ozime zasadniczo nie są uprawiane na nawozach organicznych (wyjątek – gospodarstwa ekologiczne); najczęściej w 2. roku po oborniku.",
+        "Na glebach lekkich pod żyto stosuje się czasem nawozy zielone, najczęściej z łubinu.",
+        "Pszenica ozima – plon 6/8/9/10 t/ha: N 100/120/140/160, P2O5 55/70/80/90, K2O 60/80/90/100, MgO 20/25/30/30 kg/ha.",
+        "Żyto – plon 4/6/8 t/ha: N 60/100/140, P2O5 35/55/75, K2O 55/100/110, MgO 10/20/25 kg/ha.",
+        "Pszenżyto – plon 6/7/9/10 t/ha: N 80/100/120/140, P2O5 60/70/90/100, MgO 20/20/25/30 kg/ha.",
+        "Tabela zaleceń nie obejmuje jęczmienia – brak wiarygodnych danych zależnych od plonu.",
+        "P i K stosuje się przed siewem; najważniejsze jest ustalenie dawki i terminów azotu.",
+        "Azot w 2 dawkach: ruszenie wegetacji 60%, strzelanie w źdźbło 40%.",
+        "Azot w 3 dawkach: ruszenie wegetacji 50%, strzelanie w źdźbło 30%, kłoszenie 20%.",
+        "W czasie suszy lepsze jest dokarmianie nawozami płynnymi – zwykle zamiast 3. dawki azotu.",
+        "Poziom nawożenia mineralnego zależy głównie od zasobności gleby i potrzeb pokarmowych rośliny; potrzeby wapnowania – jak w module III.",
+        "Tab. 4.1 – pszenżyto, K2O: plon 6 t – 85, 7 t – 100, 9 t – 125, 10 t – 120 kg/ha (wartości jak w tabeli źródłowej).",
+        "Założenia tab. 4.1: dawki N dla dobrego stanowiska w warunkach sprzyjających wykorzystaniu azotu, bez nawozów naturalnych; P i K dla średniej zawartości przyswajalnych P, K i Mg; słoma i liście pozostają na polu i są przyorywane.",
+        "Nawozy organiczne pod zboża ozime można stosować w gospodarstwach ekologicznych przy odpowiedniej organizacji."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/tab-nawozenie-oziminy.jpg",
+          "caption": "Tabela 4.1 – zalecane dawki nawozów mineralnych (kg/ha) wg prognozowanego plonu: pszenica ozima, żyto, pszenżyto."
+        }
+      ]
+    },
+    {
+      "heading": "5. Nawożenie jęczmienia ozimego",
+      "points": [
+        "Zasady jak dla innych ozimin, ale jęczmień jest wrażliwy na kwaśny odczyn.",
+        "Wapnowanie bezpośrednio pod jęczmień daje słabe efekty – wapnuje się pod rośliny uprawiane wcześniej.",
+        "Jęczmień pastewny: P 40–80 kg, K 50–90 kg, N 80–120 kg czystego składnika na 1 ha.",
+        "Azot w 2 dawkach: 50% po ruszeniu wegetacji, 50% na początku strzelania w źdźbło.",
+        "Azot w 3 dawkach: 50% po ruszeniu wegetacji, 35% pod koniec krzewienia, 15% na początku kłoszenia.",
+        "Jęczmień browarny (białko w ziarnie nie więcej niż 11%) – azot ograniczony do 40–60 kg/ha.",
+        "Mikroelementy stosuje się po stwierdzeniu niedoboru.",
+        "W warunkach suszy 3. dawkę azotu dla jęczmienia ozimego można zastąpić nawozami płynnymi."
+      ]
+    },
+    {
+      "heading": "6. Zabiegi uprawowe",
+      "points": [
+        "Cele: poprawa struktury gleby i stosunków powietrzno-wodnych, zwalczanie chwastów; obejmują uprawki pożniwne i przedsiewne.",
+        "Po przedplonach zostawiających ściernisko – płytka podorywka; przy braku czasu kultywator lub brona talerzowa.",
+        "Następnie 2–3 razy bronowanie lub płytkie kultywatorowanie (2–4 cm) przeciw chwastom.",
+        "Orka siewna na 15–20 cm z bronowaniem, 2–3 tygodnie przed siewem (naturalne osiadanie gleby).",
+        "Przy opóźnionej orce siewnej – pług z wałem Campbella.",
+        "Przed siewem – agregat: kultywator + wał strunowy; na glebach ciężkich wcześniej wał kruszący.",
+        "Nawozy P i K wysiewa się przed orką siewną lub zabiegami doprawiającymi.",
+        "Po okopowych uprawa uproszczona: kultywator z zębami sztywnymi, przed siewem agregat (kultywator + wał strunowy) lub rototiller."
+      ]
+    },
+    {
+      "heading": "7. Materiał siewny i siew",
+      "points": [
+        "Ziarno siewne: czystość co najmniej 98%, zdolność kiełkowania nie mniej niż 90%, wolne od chorób, zaprawione fungicydami o szerokim spektrum; najlepiej kwalifikowane.",
+        "Ilość wysiewu: żyto 100–160, pszenica ozima 160–240, pszenżyto ozime 150–220, jęczmień ozimy 140–190 kg/ha.",
+        "Ilość wysiewu zależy od odmiany, terminu siewu i gleby.",
+        "Do obliczania ilości wysiewu: X – ilość wysiewu (kg/ha), Z – liczba roślin/m² po wschodach, MTN – masa 1000 nasion (g), W – wartość użytkowa (%).",
+        "Wartość użytkowa W = (zdolność kiełkowania + czystość) – 100.",
+        "Rozstaw rzędów 10–15 cm; głębokość siewu: gleby cięższe, wilgotne 2–3 cm, lekkie i przesychające 3–5 cm.",
+        "Energię kiełkowania ustala się na podstawie frakcji nasion, które wykiełkowały w najkrótszym czasie charakterystycznym dla gatunku.",
+        "Jęczmień ozimy – termin średnio wczesny: 10–15 IX (wschód), 12–18 IX (centrum), 16–20 IX (zachód).",
+        "Ziarno siewne nie powinno zawierać zanieczyszczeń organicznych i mineralnych ani nasion chwastów.",
+        "Wzór na ilość wysiewu: X = Z × MTN / W (X – kg/ha, Z – liczba roślin na m² po wschodach, MTN – masa 1000 nasion w g, W – wartość użytkowa w %). W materiale wzór wydrukowano z błędem jako „Z · X · MNT / W”.",
+        "Siew wykonuje się siewnikami zbożowymi; rozstaw rzędów 10–15 cm zależnie od zaleceń producentów materiału siewnego.",
+        "Terminy siewu pszenicy ozimej (rys. 4.3, O – optymalny, D – dopuszczalny opóźniony): północ O 20 IX–5 X, D do 10 X; północny wschód O 15–20 IX, D 25–30 IX; zachód O 25 IX–5 X, D 10–15 X; centrum O 20–30 IX, D do 5 X; południowy zachód O 25 IX–10 X, D 20–25 X; południe O 20–30 IX, D do 5 X.",
+        "Terminy siewu żyta (rys. 4.4) i pszenżyta (rys. 4.5 – te same strefy): zachód O 20 IX–5 X, D 15 X; centrum O 15–25 IX, D 10 X; wschód O 10–25 IX, D 5 X; północny wschód O 20 IX–10 X, D 20 X."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/termin-siewu-pszenicy-ozimej.jpg",
+          "caption": "Terminy siewu pszenicy ozimej (O – optymalny, D – dopuszczalny opóźniony): północ O 20 IX–5 X, D do 10 X; północny wschód O 15–20 IX, D 25–30 IX; zachód O 25 IX–5 X, D 10–15 X; centrum O 20–30 IX, D do 5 X; południowy zachód O 25 IX–10 X, D 20–25 X; południe O 20–30 IX, D do 5 X."
+        },
+        {
+          "src": "img/ur4/termin-siewu-zyta.jpg",
+          "caption": "Terminy siewu żyta (O – optymalny, D – dopuszczalny opóźniony), wg mapy: zachód O 20 IX–5 X, D 15 X; centrum O 15–25 IX, D 10 X; wschód O 10–25 IX, D 5 X; północny wschód O 20 IX–10 X, D 20 X."
+        },
+        {
+          "src": "img/ur4/termin-siewu-pszenzyta.jpg",
+          "caption": "Optymalne terminy siewu pszenżyta – w materiale mapa ma te same strefy i daty co mapa żyta (zachód O 20 IX–5 X, centrum O 15–25 IX, wschód O 10–25 IX, północny wschód O 20 IX–10 X)."
+        }
+      ]
+    },
+    {
+      "heading": "8. Zapobieganie chorobom, szkodnikom i chwastom",
+      "points": [
+        "Ochronę prowadzi się wg zaleceń Instytutu Ochrony Roślin; fungicydy o jak najszerszym spektrum.",
+        "Zabiegi agrotechniczne ograniczające agrofagi: termin siewu, nawożenie, odmiany odporne, zdrowy kwalifikowany materiał zaprawiony, zabiegi uprawowe i pielęgnacyjne.",
+        "Zapobieganie szkodnikom w oziminach: terminowa podorywka i głęboka orka siewna, wyższe nawożenie mineralne, zaprawy owadobójcze.",
+        "Choroby zbóż ozimych m.in.: mączniak prawdziwy, rdza brunatna, septoriozy, fuzarioza kłosów, choroby podstawy źdźbła, pleśń śniegowa, rynchosporioza.",
+        "Choroby specyficzne: rdza żółta (pszenżyto), rdza źdźbłowa (żyto), plamistość siatkowa i rdza jęczmienia (jęczmień ozimy).",
+        "Szkodniki m.in.: lednica zbożowa, lenie, mszyce, ploniarka zbożówka, pryszczarki, rolnice, skrzypionki, śmietka ozimówka, żółwinek zbożowy.",
+        "Chwasty – wszystkie rośliny niepożądane w uprawie.",
+        "Groźne chwasty ozimin: miotła zbożowa i wyczyniec polny (jednoliścienne), przytulia czepna, chaber bławatek, rumianowate, wieloletnie (perz, ostrożeń polny, skrzyp polny).",
+        "Zachwaszczeniu sprzyja monokultura i herbicydy o tej samej lub podobnej substancji czynnej.",
+        "Zapobieganie chwastom: wczesna podorywka, kilkakrotne bronowanie lub płytkie kultywatorowanie; przy silnym perzu przed orką siewną nieselektywny glifosat.",
+        "Pełna lista chorób zbóż ozimych: mączniak prawdziwy, rdza brunatna, brunatna plamistość liści, septorioza liści, septorioza plew, fuzarioza kłosów, choroby podstawy źdźbła (zgorzel podstawy źdźbła, łamliwość podstawy źdźbła), pleśń śniegowa, rynchosporioza, rdza żółta (pszenżyto), rdza źdźbłowa (żyto), plamistość siatkowa (jęczmień ozimy), rdza jęczmienia.",
+        "Pełna lista szkodników zbóż ozimych: lednica zbożowa, lenie, łokaś garbatek, miniarki, mszyce, nałanek kłosiec, niezmiarka paskowana, paciornica pszeniczanka, ploniarka zbożówka, pryszczarek pszeniczny, pryszczarek zbożowiec, rolnice, skoczek sześciorek, skrzypionki, śmietka ozimówka, wciornastki, żółwinek zbożowy.",
+        "Metody agrotechniczne ograniczają choroby i szkodniki przez zabiegi uprawowe i pielęgnacyjne oraz przestrzeganie zasad zmianowania – tworzą roślinom korzystne warunki wzrostu.",
+        "Herbicydy można stosować w uprawie uproszczonej, gdy nie wykonuje się orki siewnej, a jedynie przygotowanie pola agregatem uprawowym.",
+        "Wideokast – metody zapobiegania chorobom: płodozmian, zaprawianie nasion fungicydami, siew nasion kwalifikowanych wolnych od chorób i odmian odpornych, zabiegi agrotechniczne, głęboka orka siewna, wiosenne bronowanie, odpowiednie nawożenie."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/chaber-blawatek.jpg",
+          "caption": "Chaber bławatek – chwast w uprawach zbóż (niebieskie kwiaty wśród kłosów)."
+        }
+      ]
+    },
+    {
+      "heading": "9. Technologie uprawy",
+      "points": [
+        "Dwie technologie: pełna oraz uproszczona (bez orki siewnej).",
+        "Pełna po zbożach: podorywka (lub brona talerzowa), bronowanie/płytkie kultywatorowanie (lub herbicydy), orka siewna, bronowanie lub agregat przedsiewny, siew.",
+        "Uproszczona: podorywka lub głębokie spulchnianie kultywatorem, bronowanie/płytkie kultywatorowanie (ew. herbicydy), agregat przedsiewny, siew.",
+        "Technologia uproszczona daje nieco niższe plony, ale lepszy efekt ekonomiczny.",
+        "Zabiegi w wegetacji: wiosenna pielęgnacja, nawożenie, ochrona roślin, zbiór."
+      ]
+    },
+    {
+      "heading": "10. Środki ochrony roślin",
+      "points": [
+        "Fungicydy stosuje się zwykle od początku strzelania w źdźbło do końca kłoszenia lub kwitnienia.",
+        "Zoocydy w oziminach – takie same jak w zbożach jarych.",
+        "Chwasty zwalcza się jesienią lub wiosną; wiosną herbicydy po ruszeniu wegetacji – od początku krzewienia do początku strzelania w źdźbło.",
+        "Pierwszy zabieg przeciw chorobom – zaprawianie (np. Kinto Duo FS, Baytan Uniwersalny 094 FS, Certicor 050 FS).",
+        "W wegetacji: Atlas 500 SC – mączniak prawdziwy w pszenicy i jęczmieniu ozimym (zapobiegawczo lub przy pierwszych objawach); Mondatak 450 EC, Lotus 750 EC, Rubric 125 SC – większość chorób zbóż.",
+        "Herbicydy jesienne: Tolurex 500 SC (miotła zbożowa, tomka oścista, dwuliścienne), Maraton 375 SC, preparaty z diflufenikanem (np. Legato 500 SC), Aminopielik Super 464 SL, Komplet 560 SC.",
+        "Herbicyd wiosenny Nomad 75 WG – m.in. miotła zbożowa, samosiewy rzepaku, przytulia czepna, mak polny, fiołek polny.",
+        "Herbicydy stosuje się zgodnie z instrukcją.",
+        "Tab. 4.3 – Tolurex 500 SC (jesień): miotła zbożowa, tomka oścista i dwuliścienne – chaber, gwiazdnica, jasnota różowa, rdest ptasi, rumianek pospolity, tobołki.",
+        "Tab. 4.3 – Maraton 375 SC (jesień): miotła zbożowa i dwuliścienne – chaber, gorczyca, gwiazdnica, jasnoty, przetaczniki, rdesty, rumianowate, rzodkiew.",
+        "Tab. 4.3 – herbicydy z diflufenikanem (jesień: Agro Diflufenikan 500 SC, Di eF eF 500 SC, Diflanil 500 SC, Golden Fenikan 500 SC, Helm DFF 500 SC, Komandos 500 SC, Legato 500 SC, Mac-Diflufenikan 500 SC, Pro-Fenikan 500 SC, Saper 500 SC): dwuliścienne – bodziszek, dymnica, fiołek, gwiazdnica, jasnoty, kapustowate, przetaczniki, przytulia, rdesty, rumianowate.",
+        "Tab. 4.3 – Aminopielik Super 464 SL (jesień): dwuliścienne – chaber, gwiazdnica, niektóre kapustowate, maki, przytulia, rdesty, rumianki, rumiany.",
+        "Tab. 4.3 – Komplet 560 SC (jesień): miotła zbożowa i dwuliścienne – dymnica, fiołek polny, gwiazdnica, jasnoty, kapustowate, mak, niezapominajka, przetaczniki, przytulia, rdesty, rumianki, rumiany, złocień.",
+        "Tab. 4.3 – Nomad 75 WG (wiosna): miotła zbożowa, rumian polny, samosiewy rzepaku, tasznik pospolity, maruna bezwonna, gwiazdnica pospolita, przetacznik bluszczykowy i perski, przytulia czepna, bodziszek drobny, jasnota purpurowa, niezapominajka polna, mak polny, fiołek polny."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/tab-herbicydy-oziminy.jpg",
+          "caption": "Tabela 4.3 – przykładowe herbicydy w zbożach ozimych do stosowania jesienią i wiosną oraz zwalczane przez nie chwasty."
+        }
+      ]
+    },
+    {
+      "heading": "11–12. Zabiegi pielęgnacyjne i zbiór",
+      "points": [
+        "Cele pielęgnacji: przeciwdziałanie zaskorupieniu, zwalczanie chwastów, przeciwdziałanie wyleganiu.",
+        "Po siewie lub razem z siewem – brona lekka (przykrycie nasion); skorupę przed wschodami kruszy się broną ciężką lub lekkim wałem kolczastym.",
+        "Podstawowy zabieg wiosenny – bronowanie (pobudzenie roślin, niszczenie chwastów), potem azot i herbicydy.",
+        "Wiosną zwalcza się też choroby i szkodniki.",
+        "Wyleganiu zapobiegają regulatory wzrostu (antywylegacze), np. Antywylegacz płynny 675 SL, Cerone 480 SL.",
+        "Zbiór i przechowywanie – jak w module III (zboża jare)."
+      ],
+      "images": [
+        {
+          "src": "img/ur4/cele-zabiegow-pielegnacyjnych.jpg",
+          "caption": "Cele zabiegów pielęgnacyjnych w zbożach ozimych: przeciwdziałanie zaskorupieniu gleby (bronowanie lekką broną po siewie, ciężką broną lub wałem kolczastym przed wschodami), zwalczanie zachwaszczenia (herbicydy, bronowanie) i przeciwdziałanie wyleganiu (regulatory wzrostu – antywylegacze)."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "O ile wyżej plonują zboża ozime niż jare?",
+      "back": "O ok. 20–30%."
+    },
+    {
+      "front": "Główne ryzyko uprawy zbóż ozimych",
+      "back": "Całkowita utrata plonu przez wymarznięcie lub wygnicie przy nadmiarze wody wiosną."
+    },
+    {
+      "front": "Udział pszenicy w strukturze zasiewów zbóż (2012)",
+      "back": "27% (ok. 75% to forma ozima)."
+    },
+    {
+      "front": "Udział żyta w zasiewach zbóż (2012)",
+      "back": "13,5%."
+    },
+    {
+      "front": "Udział pszenżyta w zasiewach zbóż (2012)",
+      "back": "12,8% (ok. 80% to forma ozima)."
+    },
+    {
+      "front": "Jaka część jęczmienia to forma ozima?",
+      "back": "Ok. 15%."
+    },
+    {
+      "front": "W jakiej formie uprawia się żyto?",
+      "back": "Praktycznie tylko ozimej."
+    },
+    {
+      "front": "Liczba odmian zbóż ozimych w rejestrze COBORU",
+      "back": "Ponad 150."
+    },
+    {
+      "front": "Pszenica orkiszowa – przykładowa odmiana i cecha",
+      "back": "Rokosz; szczególne walory odżywcze."
+    },
+    {
+      "front": "Pszenica twarda – przeznaczenie i odmiana",
+      "back": "Produkcja makaronów; Komnata."
+    },
+    {
+      "front": "Grupy technologiczne pszenicy zwyczajnej",
+      "back": "Elitarna, jakościowa, chlebowa, pastewna, na ciastka."
+    },
+    {
+      "front": "Przykład pszenicy elitarnej",
+      "back": "Astoria."
+    },
+    {
+      "front": "Jęczmień ozimy browarny – ile rzędów, odmiany",
+      "back": "2-rzędowy; Wintmalt, Tiffany, Nickela."
+    },
+    {
+      "front": "Jęczmień ozimy pastewny – ile rzędów, ile odmian",
+      "back": "6-rzędowy; 26 odmian (np. Bartosz, Bażant, Marlot)."
+    },
+    {
+      "front": "Liczba odmian pszenżyta ozimego i żyta ozimego w rejestrze",
+      "back": "Po 38."
+    },
+    {
+      "front": "Odmiany syntetyczne żyta",
+      "back": "Powstają z wzajemnego przepylenia 5 linii hodowlanych (np. Herakles)."
+    },
+    {
+      "front": "Odmiany mieszańcowe żyta",
+      "back": "Z wzajemnego przepylenia 2 linii hodowlanych (np. Stah, Visello)."
+    },
+    {
+      "front": "Odmiany liniowo-populacyjne żyta",
+      "back": "Zapylenie w obrębie 1 linii hodowlanej (np. Gradan)."
+    },
+    {
+      "front": "Mrozoodporność żyta",
+      "back": "Znosi –30°C bez okrywy śnieżnej."
+    },
+    {
+      "front": "Optymalna temperatura rozwoju żyta",
+      "back": "10–15°C (rozwija się już w 1–2°C)."
+    },
+    {
+      "front": "Wpływ temperatur powyżej 30°C na żyto",
+      "back": "Hamuje wzrost, pogarsza zapłodnienie, przyspiesza dojrzewanie, gorsze ziarno."
+    },
+    {
+      "front": "Dlaczego żyto ma niskie wymagania wodne?",
+      "back": "Mocny, silnie rozwinięty system korzeniowy i słabsze ulistnienie."
+    },
+    {
+      "front": "Mrozoodporność pszenicy ozimej",
+      "back": "–20°C bez śniegu, –30°C pod śniegiem; przymrozki wiosenne do –5°C."
+    },
+    {
+      "front": "Temperatura kiełkowania i optimum pszenicy ozimej",
+      "back": "Kiełkuje w 2–3°C; optimum 16–20°C."
+    },
+    {
+      "front": "Okres krytyczny dla wody u pszenicy ozimej",
+      "back": "Strzelanie w źdźbło (czerwiec)."
+    },
+    {
+      "front": "Najbardziej wrażliwe na mróz zboże ozime",
+      "back": "Jęczmień ozimy – wytrzymuje do –13°C."
+    },
+    {
+      "front": "Temperatura kiełkowania pszenżyta ozimego",
+      "back": "2–6°C."
+    },
+    {
+      "front": "Optymalna temperatura rozwoju pszenżyta ozimego",
+      "back": "8–14°C (w wypełnianiu ziarna 16–17°C)."
+    },
+    {
+      "front": "Zboże ozime o najmniejszych / największych wymaganiach glebowych",
+      "back": "Żyto / pszenica."
+    },
+    {
+      "front": "Zalecane klasy gleb pod żyto",
+      "back": "IV i V (kompleksy żytnie)."
+    },
+    {
+      "front": "Do jakiego pH żyto znosi zakwaszenie?",
+      "back": "Do pH 5,0."
+    },
+    {
+      "front": "Najlepsze kompleksy dla pszenicy ozimej",
+      "back": "Pszenny bardzo dobry i pszenny dobry."
+    },
+    {
+      "front": "Warunek wysokich plonów pszenicy na kompleksie żytnim bardzo dobrym",
+      "back": "Optymalne pH 6,5."
+    },
+    {
+      "front": "Na którym kompleksie pszenżyto plonuje lepiej niż pszenica, żyto i jęczmień?",
+      "back": "Na żytnim bardzo dobrym."
+    },
+    {
+      "front": "Optymalne pH dla jęczmienia ozimego",
+      "back": "5,4–7,5."
+    },
+    {
+      "front": "Po ilu tygodniach od orki siewnej siać w odleżałą glebę?",
+      "back": "Po 2–3 tygodniach."
+    },
+    {
+      "front": "Które zboże ozime nie wymaga odleżałej gleby?",
+      "back": "Pszenica."
+    },
+    {
+      "front": "Najlepsze przedplony dla zbóż",
+      "back": "Rośliny niezbożowe."
+    },
+    {
+      "front": "Dobre przedplony dla żyta",
+      "back": "Motylkowate i wczesne ziemniaki."
+    },
+    {
+      "front": "Dobre przedplony dla pszenicy i jęczmienia ozimego",
+      "back": "Rzepak, wczesne i średnio wczesne ziemniaki, motylkowate."
+    },
+    {
+      "front": "Dlaczego pszenicy i jęczmienia nie sieje się po sobie?",
+      "back": "Silne porażenie chorobami podstawy źdźbła."
+    },
+    {
+      "front": "Najlepsze przedplony dla pszenżyta",
+      "back": "Wczesne strączkowe na nasiona, motylkowate wieloletnie, wczesne i średnio wczesne ziemniaki."
+    },
+    {
+      "front": "Po jakich zbożach unikać pszenżyta?",
+      "back": "Po pszenicy i życie – wspólne choroby."
+    },
+    {
+      "front": "Nawóz zielony stosowany pod żyto na glebach lekkich",
+      "back": "Najczęściej z łubinu."
+    },
+    {
+      "front": "W którym roku po oborniku uprawia się zboża ozime?",
+      "back": "Najczęściej w drugim."
+    },
+    {
+      "front": "Dawka N dla pszenicy ozimej przy plonie 10 t/ha",
+      "back": "160 kg N/ha."
+    },
+    {
+      "front": "Dawka N dla żyta przy plonie 8 t/ha",
+      "back": "140 kg N/ha."
+    },
+    {
+      "front": "Dawka N dla pszenżyta przy plonie 10 t/ha",
+      "back": "140 kg N/ha."
+    },
+    {
+      "front": "Podział azotu na 2 dawki w oziminach",
+      "back": "Ruszenie wegetacji 60%, strzelanie w źdźbło 40%."
+    },
+    {
+      "front": "Podział azotu na 3 dawki w oziminach",
+      "back": "Ruszenie wegetacji 50%, strzelanie w źdźbło 30%, kłoszenie 20%."
+    },
+    {
+      "front": "Co zamiast 3. dawki azotu w czasie suszy?",
+      "back": "Dokarmianie nawozami płynnymi."
+    },
+    {
+      "front": "Dlaczego nie wapnuje się bezpośrednio pod jęczmień ozimy?",
+      "back": "Daje to słabe efekty – wapnuje się pod przedplony."
+    },
+    {
+      "front": "Dawki NPK dla jęczmienia ozimego pastewnego",
+      "back": "N 80–120, P 40–80, K 50–90 kg/ha."
+    },
+    {
+      "front": "Podział azotu na 3 dawki dla jęczmienia ozimego",
+      "back": "50% po ruszeniu wegetacji, 35% pod koniec krzewienia, 15% na początku kłoszenia."
+    },
+    {
+      "front": "Dawka azotu dla jęczmienia browarnego",
+      "back": "40–60 kg/ha (białko w ziarnie nie więcej niż 11%)."
+    },
+    {
+      "front": "Głębokość płytkiego kultywatorowania po podorywce",
+      "back": "2–4 cm (2–3 razy)."
+    },
+    {
+      "front": "Głębokość orki siewnej pod oziminy",
+      "back": "15–20 cm."
+    },
+    {
+      "front": "Termin orki siewnej",
+      "back": "2–3 tygodnie przed siewem."
+    },
+    {
+      "front": "Co stosować przy opóźnionej orce siewnej?",
+      "back": "Pług z wałem Campbella."
+    },
+    {
+      "front": "Czym doprawia się glebę ciężką przed siewem?",
+      "back": "Wałem kruszącym, potem agregatem (kultywator + wał strunowy)."
+    },
+    {
+      "front": "Uproszczona uprawa po okopowych",
+      "back": "Kultywator z zębami sztywnymi, przed siewem agregat lub rototiller."
+    },
+    {
+      "front": "Minimalna czystość ziarna siewnego",
+      "back": "98%."
+    },
+    {
+      "front": "Minimalna zdolność kiełkowania ziarna siewnego",
+      "back": "90%."
+    },
+    {
+      "front": "Ilość wysiewu żyta",
+      "back": "100–160 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu pszenicy ozimej",
+      "back": "160–240 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu pszenżyta ozimego",
+      "back": "150–220 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu jęczmienia ozimego",
+      "back": "140–190 kg/ha."
+    },
+    {
+      "front": "Wartość użytkowa materiału siewnego – wzór",
+      "back": "W = (zdolność kiełkowania + czystość) – 100."
+    },
+    {
+      "front": "MTN – co oznacza?",
+      "back": "Masa 1000 nasion (g)."
+    },
+    {
+      "front": "Głębokość siewu ozimin na glebach cięższych / lekkich",
+      "back": "2–3 cm / 3–5 cm."
+    },
+    {
+      "front": "Energia kiełkowania",
+      "back": "Frakcja nasion, które wykiełkowały w najkrótszym czasie charakterystycznym dla gatunku."
+    },
+    {
+      "front": "Termin siewu jęczmienia ozimego w rejonie centralnym",
+      "back": "12–18 września."
+    },
+    {
+      "front": "Termin siewu jęczmienia ozimego na wschodzie / zachodzie",
+      "back": "10–15 września / 16–20 września."
+    },
+    {
+      "front": "Choroba specyficzna pszenżyta",
+      "back": "Rdza żółta."
+    },
+    {
+      "front": "Choroba specyficzna żyta",
+      "back": "Rdza źdźbłowa."
+    },
+    {
+      "front": "Choroby specyficzne jęczmienia ozimego",
+      "back": "Plamistość siatkowa, rdza jęczmienia."
+    },
+    {
+      "front": "Jednoliścienne groźne chwasty ozimin",
+      "back": "Miotła zbożowa i wyczyniec polny."
+    },
+    {
+      "front": "Co sprzyja zachwaszczeniu pól?",
+      "back": "Monokultura i herbicydy o tej samej lub podobnej substancji czynnej."
+    },
+    {
+      "front": "Herbicyd przy silnym perzu przed orką siewną",
+      "back": "Nieselektywny, dolistny, z glifosatem."
+    },
+    {
+      "front": "Technologie uprawy zbóż ozimych",
+      "back": "Pełna i uproszczona (bez orki siewnej)."
+    },
+    {
+      "front": "Efekt technologii uproszczonej",
+      "back": "Nieco niższe plony, ale lepszy efekt ekonomiczny."
+    },
+    {
+      "front": "Okres stosowania fungicydów w oziminach",
+      "back": "Od początku strzelania w źdźbło do końca kłoszenia lub kwitnienia."
+    },
+    {
+      "front": "Termin wiosennych herbicydów w oziminach",
+      "back": "Po ruszeniu wegetacji, od początku krzewienia do początku strzelania w źdźbło."
+    },
+    {
+      "front": "Atlas 500 SC – przeciw czemu?",
+      "back": "Mączniakowi prawdziwemu w pszenicy i jęczmieniu ozimym."
+    },
+    {
+      "front": "Czym kruszy się skorupę przed wschodami ozimin?",
+      "back": "Broną ciężką lub lekkim wałem kolczastym."
+    },
+    {
+      "front": "Podstawowy wiosenny zabieg pielęgnacyjny w oziminach",
+      "back": "Bronowanie."
+    },
+    {
+      "front": "Antywylegacze – przykłady",
+      "back": "Antywylegacz płynny 675 SL, Cerone 480 SL."
+    },
+    {
+      "front": "Nazwij zboża ozime na zdjęciach (góra: lewa, prawa; dół: lewa, prawa).",
+      "back": "Pszenica (kłos i ziarno), żyto; jęczmień, pszenżyto.",
+      "img": "img/ur4/klosy-zboz-ozimych.jpg"
+    },
+    {
+      "front": "Jaki optymalny termin siewu pszenicy ozimej podaje mapa dla północnego wschodu i dla centrum Polski?",
+      "back": "Północny wschód: O 15–20 IX (D 25–30 IX); centrum: O 20–30 IX (D do 5 X).",
+      "img": "img/ur4/termin-siewu-pszenicy-ozimej.jpg"
+    },
+    {
+      "front": "Jaki optymalny termin siewu żyta podaje mapa dla centrum i dla wschodu Polski?",
+      "back": "Centrum: O 15–25 IX (D 10 X); wschód: O 10–25 IX (D 5 X).",
+      "img": "img/ur4/termin-siewu-zyta.jpg"
+    },
+    {
+      "front": "Jaki chwast zbóż ma niebieskie kwiaty?",
+      "back": "Chaber bławatek.",
+      "img": "img/ur4/chaber-blawatek.jpg"
+    },
+    {
+      "front": "Wzór na ilość wysiewu zbóż",
+      "back": "X = Z × MTN / W; X – ilość wysiewu (kg/ha), Z – liczba roślin/m² po wschodach, MTN – masa 1000 nasion (g), W – wartość użytkowa (%)."
+    },
+    {
+      "front": "Dawki K2O dla pszenżyta ozimego wg plonu 6/7/9/10 t/ha",
+      "back": "85 / 100 / 125 / 120 kg K2O/ha."
+    },
+    {
+      "front": "Dawki P2O5 i K2O dla pszenicy ozimej przy plonie 8 t/ha",
+      "back": "P2O5 70, K2O 80 kg/ha (N 120, MgO 25)."
+    },
+    {
+      "front": "Choroby podstawy źdźbła zbóż ozimych",
+      "back": "Zgorzel podstawy źdźbła i łamliwość podstawy źdźbła."
+    },
+    {
+      "front": "Herbicyd jesienny Tolurex 500 SC – co zwalcza?",
+      "back": "Miotłę zbożową, tomkę ościstą i dwuliścienne: chaber, gwiazdnicę, jasnotę różową, rdest ptasi, rumianek pospolity, tobołki."
+    },
+    {
+      "front": "Jaka substancja czynna łączy herbicydy Legato 500 SC, Komandos 500 SC, Saper 500 SC?",
+      "back": "Diflufenikan – zwalcza chwasty dwuliścienne (stosowane jesienią)."
+    },
+    {
+      "front": "Herbicyd Komplet 560 SC – termin i zakres",
+      "back": "Jesienią; miotła zbożowa i chwasty dwuliścienne (m.in. fiołek polny, gwiazdnica, mak, przytulia, przetaczniki, rumiany)."
+    },
+    {
+      "front": "Przykłady szkodników zbóż ozimych z rodziny pryszczarek",
+      "back": "Pryszczarek pszeniczny i pryszczarek zbożowiec."
+    },
+    {
+      "front": "Dlaczego zboża ozime uprawia się po wcześnie schodzących przedplonach?",
+      "back": "By zdążyć odpowiednio przygotować glebę i zachować termin siewu (siew w odleżałą glebę 2–3 tygodnie po orce)."
+    },
+    {
+      "front": "Wymagania ziarna siewnego zbóż ozimych",
+      "back": "Czystość min. 98% (bez zanieczyszczeń organicznych, mineralnych i nasion chwastów), zdolność kiełkowania min. 90%, wolne od chorób, zaprawione fungicydami o szerokim spektrum."
+    },
+    {
+      "front": "Terminy siewu pszenicy ozimej wg mapy – zachód, południowy zachód, północ Polski",
+      "back": "Zachód: O 25 IX–5 X (D 10–15 X); południowy zachód: O 25 IX–10 X (D 20–25 X); północ: O 20 IX–5 X (D do 10 X)."
+    },
+    {
+      "front": "Terminy siewu żyta i pszenżyta wg mapy – zachód i północny wschód Polski",
+      "back": "Zachód: O 20 IX–5 X (D 15 X); północny wschód: O 20 IX–10 X (D 20 X)."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla żyta przy plonie 6 t/ha (Tab. 4.1)",
+      "back": "N 100, P2O5 55, K2O 100, MgO 20 kg/ha."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla pszenżyta ozimego przy plonie 7 t/ha (Tab. 4.1)",
+      "back": "N 100, P2O5 70, K2O 100, MgO 20 kg/ha."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Zboża ozime plonują w porównaniu ze zbożami jarymi:",
+      "options": [
+        "o ok. 50% niżej",
+        "tak samo",
+        "o ok. 20–30% wyżej",
+        "o ok. 5% niżej"
+      ],
+      "answer": 2,
+      "explain": "Zboża ozime osiągają plony o około 20–30% wyższe od zbóż jarych."
+    },
+    {
+      "q": "Największy udział w strukturze zasiewów zbóż w 2012 r. miała:",
+      "options": [
+        "pszenica",
+        "żyto",
+        "pszenżyto",
+        "owies"
+      ],
+      "answer": 0,
+      "explain": "Pszenica zajmowała 27% powierzchni zasiewów zbóż."
+    },
+    {
+      "q": "Forma ozima stanowi około 80% powierzchni zasiewów:",
+      "options": [
+        "jęczmienia",
+        "owsa",
+        "kukurydzy",
+        "pszenżyta"
+      ],
+      "answer": 3,
+      "explain": "Pszenżyto ozime zajmuje ok. 80% powierzchni zasiewów pszenżyta."
+    },
+    {
+      "q": "Pszenicę twardą uprawia się przede wszystkim do produkcji:",
+      "options": [
+        "ciastek",
+        "makaronów",
+        "piwa",
+        "paszy"
+      ],
+      "answer": 1,
+      "explain": "Pszenica twarda służy do produkcji makaronów."
+    },
+    {
+      "q": "Odmiany browarne jęczmienia ozimego są:",
+      "options": [
+        "6-rzędowe",
+        "2-rzędowe",
+        "4-rzędowe",
+        "8-rzędowe"
+      ],
+      "answer": 1,
+      "explain": "Odmiany browarne jęczmienia ozimego (Wintmalt, Tiffany, Nickela) są 2-rzędowe."
+    },
+    {
+      "q": "Odmiany syntetyczne żyta powstają z wzajemnego przepylenia:",
+      "options": [
+        "jednej linii",
+        "dwóch linii",
+        "trzech linii",
+        "pięciu linii hodowlanych"
+      ],
+      "answer": 3,
+      "explain": "Odmiany syntetyczne powstają z wzajemnego przepylenia pięciu linii hodowlanych."
+    },
+    {
+      "q": "Bez okrywy śnieżnej temperatury do –30°C znosi:",
+      "options": [
+        "żyto",
+        "pszenica ozima",
+        "jęczmień ozimy",
+        "pszenżyto ozime"
+      ],
+      "answer": 0,
+      "explain": "Żyto znosi temperatury do –30°C bez okrywy śnieżnej."
+    },
+    {
+      "q": "Najbardziej wrażliwym na niskie temperatury zbożem ozimym jest:",
+      "options": [
+        "żyto",
+        "pszenica ozima",
+        "jęczmień ozimy",
+        "pszenżyto ozime"
+      ],
+      "answer": 2,
+      "explain": "Jęczmień ozimy wytrzymuje tylko do –13°C."
+    },
+    {
+      "q": "Pszenica ozima bez okrywy śnieżnej znosi temperatury do:",
+      "options": [
+        "–5°C",
+        "–13°C",
+        "–40°C",
+        "–20°C"
+      ],
+      "answer": 3,
+      "explain": "Pszenica ozima znosi temperatury do –20°C bez okrywy śnieżnej."
+    },
+    {
+      "q": "Okresem krytycznym w zaopatrzeniu pszenicy ozimej w wodę jest faza:",
+      "options": [
+        "kiełkowania",
+        "krzewienia jesiennego",
+        "strzelania w źdźbło",
+        "dojrzałości pełnej"
+      ],
+      "answer": 2,
+      "explain": "Okres krytyczny pszenicy to faza strzelania w źdźbło (czerwiec)."
+    },
+    {
+      "q": "Optymalna temperatura rozwoju pszenicy ozimej wynosi:",
+      "options": [
+        "1–2°C",
+        "16–20°C",
+        "8–10°C",
+        "28–32°C"
+      ],
+      "answer": 1,
+      "explain": "Optymalna temperatura rozwoju pszenicy ozimej wynosi 16–20°C."
+    },
+    {
+      "q": "Pszenżyto ozime kiełkuje w temperaturze:",
+      "options": [
+        "2–6°C",
+        "0–1°C",
+        "10–12°C",
+        "16–17°C"
+      ],
+      "answer": 0,
+      "explain": "Pszenżyto kiełkuje w temperaturze 2–6°C."
+    },
+    {
+      "q": "Żyto ze względów ekonomicznych zaleca się uprawiać na glebach klasy:",
+      "options": [
+        "I i II",
+        "II i III",
+        "IV i V",
+        "VI"
+      ],
+      "answer": 2,
+      "explain": "Dla żyta zalecane są gleby klasy IV i V (kompleksy żytnie)."
+    },
+    {
+      "q": "Optymalne pH dla jęczmienia ozimego mieści się w przedziale:",
+      "options": [
+        "5,4–7,5",
+        "3,5–4,5",
+        "4,0–5,0",
+        "7,8–8,5"
+      ],
+      "answer": 0,
+      "explain": "Optymalne pH dla jęczmienia ozimego wynosi od 5,4 do 7,5."
+    },
+    {
+      "q": "Na kompleksie żytnim bardzo dobrym wysokie plony pszenicy ozimej uzyskuje się tylko przy pH:",
+      "options": [
+        "4,5",
+        "5,0",
+        "8,0",
+        "6,5"
+      ],
+      "answer": 3,
+      "explain": "Na kompleksie żytnim bardzo dobrym wysokie plony pszenicy można uzyskać jedynie przy pH 6,5."
+    },
+    {
+      "q": "Siew zbóż ozimych w odleżałą glebę powinien nastąpić po orce siewnej po:",
+      "options": [
+        "1–2 dniach",
+        "2–3 tygodniach",
+        "2–3 miesiącach",
+        "pół roku"
+      ],
+      "answer": 1,
+      "explain": "Siew powinien nastąpić w odleżałą glebę, czyli 2–3 tygodnie po orce."
+    },
+    {
+      "q": "Odleżałej gleby nie wymaga:",
+      "options": [
+        "żyto",
+        "pszenica",
+        "jęczmień ozimy",
+        "pszenżyto"
+      ],
+      "answer": 1,
+      "explain": "Pszenica nie wymaga odleżałej gleby."
+    },
+    {
+      "q": "Pszenicy ozimej nie należy uprawiać po sobie, ponieważ:",
+      "options": [
+        "wyczerpuje wapń",
+        "zbyt późno schodzi z pola",
+        "zakwasza glebę",
+        "jest silnie atakowana przez choroby podstawy źdźbła"
+      ],
+      "answer": 3,
+      "explain": "Pszenica i jęczmień ozimy nie mogą być wysiewane po sobie z powodu chorób podstawy źdźbła."
+    },
+    {
+      "q": "Pszenżyto w płodozmianie zastępuje głównie:",
+      "options": [
+        "żyto",
+        "rzepak",
+        "ziemniaki",
+        "buraki"
+      ],
+      "answer": 0,
+      "explain": "Pszenżyto w płodozmianie zastępować będzie głównie miejsce żyta."
+    },
+    {
+      "q": "Pod żyto na glebach lekkich stosuje się czasem nawozy zielone, najczęściej z:",
+      "options": [
+        "kukurydzy",
+        "rzepaku",
+        "łubinu",
+        "pszenicy"
+      ],
+      "answer": 2,
+      "explain": "Na glebach lekkich pod żyto stosuje się nawozy zielone, najczęściej z łubinu."
+    },
+    {
+      "q": "Zalecana dawka azotu dla pszenicy ozimej przy plonie 8 t/ha wynosi:",
+      "options": [
+        "40 kg N/ha",
+        "200 kg N/ha",
+        "260 kg N/ha",
+        "120 kg N/ha"
+      ],
+      "answer": 3,
+      "explain": "Dla pszenicy ozimej przy plonie 8 t/ha zaleca się 120 kg N/ha."
+    },
+    {
+      "q": "Przy podziale azotu na dwie dawki w oziminach pierwsza dawka (ruszenie wegetacji) wynosi:",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "100%"
+      ],
+      "answer": 2,
+      "explain": "W dwóch dawkach: I w okresie ruszenia wegetacji (60%), II w strzelaniu w źdźbło (40%)."
+    },
+    {
+      "q": "Przy podziale na trzy dawki trzecią dawkę azotu stosuje się:",
+      "options": [
+        "przed siewem",
+        "w czasie kłoszenia",
+        "jesienią",
+        "po zbiorze"
+      ],
+      "answer": 1,
+      "explain": "III dawkę azotu (20%) stosuje się w czasie kłoszenia."
+    },
+    {
+      "q": "W warunkach suszy trzecią dawkę azotu zastępuje się:",
+      "options": [
+        "dokarmianiem nawozami płynnymi",
+        "obornikiem",
+        "wapnowaniem",
+        "rezygnacją z nawożenia P"
+      ],
+      "answer": 0,
+      "explain": "W warunkach suszy lepsze efekty daje dokarmianie nawozami płynnymi zamiast trzeciej dawki."
+    },
+    {
+      "q": "Dla jęczmienia ozimego browarnego dawkę azotu ogranicza się do:",
+      "options": [
+        "10–20 kg/ha",
+        "120–160 kg/ha",
+        "40–60 kg/ha",
+        "200–250 kg/ha"
+      ],
+      "answer": 2,
+      "explain": "Dla jęczmienia browarnego dawkę azotu ograniczamy do 40–60 kg/ha."
+    },
+    {
+      "q": "Wapnowanie bezpośrednio pod jęczmień ozimy:",
+      "options": [
+        "daje słabe efekty",
+        "jest najskuteczniejsze",
+        "jest zabronione",
+        "zastępuje nawożenie azotem"
+      ],
+      "answer": 0,
+      "explain": "Wapnowanie bezpośrednio pod jęczmień daje słabe efekty – stosuje się je pod przedplony."
+    },
+    {
+      "q": "Orkę siewną pod zboża ozime wykonuje się na głębokość:",
+      "options": [
+        "2–4 cm",
+        "30–35 cm",
+        "40–50 cm",
+        "15–20 cm"
+      ],
+      "answer": 3,
+      "explain": "Orkę siewną wykonujemy na głębokość 15–20 cm."
+    },
+    {
+      "q": "Przy opóźnionym terminie orki siewnej stosuje się:",
+      "options": [
+        "włókę łąkową",
+        "pług z wałem Campbella",
+        "wał gładki po siewie",
+        "glebogryzarkę na 40 cm"
+      ],
+      "answer": 1,
+      "explain": "W przypadku opóźnionej orki siewnej należy zastosować pług i wał Campbella."
+    },
+    {
+      "q": "Minimalna czystość ziarna siewnego zbóż ozimych wynosi:",
+      "options": [
+        "80%",
+        "98%",
+        "85%",
+        "90%"
+      ],
+      "answer": 1,
+      "explain": "Ziarno siewne powinno mieć czystość co najmniej 98%."
+    },
+    {
+      "q": "Zdolność kiełkowania ziarna siewnego zbóż ozimych powinna wynosić co najmniej:",
+      "options": [
+        "50%",
+        "70%",
+        "98%",
+        "90%"
+      ],
+      "answer": 3,
+      "explain": "Ziarno siewne powinno mieć zdolność kiełkowania nie mniejszą niż 90%."
+    },
+    {
+      "q": "Orientacyjna ilość wysiewu pszenicy ozimej wynosi:",
+      "options": [
+        "160–240 kg/ha",
+        "60–90 kg/ha",
+        "100–120 kg/ha",
+        "300–350 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Ilość wysiewu pszenicy ozimej to 160–240 kg/ha."
+    },
+    {
+      "q": "Wartość użytkową materiału siewnego oblicza się jako:",
+      "options": [
+        "zdolność kiełkowania × czystość",
+        "MTN : zagęszczenie",
+        "(zdolność kiełkowania + czystość) – 100",
+        "czystość – zdolność kiełkowania"
+      ],
+      "answer": 2,
+      "explain": "W = (zdolność kiełkowania + czystość) – 100."
+    },
+    {
+      "q": "Na glebach lekkich i przesychających zboża ozime wysiewa się na głębokość:",
+      "options": [
+        "0,5–1 cm",
+        "6–8 cm",
+        "10–12 cm",
+        "3–5 cm"
+      ],
+      "answer": 3,
+      "explain": "Na glebach lekkich i wysychających głębokość siewu wynosi 3–5 cm."
+    },
+    {
+      "q": "Optymalny termin siewu jęczmienia ozimego w rejonie centralnym Polski to:",
+      "options": [
+        "1–5 sierpnia",
+        "1–10 października",
+        "12–18 września",
+        "20–30 października"
+      ],
+      "answer": 2,
+      "explain": "Jęczmień ozimy w rejonie centralnym wysiewa się 12–18 września."
+    },
+    {
+      "q": "Rdza źdźbłowa jest chorobą charakterystyczną dla:",
+      "options": [
+        "pszenżyta",
+        "żyta",
+        "jęczmienia ozimego",
+        "owsa"
+      ],
+      "answer": 1,
+      "explain": "Rdza źdźbłowa występuje na życie."
+    },
+    {
+      "q": "Przy silnym zachwaszczeniu perzem przed orką siewną można zastosować herbicyd zawierający:",
+      "options": [
+        "glifosat",
+        "propyzamid",
+        "diflufenikan w dawce jesiennej",
+        "regulatory wzrostu"
+      ],
+      "answer": 0,
+      "explain": "Przy silnym nasileniu perzu stosuje się herbicydy nieselektywne z glifosatem."
+    },
+    {
+      "q": "Technologia uproszczona uprawy zbóż ozimych polega na:",
+      "options": [
+        "rezygnacji z siewu",
+        "rezygnacji z nawożenia",
+        "wyeliminowaniu orki siewnej",
+        "dwukrotnej orce"
+      ],
+      "answer": 2,
+      "explain": "Technologia uproszczona to wyeliminowanie orki siewnej z zabiegów przygotowujących glebę."
+    },
+    {
+      "q": "Wiosną herbicydy w zbożach ozimych stosuje się:",
+      "options": [
+        "od początku krzewienia do początku strzelania w źdźbło",
+        "w fazie dojrzałości woskowej",
+        "w czasie kwitnienia",
+        "po zbiorze"
+      ],
+      "answer": 0,
+      "explain": "Wiosną herbicydy stosujemy po ruszeniu wegetacji, od początku krzewienia do początku strzelania w źdźbło."
+    },
+    {
+      "q": "Skorupę glebową przed wschodami zbóż ozimych niszczy się:",
+      "options": [
+        "pługiem",
+        "opryskiem herbicydem",
+        "deszczownią",
+        "broną ciężką lub lekkim wałem kolczastym"
+      ],
+      "answer": 3,
+      "explain": "Zaskorupienie przed wschodami niszczy się broną ciężką lub lekkim wałem kolczastym."
+    },
+    {
+      "q": "Preparaty Cerone 480 SL i Antywylegacz płynny 675 SL służą do:",
+      "options": [
+        "zwalczania mszyc",
+        "przeciwdziałania wyleganiu",
+        "zwalczania mączniaka",
+        "zaprawiania nasion"
+      ],
+      "answer": 1,
+      "explain": "Regulatory wzrostu (antywylegacze), np. Cerone 480 SL, przeciwdziałają wyleganiu."
+    },
+    {
+      "q": "Wg mapy optymalny termin siewu pszenicy ozimej na północnym wschodzie Polski to:",
+      "options": [
+        "15–20 IX",
+        "25 IX–5 X",
+        "25 IX–10 X",
+        "20 IX–5 X"
+      ],
+      "answer": 0,
+      "explain": "Na północnym wschodzie sieje się najwcześniej: O 15–20 IX, D 25–30 IX.",
+      "img": "img/ur4/termin-siewu-pszenicy-ozimej.jpg"
+    },
+    {
+      "q": "Chwast na zdjęciu to:",
+      "options": [
+        "mak polny",
+        "chaber bławatek",
+        "przytulia czepna",
+        "miotła zbożowa"
+      ],
+      "answer": 1,
+      "explain": "Chaber bławatek – niebieskie kwiaty, groźny chwast ozimin.",
+      "img": "img/ur4/chaber-blawatek.jpg"
+    },
+    {
+      "q": "Który herbicyd z tabeli 4.3 przeznaczony jest do stosowania wiosną?",
+      "options": [
+        "Tolurex 500 SC",
+        "Maraton 375 SC",
+        "Nomad 75 WG",
+        "Komplet 560 SC"
+      ],
+      "answer": 2,
+      "explain": "Nomad 75 WG stosuje się wiosną (m.in. miotła zbożowa, samosiewy rzepaku, przytulia); pozostałe – jesienią."
+    },
+    {
+      "q": "Ile wynosi zalecana dawka azotu dla żyta przy plonie 6 t/ha?",
+      "options": [
+        "60 kg/ha",
+        "100 kg/ha",
+        "140 kg/ha",
+        "160 kg/ha"
+      ],
+      "answer": 1,
+      "explain": "Tab. 4.1: żyto 4 t – 60, 6 t – 100, 8 t – 140 kg N/ha."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zboża występują w formie jarej i ozimej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawa zbóż jest głównym kierunkiem działalności gospodarstw rolnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Plony zbóż ozimych są wyższe od plonów zbóż jarych o:",
+      "options": [
+        "10%.",
+        "40%.",
+        "65%.",
+        "20–30%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż czynniki ryzyka związane z uprawą zbóż ozimych.",
+      "options": [
+        "Częściowa utrata plonów w wyniku fali upałów.",
+        "Całkowita utrata plonów w wyniku wygnicia w przypadku zbyt dużej ilości wody wiosną.",
+        "Całkowita utrata plonów w wyniku wymarznięcia."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co jest celem zabiegów pielęgnacyjnych w zbożach ozimych?",
+      "options": [
+        "Przeciwdziałanie wyleganiu.",
+        "Przeciwdziałanie zaskorupieniu gleby.",
+        "Pobudzenie roślin do krzewienia.",
+        "Zwalczanie zachwaszczenia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż gatunki pszenicy.",
+      "options": [
+        "Twarda.",
+        "Orkiszowa.",
+        "Zwyczajna.",
+        "Miękka."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka pszenica służy do produkcji makaronów?",
+      "options": [
+        "Zwyczajna.",
+        "Twarda.",
+        "Żadna z wymienionych.",
+        "Orkiszowa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKomnata jest odmianą pszenicy orkiszowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie wyróżniamy rodzaje pszenicy zwyczajnej ze względu na wartość technologiczną?",
+      "options": [
+        "Pastewna.",
+        "Jakościowa.",
+        "Elitarna – Astoria.",
+        "Chlebowa."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWintmalt i Tiffany to odmiany jęczmienia typu paszowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która odmiana pszenicy służy do produkcji ciastek?",
+      "options": [
+        "Bagou.",
+        "Astoria.",
+        "Slade.",
+        "Żadna z wymienionych."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż typy żyta.",
+      "options": [
+        "Jednolite.",
+        "Mieszańcowe.",
+        "Syntetyczne.",
+        "Liniowo-populacyjne."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJęczmień ozimy ma najniższe wymagania klimatyczne, gdyż znosi temperatury do –30°C i rozwija się w temperaturze 1–2°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodstawowym wiosennym zabiegiem pielęgnacyjnym zbóż ozimych jest … w celu pobudzenia roślin i niszczenia chwastów.",
+      "options": [
+        "nawożenie",
+        "bronowanie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDzięki mocnemu i silnie rozwiniętemu systemowi korzeniowemu … ma dużo niższe wymagania wodne od pozostałych zbóż.",
+      "options": [
+        "pszenica",
+        "żyto"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalna temperatura rozwoju pszenicy ozimej to ….",
+      "options": [
+        "9°C",
+        "16–20°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakiej temperaturze kiełkuje pszenica ozima?",
+      "options": [
+        "-15°C.",
+        "8°C.",
+        "2–3°C.",
+        "powyżej 10°C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla żyta niekorzystny jest nadmiar wody w okresie wypełniania i dojrzewania, gdyż żyto może wylegać lub porastać w kłosach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTemperatury powyżej 30°C wpływają pozytywnie na żyto, ponieważ przyspieszają jego dojrzewanie i wzrost.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica jest słabo ulistniona, dlatego ma niski współczynnik transpiracji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które ze zbóż jest najbardziej wrażliwe na niskie temperatury i wytrzymuje tylko do –13°C?",
+      "options": [
+        "Żyto.",
+        "Jęczmień ozimy.",
+        "Pszenica ozima.",
+        "Pszenżyto ozime."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobór wody w okresie kłoszenia i kwitnienia ujemnie wpływa na wykształcanie ziarna jęczmienia ozimego, a zbyt duża ilość wody w tym okresie powoduje wyleganie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPośrednie wymagania cieplne pomiędzy zapotrzebowaniami żyta i pszenicy ma ….",
+      "options": [
+        "pszenżyto ozime",
+        "jęczmień ozimy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zabiegi zaliczymy do metod zapobiegania chorób u zbóż ozimych?",
+      "options": [
+        "Zaprawianie nasion zaprawami fungicydowymi.",
+        "Stosowanie odpowiedniego płodozmianu.",
+        "Odpowiednie nawożenie.",
+        "Wiosenne bronowanie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalna temperatura rozwoju pszenżyta ozimego to ….",
+      "options": [
+        "2–3°C",
+        "8–14°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSpośród zbóż ozimych najmniejsze wymagania glebowe ma ….",
+      "options": [
+        "pszenica.",
+        "żyto."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica ozima ma niskie wymagania glebowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż gleby, na których uprawa pszenicy ozimej obarczona jest ryzykiem i jest silnie zależna od warunków atmosferycznych.",
+      "options": [
+        "Gleby kompleksu żytniego bardzo dobrego.",
+        "Gleby kompleksu pszennego wadliwego.",
+        "Żadne z wymienionych.",
+        "Gleby kompleksu pszennego dobrego."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodczas uprawy pszenicy ozimej na kompleksie żytnim bardzo dobrym wysokie plony można uzyskać jedynie przy optymalnym pH 6,5.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPszenżyto najlepiej plonuje na kompleksach ….",
+      "options": [
+        "żytnim bardzo dobrym i dobrym",
+        "pszennym bardzo dobrym i dobrym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenżyto na kompleksie żytnim bardzo dobrym plonuje słabiej niż pszenica, żyto i jęczmień.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJęczmień ozimy ma większe wymagania glebowe niż pszenica.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalne pH gleby dla jęczmienia ozimego wynosi ….",
+      "options": [
+        "od 3,4 do 4,5",
+        "od 5,4 do 7,5"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJęczmień ozimy plonuje dobrze na glebach żytnich, gdy pH jest zbliżone do obojętnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku wykonywania orki siewnej siew nasion zbóż ozimych powinien nastąpić w odleżałą glebę, czyli po … tygodniach po wykonaniu orki.",
+      "options": [
+        "1-2",
+        "2-3"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNajlepszymi przedplonami dla zbóż są rośliny ….",
+      "options": [
+        "niezbożowe",
+        "zbożowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻyto dobrze plonuje po motylkowatych i wczesnych ziemniakach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica wymaga odleżałej gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNależy unikać uprawy pszenżyta po …, ponieważ obie uprawy przenoszą te same choroby.",
+      "options": [
+        "wczesnych ziemniakach",
+        "pszenicy i życie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNajwiększe znaczenie dla uzyskania wysokich plonów ma określenie dawki i terminów stosowania nawozów ….",
+      "options": [
+        "azotowych",
+        "potasowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW zależności od rodzaju gleby, jej zasobności i spodziewanego plonu dawki fosforu dla żyta wynoszą … czystego składnika na 1 ha.",
+      "options": [
+        "10–20 kg",
+        "35–75 kg"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. W zależności od rodzaju gleby, jej zasobności i spodziewanego plonu dawki potasu dla pszenicy ozimej wynoszą … czystego składnika na 1 ha.",
+      "options": [
+        "10–20 kg",
+        "60–100 kg"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZa pomocą herbicydu Tolurex 500 S.\nC zwalczamy głównie ….",
+      "options": [
+        "chaber",
+        "rdesty"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co jest zadaniem zabiegów uprawowych przy uprawie zbóż ozimych?",
+      "options": [
+        "Żadne z wymienionych.",
+        "Poprawa struktury gleby.",
+        "Zwalczanie chwastów.",
+        "Poprawa stosunków powietrzno-wodnych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W uprawie roślin zbożowych ozimych wykonuje się zespoły uprawek:",
+      "options": [
+        "pożniwnych.",
+        "przedsiewnych.",
+        "wiosennych.",
+        "przedzimowych."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZboża występują w dwóch formach: jarej i ozimej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZboża ozime osiągają plony o 20–30% wyższe od zbóż jarych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawa zbóż ozimych w porównaniu z uprawą zbóż jarych charakteryzuje się większym ryzykiem całkowitej uprawy plonów w wyniku wymarznięcia lub wygnicia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż warunki glebowe pożądane dla żyta ozimego.",
+      "options": [
+        "Może być uprawiane na wszystkich glebach.",
+        "Ze względów ekonomicznych zaleca się gleby klasy IV i V.",
+        "Dobrze znosi zakwaszenie do pH 2.",
+        "Ze względów ekonomicznych zaleca się gleby klasy II i III."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica zwyczajna występuje w kilkunastu odmianach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRokosz to odmiana pszenicy twardej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż odmiany jęczmienia browarnego.",
+      "options": [
+        "Wintmalt.",
+        "Jones.",
+        "Nickela.",
+        "Tiffany."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica ozima wytrzymuje wiosenne przymrozki do –5°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica ozima najlepiej plonuje na glebach kompleksów: pszennego bardzo dobrego i pszennego dobrego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenżyto na kompleksie żytnim dobrym plonuje znacznie gorzej niż żyto czy jęczmień.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Po jakich roślinach dobrze plonują pszenica ozima i jęczmień ozimy?",
+      "options": [
+        "Po innych zbożach.",
+        "Po rzepaku.",
+        "Po wczesnych ziemniakach.",
+        "Po roślinach motylkowatych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica ozima i jęczmień ozimy nie mogą być wysiewane po sobie, ponieważ są silnie atakowane przez choroby podstawy źdźbła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkopowe – zboża jare – motylkowate drobnonasienne – zboża ozime to przykład prawidłowego płodozmianu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwalczanie chwastów to jedna z przyczyn stosowania zabiegów uprawowych przy uprawie zbóż ozimych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Od czego zależy ilość zabiegów uprawowych?",
+      "options": [
+        "Od odczynu gleby.",
+        "Od temperatury powietrza.",
+        "Od przedplonu.",
+        "Od uprawianego gatunku zboża."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku przedplonów pozostawiających ściernisko pierwszym zabiegiem uprawowym jest wymieszanie ścierni z glebą przez wykonanie podorywki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż terminy wykonywania orki siewnej, pozwalającej na naturalne osiadanie gleby.",
+      "options": [
+        "1 tydzień przed siewem.",
+        "2–3 tygodnie przed siewem.",
+        "6 tygodni przed siewem.",
+        "2–4 tygodnie przed siewem."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed siewem w celu doprawienia gleby stosuje się agregat złożony z kultywatora i wału strunowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa glebach ciężkich nie wolno stosować wału kruszącego jako zabiegu doprawiającego glebę przed siewem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jesienią przed orką siewną w uprawie zbóż ozimych stosujemy nawozy:",
+      "options": [
+        "fosforowe.",
+        "kobaltowe.",
+        "żelazowe.",
+        "potasowe."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUproszczona uprawa polega na zastosowaniu kultywatora z zębami sztywnymi, a bezpośrednio przed siewem agregatu uprawowego złożonego z kultywatora z wałem strunowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż właściwe cechy ziarna przeznaczonego do siewu.",
+      "options": [
+        "O odpowiedniej zdolności kiełkowania.",
+        "Wolne od chorób.",
+        "Czyste.",
+        "Zaprawione zaprawami grzybobójczymi."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż czynniki, od których zależy ilość wysiewu.",
+      "options": [
+        "Termin siewu.",
+        "Warunki klimatyczne.",
+        "Typ gleby.",
+        "Odmiana zboża."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż choroby zbóż ozimych.",
+      "options": [
+        "Mączniak właściwy.",
+        "Rynchosporioza.",
+        "Septorioza plew.",
+        "Zgnilizna korzeni.",
+        "Pleśń śniegowa.",
+        "Rdza brunatna."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRdza żółta to choroba atakująca pszenżyto.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlamistość siatkowa to choroba atakująca jęczmień ozimy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż podstawowe zabiegi agrotechniczne w zapobieganiu chorobom zbóż ozimych.",
+      "options": [
+        "Odpowiedni płodozmian.",
+        "Głęboka orka siewna.",
+        "Odpowiednie nawożenie.",
+        "Dobór zdrowego materiału siewnego.",
+        "Właściwy dobór terminu siewu.",
+        "Dobór odmian odpornych na choroby."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż szkodniki zbóż.",
+      "options": [
+        "Łokaś garbatek.",
+        "Śmietka ozimówka.",
+        "Skrzypionka.",
+        "Lednica zbożowa.",
+        "Mszyca.",
+        "Nałanek kłosiec."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wszystkie rośliny niepożądane w uprawie nazywamy chwastami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż uciążliwe i groźne chwasty zbóż ozimych.",
+      "options": [
+        "Kanianka.",
+        "Miotła zbożowa.",
+        "Przytulia czepna.",
+        "Wyczyniec polny.",
+        "Chaber bławatek.",
+        "Jaskier ostry."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosowanie uprawy monokulturowej i herbicydów z tą samą substancją czynną sprzyja zachwaszczaniu pól.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zapobiegania występowaniu chwastów przed orką siewną można zastosować herbicydy nieselektywne zawierające glifosat jako substancję czynną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zabiegi uprawowe w uprawie pełnej.",
+      "options": [
+        "Podorywka.",
+        "Siew.",
+        "Bronowanie.",
+        "Orka siewna."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż zabiegi agrotechniczne wykonywane w okresie wegetacji.",
+      "options": [
+        "Zbiór.",
+        "Wiosenne zabiegi pielęgnacyjne.",
+        "Stosowanie środków ochrony roślin.",
+        "Nawożenie."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nFungicydy stosujemy zazwyczaj od początku strzelania w źdźbło do końca kłoszenia lub końca kwitnienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

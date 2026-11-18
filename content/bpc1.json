@@ -1,0 +1,2037 @@
+{
+  "id": "bpc1",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Budowa układów w organizmach poszczególnych gatunków zwierząt gospodarskich i zwierząt towarzyszących",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – procesy energetyczne i homeostaza",
+      "points": [
+        "Mechanizmy fizjologiczne występują jednocześnie na wielu poziomach organizacji ustroju; życie organizmu zależy od sprawności procesów fizjologicznych i warunków środowiska zewnętrznego.",
+        "Anabolizm (asymilacja, przyswajanie) – budowanie i gromadzenie energii.",
+        "Katabolizm (dysymilacja, rozpad) – zużywanie zapasów energii.",
+        "Katabolizm i anabolizm zachodzą równocześnie; w okresie wzrostu przeważa anabolizm, w dojrzałości – równowaga dynamiczna, podczas starzenia – katabolizm.",
+        "Przekroczenie granic równowagi dynamicznej to przejście od fizjologii do patologii; nieodwracalne zaburzenie równowagi kończy się śmiercią.",
+        "Homeostaza – dynamiczna równowaga czynnościowa ustroju.",
+        "Homeostazę zapewnia: stałość składu jonów, stałość pH, nawodnienie i objętość płynów krążących, stałość temperatury ustroju, optymalne ciśnienie gazów oddechowych.",
+        "Życie pojedynczej komórki zależy od optymalnego działania mechanizmów wewnątrzkomórkowych; w okresie dojrzałości wszystkie cykliczne wahania oscylują w granicach fizjologii."
+      ]
+    },
+    {
+      "heading": "1. Terminologia – działy anatomii",
+      "points": [
+        "Anatomia – nauka o budowie wewnętrznej organizmów, zwłaszcza o budowie narządów i ich położeniu względem siebie.",
+        "Anatomia prawidłowa – prawidłowa budowa i stosunki narządów względem siebie.",
+        "Anatomia patologiczna – budowa ustroju i narządów w warunkach chorobowych.",
+        "Anatomia ogólna – budowa narządów; anatomia szczegółowa – budowa narządów i ich układów.",
+        "Anatomia mikroskopowa (histologia) – budowa komórek i tkanek.",
+        "Patologia ogólna – zmiany patologiczne w narządach i układach; patologia szczegółowa – zmiany w tkankach i komórkach pod wpływem choroby.",
+        "Anatomia porównawcza – porównuje narządy, układy i organizmy wyżej i niżej rozwinięte, zwierzęta z człowiekiem i zwierzęta między sobą.",
+        "Anatomia topograficzna – rozmieszczenie tkanek i narządów w częściach lub okolicach ciała.",
+        "Anatomia systematyczna – opis narządów i ich układów.",
+        "Anatomia poszczególnych gatunków zwierząt gospodarskich i towarzyszących bardzo się różni; prawidłowy opis topograficzny ciała zwierzęcia dzieli je na części."
+      ]
+    },
+    {
+      "heading": "1. Płaszczyzny, linie i okolice ciała",
+      "points": [
+        "Płaszczyzny topograficzne: pośrodkowa, strzałkowe (przypośrodkowe), grzbietowa, linia pośrodkowa dogrzbietowa i dobrzuszna.",
+        "Płaszczyzna pośrodkowa (Planum medianum) biegnie wzdłuż kręgosłupa lub linii białej i dzieli ciało na połowy.",
+        "Płaszczyzny strzałkowe (Plana sagittalia) biegną równolegle do pośrodkowej – można ich wyznaczyć dowolną ilość.",
+        "Płaszczyzny grzbietowe (Plana dorsalia) biegną równolegle do kręgosłupa i dzielą ciało na części dogrzbietowe i dobrzuszne.",
+        "Linia pośrodkowa dogrzbietowa – od nosa przez grzbiet do nasady ogona; dobrzuszna – od brody przez brzuch do nasady ogona.",
+        "Płaszczyzna poprzeczna (Plana transversalia) biegnie prostopadle do płaszczyzny grzbietowej lub strzałkowej.",
+        "Okolice ciała (Regiones corporis) – umowne pola ograniczone mięśniami lub kośćmi; pozwalają np. precyzyjnie określić przemieszczenie narządu.",
+        "Najważniejsze okolice ciała dużych zwierząt (22): głowy, szyi, brzucha, klatki piersiowej, łopatkowa, krzyżowa, lędźwiowa, krocza, łokciowa, kolanowa, nadgarstka, ogonowa, pachowa, pęcinowa, pępkowa, pośladkowa, stępu, dołu głodowego, piętowa, piersiowa, podudzia, ramieniowa.",
+        "Holotopia – położenie narządu w organizmie; skeletotopia – położenie względem kości; syntopia – położenie narządów względem siebie.",
+        "Do prawidłowego określania położenia narządów konieczna jest znajomość okolic ciała zwierzęcia; w okolicach ciała występują określone struktury i narządy."
+      ],
+      "images": [
+        {
+          "src": "img/bpc1/plaszczyzny-topograficzne.jpg",
+          "caption": "Płaszczyzny topograficzne (widok z góry): A – płaszczyzna pośrodkowa (Planum medianum), B – płaszczyzna strzałkowa (Plana sagittalia), inaczej przypośrodkowa (Plana paramediana)."
+        },
+        {
+          "src": "img/bpc1/plaszczyzny-i-linie-kon.jpg",
+          "caption": "Płaszczyzny i linie na koniu: A – płaszczyzna grzbietowa (Plana dorsalia), B – linia pośrodkowa dogrzbietowa (Linea mediana dorsalis), C – linia pośrodkowa dobrzuszna (Linea mediana ventralis)."
+        },
+        {
+          "src": "img/bpc1/okolice-ciala-konia.jpg",
+          "caption": "Najważniejsze okolice ciała na przykładzie konia: 1 – głowy, 2 – szyi, 3 – brzucha, 4 – klatki piersiowej, 5 – łopatkowa, 6 – krzyżowa, 7 – lędźwiowa, 8 – krocza, 9 – łokciowa, 10 – kolanowa, 11 – nadgarstka, 12 – ogonowa, 13 – pachowa, 14 – pęcinowa, 15 – pępkowa, 16 – pośladkowa, 17 – stępu, 18 – dołu głodowego, 19 – piętowa, 20 – piersiowa, 21 – podudzia, 22 – ramieniowa."
+        },
+        {
+          "src": "img/bpc1/metody-polozenia-narzadow.jpg",
+          "caption": "Metody określania położenia narządów w anatomii topograficznej (na tle szkieletu i narządów kota): holotopia – położenie narządu w organizmie; skeletotopia – położenie narządu względem kości; syntopia – położenie narządów względem siebie."
+        }
+      ]
+    },
+    {
+      "heading": "1. Fizjologia i działy nauk weterynaryjnych",
+      "points": [
+        "Fizjologia – nauka o czynnościach narządów i ustroju.",
+        "Cytologia – komórki; histologia – tkanki; osteologia – kości; miologia – mięśnie.",
+        "Artrologia – stawy; syndesmologia – więzadła.",
+        "Gastrologia – żołądek i jego choroby; gastroenterologia – choroby i fizjologia żołądka i jelit.",
+        "Endokrynologia – narządy wydzielania wewnętrznego i ich choroby.",
+        "Urologia – narządy wydalnicze: nerki, moczowody, pęcherz moczowy, cewka moczowa.",
+        "Neurologia – układ nerwowy (nerwy i mózg) i jego choroby.",
+        "Ginekologia – żeński układ płciowy; andrologia – męski układ płciowy.",
+        "Położnictwo – przyjmowanie porodu i przebieg ciąży wraz z patologią.",
+        "Splanchnologia – nauka o narządach wewnętrznych: układ pokarmowy, oddechowy, moczowy, płciowy i wewnątrzwydzielniczy."
+      ]
+    },
+    {
+      "heading": "2. Układ powłokowy, szkieletowy i mięśniowy – budowa",
+      "points": [
+        "Układy u ptaków i ssaków są takie same – różnią się budową i funkcjonalnością.",
+        "Powłoka wspólna (Integumentum commune) = skóra (Cutis/Derma) + wytwory: włosy, rzęsy, sierść, gruczoły potowe, łojowe i mlekowy, kopyta, racice, pazury, rogi.",
+        "Skóra chroni biologicznie i mechanicznie, zapobiega przegrzaniu i wyziębieniu, odbiera bodźce, jest narządem wydzielniczym i wydalniczym (np. mocznik).",
+        "Układ szkieletowy (Systema sceleti) – kości, stawy i więzadła; bierny aparat ruchu, podpora i bariera mechaniczna dla narządów.",
+        "Układ mięśniowy (Systema musculorum) – mięśnie poprzecznie prążkowane (szkieletowe – czynny aparat ruchu), gładkie i mięsień sercowy.",
+        "Nazwy łacińskie wytworów skóry: włosy (Pili), rzęsy (Cilia), sierść (Triches), gruczoły skóry (Glandulae cutis): potowe (G. sudoriferae), łojowe (G. sebaceae), mlekowy (G. mammaria); kopyta i racice (Ungula), pazury (Unguicula), rogi (Cornua).",
+        "Tkanka limfatyczna skóry bierze udział w procesach odpornościowych; skóra odbiera i przewodzi bodźce ze środowiska; bierze udział w gospodarce wodnej i cieplnej.",
+        "Dzięki wykształceniu układu szkieletowego zwierzęta mogły szybciej się poruszać; dziedziny wiedzy o układzie szkieletowym: osteologia (kości), artrologia (stawy), syndesmologia (więzadła).",
+        "Mięśnie gładkie odpowiadają za szereg funkcji fizjologicznych, np. oddychanie; mięsień sercowy to zupełnie odrębny rodzaj mięśnia."
+      ],
+      "images": [
+        {
+          "src": "img/bpc1/kosci-konczyny-konia.jpg",
+          "caption": "Kości kończyny konia (przekrój dalszej części kończyny z kopytem) – układ szkieletowy to bierny aparat ruchu."
+        }
+      ]
+    },
+    {
+      "heading": "2. Układ oddechowy, naczyniowy i trawienny – budowa",
+      "points": [
+        "Górne drogi oddechowe: jama ustna, gardło, krtań, tchawica; dolne: oskrzela i płuca.",
+        "Układ oddechowy dostarcza tlen do krwi, usuwa CO2 i może wydalać substancje szkodliwe (np. mocznik, alkohol).",
+        "Układ naczyniowy = układ krwionośny (serce, tętnice, żyły, naczynia włosowate) + układ chłonny (naczynia chłonne).",
+        "Krew odpowiada za homeostazę, jest buforem i drogą dla mechanizmów odpornościowych; chłonka transportuje część składników odżywczych z przewodu pokarmowego.",
+        "Układ trawienny = przewód pokarmowy (jama ustna, gardło, przełyk, żołądek, jelita) + gruczoły (ślinianki, wątroba, trzustka).",
+        "Przeżuwacze mają przedżołądki: żwacz, czepiec, księgi oraz żołądek właściwy – trawieniec.",
+        "Jelita: dwunastnica, jelito czcze, biodrowe, ślepe (wyrostek robaczkowy), okrężnica wstępująca, poprzeczna, zstępująca i prostnica.",
+        "Układ oddechowy – Systema respiratorium; układ naczyniowy – Systema vasorum; układ trawienny (pokarmowy) – Systema digestorium.",
+        "System odpornościowy gardła bierze udział w obronie organizmu.",
+        "Układ krwionośny rozprowadza krew po ustroju, doprowadza substancje do tkanek i odprowadza produkty przemiany materii.",
+        "Układ chłonny wchłania płyny międzytkankowe i naczyniami chłonnymi rozprowadza chłonkę; ma ogromne znaczenie w mechanizmach odporności."
+      ],
+      "images": [
+        {
+          "src": "img/bpc1/zwacz-bydla.jpg",
+          "caption": "Żwacz u bydła – budowa pierwszego przedżołądka (pofałdowana błona śluzowa)."
+        },
+        {
+          "src": "img/bpc1/struny-sciegniste-serce.jpg",
+          "caption": "Struny ścięgniste w sercu."
+        }
+      ]
+    },
+    {
+      "heading": "2. Układ wydalniczy, rozrodczy, dokrewny, nerwowy i zmysły – budowa",
+      "points": [
+        "Układ wydalniczy: nerki, moczowody, pęcherz moczowy, cewka moczowa; główna rola – utrzymanie stałego składu krwi.",
+        "Nerki wielopłatowe – świnie i krowy; nerki jednopłatowe – owce, psy, koty i konie.",
+        "U bydła nie występują miedniczki nerkowe.",
+        "Narządy płciowe żeńskie: jajniki, jajowody, macica, pochwa.",
+        "Narządy płciowe męskie: jądra, najądrza, nasieniowody, gruczoły dodatkowe (prostata, gruczoł opuszkowo-cewkowy, pęcherzykowo-nasienny).",
+        "Układ dokrewny: szyszynka, przysadka mózgowa, tarczyca, przytarczyce, nadnercza, jajniki, jądra, trzustka; hormony wydzielane są do krwi.",
+        "Układ nerwowy = ośrodkowy + obwodowy; obwodowy to nerwy czaszkowe i rdzeniowe.",
+        "Narządy zmysłów: wzroku, przedsionkowo-ślimakowy, powonienia, smaku, eksteroreceptory (czucie w skórze) i proprioreceptory (czucie głębokie – mięśnie, stawy, narządy wewnętrzne).",
+        "Jajniki produkują komórki rozrodcze żeńskie i hormony, by mogło dojść do zapłodnienia i zagnieżdżenia zarodka w macicy.",
+        "Jądra i najądrza odpowiadają za produkcję i rozwój plemników, które z wydzielinami gruczołów dodatkowych tworzą nasienie (spermę); jądra pełnią też funkcję hormonalną.",
+        "Układ wewnątrzwydzielniczy (dokrewny) – Systema endocrinum; hormony wydzielane do krwi oddziałują na wszystkie komórki organizmu.",
+        "Układ nerwowy – Systema nervosum; wg materiału w skład centralnego układu nerwowego wchodzi mózg i rdzeń przedłużony.",
+        "Narządy zmysłów – Organa sensum; proprioreceptory przekazują bodźce dotyczące stanu i położenia narządów wewnętrznych."
+      ]
+    },
+    {
+      "heading": "2. Anatomia ptaków",
+      "points": [
+        "Kości ptaków są lekkie, pneumatyczne, z jamami szpikowymi wypełnionymi workami powietrznymi.",
+        "Mostek jest bardzo rozbudowany – mają na nim przyczep mięśnie piersiowe, główny napęd skrzydeł.",
+        "Obojczyki ptaków są zrośnięte; występuje kość krucza.",
+        "Układ oddechowy: gardło, krtań górna, tchawica, krtań dolna, oskrzele główne, oskrzela, oskrzeliki, płuca i worki powietrzne; przepływ powietrza jest etapowy.",
+        "U samic zanikł lewy jajnik i jajowód (zmniejszenie masy ciała).",
+        "Ptaki nie mają pęcherza moczowego; wspólnym zakończeniem układu moczowego, rozrodczego i pokarmowego jest kloaka.",
+        "Ptaki wydalają kałomocz, gromadzący się w kloace.",
+        "Krwinki czerwone ptaków są jądrzaste.",
+        "Wole (na wysokości krtani górnej) magazynuje i rozmiękcza pokarm, np. ziarno.",
+        "Żołądek gruczołowy i mięśniowy – w mięśniowym trawienie ułatwiają kamyczki.",
+        "Anatomia ptaków wykazuje szereg cech przystosowujących je do lotu.",
+        "Etapowy przepływ powietrza przez płuca i worki powietrzne wiąże się ze wzmożonym zapotrzebowaniem na tlen intensywnie pracujących mięśni."
+      ],
+      "images": [
+        {
+          "src": "img/bpc1/szkielet-ptaka.jpg",
+          "caption": "Układ kostno-szkieletowy ptaka – lekkie, pneumatyczne kości, duży mostek z grzebieniem (przyczep mięśni piersiowych – napęd skrzydeł)."
+        },
+        {
+          "src": "img/bpc1/kura-narzady-wewnetrzne.jpg",
+          "caption": "Narządy wewnętrzne kury (przekrój) – ilustracja z wideocastu: anatomia zajmuje się budową wewnętrzną organizmów, w szczególności budową narządów i ich położeniem względem siebie."
+        }
+      ]
+    },
+    {
+      "heading": "3. Funkcje układu powłokowego, szkieletowego i mięśniowego",
+      "points": [
+        "Skóra chroni przed utratą wody, urazami, promieniowaniem UV (melanina) i substancjami zakaźnymi; uczestniczy w termoregulacji.",
+        "Skóra syntetyzuje witaminę D3 z 7-dehydrocholesterolu; przez gruczoły potowe uczestniczy w gospodarce wodno-elektrolitowej.",
+        "Mechanoreceptory skóry – dotyk, ból, ucisk, temperatura; limfocyty skórne – obrona immunologiczna.",
+        "Kości są magazynem wapnia i fosforu; szpik kostny pełni funkcję krwiotwórczą; kościec chroni serce, płuca i mózg.",
+        "Witamina D3 wpływa na metabolizm kości, zwiększając uwalnianie jonów wapniowych.",
+        "Mięśnie poprzecznie prążkowane – szybki skurcz, zależny od woli zwierzęcia.",
+        "Mięsień sercowy – budowa podobna do poprzecznie prążkowanego, czynnościowo jak gładki: kurczy się niezależnie, bez cech zmęczenia.",
+        "Mięśnie gładkie – niezależne od woli, nie męczą się szybko, silny skurcz jest bardzo bolesny (np. kolka u konia); występują w żołądku, jelitach, oskrzelach, tętnicach, macicy.",
+        "Zdrowy mięsień jest pobudliwy, kurczliwy, rozciągliwy i elastyczny; mięśnie szkieletowe tworzą pary antagonistyczne.",
+        "Trzy funkcje mięśni: ruchowa i lokomocyjna, utrzymywanie postawy, wytwarzanie ciepła.",
+        "U koni mięśnie i rozcięgna tworzą układ ustaleniowy – umożliwia sen na stojąco.",
+        "Układ powłokowy utrzymuje równowagę między ustrojem a otoczeniem, osłania narządy wewnętrzne i bierze udział w metabolizmie białek, węglowodanów i tłuszczów.",
+        "Kości stanowią wsparcie dla mięśni (przyczepy mięśni) i jako magazyn wapnia i fosforu biorą aktywny udział w homeostazie.",
+        "W mięśniach szkieletowych pary antagonistyczne działają tak, że gdy jeden mięsień się kurczy, drugi biernie się rozciąga; podczas pracy mięśni przemiana materii wyraźnie wzrasta."
+      ]
+    },
+    {
+      "heading": "3. Funkcje układu oddechowego i naczyniowego",
+      "points": [
+        "Układ oddechowy: dostarcza tlen i wydala CO2, utrzymuje równowagę kwasowo-zasadową, usuwa parę wodną, reguluje temperaturę.",
+        "W płucach metabolizowane są angiotensyna i prostaglandyny; zmiany ciśnienia w klatce piersiowej wpływają na pracę serca.",
+        "Mechanizmy obronne układu oddechowego: kaszel, kichanie, bezdech.",
+        "Serce – pompa ssąco-tłocząca; tłoczy krew do dużego i małego obiegu.",
+        "Ośrodki automatyzmu (rozrusznik serca) znajdują się w prawym przedsionku.",
+        "Układ wieńcowy (naczynia własne serca) odpowiada za ukrwienie serca.",
+        "Funkcje układu krążenia: transport O2 i składników odżywczych, transport zwrotny metabolitów i CO2, homeostaza hormonalna, termoregulacja; rolę immunologiczną pełnią białe krwinki i limfocyty.",
+        "Serce zasysa krew z krwiobiegu żylnego do jam serca i tłoczy ją do dużego i małego obiegu, nadając jej prędkość.",
+        "Ośrodki automatyzmu to grupy komórek o właściwościach bodźcotwórczych, generujące i przewodzące impulsy (rozrusznik mięśnia sercowego).",
+        "Układ naczyniowy przenosi ciepło do organów dystalnych i utrzymuje stały skład środowiska wewnętrznego (homeostazę).",
+        "Aby serce mogło pracować, musi wytwarzać regularne skurcze – powstają one pod wpływem impulsów generowanych przez ośrodki automatyzmu.",
+        "Układ oddechowy reguluje gospodarkę wodną (usuwanie pary wodnej) i temperaturę ciała (wydychanie gorącego powietrza); równowagę kwasowo-zasadową utrzymuje poprzez wydychanie CO2."
+      ]
+    },
+    {
+      "heading": "3. Funkcje układu trawiennego i wydalniczego",
+      "points": [
+        "Układ trawienny odpowiada za trawienie, wchłanianie i wydalanie niestrawionych resztek.",
+        "Trawienie enzymatyczne zachodzi w jamie ustnej, żołądku i dwunastnicy.",
+        "W jelicie ślepym przeżuwaczy i koni rozkład odbywa się dzięki saprofitycznej florze bakteryjnej, nie enzymom.",
+        "Część enzymów wytwarzana jest jako proenzymy – chroni to przed samostrawieniem.",
+        "Żółć wytwarzana przez wątrobę nie jest enzymem trawiennym; tłuszcze rozkłada enzym lipaza.",
+        "Nerki filtrują krew w kłębuszkach; mocz pierwotny przetwarzany jest w mocz ostateczny (resorpcja).",
+        "Nerki: regulują objętość płynów i ciśnienie krwi, produkują erytropoetynę (erytropoeza), regulują pH, wytwarzają aktywną witaminę D3.",
+        "Nerki produkują reninę, aktywującą angiotensynę w układzie renina-angiotensyna-aldosteron (RAA) – pobudzenie RAA podnosi ciśnienie krwi.",
+        "Enzymy wytwarzane przez narządy dodatkowe rozkładają pokarm na produkty proste, łatwo wchłaniane przez komórki jelit cienkich; proenzymy są aktywowane dopiero w przewodzie pokarmowym.",
+        "Nerki wydalają zbędne produkty przemiany materii, zatrzymują składniki wartościowe i wodę; regulują pH krwi dzięki możliwości zakwaszania moczu.",
+        "W trawieniu bierze udział żółć wytwarzana przez wątrobę – jej obecność w przewodzie pokarmowym umożliwia szybszy rozkład tłuszczów (sam rozpad tłuszczów zapewnia lipaza)."
+      ]
+    },
+    {
+      "heading": "3. Funkcje układu rozrodczego i hormonalnego",
+      "points": [
+        "Jajniki produkują estrogeny, inhibiny, relaksynę i progesteron; komórki śródmiąższowe jądra – testosteron.",
+        "Zarodek zagnieżdżony w macicy produkuje gonadotropinę kosmówkową.",
+        "Hormony utrzymujące ciążę: progesteron, relaksyna i HCG.",
+        "Poród indukuje spadek progesteronu i wydzielanie oksytocyny.",
+        "Jedyną rolą układu rozrodczego jest utrzymanie gatunku i przekazanie genów.",
+        "Hormony dzielimy na miejscowe, ogólne i tkankowe.",
+        "Miejscowe: histamina, acetylocholina, serotonina, prostaglandyny.",
+        "Ogólne: hormony przysadki, nadnerczy, tarczycy, przytarczyc, trzustki, jąder, jajników, łożyska.",
+        "Tkankowe (z komórek niebędących gruczołami dokrewnymi): gastryna, sekretyna, renina, erytropoetyna.",
+        "Wg budowy: aminokwasowe, polipeptydowe, białkowe i sterydowe; sterydowe są pochodnymi cholesterolu (układ rozrodczy, łożysko, kora nadnerczy).",
+        "Hormony są transportowane płynami ustrojowymi i krwią do narządów, z którymi reagują swoiście za pomocą receptorów; regulują funkcje biologiczne komórek.",
+        "Mechanizmy owulacji, zapłodnienia i porodu znacząco różnią się u poszczególnych ssaków.",
+        "Hormony wytwarzane są przez narządy, tkanki lub komórki gruczołowe."
+      ]
+    },
+    {
+      "heading": "3. Układ nerwowy i narządy zmysłów – funkcje",
+      "points": [
+        "Układ nerwowy steruje organizmem wraz z układem hormonalnym; praktycznie nie ma możliwości regeneracji.",
+        "Neuroprzekaźniki: acetylocholina, adrenalina, noradrenalina, GABA, dopamina, serotonina – uwalniane w synapsie.",
+        "Nocyceptory – ból; chemoreceptory – bodźce chemiczne; mechanoreceptory – bodźce mechaniczne; termoreceptory – temperatura.",
+        "Fotoreceptory – w oku (obraz); receptory akustyczne – słyszenie; proprioreceptory – czucie głębokie.",
+        "Fotoreceptory siatkówki przekazują bodźce nerwem wzrokowym do kory mózgowej.",
+        "Słyszenie – drgania błony bębenkowej i kanał ślimakowy ucha wewnętrznego; ucho wewnętrzne jest też narządem równowagi.",
+        "Chemoreceptory w błonie śluzowej nozdrzy (węch) i języka (smak).",
+        "Procesy nerwowe powstają w neuronach i synapsach; komórki nerwowe odbierają impulsy z synaps (od innych komórek) lub receptorów i przekazują sygnał dalej.",
+        "Narządy zmysłów są przystosowane do odbierania bodźców zewnętrznych."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Anabolizm",
+      "back": "Asymilacja (przyswajanie) – budowanie i gromadzenie energii."
+    },
+    {
+      "front": "Katabolizm",
+      "back": "Dysymilacja (rozpad) – zużywanie zapasów energii."
+    },
+    {
+      "front": "Który proces przeważa w okresie wzrostu?",
+      "back": "Anabolizm."
+    },
+    {
+      "front": "Który proces przeważa w trakcie starzenia się organizmu?",
+      "back": "Katabolizm."
+    },
+    {
+      "front": "Co kształtuje się w okresie dojrzałości organizmu?",
+      "back": "Stan równowagi dynamicznej."
+    },
+    {
+      "front": "Homeostaza",
+      "back": "Dynamiczna równowaga czynnościowa ustroju."
+    },
+    {
+      "front": "Co zapewnia homeostazę (5)?",
+      "back": "Stałość składu jonów, stałość pH, nawodnienie i objętość płynów krążących, stałość temperatury, optymalne ciśnienie gazów oddechowych."
+    },
+    {
+      "front": "Anatomia",
+      "back": "Nauka o budowie wewnętrznej organizmów – budowie narządów i ich położeniu względem siebie."
+    },
+    {
+      "front": "Anatomia patologiczna",
+      "back": "Budowa ustroju i narządów w warunkach chorobowych."
+    },
+    {
+      "front": "Histologia (anatomia mikroskopowa)",
+      "back": "Nauka o budowie komórek i tkanek."
+    },
+    {
+      "front": "Anatomia porównawcza",
+      "back": "Porównuje narządy, układy i organizmy – wyżej i niżej rozwinięte, zwierzęta z człowiekiem i między sobą."
+    },
+    {
+      "front": "Anatomia topograficzna",
+      "back": "Nauka o rozmieszczeniu tkanek i narządów w częściach lub okolicach ciała."
+    },
+    {
+      "front": "Płaszczyzna pośrodkowa",
+      "back": "Biegnie wzdłuż kręgosłupa lub linii białej, dzieląc ciało na połowy."
+    },
+    {
+      "front": "Płaszczyzny strzałkowe (przypośrodkowe)",
+      "back": "Biegną równolegle do płaszczyzny pośrodkowej; można ich wyznaczyć dowolną ilość."
+    },
+    {
+      "front": "Płaszczyzny grzbietowe",
+      "back": "Równoległe do kręgosłupa; dzielą ciało na części dogrzbietowe i dobrzuszne."
+    },
+    {
+      "front": "Linia pośrodkowa dogrzbietowa",
+      "back": "Od nosa przez grzbiet do nasady ogona."
+    },
+    {
+      "front": "Linia pośrodkowa dobrzuszna",
+      "back": "Od brody przez brzuch do nasady ogona."
+    },
+    {
+      "front": "Płaszczyzna poprzeczna",
+      "back": "Biegnie prostopadle do płaszczyzny grzbietowej lub strzałkowej."
+    },
+    {
+      "front": "Okolice ciała (Regiones corporis)",
+      "back": "Umownie oznaczone pola ograniczone przez mięśnie lub kości."
+    },
+    {
+      "front": "Holotopia",
+      "back": "Opisuje położenie narządu w organizmie."
+    },
+    {
+      "front": "Skeletotopia",
+      "back": "Określa położenie narządu względem kości."
+    },
+    {
+      "front": "Syntopia",
+      "back": "Opisuje położenie narządów względem siebie."
+    },
+    {
+      "front": "Fizjologia",
+      "back": "Nauka o czynnościach narządów i ustroju."
+    },
+    {
+      "front": "Osteologia / artrologia / syndesmologia",
+      "back": "Nauka o kościach / stawach / więzadłach."
+    },
+    {
+      "front": "Miologia",
+      "back": "Nauka o mięśniach."
+    },
+    {
+      "front": "Endokrynologia",
+      "back": "Nauka o narządach wydzielania wewnętrznego i ich chorobach."
+    },
+    {
+      "front": "Andrologia",
+      "back": "Nauka o męskim układzie płciowym i jego chorobach."
+    },
+    {
+      "front": "Ginekologia",
+      "back": "Nauka o żeńskim układzie płciowym i jego schorzeniach."
+    },
+    {
+      "front": "Gastroenterologia",
+      "back": "Nauka o chorobach i fizjologii żołądka i jelit."
+    },
+    {
+      "front": "Splanchnologia",
+      "back": "Nauka o narządach wewnętrznych (układ pokarmowy, oddechowy, moczowy, płciowy, wewnątrzwydzielniczy)."
+    },
+    {
+      "front": "Z czego składa się powłoka wspólna?",
+      "back": "Ze skóry i jej wytworów: włosów, rzęs, sierści, gruczołów (potowe, łojowe, mlekowy), kopyt, racic, pazurów, rogów."
+    },
+    {
+      "front": "Jaką substancję może wydalać skóra?",
+      "back": "Mocznik."
+    },
+    {
+      "front": "Układ szkieletowy – budowa i rola",
+      "back": "Kości, stawy i więzadła; bierny aparat ruchu."
+    },
+    {
+      "front": "Czynny aparat ruchu",
+      "back": "Mięśnie poprzecznie prążkowane (szkieletowe)."
+    },
+    {
+      "front": "Trzy rodzaje mięśni",
+      "back": "Poprzecznie prążkowane, gładkie i mięsień sercowy."
+    },
+    {
+      "front": "Górne drogi oddechowe",
+      "back": "Jama ustna, gardło, krtań, tchawica."
+    },
+    {
+      "front": "Dolne drogi oddechowe",
+      "back": "Oskrzela i płuca."
+    },
+    {
+      "front": "Układ naczyniowy – składowe",
+      "back": "Układ krwionośny (serce, tętnice, żyły, naczynia włosowate) i układ chłonny."
+    },
+    {
+      "front": "Gruczoły zewnątrzwydzielnicze układu trawiennego",
+      "back": "Ślinianki, wątroba, trzustka."
+    },
+    {
+      "front": "Przedżołądki przeżuwaczy",
+      "back": "Żwacz, czepiec i księgi."
+    },
+    {
+      "front": "Trawieniec",
+      "back": "Żołądek właściwy przeżuwaczy."
+    },
+    {
+      "front": "Kolejność odcinków jelit",
+      "back": "Dwunastnica, jelito czcze, biodrowe, ślepe, okrężnica wstępująca, poprzeczna, zstępująca, prostnica."
+    },
+    {
+      "front": "Które zwierzęta mają nerki wielopłatowe?",
+      "back": "Świnie i krowy."
+    },
+    {
+      "front": "Które zwierzęta mają nerki jednopłatowe?",
+      "back": "Owce, psy, koty i konie."
+    },
+    {
+      "front": "U którego gatunku nie występują miedniczki nerkowe?",
+      "back": "U bydła."
+    },
+    {
+      "front": "Gruczoły dodatkowe męskiego układu płciowego",
+      "back": "Prostata, gruczoł opuszkowo-cewkowy i pęcherzykowo-nasienny."
+    },
+    {
+      "front": "Gruczoły układu dokrewnego",
+      "back": "Szyszynka, przysadka, tarczyca, przytarczyce, nadnercza, jajniki, jądra, trzustka."
+    },
+    {
+      "front": "Obwodowy układ nerwowy – składowe",
+      "back": "Nerwy czaszkowe i nerwy rdzeniowe."
+    },
+    {
+      "front": "Proprioreceptory",
+      "back": "Receptory czucia głębokiego – w mięśniach, stawach i narządach wewnętrznych."
+    },
+    {
+      "front": "Kości ptaków – cecha",
+      "back": "Lekkie, pneumatyczne, z jamami szpikowymi wypełnionymi workami powietrznymi."
+    },
+    {
+      "front": "Na czym mają przyczep mięśnie piersiowe ptaków?",
+      "back": "Na bardzo rozbudowanym mostku."
+    },
+    {
+      "front": "Który jajnik zanikł u ptaków?",
+      "back": "Lewy jajnik (wraz z jajowodem)."
+    },
+    {
+      "front": "Kloaka",
+      "back": "Wspólne zakończenie układu moczowego, rozrodczego i pokarmowego ptaków."
+    },
+    {
+      "front": "Czego nie mają ptaki w układzie moczowym?",
+      "back": "Pęcherza moczowego – wydalają kałomocz."
+    },
+    {
+      "front": "Krwinki czerwone ptaków",
+      "back": "Są jądrzaste."
+    },
+    {
+      "front": "Wole – położenie i funkcja",
+      "back": "Na wysokości krtani górnej; magazynuje i rozmiękcza pokarm (np. ziarno)."
+    },
+    {
+      "front": "Co ułatwia trawienie w żołądku mięśniowym ptaków?",
+      "back": "Kamyczki."
+    },
+    {
+      "front": "Z czego skóra syntetyzuje witaminę D3?",
+      "back": "Z 7-dehydrocholesterolu."
+    },
+    {
+      "front": "Jakich pierwiastków magazynem są kości?",
+      "back": "Wapnia i fosforu."
+    },
+    {
+      "front": "Funkcja szpiku kostnego",
+      "back": "Krwiotwórcza."
+    },
+    {
+      "front": "Mięsień sercowy – cecha czynnościowa",
+      "back": "Kurczy się i rozkurcza niezależnie, bez cech zmęczenia (jak mięsień gładki)."
+    },
+    {
+      "front": "Przykład bolesnego skurczu mięśni gładkich",
+      "back": "Kolka u konia."
+    },
+    {
+      "front": "Trzy główne funkcje mięśnia",
+      "back": "Ruchowa i lokomocyjna, utrzymywanie postawy ciała, wytwarzanie ciepła."
+    },
+    {
+      "front": "Układ ustaleniowy konia",
+      "back": "Mięśnie i rozcięgna umożliwiające sen na stojąco."
+    },
+    {
+      "front": "Mechanizmy obronne układu oddechowego",
+      "back": "Kaszel, kichanie, bezdech."
+    },
+    {
+      "front": "Gdzie znajdują się ośrodki automatyzmu serca?",
+      "back": "W prawym przedsionku."
+    },
+    {
+      "front": "Układ wieńcowy",
+      "back": "Naczynia własne serca – odpowiadają za jego ukrwienie."
+    },
+    {
+      "front": "Gdzie zachodzi trawienie enzymatyczne?",
+      "back": "W jamie ustnej, żołądku i dwunastnicy."
+    },
+    {
+      "front": "Co rozkłada pokarm w jelicie ślepym przeżuwaczy i koni?",
+      "back": "Saprofityczna flora bakteryjna."
+    },
+    {
+      "front": "Po co enzymy wytwarzane są jako proenzymy?",
+      "back": "Chroni to organizm przed samostrawieniem."
+    },
+    {
+      "front": "Enzym rozkładający tłuszcze",
+      "back": "Lipaza."
+    },
+    {
+      "front": "Jaki hormon nerek wpływa na erytropoezę?",
+      "back": "Erytropoetyna."
+    },
+    {
+      "front": "Renina – rola",
+      "back": "Aktywuje angiotensynę w układzie RAA, podnosząc ciśnienie krwi."
+    },
+    {
+      "front": "Hormony jajników",
+      "back": "Estrogeny, inhibiny, relaksyna, progesteron."
+    },
+    {
+      "front": "Co produkują komórki śródmiąższowe jądra?",
+      "back": "Testosteron."
+    },
+    {
+      "front": "Hormony utrzymujące ciążę",
+      "back": "Progesteron, relaksyna i HCG."
+    },
+    {
+      "front": "Co indukuje poród?",
+      "back": "Spadek progesteronu i wydzielanie oksytocyny."
+    },
+    {
+      "front": "Hormony miejscowe",
+      "back": "Histamina, acetylocholina, serotonina, prostaglandyny."
+    },
+    {
+      "front": "Hormony tkankowe",
+      "back": "Gastryna, sekretyna, renina, erytropoetyna."
+    },
+    {
+      "front": "Hormony sterydowe – pochodzenie",
+      "back": "Pochodne cholesterolu; wydziela je układ rozrodczy, łożysko, kora nadnerczy."
+    },
+    {
+      "front": "Neuroprzekaźniki",
+      "back": "Acetylocholina, adrenalina, noradrenalina, GABA, dopamina, serotonina."
+    },
+    {
+      "front": "Nocyceptory",
+      "back": "Receptory bólowe."
+    },
+    {
+      "front": "Termoreceptory",
+      "back": "Receptory wrażliwe na temperaturę."
+    },
+    {
+      "front": "Narząd równowagi",
+      "back": "Ucho wewnętrzne."
+    },
+    {
+      "front": "Jakie okolice ciała konia oznaczono numerami 1–22?",
+      "back": "1 – głowy, 2 – szyi, 3 – brzucha, 4 – klatki piersiowej, 5 – łopatkowa, 6 – krzyżowa, 7 – lędźwiowa, 8 – krocza, 9 – łokciowa, 10 – kolanowa, 11 – nadgarstka, 12 – ogonowa, 13 – pachowa, 14 – pęcinowa, 15 – pępkowa, 16 – pośladkowa, 17 – stępu, 18 – dołu głodowego, 19 – piętowa, 20 – piersiowa, 21 – podudzia, 22 – ramieniowa.",
+      "img": "img/bpc1/okolice-ciala-konia-bez-opisu.jpg"
+    },
+    {
+      "front": "Co oznaczają litery A, B i C na rysunku konia?",
+      "back": "A – płaszczyzna grzbietowa, B – linia pośrodkowa dogrzbietowa (od nosa przez grzbiet do nasady ogona), C – linia pośrodkowa dobrzuszna (od brody przez brzuch do nasady ogona).",
+      "img": "img/bpc1/plaszczyzny-i-linie-kon.jpg"
+    },
+    {
+      "front": "Jaki narząd bydła przedstawia ilustracja?",
+      "back": "Żwacz – pierwszy (największy) przedżołądek przeżuwaczy.",
+      "img": "img/bpc1/zwacz-bydla.jpg"
+    },
+    {
+      "front": "Co oznaczają nazwy Systema respiratorium, Systema vasorum, Systema digestorium?",
+      "back": "Systema respiratorium – układ oddechowy; Systema vasorum – układ naczyniowy; Systema digestorium – układ trawienny (pokarmowy)."
+    },
+    {
+      "front": "Co wchodzi w skład centralnego układu nerwowego (wg materiału)?",
+      "back": "Mózg i rdzeń przedłużony."
+    },
+    {
+      "front": "Rola układu chłonnego",
+      "back": "Wchłania płyny międzytkankowe, rozprowadza chłonkę naczyniami chłonnymi (transport części składników odżywczych z przewodu pokarmowego do komórek), ma ogromne znaczenie w odporności."
+    },
+    {
+      "front": "Co tworzy nasienie (spermę)?",
+      "back": "Plemniki wytworzone w jądrach i najądrzach wraz z wydzielinami gruczołów dodatkowych."
+    },
+    {
+      "front": "Dlaczego ptaki mają etapowy przepływ powietrza przez płuca i worki powietrzne?",
+      "back": "Ze względu na wzmożone zapotrzebowanie na tlen intensywnie pracujących mięśni (lot)."
+    },
+    {
+      "front": "Jak działają antagonistyczne pary mięśni?",
+      "back": "Gdy jeden mięsień się kurczy, drugi biernie się rozciąga."
+    },
+    {
+      "front": "Jak nerki wpływają na pH krwi?",
+      "back": "Dzięki możliwości zakwaszania moczu (regulują równowagę kwasowo-zasadową)."
+    },
+    {
+      "front": "Nazwy łacińskie: kopyta/racice, pazury, rogi",
+      "back": "Kopyta i racice – Ungula, pazury – Unguicula, rogi – Cornua."
+    },
+    {
+      "front": "Najważniejsze funkcje układu krążenia (3)",
+      "back": "Transport tlenu i składników odżywczych do komórek; transport zwrotny substancji przemiany materii i CO2 do narządów wydzielniczych i płuc; dbanie o homeostazę hormonalną."
+    },
+    {
+      "front": "Jakie związki biologiczne są metabolizowane w układzie oddechowym?",
+      "back": "Angiotensyna i prostaglandyny."
+    },
+    {
+      "front": "Gdzie występuje tkanka mięśniowa gładka?",
+      "back": "W narządach wewnętrznych, np. w żołądku, jelitach, oskrzelach, tętnicach, macicy."
+    },
+    {
+      "front": "Cechy zdrowego mięśnia (4)",
+      "back": "Pobudliwy, kurczliwy, rozciągliwy i elastyczny."
+    },
+    {
+      "front": "Receptory układu nerwowego (7)",
+      "back": "Nocyceptory (ból), chemoreceptory (bodźce chemiczne), mechanoreceptory (bodźce mechaniczne), termoreceptory (temperatura), fotoreceptory (w oku – obraz), receptory akustyczne (słyszenie), proprioreceptory (czucie głębokie)."
+    },
+    {
+      "front": "Podział hormonów według budowy",
+      "back": "Aminokwasowe, polipeptydowe, białkowe i sterydowe."
+    },
+    {
+      "front": "Hormony ogólne – przykłady",
+      "back": "Hormony przysadki, nadnerczy, tarczycy, przytarczyc, trzustki, jąder, jajników oraz łożyska."
+    },
+    {
+      "front": "Funkcje układu oddechowego",
+      "back": "Dostarczanie tlenu i wydalanie CO2, utrzymanie równowagi kwasowo-zasadowej, regulacja gospodarki wodnej (usuwanie pary wodnej) i temperatury, metabolizm angiotensyny i prostaglandyn, wpływ na pracę serca (zmiany ciśnienia w klatce piersiowej)."
+    },
+    {
+      "front": "Funkcje kości (układu szkieletowego)",
+      "back": "Magazyn wapnia i fosforu (homeostaza), szpik kostny – funkcja krwiotwórcza, przyczepy mięśni, ochrona serca, płuc i mózgu, bierny narząd ruchu."
+    },
+    {
+      "front": "Elementy układu oddechowego ptaków",
+      "back": "Gardło, krtań górna, tchawica, krtań dolna, oskrzele główne, oskrzela, oskrzeliki, płuca i worki powietrzne."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "W okresie wzrostu organizmu przeważają procesy:",
+      "options": [
+        "kataboliczne",
+        "dysymilacji",
+        "anaboliczne",
+        "patologiczne"
+      ],
+      "answer": 2,
+      "explain": "W okresie wzrostu przeważają procesy anaboliczne."
+    },
+    {
+      "q": "Homeostaza to:",
+      "options": [
+        "dynamiczna równowaga czynnościowa ustroju",
+        "rozpad związków i zużywanie energii",
+        "nauka o czynnościach narządów",
+        "położenie narządów względem siebie"
+      ],
+      "answer": 0,
+      "explain": "Homeostaza to dynamiczna równowaga czynnościowa ustroju."
+    },
+    {
+      "q": "Nauka o budowie komórek i tkanek to:",
+      "options": [
+        "syndesmologia",
+        "splanchnologia",
+        "osteologia",
+        "histologia"
+      ],
+      "answer": 3,
+      "explain": "Anatomia mikroskopowa (histologia) zajmuje się budową komórek i tkanek."
+    },
+    {
+      "q": "Płaszczyzna pośrodkowa dzieli ciało zwierzęcia na:",
+      "options": [
+        "części dogrzbietowe i dobrzuszne",
+        "dwie połowy",
+        "część przednią i tylną",
+        "okolice ciała"
+      ],
+      "answer": 1,
+      "explain": "Płaszczyzna pośrodkowa biegnie wzdłuż kręgosłupa lub linii białej, dzieląc ciało na połowy."
+    },
+    {
+      "q": "Płaszczyzny grzbietowe dzielą ciało na części:",
+      "options": [
+        "prawą i lewą",
+        "dogrzbietowe i dobrzuszne",
+        "głowową i ogonową",
+        "bliższą i dalszą"
+      ],
+      "answer": 1,
+      "explain": "Płaszczyzny grzbietowe dzielą ciało na części dogrzbietowe i dobrzuszne."
+    },
+    {
+      "q": "Linia pośrodkowa dobrzuszna biegnie:",
+      "options": [
+        "od nosa przez grzbiet do nasady ogona",
+        "od kłębu do ogona",
+        "od mostka do pępka",
+        "od brody przez brzuch do nasady ogona"
+      ],
+      "answer": 3,
+      "explain": "Linia pośrodkowa dobrzuszna biegnie od brody przez brzuch aż do nasady ogona."
+    },
+    {
+      "q": "Określenie położenia narządu względem kości to:",
+      "options": [
+        "skeletotopia",
+        "holotopia",
+        "syntopia",
+        "osteologia"
+      ],
+      "answer": 0,
+      "explain": "Skeletotopia określa położenie narządu w organizmie względem kości."
+    },
+    {
+      "q": "Syntopia opisuje:",
+      "options": [
+        "położenie narządu względem kości",
+        "położenie narządu w organizmie",
+        "położenie narządów względem siebie",
+        "budowę tkanek"
+      ],
+      "answer": 2,
+      "explain": "Syntopia opisuje położenie narządów względem siebie."
+    },
+    {
+      "q": "Nauka o więzadłach to:",
+      "options": [
+        "artrologia",
+        "miologia",
+        "andrologia",
+        "syndesmologia"
+      ],
+      "answer": 3,
+      "explain": "Nauka o więzadłach to syndesmologia."
+    },
+    {
+      "q": "Andrologia zajmuje się:",
+      "options": [
+        "żeńskim układem płciowym",
+        "przebiegiem ciąży i porodu",
+        "męskim układem płciowym i jego chorobami",
+        "narządami wydalniczymi"
+      ],
+      "answer": 2,
+      "explain": "Andrologia to nauka o układzie płciowym męskim i jego chorobach."
+    },
+    {
+      "q": "Splanchnologia to nauka o:",
+      "options": [
+        "kościach",
+        "narządach wewnętrznych",
+        "mięśniach",
+        "układzie nerwowym"
+      ],
+      "answer": 1,
+      "explain": "Naukę o narządach wewnętrznych nazywamy splanchnologią."
+    },
+    {
+      "q": "Bierny aparat ruchu stanowi układ:",
+      "options": [
+        "szkieletowy",
+        "mięśniowy",
+        "nerwowy",
+        "powłokowy"
+      ],
+      "answer": 0,
+      "explain": "Układ szkieletowy (kości, stawy, więzadła) stanowi bierny aparat ruchu."
+    },
+    {
+      "q": "Do wytworów skóry nie należą:",
+      "options": [
+        "więzadła",
+        "racice",
+        "rogi",
+        "gruczoły łojowe"
+      ],
+      "answer": 0,
+      "explain": "Wytwory skóry to m.in. włosy, gruczoły, kopyta, racice, pazury, rogi; więzadła należą do układu szkieletowego."
+    },
+    {
+      "q": "Przedżołądki przeżuwaczy to:",
+      "options": [
+        "żwacz, czepiec i trawieniec",
+        "żwacz, czepiec i księgi",
+        "wole, żołądek gruczołowy i mięśniowy",
+        "księgi, trawieniec i dwunastnica"
+      ],
+      "answer": 1,
+      "explain": "U przeżuwaczy występują przedżołądki: żwacz, czepiec i księgi oraz trawieniec."
+    },
+    {
+      "q": "Żołądek właściwy przeżuwaczy nazywa się:",
+      "options": [
+        "żwacz",
+        "czepiec",
+        "trawieniec",
+        "księgi"
+      ],
+      "answer": 2,
+      "explain": "Żołądek właściwy przeżuwaczy zwany jest trawieńcem."
+    },
+    {
+      "q": "Nerki wielopłatowe mają:",
+      "options": [
+        "owce i konie",
+        "psy i koty",
+        "konie i psy",
+        "świnie i krowy"
+      ],
+      "answer": 3,
+      "explain": "Świnie i krowy mają nerki wielopłatowe."
+    },
+    {
+      "q": "Miedniczki nerkowe nie występują u:",
+      "options": [
+        "konia",
+        "psa",
+        "bydła",
+        "owcy"
+      ],
+      "answer": 2,
+      "explain": "U bydła nie występują miedniczki nerkowe."
+    },
+    {
+      "q": "Nerki jednopłatowe występują u:",
+      "options": [
+        "koni",
+        "świń",
+        "krów",
+        "wszystkich przeżuwaczy"
+      ],
+      "answer": 0,
+      "explain": "Nerki jednopłatowe posiadają owce, psy, koty i konie."
+    },
+    {
+      "q": "Do gruczołów dodatkowych męskiego układu płciowego należy:",
+      "options": [
+        "najądrze",
+        "nasieniowód",
+        "przysadka",
+        "prostata"
+      ],
+      "answer": 3,
+      "explain": "Gruczoły dodatkowe to prostata, gruczoł opuszkowo-cewkowy i pęcherzykowo-nasienny."
+    },
+    {
+      "q": "U ptaków wspólnym zakończeniem układu moczowego, rozrodczego i pokarmowego jest:",
+      "options": [
+        "wole",
+        "kloaka",
+        "żołądek mięśniowy",
+        "pęcherz moczowy"
+      ],
+      "answer": 1,
+      "explain": "Wspólnym zakończeniem układu moczowego, rozrodczego i pokarmowego ptaków jest kloaka."
+    },
+    {
+      "q": "U samic ptaków w wyniku ewolucji zanikł:",
+      "options": [
+        "prawy jajnik i jajowód",
+        "lewy jajnik i jajowód",
+        "oba jajniki",
+        "pęcherz moczowy i lewy jajowód zachowując oba jajniki"
+      ],
+      "answer": 1,
+      "explain": "U samic ptaków zaniknął lewy jajnik i jajowód."
+    },
+    {
+      "q": "Wole u ptaków służy do:",
+      "options": [
+        "rozcierania pokarmu kamyczkami",
+        "wymiany gazowej",
+        "gromadzenia kałomoczu",
+        "magazynowania i rozmiękczania pokarmu"
+      ],
+      "answer": 3,
+      "explain": "Wole służy do magazynowania i rozmiękczania pokarmu, np. ziarna."
+    },
+    {
+      "q": "Krwinki czerwone ptaków są:",
+      "options": [
+        "jądrzaste",
+        "bezjądrowe",
+        "pozbawione hemoglobiny",
+        "wielojądrowe i bezbarwne"
+      ],
+      "answer": 0,
+      "explain": "Krwinki czerwone ptaków są jądrzaste."
+    },
+    {
+      "q": "Mięśnie piersiowe ptaków mają przyczep na:",
+      "options": [
+        "kości kruczej",
+        "obojczyku",
+        "mostku",
+        "łopatce"
+      ],
+      "answer": 2,
+      "explain": "Mostek jest bardzo rozbudowany – mają na nim przyczep mięśnie piersiowe."
+    },
+    {
+      "q": "Skóra syntetyzuje witaminę D3 z:",
+      "options": [
+        "melaniny",
+        "mocznika",
+        "karotenu",
+        "7-dehydrocholesterolu"
+      ],
+      "answer": 3,
+      "explain": "Skóra syntezuje witaminę D3 z 7-dehydrocholesterolu."
+    },
+    {
+      "q": "Kości są magazynem:",
+      "options": [
+        "żelaza i miedzi",
+        "sodu i potasu",
+        "wapnia i fosforu",
+        "glikogenu"
+      ],
+      "answer": 2,
+      "explain": "Kości są magazynem wapnia i fosforu."
+    },
+    {
+      "q": "Mięsień, który kurczy się niezależnie i bez cech zmęczenia, to:",
+      "options": [
+        "mięsień szkieletowy",
+        "mięsień sercowy",
+        "mięsień piersiowy",
+        "przepona"
+      ],
+      "answer": 1,
+      "explain": "Mięsień sercowy kurczy się i rozkurcza niezależnie, bez cech zmęczenia."
+    },
+    {
+      "q": "Kolka u konia jest przykładem bolesnego skurczu mięśni:",
+      "options": [
+        "gładkich",
+        "poprzecznie prążkowanych szkieletowych",
+        "piersiowych",
+        "oddechowych"
+      ],
+      "answer": 0,
+      "explain": "Silny skurcz mięśni gładkich jest bardzo bolesny, np. kolka u konia."
+    },
+    {
+      "q": "Sen na stojąco umożliwia koniom:",
+      "options": [
+        "układ ustaleniowy",
+        "układ wieńcowy",
+        "układ RAA",
+        "układ chłonny"
+      ],
+      "answer": 0,
+      "explain": "U koni mięśnie i rozcięgna tworzą układ ustaleniowy umożliwiający sen na stojąco."
+    },
+    {
+      "q": "Ośrodki automatyzmu serca znajdują się w:",
+      "options": [
+        "lewej komorze",
+        "prawym przedsionku",
+        "lewym przedsionku",
+        "przegrodzie międzykomorowej"
+      ],
+      "answer": 1,
+      "explain": "Ośrodki automatyzmu znajdują się w prawym przedsionku."
+    },
+    {
+      "q": "Rozkład pokarmu w jelicie ślepym przeżuwaczy i koni odbywa się głównie dzięki:",
+      "options": [
+        "lipazie",
+        "żółci",
+        "saprofitycznej florze bakteryjnej",
+        "proenzymom trzustki"
+      ],
+      "answer": 2,
+      "explain": "W jelicie ślepym przeżuwaczy i koni rozkład odbywa się dzięki saprofitycznej florze bakteryjnej."
+    },
+    {
+      "q": "Enzymem rozkładającym tłuszcze jest:",
+      "options": [
+        "renina",
+        "gastryna",
+        "sekretyna",
+        "lipaza"
+      ],
+      "answer": 3,
+      "explain": "Za rozpad tłuszczów odpowiada enzym lipaza."
+    },
+    {
+      "q": "Nerki produkują hormon wpływający na wytwarzanie krwinek czerwonych:",
+      "options": [
+        "oksytocynę",
+        "relaksynę",
+        "erytropoetynę",
+        "gastrynę"
+      ],
+      "answer": 2,
+      "explain": "Nerki wpływają na erytropoezę przez produkcję erytropoetyny."
+    },
+    {
+      "q": "Poród indukuje:",
+      "options": [
+        "spadek progesteronu i wydzielanie oksytocyny",
+        "wzrost progesteronu",
+        "wydzielanie reniny",
+        "spadek oksytocyny"
+      ],
+      "answer": 0,
+      "explain": "Poród indukuje spadek progesteronu i wydzielanie oksytocyny."
+    },
+    {
+      "q": "Do hormonów tkankowych należy:",
+      "options": [
+        "histamina",
+        "testosteron",
+        "tyroksyna",
+        "gastryna"
+      ],
+      "answer": 3,
+      "explain": "Hormony tkankowe to np. gastryna, sekretyna, renina i erytropoetyna."
+    },
+    {
+      "q": "Hormony sterydowe są pochodnymi:",
+      "options": [
+        "aminokwasów",
+        "cholesterolu",
+        "białek",
+        "polipeptydów"
+      ],
+      "answer": 1,
+      "explain": "Hormony sterydowe są pochodnymi cholesterolu."
+    },
+    {
+      "q": "Receptory bólowe to:",
+      "options": [
+        "proprioreceptory",
+        "nocyceptory",
+        "fotoreceptory",
+        "chemoreceptory"
+      ],
+      "answer": 1,
+      "explain": "Nocyceptory to receptory bólowe."
+    },
+    {
+      "q": "Narządem równowagi jest:",
+      "options": [
+        "błona bębenkowa",
+        "siatkówka",
+        "błona śluzowa nozdrzy",
+        "ucho wewnętrzne"
+      ],
+      "answer": 3,
+      "explain": "Ucho wewnętrzne poza słyszeniem jest narządem równowagi."
+    },
+    {
+      "q": "Na rysunku okolic ciała konia numer 17 oznacza okolicę:",
+      "options": [
+        "pęcinową",
+        "piętową",
+        "nadgarstka",
+        "stępu"
+      ],
+      "answer": 3,
+      "explain": "Okolica 17 to okolica stępu (14 – pęcinowa, 19 – piętowa, 11 – nadgarstka).",
+      "img": "img/bpc1/okolice-ciala-konia-bez-opisu.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż hormon miejscowy.",
+      "options": [
+        "Gastryna.",
+        "Adrenalina.",
+        "Histamina.",
+        "Tyroksyna."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... steruje całym organizmem wraz układem hormonalnym.",
+      "options": [
+        "Układ wydzielania wewnętrznego",
+        "Układ nerwowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMechanizmy fizjologiczne, dzięki którym organizm żyje, występują wyłącznie na jednym poziomie organizacji ustroju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż narządy układu oddechowego.",
+      "options": [
+        "Gardło.",
+        "Oskrzeliki.",
+        "Krtań dolna.",
+        "Tchawica."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to zużywanie zapasów energii.",
+      "options": [
+        "Katabolizm",
+        "Anabolizm"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Katabolizm i anabolizm zachodzą w organizmie równocześnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Hormony dzielimy na:",
+      "options": [
+        "miejscowe, tkankowe, steroidowe.",
+        "ogólne, tkankowe, steroidowe.",
+        "polipeptydowe, białkowe i steroidowe.",
+        "miejscowe, ogólne, tkankowe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedzi.\nW trakcie starzenia organizmu procesy ... zaczynają przeważać nad procesami ....",
+      "options": [
+        "anaboliczne / katabolicznymi",
+        "kataboliczne / anabolicznymi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW okresie wzrostu przeważają procesy anaboliczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż receptory układu nerwowego.",
+      "options": [
+        "Nocyceptory.",
+        "Termoreceptory.",
+        "Fotoreceptory.",
+        "Chemoreceptory."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo najważniejszej funkcji układu oddechowego należy dostarczanie tlenu do organizmu i wydalenie ....",
+      "options": [
+        "dwutlenku węgla",
+        "dwutlenku siarki"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzekroczenie granic równowagi dynamicznej w którąkolwiek ze stron jest przejściem od fizjologii do patologii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż neuroprzekaźniki komunikujące się z układem nerwowym.",
+      "options": [
+        "GABA.",
+        "Noradrenalina.",
+        "Adrenalina.",
+        "Serotonina."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonsekwencją nieodwracalnego zaburzenia równowagi ustroju jest ....",
+      "options": [
+        "śmierć",
+        "nagłe starzenie się"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Układ nerwowy posiada właściwości regeneracji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż hormony ogólne.",
+      "options": [
+        "Serotonina.",
+        "Histamina.",
+        "Hormony prostaglandyny.",
+        "Hormony trzustki."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to dynamiczna równowaga czynnościowa ustroju.",
+      "options": [
+        "Heterochromia",
+        "Homeostaza"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHormony tkankowe są wydzielane przez komórki, które są gruczołami wydzielania wewnętrznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Nerki wpływają na układ kostny przez produkcję aktywnych postaci witaminy:",
+      "options": [
+        "C.",
+        "A.",
+        "B2.",
+        "D3."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKości są magazynem ... i fosforu, przez co biorą aktywny udział w homeostazie organizmu.",
+      "options": [
+        "wapnia",
+        "żelaza"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUcho wewnętrzne poza słyszeniem jest też narządem równowagi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż czynniki zapewniające homeostazę organizmu zwierząt.",
+      "options": [
+        "Stałość temperatury ustroju.",
+        "Nawodnienie organizmu i objętość płynów krążących.",
+        "Stałość pH organizmu.",
+        "Stałość składu jonów w organizmie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... utrzymuje równowagę pomiędzy ustrojem a otoczeniem.",
+      "options": [
+        "Układ powłokowy",
+        "Układ szkieletowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW błonie śluzowej nozdrzy znajdują się proprioreceptory.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż witaminę, która aktywnie wpływa na metabolizm kości.",
+      "options": [
+        "D3.",
+        "A.",
+        "C.",
+        "B2."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... zapewnia optymalne ciśnienie gazów oddechowych.",
+      "options": [
+        "Homeostaza",
+        "Homeopatia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChemoreceptory umożliwiają czucie smaków",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż narzędzia topograficzne opisujące ciało zwierzęcia.",
+      "options": [
+        "Linia pośrodkowa dogrzbietowa i dobrzuszna.",
+        "Płaszczyzny strzałkowe.",
+        "Płaszczyzna grzbietowa.",
+        "Płaszczyzny topograficzne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPłaszczyzna ... biegnie prostopadle względem płaszczyzny grzbietowej lub strzałkowej.",
+      "options": [
+        "pośrodkowa",
+        "poprzeczna"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nU ptaków w żołądku mięśniowym trawienie ułatwiają znajdujące się tam kamyczki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Płaszczyzna grzbietowa dzieli ciało na:",
+      "options": [
+        "części dogrzbietowe.",
+        "części poprzeczne.",
+        "części organiczne.",
+        "części pośrodkowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... jest nauką zajmującą się budową wewnętrzną organizmów.",
+      "options": [
+        "Anatomia",
+        "Morfologia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSyntopia opisuje położenie narządów względem siebie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najważniejsze okolice ciała dużych zwierząt.",
+      "options": [
+        "Okolica łokciowa.",
+        "Okolica pęcinowa.",
+        "Okolice dołu głodowego.",
+        "Okolica pośladkowa."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... opisuje położenie narządu w organizmie.",
+      "options": [
+        "Skeletotopia",
+        "Holotopia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPłaszczyzna pośrodkowa biegnie wzdłuż kręgosłupa lub linii białej, dzieląc ciało zwierzęcia na połowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż hormon biorący udział w utrzymaniu ciąży.",
+      "options": [
+        "Renina.",
+        "Progesteron.",
+        "Angiotensyna.",
+        "Estriol."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to nauka o czynnościach narządów i ustroju.",
+      "options": [
+        "Fizjologia",
+        "Morfologia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPłaszczyzny strzałkowe biegną równolegle względem płaszczyzny pośrodkowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż płaszczyzny i linie stosowane w anatomii topograficznej zwierząt.",
+      "options": [
+        "Linia pośrodkowa dogrzbietowa.",
+        "Płaszczyzna grzbietowa.",
+        "Linia podudzia.",
+        "Linia pośrodkowa dobrzuszna."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... biegnie od nosa przez grzbiet do nasady ogona.",
+      "options": [
+        "Linia pośrodkowa dogrzbietowa",
+        "Linia pośrodkowa dobrzuszna"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkolice ciała to umownie oznaczone pola ograniczone przez mięśnie lub kości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Komórki śródmiąższowe jądra produkują:",
+      "options": [
+        "testosteron.",
+        "progesteron",
+        "estrogeny.",
+        "relaksynę."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNaukę o narządach wewnętrznych nazywamy ....",
+      "options": [
+        "splanchnologią",
+        "estezjologią"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkeletotopia określa położenie narządu w organizmie względem kości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Nauka o stawach to:",
+      "options": [
+        "miologia.",
+        "osteologia.",
+        "gastrologia.",
+        "artrologia."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNaukę o narządach wewnętrznych nazywamy splanchnologią.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Tkanka mięśniowa gładka występuje w narządach wewnętrznych tj.",
+      "options": [
+        "jelitach.",
+        "macicy.",
+        "żołądku.",
+        "oskrzelach."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż narządy układu mięśniowego.",
+      "options": [
+        "mięsień sercowy.",
+        "mięśnie poprzecznie prążkowane.",
+        "mięśnie gładkie.",
+        "staw łokciowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLinia pośrodkowa dogrzbietowa biegnie od nosa przez grzbiet do nasady ogona.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Nauka o więzadłach to:",
+      "options": [
+        "osteologia.",
+        "miologia.",
+        "endokrynologia.",
+        "syndesmologia."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład powłokowy osłania narządy wewnętrzne przed wpływami środowiska zewnętrznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nFizjopatologia to nauka o czynnościach narządów i ustroju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Układ powłokowy syntezuje witaminę:",
+      "options": [
+        "D3 z 7-dihydrocholesterolem.",
+        "C z 7-dihydrocholesterolem.",
+        "A z 7-dihydrocholesterolem.",
+        "B2 z 7-dihydrocholesterolem."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najważniejsze części ciała dużych zwierząt.",
+      "options": [
+        "Okolice głowy.",
+        "Okolice szyi.",
+        "Okolice brzucha.",
+        "Okolice klatki piersiowej."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHolotopia opisuje położenie narządu w organizmie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Histologia to:",
+      "options": [
+        "nauka o tkankach.",
+        "nauka o komórkach.",
+        "nauka o żołądku i jego chorobach.",
+        "nauka o mięśniach."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W skład układu wewnątrzwydzielniczego wchodzą:",
+      "options": [
+        "przysadka mózgowa.",
+        "cewka moczowa.",
+        "żwacz.",
+        "tchawica."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAnatomia jest nauką zajmującą się budową wewnętrzną organizmów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPłaszczyzna poprzeczna biegnie prostopadle względem płaszczyzny grzbietowej lub strzałkowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gastroenterologia to:",
+      "options": [
+        "nauka o układzie nerwowym.",
+        "nauka o chorobach i fizjologii żołądka i jelit.",
+        "nauka o narządach wydalniczych.",
+        "nauka o narządach wydzielania wewnętrznego i ich chorobach."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Homeostaza zapewnia optymalne ciśnienie gazów oddechowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Andrologia to:",
+      "options": [
+        "nauka o przyjmowaniu porodu i przebiegu ciąży wraz z patologią.",
+        "nauka o układzie płciowym męskim i jego chorobach.",
+        "nauka o żołądku i jego chorobach.",
+        "nauka o układzie płciowym damskim i jego schorzeniach."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład powłokowy utrzymuje równowagę pomiędzy ustrojem a otoczeniem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż narządy wydalnicze, którymi zajmuje się urologia.",
+      "options": [
+        "Moczowody.",
+        "Cewka moczowa.",
+        "Nerki.",
+        "Jelito grube."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W obszarze zainteresowań splanchnologii mieści się budowa układu:",
+      "options": [
+        "mięśniowego.",
+        "pokarmowego.",
+        "nerwowego.",
+        "naczyniowego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKości są magazynem żelaza i fosforu, przez co biorą aktywny udział w homeostazie organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż funkcje układu krążenia.",
+      "options": [
+        "Transport zwrotny substancji przemiany materii i CO2 do płuc.",
+        "Transport tlenu i składników odżywczych do komórek.",
+        "Regulowanie homeostazy hormonalnej.",
+        "Transport zwrotny substancji przemiany materii i CO2 układu wydalniczego i płuc."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHomeostaza to dynamiczna równowaga czynnościowa ustroju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonsekwencją nieodwracalnego zaburzenia równowagi ustroju jest nagłe starzenie się.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Receptory akustyczne to:",
+      "options": [
+        "receptory bólowe.",
+        "receptory umożliwiające słyszenie.",
+        "receptory własne czucia głębokiego.",
+        "receptory rejestrujące obraz."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo najważniejszej funkcji układu oddechowego należy dostarczanie tlenu do organizmu i wydalenie CO2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW trakcie starzenia się organizmu zaczynają przeważać procesy kataboliczne",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład oddechowy bierze udział w utrzymaniu równowagi kwasowo-zasadowej poprzez wydychanie dwutlenku węgla.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKatabolizm to zużywanie zapasów energii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż gruczoły skóry.",
+      "options": [
+        "Gruczoły potowe.",
+        "Gruczoł mlekowy.",
+        "Gruczoły łojowe.",
+        "Gruczoły śluzowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Receptory układu nerwowego wrażliwe na bodźce mechaniczne nazywamy:",
+      "options": [
+        "mechanoreceptorami.",
+        "receptorami akustycznymi.",
+        "fotoreceptorami.",
+        "proprioreceptorami."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład nerwowy steruje całym organizmem oraz układem hormonalnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż wytwory skóry.",
+      "options": [
+        "Racice.",
+        "Kopyta.",
+        "Rogi.",
+        "Rzęsy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż, co wchodzi w skład żółci wytwarzanej przez wątrobę w procesie trawienia.",
+      "options": [
+        "Błona śluzowa.",
+        "Enzymy.",
+        "Pepsynogen.",
+        "Sole kwasu solnego."
+      ],
+      "answers": [
+        3
+      ]
+    }
+  ]
+}

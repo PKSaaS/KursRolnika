@@ -1,0 +1,663 @@
+{
+  "id": "exam_2016_08",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz sierpień 2016",
+  "number": "2016/08",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Rośliną dnia krótkiego jest",
+      "back": "kukurydza."
+    },
+    {
+      "front": "Gleby o odczynie obojętnym są odpowiednie do uprawy [tabela – bardzo wrażliwe na kwaśny odczyn (pH 6,6–7,0): burak cukrowy, kukurydza, lucerna, koniczyna, groch; wrażliwe (pH 6,1–6,5): pszenica, jęczmień, rzepak, bobik, pszenżyto; średnio wrażliwe (pH 5,6–6,0): owies, ziemniaki, mieszanki zbożowe]",
+      "back": "lucerny."
+    },
+    {
+      "front": "Po zbiorze rzepaku ozimego nie jest wskazana uprawa",
+      "back": "buraków cukrowych."
+    },
+    {
+      "front": "Na jaką powierzchnię gruntów ornych można zastosować obornik przechowywany na płycie o wymiarach 50 m x 20 m x 1,5 m, jeśli zaplanowana dawka wynosi 30 t/ha, a 1 m3 nawozu waży 900 kg?",
+      "back": "45 ha"
+    },
+    {
+      "front": "Na podstawie danych zawartych w tabeli wskaż próbkę nasion pszenicy o najwyższej wartości użytkowej. [tabela – czystość / zdolność kiełkowania: I 98% / 95%; II 98% / 80%; III 95% / 90%; IV 99% / 90%]",
+      "back": "I"
+    },
+    {
+      "front": "Ile jednostek siewnych kukurydzy należy przygotować do siewu na polu o powierzchni 5 ha, przy planowanej obsadzie roślin 90 tys./ha? [tabela – zapotrzebowanie na materiał siewny przy założeniu 90% wschodów polowych; obsada na 1 ha podczas zbioru 80 / 85 / 90 / 95 / 100 / 105 tys.; odległość między roślinami w rzędzie (cm) przy rozstawie 70 cm: 16,2 / 15,3 / 14,4 / 13,7 / 13 / 12,4; przy 75 cm: 15,2 / 14,3 / 13,5 / 12,8 / 12,1 / 11,5; przy 80 cm: 14,2 / 13,4 / 12,6 / 12 / 11,4 / 10,8; ilość j.s./ha (80 000 nasion): 1,1 / 1,17 / 1,24 / 1,31 / 1,38 / 1,44]",
+      "back": "6,20 j.s./ha"
+    },
+    {
+      "front": "Szczepienie nasion bakteriami brodawkowymi stosuje się przed siewem roślin",
+      "back": "motylkowatych."
+    },
+    {
+      "front": "Rośliny ozime należy wysiewać w kolejności:",
+      "back": "rzepak, wyka, jęczmień, żyto, pszenica."
+    },
+    {
+      "front": "Po zbiorze rzepaku ozimego należy wykonać zespół uprawek",
+      "back": "pożniwnych."
+    },
+    {
+      "front": "Zbielałe kłosy pszenicy są objawem wystąpienia",
+      "back": "fuzariozy.",
+      "img": "img/exam_2016_08/zad10.jpg"
+    },
+    {
+      "front": "Chwastem jednoliściennym jest",
+      "back": "miotła zbożowa."
+    },
+    {
+      "front": "Stosowanie ultradźwięków do zwalczania szkodników magazynowych należy do metod ochrony roślin",
+      "back": "fizycznych."
+    },
+    {
+      "front": "Który środek ochrony roślin jest fungicydem stosowanym w uprawie ziemniaków? [tabela: Sencor 70 WG – chwastobójczy; Calypso 480 EC – na stonkę; Pyton 60 WG – grzybobójczy na alternariozę i zarazę ziemniaka; Basta 150 SL – do niszczenia łęcin]",
+      "back": "Pyton 60 WG."
+    },
+    {
+      "front": "Elementy robocze wału do wgłębnego ugniatania roli przedstawia rysunek",
+      "back": "[rysunek C: rzadko rozstawione pierścienie o ostrym, klinowym profilu]",
+      "img": "img/exam_2016_08/zad14.jpg"
+    },
+    {
+      "front": "Poziomowanie podłużne pługów zawieszanych wykonuje się za pomocą",
+      "back": "łącznika."
+    },
+    {
+      "front": "Podczas długotrwałego przechowywania ziemniaków konsumpcyjnych minimalna temperatura i maksymalna wilgotność powinny wynosić odpowiednio: [tabela – temperatura / wilgotność względna powietrza: sadzeniaki 2–6 °C / 90–95%; jadalne 4–6 °C / 90–95%; do przerobu na produkty spożywcze oraz paszowe 6–8 °C / 90–95%; przemysł skrobiowy i gorzelniczy do 4 °C / 90–95%]",
+      "back": "temperatura 4°C, wilgotność 95%"
+    },
+    {
+      "front": "Na schemacie układu oddechowego krowy numerem 1 oznaczono",
+      "back": "tchawicę.",
+      "img": "img/exam_2016_08/zad17.jpg"
+    },
+    {
+      "front": "Proces połączenia plemnika z komórką jajową przebiegający w jajowodzie samicy to",
+      "back": "zapłodnienie."
+    },
+    {
+      "front": "Zwierzę przedstawione na ilustracji to",
+      "back": "kaczka.",
+      "img": "img/exam_2016_08/zad19.jpg"
+    },
+    {
+      "front": "Typ użytkowy mleczny reprezentuje bydło rasy",
+      "back": "jersey."
+    },
+    {
+      "front": "Najbardziej masywna, dobrze wykorzystująca pasze rasa bydła, przydatna do opasu intensywnego, to [tabela – masa ciała buhaj/krowa i przyrosty dobowe buhaj/krowa: aberdeen angus 800/500 kg, 1050/950 g; charolaise 1050/800 kg, 1130/1040 g; hereford 835/550 kg, 985/880 g; salers 800/500 kg, 1050/950 g]",
+      "back": "charolaise."
+    },
+    {
+      "front": "Otręby pszenne wykorzystuje się w żywieniu zwierząt przede wszystkim ze względu na ich właściwości",
+      "back": "mlekopędne."
+    },
+    {
+      "front": "Zbiór pierwszego pokosu lucerny użytkowanej 3-kośnie z przeznaczeniem na zielonkę należy wykonać",
+      "back": "w fazie pąkowania."
+    },
+    {
+      "front": "Zawartość włókna w dawce pokarmowej dla krowy mlecznej wpływa na",
+      "back": "procent tłuszczu w mleku."
+    },
+    {
+      "front": "Do usuwania zawiązków rogów u bydła metodą termiczną stosuje się",
+      "back": "dekornizator gazowy."
+    },
+    {
+      "front": "Na podstawie przedstawionych rysunków ustal prawidłową kolejność czynności wykonywanych podczas doju. (Rysunki: 1 – wycieranie wymienia ręcznikiem; 2 – zdajanie pierwszych strug do przedzdajacza; 3 – zanurzanie strzyków w kubku z preparatem dezynfekcyjnym; 4 – zakładanie aparatu udojowego.)",
+      "back": "2, 1, 4, 3",
+      "img": "img/exam_2016_08/zad26.jpg"
+    },
+    {
+      "front": "Odrobaczanie ciężarnej lochy należy wykonać",
+      "back": "najpóźniej 5 dni przed przeniesieniem do sektora porodowego."
+    },
+    {
+      "front": "Przed każdorazowym zasiedleniem chlewni nową partią świń dezynfekcję pomieszczenia wykonuje się w celu",
+      "back": "zniszczenia chorobotwórczych mikroorganizmów."
+    },
+    {
+      "front": "Przygotowanie kojca porodowego dla lochy wymaga",
+      "back": "wyczyszczenia, umycia i dezynfekcji kojca."
+    },
+    {
+      "front": "Oblicz powierzchnię kurnika dla 1 500 niosek utrzymywanych na ściółce, jeśli norma obsady wynosi 6 ptaków/m2.",
+      "back": "250 m2"
+    },
+    {
+      "front": "Cielęta do drugiego tygodnia życia powinny być utrzymywane",
+      "back": "w kojcach indywidualnych na ściółce."
+    },
+    {
+      "front": "Porażenie kończyn u drobiu wskazuje na objawy wystąpienia",
+      "back": "choroby Mareka.",
+      "img": "img/exam_2016_08/zad32.jpg"
+    },
+    {
+      "front": "Do oznaczania ras w księdze rejestracji bydła stosuje się",
+      "back": "kody literowe określone w przepisach o systemie identyfikacji i rejestracji zwierząt."
+    },
+    {
+      "front": "W rolnictwie ekologicznym niedozwolone jest zapobieganie chorobom zwierząt poprzez",
+      "back": "profilaktyczne podawanie antybiotyków."
+    },
+    {
+      "front": "Do której klasy EUROP zostanie zaklasyfikowana tusza barania o wadze 80 kg, w której zawartość chudego mięsa wynosi 40 kg? [tabela – zawartość chudego mięsa: S ≥ 60%; E 55–60%; U 50–55%; R 45–50%; O 40–45%; P < 40%; klasa = zawartość chudego mięsa w tuszy / masa tuszy × 100%]",
+      "back": "Klasa tuszy U"
+    },
+    {
+      "front": "Sprzedaż bezpośrednia produktów pochodzenia zwierzęcego może być prowadzona po uzyskaniu zgody",
+      "back": "Powiatowego Lekarza Weterynarii."
+    },
+    {
+      "front": "W chlewniach z bezściółkowym systemem utrzymania zwierząt do mechanicznego usuwania gnojowicy stosuje się",
+      "back": "przenośnik typu delta."
+    },
+    {
+      "front": "Do zasilania silników wysokoprężnych z zapłonem samoczynnym stosuje się",
+      "back": "olej napędowy."
+    },
+    {
+      "front": "Wadą stosowania kolektorów słonecznych w gospodarstwie rolnym jest",
+      "back": "spadek sprawności w miesiącach zimowych."
+    },
+    {
+      "front": "Do pionowego przemieszczania ziarna zbóż w silosie zbożowym służy przenośnik",
+      "back": "czerpakowy."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Rośliną dnia krótkiego jest",
+      "options": [
+        "gryka.",
+        "pszenica.",
+        "jęczmień.",
+        "kukurydza."
+      ],
+      "answer": 3,
+      "explain": "Kukurydza pochodzi z obszarów tropikalnych i jest rośliną dnia krótkiego; zboża to rośliny dnia długiego.",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Gleby o odczynie obojętnym są odpowiednie do uprawy [tabela – bardzo wrażliwe na kwaśny odczyn (pH 6,6–7,0): burak cukrowy, kukurydza, lucerna, koniczyna, groch; wrażliwe (pH 6,1–6,5): pszenica, jęczmień, rzepak, bobik, pszenżyto; średnio wrażliwe (pH 5,6–6,0): owies, ziemniaki, mieszanki zbożowe]",
+      "options": [
+        "owsa.",
+        "lucerny.",
+        "pszenżyta.",
+        "ziemniaków."
+      ],
+      "answer": 1,
+      "explain": "Z tabeli: lucerna wymaga pH 6,6–7,0, czyli odczynu obojętnego.",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "Po zbiorze rzepaku ozimego nie jest wskazana uprawa",
+      "options": [
+        "pszenicy ozimej.",
+        "grochu siewnego.",
+        "jęczmienia ozimego.",
+        "buraków cukrowych."
+      ],
+      "answer": 3,
+      "explain": "Rzepak i burak mają wspólne szkodniki (mątwik burakowy), dlatego buraków nie uprawia się po rzepaku.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Na jaką powierzchnię gruntów ornych można zastosować obornik przechowywany na płycie o wymiarach 50 m x 20 m x 1,5 m, jeśli zaplanowana dawka wynosi 30 t/ha, a 1 m3 nawozu waży 900 kg?",
+      "options": [
+        "15 ha",
+        "30 ha",
+        "45 ha",
+        "50 ha"
+      ],
+      "answer": 2,
+      "explain": "50 × 20 × 1,5 = 1500 m3; 1500 × 0,9 t = 1350 t; 1350 t : 30 t/ha = 45 ha.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Na podstawie danych zawartych w tabeli wskaż próbkę nasion pszenicy o najwyższej wartości użytkowej. [tabela – czystość / zdolność kiełkowania: I 98% / 95%; II 98% / 80%; III 95% / 90%; IV 99% / 90%]",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": 0,
+      "explain": "Wartość użytkowa = czystość × zdolność kiełkowania / 100: I = 93,1%, II = 78,4%, III = 85,5%, IV = 89,1% – najwyższa ma próbka I.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Ile jednostek siewnych kukurydzy należy przygotować do siewu na polu o powierzchni 5 ha, przy planowanej obsadzie roślin 90 tys./ha? [tabela – zapotrzebowanie na materiał siewny przy założeniu 90% wschodów polowych; obsada na 1 ha podczas zbioru 80 / 85 / 90 / 95 / 100 / 105 tys.; odległość między roślinami w rzędzie (cm) przy rozstawie 70 cm: 16,2 / 15,3 / 14,4 / 13,7 / 13 / 12,4; przy 75 cm: 15,2 / 14,3 / 13,5 / 12,8 / 12,1 / 11,5; przy 80 cm: 14,2 / 13,4 / 12,6 / 12 / 11,4 / 10,8; ilość j.s./ha (80 000 nasion): 1,1 / 1,17 / 1,24 / 1,31 / 1,38 / 1,44]",
+      "options": [
+        "1,24 j.s./ha",
+        "6,20 j.s./ha",
+        "12,60 j.s./ha",
+        "14,40 j.s./ha"
+      ],
+      "answer": 1,
+      "explain": "Z tabeli: 1,24 j.s./ha × 5 ha = 6,2 j.s.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "Szczepienie nasion bakteriami brodawkowymi stosuje się przed siewem roślin",
+      "options": [
+        "zbożowych.",
+        "okopowych.",
+        "przemysłowych.",
+        "motylkowatych."
+      ],
+      "answer": 3,
+      "explain": "Bakterie brodawkowe żyją w symbiozie z roślinami motylkowatymi i wiążą azot atmosferyczny.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Rośliny ozime należy wysiewać w kolejności:",
+      "options": [
+        "rzepak, wyka, jęczmień, żyto, pszenica.",
+        "wyka, pszenica, rzepak, jęczmień, żyto.",
+        "jęczmień, rzepak, wyka, żyto, pszenica.",
+        "pszenica, żyto, jęczmień, wyka, rzepak."
+      ],
+      "answer": 0,
+      "explain": "Najwcześniej sieje się rzepak ozimy (sierpień), potem wykę, jęczmień, żyto, a najpóźniej pszenicę.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Po zbiorze rzepaku ozimego należy wykonać zespół uprawek",
+      "options": [
+        "wiosennych.",
+        "pożniwnych.",
+        "przedsiewnych.",
+        "przedzimowych."
+      ],
+      "answer": 1,
+      "explain": "Bezpośrednio po zbiorze przedplonu wykonuje się uprawki pożniwne (podorywka, bronowanie).",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Zbielałe kłosy pszenicy są objawem wystąpienia",
+      "options": [
+        "fuzariozy.",
+        "rizoktoniozy.",
+        "pleśni śniegowej.",
+        "głowni pyłkowej."
+      ],
+      "answer": 0,
+      "explain": "Fuzarioza kłosów powoduje przedwczesne bielenie części lub całych kłosów.",
+      "src": "Zad. 10",
+      "img": "img/exam_2016_08/zad10.jpg"
+    },
+    {
+      "q": "Chwastem jednoliściennym jest",
+      "options": [
+        "mak polny.",
+        "ostrożeń polny.",
+        "miotła zbożowa.",
+        "przytulia czepna."
+      ],
+      "answer": 2,
+      "explain": "Miotła zbożowa to trawa, czyli roślina jednoliścienna; pozostałe to chwasty dwuliścienne.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Stosowanie ultradźwięków do zwalczania szkodników magazynowych należy do metod ochrony roślin",
+      "options": [
+        "fizycznych.",
+        "chemicznych.",
+        "biologicznych.",
+        "agrotechnicznych."
+      ],
+      "answer": 0,
+      "explain": "Ultradźwięki, temperatura czy promieniowanie to metody fizyczne.",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Który środek ochrony roślin jest fungicydem stosowanym w uprawie ziemniaków? [tabela: Sencor 70 WG – chwastobójczy; Calypso 480 EC – na stonkę; Pyton 60 WG – grzybobójczy na alternariozę i zarazę ziemniaka; Basta 150 SL – do niszczenia łęcin]",
+      "options": [
+        "Basta 150 SL.",
+        "Pyton 60 WG.",
+        "Sencor 70 WG.",
+        "Calypso 480 EC."
+      ],
+      "answer": 1,
+      "explain": "Z tabeli: Pyton 60 WG to preparat grzybobójczy (fungicyd).",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "Elementy robocze wału do wgłębnego ugniatania roli przedstawia rysunek",
+      "options": [
+        "[rysunek A: pierścienie z wystającymi zębami na obwodzie]",
+        "[rysunek B: gładki walec]",
+        "[rysunek C: rzadko rozstawione pierścienie o ostrym, klinowym profilu]",
+        "[rysunek D: szeroki walec z podłużnymi listwami na obwodzie]"
+      ],
+      "answer": 2,
+      "explain": "Wgłębnie ugniata rolę wał Campbella, zbudowany z rzadko rozstawionych pierścieni o klinowym profilu.",
+      "src": "Zad. 14",
+      "img": "img/exam_2016_08/zad14.jpg"
+    },
+    {
+      "q": "Poziomowanie podłużne pługów zawieszanych wykonuje się za pomocą",
+      "options": [
+        "łącznika.",
+        "cięgła bocznego.",
+        "prawego wieszaka.",
+        "koła podporowego."
+      ],
+      "answer": 0,
+      "explain": "Zmiana długości łącznika górnego pochyla pług do przodu lub do tyłu (poziomowanie podłużne); prawy wieszak służy do poziomowania poprzecznego.",
+      "src": "Zad. 15"
+    },
+    {
+      "q": "Podczas długotrwałego przechowywania ziemniaków konsumpcyjnych minimalna temperatura i maksymalna wilgotność powinny wynosić odpowiednio: [tabela – temperatura / wilgotność względna powietrza: sadzeniaki 2–6 °C / 90–95%; jadalne 4–6 °C / 90–95%; do przerobu na produkty spożywcze oraz paszowe 6–8 °C / 90–95%; przemysł skrobiowy i gorzelniczy do 4 °C / 90–95%]",
+      "options": [
+        "temperatura 2°C, wilgotność 90%",
+        "temperatura 4°C, wilgotność 95%",
+        "temperatura 6°C, wilgotność 90%",
+        "temperatura 8°C, wilgotność 95%"
+      ],
+      "answer": 1,
+      "explain": "Z tabeli dla ziemniaków jadalnych: minimum 4 °C, maksimum wilgotności 95%.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Na schemacie układu oddechowego krowy numerem 1 oznaczono",
+      "options": [
+        "krtań.",
+        "płuca.",
+        "gardło.",
+        "tchawicę."
+      ],
+      "answer": 3,
+      "explain": "Pierścieniowany przewód łączący krtań z płucami to tchawica.",
+      "src": "Zad. 17",
+      "img": "img/exam_2016_08/zad17.jpg"
+    },
+    {
+      "q": "Proces połączenia plemnika z komórką jajową przebiegający w jajowodzie samicy to",
+      "options": [
+        "kopulacja.",
+        "inseminacja.",
+        "zapłodnienie.",
+        "jajeczkowanie."
+      ],
+      "answer": 2,
+      "explain": "Zapłodnienie to połączenie gamet męskiej i żeńskiej, zachodzące w jajowodzie.",
+      "src": "Zad. 18"
+    },
+    {
+      "q": "Zwierzę przedstawione na ilustracji to",
+      "options": [
+        "gęś.",
+        "indyk.",
+        "kaczka.",
+        "przepiórka."
+      ],
+      "answer": 2,
+      "explain": "Płaski dziób i czerwone brodawki wokół oczu to cechy kaczki piżmowej.",
+      "src": "Zad. 19",
+      "img": "img/exam_2016_08/zad19.jpg"
+    },
+    {
+      "q": "Typ użytkowy mleczny reprezentuje bydło rasy",
+      "options": [
+        "jersey.",
+        "limousine.",
+        "polskiej czerwonej.",
+        "polskiej czerwono-białej."
+      ],
+      "answer": 0,
+      "explain": "Jersey to wyspecjalizowana rasa mleczna; limousine jest mięsna, a polskie rasy czerwona i czerwono-biała są ogólnoużytkowe.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Najbardziej masywna, dobrze wykorzystująca pasze rasa bydła, przydatna do opasu intensywnego, to [tabela – masa ciała buhaj/krowa i przyrosty dobowe buhaj/krowa: aberdeen angus 800/500 kg, 1050/950 g; charolaise 1050/800 kg, 1130/1040 g; hereford 835/550 kg, 985/880 g; salers 800/500 kg, 1050/950 g]",
+      "options": [
+        "salers.",
+        "hereford.",
+        "charolaise.",
+        "aberdeen angus."
+      ],
+      "answer": 2,
+      "explain": "Z tabeli: charolaise ma największą masę ciała i najwyższe przyrosty dobowe.",
+      "src": "Zad. 21"
+    },
+    {
+      "q": "Otręby pszenne wykorzystuje się w żywieniu zwierząt przede wszystkim ze względu na ich właściwości",
+      "options": [
+        "tuczące.",
+        "mlekopędne.",
+        "zatwardzające.",
+        "bakteriobójcze."
+      ],
+      "answer": 1,
+      "explain": "Otręby pszenne mają działanie dietetyczne i mlekopędne, dlatego podaje się je m.in. krowom i maciorom w laktacji.",
+      "src": "Zad. 22"
+    },
+    {
+      "q": "Zbiór pierwszego pokosu lucerny użytkowanej 3-kośnie z przeznaczeniem na zielonkę należy wykonać",
+      "options": [
+        "po kwitnieniu.",
+        "w pełnym kwiecie.",
+        "w fazie pąkowania.",
+        "w okresie zawiązywania strąków."
+      ],
+      "answer": 2,
+      "explain": "W fazie pąkowania lucerna ma najwięcej białka i najlepszą strawność.",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Zawartość włókna w dawce pokarmowej dla krowy mlecznej wpływa na",
+      "options": [
+        "długość trwania rui.",
+        "procent tłuszczu w mleku.",
+        "szybkość oddawania mleka.",
+        "przyswajalność wapnia w organizmie."
+      ],
+      "answer": 1,
+      "explain": "Włókno sprzyja fermentacji octowej w żwaczu, a kwas octowy jest prekursorem tłuszczu mleka.",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Do usuwania zawiązków rogów u bydła metodą termiczną stosuje się",
+      "options": [
+        "nóż Robertsa.",
+        "krążki gumowe.",
+        "kleszcze Burdizzo.",
+        "dekornizator gazowy."
+      ],
+      "answer": 3,
+      "explain": "Dekornizator (gazowy lub elektryczny) wypala zawiązki rogów, czyli działa termicznie.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "Na podstawie przedstawionych rysunków ustal prawidłową kolejność czynności wykonywanych podczas doju. (Rysunki: 1 – wycieranie wymienia ręcznikiem; 2 – zdajanie pierwszych strug do przedzdajacza; 3 – zanurzanie strzyków w kubku z preparatem dezynfekcyjnym; 4 – zakładanie aparatu udojowego.)",
+      "options": [
+        "1, 2, 3, 4",
+        "2, 1, 4, 3",
+        "4, 1, 2, 3",
+        "3, 1, 4, 2"
+      ],
+      "answer": 1,
+      "explain": "Kolejność: przedzdajanie (2), mycie i osuszenie wymienia (1), założenie aparatu (4), dezynfekcja strzyków po doju (3).",
+      "src": "Zad. 26",
+      "img": "img/exam_2016_08/zad26.jpg"
+    },
+    {
+      "q": "Odrobaczanie ciężarnej lochy należy wykonać",
+      "options": [
+        "w dniu porodu.",
+        "bezpośrednio po kryciu/ inseminacji.",
+        "w dniu przeniesienia do sektora porodowego.",
+        "najpóźniej 5 dni przed przeniesieniem do sektora porodowego."
+      ],
+      "answer": 3,
+      "explain": "Lochę odrobacza się kilka dni przed przeniesieniem na porodówkę, by nie przenieść tam pasożytów i ich jaj.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Przed każdorazowym zasiedleniem chlewni nową partią świń dezynfekcję pomieszczenia wykonuje się w celu",
+      "options": [
+        "zwalczania gryzoni.",
+        "tępienia szkodliwych owadów.",
+        "zmniejszenia stężenia amoniaku.",
+        "zniszczenia chorobotwórczych mikroorganizmów."
+      ],
+      "answer": 3,
+      "explain": "Dezynfekcja niszczy drobnoustroje chorobotwórcze (owady zwalcza dezynsekcja, gryzonie – deratyzacja).",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "Przygotowanie kojca porodowego dla lochy wymaga",
+      "options": [
+        "usunięcia barierek ochronnych.",
+        "zamontowania płyty grzewczej dla lochy.",
+        "wyczyszczenia, umycia i dezynfekcji kojca.",
+        "wymontowania instalacji wentylacji mechanicznej."
+      ],
+      "answer": 2,
+      "explain": "Przed wprowadzeniem lochy kojec porodowy dokładnie się czyści, myje i dezynfekuje.",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Oblicz powierzchnię kurnika dla 1 500 niosek utrzymywanych na ściółce, jeśli norma obsady wynosi 6 ptaków/m2.",
+      "options": [
+        "250 m2",
+        "600 m2",
+        "1 500 m2",
+        "9 000 m2"
+      ],
+      "answer": 0,
+      "explain": "1500 niosek : 6 ptaków/m2 = 250 m2.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "Cielęta do drugiego tygodnia życia powinny być utrzymywane",
+      "options": [
+        "na stanowiskach bezściółkowych.",
+        "w kojcach indywidualnych na ściółce.",
+        "na stanowiskach, na ściółce głębokiej.",
+        "w kojcach grupowych bezściółkowych."
+      ],
+      "answer": 1,
+      "explain": "Najmłodsze cielęta utrzymuje się w kojcach indywidualnych na ściółce, co ogranicza choroby i ułatwia obserwację.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Porażenie kończyn u drobiu wskazuje na objawy wystąpienia",
+      "options": [
+        "tyfusu kur.",
+        "kanibalizmu.",
+        "salmonellozy.",
+        "choroby Mareka."
+      ],
+      "answer": 3,
+      "explain": "Choroba Mareka uszkadza nerwy obwodowe, powodując porażenie kończyn (np. „pozycja szpagatu”).",
+      "src": "Zad. 32",
+      "img": "img/exam_2016_08/zad32.jpg"
+    },
+    {
+      "q": "Do oznaczania ras w księdze rejestracji bydła stosuje się",
+      "options": [
+        "skróty polskich nazw ras.",
+        "polskie nazwy ras w pełnym brzmieniu.",
+        "skróty nazw ras z uwzględnieniem angielskiej pisowni.",
+        "kody literowe określone w przepisach o systemie identyfikacji i rejestracji zwierząt."
+      ],
+      "answer": 3,
+      "explain": "W księdze rejestracji bydła rasę wpisuje się kodem literowym określonym w przepisach o systemie IRZ.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "W rolnictwie ekologicznym niedozwolone jest zapobieganie chorobom zwierząt poprzez",
+      "options": [
+        "zmniejszanie obsady zwierząt.",
+        "dobór odpowiednich ras i odmian.",
+        "profilaktyczne podawanie antybiotyków.",
+        "stosowanie wentylacji mechanicznej pomieszczeń inwentarskich."
+      ],
+      "answer": 2,
+      "explain": "W rolnictwie ekologicznym zabronione jest profilaktyczne stosowanie antybiotyków i chemicznych leków weterynaryjnych.",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Do której klasy EUROP zostanie zaklasyfikowana tusza barania o wadze 80 kg, w której zawartość chudego mięsa wynosi 40 kg? [tabela – zawartość chudego mięsa: S ≥ 60%; E 55–60%; U 50–55%; R 45–50%; O 40–45%; P < 40%; klasa = zawartość chudego mięsa w tuszy / masa tuszy × 100%]",
+      "options": [
+        "Klasa tuszy E",
+        "Klasa tuszy U",
+        "Klasa tuszy R",
+        "Klasa tuszy O"
+      ],
+      "answer": 1,
+      "explain": "40 kg : 80 kg × 100% = 50%, co odpowiada klasie U (50% lub więcej, ale mniej niż 55%).",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "Sprzedaż bezpośrednia produktów pochodzenia zwierzęcego może być prowadzona po uzyskaniu zgody",
+      "options": [
+        "Agencji Rynku Rolnego.",
+        "Instytutu Żywności i Żywienia.",
+        "Powiatowego Lekarza Weterynarii.",
+        "Ministra Rolnictwa i Rozwoju Wsi."
+      ],
+      "answer": 2,
+      "explain": "Sprzedaż bezpośrednia produktów pochodzenia zwierzęcego podlega nadzorowi i rejestracji u Powiatowego Lekarza Weterynarii.",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "W chlewniach z bezściółkowym systemem utrzymania zwierząt do mechanicznego usuwania gnojowicy stosuje się",
+      "options": [
+        "samospływ ciągły.",
+        "szuflę mechaniczną.",
+        "samospływ okresowy.",
+        "przenośnik typu delta."
+      ],
+      "answer": 3,
+      "explain": "Samospływ to metoda grawitacyjna; mechanicznie gnojowicę z kanałów usuwa przenośnik zgarniakowy typu delta.",
+      "src": "Zad. 37"
+    },
+    {
+      "q": "Do zasilania silników wysokoprężnych z zapłonem samoczynnym stosuje się",
+      "options": [
+        "etanol.",
+        "benzynę.",
+        "olej napędowy.",
+        "gaz propan-butan."
+      ],
+      "answer": 2,
+      "explain": "Silniki wysokoprężne (diesla) zasila się olejem napędowym.",
+      "src": "Zad. 38"
+    },
+    {
+      "q": "Wadą stosowania kolektorów słonecznych w gospodarstwie rolnym jest",
+      "options": [
+        "wysoki koszt eksploatacji.",
+        "ograniczony wybór dostawców.",
+        "spadek sprawności w miesiącach zimowych.",
+        "emisja szkodliwych związków dla środowiska."
+      ],
+      "answer": 2,
+      "explain": "Zimą nasłonecznienie jest małe, więc wydajność kolektorów słonecznych wyraźnie spada.",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "Do pionowego przemieszczania ziarna zbóż w silosie zbożowym służy przenośnik",
+      "options": [
+        "rolkowy.",
+        "wstrząsowy.",
+        "czerpakowy.",
+        "zgarniakowy."
+      ],
+      "answer": 2,
+      "explain": "Przenośnik czerpakowy (kubełkowy) transportuje ziarno w pionie.",
+      "src": "Zad. 40"
+    }
+  ]
+}

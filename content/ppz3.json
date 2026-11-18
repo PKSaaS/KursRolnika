@@ -1,0 +1,2143 @@
+{
+  "id": "ppz3",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Podstawy anatomii i fizjologii zwierząt gospodarskich",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – anatomia i fizjologia",
+      "points": [
+        "Zdrowie i wartość produkcyjna zwierząt zależą od czynników dziedzicznych (genetycznych) i środowiskowych.",
+        "Wartość genetyczna jest dziedziczona po rodzicach – to tzw. czynnik niezależny od człowieka.",
+        "Czynniki środowiskowe (racjonalne żywienie, dobrostan, mikroklimat) są w dużej mierze warunkowane przez człowieka.",
+        "Obie grupy czynników działają we wzajemnej korelacji – są współzależne.",
+        "Anatomia – nauka badająca budowę organizmu (położenie, skład, kształt narządów, tkanek, komórek).",
+        "Fizjologia – nauka o czynnościach/procesach życiowych zachodzących w organizmach.",
+        "Układ kostny stanowi „konstrukcję” organizmu – opiera się na nim cała reszta.",
+        "Znajomość układu pokarmowego pozwala na racjonalne żywienie: dobór pasz (do wieku, płci, poziomu produkcji) i zbilansowanie dawki.",
+        "Ciało zwierzęce tworzą układy: kostny, mięśniowy, powłokowy, krwionośny i chłonny, oddechowy, pokarmowy, moczowy, rozrodczy, wewnątrzwydzielniczy (dokrewny), nerwowy oraz narządy zmysłów.",
+        "Anatomia i fizjologia pozwalają hodowcy ustalić m.in. stan zdrowia zwierząt, ich kondycję i wykorzystanie paszy na 1 kg przyrostu.",
+        "Tylko prawidłowa znajomość wymogów i postępowanie zgodnie z nimi daje wysokie wyniki produkcyjne stada, co przekłada się na efekt ekonomiczny gospodarstwa.",
+        "Rys. 3.1 – opisane narządy bydła: widok z prawej strony – przełyk, tchawica, serce, przepona, wątroba, dwunastnica, nerka, trzustka, jelito cienkie, trawieniec, pęcherz moczowy, odbyt, pochwa; widok z lewej strony – tchawica, przełyk, serce, czepiec, śledziona, żwacz, pętle jelita cienkiego, pęcherz moczowy, odbytnica, pochwa."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/narzady-bydla.jpg",
+          "caption": "Rysunek 3.1. Narządy i ich położenie na przykładzie bydła – widok z lewej strony (żwacz po lewej) i z prawej (trawieniec, wątroba, dwunastnica, nerka)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Układ kostny",
+      "points": [
+        "Układ kostny (szkieletowy) tworzą kości czaszki, kości tułowia i kości kończyn.",
+        "Szkielet osiowy – czaszka i kręgosłup; szkielet obwodowy – kości kończyn.",
+        "Kości tułowia: kręgosłup, żebra i mostek.",
+        "Kości kończyn: kości kończyny przedniej i tylnej.",
+        "Funkcje: „rusztowanie” ciała, miejsce przyczepu mięśni, gromadzenie soli mineralnych, tworzenie elementów morfotycznych krwi w szpiku kostnym, ochrona narządów wewnętrznych.",
+        "Rys. 3.4 – stawy kończyny przedniej (obręcz barkowa): barkowy, łokciowy, nadgarstkowy, pęcinowy; stawy kończyny tylnej (obręcz miedniczna): biodrowy, kolanowy, skokowy.",
+        "Kolejność kości kończyny przedniej (od góry): łopatka → kość ramienna → kość łokciowa i kość przedramienia → kości nadgarstka → kości nadpięcia → kość pęcinowa → kość koronowa → kość kopytowa; kończyny tylnej: kości miednicy → kość udowa → kość podudzia → kości stępu → kości nadpięcia → kość pęcinowa → koronowa → kopytowa."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/czaszka-bydla.jpg",
+          "caption": "Rysunek 3.2. Kości czaszki bydła (widok z lewej): 1 – siekaczowa, 2 – nosowa, 3 – szczękowa, 4 – łzowa, 5 – jarzmowa, 6 – czołowa, 7 – wyrostek rogowy (możdżeń), 8 – oczodół, 9 – żuchwa, 10 – zęby sieczne, 11 – przedtrzonowe, 12 – trzonowe."
+        },
+        {
+          "src": "img/ppz3/szkielet-krowy.jpg",
+          "caption": "Rysunek 3.3. Szkielet krowy – kręgosłup (szyjne, piersiowe I–XIII, lędźwiowe, kość krzyżowa, ogonowe), żebra, mostek, kości kończyn."
+        },
+        {
+          "src": "img/ppz3/kosci-konczyn.jpg",
+          "caption": "Rysunek 3.4. Kości i stawy kończyny przedniej (łopatka, kość ramienna, łokciowa, przedramienia, nadgarstka, nadpięcia, pęcinowa, koronowa, kopytowa) i tylnej (kości miednicy, udowa, podudzia, stępu, nadpięcia, pęcinowa, koronowa, kopytowa)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Układ mięśniowy",
+      "points": [
+        "Układ mięśniowy tworzą mięśnie szkieletowe, gładkie i mięsień sercowy oraz ich narządy pomocnicze.",
+        "Funkcje: ruch kości (prostowanie, zginanie), poruszanie niektórymi narządami (gałka oczna, język), regulacja oddychania, unieruchomienie kręgosłupa, utrzymanie pozycji stojącej i przesuwanie ciała.",
+        "Mięśnie zwierząt rzeźnych są surowcem dla przetwórstwa spożywczego.",
+        "Mięśnie szkieletowe (poprzecznie prążkowane) kurczą się zależnie od woli zwierzęcia, po pobudzeniu podnietą naturalną (z ośrodkowego układu nerwowego) lub sztuczną (np. igła, temperatura).",
+        "Skurcz izotoniczny – mięsień skraca się i grubieje przy stałym napięciu, może wykonać pracę.",
+        "Skurcz izometryczny – długość mięśnia się nie zmienia, rośnie napięcie, mięsień nie wykonuje pracy.",
+        "Mięśnie gładkie kurczą się pomimo woli zwierzęcia; występują m.in. w ścianach przewodu pokarmowego, oddechowego, rozrodczego, moczowego i krwionośnego.",
+        "Mięśnie gładkie otrzymują bodźce z autonomicznego układu nerwowego, są bardziej podatne na podniety chemiczne niż elektryczne, większość cechuje automatyzm (skurcze rytmiczne).",
+        "Mięśnie gładkie mogą długo pozostawać w skurczu bez oznak zmęczenia (np. praca żołądka, odbytnicy).",
+        "Serce tworzy tkanka poprzecznie prążkowana serca, działająca niezależnie od woli.",
+        "Narządy pomocnicze mięśni: powięzie (utrzymują mięśnie w położeniu podczas skurczu), kaletki maziowe (zapobiegają uszkodzeniom kości), pochewki ścięgniste (rola jak kaletki), trzeszczki (łagodzą wstrząsy, chronią ścięgna)."
+      ]
+    },
+    {
+      "heading": "3. Układ powłokowy",
+      "points": [
+        "Układ powłokowy to skóra i jej wytwory: włosy, pióra, pazury, racice, kopyta (puszka rogowa), rogi, wymię.",
+        "Funkcje: udział w oddychaniu, bariera między środowiskiem a wnętrzem ciała, termoregulacja, ochrona tkanek przed uszkodzeniami, ochrona przed wnikaniem drobnoustrojów.",
+        "Skóra uczestniczy w wydalaniu szkodliwych produktów przemiany materii oraz reguluje poziom wody i soli mineralnych.",
+        "W skórze znajdują się gruczoły skórne: łojowe, potowe, mlekowe.",
+        "Schemat budowy skóry (rys. 3.6): komórki tłuszczowe, nerwy, gruczoł potowy, naczynia krwionośne, mięsień stroszący włosy, brodawka włosowa, cebulka, pochewka i torebka włosowa, tkanka łączna, korzeń włosa, warstwa żywych komórek naskórka, warstwa zrogowaciała naskórka, trzon włosa, gruczoł łojowy, rdzeń i kora włosa."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/kopyto-racica.jpg",
+          "caption": "Rysunek 3.7. Budowa kopyta (strzałka, linia biała, podeszwa rogowa, ściana puszki rogowej, korona, kość kopytowa, tworzywo kopytowe) i racicy (raciczki, piętka, podeszwa, linia biała, korona, tworzywo, kość raciczna, rogowa puszka raciczna)."
+        },
+        {
+          "src": "img/ppz3/wymie-krowy.jpg",
+          "caption": "Rysunek 3.8. Budowa wymienia krowy – ćwiartki przednia i tylna, strzyki, naczynia krwionośne i chłonne, węzeł chłonny, skóra pokrywająca wymię."
+        },
+        {
+          "src": "img/ppz3/skora-budowa.jpg",
+          "caption": "Rysunek 3.6. Schemat budowy skóry – 18 oznaczonych elementów (legenda pod rysunkiem)."
+        }
+      ]
+    },
+    {
+      "heading": "4. Układ krwionośny i chłonny – budowa i krew",
+      "points": [
+        "Układ krwionośny tworzą serce, naczynia krwionośne (żyły, tętnice, naczynia włosowate) i krew.",
+        "Układ chłonny (limfatyczny) tworzą narządy (węzły, śledziona, migdałki), naczynia chłonne i chłonka (limfa).",
+        "Serce leży w klatce piersiowej na wysokości mostka, między płucami; chroni je worek osierdziowy.",
+        "Krew to tkanka łączna płynna – w 60% osocze oraz elementy morfotyczne.",
+        "Erytrocyty (krwinki czerwone): okrągłe, spłaszczone, średnica 6 µm, powstają w szpiku kostnym, 6–14 mln/mm³; zawierają hemoglobinę, transportują tlen i dwutlenek węgla.",
+        "Leukocyty (krwinki białe): okrągłe, średnica od 4–17 do 40 µm, powstają w szpiku kostnym, grasicy, śledzionie, węzłach chłonnych, 5–13 tys./mm³; bronią organizm przed drobnoustrojami i toksynami.",
+        "Trombocyty (płytki krwi): nieregularny kształt, średnica 2–4 µm, powstają w szpiku kostnym, 120–600 tys./mm³; odpowiadają za krzepnięcie krwi (tworzą skrzep).",
+        "Funkcje krwi: ochrona przed czynnikami chorobotwórczymi (przeciwciała), transport składników odżywczych i produktów przemiany materii, regulacja (ciśnienie osmotyczne, pH), wymiana gazowa między płucami a tkankami.",
+        "Współdziałanie układu limfatycznego i krwionośnego polega głównie na współtworzeniu krwinek białych i przeciwciał.",
+        "Krew składa się w ok. 60% z osocza i w ok. 40% z elementów morfotycznych (krwinek i płytek).",
+        "Układ krwionośny jest powiązany z chłonnym na drodze transportu substancji odżywczych do komórek; naczynia krwionośne to żyły, tętnice oraz naczynia włosowate żylne i tętnicze.",
+        "Węzły chłonne bydła (rys. 3.9): krzyżowy, podkolanowy, fałdu kolanowego, pachowe, przedłopatkowy, gardłowe, przyusznicze, podżuchwowe.",
+        "Układ krwionośny współpracuje także z układem pokarmowym, oddechowym, moczowym i powłokowym."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/uklad-chlonny.jpg",
+          "caption": "Rysunek 3.9. Układ chłonny bydła – węzły: krzyżowy, podkolanowy, fałdu kolanowego, pachowe, przedłopatkowy, gardłowe, przyusznicze, podżuchwowe."
+        }
+      ]
+    },
+    {
+      "heading": "4a. Praca serca i krążenie krwi",
+      "points": [
+        "Faza I – skurcz przedsionków przy rozkurczu komór.",
+        "Faza II – skurcz komór przy rozkurczu przedsionków.",
+        "Faza III – rozkurcz przedsionków i komór (faza spoczynku).",
+        "Tętno bada się: u konia – na tętnicy szczękowej w rynience naczyniowej żuchwy; u bydła – na tętnicy twarzowej na zewnętrznej ścianie żuchwy; u owcy i kozy – na tętnicy udowej po przyśrodkowej stronie uda.",
+        "U świń i ptaków uderzenia serca liczy się przez osłuchiwanie.",
+        "Rytm serca: krowa 60–70, koń 25–40, owca 70–80, koza 70–80, świnia 60–80 uderzeń/minutę.",
+        "Częstotliwość pracy serca zależy od stanu zdrowia, pracy lub spoczynku, wieku i rozmiarów ciała.",
+        "Tętno powstaje, gdy elastyczne ściany aorty rozszerzone przez krew wracają do stanu wyjściowego i wypychają krew do obwodu – wykorzystuje się je w diagnostyce zdrowia.",
+        "Obieg duży (obwodowy): lewa komora → aorta → tętnice → naczynia włosowate → żyły → prawy przedsionek; zaopatruje tkanki w tlen i składniki odżywcze, odprowadza CO₂.",
+        "Obieg mały (płucny): prawa komora → pień płucny → naczynia włosowate → żyły płucne → lewy przedsionek; w płucach krew oddaje CO₂ i pobiera tlen."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/serce-przekroj.jpg",
+          "caption": "Rysunek 3.5. Schemat przekroju serca bydła – przedsionki, komory, aorta, pień płucny, żyły główne i płucne, zastawki."
+        },
+        {
+          "src": "img/ppz3/obieg-krwi.jpg",
+          "caption": "Rysunek 3.10. Schemat obiegu krwi – mały obieg (prawa komora → płuca → lewy przedsionek) i duży obieg (lewa komora → aorta → narządy → żyły czcze → prawy przedsionek)."
+        },
+        {
+          "src": "img/ppz3/praca-serca-fazy.jpg",
+          "caption": "Praca serca odbywa się w trzech fazach: faza I – skurcz przedsionków (komory w rozkurczu), faza II – skurcz komór (przedsionki w rozkurczu), faza III – rozkurcz przedsionków i komór, czyli tzw. faza spoczynku."
+        }
+      ]
+    },
+    {
+      "heading": "5. Układ oddechowy",
+      "points": [
+        "Narządy: jama nosowa, gardło, krtań, tchawica, oskrzela i oskrzeliki, płuca.",
+        "Funkcje: oddychanie zewnętrzne, dostarczanie tlenu i odprowadzanie CO₂.",
+        "Jama nosowa przeprowadza powietrze do płuc, oczyszcza je i ogrzewa; jest wyposażona w narząd węchu.",
+        "Oddychanie zewnętrzne (w płucach) – przechodzenie tlenu z pęcherzyków płucnych do krwi, a CO₂ z krwi do pęcherzyków.",
+        "Oddychanie wewnętrzne (w tkankach) – przechodzenie tlenu z naczyń włosowatych do komórek i CO₂ do krwi.",
+        "Podczas wdechu objętość klatki piersiowej zwiększa się, żebra wysuwają się do przodu; podczas wydechu objętość maleje, żebra wracają.",
+        "Oddychanie wymaga współpracy układu krwionośnego, nerwowego i mięśniowego.",
+        "Częstość oddechów zależy od wieku, wielkości, zmęczenia, stanu podniecenia, temperatury otoczenia, stanu zdrowia.",
+        "Liczba oddechów/min w spoczynku: bydło 10–30, konie 8–16, owce 12–30, świnie 8–18.",
+        "Jama nosowa także wyprowadza powietrze z płuc na zewnątrz.",
+        "Rys. 3.12 – krążenie krwi w płucach: tętnica płucna → naczynia włosowate oplatające pęcherzyki płucne → żyła płucna.",
+        "Powietrze wdychane zawiera ok. 21% tlenu i 0,03% CO₂, a powietrze w pęcherzykach płucnych – ok. 14% tlenu i 5,3% CO₂."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/drzewo-oskrzelowe.jpg",
+          "caption": "Rysunek 3.11. Schemat drzewa oskrzelowego – tchawica, oskrzela, żyły płucne, pęcherzyki płucne, sieć naczyń włosowatych; czerwone krwinki przenoszą tlen do komórek i dwutlenek węgla z komórek."
+        },
+        {
+          "src": "img/ppz3/krazenie-pluca.jpg",
+          "caption": "Rysunek 3.12. Krążenie krwi w płucach: 1 – tętnica płucna, 2 – naczynia włosowate oplatające pęcherzyki, 3 – żyła płucna; powietrze wdychane: CO₂ 0,03%, O 21%; w pęcherzykach: CO₂ 5,3%, O 14%."
+        }
+      ]
+    },
+    {
+      "heading": "6. Układ pokarmowy – budowa",
+      "points": [
+        "Przewód pokarmowy: jama gębowa, gardło, przełyk, żołądek, jelito cienkie, jelito grube, odbyt.",
+        "Gruczoły zaścienne: wątroba, trzustka, ślinianki – leżą poza ścianami przewodu, wydzielina trafia przewodami do jego światła.",
+        "Funkcje: pobieranie i połykanie pokarmu, trawienie, wchłanianie, wydalanie kału.",
+        "Zwierzęta jedzące pokarm lekko strawny mają krótszy przewód pokarmowy, roślinożerne – dłuższy.",
+        "Długość przewodu pokarmowego: bydło – 20-krotność długości ciała, owce – 27-krotność, świnie i konie – 14-krotność.",
+        "Żołądek przeżuwaczy (bydła) – wielokomorowy, 200–350 litrów; konia – jednokomorowy 8–15 l; świni – jednokomorowy 5–8 l.",
+        "Wątroba leży w jamie brzusznej w okolicy przepony, ma kształt czworoboku, zawiera woreczek żółciowy (wszystkie gatunki oprócz konia).",
+        "Barwa wątroby: u świń czerwona, u bydła i koni ciemnobrunatna.",
+        "Funkcje wątroby: filtr krwi z przewodu pokarmowego, unieszkodliwianie substancji szkodliwych, zamiana glukozy na glikogen, produkcja żółci, udział w przemianie białek i tłuszczów.",
+        "Trzustka: wydłużona płytka (u koni trójkąt), różowo-szara, leży przy początkowym odcinku dwunastnicy.",
+        "Trzustka wydziela podwójnie: wewnętrznie (hormony – insulina, glukagon) i zewnętrznie (sok trzustkowy).",
+        "Ślinianki produkują ślinę, uczestniczą w trawieniu mechanicznym (zmiękczanie kęsa) i chemicznym (enzymy, np. amylaza ślinowa).",
+        "Ślinianki umiejscowione są w jamie gębowej.",
+        "Rys. 3.13 – żołądek jednokomorowy: przełyk, część wpustowa, krzywizna mniejsza i większa, część denna, część odźwiernikowa, jelito cienkie; żołądek przeżuwacza – strona lewa: przełyk, żwacz, czepiec, trawieniec; strona prawa: przełyk, żwacz, czepiec, księgi, trawieniec, dwunastnica."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/zoladki.jpg",
+          "caption": "Rysunek 3.13. Żołądek jednokomorowy (część wpustowa, denna, odźwiernikowa, krzywizna mniejsza i większa) oraz wielokomorowy przeżuwacza: żwacz, czepiec, księgi, trawieniec (strona lewa i prawa)."
+        }
+      ]
+    },
+    {
+      "heading": "6a. Trawienie i wchłanianie",
+      "points": [
+        "Trawienie – rozkład pokarmu pod wpływem czynników fizycznych, chemicznych lub biologicznych; rodzaje: mechaniczne, chemiczne, biologiczne.",
+        "Wstępne trawienie zachodzi w jamie ustnej – udział biorą zęby, język, podniebienie.",
+        "Żołądek jednokomorowy: koń, świnia, drób; wielokomorowy: przeżuwacze (bydło, owce, kozy).",
+        "Żołądek przeżuwaczy ma 4 komory: żwacz, czepiec, księgi, trawieniec.",
+        "Ruchy żołądka przesuwają treść z części wpustowej do odźwiernikowej i mieszają ją z sokiem żołądkowym.",
+        "Enzymy soku żołądkowego umożliwiają trawienie chemiczne (rozkład białek i tłuszczów, aktywacja kwasu solnego).",
+        "W jelicie cienkim zachodzi trawienie chemiczne i wchłanianie; treść miesza się z sokiem jelitowym, trzustkowym i żółcią.",
+        "Wchłanianie umożliwiają liczne kosmki jelitowe; pofałdowana powierzchnia jelita cienkiego zwiększa warstwę chłonną.",
+        "W jelicie grubym trawienie trwa dzięki sokom i florze bakteryjnej; zachodzi gnicie białek, fermentacja węglowodanów, rozkład tłuszczów.",
+        "Jelito grube wchłania wodę i strawione składniki; tu formowany jest kał.",
+        "Ilość kału na dobę: owce 1–3 kg, świnie 0,5–3 kg, konie 10–20 kg, bydło 15–35 kg."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/trawienie-przezuwacze.jpg",
+          "caption": "Rysunek 3.14. Schemat trawienia paszy u przeżuwaczy: 1 – żwacz, 2 – czepiec, 3 – księgi, 4 – trawieniec; strzałki pokazują przeżuwanie (powrót kęsa do jamy gębowej)."
+        }
+      ]
+    },
+    {
+      "heading": "7. Układ moczowy (wydalniczy)",
+      "points": [
+        "Budowa: nerki, moczowody, pęcherz moczowy, cewka moczowa.",
+        "Funkcje: usuwanie zbędnych i szkodliwych produktów przemiany materii, usuwanie nadmiaru soli mineralnych, regulacja poziomu wody.",
+        "Mocz jest produkowany przez cały czas; jego ilość zależy od rodzaju pracy, ilości wypijanej wody, ilości i jakości paszy, stanu zdrowia.",
+        "Ilość moczu na dobę: owce 1–2 l, świnie 2–6 l, konie 5–10 l, bydło 6–25 l.",
+        "Budowa układu moczowego (rys. 3.15): nerka, żyła, tętnica, nadnercza, moczowód, pęcherz moczowy.",
+        "Powstawanie moczu (rys. 3.16): w nefronie krew zanieczyszczona jest filtrowana – powstaje przesącz kłębkowy (woda + mocznik + glukoza + witaminy i inne substancje); substancje użyteczne są wchłaniane zwrotnie do krwi (krew oczyszczona), a mocz (głównie mocznik i woda) spływa do pęcherza."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/uklad-moczowy.jpg",
+          "caption": "Rysunek 3.15. Budowa układu wydalniczego: 1 – nerka, 2 – żyła, 3 – tętnica, 4 – nadnercza, 5 – moczowód, 6 – pęcherz moczowy."
+        },
+        {
+          "src": "img/ppz3/powstawanie-moczu.jpg",
+          "caption": "Rysunek 3.16. Proces powstawania moczu – nefron, przesącz kłębkowy, wchłanianie zwrotne substancji użytecznych do krwi, mocz spływający do pęcherza."
+        }
+      ]
+    },
+    {
+      "heading": "8. Układ rozrodczy",
+      "points": [
+        "Budowę układu rozrodczego żeńskiego i męskiego przedstawiają rysunki 3.17 i 3.18.",
+        "Główna rola – wydawanie na świat potomstwa.",
+        "Produkcja komórek rozrodczych (komórek jajowych i plemników).",
+        "Umożliwienie kopulacji oraz ciąży i porodu.",
+        "Rys. 3.18 – układ rozrodczy męski (opisane elementy): gruczoł pęcherzykowy, pęcherz moczowy, naczynia krwionośne i nerwowe, żołądź prącia, napletek, najądrze, jądro, moszna, nasieniowód, przewód moczowo-płciowy, spojenie miednicze, cofacz prącia."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/uklad-rozrodczy-zenski.jpg",
+          "caption": "Rysunek 3.17. Układ rozrodczy żeński – jajniki, lejek jajowodu, jajowód, róg i trzon macicy, szyjka macicy, więzadło szerokie macicy, pochwa, ujście cewki moczowej, warga sromowa."
+        },
+        {
+          "src": "img/ppz3/uklad-rozrodczy-meski.jpg",
+          "caption": "Rysunek 3.18. Układ rozrodczy męski – jądro, najądrze, moszna, nasieniowód, gruczoł pęcherzykowy, przewód moczowo-płciowy, cofacz prącia, żołądź prącia, napletek."
+        }
+      ]
+    },
+    {
+      "heading": "9. Układ dokrewny (wydzielania wewnętrznego)",
+      "points": [
+        "Układ dokrewny tworzą niepołączone anatomicznie gruczoły.",
+        "Funkcja: produkcja i wydzielanie hormonów – substancji regulujących procesy życiowe.",
+        "Prolaktyna – hormon przysadki mózgowej, bierze udział w wydzielaniu mleka; jej wydzielanie przyspiesza masaż lub ssanie wymienia.",
+        "Ten sam bodziec powoduje wydzielanie przez przysadkę oksytocyny – hormonu regulującego wydalanie (oddawanie) mleka.",
+        "Gruczoły dokrewne (rys. 3.19): przysadka, szyszynka, tarczyca i gruczoły przytarczyczne, grasica, trzustka, nadnercze, jajniki, macica, jądra."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/uklad-dokrewny.jpg",
+          "caption": "Rysunek 3.19. Układ dokrewny – przysadka, szyszynka, tarczyca i gruczoły przytarczyczne, grasica, trzustka, nadnercze, jajniki, macica, jądra."
+        }
+      ]
+    },
+    {
+      "heading": "10. Układ nerwowy",
+      "points": [
+        "Układ nerwowy tworzą komórki nerwowe (neurony) i glejowe.",
+        "Anatomicznie: układ ośrodkowy i obwodowy; fizjologicznie: somatyczny i autonomiczny.",
+        "Funkcja: regulacja pracy narządów i układów organizmu.",
+        "Odruch nerwowy – reakcja organizmu na bodziec podrażniający receptory przy udziale centralnego układu nerwowego.",
+        "Łuk odruchowy – droga impulsu nerwowego od narządu czuciowego do wykonawczego.",
+        "Autonomiczny układ nerwowy dzieli się na układ współczulny i przywspółczulny (rys. 3.20).",
+        "Elementy łuku odruchowego (rys. 3.21): nerw czuciowy, rdzeń kręgowy, nerw ruchowy."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/uklad-nerwowy-autonomiczny.jpg",
+          "caption": "Rysunek 3.20. Układ nerwowy autonomiczny (koń): 1 – mózgowie, 2 – rdzeń kręgowy, 3 – pień układu współczulnego, 4 – oko, 5 – ślinianki, 6 – serce, 7 – płuco, 8 – wątroba, 9 – żołądek, 10 – jelito cienkie, 11 – nerka, 12 – jelito grube, 13 – pęcherz moczowy; różowy – układ współczulny, niebieski – przywspółczulny."
+        },
+        {
+          "src": "img/ppz3/luk-odruchowy.jpg",
+          "caption": "Rysunek 3.21. Schemat łuku odruchowego: 1 – łuk odruchowy, 2 – nerw czuciowy, 3 – nerw ruchowy, 4 – rdzeń kręgowy."
+        }
+      ]
+    },
+    {
+      "heading": "11. Narządy zmysłów",
+      "points": [
+        "Narządy zmysłów służą do bezpośredniego lub pośredniego odbierania bodźców ze środowiska zewnętrznego.",
+        "Wzrok – odbiera wrażenia świetlne; rozpoznawanie przedmiotów, ich wielkości, wyglądu i odległości.",
+        "Słuch – odbiera podniety dźwiękowe; równowaga – odbiera bodźce z przestrzeni, umożliwia koordynację ruchów i orientację w położeniu.",
+        "Węch – odbiera podniety chemiczne; ważny przy pobieraniu pokarmu i rozpoznawaniu zwierząt przeciwnej płci.",
+        "Smak – odbiera bodźce chemiczne; służy poznawaniu jakości pasz i pobudza wydzielanie soków trawiennych.",
+        "Dotyk – umożliwia kontakt ciała zwierzęcia z otoczeniem.",
+        "Budowa oka (rys. 3.22): rogówka, tęczówka, źrenica, komora przednia oka, soczewka, ciało rzęskowe, ciało szkliste, twardówka, naczyniówka, siatkówka, plamka żółta, plamka ślepa, nerw wzrokowy.",
+        "Budowa ucha (rys. 3.23): małżowina uszna, przewód słuchowy, błona bębenkowa, jama bębenkowa, młoteczek, kowadełko, strzemiączko, okienko owalne, kanał półkolisty, ślimak, nerw słuchowy i równowagi."
+      ],
+      "images": [
+        {
+          "src": "img/ppz3/oko-budowa.jpg",
+          "caption": "Rysunek 3.22. Budowa oka."
+        },
+        {
+          "src": "img/ppz3/ucho-budowa.jpg",
+          "caption": "Rysunek 3.23. Budowa ucha."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Anatomia – definicja",
+      "back": "Nauka badająca budowę organizmu (położenie, skład, kształt narządów, tkanek, komórek)."
+    },
+    {
+      "front": "Fizjologia – definicja",
+      "back": "Nauka o czynnościach/procesach życiowych zachodzących w organizmach."
+    },
+    {
+      "front": "Dwie grupy czynników warunkujących zdrowie i wartość produkcyjną zwierząt",
+      "back": "Dziedziczne (genetyczne) i środowiskowe."
+    },
+    {
+      "front": "Który czynnik jest tzw. czynnikiem niezależnym od człowieka?",
+      "back": "Wartość genetyczna osobnika (dziedziczona po rodzicach)."
+    },
+    {
+      "front": "Z jakich kości składa się układ kostny?",
+      "back": "Z kości czaszki, kości tułowia i kości kończyn."
+    },
+    {
+      "front": "Szkielet osiowy – co obejmuje?",
+      "back": "Czaszkę i kręgosłup."
+    },
+    {
+      "front": "Szkielet obwodowy – co obejmuje?",
+      "back": "Kości kończyn."
+    },
+    {
+      "front": "Kości tułowia",
+      "back": "Kręgosłup, żebra i mostek."
+    },
+    {
+      "front": "Gdzie tworzą się elementy morfotyczne krwi?",
+      "back": "W szpiku kostnym."
+    },
+    {
+      "front": "Funkcje układu kostnego",
+      "back": "Rusztowanie ciała, przyczep mięśni, magazyn soli mineralnych, wytwarzanie krwinek w szpiku, ochrona narządów wewnętrznych."
+    },
+    {
+      "front": "Rodzaje mięśni w układzie mięśniowym",
+      "back": "Szkieletowe, gładkie i mięsień sercowy (plus narządy pomocnicze)."
+    },
+    {
+      "front": "Skurcz izotoniczny",
+      "back": "Mięsień skraca się i grubieje przy stałym napięciu – może wykonać pracę."
+    },
+    {
+      "front": "Skurcz izometryczny",
+      "back": "Długość mięśnia bez zmian, wzrasta napięcie – nie wykonuje pracy."
+    },
+    {
+      "front": "Skąd pochodzą podniety naturalne dla mięśni szkieletowych?",
+      "back": "Z ośrodkowego układu nerwowego."
+    },
+    {
+      "front": "Z jakiego układu nerwowego mięśnie gładkie otrzymują bodźce?",
+      "back": "Z autonomicznego układu nerwowego."
+    },
+    {
+      "front": "Na jakie podniety mięśnie gładkie są bardziej podatne?",
+      "back": "Na chemiczne (bardziej niż na elektryczne)."
+    },
+    {
+      "front": "Automatyzm mięśni gładkich",
+      "back": "Zdolność do rytmicznych skurczów, cecha większości mięśni gładkich."
+    },
+    {
+      "front": "Którym mięśniom nie grozi zmęczenie przy długim skurczu (np. praca żołądka)?",
+      "back": "Mięśniom gładkim."
+    },
+    {
+      "front": "Jaka tkanka buduje serce?",
+      "back": "Tkanka poprzecznie prążkowana serca, działająca niezależnie od woli."
+    },
+    {
+      "front": "Powięzie – rola",
+      "back": "Utrzymują mięśnie we właściwym położeniu, zapobiegając przemieszczeniu podczas skurczu."
+    },
+    {
+      "front": "Kaletki maziowe – rola",
+      "back": "Zapobiegają uszkodzeniom kości."
+    },
+    {
+      "front": "Trzeszczki – rola",
+      "back": "Łagodzą wstrząsy, chronią ścięgna przed uszkodzeniami."
+    },
+    {
+      "front": "Wytwory skóry",
+      "back": "Włosy, pióra, pazury, racice, kopyta (puszka rogowa), rogi, wymię."
+    },
+    {
+      "front": "Gruczoły skórne",
+      "back": "Łojowe, potowe, mlekowe."
+    },
+    {
+      "front": "Funkcje układu powłokowego (min. 4)",
+      "back": "Udział w oddychaniu i termoregulacji, bariera i ochrona przed drobnoustrojami, wydalanie, regulacja wody i soli mineralnych."
+    },
+    {
+      "front": "Budowa układu chłonnego",
+      "back": "Węzły chłonne, śledziona, migdałki, naczynia chłonne i chłonka (limfa)."
+    },
+    {
+      "front": "Gdzie leży serce?",
+      "back": "W klatce piersiowej na wysokości mostka, między płucami."
+    },
+    {
+      "front": "Co chroni serce przed otarciami i urazami?",
+      "back": "Worek osierdziowy."
+    },
+    {
+      "front": "Jaki procent krwi stanowi osocze?",
+      "back": "60%."
+    },
+    {
+      "front": "Erytrocyty – liczba w organizmie",
+      "back": "6–14 mln/mm³."
+    },
+    {
+      "front": "Leukocyty – liczba w organizmie",
+      "back": "5–13 tys./mm³."
+    },
+    {
+      "front": "Trombocyty – liczba w organizmie",
+      "back": "120–600 tys./mm³."
+    },
+    {
+      "front": "Średnica erytrocytu",
+      "back": "6 µm (okrągłe, spłaszczone)."
+    },
+    {
+      "front": "Które krwinki zawierają hemoglobinę i transportują tlen?",
+      "back": "Erytrocyty (krwinki czerwone)."
+    },
+    {
+      "front": "Które krwinki bronią organizm przed drobnoustrojami?",
+      "back": "Leukocyty (krwinki białe)."
+    },
+    {
+      "front": "Które elementy krwi odpowiadają za krzepnięcie?",
+      "back": "Trombocyty (płytki krwi)."
+    },
+    {
+      "front": "Gdzie powstają leukocyty?",
+      "back": "Szpik kostny, grasica, śledziona, węzły chłonne."
+    },
+    {
+      "front": "Funkcje krwi",
+      "back": "Ochrona (przeciwciała), transport, regulacja (ciśnienie osmotyczne, pH), wymiana gazowa."
+    },
+    {
+      "front": "Faza I pracy serca",
+      "back": "Skurcz przedsionków przy rozkurczu komór."
+    },
+    {
+      "front": "Faza II pracy serca",
+      "back": "Skurcz komór przy rozkurczu przedsionków."
+    },
+    {
+      "front": "Faza III pracy serca",
+      "back": "Rozkurcz przedsionków i komór – faza spoczynku."
+    },
+    {
+      "front": "Gdzie bada się tętno u konia?",
+      "back": "Na tętnicy szczękowej w rynience naczyniowej żuchwy."
+    },
+    {
+      "front": "Gdzie bada się tętno u bydła?",
+      "back": "Na tętnicy twarzowej na zewnętrznej ścianie żuchwy."
+    },
+    {
+      "front": "Gdzie bada się tętno u owcy i kozy?",
+      "back": "Na tętnicy udowej po przyśrodkowej stronie uda."
+    },
+    {
+      "front": "Jak bada się pracę serca u świń i ptaków?",
+      "back": "Przez osłuchiwanie (liczenie uderzeń serca)."
+    },
+    {
+      "front": "Rytm serca krowy",
+      "back": "60–70 uderzeń/minutę."
+    },
+    {
+      "front": "Rytm serca konia",
+      "back": "25–40 uderzeń/minutę."
+    },
+    {
+      "front": "Rytm serca owcy i kozy",
+      "back": "70–80 uderzeń/minutę."
+    },
+    {
+      "front": "Rytm serca świni",
+      "back": "60–80 uderzeń/minutę."
+    },
+    {
+      "front": "Od czego zależy częstotliwość pracy serca?",
+      "back": "Od stanu zdrowia, pracy lub spoczynku, wieku, rozmiarów ciała."
+    },
+    {
+      "front": "Gdzie zaczyna się i kończy duży obieg krwi?",
+      "back": "Zaczyna w lewej komorze, kończy w prawym przedsionku."
+    },
+    {
+      "front": "Gdzie zaczyna się i kończy mały obieg krwi?",
+      "back": "Zaczyna w prawej komorze, kończy w lewym przedsionku."
+    },
+    {
+      "front": "Rola małego (płucnego) obiegu krwi",
+      "back": "W płucach krew oddaje dwutlenek węgla i pobiera tlen."
+    },
+    {
+      "front": "Narządy układu oddechowego",
+      "back": "Jama nosowa, gardło, krtań, tchawica, oskrzela i oskrzeliki, płuca."
+    },
+    {
+      "front": "Oddychanie zewnętrzne",
+      "back": "Wymiana gazów w płucach: O₂ z pęcherzyków do krwi, CO₂ z krwi do pęcherzyków."
+    },
+    {
+      "front": "Oddychanie wewnętrzne",
+      "back": "Wymiana gazów w tkankach: O₂ z naczyń włosowatych do komórek, CO₂ do krwi."
+    },
+    {
+      "front": "Co dzieje się z klatką piersiową podczas wdechu?",
+      "back": "Objętość się zwiększa, żebra wysuwają się do przodu."
+    },
+    {
+      "front": "Liczba oddechów/min – bydło",
+      "back": "10–30."
+    },
+    {
+      "front": "Liczba oddechów/min – konie",
+      "back": "8–16."
+    },
+    {
+      "front": "Liczba oddechów/min – świnie",
+      "back": "8–18."
+    },
+    {
+      "front": "Gruczoły zaścienne przewodu pokarmowego",
+      "back": "Wątroba, trzustka, ślinianki."
+    },
+    {
+      "front": "Długość przewodu pokarmowego bydła",
+      "back": "20-krotność długości ciała."
+    },
+    {
+      "front": "Długość przewodu pokarmowego owiec",
+      "back": "27-krotność długości ciała."
+    },
+    {
+      "front": "Długość przewodu pokarmowego świń i koni",
+      "back": "14-krotność długości ciała."
+    },
+    {
+      "front": "Pojemność żołądka bydła",
+      "back": "200–350 litrów (wielokomorowy)."
+    },
+    {
+      "front": "Pojemność żołądka konia",
+      "back": "8–15 litrów (jednokomorowy)."
+    },
+    {
+      "front": "Pojemność żołądka świni",
+      "back": "5–8 litrów (jednokomorowy)."
+    },
+    {
+      "front": "Który gatunek nie ma woreczka żółciowego?",
+      "back": "Koń."
+    },
+    {
+      "front": "Barwa wątroby świni / bydła i konia",
+      "back": "Świnia – czerwona; bydło i koń – ciemnobrunatna."
+    },
+    {
+      "front": "Funkcje wątroby",
+      "back": "Filtr krwi, unieszkodliwianie toksyn, glukoza → glikogen, produkcja żółci, przemiana białek i tłuszczów."
+    },
+    {
+      "front": "Hormony trzustki",
+      "back": "Insulina i glukagon (wydzielanie wewnętrzne)."
+    },
+    {
+      "front": "Wydzielina zewnętrzna trzustki",
+      "back": "Sok trzustkowy."
+    },
+    {
+      "front": "Rodzaje trawienia",
+      "back": "Mechaniczne, chemiczne, biologiczne."
+    },
+    {
+      "front": "Komory żołądka przeżuwaczy",
+      "back": "Żwacz, czepiec, księgi, trawieniec."
+    },
+    {
+      "front": "Zwierzęta z żołądkiem jednokomorowym",
+      "back": "Koń, świnia, drób."
+    },
+    {
+      "front": "Co umożliwia wchłanianie w jelicie cienkim?",
+      "back": "Liczne kosmki jelitowe."
+    },
+    {
+      "front": "Procesy w jelicie grubym",
+      "back": "Gnicie białek, fermentacja węglowodanów, rozkład tłuszczów, wchłanianie wody, formowanie kału."
+    },
+    {
+      "front": "Ilość kału na dobę – bydło",
+      "back": "15–35 kg."
+    },
+    {
+      "front": "Budowa układu moczowego",
+      "back": "Nerki, moczowody, pęcherz moczowy, cewka moczowa."
+    },
+    {
+      "front": "Ilość moczu na dobę – bydło",
+      "back": "6–25 l."
+    },
+    {
+      "front": "Ilość moczu na dobę – świnie",
+      "back": "2–6 l."
+    },
+    {
+      "front": "Ilość moczu na dobę – konie / owce",
+      "back": "Konie 5–10 l; owce 1–2 l."
+    },
+    {
+      "front": "Funkcje układu rozrodczego",
+      "back": "Wydawanie potomstwa, produkcja komórek jajowych i plemników, kopulacja, ciąża i poród."
+    },
+    {
+      "front": "Prolaktyna",
+      "back": "Hormon przysadki mózgowej biorący udział w wydzielaniu mleka."
+    },
+    {
+      "front": "Oksytocyna",
+      "back": "Hormon przysadki mózgowej regulujący wydalanie (oddawanie) mleka."
+    },
+    {
+      "front": "Komórki budujące układ nerwowy",
+      "back": "Neurony (komórki nerwowe) i komórki glejowe."
+    },
+    {
+      "front": "Fizjologiczny podział układu nerwowego",
+      "back": "Somatyczny i autonomiczny."
+    },
+    {
+      "front": "Łuk odruchowy",
+      "back": "Droga impulsu nerwowego od narządu czuciowego do wykonawczego."
+    },
+    {
+      "front": "Narząd równowagi – funkcja",
+      "back": "Odbiera bodźce z przestrzeni; koordynacja ruchów i orientacja w położeniu."
+    },
+    {
+      "front": "Narząd węchu – znaczenie",
+      "back": "Odbiór podniet chemicznych; pobieranie pokarmu i rozpoznawanie zwierząt przeciwnej płci."
+    },
+    {
+      "front": "Jaki procent krwi stanowią elementy morfotyczne?",
+      "back": "Ok. 40% (osocze – ok. 60%)."
+    },
+    {
+      "front": "Przekrój serca bydła – nazwij elementy oznaczone numerami.",
+      "back": "1 – przedsionek lewy, 2 – przedsionek prawy, 3 – komora lewa, 4 – komora prawa, 5 – żyła główna doczaszkowa, 6 – żyła główna doogonowa, 7 – aorta, 8 – żyły płucne, 9 – pień płucny, 10 – zastawka przedsionkowo-komorowa lewa, 11 – zastawka przedsionkowo-komorowa prawa, 12 – zastawka półksiężycowa, 13 – mięsień sercowy.",
+      "img": "img/ppz3/serce-przekroj-numery.jpg"
+    },
+    {
+      "front": "Szkielet krowy – nazwij kości oznaczone numerami.",
+      "back": "1 – szczęka (kość szczękowa), 2 – żuchwa, 3 – kręg szczytowy, 4 – kręg obrotowy, 5 – kręg szyjny, 6 – kręg piersiowy I, 7 – kręg piersiowy VII, 8 – kręg piersiowy XIII, 9 – kręg lędźwiowy V, 10 – kość krzyżowa, 11 – kręgi ogonowe, 12 – żebro I, 13 – mostek, 14 – kości kończyny przedniej, 15 – chrząstki żebrowe, 16 – żebro XIII, 17 – kości miednicy i kończyny tylnej.",
+      "img": "img/ppz3/szkielet-krowy-numery.jpg"
+    },
+    {
+      "front": "Schemat trawienia u przeżuwaczy – co oznaczają numery 1–4?",
+      "back": "1 – żwacz, 2 – czepiec, 3 – księgi, 4 – trawieniec.",
+      "img": "img/ppz3/trawienie-przezuwacze-numery.jpg"
+    },
+    {
+      "front": "Zawartość tlenu i CO₂ w powietrzu wdychanym i w pęcherzykach płucnych",
+      "back": "Wdychane: O ok. 21%, CO₂ 0,03%; w pęcherzykach płucnych: O ok. 14%, CO₂ 5,3%."
+    },
+    {
+      "front": "Elementy układu moczowego na rys. 3.15",
+      "back": "1 – nerka, 2 – żyła, 3 – tętnica, 4 – nadnercza, 5 – moczowód, 6 – pęcherz moczowy.",
+      "img": "img/ppz3/uklad-moczowy.jpg"
+    },
+    {
+      "front": "Przesącz kłębkowy – skład",
+      "back": "Woda + mocznik + glukoza + witaminy i inne substancje (substancje użyteczne są wchłaniane zwrotnie do krwi)."
+    },
+    {
+      "front": "Gruczoły układu dokrewnego (rys. 3.19)",
+      "back": "Przysadka, szyszynka, tarczyca i gruczoły przytarczyczne, grasica, trzustka, nadnercze, jajniki, macica, jądra."
+    },
+    {
+      "front": "Na jakie dwa układy dzieli się autonomiczny układ nerwowy?",
+      "back": "Współczulny i przywspółczulny."
+    },
+    {
+      "front": "Elementy łuku odruchowego",
+      "back": "Nerw czuciowy → rdzeń kręgowy → nerw ruchowy.",
+      "img": "img/ppz3/luk-odruchowy.jpg"
+    },
+    {
+      "front": "Węzły chłonne bydła (rys. 3.9)",
+      "back": "Krzyżowy, podkolanowy, fałdu kolanowego, pachowe, przedłopatkowy, gardłowe, przyusznicze, podżuchwowe.",
+      "img": "img/ppz3/uklad-chlonny.jpg"
+    },
+    {
+      "front": "Kosteczki słuchowe w uchu",
+      "back": "Młoteczek, kowadełko, strzemiączko."
+    },
+    {
+      "front": "Mięsień stroszący włosy, brodawka i cebulka włosowa – do jakiego układu należą?",
+      "back": "Do układu powłokowego (skóra i jej wytwory – schemat budowy skóry).",
+      "img": "img/ppz3/skora-budowa.jpg"
+    },
+    {
+      "front": "Rys. 3.4 – nazwij stawy kończyny przedniej i tylnej",
+      "back": "Przednia: staw barkowy, łokciowy, nadgarstkowy, pęcinowy; tylna: staw biodrowy, kolanowy, skokowy."
+    },
+    {
+      "front": "Między którymi kośćmi kończyny tylnej leży staw skokowy, a między którymi staw kolanowy?",
+      "back": "Staw skokowy – między kością podudzia a kośćmi stępu; staw kolanowy – między kością udową a kością podudzia."
+    },
+    {
+      "front": "Narządy widoczne na lewym boku bydła (rys. 3.1)",
+      "back": "Tchawica, przełyk, serce, czepiec, śledziona, żwacz, pętle jelita cienkiego, pęcherz moczowy, odbytnica, pochwa."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Nauka o czynnościach i procesach życiowych zachodzących w organizmach to:",
+      "options": [
+        "fizjologia",
+        "anatomia",
+        "genetyka",
+        "zoohigiena"
+      ],
+      "answer": 0,
+      "explain": "Fizjologia to nauka o czynnościach/procesach życiowych zachodzących w organizmach."
+    },
+    {
+      "q": "Szkielet osiowy tworzą:",
+      "options": [
+        "kości kończyn",
+        "czaszka i kręgosłup",
+        "żebra i mostek",
+        "kości miednicy i kończyn tylnych"
+      ],
+      "answer": 1,
+      "explain": "Szkielet osiowy to czaszka i kręgosłup, obwodowy – kości kończyn."
+    },
+    {
+      "q": "Kości tułowia to:",
+      "options": [
+        "czaszka i kręgosłup",
+        "łopatka i miednica",
+        "kręgosłup, żebra i mostek",
+        "kości kończyny przedniej i tylnej"
+      ],
+      "answer": 2,
+      "explain": "Kości tułowia stanowią kręgosłup, żebra i mostek."
+    },
+    {
+      "q": "Elementy morfotyczne krwi tworzą się w:",
+      "options": [
+        "wątrobie",
+        "nerkach",
+        "trzustce",
+        "szpiku kostnym"
+      ],
+      "answer": 3,
+      "explain": "W szpiku kostnym tworzą się elementy morfotyczne krwi."
+    },
+    {
+      "q": "Skurcz mięśnia, w którym długość się nie zmienia, a rośnie napięcie, to skurcz:",
+      "options": [
+        "izometryczny",
+        "izotoniczny",
+        "tężcowy",
+        "rytmiczny"
+      ],
+      "answer": 0,
+      "explain": "W skurczu izometrycznym długość mięśnia się nie zmienia, rośnie napięcie i mięsień nie wykonuje pracy."
+    },
+    {
+      "q": "Mięśnie gładkie otrzymują bodźce do skurczu z układu nerwowego:",
+      "options": [
+        "somatycznego",
+        "autonomicznego",
+        "ośrodkowego, zależnie od woli",
+        "obwodowego czuciowego"
+      ],
+      "answer": 1,
+      "explain": "Mięśnie gładkie otrzymują bodźce z autonomicznego układu nerwowego."
+    },
+    {
+      "q": "Mięśnie gładkie są szczególnie podatne na podniety:",
+      "options": [
+        "elektryczne",
+        "mechaniczne",
+        "chemiczne",
+        "świetlne"
+      ],
+      "answer": 2,
+      "explain": "Mięśnie gładkie są bardziej podatne na podniety chemiczne niż elektryczne."
+    },
+    {
+      "q": "Narządy pomocnicze mięśni, które łagodzą wstrząsy i chronią ścięgna, to:",
+      "options": [
+        "powięzie",
+        "kaletki maziowe",
+        "pochewki ścięgniste",
+        "trzeszczki"
+      ],
+      "answer": 3,
+      "explain": "Trzeszczki łagodzą wstrząsy i chronią ścięgna przed uszkodzeniami."
+    },
+    {
+      "q": "Do wytworów skóry nie należy:",
+      "options": [
+        "mostek",
+        "wymię",
+        "racica",
+        "róg"
+      ],
+      "answer": 0,
+      "explain": "Wytwory skóry to włosy, pióra, pazury, racice, kopyta, rogi i wymię; mostek jest kością."
+    },
+    {
+      "q": "Gruczoły skórne to gruczoły:",
+      "options": [
+        "ślinowe, łojowe, potowe",
+        "łojowe, potowe, mlekowe",
+        "potowe, tarczycowe, mlekowe",
+        "łojowe, trzustkowe, potowe"
+      ],
+      "answer": 1,
+      "explain": "W skórze znajdują się gruczoły łojowe, potowe i mlekowe."
+    },
+    {
+      "q": "Do narządów układu chłonnego zalicza się:",
+      "options": [
+        "nerki i moczowody",
+        "wątrobę i trzustkę",
+        "węzły chłonne, śledzionę i migdałki",
+        "przysadkę i tarczycę"
+      ],
+      "answer": 2,
+      "explain": "Układ chłonny to węzły, śledziona, migdałki, naczynia chłonne i chłonka."
+    },
+    {
+      "q": "Osocze stanowi około:",
+      "options": [
+        "30% krwi",
+        "45% krwi",
+        "90% krwi",
+        "60% krwi"
+      ],
+      "answer": 3,
+      "explain": "Krew składa się w 60% z osocza."
+    },
+    {
+      "q": "Hemoglobinę zawierają:",
+      "options": [
+        "erytrocyty",
+        "leukocyty",
+        "trombocyty",
+        "limfocyty węzłów chłonnych"
+      ],
+      "answer": 0,
+      "explain": "Erytrocyty zawierają hemoglobinę i transportują tlen oraz dwutlenek węgla."
+    },
+    {
+      "q": "Za krzepnięcie krwi odpowiadają:",
+      "options": [
+        "erytrocyty",
+        "trombocyty",
+        "leukocyty",
+        "osocze bez elementów morfotycznych"
+      ],
+      "answer": 1,
+      "explain": "Trombocyty (płytki krwi) odpowiadają za krzepnięcie krwi i tworzą skrzep."
+    },
+    {
+      "q": "Liczba erytrocytów w organizmie wynosi:",
+      "options": [
+        "5–13 tys./mm³",
+        "120–600 tys./mm³",
+        "6–14 mln/mm³",
+        "1–2 mln/mm³"
+      ],
+      "answer": 2,
+      "explain": "Erytrocytów jest 6–14 mln/mm³."
+    },
+    {
+      "q": "Serce chronione jest przed otarciami przez:",
+      "options": [
+        "opłucną",
+        "przeponę",
+        "mostek i żebra wyłącznie",
+        "worek osierdziowy"
+      ],
+      "answer": 3,
+      "explain": "Serce chroni otaczający je worek osierdziowy."
+    },
+    {
+      "q": "Druga faza pracy serca to:",
+      "options": [
+        "skurcz komór przy rozkurczu przedsionków",
+        "skurcz przedsionków przy rozkurczu komór",
+        "rozkurcz przedsionków i komór",
+        "jednoczesny skurcz przedsionków i komór"
+      ],
+      "answer": 0,
+      "explain": "Faza II to skurcz komór przy jednoczesnym rozkurczu przedsionków."
+    },
+    {
+      "q": "U bydła tętno bada się na tętnicy:",
+      "options": [
+        "szczękowej w rynience naczyniowej żuchwy",
+        "twarzowej na zewnętrznej ścianie żuchwy",
+        "udowej po przyśrodkowej stronie uda",
+        "ogonowej"
+      ],
+      "answer": 1,
+      "explain": "U bydła omacuje się tętnicę twarzową na zewnętrznej ścianie żuchwy."
+    },
+    {
+      "q": "U owiec i kóz tętno bada się na tętnicy:",
+      "options": [
+        "twarzowej",
+        "szczękowej",
+        "udowej",
+        "szyjnej"
+      ],
+      "answer": 2,
+      "explain": "U małych przeżuwaczy bada się tętnicę udową po przyśrodkowej stronie uda."
+    },
+    {
+      "q": "U których zwierząt uderzenia serca liczy się przez osłuchiwanie?",
+      "options": [
+        "koni",
+        "bydła",
+        "owiec i kóz",
+        "świń i ptaków"
+      ],
+      "answer": 3,
+      "explain": "U świń i ptaków liczy się uderzenia serca przez osłuchiwanie."
+    },
+    {
+      "q": "Prawidłowy rytm serca krowy wynosi:",
+      "options": [
+        "60–70 uderzeń/min",
+        "25–40 uderzeń/min",
+        "70–80 uderzeń/min",
+        "100–120 uderzeń/min"
+      ],
+      "answer": 0,
+      "explain": "Rytm serca krowy to 60–70 uderzeń/minutę."
+    },
+    {
+      "q": "Najwolniejszy rytm serca spośród podanych gatunków ma:",
+      "options": [
+        "krowa",
+        "koń",
+        "owca",
+        "świnia"
+      ],
+      "answer": 1,
+      "explain": "Koń ma 25–40 uderzeń/minutę."
+    },
+    {
+      "q": "Duży obieg krwi zaczyna się w:",
+      "options": [
+        "prawej komorze serca",
+        "lewym przedsionku",
+        "lewej komorze serca",
+        "prawym przedsionku"
+      ],
+      "answer": 2,
+      "explain": "Obieg duży zaczyna się w lewej komorze, a kończy w prawym przedsionku."
+    },
+    {
+      "q": "Mały obieg krwi kończy się w:",
+      "options": [
+        "prawym przedsionku",
+        "lewej komorze",
+        "aorcie",
+        "lewym przedsionku"
+      ],
+      "answer": 3,
+      "explain": "W małym obiegu krew natleniona trafia do lewego przedsionka serca."
+    },
+    {
+      "q": "Przechodzenie tlenu z naczyń włosowatych do komórek to oddychanie:",
+      "options": [
+        "wewnętrzne",
+        "zewnętrzne",
+        "płucne",
+        "beztlenowe"
+      ],
+      "answer": 0,
+      "explain": "Oddychanie wewnętrzne zachodzi w tkankach."
+    },
+    {
+      "q": "Przeciętna liczba oddechów na minutę u bydła w spoczynku wynosi:",
+      "options": [
+        "8–16",
+        "10–30",
+        "30–50",
+        "4–8"
+      ],
+      "answer": 1,
+      "explain": "Bydło w spoczynku ma 10–30 oddechów na minutę."
+    },
+    {
+      "q": "Przeciętna liczba oddechów na minutę u konia w spoczynku wynosi:",
+      "options": [
+        "10–30",
+        "12–30",
+        "8–16",
+        "20–40"
+      ],
+      "answer": 2,
+      "explain": "Konie mają 8–16 oddechów na minutę."
+    },
+    {
+      "q": "Długość przewodu pokarmowego owcy to około:",
+      "options": [
+        "20-krotność długości ciała",
+        "14-krotność długości ciała",
+        "5-krotność długości ciała",
+        "27-krotność długości ciała"
+      ],
+      "answer": 3,
+      "explain": "U owiec przewód pokarmowy ma 27-krotność długości ciała."
+    },
+    {
+      "q": "Pojemność żołądka bydła wynosi:",
+      "options": [
+        "200–350 litrów",
+        "8–15 litrów",
+        "5–8 litrów",
+        "50–80 litrów"
+      ],
+      "answer": 0,
+      "explain": "Żołądek wielokomorowy przeżuwaczy ma pojemność 200–350 litrów."
+    },
+    {
+      "q": "Pojemność żołądka świni wynosi:",
+      "options": [
+        "8–15 litrów",
+        "5–8 litrów",
+        "20–30 litrów",
+        "200–350 litrów"
+      ],
+      "answer": 1,
+      "explain": "Jednokomorowy żołądek świni ma 5–8 litrów."
+    },
+    {
+      "q": "Woreczka żółciowego nie posiada:",
+      "options": [
+        "krowa",
+        "świnia",
+        "koń",
+        "owca"
+      ],
+      "answer": 2,
+      "explain": "Wątroba zawiera woreczek żółciowy u wszystkich gatunków oprócz konia."
+    },
+    {
+      "q": "Zamiana glukozy obecnej we krwi na glikogen zachodzi w:",
+      "options": [
+        "trzustce",
+        "śliniankach",
+        "nerkach",
+        "wątrobie"
+      ],
+      "answer": 3,
+      "explain": "Komórki wątrobowe zamieniają glukozę na glikogen."
+    },
+    {
+      "q": "Trzustka wydziela wewnętrznie:",
+      "options": [
+        "insulinę i glukagon",
+        "prolaktynę i oksytocynę",
+        "żółć",
+        "amylazę ślinową"
+      ],
+      "answer": 0,
+      "explain": "Trzustka wydziela wewnętrznie hormony insulinę i glukagon, a zewnętrznie sok trzustkowy."
+    },
+    {
+      "q": "Komory żołądka przeżuwaczy to:",
+      "options": [
+        "żwacz, wole, księgi, trawieniec",
+        "żwacz, czepiec, księgi, trawieniec",
+        "czepiec, żołądek gruczołowy, księgi, jelito ślepe",
+        "żwacz, czepiec, żołądek mięśniowy, trawieniec"
+      ],
+      "answer": 1,
+      "explain": "Żołądek przeżuwaczy ma 4 komory: żwacz, czepiec, księgi, trawieniec."
+    },
+    {
+      "q": "Żołądek jednokomorowy ma:",
+      "options": [
+        "krowa",
+        "owca",
+        "koń",
+        "koza"
+      ],
+      "answer": 2,
+      "explain": "Jednokomorowy żołądek mają koń, świnia i drób."
+    },
+    {
+      "q": "Fermentacja węglowodanów i gnicie białek zachodzą w:",
+      "options": [
+        "jamie ustnej",
+        "przełyku",
+        "dwunastnicy wyłącznie",
+        "jelicie grubym"
+      ],
+      "answer": 3,
+      "explain": "W jelicie grubym zachodzi gnicie białek, fermentacja węglowodanów i rozkład tłuszczów."
+    },
+    {
+      "q": "Dobowa ilość kału wydalana przez bydło wynosi:",
+      "options": [
+        "15–35 kg",
+        "1–3 kg",
+        "0,5–3 kg",
+        "10–20 kg"
+      ],
+      "answer": 0,
+      "explain": "Bydło wydala 15–35 kg kału na dobę."
+    },
+    {
+      "q": "Dobowa ilość moczu wydalana przez bydło wynosi:",
+      "options": [
+        "1–2 l",
+        "6–25 l",
+        "2–6 l",
+        "5–10 l"
+      ],
+      "answer": 1,
+      "explain": "Bydło wydala 6–25 l moczu na dobę."
+    },
+    {
+      "q": "Hormonem regulującym wydalanie (oddawanie) mleka jest:",
+      "options": [
+        "prolaktyna",
+        "insulina",
+        "oksytocyna",
+        "glukagon"
+      ],
+      "answer": 2,
+      "explain": "Przysadka mózgowa wydziela oksytocynę regulującą wydalanie mleka."
+    },
+    {
+      "q": "Droga impulsu nerwowego od narządu czuciowego do wykonawczego to:",
+      "options": [
+        "synapsa",
+        "neuron glejowy",
+        "rdzeń kręgowy",
+        "łuk odruchowy"
+      ],
+      "answer": 3,
+      "explain": "Łuk odruchowy to droga impulsu od narządu czuciowego do wykonawczego."
+    },
+    {
+      "q": "Na schemacie trawienia u przeżuwaczy numerem 3 oznaczono:",
+      "options": [
+        "księgi",
+        "żwacz",
+        "czepiec",
+        "trawieniec"
+      ],
+      "answer": 0,
+      "explain": "1 – żwacz, 2 – czepiec, 3 – księgi, 4 – trawieniec.",
+      "img": "img/ppz3/trawienie-przezuwacze-numery.jpg"
+    },
+    {
+      "q": "Na przekroju serca bydła numerem 7 oznaczono:",
+      "options": [
+        "aortę",
+        "pień płucny",
+        "żyły płucne",
+        "żyłę główną doczaszkową"
+      ],
+      "answer": 0,
+      "explain": "7 – aorta; 9 – pień płucny, 8 – żyły płucne, 5 – żyła główna doczaszkowa.",
+      "img": "img/ppz3/serce-przekroj-numery.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaki układ umożliwia ruch kości i poruszanie niektórych narządów?",
+      "options": [
+        "Układ powłokowy.",
+        "Układ kostny.",
+        "Układ mięśniowy.",
+        "Układ krwionośny."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW … tworzą się elementy morfotyczne krwi.",
+      "options": [
+        "układzie mięśniowym",
+        "szpiku kostnym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKości kończyn są to kości kończyny przedniej i tylnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie elementy składają się na układ kostny?",
+      "options": [
+        "Kości czaszki.",
+        "Kości tułowia.",
+        "Kości poroża.",
+        "Kości kończyn."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… wykazują zdolność do kurczenia się (zmieniają długość lub napięcie).",
+      "options": [
+        "Kości",
+        "Mięśnie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z funkcji układu mięśniowego jest unieruchomienie kręgosłupa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych cech opisują funkcje układu kostnego?",
+      "options": [
+        "Służy jako „rusztowanie” ciała.",
+        "Stanowi miejsce przyczepu mięśni.",
+        "Kości gromadzą sole mineralne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSerce tworzy tkanka … serca, działająca niezależnie od woli organizmu.",
+      "options": [
+        "gładka",
+        "poprzecznie prążkowana"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Mięśnie zwierząt rzeźnych nie służą jako surowiec w przetwórstwie spożywczym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych elementów są częścią układu powłokowego?",
+      "options": [
+        "Jelita.",
+        "Włosy.",
+        "Pazury.",
+        "Pióra."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUkład … uczestniczy w oddychaniu, stanowi barierę pomiędzy środowiskiem zewnętrznym a wnętrzem ciała, bierze udział w procesie termoregulacji.",
+      "options": [
+        "krwionośny",
+        "powłokowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMięśnie gładkie otrzymują bodźce do skurczu z autonomicznego układu nerwowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest przeciętna liczba oddechów na minutę u bydła?",
+      "options": [
+        "10-30",
+        "12-30",
+        "8-18",
+        "8-16"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUkład krwionośny na drodze transportu substancji odżywczych do komórek jest powiązany z układem ….",
+      "options": [
+        "chłonnym",
+        "nerwowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPraca serca odbywa się w dwóch fazach występujących ciągle po sobie, niezależnie od woli zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … obieg krwi zaopatruje tkanki w tlen i składniki odżywcze, natomiast odprowadza z nich dwutlenek węgla.",
+      "options": [
+        "Mały",
+        "Duży"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie narządy są częścią układu chłonnego?",
+      "options": [
+        "Węzły.",
+        "Mózg.",
+        "Śledzona.",
+        "Migdałki."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWspółdziałanie układu limfatycznego i krwionośnego opiera się głównie na współtworzeniu krwinek białych i przeciwciał.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest przeciętna liczba oddechów na minutę u owiec?",
+      "options": [
+        "8-16",
+        "10-30",
+        "12-30",
+        "8-18"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW płucach odbywa się tzw. oddychanie …, polegające na przechodzeniu tlenu z pęcherzyków płucnych do krwi, a dwutlenku węgla z krwi do światła pęcherzyków płucnych.",
+      "options": [
+        "zewnętrzne",
+        "wewnętrzne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzęstotliwość pracy serca zależy od kilku czynników: stanu zdrowia, pracy lub spoczynku, wieku, rozmiarów ciała.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka ilość moczu w ciągu doby wydalana jest przez konie?",
+      "options": [
+        "6-25",
+        "5-10",
+        "2-6",
+        "1-2"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW czasie … następuje zmniejszenie objętości klatki piersiowej i zmiana położenia żeber do pierwotnej pozycji.",
+      "options": [
+        "wdechu",
+        "wydechu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTętno krowy to 25–40 uderzeń/minutę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki układ umożliwia zarówno trawienie, jak i wchłanianie pokarmu?",
+      "options": [
+        "Układ krwionośny.",
+        "Układ pokarmowy.",
+        "Układ powłokowy.",
+        "Układ mięśniowy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZwierzęta gospodarskie wyróżnia różna długość …, co jest związane z rodzajem spożywanej paszy.",
+      "options": [
+        "przewodu pokarmowego",
+        "układu nerwowego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrew nie chroni organizmu przed czynnikami chorobotwórczymi lecz sprzyja ich rozprzestrzenianiu się po organizmie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka ilość moczu w ciągu doby wydalana jest przez świnie?",
+      "options": [
+        "2-6",
+        "5-10",
+        "6-25",
+        "1-2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDługość przewodu pokarmowego wynosi u bydła … długości ciała.",
+      "options": [
+        "20-krotność",
+        "27-krotność"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed otarciami i urazami, związanymi z jego pracą, serce jest chronione dzięki otaczającemu je workowi osierdziowemu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż funkcje układu pokarmowego.",
+      "options": [
+        "Pobieranie pokarmu.",
+        "Ochrona tkanki przed uszkodzeniami.",
+        "Trawienie.",
+        "Połykanie pokarmu."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nGruczoły … ulokowane są poza ścianami przewodu pokarmowego, mimo to ich wydzielina przedostaje się przewodami do jego światła.",
+      "options": [
+        "zaścienne",
+        "łojowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo narządów pomocniczych mięśni zalicza się powięzie, kaletki maziowe, pochewki ścięgniste i trzeszczki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie funkcje pełnią komórki wątrobowe?",
+      "options": [
+        "Biorą udział w procesie termoregulacji.",
+        "Zamieniają obecną w krwi glukozę na glikogen.",
+        "Unieszkodliwiają substancje szkodliwe obecne w krwi."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to narząd w kształcie wydłużonej płytki lub (u koni) trójkąta, zabarwiony na różowoszaro, leżący przy początkowym odcinku dwunastnicy.",
+      "options": [
+        "Wątroba.",
+        "Trzustka."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTypowe dla mięśni gładkich jest to, że mogą one przebywać przez dłuższy czas w stanie skurczu bez oznak zmęczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie funkcje pełni układ moczowy?",
+      "options": [
+        "Bierze udział w procesie termoregulacji.",
+        "Usuwa nadmiar soli mineralnych.",
+        "Reguluje poziom wody w organizmie."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiększość mięśni szkieletowych cechuje automatyzm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrzustka w przeciwieństwie do wątroby nie należy do gruczołów zaściennych, mimo że jest częścią przewodu pokarmowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka ilość moczu w ciągu doby wydalana jest przez owce?",
+      "options": [
+        "5-10",
+        "1-2",
+        "2-6",
+        "6-25"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWchłanianie substancji powstałych w wyniku trawienia jest możliwe dzięki ….",
+      "options": [
+        "kosmkom jelitowym",
+        "ruchom robaczkowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMocz jest produkowany w organizmie przez cały czas, a jego ilość zależy od rodzaju wykonywanej pracy, ilości wypijanej wody, ilości i jakości zjadanej paszy, czy stanu zdrowia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie funkcje pełni układ rozrodczy?",
+      "options": [
+        "Produkuje komórki rozrodcze (komórki jajowe i plemniki).",
+        "Umożliwia kopulację.",
+        "Umożliwia ciążę i poród."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUkład … tworzą dwa rodzaje komórek: neurony oraz glejowe.",
+      "options": [
+        "rozrodczy",
+        "nerwowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład nerwowy odpowiada za regulację pracy narządów i układów znajdujących się w organizmie zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż narządy zmysłów.",
+      "options": [
+        "Migdałki.",
+        "Równowaga.",
+        "Wzrok.",
+        "Dotyk."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład kostny chroni narządy wewnętrzne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz części układu chłonnego.",
+      "options": [
+        "Serce.",
+        "Naczynia chłonne.",
+        "Śledziona.",
+        "Limfa."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka jest przeciętna liczba oddechów na minutę u świń?",
+      "options": [
+        "8-16",
+        "10-30",
+        "12-30",
+        "8-18"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Zaznacz cechy erytrocytów.",
+      "options": [
+        "Zawierają hemoglobinę.",
+        "Produkowane w węzłach chłonnych.",
+        "Produkowane w szpiku kostnym.",
+        "Transportują tlen."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLeukocyty są produkowane w szpiku kostnym, grasicy, śledzionie, węzłach chłonnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie organy tworzą układ moczowy?",
+      "options": [
+        "Pęcherz moczowy.",
+        "Wątroba.",
+        "Moczowody.",
+        "Nerki."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki jest typowy rytm pracy serca dla owcy?",
+      "options": [
+        "60–70 uderzeń/min.",
+        "60–80 uderzeń/min.",
+        "25–40 uderzeń/min.",
+        "70–80 uderzeń/min."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż funkcje układu mięśniowego.",
+      "options": [
+        "Reguluje proces oddychania.",
+        "Powoduje unieruchomienie kręgosłupa.",
+        "Stanowi dynamiczny układ ruchowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrew bierze udział w wymianie gazowej pomiędzy płucami i tkankami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są funkcje układu oddechowego?",
+      "options": [
+        "Dostarcza tlen i odprowadza powstający w organizmie dwutlenek węgla.",
+        "Żadne z powyższych.",
+        "Bierze udział w procesie oddychania zewnętrznego."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki jest typowy rytm pracy serca dla konia?",
+      "options": [
+        "70–80 uderzeń/min.",
+        "60–70 uderzeń/min.",
+        "25–40 uderzeń/min.",
+        "60–80 uderzeń/min."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW tkankach zachodzi oddychanie wewnętrzne, polegające na przechodzeniu tlenu z naczyń włosowatych do komórek i tkanek oraz przenikaniu dwutlenku węgla do krwi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta spożywające pokarm lekkostrawny posiadają krótszy przewód pokarmowy, natomiast roślinożerne dłuższy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie funkcje spełniają komórki wątrobowe?",
+      "options": [
+        "Biorą udział w przemianie białek, tłuszczów i innych substancji.",
+        "Zamieniają obecną w krwi glukozę na glikogen.",
+        "Produkują żółć."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nErytrocyty mają nieregularny kształt, małą średnicę 2–4 µm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrawienie to rozkład pokarmu pod wpływem czynników fizycznych, chemicznych i biologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki jest typowy rytm pracy serca dla świni?",
+      "options": [
+        "60–80 uderzeń/min.",
+        "70–80 uderzeń/min.",
+        "25–40 uderzeń/min.",
+        "60–70 uderzeń/min."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPracy serca zwierząt nie można wyczuć za pomocą dotyku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Od czego zależy liczba oddechów zwierzęcia?",
+      "options": [
+        "Od zmęczenia.",
+        "Od temperatury otoczenia.",
+        "Od wieku zwierzęcia.",
+        "Od wielkości."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Serce jakich zwierząt bije w tempie 70–80 uderzeń/min.?",
+      "options": [
+        "Owiec.",
+        "Krów.",
+        "Kóz.",
+        "Świń."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrążenie krwi w naczyniach krwionośnych odbywa się w jednym obiegu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest przeciętna liczba oddechów na minutę u koni?",
+      "options": [
+        "12-30",
+        "8-18",
+        "10-30",
+        "8-16"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Układ pokarmowy stanowią przewód pokarmowy i wspomagające go gruczoły zaścienne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBarwa wątroby jest taka sama u zwierząt, niezależnie od gatunku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest przeciętna ilość kału (w kg) wydalanego przez konie w ciągu doby?",
+      "options": [
+        "0,5-3",
+        "10-20",
+        "15-35",
+        "1-3"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚlinianki umiejscowione są w jamie gębowej, ich główną rolą jest produkcja śliny i udział w trawieniu mechanicznym i chemicznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłówną rolą narządów tworzących układ rozrodczy jest wydawanie na świat potomstwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz gruczoły skórne.",
+      "options": [
+        "Łojowe.",
+        "Potowe.",
+        "Ślinianki.",
+        "Mlekowe."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkurcze mięśni gładkich odbywają się zależnie od woli zwierzęcia, a wywołane są poprzez pobudzenie odpowiednią podnietą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Układ mięśniowy tworzą m.in.",
+      "options": [
+        "mięsień sercowy.",
+        "narządy pomocnicze (np. trzeszczki).",
+        "mięśnie szkieletowe.",
+        "neurony."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka jest przeciętna ilość kału (w kg) wydalanego przez owcę w ciągu doby?",
+      "options": [
+        "1-3",
+        "0,5-3",
+        "10–20",
+        "15–35"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSerce tworzy tkanka gładka serca, działająca niezależnie od woli organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Jedną z funkcji układu powłokowego jest regulowanie poziomu wody i soli mineralnych w organizmie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz te zjawiska, które występują przy skurczu izotonicznym.",
+      "options": [
+        "Mięsień zmniejsza swoją długość.",
+        "Długość mięśnia nie zmienia się.",
+        "Następuje wzrost napięcia mięśnia."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

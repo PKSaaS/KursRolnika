@@ -1,0 +1,1963 @@
+{
+  "id": "pz1",
+  "course": "Produkcja zwierzęca",
+  "title": "Utrzymanie czystości pomieszczeń inwentarskich",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Utrzymanie czystości w pomieszczeniach inwentarskich zajmuje około 20–25% całkowitego czasu obsługi trzody chlewnej i bydła – ma duże znaczenie dla ekonomii chowu.",
+        "Czystość urządzeń przekłada się na zdrowotność i wydajność zwierząt.",
+        "Głównym zadaniem w chowie zwierząt jest usuwanie odchodów – często najbardziej uciążliwe i nieprzyjemne zajęcie.",
+        "Obornik – mieszanina kału, moczu i ściółki.",
+        "Gnojówka – przefermentowany mocz.",
+        "Gnojowica – mieszanina kału, moczu, wody oraz resztek paszy.",
+        "Na ilość odchodów wpływają: gatunek, wiek, masa ciała, kondycja, sposób żywienia.",
+        "W ciągu doby bydło wydala odchody stanowiące około 8% masy ciała, a trzoda chlewna – około 5% masy ciała.",
+        "Odchody trzeba usuwać regularnie ze względu na wydzielanie szkodliwych gazów: CO2, NH3 i H2S.",
+        "Ręczne usuwanie obornika stosuje się wyłącznie przy niewielkiej liczbie zwierząt; w większych stadach – mechanicznie (względy ekonomiczne).",
+        "Obornik uzyskuje się przy utrzymaniu zwierząt na ściółce, gnojowicę – w pomieszczeniach bezściółkowych (wideokast)."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/czynniki-ilosc-odchodow.jpg",
+          "caption": "Czynniki wpływające na ilość odchodów: gatunek, wiek, masa ciała, kondycja i sposób żywienia. Bydło wydala na dobę ok. 8% masy ciała, trzoda chlewna ok. 5%."
+        }
+      ]
+    },
+    {
+      "heading": "Higiena pomieszczeń i ochrona sanitarna",
+      "points": [
+        "Czystość pomieszczeń i okresowa dezynfekcja to ważny warunek higienicznego utrzymania zwierząt.",
+        "Brud i kurz sprzyjają rozwojowi drobnoustrojów chorobotwórczych i pasożytów oraz zanieczyszczają powietrze.",
+        "Należy systematycznie usuwać pajęczyny, kurz i odchody zwierząt.",
+        "Przy budynkach inwentarskich tworzy się śluzy, a w wejściach rozkłada się maty dezynfekcyjne.",
+        "Osoby obsługujące zwierzęta, także osoby spoza gospodarstwa, obowiązkowo zakładają odzież ochronną.",
+        "Maty dezynfekcyjne: od góry z materiału łatwo nasiąkliwego, od dołu – nieprzesiąkliwego.",
+        "Maty umieszcza się na wjazdach i wyjazdach z gospodarstwa, w wejściach i wyjściach z budynków oraz tam, gdzie strefa brudna łączy się z czystą.",
+        "Każda mata (nasiąknięta środkiem dezynfekującym) powinna mieć napis ostrzegawczy „Uwaga, ślisko”.",
+        "Śluzy dezynfekcyjne – pomieszczenia oddzielające strefę brudną gospodarstwa od czystej, najczęściej przed wejściem do budynku inwentarskiego.",
+        "Wyposażenie śluz: najczęściej umywalki, urządzenia i środki do dezynfekcji obuwia."
+      ]
+    },
+    {
+      "heading": "1. Urządzenia do utrzymania czystości korytarzy",
+      "points": [
+        "Podstawowe narzędzia w każdym pomieszczeniu inwentarskim: miotły, łopaty, grabie i zgarniaki (prace ręczne).",
+        "Przy zamiataniu nie wolno wywoływać dużego zapylenia – może ono wysuszyć śluzówki nosa i górnych dróg oddechowych zwierząt.",
+        "Prace porządkowe należy wykonywać stopniowo, nawilżać sprzątane powierzchnie lub wcześniej usunąć zwierzęta z pomieszczenia.",
+        "Wskazane jest stosowanie wysokociśnieniowych urządzeń myjących.",
+        "Urządzenia wysokociśnieniowe z podgrzewaniem wody + środki czyszczące umożliwiają mycie i dezynfekcję pomieszczeń.",
+        "Mycie gorącą wodą i dezynfekcja niszczą drobnoustroje nieodporne na temperaturę powyżej 60°C, pH wyższe niż 11 lub niższe niż 6 oraz na chemiczne środki dezynfekujące.",
+        "Urządzenia na gorącą wodę pracują efektywniej niż na zimną.",
+        "Rodzaj urządzeń do utrzymania czystości korytarzy zależy od rodzaju i wielkości budynku inwentarskiego oraz sposobu wykończenia korytarzy."
+      ]
+    },
+    {
+      "heading": "Ochrona przed gryzoniami",
+      "points": [
+        "Gryzonie przenoszą wiele chorób, drobnoustrojów i pasożytów – poważne zagrożenie dla zwierząt.",
+        "Główny sposób walki: zabezpieczenie i uszczelnienie budynków.",
+        "Pasze i odpadki muszą być zabezpieczone przed gryzoniami.",
+        "Najczęściej stosowane: ultradźwiękowe odstraszacze emitujące fale o wysokiej częstotliwości, działające negatywnie na układ nerwowy gryzoni.",
+        "Przy wejściach do pomieszczeń montuje się chwytacze gryzoni (urządzenia chwytające o różnej konstrukcji)."
+      ]
+    },
+    {
+      "heading": "Utrzymanie czystości karmideł i stołów paszowych",
+      "points": [
+        "Urządzenia do karmienia są szczególnie narażone na rozwój drobnoustrojów – łatwo przyswajalne składniki pasz to dla nich idealna pożywka.",
+        "Brudne karmidła i poidła mogą powodować niechęć zwierząt do pobierania karmy.",
+        "Karmidła tradycyjne czyści się miotłami, zmiotkami i urządzeniami wysokociśnieniowymi.",
+        "Stoły paszowe w oborach: zgarniacze bierne na pojazdach samobieżnych lub zamiatarki czynne.",
+        "Najnowsze rozwiązanie – roboty do podgarniania paszy (dwa typy).",
+        "Robot swobodnie poruszający się wzdłuż stołu paszowego dzięki czujkom; start i koniec pracy w stacji dokującej, gdzie ładuje akumulatory.",
+        "Robot na szynie wzdłuż stołu paszowego – odgarnia paszę kilkadziesiąt razy dziennie i posypuje paszę objętościową niewielką ilością paszy treściwej, by zachęcić do jedzenia; ładowany w stacji dokującej na końcu stołu.",
+        "Robot swobodnie poruszający się wzdłuż stołu podgarnia paszę w kierunku zwierząt; robot szynowy jest zasilany baterią."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/roboty-stol-paszowy.jpg",
+          "caption": "Roboty do podgarniania paszy: z lewej robot swobodnie poruszający się wzdłuż stołu paszowego, z prawej robot poruszający się po szynie zamontowanej wzdłuż stołu paszowego (rys. 1.3 i 1.4)."
+        }
+      ]
+    },
+    {
+      "heading": "Utrzymanie czystości poideł",
+      "points": [
+        "Najczęściej stosuje się poidła automatyczne, podłączone do zbiorników lub bezpośrednio do wodociągu; największe zagrożenie – awaria i niekontrolowany wyciek wody.",
+        "Bydło, owce, konie – najczęściej poidła miskowe z pokrywą; zwierzę podnosi pokrywę i naciska nosem zawór.",
+        "Poidła miskowe należy czyścić przed każdym odpasem – wybrać zanieczyszczenia ręką i przeczyścić szczotką.",
+        "Trzoda chlewna przy paszach suchych – najczęściej poidła smoczkowe, montowane zwykle nad kanałem gnojowym; łatwe w utrzymaniu, wymagają tylko okresowej dezynfekcji.",
+        "Koryta dla świń stosuje się rzadko – trudno je utrzymać w czystości i marnuje się więcej wody.",
+        "Drób w systemie wybiegowym – poidła miskowe o stałym poziomie wody; wymagają stałej kontroli, bo często się brudzą.",
+        "Drób w chowie klatkowym – poidła kropelkowe uruchamiane przez ptaki; duża czystość, mniejszy nakład pracy."
+      ]
+    },
+    {
+      "heading": "2. Ręczne usuwanie obornika",
+      "points": [
+        "Narzędzia: taczki, wózki oraz kolejki zawieszane.",
+        "Stosowane w małych pomieszczeniach z niewielką liczbą zwierząt (duża pracochłonność).",
+        "Częstotliwość: kury, owce, kozy – raz na kilka dni; konie i trzoda chlewna – raz dziennie; krowy – dwa razy dziennie (czystość przy udoju).",
+        "Kolejka zawieszana porusza się po podwieszanym torze; rama z rolkami tocznymi.",
+        "Wózek kolejki wisi na dwóch linach przymocowanych do wałka; mechanizm nawija/odwija linę, podnosząc lub opuszczając wózek.",
+        "Przy mechanizmie jest uchwyt do przeciągania wózka po torze.",
+        "Opróżnianie wózka – obrót wokół własnej osi po otwarciu zamka blokującego.",
+        "Taczkami i wózkami przewozi się obornik na niewielkie odległości poza pomieszczenia inwentarskie."
+      ]
+    },
+    {
+      "heading": "Mechaniczne usuwanie obornika – szufla i przenośniki",
+      "points": [
+        "Do mechanicznego usuwania służą: szufle mechaniczne, przenośniki (ruch ciągły lub posuwisto-zwrotny), ładowarki i spychacze ciągnikowe lub samojezdne.",
+        "Szufla mechaniczna – do kanałów gnojowych o długości nieprzekraczającej 25 m.",
+        "Budowa szufli: część przednia z trzech płaskowników połączonych kątownikiem, część tylna z kątowników; połączone ogniwami łańcucha.",
+        "Szufla jest ciągnięta liną nawijaną na bęben napędzany silnikiem elektrycznym; opróżnia się samoczynnie nad płytą gnojową.",
+        "Przy maszcie wyciągu wyłącznik krańcowy zmienia kierunek obrotów silnika i szufla wraca do położenia początkowego.",
+        "Przenośnik o ruchu ciągłym: łańcuch w obwodzie zamkniętym z listwami (zgarniakami), przesuwa obornik do wyrzutni poza budynkiem; napęd – silnik elektryczny.",
+        "W przenośniku ciągłym podczas eksploatacji koryguje się napięcie łańcucha na kołach napędowych.",
+        "Przenośnik o ruchu posuwisto-zwrotnym: cięgno z wahliwie mocowanymi łapami zgarniającymi.",
+        "Przy posuwie zgarniającym łapy ustawiają się prostopadle do cięgna; przy posuwie jałowym – pod małym kątem do cięgna.",
+        "Przesuw obornika skokowy; długość skoku najczęściej 1,8–3 m, częstotliwość – kilka ruchów na minutę.",
+        "Z wyrzutni przenośnika ciągłego obornik spada bezwładnie na pryzmę lub na środek transportu.",
+        "Przenośnik posuwisto-zwrotny przesuwa obornik skokowo aż do usunięcia go z budynku na płytę gnojową lub środek transportu."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/szufla-mechaniczna.jpg",
+          "caption": "Szufla mechaniczna (rys. 1.5): 1 – szufla, 2 – lina, 3 – krążek odchylny, 4 – maszt, 5 – wyłącznik końcowy, 6 – bęben, 7 – skrzynka sterownicza, 8 – płytka gnojowa, 9 – kanał gnojowy."
+        },
+        {
+          "src": "img/pz1/przenosnik-ruch-ciagly.jpg",
+          "caption": "Przenośnik o ruchu ciągłym w kanale gnojowym (rys. 1.6): 1 – zespół napędowy, 2 – wyrzutnia, 3 – koło wiodące, 4 – kanał gnojowy, 5 – koło prowadzące, 6 – łańcuch, 7 – zgarniaki."
+        }
+      ]
+    },
+    {
+      "heading": "Spychacze i ładowacze czołowe",
+      "points": [
+        "Spychacze stosuje się w budynkach z odpowiednio szerokim i utwardzonym korytarzem gnojowym, po którym może jeździć ciągnik.",
+        "Spychacz montuje się na przedzie ciągnika z TUZ (trzypunktowy układ zawieszenia) lub za pomocą siłownika hydraulicznego.",
+        "Spychacz wypycha obornik poza pomieszczenie na płytę gnojową.",
+        "Ładowacze czołowe na ciągniku – głównie w pomieszczeniach z utrzymaniem na głębokiej ściółce.",
+        "Na głębokiej ściółce obornik usuwa się raz na kilka miesięcy – gromadzą się duże ilości, więc konieczna mechanizacja.",
+        "Ładowacze czołowe umożliwiają szybkie usunięcie i załadunek obornika bezpośrednio na rozrzutniki lub przyczepy."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/spychacz-czolowy.jpg",
+          "caption": "Spychacz ciągnikowy czołowy (rys. 1.7) – lemiesz na przedzie ciągnika (TUZ lub siłownik hydrauliczny) wypycha obornik z korytarza gnojowego."
+        },
+        {
+          "src": "img/pz1/ladowacz-czolowy.jpg",
+          "caption": "Ładowacz czołowy z widłami (rys. 1.8) – przy głębokiej ściółce usuwa obornik i od razu ładuje go na rozrzutnik."
+        }
+      ]
+    },
+    {
+      "heading": "3. System bezściołowy i mechaniczne usuwanie gnojowicy",
+      "points": [
+        "System bezściołowy zmniejsza nakłady na ściółkę i pracochłonne usuwanie obornika.",
+        "W oborach ruszta są nad kanałami gnojowymi, w chlewniach – pod całą podłogą.",
+        "Odchody przez szczeliny trafiają do kanałów, skąd są usuwane mechanicznie lub hydraulicznie do zbiorników.",
+        "Mechanicznie najczęściej – przenośnik o ruchu posuwisto-zwrotnym typu delta.",
+        "Delta: do cięgna w zamkniętym obwodzie przymocowane są dwa zgarniaki o wahliwych ramionach.",
+        "Delta montowana najczęściej w dwóch równoległych kanałach o jednakowej długości – pojedynczy skok może być równy długości kanału.",
+        "Ruch roboczy – ramiona prostopadle do cięgna; ruch jałowy – ramiona pod małym kątem do cięgna; napęd – silnik elektryczny."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/przenosnik-delta.jpg",
+          "caption": "Przenośnik typu delta (rys. 1.9): 1 – silnik z przekładnią, 2 – lina, 3 – ramiona zgarniaka przy ruchu roboczym (rozłożone), 4 – ramiona przy ruchu jałowym (złożone), 5 – rolka napinająca, 6 – kanał gnojowy."
+        }
+      ]
+    },
+    {
+      "heading": "Hydrauliczne usuwanie gnojowicy – samospływ",
+      "points": [
+        "Sposoby hydrauliczne: samospływ okresowy i samospływ ciągły.",
+        "Samospływ okresowy: kanał prostokątny, głębokość ok. 1 m, spadek dna 1–3%, długość do 25 m.",
+        "Kanał w samospływie okresowym jest tymczasowym zbiornikiem przez 2–4 tygodnie – do chwili, gdy gnojowica jest 5–10 cm poniżej poziomu rusztu.",
+        "Opróżnianie: usuwa się zasuwy, gnojowica spływa pod własnym ciężarem do kanałów zbiorczych lub zbiornika; resztki spłukuje się bieżącą wodą.",
+        "Po oczyszczeniu zamyka się zasuwy i napełnia kanał wodą na kilka centymetrów, by odchody nie przywierały do dna; w długich kanałach stosuje się przegrody, by ograniczyć zużycie wody.",
+        "Samospływ ciągły: szerokość kanału ok. 80 cm, głębokość do 120 cm, długość do 35 m, dno płaskie.",
+        "Na wylocie kanału próg o wysokości 8–20 cm – im dłuższy kanał, tym wyższy próg.",
+        "Przed użytkowaniem kanał napełnia się wodą do wysokości progu.",
+        "Usuwanie ciągłe przez separację: części płynne przy dnie, stałe unoszą się i przelewają przez próg do kanału zbiorczego lub zbiornika.",
+        "Zalety samospływu ciągłego: brak dodatkowych urządzeń, najmniejsza pracochłonność, mniejsze zużycie wody i objętość gnojowicy – mniejsze zbiorniki."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/samosplyw-okresowy.jpg",
+          "caption": "Samospływ okresowy (rys. 1.10): 1 – kanał gnojowy (ze spadkiem dna w stronę zasuwy), 2 – zasuwa, 3 – zbiornik, 4 – podłoga rusztowa. Po otwarciu zasuwy gnojowica spływa do zbiornika."
+        },
+        {
+          "src": "img/pz1/samosplyw-ciagly.jpg",
+          "caption": "Samospływ ciągły (rys. 1.11): 1 – kanał gnojowy, 2 – próg, 3 – kanał zbiorczy, 4 – podłoga rusztowa. Gnojowica przelewa się przez próg do kanału zbiorczego."
+        }
+      ]
+    },
+    {
+      "heading": "Utrzymanie ruszt w czystości",
+      "points": [
+        "W systemie bezściółkowym płyty rusztowe muszą być czyste i suche.",
+        "Stosuje się cięgnowe zgarniacze ruszt lub roboty zgarniające.",
+        "Zgarniacz rusztu: cięgno (lina, łańcuch) ze zgarniaczem listwowym, przeciągane przez silnik z jednego końca na drugi.",
+        "Wada zgarniaczy listwowych – mimo małej prędkości mogą zranić zwierzęta.",
+        "Roboty zgarniające: napęd elektryczny, dopasowują się do kształtu obory (bardziej uniwersalne niż zgarniacze cięgnowe).",
+        "Roboty pracują kilkanaście godzin na dobę (zależnie od baterii); reagują na przeszkody i nie kaleczą racic bydła."
+      ]
+    },
+    {
+      "heading": "Usuwanie i przechowywanie gnojówki",
+      "points": [
+        "Gnojówka spływa samoczynnie systemem rur i kanałów o odpowiednim nachyleniu do zbiornika przy budynku.",
+        "Zbiornik na gnojówkę musi pomieścić gnojówkę co najmniej przez 4 miesiące; w rejonach górskich okres może być dłuższy (niska temperatura, pokrywa śnieżna).",
+        "Zbiorniki opróżnia się pompami lub wozami asenizacyjnymi z pompą.",
+        "Wóz asenizacyjny zasysa gnojówkę dzięki podciśnieniu wytworzonemu w zbiorniku wozu; opróżnia się przez wytworzenie w nim ciśnienia (nadciśnienia)."
+      ],
+      "images": [
+        {
+          "src": "img/pz1/zbiornik-gnojowka.jpg",
+          "caption": "Zbiornik na gnojówkę (rys. 1.12): płyta żelbetowa z włazem, otwór wentylacyjny, płaszcz betonowy, powłoka hydroizolacyjna, płyta denna żelbetowa. Pojemność – na co najmniej 4 miesiące."
+        },
+        {
+          "src": "img/pz1/woz-asenizacyjny.jpg",
+          "caption": "Wóz asenizacyjny (rys. 1.13) – gnojówka jest zasysana ze zbiornika do wozu, a opróżnianie następuje przez pompę ciśnienia w zbiorniku."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Jaką część czasu obsługi bydła i trzody zajmuje utrzymanie czystości?",
+      "back": "Około 20–25% całkowitego czasu obsługi."
+    },
+    {
+      "front": "Obornik – definicja",
+      "back": "Mieszanina kału, moczu i ściółki."
+    },
+    {
+      "front": "Gnojówka – definicja",
+      "back": "Przefermentowany mocz."
+    },
+    {
+      "front": "Gnojowica – definicja",
+      "back": "Mieszanina kału, moczu, wody oraz resztek paszy."
+    },
+    {
+      "front": "Czynniki wpływające na ilość odchodów",
+      "back": "Gatunek, wiek, masa ciała, kondycja, sposób żywienia."
+    },
+    {
+      "front": "Ile odchodów dziennie wydala bydło (w % masy ciała)?",
+      "back": "Około 8% masy ciała."
+    },
+    {
+      "front": "Ile odchodów dziennie wydala trzoda chlewna (w % masy ciała)?",
+      "back": "Około 5% masy ciała."
+    },
+    {
+      "front": "Szkodliwe gazy wydzielające się z odchodów",
+      "back": "CO2, NH3 (amoniak) i H2S (siarkowodór)."
+    },
+    {
+      "front": "Kiedy stosuje się ręczne usuwanie obornika?",
+      "back": "Wyłącznie przy niewielkiej liczbie utrzymywanych zwierząt."
+    },
+    {
+      "front": "Czemu sprzyjają brud i kurz w budynkach?",
+      "back": "Rozwojowi drobnoustrojów chorobotwórczych i pasożytów; zanieczyszczają powietrze."
+    },
+    {
+      "front": "Kto musi zakładać odzież ochronną przy zwierzętach?",
+      "back": "Obowiązkowo wszystkie osoby obsługujące zwierzęta, także osoby spoza gospodarstwa."
+    },
+    {
+      "front": "Podstawowe narzędzia do sprzątania pomieszczeń inwentarskich",
+      "back": "Miotły, łopaty, grabie i zgarniaki."
+    },
+    {
+      "front": "Czym grozi duże zapylenie przy zamiataniu?",
+      "back": "Wysuszeniem śluzówek nosa i górnych części układu oddechowego zwierząt."
+    },
+    {
+      "front": "Jak ograniczyć pylenie przy sprzątaniu?",
+      "back": "Sprzątać stopniowo, nawilżać powierzchnie lub wcześniej usunąć zwierzęta."
+    },
+    {
+      "front": "Na jakie warunki nie są odporne drobnoustroje niszczone przy myciu i dezynfekcji?",
+      "back": "Temperaturę powyżej 60°C, pH wyższe niż 11 lub niższe niż 6, chemiczne środki dezynfekujące."
+    },
+    {
+      "front": "Które myjki wysokociśnieniowe pracują efektywniej?",
+      "back": "Na gorącą wodę (niż na zimną)."
+    },
+    {
+      "front": "Budowa maty dezynfekcyjnej",
+      "back": "Od góry materiał łatwo nasiąkliwy, od dołu nieprzesiąkliwy."
+    },
+    {
+      "front": "Gdzie umieszcza się maty dezynfekcyjne?",
+      "back": "Na wjazdach i wyjazdach z gospodarstwa, w wejściach i wyjściach z budynków, w miejscach styku strefy brudnej z czystą."
+    },
+    {
+      "front": "Jaki napis musi mieć mata dezynfekcyjna?",
+      "back": "„Uwaga, ślisko”."
+    },
+    {
+      "front": "Śluza dezynfekcyjna",
+      "back": "Pomieszczenie oddzielające strefę brudną gospodarstwa od czystej, zwykle przed wejściem do budynku inwentarskiego."
+    },
+    {
+      "front": "Typowe wyposażenie śluzy dezynfekcyjnej",
+      "back": "Umywalki, urządzenia i środki do dezynfekcji obuwia."
+    },
+    {
+      "front": "Główny sposób walki z gryzoniami",
+      "back": "Zabezpieczenie i uszczelnienie budynków."
+    },
+    {
+      "front": "Jak działają ultradźwiękowe odstraszacze gryzoni?",
+      "back": "Emitują fale o wysokiej częstotliwości, działające negatywnie na układ nerwowy gryzoni."
+    },
+    {
+      "front": "Dlaczego karmidła są szczególnie narażone na drobnoustroje?",
+      "back": "Łatwo przyswajalne składniki pasz są dla nich idealną pożywką."
+    },
+    {
+      "front": "Skutek brudnych karmideł i poideł (poza chorobami)",
+      "back": "Niechęć zwierząt do pobierania karmy."
+    },
+    {
+      "front": "Czym czyści się stoły paszowe w oborach?",
+      "back": "Zgarniaczami biernymi na pojazdach samobieżnych, zamiatarkami czynnymi, robotami do podgarniania paszy."
+    },
+    {
+      "front": "Gdzie robot do podgarniania paszy ładuje akumulatory?",
+      "back": "W stacji dokującej (punkt startu i końca pracy)."
+    },
+    {
+      "front": "Ile razy dziennie robot szynowy odgarnia paszę?",
+      "back": "Kilkadziesiąt razy dziennie."
+    },
+    {
+      "front": "Czym robot szynowy zachęca bydło do jedzenia paszy objętościowej?",
+      "back": "Posypuje ją niewielką ilością paszy treściwej."
+    },
+    {
+      "front": "Największe zagrożenie przy poidłach automatycznych",
+      "back": "Awaria poidła i niekontrolowany wyciek wody."
+    },
+    {
+      "front": "Jakie poidła stosuje się dla bydła, owiec i koni?",
+      "back": "Najczęściej poidła miskowe (z pokrywą i zaworem naciskanym nosem)."
+    },
+    {
+      "front": "Jak często czyści się poidła miskowe?",
+      "back": "Przed każdym odpasem – ręką i szczotką."
+    },
+    {
+      "front": "Jakie poidła dla świń przy paszach suchych?",
+      "back": "Poidła smoczkowe, montowane najczęściej nad kanałem gnojowym."
+    },
+    {
+      "front": "Wady koryt do pojenia świń",
+      "back": "Trudno je utrzymać w czystości, marnuje się więcej wody."
+    },
+    {
+      "front": "Poidła dla drobiu w systemie wybiegowym",
+      "back": "Miskowe o stałym poziomie wody – wymagają stałej kontroli."
+    },
+    {
+      "front": "Poidła dla drobiu w chowie klatkowym",
+      "back": "Kropelkowe, uruchamiane przez ptaki – duża czystość."
+    },
+    {
+      "front": "Narzędzia do ręcznego usuwania obornika",
+      "back": "Taczki, wózki, kolejki zawieszane."
+    },
+    {
+      "front": "Jak często usuwa się obornik ręcznie u kur, owiec i kóz?",
+      "back": "Raz na kilka dni."
+    },
+    {
+      "front": "Jak często usuwa się obornik u koni i trzody chlewnej?",
+      "back": "Raz dziennie."
+    },
+    {
+      "front": "Jak często usuwa się obornik u krów i dlaczego?",
+      "back": "Dwa razy dziennie – dla czystości przy udoju."
+    },
+    {
+      "front": "Na ilu linach wisi wózek kolejki zawieszanej?",
+      "back": "Na dwóch linach przymocowanych do wałka."
+    },
+    {
+      "front": "Jak opróżnia się wózek kolejki zawieszanej?",
+      "back": "Obracając go wokół własnej osi po otwarciu zamka blokującego."
+    },
+    {
+      "front": "Urządzenia do mechanicznego usuwania obornika",
+      "back": "Szufle mechaniczne, przenośniki (ciągłe i posuwisto-zwrotne), ładowarki i spychacze."
+    },
+    {
+      "front": "Maksymalna długość kanału dla szufli mechanicznej",
+      "back": "25 m."
+    },
+    {
+      "front": "Co powoduje powrót szufli mechanicznej?",
+      "back": "Wyłącznik krańcowy przy maszcie wyciągu zmienia kierunek obrotów silnika."
+    },
+    {
+      "front": "Gdzie opróżnia się szufla mechaniczna?",
+      "back": "Samoczynnie nad płytą gnojową."
+    },
+    {
+      "front": "Podstawowy element przenośnika o ruchu ciągłym",
+      "back": "Łańcuch w obwodzie zamkniętym z przymocowanymi listwami."
+    },
+    {
+      "front": "Gdzie koryguje się napięcie łańcucha przenośnika ciągłego?",
+      "back": "Na kołach napędowych."
+    },
+    {
+      "front": "Długość skoku przenośnika posuwisto-zwrotnego",
+      "back": "Najczęściej 1,8–3 m (kilka ruchów na minutę)."
+    },
+    {
+      "front": "Położenie łap zgarniających przy posuwie roboczym i jałowym",
+      "back": "Roboczy – prostopadle do cięgna; jałowy – pod małym kątem do cięgna."
+    },
+    {
+      "front": "Warunek stosowania spychacza ciągnikowego",
+      "back": "Szeroki i utwardzony korytarz gnojowy umożliwiający przejazd ciągnika."
+    },
+    {
+      "front": "TUZ – rozwinięcie",
+      "back": "Trzypunktowy układ zawieszenia."
+    },
+    {
+      "front": "Gdzie stosuje się ładowacze czołowe do obornika?",
+      "back": "W pomieszczeniach z utrzymaniem na głębokiej ściółce."
+    },
+    {
+      "front": "Jak często usuwa się obornik z głębokiej ściółki?",
+      "back": "Raz na kilka miesięcy."
+    },
+    {
+      "front": "Gdzie są ruszta w oborach, a gdzie w chlewniach?",
+      "back": "Obory – nad kanałami gnojowymi; chlewnie – pod całą podłogą."
+    },
+    {
+      "front": "Najczęstsze urządzenie do mechanicznego usuwania gnojowicy",
+      "back": "Przenośnik posuwisto-zwrotny typu delta."
+    },
+    {
+      "front": "Budowa przenośnika typu delta",
+      "back": "Cięgno w zamkniętym obwodzie z dwoma zgarniakami o wahliwych ramionach, zwykle w dwóch równoległych kanałach."
+    },
+    {
+      "front": "Hydrauliczne sposoby usuwania gnojowicy",
+      "back": "Samospływ okresowy i samospływ ciągły."
+    },
+    {
+      "front": "Parametry kanału w samospływie okresowym",
+      "back": "Prostokątny, głębokość ok. 1 m, spadek dna 1–3%, długość do 25 m."
+    },
+    {
+      "front": "Jak długo kanał samospływu okresowego gromadzi gnojowicę?",
+      "back": "2–4 tygodnie – do poziomu 5–10 cm poniżej rusztu."
+    },
+    {
+      "front": "Co robi się po opróżnieniu kanału samospływu okresowego?",
+      "back": "Zamyka zasuwy i napełnia kanał wodą na kilka cm, by odchody nie przywierały do dna."
+    },
+    {
+      "front": "Parametry kanału w samospływie ciągłym",
+      "back": "Szerokość ok. 80 cm, głębokość do 120 cm, długość do 35 m, dno płaskie."
+    },
+    {
+      "front": "Wysokość progu w samospływie ciągłym",
+      "back": "8–20 cm – im dłuższy kanał, tym wyższy próg."
+    },
+    {
+      "front": "Na czym polega usuwanie gnojowicy w samospływie ciągłym?",
+      "back": "Na separacji – płynne przy dnie, stałe unoszą się i przelewają przez próg."
+    },
+    {
+      "front": "Zalety samospływu ciągłego",
+      "back": "Brak dodatkowych urządzeń, najmniejsza pracochłonność, mniejsze zużycie wody i objętość gnojowicy, mniejsze zbiorniki."
+    },
+    {
+      "front": "Urządzenia do czyszczenia ruszt",
+      "back": "Cięgnowe zgarniacze ruszt lub roboty zgarniające."
+    },
+    {
+      "front": "Wada zgarniaczy listwowych ruszt",
+      "back": "Możliwość zranienia zwierząt mimo małej prędkości."
+    },
+    {
+      "front": "Ile godzin na dobę pracują roboty zgarniające?",
+      "back": "Kilkanaście godzin (zależnie od baterii)."
+    },
+    {
+      "front": "Przez jaki czas zbiornik ma utrzymać gnojówkę?",
+      "back": "Co najmniej 4 miesiące (w górach dłużej)."
+    },
+    {
+      "front": "Jak wóz asenizacyjny zasysa gnojówkę?",
+      "back": "Pompa wytwarza podciśnienie w zbiorniku wozu."
+    },
+    {
+      "front": "Jak opróżnia się wóz asenizacyjny?",
+      "back": "Pompa wytwarza ciśnienie w zbiorniku wozu."
+    },
+    {
+      "front": "Jak nazywa się to urządzenie do usuwania obornika i jakie są jego oznaczone elementy (1–9)?",
+      "back": "Szufla mechaniczna: 1 – szufla, 2 – lina, 3 – krążek odchylny, 4 – maszt, 5 – wyłącznik końcowy, 6 – bęben, 7 – skrzynka sterownicza, 8 – płytka gnojowa, 9 – kanał gnojowy. Do kanałów do 25 m długości.",
+      "img": "img/pz1/szufla-mechaniczna.jpg"
+    },
+    {
+      "front": "Jakie urządzenie przedstawia ilustracja? Nazwij elementy 1–7.",
+      "back": "Przenośnik o ruchu ciągłym: 1 – zespół napędowy, 2 – wyrzutnia, 3 – koło wiodące, 4 – kanał gnojowy, 5 – koło prowadzące, 6 – łańcuch, 7 – zgarniaki.",
+      "img": "img/pz1/przenosnik-ruch-ciagly.jpg"
+    },
+    {
+      "front": "Jaki przenośnik do usuwania gnojowicy przedstawia schemat?",
+      "back": "Przenośnik typu delta (posuwisto-zwrotny): 1 – silnik z przekładnią, 2 – lina, 3 – ramiona zgarniaka rozłożone (ruch roboczy), 4 – ramiona złożone (ruch jałowy), 5 – rolka napinająca, 6 – kanał gnojowy.",
+      "img": "img/pz1/przenosnik-delta.jpg"
+    },
+    {
+      "front": "Jaki sposób hydraulicznego usuwania gnojowicy przedstawia schemat (z zasuwą)?",
+      "back": "Samospływ okresowy: 1 – kanał gnojowy, 2 – zasuwa, 3 – zbiornik, 4 – podłoga rusztowa.",
+      "img": "img/pz1/samosplyw-okresowy.jpg"
+    },
+    {
+      "front": "Jaki sposób hydraulicznego usuwania gnojowicy przedstawia schemat (z progiem)?",
+      "back": "Samospływ ciągły: 1 – kanał gnojowy, 2 – próg, 3 – kanał zbiorczy, 4 – podłoga rusztowa.",
+      "img": "img/pz1/samosplyw-ciagly.jpg"
+    },
+    {
+      "front": "Jaka to maszyna i do czego służy w oborze?",
+      "back": "Spychacz ciągnikowy czołowy – wypycha obornik z szerokiego, utwardzonego korytarza gnojowego na płytę gnojową.",
+      "img": "img/pz1/spychacz-czolowy.jpg"
+    },
+    {
+      "front": "Jaka to maszyna i do czego służy?",
+      "back": "Ładowacz czołowy – usuwa obornik z głębokiej ściółki i ładuje go bezpośrednio na rozrzutnik.",
+      "img": "img/pz1/ladowacz-czolowy.jpg"
+    },
+    {
+      "front": "Co przedstawia ilustracja? Nazwij elementy konstrukcji.",
+      "back": "Zbiornik na gnojówkę: płyta żelbetowa, właz, otwór wentylacyjny, płaszcz betonowy, powłoka hydroizolacyjna, płyta denna żelbetowa. Musi pomieścić gnojówkę przez co najmniej 4 miesiące.",
+      "img": "img/pz1/zbiornik-gnojowka.jpg"
+    },
+    {
+      "front": "Jaki to pojazd i do czego służy?",
+      "back": "Wóz asenizacyjny – do opróżniania zbiorników z gnojówki (zasysanie ze zbiornika, opróżnianie pompą ciśnienia).",
+      "img": "img/pz1/woz-asenizacyjny.jpg"
+    },
+    {
+      "front": "Przy jakim utrzymaniu zwierząt powstaje obornik, a przy jakim gnojowica?",
+      "back": "Obornik – przy utrzymaniu na ściółce; gnojowica – w pomieszczeniach bezściółkowych."
+    },
+    {
+      "front": "Gdzie trafia obornik z wyrzutni przenośnika o ruchu ciągłym?",
+      "back": "Spada bezwładnie na pryzmę lub na odpowiedni środek transportu (wyrzutnia jest poza budynkiem)."
+    },
+    {
+      "front": "Dlaczego roboty zgarniające ruszt są bardziej uniwersalne niż zgarniacze cięgnowe?",
+      "back": "Dopasowują się do każdego kształtu obory; dzięki mobilności i reagowaniu na przeszkody nie kaleczą racic bydła (napęd elektryczny, praca kilkanaście godzin na dobę)."
+    },
+    {
+      "front": "Jak gnojówka trafia z budynku do zbiornika?",
+      "back": "Samoczynnie – instalacją z rur i kanałów o odpowiednim nachyleniu do zbiornika w pobliżu budynku (zbiornik na co najmniej 4 miesiące)."
+    },
+    {
+      "front": "Budowa i napęd szufli mechanicznej",
+      "back": "Część przednia z trzech płaskowników połączonych kątownikiem, część tylna z kątowników, połączone ogniwami łańcucha; lina przymocowana do przedniej części nawijana na bęben napędzany silnikiem elektrycznym."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Utrzymanie czystości w pomieszczeniach inwentarskich zajmuje około:",
+      "options": [
+        "20–25% czasu obsługi",
+        "5–10% czasu obsługi",
+        "40–50% czasu obsługi",
+        "60–70% czasu obsługi"
+      ],
+      "answer": 0,
+      "explain": "Utrzymanie czystości zajmuje około 20–25% całkowitego czasu obsługi trzody chlewnej i bydła."
+    },
+    {
+      "q": "Mieszanina kału, moczu i ściółki to:",
+      "options": [
+        "gnojówka",
+        "gnojowica",
+        "obornik",
+        "kompost"
+      ],
+      "answer": 2,
+      "explain": "Obornik to mieszanina kału, moczu i ściółki."
+    },
+    {
+      "q": "Gnojówka to:",
+      "options": [
+        "mieszanina kału, moczu i ściółki",
+        "przefermentowany mocz",
+        "mieszanina kału, moczu, wody i resztek paszy",
+        "przefermentowany kał bez moczu"
+      ],
+      "answer": 1,
+      "explain": "Gnojówka to przefermentowany mocz."
+    },
+    {
+      "q": "Gnojowica to mieszanina:",
+      "options": [
+        "kału, moczu i ściółki",
+        "moczu i ściółki",
+        "kału i ściółki",
+        "kału, moczu, wody oraz resztek paszy"
+      ],
+      "answer": 3,
+      "explain": "Gnojowica to mieszanina kału, moczu, wody oraz resztek paszy."
+    },
+    {
+      "q": "Bydło w ciągu doby wydala odchody stanowiące około:",
+      "options": [
+        "2% masy ciała",
+        "5% masy ciała",
+        "15% masy ciała",
+        "8% masy ciała"
+      ],
+      "answer": 3,
+      "explain": "Przyjmuje się, że bydło wydala dziennie odchody stanowiące około 8% masy ciała."
+    },
+    {
+      "q": "Trzoda chlewna w ciągu doby wydala odchody stanowiące około:",
+      "options": [
+        "1% masy ciała",
+        "5% masy ciała",
+        "8% masy ciała",
+        "12% masy ciała"
+      ],
+      "answer": 1,
+      "explain": "Trzoda chlewna wydala dziennie odchody stanowiące około 5% masy ciała."
+    },
+    {
+      "q": "Które gazy szkodliwe dla zwierząt wydzielają się z odchodów?",
+      "options": [
+        "O2, N2 i Ar",
+        "CO, O3 i SO2",
+        "CO2, NH3 i H2S",
+        "CH4, H2 i He"
+      ],
+      "answer": 2,
+      "explain": "Z odchodów wydzielają się szkodliwe gazy CO2, NH3 i H2S."
+    },
+    {
+      "q": "Maty dezynfekcyjne powinny być wykonane:",
+      "options": [
+        "od góry z materiału nasiąkliwego, od dołu z nieprzesiąkliwego",
+        "w całości z materiału nieprzesiąkliwego",
+        "od góry z nieprzesiąkliwego, od dołu z nasiąkliwego",
+        "w całości z gumy perforowanej"
+      ],
+      "answer": 0,
+      "explain": "Mata powinna być od góry z materiału łatwo nasiąkliwego, a od dołu nieprzesiąkliwego."
+    },
+    {
+      "q": "Każda mata dezynfekcyjna powinna być oznaczona napisem:",
+      "options": [
+        "„Uwaga, ślisko”",
+        "„Strefa czysta”",
+        "„Zakaz wstępu”",
+        "„Uwaga, środek żrący”"
+      ],
+      "answer": 0,
+      "explain": "Mata nasiąknięta roztworem dezynfekującym powinna mieć napis „Uwaga, ślisko”."
+    },
+    {
+      "q": "Śluza dezynfekcyjna to pomieszczenie:",
+      "options": [
+        "do przechowywania środków dezynfekcyjnych",
+        "do izolacji chorych zwierząt",
+        "oddzielające strefę brudną gospodarstwa od czystej",
+        "do magazynowania pasz"
+      ],
+      "answer": 2,
+      "explain": "Śluzy dezynfekcyjne to pomieszczenia oddzielające strefę brudną gospodarstwa od czystej."
+    },
+    {
+      "q": "Mycie gorącą wodą i dezynfekcja niszczą drobnoustroje nieodporne m.in. na temperaturę powyżej:",
+      "options": [
+        "30°C",
+        "60°C",
+        "40°C",
+        "100°C"
+      ],
+      "answer": 1,
+      "explain": "Drobnoustroje nieodporne na temperaturę powyżej 60°C są skutecznie niszczone."
+    },
+    {
+      "q": "Zbyt duże zapylenie podczas zamiatania pomieszczeń może u zwierząt spowodować:",
+      "options": [
+        "zapalenie racic",
+        "niedobór witamin",
+        "biegunkę",
+        "wysuszenie śluzówek nosa i górnych dróg oddechowych"
+      ],
+      "answer": 3,
+      "explain": "Zapylenie może spowodować wysuszenie śluzówek nosa i górnych części układu oddechowego."
+    },
+    {
+      "q": "Głównym sposobem walki z gryzoniami jest:",
+      "options": [
+        "stosowanie trutek w paszy",
+        "trzymanie kotów",
+        "częste mycie posadzek",
+        "zabezpieczenie i uszczelnienie budynków"
+      ],
+      "answer": 3,
+      "explain": "Głównym sposobem walki z gryzoniami jest zabezpieczenie i uszczelnienie budynków."
+    },
+    {
+      "q": "Ultradźwiękowe odstraszacze gryzoni działają poprzez:",
+      "options": [
+        "impulsy elektryczne",
+        "fale o wysokiej częstotliwości wpływające na układ nerwowy",
+        "wydzielanie zapachu",
+        "emisję światła UV"
+      ],
+      "answer": 1,
+      "explain": "Odstraszacze emitują fale o wysokiej częstotliwości negatywnie wpływające na system nerwowy gryzoni."
+    },
+    {
+      "q": "Robot poruszający się po szynie wzdłuż stołu paszowego dodatkowo:",
+      "options": [
+        "dozuje wodę do poideł",
+        "usuwa obornik z korytarza",
+        "posypuje paszę objętościową niewielką ilością paszy treściwej",
+        "dezynfekuje stół paszowy"
+      ],
+      "answer": 2,
+      "explain": "Robot szynowy posypuje paszę objętościową niewielką ilością paszy treściwej, by zachęcić zwierzęta do jedzenia."
+    },
+    {
+      "q": "Do pojenia bydła, owiec i koni najczęściej stosuje się poidła:",
+      "options": [
+        "miskowe",
+        "smoczkowe",
+        "kropelkowe",
+        "korytowe"
+      ],
+      "answer": 0,
+      "explain": "Do pojenia bydła, owiec i koni najczęściej stosuje się poidła miskowe."
+    },
+    {
+      "q": "Poidła miskowe dla bydła należy czyścić:",
+      "options": [
+        "przed każdym odpasem",
+        "raz w tygodniu",
+        "raz w miesiącu",
+        "tylko po awarii"
+      ],
+      "answer": 0,
+      "explain": "Poidła miskowe należy czyścić przed każdym odpasem, wybierając zanieczyszczenia ręką i szczotką."
+    },
+    {
+      "q": "Przy pojeniu trzody chlewnej żywionej paszami suchymi najczęściej stosuje się poidła:",
+      "options": [
+        "miskowe z pokrywą",
+        "koryta",
+        "smoczkowe",
+        "kropelkowe"
+      ],
+      "answer": 2,
+      "explain": "Przy paszach suchych dla trzody chlewnej najczęściej stosowane są poidła smoczkowe."
+    },
+    {
+      "q": "W klatkowym chowie drobiu stosuje się poidła:",
+      "options": [
+        "miskowe o stałym poziomie wody",
+        "kropelkowe",
+        "smoczkowe dla świń",
+        "korytowe"
+      ],
+      "answer": 1,
+      "explain": "W klatkowym chowie drobiu stosuje się poidła kropelkowe uruchamiane przez ptaki."
+    },
+    {
+      "q": "Największym zagrożeniem przy poidłach automatycznych jest:",
+      "options": [
+        "zamarzanie paszy",
+        "zbyt niskie ciśnienie powietrza",
+        "hałas",
+        "awaria i niekontrolowany wyciek wody"
+      ],
+      "answer": 3,
+      "explain": "Największym zagrożeniem jest awaria poidła i niekontrolowany wyciek wody."
+    },
+    {
+      "q": "Przy ręcznym usuwaniu obornika u krów czynność tę wykonuje się:",
+      "options": [
+        "raz na kilka dni",
+        "raz w tygodniu",
+        "raz dziennie",
+        "dwa razy dziennie"
+      ],
+      "answer": 3,
+      "explain": "U krów, dla czystości przy udoju, obornik usuwa się aż dwa razy dziennie."
+    },
+    {
+      "q": "Ręczne usuwanie obornika raz na kilka dni wystarcza u:",
+      "options": [
+        "krów mlecznych",
+        "kur, owiec i kóz",
+        "koni",
+        "trzody chlewnej"
+      ],
+      "answer": 1,
+      "explain": "Raz na kilka dni obornik usuwa się w przypadku kur, owiec i kóz."
+    },
+    {
+      "q": "Szufla mechaniczna jest przeznaczona do kanałów gnojowych o długości nieprzekraczającej:",
+      "options": [
+        "10 m",
+        "50 m",
+        "25 m",
+        "100 m"
+      ],
+      "answer": 2,
+      "explain": "Szufla mechaniczna jest przeznaczona do kanałów, których długość nie przekracza 25 m."
+    },
+    {
+      "q": "Powrót szufli mechanicznej do położenia początkowego powoduje:",
+      "options": [
+        "wyłącznik krańcowy zmieniający obroty silnika",
+        "sprężyna powrotna",
+        "operator ręcznie",
+        "siłownik hydrauliczny ciągnika"
+      ],
+      "answer": 0,
+      "explain": "Wyłącznik krańcowy przy maszcie zmienia obroty silnika i szufla wraca."
+    },
+    {
+      "q": "Korektę napięcia łańcucha przenośnika o ruchu ciągłym przeprowadza się:",
+      "options": [
+        "na kołach napędowych",
+        "na wyrzutni",
+        "na zgarniakach",
+        "w kanale gnojowym"
+      ],
+      "answer": 0,
+      "explain": "Korektę napięcia łańcucha przeprowadza się na kołach napędowych."
+    },
+    {
+      "q": "Długość skoku przenośnika o ruchu posuwisto-zwrotnym wynosi najczęściej:",
+      "options": [
+        "0,2–0,5 m",
+        "5–8 m",
+        "1,8–3 m",
+        "10–15 m"
+      ],
+      "answer": 2,
+      "explain": "Długość skoku zawiera się najczęściej w granicach 1,8–3 m."
+    },
+    {
+      "q": "Ładowacze czołowe do usuwania obornika stosuje się głównie w pomieszczeniach:",
+      "options": [
+        "z rusztami nad kanałami",
+        "z utrzymaniem zwierząt na głębokiej ściółce",
+        "z kanałami samospływu",
+        "z klatkami dla drobiu"
+      ],
+      "answer": 1,
+      "explain": "Ładowacze czołowe wykorzystuje się przede wszystkim przy głębokiej ściółce, z której obornik usuwa się raz na kilka miesięcy."
+    },
+    {
+      "q": "Skrót TUZ oznacza:",
+      "options": [
+        "tylny układ zaczepowy",
+        "transportowy układ zgarniający",
+        "techniczny układ zasilania",
+        "trzypunktowy układ zawieszenia"
+      ],
+      "answer": 3,
+      "explain": "Spychacz montuje się na ciągniku z TUZ – trzypunktowym układem zawieszenia."
+    },
+    {
+      "q": "W chlewniach z systemem bezściołowym ruszta znajdują się:",
+      "options": [
+        "tylko nad korytarzem paszowym",
+        "tylko przy poidłach",
+        "nad kanałami w oborach",
+        "pod całą podłogą"
+      ],
+      "answer": 3,
+      "explain": "W oborach ruszta są nad kanałami gnojowymi, a w chlewniach – pod całą podłogą."
+    },
+    {
+      "q": "Do mechanicznego usuwania gnojowicy z kanałów najczęściej stosuje się:",
+      "options": [
+        "szuflę mechaniczną",
+        "przenośnik posuwisto-zwrotny typu delta",
+        "ładowacz czołowy",
+        "kolejkę zawieszaną"
+      ],
+      "answer": 1,
+      "explain": "Najczęściej stosowany jest przenośnik o ruchu posuwisto-zwrotnym typu delta."
+    },
+    {
+      "q": "Spadek dna kanału w samospływie okresowym powinien wynosić:",
+      "options": [
+        "0%",
+        "5–8%",
+        "1–3%",
+        "10–15%"
+      ],
+      "answer": 2,
+      "explain": "Kąt nachylenia dna kanału w kierunku spływu powinien mieścić się w przedziale 1–3%."
+    },
+    {
+      "q": "Kanał samospływu okresowego opróżnia się, gdy poziom gnojowicy jest:",
+      "options": [
+        "5–10 cm poniżej poziomu rusztu",
+        "na równi z rusztem",
+        "30–40 cm poniżej rusztu",
+        "w połowie głębokości kanału"
+      ],
+      "answer": 0,
+      "explain": "Kanał opróżnia się, gdy poziom gnojowicy jest 5–10 cm poniżej poziomu rusztu."
+    },
+    {
+      "q": "Kanał w samospływie okresowym pełni funkcję tymczasowego zbiornika przez około:",
+      "options": [
+        "2–4 tygodnie",
+        "1–2 dni",
+        "3–6 miesięcy",
+        "rok"
+      ],
+      "answer": 0,
+      "explain": "Kanał pełni funkcję tymczasowego zbiornika przez dwa do czterech tygodni."
+    },
+    {
+      "q": "Maksymalna długość kanału w samospływie ciągłym wynosi około:",
+      "options": [
+        "10 m",
+        "25 m",
+        "35 m",
+        "60 m"
+      ],
+      "answer": 2,
+      "explain": "Kanały samospływu ciągłego mają długość do 35 m."
+    },
+    {
+      "q": "Wysokość progu na wylocie kanału samospływu ciągłego wynosi:",
+      "options": [
+        "1–3 cm",
+        "8–20 cm",
+        "30–50 cm",
+        "60–80 cm"
+      ],
+      "answer": 1,
+      "explain": "Na wylocie kanału umieszczony jest próg o wysokości 8–20 cm."
+    },
+    {
+      "q": "Która metoda usuwania gnojowicy jest najmniej pracochłonna i ogranicza zużycie wody?",
+      "options": [
+        "samospływ okresowy",
+        "przenośnik typu delta",
+        "ręczne wybieranie",
+        "samospływ ciągły"
+      ],
+      "answer": 3,
+      "explain": "Samospływ ciągły nie wymaga dodatkowych urządzeń, jest najmniej pracochłonny i ogranicza zużycie wody."
+    },
+    {
+      "q": "Wadą listwowych zgarniaczy ruszt jest:",
+      "options": [
+        "duże zużycie wody",
+        "konieczność użycia ciągnika",
+        "wysoka prędkość robocza",
+        "możliwość zranienia zwierząt"
+      ],
+      "answer": 3,
+      "explain": "Wadą zgarniaczy listwowych jest, mimo niewielkiej prędkości, możliwość zranienia zwierząt."
+    },
+    {
+      "q": "Zbiornik na gnojówkę powinien pomieścić ją co najmniej przez:",
+      "options": [
+        "2 tygodnie",
+        "4 miesiące",
+        "1 miesiąc",
+        "2 lata"
+      ],
+      "answer": 1,
+      "explain": "Zbiornik ma za zadanie utrzymanie gnojówki co najmniej przez 4 miesiące."
+    },
+    {
+      "q": "Wóz asenizacyjny zasysa gnojówkę ze zbiornika dzięki:",
+      "options": [
+        "sile grawitacji",
+        "przenośnikowi ślimakowemu",
+        "podciśnieniu wytwarzanemu w zbiorniku wozu",
+        "nadciśnieniu w zbiorniku na gnojówkę"
+      ],
+      "answer": 2,
+      "explain": "Pompa wytwarza podciśnienie w zbiorniku wozu i gnojówka jest zasysana przewodami."
+    },
+    {
+      "q": "Jakie urządzenie do usuwania gnojowicy przedstawia schemat?",
+      "options": [
+        "Przenośnik typu delta",
+        "Szufla mechaniczna",
+        "Przenośnik o ruchu ciągłym",
+        "Samospływ ciągły"
+      ],
+      "answer": 0,
+      "explain": "Przenośnik typu delta: lina ciągnie zgarniak, którego ramiona rozkładają się przy ruchu roboczym i składają przy jałowym.",
+      "img": "img/pz1/przenosnik-delta.jpg"
+    },
+    {
+      "q": "Co oznacza element nr 2 na schemacie samospływu ciągłego?",
+      "options": [
+        "Próg",
+        "Zasuwę",
+        "Kanał zbiorczy",
+        "Podłogę rusztową"
+      ],
+      "answer": 0,
+      "explain": "W samospływie ciągłym: 1 – kanał gnojowy, 2 – próg, 3 – kanał zbiorczy, 4 – podłoga rusztowa.",
+      "img": "img/pz1/samosplyw-ciagly.jpg"
+    },
+    {
+      "q": "Jaki pojazd przedstawia zdjęcie?",
+      "options": [
+        "Wóz asenizacyjny",
+        "Wóz paszowy",
+        "Rozrzutnik obornika",
+        "Opryskiwacz polowy"
+      ],
+      "answer": 0,
+      "explain": "Wóz asenizacyjny służy do opróżniania zbiorników z gnojówki.",
+      "img": "img/pz1/woz-asenizacyjny.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Co wchodzi w skład obornika?",
+      "options": [
+        "Ściółka.",
+        "Mocz.",
+        "Kał.",
+        "Nawóz."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUtrzymanie czystości w pomieszczeniach inwentarskich zajmuje około … całkowitego czasu obsługi trzody chlewnej i bydła.",
+      "options": [
+        "20–25%",
+        "5–10%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzystość urządzeń wchodzących w skład wyposażenia pomieszczeń inwentarskich nie przekłada się na zdrowotność i wydajność utrzymywanych tam zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników mają wpływ na ilość odchodów wydalanych przez zwierzęta?",
+      "options": [
+        "Masa ciała.",
+        "Sposób żywienia.",
+        "Gatunek.",
+        "Pogoda.",
+        "Kondycja.",
+        "Wiek."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW skład … wchodzą: kał, mocz, woda, resztki paszy.",
+      "options": [
+        "gnojowicy",
+        "gnojówki"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWykorzystując miotłę w pomieszczeniach, w których przebywają zwierzęta, należy pamiętać o tym, aby nie wywoływać podczas sprzątania zbyt dużego zapylenia tych pomieszczeń, ponieważ może to negatywnie wpłynąć na zdrowotność zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Aby utrzymać czystość i tym samym zapewnić właściwą higienę w hodowli oraz wydajność w produkcji, pomocne jest korzystanie z urządzeń myjących:",
+      "options": [
+        "niskociśnieniowych.",
+        "ultradźwiękowych.",
+        "wysokociśnieniowych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW trakcie nieostrożnego zamiatania pomieszczeń, w których przebywają zwierzęta, może powstać zbytnie zapylenie, powodujące u zwierząt ….",
+      "options": [
+        "wirusową biegunkę i chorobę błon śluzowych",
+        "wysuszenie śluzówek nosa i górnych części układu oddechowego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBadania naukowe wykazują, że urządzenia na zimną wodę pracują … efektywnie niż urządzenia na wodę gorącą.",
+      "options": [
+        "bardziej",
+        "mniej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywają się poidła stosowane w klatkowym chowie drobiu, uruchamiane przez ptaki?",
+      "options": [
+        "Miskowe.",
+        "Kropelkowe.",
+        "Smoczkowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo … usuwania obornika wykorzystuje się różnego rodzaju taczki, wózki oraz kolejki zawieszane.",
+      "options": [
+        "ręcznego",
+        "mechanicznego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy pojeniu trzody chlewnej, gdy zadajemy pasze suche, najczęściej stosuje się poidła miskowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz urządzenia i maszyny stosowane w procesie mechanicznego usuwania obornika.",
+      "options": [
+        "Taczki.",
+        "Ładowacze czołowe.",
+        "Szufla mechaniczna.",
+        "Przenośnik o ruchu posuwisto-zwrotnym.",
+        "Spychacze.",
+        "Przenośnik o ruchu ciągłym."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.\nZbiorniki na gnojówkę mają za zadanie utrzymanie odchodów co najmniej przez 4 miesiące. W rejonach górskich okres ten może być ….",
+      "options": [
+        "dłuższy",
+        "krótszy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zmniejszenia nakładów ponoszonych na przygotowanie ściółki i pracochłonne usuwanie obornika, stosuje się utrzymanie zwierząt w systemie bezściółkowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie dwa rozwiązania zastosowano, wykorzystując roboty do podgarniania paszy?",
+      "options": [
+        "Roboty poruszające się po szynie zamontowanej wzdłuż stołu paszowego.",
+        "Roboty sterowane drogą radiową.",
+        "Roboty z czujnikami poruszające się swobodnie wzdłuż stołu paszowego."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSzufla mechaniczna jest przeznaczona do kanałów gnojowych, których długość nie przekracza ….",
+      "options": [
+        "50 m",
+        "25 m"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMiędzy gnojówką a gnojowicą nie ma żadnej różnicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do pojenia bydła, owiec i koni najczęściej stosuje się poidła:",
+      "options": [
+        "kropelkowe.",
+        "smoczkowe.",
+        "miskowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDla drobiu utrzymywanego w systemie wybiegowym stosuje się poidła ….",
+      "options": [
+        "miskowe o stałym poziomie wody",
+        "kropelkowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Regularne usuwanie odchodów jest konieczne ze względu na wydzielanie się szkodliwych dla zwierząt gazów – CO2, NH3 i H2S.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak można usuwać gnojowicę?",
+      "options": [
+        "hydraulicznie.",
+        "ręcznie.",
+        "mechanicznie."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŚluzy dezynfekcyjne najczęściej znajdują się ….",
+      "options": [
+        "przed wjazdem do gospodarstwa",
+        "przed wejściem do budynku inwentarskiego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZadawanie pasz wymaga zachowania wysokiej dbałości o higienę w celu utrzymania zdrowotności zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Od czego są uzależnione sposoby usuwania odchodów?",
+      "options": [
+        "Od konsystencji odchodów.",
+        "Od warunków pogodowych.",
+        "Od sposobu utrzymania zwierząt."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRęczne usuwanie obornika w przypadku chowu kur odbywa się najczęściej ….",
+      "options": [
+        "raz dziennie",
+        "raz na kilka dni"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu utrzymania czystości, właściwej higieny i wydajności w produkcji pomocne jest korzystanie z wysokociśnieniowych urządzeń myjących.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jaki sposób następuje powrót szufli w przypadku mechanicznego usuwania obornika za pomocą szufli mechanicznej?",
+      "options": [
+        "Wyciąg stanowi obwód zamknięty i szufla wraca, zamykając cykl.",
+        "Automatycznie, po napotkaniu wyłącznika krańcowego przy maszcie.",
+        "Ręcznie przez operatora, po zaobserwowaniu, że szufla osiągnęła krańcową pozycję."
+      ],
+      "answers": [
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZanieczyszczenie karmideł i poideł … na chęć zwierząt do pobierania karmy.",
+      "options": [
+        "nie ma żadnego wpływu",
+        "może wpłynąć negatywnie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZróżnicowanie poideł, w zależności od gatunku zwierząt, ale również pod względem rozwiązań technologicznych, wymaga różnorodnych narzędzi do utrzymania ich w czystości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie poidła należy czyścić przed każdym odpasem?",
+      "options": [
+        "Kropelkowe.",
+        "Smoczkowe.",
+        "Miskowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nKoryta w hodowli wykorzystuje się stosunkowo rzadko z powodu trudności w utrzymaniu ich czystości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nDla drobiu można stosować zarówno poidła miskowe, jak i kropelkowe. Najczęściej jest to uzależnione od systemu chowu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakich pomieszczeń inwentarskich charakterystyczne jest ręczne usuwanie obornika?",
+      "options": [
+        "Dla dużych pomieszczeń.",
+        "Dla pomieszczeń bezściółkowych.",
+        "Dla pomieszczeń z głęboką ściółką.",
+        "Dla małych pomieszczeń."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKolejka zawieszana jest urządzeniem do … usuwania obornika.",
+      "options": [
+        "ręcznego",
+        "mechanicznego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu utrzymania higieny i zdrowotności zwierząt hodowanych w systemie bezściółkowym konieczne jest zapewnienie czystych i suchych płyt rusztowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynniki mają wpływ na ograniczenie wysuszenia śluzówek nosa zwierząt hodowlanych podczas zamiatania pomieszczeń?",
+      "options": [
+        "Stopniowe wykonywanie czynności.",
+        "Wyprowadzenie zwierząt.",
+        "Użycie odkurzacza.",
+        "Nawilżanie sprzątanych powierzchni."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo najnowszych rozwiązań pomagających w utrzymaniu czystości na stołach paszowych można zaliczyć wykorzystanie ….",
+      "options": [
+        "robotów do podgarniania paszy",
+        "urządzeń wysokociśnieniowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoidła miskowe nie są w żaden sposób zabezpieczone przed zanieczyszczeniami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki powinien być kąt nachylenia dna kanału przy zastosowaniu samospływu okresowego?",
+      "options": [
+        "Od 1 do 3%.",
+        "5%.",
+        "Od 2% do 5%.",
+        "Dno powinno być wypoziomowane."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSzufla mechaniczna wykonana jest z … części połączonych ogniwami łańcucha.",
+      "options": [
+        "czterech",
+        "dwóch"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy zastosowaniu samospływu ciągłego niezbędne jest ciągłe polewanie kanału, aby umożliwić spływ gnojowicy, co z kolei powoduje zwiększenie zużycia wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki napęd posiadają roboty zgarniające samoczynne?",
+      "options": [
+        "Silniki spalinowe.",
+        "Silniki elektryczne.",
+        "Napęd mechaniczny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… dopasowują się do każdego kształtu obory, dzięki czemu są bardziej uniwersalne niż inne technologie.",
+      "options": [
+        "Zgarniacze ruszt",
+        "Roboty zgarniające samoczynne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWadą robotów zgarniających samoczynnych jest możliwość zranienia zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Mieszanina kału, moczu, wody i resztek paszy to:",
+      "options": [
+        "gnojówka.",
+        "gnojowica.",
+        "obornik."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUtrzymanie czystości w pomieszczeniach inwentarskich stanowi mało istotny czynnik – zarówno w kwestii ekonomicznej, jak i pod względem pracochłonności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz korzyści wynikające z utrzymania czystości poideł w pomieszczeniach inwentarskich.",
+      "options": [
+        "Mniejsze zużycie wody.",
+        "Większa wydajność zwierząt.",
+        "Lepsza zdrowotność zwierząt."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki procent masy ciała stanowią odchody trzody chlewnej?",
+      "options": [
+        "7%",
+        "8%",
+        "5%"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGnojowica to przefermentowany mocz zwierzęcy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOsoby obsługujące zwierzęta (w tym również osoby spoza gospodarstwa) obowiązkowo powinny zakładać odzież ochronną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wydzielanie się jakich gazów powoduje konieczność częstego usuwania odchodów z pomieszczeń inwentarskich?",
+      "options": [
+        "CCl2F2 i CO2",
+        "CO i O2",
+        "CO2, NH3 i H2S"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRęczne usuwanie obornika jest stosowane wyłącznie przy niewielkiej liczbie utrzymywanych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz narzędzia używane do ręcznego utrzymywania czystości w pomieszczeniach inwentarskich.",
+      "options": [
+        "Miotły.",
+        "Łopaty.",
+        "Zgarniaki.",
+        "Grabie.",
+        "Odkurzacze."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co cechuje bakterie i drobnoustroje skutecznie niszczone przy użyciu gorącej wody z chemicznymi środkami dezynfekującymi?",
+      "options": [
+        "Wrażliwość na wysoką temperaturę.",
+        "Nieodporność na pH niższe niż 11.",
+        "Nieodporność na pH wyższe niż 6.",
+        "Nieodporność na pH wyższe niż 11.",
+        "Nieodporność na pH niższe niż 6.",
+        "Nieodporność na chemiczne środki dezynfekujące."
+      ],
+      "answers": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBadania wykazują, że nie ma różnicy w efektywności pracy pomiędzy urządzeniami myjącymi na gorącą wodę a urządzeniami na zimną wodę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Czy poidła smoczkowe łatwo utrzymać w czystości?",
+      "options": [
+        "Nie, ponieważ są stosowane najczęściej dla trzody chlewnej i montowane nad kanałem gnojowym, co utrudnia zachowanie czystości.",
+        "Tak, należy je jedynie okresowo dezynfekować."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Gdzie najczęściej stosowane są poidła kropelkowe?",
+      "options": [
+        "W hodowli trzody na głębokiej ściółce.",
+        "W wybiegowym chowie drobiu.",
+        "W klatkowym chowie drobiu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo pojenia bydła, owiec i koni najczęściej stosuje się poidła miskowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nŚluzy dezynfekcyjne są to pomieszczenia oddzielające strefę brudną gospodarstwa od czystej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W przypadku jakich zwierząt ręczne usuwanie obornika wykonuje się raz dziennie?",
+      "options": [
+        "Koni.",
+        "Trzody chlewnej.",
+        "Krów.",
+        "Kur.",
+        "Owiec i kóz."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy mechanicznym usuwaniu obornika, ładowacze czołowe, umieszczone na ciągniku, stosuje się przede wszystkim w pomieszczeniach inwentarskich, w których zastosowano chów na głębokiej ściółce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak często usuwa się obornik w przypadku chowu na głębokiej ściółce?",
+      "options": [
+        "Raz na kilka lat.",
+        "Raz na kilka miesięcy.",
+        "Raz na kilka dn.",
+        "Raz na kilka tygodni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku chowu na głębokiej ściółce, mimo długiego i dużego nagromadzenia obornika, nie jest możliwe załadowanie obornika bezpośrednio na rozrzutniki bez konieczności jego dalszego składowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie cechy charakteryzują samoczynne roboty zgarniające?",
+      "options": [
+        "Reakcje na przeszkody.",
+        "Przemieszczanie się po rusztach z jednego końca na drugi.",
+        "Praca do kilkunastu godzin na dobę.",
+        "Dopasowanie do geometrii budynków.",
+        "Mobilność i uniwersalność.",
+        "Możliwe zranienia zwierząt."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakich narzędzi i urządzeń możemy użyć do utrzymania czystości karmideł tradycyjnych?",
+      "options": [
+        "Mioteł.",
+        "Urządzeń wysokociśnieniowych.",
+        "Odkurzaczy.",
+        "Zmiotek."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od rodzaju i wielkości budynku inwentarskiego oraz sposobu wykończenia korytarzy stosuje się zróżnicowane urządzenia do utrzymania czystości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie znajdują się ruszta w hodowli trzody chlewnej w systemie bezściołowym?",
+      "options": [
+        "Wzdłuż ścian.",
+        "W zagłębieniu w centralnej części podłogi.",
+        "Pod całą podłogą.",
+        "Nad kanałami gnojnymi."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoidła kropelkowe, które są uruchamiane przez ptaki, charakteryzują się dużą czystością, przez co ograniczają nakład pracy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe względu na dużą pracochłonność ręcznego usuwania obornika, forma ta stosowana jest w gospodarstwach z niewielką ilością zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka forma podawania wody, ze względu na trudności w utrzymaniu czystości, jest coraz rzadziej wykorzystywana?",
+      "options": [
+        "Koryta.",
+        "Poidła miskowe.",
+        "Poidła kropelkowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSposoby utrzymania czystości są niezależne od systemu zadawania pasz i pojenia zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW poidłach miskowych zwierzęta same uruchamiają zawór otwierający napływ wody do poidła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakich budynkach inwentarskich stosuje się spychacze?",
+      "options": [
+        "W budynkach z odpowiednio szerokim i utwardzonym korytarzem gnojowym.",
+        "W budynkach, w których utrzymywane są zwierzęta na głębokiej ściółce.",
+        "W dowolnych budynkach z kanałem gnojnym."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzenośnik o ruchu posuwisto-zwrotnym zbudowany jest z cięgna, do którego mocowane są wahliwie łapy zgarniające, a przesuw obornika następuje w sposób skokowy aż do momentu usunięcia obornika z budynku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wybierz urządzenia wykorzystywane w przypadku mechanicznego usuwania obornika.",
+      "options": [
+        "Przenośniki poruszające się w sposób ciągły lub posuwisto-zwrotny.",
+        "Szufle mechaniczne.",
+        "Ładowarki i spychacze."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie urządzenia można stosować w celu podniesienia efektywności utrzymania czystości na stołach paszowych w oborach?",
+      "options": [
+        "Zamiatarki czynne.",
+        "Ładowarki i spychacze.",
+        "Zgarniacze bierne instalowane na pojazdach samobieżnych.",
+        "Szufle mechaniczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajczęściej spotykamy poidła montowane do zbiorników lub instalacji wodociągowej, które podają wodę automatycznie w zależności od potrzeb zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak w systemie bezściołowym przemieszczane są odchody z kanałów gnojowych do zbiorników?",
+      "options": [
+        "Mechanicznie.",
+        "Ręcznie.",
+        "Hydraulicznie."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czy w utrzymaniu czystości w pomieszczeniach inwentarskich można korzystać z pomocy robotów?",
+      "options": [
+        "Tak, ale tylko przy podgarnianiu i zadawaniu pasz.",
+        "Nie, ale jest to kwestia niedalekiej przyszłości.",
+        "Tak, ale tylko przy usuwaniu obornika.",
+        "Tak, zarówno w przypadku podgarniania pasz, jak i przy usuwaniu obornika."
+      ],
+      "answers": [
+        3
+      ]
+    }
+  ]
+}

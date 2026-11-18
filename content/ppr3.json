@@ -13,7 +13,17 @@
         "Rośliny zbożowe (żyto, pszenica, pszenżyto, jęczmień, owies, proso, kukurydza, gryka) – jednoroczne rośliny z rodziny traw (wyjątek: gryka – rodzina rdestowatych); głównym plonem jest ziarno.",
         "Rośliny okopowe (ziemniaki, buraki cukrowe i pastewne, rzepa, marchew pastewna, brukiew) – uprawiane dla podziemnych organów, wymagają okopywania.",
         "Rośliny przemysłowe: oleiste (rzepak, rzepik, słonecznik, gorczyca), włókniste (len, konopie), specjalne (chmiel, tytoń szlachetny, wiklina, rośliny zielarskie).",
-        "Rośliny pastewne: motylkowe grubonasienne – strączkowe (wyka, łubin, groch (peluszka), bobik), motylkowe drobnonasienne (koniczyna, lucerna, seradela, esparceta, komonica), niemotylkowe (kukurydza, kapusta pastewna, słonecznik pastewny, dynia pastewna)."
+        "Rośliny pastewne: motylkowe grubonasienne – strączkowe (wyka, łubin, groch (peluszka), bobik), motylkowe drobnonasienne (koniczyna, lucerna, seradela, esparceta, komonica), niemotylkowe (kukurydza, kapusta pastewna, słonecznik pastewny, dynia pastewna).",
+        "Produkcja polowa polega na uprawie roślin, których nadziemne i podziemne organy są pokarmem dla ludzi, paszą dla zwierząt lub surowcem dla przemysłu.",
+        "Polowa produkcja na gruntach ornych obejmuje rośliny rolnicze i ogrodnicze.",
+        "Ziarno zbóż przerabia się na mąkę, kaszę lub płatki (przemysł spożywczy), wykorzystuje się je też jako paszę.",
+        "Rośliny pastewne uprawia się w plonie głównym na zieloną masę lub jako surowiec do produkcji siana, suszu i kiszonek."
+      ],
+      "images": [
+        {
+          "src": "img/ppr3/podzial-roslin-uprawnych.jpg",
+          "caption": "Podział roślin uprawnych (rys. 3.1): zbożowe, okopowe, przemysłowe (oleiste, włókniste, specjalne) i pastewne (motylkowe, niemotylkowe)."
+        }
       ]
     },
     {
@@ -28,7 +38,47 @@
         "Rośliny oleiste wykorzystuje przemysł olejarski, cukierniczo-piekarski, kosmetyczny, chemiczny (farby, lakiery, linoleum), w mniejszym zakresie włókienniczy i garbarski; rzepak – do produkcji biopaliw.",
         "Rośliny włókniste – przemysł włókienniczy (tkaniny, nici, sznury, worki), tapicerstwo, budownictwo, papiernictwo; nasiona konopi i lnu są źródłem tłuszczu.",
         "Rośliny pastewne – zielona masa, siano, susz, kiszonki; niektóre (koniczyna, seradela) uprawiane w międzyplonach jako poplony, plony wtóre lub wsiewki.",
-        "Motylkowe drobnonasienne to bazowe źródło taniego białka i wzbogacają glebę w azot z powietrza; ziarno kukurydzy ma największą wartość pokarmową spośród zbóż."
+        "Motylkowe drobnonasienne to bazowe źródło taniego białka i wzbogacają glebę w azot z powietrza; ziarno kukurydzy ma największą wartość pokarmową spośród zbóż.",
+        "Zastosowanie przemysłowe zbóż: żyto – produkcja mąki, owies i jęczmień – płatki i kasze; wszystkie zboża mogą być wykorzystywane w gorzelnictwie.",
+        "W bulwach ziemniaka konsumpcyjnego ważne są: skrobia, białko, sole mineralne (głównie fosfor i potas), witaminy z grupy B i witamina C, cukry proste.",
+        "Na paszę bulwy ziemniaka podaje się bezpośrednio, parowane, kiszone lub suszone.",
+        "Burak cukrowy jest bardzo ważnym na świecie źródłem cukru.",
+        "Rośliny oleiste mogą być też uprawiane na paszę dla zwierząt.",
+        "Tłuszcz z nasion konopi i lnu wykorzystuje przemysł spożywczy; jest też surowcem do produkcji środków piorących, farb i smarów.",
+        "Produkcja roślin pastewnych jest znaczącym czynnikiem decydującym o opłacalności produkcji zwierzęcej w gospodarstwie.",
+        "Najważniejsze motylkowe drobnonasienne: koniczyna czerwona, lucerna mieszańcowa, koniczyna biała; wzbogacają glebę w azot z powietrza dzięki bakteriom (w materiale: „nitryfikacyjnym”).",
+        "Słonecznik pastewny daje duże plony wartościowej masy zielonej – do bezpośredniego skarmiania i do zakiszania; kukurydzę wykorzystuje się na ziarno i na zieloną masę.",
+        "Niektóre motylkowe grubonasienne są pożywieniem człowieka: fasola, groch, bób, ciecierzyca, soja."
+      ],
+      "images": [
+        {
+          "src": "img/ppr3/wykorzystanie-zboz-schemat.jpg",
+          "caption": "Wykorzystanie zbóż (rys. 3.8): przemysł (chemiczno-farmaceutyczny, paszowy, spożywczy) i rolnictwo (pasze, materiał siewny). Przemysł spożywczy: koncentraty spożywcze (syropy, kawy zbożowe, hydrolizaty białkowe, przyprawy), piekarsko-cukierniczy (makarony, pieczywo, ciastka), młynarsko-skrobiowy (mąki, kasze, krochmal, otręby), piwowarsko-gorzelniczy (słód, piwo, wódki)."
+        },
+        {
+          "src": "img/ppr3/pszenica.jpg",
+          "caption": "Pszenica – zboże (rodzina traw); ziarno głównie na mąkę – prawie całe plony wykorzystywane konsumpcyjnie."
+        },
+        {
+          "src": "img/ppr3/zyto.jpg",
+          "caption": "Żyto – zboże; ziarno na mąkę, paszę i do gorzelnictwa; ma niskie wymagania glebowe."
+        },
+        {
+          "src": "img/ppr3/jeczmien.jpg",
+          "caption": "Jęczmień – zboże z długimi ościami; na kasze, płatki, paszę i do piwowarstwa (słód)."
+        },
+        {
+          "src": "img/ppr3/owies.jpg",
+          "caption": "Owies – zboże z kwiatostanem w postaci wiechy; na płatki, kasze i paszę."
+        },
+        {
+          "src": "img/ppr3/proso.jpg",
+          "caption": "Proso – zboże o drobnym ziarnie zebranym w wiechy; ma 1 korzonek zarodkowy."
+        },
+        {
+          "src": "img/ppr3/gryka.jpg",
+          "caption": "Gryka – zaliczana do zbóż, ale z rodziny rdestowatych; ziarno na kaszę (konsumpcja)."
+        }
       ]
     },
     {
@@ -43,7 +93,14 @@
         "Burak – kłębki z kilku–kilkunastu nasionami pod wieczkiem; kłębki jedno- i wielokiełkowe.",
         "Rzepak – łuszczyna z 20–30 nasionami, kuliste, średnica 2–3 mm; tłuszcz w komórkach liścieni. Len – pięciokomorowa torebka, MTN 4,1–5,5 g, nasiona to siemię lniane.",
         "Konopie – orzeszek jednonasienny; MTN dzikie 8–12 g, południowe 18–26 g. Motylkowe drobnonasienne – koniczyna biała i białoróżowa 0,5–1,5 g, esparceta 14 g.",
-        "Motylkowe grubonasienne – strąk, najmniejsze nasiona wyki, największe bobiku. Słonecznik – niełupka, substancje odżywcze w liścieniach."
+        "Motylkowe grubonasienne – strąk, najmniejsze nasiona wyki, największe bobiku. Słonecznik – niełupka, substancje odżywcze w liścieniach.",
+        "Zarodek znajduje się u podstawy ziarniaka i jest zaczątkiem przyszłej rośliny; okrywa owocowo-nasienna chroni ziarno przed uszkodzeniem, szkodnikami i truciznami.",
+        "Bruzdka leży po stronie brzusznej ziarna, naprzeciwko zarodka.",
+        "Nasiona rzepaku osadzone są naprzemianlegle na nitkach nasiennych w łuszczynie; mają niebieskawy odcień; składają się z okrywy nasiennej (łuski), resztek jednowarstwowego bielma i zarodka (dwa duże liścienie i korzonek).",
+        "Nasiona lnu są gładkie, lekko uwypuklone, zakończone spiczastym dzióbkiem; składają się z okrywy nasiennej, bielma i zarodka (silnie rozwinięte liścienie i korzonek).",
+        "Orzeszek konopi jest kulisto-podłużny, z boku spłaszczony, zielony do ciemnobrązowego (zależnie od fazy dojrzewania).",
+        "Owocem motylkowych drobnonasiennych jest strąk jedno- lub wielonasienny; nasiona są bardzo małe i trudne do rozróżnienia.",
+        "Niełupka słonecznika to suchy, niepękający owoc z jednym nasieniem luźno otoczonym owocnią."
       ]
     },
     {
@@ -56,7 +113,9 @@
         "Stopnie kwalifikacji: SE (superelita), Eh (elita hodowlana), E (elita), O (oryginał), I ods (pierwszy odsiew), O kw (odsiew kwalifikowany); u ziemniaków z oryginału uzyskuje się klasę A, B lub C.",
         "Materiał kwalifikowany gwarantuje plon w czystej odmianie i jednorodny pod względem cech jakościowych.",
         "Wymiana materiału siewnego zalecana co 3–5 lat (choroby grzybowe przenoszone z nasionami, krzyżowanie odmian, warunki klimatyczne i glebowe).",
-        "Nasiona z własnych zbiorów należy ocenić organoleptycznie (barwa, połysk, zapach, porażenie); Stacja Oceny Nasion określa m.in. czystość, zdolność kiełkowania, wilgotność."
+        "Nasiona z własnych zbiorów należy ocenić organoleptycznie (barwa, połysk, zapach, porażenie); Stacja Oceny Nasion określa m.in. czystość, zdolność kiełkowania, wilgotność.",
+        "Materiał siewny kwalifikowany podlega określonym normom jakościowym (np. zdolności kiełkowania).",
+        "Stopnie kwalifikacji wynikają z pokolenia w reprodukcji: SE, Eh, E, O (oryginał), I ods, O kw."
       ]
     },
     {
@@ -70,7 +129,10 @@
         "Ziemniaki – niskie wymagania, gleby mało żyzne (lekkie, piaszczyste, bielicowe); Nizina Mazowiecka, Nizina Podlaska.",
         "Buraki cukrowe i rzepak – wysokie wymagania; rejony: Nizina Śląska, Przedgórze Sudeckie; buraki wymagają intensywnego nawożenia, okopywania i odchwaszczania.",
         "Tytoń – Lubelszczyzna, Rzeszowszczyzna, Kielecczyzna, Śląsk; chmiel – Wyżyna Sandomierska, Wyżyna Lubelska.",
-        "Rośliny pastewne – średnie wymagania termiczne i glebowe, duże wodne; Pojezierze Mazurskie, Nizina Mazowiecka, Podkarpacie."
+        "Rośliny pastewne – średnie wymagania termiczne i glebowe, duże wodne; Pojezierze Mazurskie, Nizina Mazowiecka, Podkarpacie.",
+        "Rzepak – wysokie wymagania: bardzo żyzne i wilgotne gleby, stabilne warunki klimatyczne, liczne zabiegi agrotechniczne, wysokie temperatury w okresie wegetacji.",
+        "Tytoń – wysokie wymagania klimatyczno-glebowe, żyzne gleby; chmiel – wysokie wymagania, dobre warunki glebowe, wodne i termiczne.",
+        "Pszenżyto – niskie wymagania glebowe; rejony: Wielkopolska, Pojezierze Pomorskie, Nizina Mazowiecka."
       ]
     },
     {
@@ -83,7 +145,59 @@
         "Wg cyklu życiowego: jednoroczne (mak polny, stokłosa polna), dwuletnie (wiesiołek dwuletni), wieloletnie (mniszek pospolity, perz właściwy, ostrożeń polny, skrzyp polny).",
         "Wg warstwy łanu: górnej (ostrożeń polny, owies głuchy, miotła zbożowa), środkowej (chaber bławatek, kąkol polny, stokłosa polna – zanieczyszczają materiał siewny), dolnej (fiołek polny, rolnica pospolita), przyziemnej (połocznik kosmaty, lnica zgiętoostrogowa).",
         "Trujące chwasty: szczwół plamisty, zimowit jesienny, kąkol polny; owies głuchy łatwo krzyżuje się z owsem uprawnym; ostrożeń polny trudny do wytępienia.",
-        "Skutki: obniżenie plonów, obniżenie wartości plonów (tobołek – gorzki smak mąki, lnicznik – gorszy olej rzepakowy, gorczyca polna – utrudniony przemiał), zagrożenie dla ludzi i zwierząt, utrudnienie zbioru (szarłat palmera, zaślaz pospolity), żywiciele chorób i szkodników."
+        "Skutki: obniżenie plonów, obniżenie wartości plonów (tobołek – gorzki smak mąki, lnicznik – gorszy olej rzepakowy, gorczyca polna – utrudniony przemiał), zagrożenie dla ludzi i zwierząt, utrudnienie zbioru (szarłat palmera, zaślaz pospolity), żywiciele chorób i szkodników.",
+        "Chwasty zazwyczaj pobierają z gleby więcej i szybciej składników pokarmowych niż rośliny uprawne.",
+        "Segetalne to też ostróżeczka polna, mak piaskowy, kurzyślad polny.",
+        "Jednoliścienne wytwarzają przy kiełkowaniu jeden liścień, dwuliścienne – dwa liścienie.",
+        "Cudzożywne obejmują też chwasty pobierające z roślin tylko składniki mineralne.",
+        "Monokarpiczne mogą być jednoroczne lub wieloroczne; polikarpiczne rozmnażają się wegetatywnie pędami (perz właściwy), cebulkami (złoć polna), korzeniami (wilczomlecz).",
+        "Chwasty wieloletnie (trwałe) rozmnażają się wegetatywnie lub generatywnie i nie giną po pierwszym owocowaniu; jednoroczne żyją nie dłużej niż rok.",
+        "Chwasty warstwy środkowej są zbierane z plonami.",
+        "Utrudnienie zbioru: twarde łodygi szarłatu palmera mogą uszkadzać kombajny; włókniste pędy zaślazu pospolitego blokują maszyny do zbioru buraków.",
+        "Chwasty mogą zagłuszać rośliny uprawne; bywają żywicielami chorób bakteryjnych, grzybowych, wirusowych i szkodników.",
+        "Trujące dla ludzi i zwierząt są m.in. kąkol polny i zimowit jesienny."
+      ],
+      "images": [
+        {
+          "src": "img/ppr3/barszcz-zwyczajny.jpg",
+          "caption": "Barszcz zwyczajny – chwast drewniejący, występujący na łąkach i siedliskach ruderalnych."
+        },
+        {
+          "src": "img/ppr3/trybula-lesna.jpg",
+          "caption": "Trybula leśna – chwast drewniejący, występujący na siedliskach ruderalnych."
+        },
+        {
+          "src": "img/ppr3/rdest-wezownik.jpg",
+          "caption": "Rdest wężownik – chwast drewniejący, występujący na wilgotnych łąkach i terenach podmokłych."
+        },
+        {
+          "src": "img/ppr3/szczwol-plamisty.jpg",
+          "caption": "Szczwół plamisty – TRUJĄCY chwast siedlisk ruderalnych."
+        },
+        {
+          "src": "img/ppr3/zimowit-jesienny.jpg",
+          "caption": "Zimowit jesienny – TRUJĄCY chwast wilgotnych łąk."
+        },
+        {
+          "src": "img/ppr3/jarzebiec-kosmaczek.jpg",
+          "caption": "Jarzębiec kosmaczek – niski chwast rozetowy, na suchych i nasłonecznionych terenach."
+        },
+        {
+          "src": "img/ppr3/chaber-blawatek.jpg",
+          "caption": "Chaber bławatek – segetalny chwast warstwy środkowej łanu."
+        },
+        {
+          "src": "img/ppr3/owies-gluchy.jpg",
+          "caption": "Owies głuchy – bardzo popularny segetalny chwast (jednoliścienny), łatwo krzyżuje się z owsem uprawnym."
+        },
+        {
+          "src": "img/ppr3/kakol-polny.jpg",
+          "caption": "Kąkol polny – TRUJĄCY chwast segetalny warstwy środkowej."
+        },
+        {
+          "src": "img/ppr3/ostrozen-polny.jpg",
+          "caption": "Ostrożeń polny – segetalny chwast wieloletni, trudny do wytępienia; także na łąkach, pastwiskach i trawnikach."
+        }
       ]
     }
   ],
@@ -367,6 +481,127 @@
     {
       "front": "Jak chwasty obniżają wartość plonów? (przykłady)",
       "back": "Nasiona tobołków nadają mące gorzki smak, nasiona lnicznika obniżają wartość oleju rzepakowego, nasiona gorczycy polnej utrudniają przemiał zbóż."
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Pszenica – zboże (rodzina traw); ziarno głównie na mąkę – prawie całe plony wykorzystywane konsumpcyjnie.",
+      "img": "img/ppr3/pszenica.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Żyto – zboże; ziarno na mąkę, paszę i do gorzelnictwa; ma niskie wymagania glebowe.",
+      "img": "img/ppr3/zyto.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Jęczmień – zboże z długimi ościami; na kasze, płatki, paszę i do piwowarstwa (słód).",
+      "img": "img/ppr3/jeczmien.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Owies – zboże z kwiatostanem w postaci wiechy; na płatki, kasze i paszę.",
+      "img": "img/ppr3/owies.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Proso – zboże o drobnym ziarnie zebranym w wiechy; ma 1 korzonek zarodkowy.",
+      "img": "img/ppr3/proso.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Gryka – zaliczana do zbóż, ale z rodziny rdestowatych; ziarno na kaszę (konsumpcja).",
+      "img": "img/ppr3/gryka.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Barszcz zwyczajny – chwast drewniejący, występujący na łąkach i siedliskach ruderalnych.",
+      "img": "img/ppr3/barszcz-zwyczajny.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Trybula leśna – chwast drewniejący, występujący na siedliskach ruderalnych.",
+      "img": "img/ppr3/trybula-lesna.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Rdest wężownik – chwast drewniejący, występujący na wilgotnych łąkach i terenach podmokłych.",
+      "img": "img/ppr3/rdest-wezownik.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Szczwół plamisty – TRUJĄCY chwast siedlisk ruderalnych.",
+      "img": "img/ppr3/szczwol-plamisty.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Zimowit jesienny – TRUJĄCY chwast wilgotnych łąk.",
+      "img": "img/ppr3/zimowit-jesienny.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Jarzębiec kosmaczek – niski chwast rozetowy, na suchych i nasłonecznionych terenach.",
+      "img": "img/ppr3/jarzebiec-kosmaczek.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Chaber bławatek – segetalny chwast warstwy środkowej łanu.",
+      "img": "img/ppr3/chaber-blawatek.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Owies głuchy – bardzo popularny segetalny chwast (jednoliścienny), łatwo krzyżuje się z owsem uprawnym.",
+      "img": "img/ppr3/owies-gluchy.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Kąkol polny – TRUJĄCY chwast segetalny warstwy środkowej.",
+      "img": "img/ppr3/kakol-polny.jpg"
+    },
+    {
+      "front": "Jaki to chwast?",
+      "back": "Ostrożeń polny – segetalny chwast wieloletni, trudny do wytępienia; także na łąkach, pastwiskach i trawnikach.",
+      "img": "img/ppr3/ostrozen-polny.jpg"
+    },
+    {
+      "front": "Do jakich produktów przerabia przemysł młynarsko-skrobiowy, a do jakich piwowarsko-gorzelniczy?",
+      "back": "Młynarsko-skrobiowy: mąki, kasze, krochmal, otręby. Piwowarsko-gorzelniczy: słód, piwo, wódki.",
+      "img": "img/ppr3/wykorzystanie-zboz-schemat.jpg"
+    },
+    {
+      "front": "Składniki bulw ziemniaka ważne w konsumpcji",
+      "back": "Skrobia, białko, sole mineralne (głównie fosfor i potas), witaminy z grupy B i witamina C, cukry proste."
+    },
+    {
+      "front": "Rośliny motylkowe grubonasienne wykorzystywane w żywieniu człowieka",
+      "back": "Fasola, groch, bób, ciecierzyca, soja."
+    },
+    {
+      "front": "Funkcja zarodka i okrywy owocowo-nasiennej ziarniaka",
+      "back": "Zarodek (u podstawy ziarniaka) – zaczątek przyszłej rośliny; okrywa owocowo-nasienna chroni ziarno przed uszkodzeniem, szkodnikami i truciznami."
+    },
+    {
+      "front": "Wymagania rzepaku",
+      "back": "Wysokie wymagania klimatyczno-glebowe: bardzo żyzne i wilgotne gleby, stabilny klimat, liczne zabiegi agrotechniczne, wysokie temperatury w okresie wegetacji; rejony: Nizina Śląska, Przedgórze Sudeckie."
+    },
+    {
+      "front": "Wymagania pszenżyta i rejony uprawy",
+      "back": "Niskie wymagania glebowe; Wielkopolska, Pojezierze Pomorskie, Nizina Mazowiecka."
+    },
+    {
+      "front": "Jak rozmnażają się wegetatywnie chwasty polikarpiczne? (przykłady)",
+      "back": "Pędami (perz właściwy), cebulkami (złoć polna), korzeniami (wilczomlecz)."
+    },
+    {
+      "front": "Jak chwasty utrudniają zbiory? (przykłady)",
+      "back": "Twarde łodygi szarłatu palmera mogą uszkadzać kombajny; włókniste pędy zaślazu pospolitego blokują maszyny do zbioru buraków."
+    },
+    {
+      "front": "Do czego wykorzystuje się w przemyśle żyto, owies i jęczmień?",
+      "back": "Żyto – do produkcji mąki; owies i jęczmień – na płatki i kasze; wszystkie zboża mogą być wykorzystane w gorzelnictwie."
+    },
+    {
+      "front": "Słonecznik pastewny – znaczenie",
+      "back": "Daje duże plony wartościowej masy zielonej, przeznaczanej do bezpośredniego skarmiania zwierząt i do zakiszania."
     }
   ],
   "quiz": [
@@ -765,6 +1000,1013 @@
       ],
       "answer": 3,
       "explain": "Owies głuchy łatwo krzyżuje się z owsem uprawnym."
+    },
+    {
+      "q": "Jak nazywa się ten trujący chwast segetalny?",
+      "options": [
+        "Chaber bławatek",
+        "Kąkol polny",
+        "Owies głuchy",
+        "Ostrożeń polny"
+      ],
+      "answer": 1,
+      "explain": "Na zdjęciu kąkol polny – trujący chwast segetalny warstwy środkowej (podobnie trujące są szczwół plamisty i zimowit jesienny).",
+      "img": "img/ppr3/kakol-polny.jpg"
+    },
+    {
+      "q": "Jaki chwast przedstawia zdjęcie?",
+      "options": [
+        "Zimowit jesienny",
+        "Szczwół plamisty",
+        "Jarzębiec kosmaczek",
+        "Rdest wężownik"
+      ],
+      "answer": 0,
+      "explain": "Zimowit jesienny – trujący chwast wilgotnych łąk (trujące są też szczwół plamisty i kąkol polny).",
+      "img": "img/ppr3/zimowit-jesienny.jpg"
+    },
+    {
+      "q": "Jaki chwast przedstawia zdjęcie?",
+      "options": [
+        "Owies głuchy",
+        "Miotła zbożowa",
+        "Perz właściwy",
+        "Stokłosa polna"
+      ],
+      "answer": 0,
+      "explain": "Owies głuchy – popularny segetalny chwast, łatwo krzyżuje się z owsem uprawnym.",
+      "img": "img/ppr3/owies-gluchy.jpg"
+    },
+    {
+      "q": "Jakie zboże przedstawia zdjęcie?",
+      "options": [
+        "Pszenica",
+        "Owies",
+        "Jęczmień",
+        "Proso"
+      ],
+      "answer": 2,
+      "explain": "Jęczmień – kłosy z bardzo długimi ościami.",
+      "img": "img/ppr3/jeczmien.jpg"
+    },
+    {
+      "q": "Jaka roślina przedstawiona na zdjęciu należy do rodziny rdestowatych, choć zalicza się ją do zbóż?",
+      "options": [
+        "Proso",
+        "Gryka",
+        "Owies",
+        "Żyto"
+      ],
+      "answer": 1,
+      "explain": "Gryka – jedyne „zboże” spoza rodziny traw (rodzina rdestowatych).",
+      "img": "img/ppr3/gryka.jpg"
+    },
+    {
+      "q": "Który chwast swoimi włóknistymi pędami blokuje maszyny do zbioru buraków?",
+      "options": [
+        "Szarłat palmera",
+        "Owies głuchy",
+        "Zaślaz pospolity",
+        "Chaber bławatek"
+      ],
+      "answer": 2,
+      "explain": "Włókniste pędy zaślazu pospolitego powodują blokowanie się maszyn do zbioru buraków; twarde łodygi szarłatu palmera uszkadzają kombajny."
+    },
+    {
+      "q": "Które z wymienionych zbóż ma bruzdkę i wytwarza kilka korzonków zarodkowych?",
+      "options": [
+        "Kukurydza",
+        "Gryka",
+        "Proso",
+        "Żyto"
+      ],
+      "answer": 3,
+      "explain": "Bruzdkę i kilka korzonków mają jęczmień, żyto, owies (i pszenica); kukurydza, gryka i proso – jeden korzonek, bez bruzdki."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Na jakie grupy można podzielić rośliny przemysłowe?",
+      "options": [
+        "Rośliny drobnonasienne",
+        "Rośliny specjalne",
+        "Rośliny oleiste",
+        "Rośliny włókniste"
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Rośliny … produkowane są na surowiec dla różnych gałęzi przemysłu.",
+      "options": [
+        "pastewne",
+        "przemysłowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Uprawa roślin zbożowych dostarcza słomę, która wykorzystywana jest jako surowiec energetyczny, do produkcji celulozy lub jako materiał ocieplający do okrywania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakiego gatunku zbóż cechą charakterystyczną są 4 korzenie?",
+      "options": [
+        "Prosa.",
+        "Żyta.",
+        "Pszenicy ozimej.",
+        "Owsa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Rośliny … to jednoroczne rośliny uprawne z rodziny traw, których głównym plonem jest ziarno przerabiane na mąkę, kaszę lub płatki.",
+      "options": [
+        "pastewne",
+        "zbożowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niektóre rośliny pastewne uprawiane są również w międzyplonach jako poplony, plony wtóre lub jako wsiewki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak można podzielić rośliny pastewne?",
+      "options": [
+        "Rośliny niemotylkowe.",
+        "Rośliny specjalne.",
+        "Rośliny motylkowe grubonasienne.",
+        "Rośliny motylkowe drobnonasienne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nasionem … jest orzeszek jednonasienny, przyjmujący kształt kulisto-podłużny, z boku lekko spłaszczony, o zabarwieniu od zielonego do ciemnobrązowego.",
+      "options": [
+        "lnu",
+        "konopi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Owocem zbóż, będącym jednocześnie nasieniem, jest ziarniak.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakiego gatunku zbóż cechą charakterystyczną jest obecność od 3 do 4 korzeni?",
+      "options": [
+        "Jęczmienia.",
+        "Prosa.",
+        "Pszenicy ozimej.",
+        "Owsa."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nasiona … są płaskie, lekko uwypuklone z obu stron, jajowatego kształtu, błyszczące i gładkie, w kolorze brunatnym lub oliwkowym, zakończone spiczasty dzióbkiem.",
+      "options": [
+        "lnu",
+        "konopi"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na jakie grupy można podzielić rośliny uprawne?",
+      "options": [
+        "Rośliny okopowe.",
+        "Rośliny zbożowe.",
+        "Rośliny pastewne.",
+        "Rośliny przemysłowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Materiał siewny to wszelkie organy generatywne i wegetatywne, które służą do rozmnażania roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Nasionami … są tzw. kłębki.",
+      "options": [
+        "rzepaku",
+        "buraka"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rozmnażanie w gospodarstwie przez wiele lat roślin uprawnych może doprowadzić do pogorszenia jakości plonów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakiego gatunku zbóż cechą charakterystyczną jest obecność od 5 do 8 korzeni?",
+      "options": [
+        "Jęczmienia.",
+        "Pszenicy ozimej.",
+        "Prosa.",
+        "Owsa."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Suchy i niepękający owoc składa się z jednego nasienia, luźno otaczanego przez owocnię; jest charakterystyczny dla konopi.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Duże wymagania klimatyczno-glebowe, gleby bogate w składniki odżywcze, odpowiednia wilgotność to wymagania przyrodnicze typowe dla żyta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do jakich celów wykorzystywane są rośliny zbożowe?",
+      "options": [
+        "Do celów przemysłowych.",
+        "Do celów konsumpcyjnych.",
+        "Do celów pastewnych.",
+        "Do celów technicznych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Ziarniaki, nasiona, orzeszki, niełupki to przykłady materiału siewnego ….",
+      "options": [
+        "generatywnego",
+        "wegetatywnego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Chwasty rywalizują z roślinami uprawnymi o przestrzeń, światło, wodę i składniki pokarmowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie produkty otrzymuje się z roślin zbożowych konsumpcyjnych?",
+      "options": [
+        "Oleje.",
+        "Mąkę.",
+        "Kasze.",
+        "Słód."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Bulwy, cebule i korzenie spichrzowe to przykłady materiału siewnego ….",
+      "options": [
+        "generatywnego",
+        "wegetatywnego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niektóre chwasty są żywicielami groźnych dla roślin uprawnych chorób bakteryjnych, grzybowych, wirusowych czy szkodników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych roślin okopowych należą do grupy korzeniowych?",
+      "options": [
+        "Topinambur.",
+        "Burak.",
+        "Brukiew.",
+        "Ziemniak."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przed podjęciem decyzji o wykorzystaniu nasion ze zbiorów z poprzednich lat należy przeprowadzić ich ocenę, w tym ocenę organoleptyczną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Chwasty … rosną na nieuprawianych terenach, często na obszarach bogatych w azot.",
+      "options": [
+        "ruderalne",
+        "segetalne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka roślina przedstawiona jest na zdjęciu?",
+      "options": [
+        "Proso.",
+        "Owies.",
+        "Gryka.",
+        "Jęczmień."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/ppr3/samoewaluacja_28.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Chwasty … rosną głównie na polach wśród roślin uprawnych, obniżając plony.",
+      "options": [
+        "segetalne",
+        "ruderalne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Owoce, części zielone i zielone bulwy ziemniaka zawierają solaninę, czyli toksyczny związek chemiczny, który spożyty może powodować poważne zatrucia pokarmowe.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Chwasty obniżają plony, jednak nie utrudniają samego procesu zbiorów.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka roślina przedstawiona jest na zdjęciu?",
+      "options": [
+        "Jęczmień.",
+        "Gryka.",
+        "Proso.",
+        "Owies."
+      ],
+      "answers": [
+        1
+      ],
+      "img": "img/ppr3/samoewaluacja_32.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Chwasty warstwy … są niskie, niezbierane z plonami (np. fiołek polny, rolnica pospolita).",
+      "options": [
+        "przyziemnej",
+        "dolnej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych roślin okopowych należą do grupy bulwiastych?",
+      "options": [
+        "Rzepa.",
+        "Cykoria.",
+        "Topinambur.",
+        "Ziemniak."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … ma niskie wymagania glebowe, duże wymagania w zakresie wilgotności.",
+      "options": [
+        "Owies",
+        "Jęczmień"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Kupno materiału kwalifikowanego daje gwarancję uzyskania plonu w czystej odmianie i jednorodnego pod względem cech jakościowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka roślina przedstawiona jest na zdjęciu?",
+      "options": [
+        "Kąkol polny.",
+        "Ostrożeń polny.",
+        "Chaber bławatek.",
+        "Jarzębiec kosmaczek."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/ppr3/samoewaluacja_37.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Chwasty warstwy … wysokością sięgające ponad połowę wysokości roślin uprawnych, dojrzewają równocześnie z uprawami i zbierane są z plonami, przez co zanieczyszczają materiał siewny.",
+      "options": [
+        "środkowej",
+        "dolnej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dla utrzymania wysokiej plenności upraw zaleca się wymianę materiału siewnego co 3–5 lat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Chwasty … to takie, które owocują wielokrotnie i rozmnażają się generatywnie i wegetatywnie.",
+      "options": [
+        "polikarpiczne",
+        "monokarpiczne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wymienionych materiałów siewnych jest materiałem wegetatywnym?",
+      "options": [
+        "Niełupki.",
+        "Bulwy.",
+        "Orzeszki.",
+        "Cebule."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… określa się wszelką niepożądaną roślinność, rosnącą dziko na polu uprawnym, łące, czy pastwisku.",
+      "options": [
+        "Chwastami",
+        "Pasożytami"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka roślina przedstawiona jest na zdjęciu?",
+      "options": [
+        "Chaber bławatek.",
+        "Ostrożeń polny.",
+        "Barszcz zwyczajny.",
+        "Trybula leśna."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/ppr3/samoewaluacja_43.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Bezpośrednie rozmnożenie materiału matecznego dla gatunków o wysokim współczynniku rozmnażania oznacza się symbolem … określającym jego stopień jako elita hodowlana.",
+      "options": [
+        "SE",
+        "Eh"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻadna z roślin motylkowych grubonasiennych nie jest elementem pożywienia człowieka.",
+      "options": [
+        "Fałsz",
+        "Prawda"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jak nazywają się rośliny produkowane na surowiec dla różnych gałęzi przemysłu?",
+      "options": [
+        "Rośliny przemysłowe.",
+        "Rośliny pastewne.",
+        "Rośliny okopowe.",
+        "Rośliny zbożowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Produkcję polową tworzą gatunki nazywane roślinami uprawy polowej lub rolniczymi roślinami uprawnymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywa się rośliny jednoroczne uprawne z rodziny traw, których głównym plonem jest ziarno przerabiane na mąkę, kaszę lub płatki?",
+      "options": [
+        "Rośliny pastewne.",
+        "Rośliny przemysłowe.",
+        "Rośliny okopowe.",
+        "Rośliny zbożowe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny pastewne są uprawiane w plonie głównym na zieloną masę lub stanowią surowiec do produkcji siana, suszu i kiszonek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny oleiste mogą być uprawiane na paszę dla zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co może być produkowane z tłuszczy pozyskiwanych z roślin przemysłowych włóknistych?",
+      "options": [
+        "Farby.",
+        "Środki piorące.",
+        "Płyty izolacyjne.",
+        "Smary."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakim symbolem będzie oznaczony kwalifikowany materiał siewny oparty o bezpośrednie rozmnożenie materiału matecznego dla gatunków o niskim współczynniku rozmnażania?",
+      "options": [
+        "SE.",
+        "Eh.",
+        "O.",
+        "E."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W owocu jakiej rośliny znajdują się drobne nasiona o niewielkiej masie (1000 szt. nasion ma masę 4,1–5,5 g)?",
+      "options": [
+        "Konopi.",
+        "Rzepaku.",
+        "Buraka.",
+        "Lnu."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny motylkowe drobnonasienne, które są bazowym źródłem wartościowego i zarazem taniego białka dla zwierząt gospodarskich mają bardzo duże znaczenie paszowe w grupie roślin pastewnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co może być produkowane z roślin przemysłowych włóknistych?",
+      "options": [
+        "Biopaliwa.",
+        "Nici.",
+        "Płyty izolacyjne.",
+        "Worki."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Słonecznik pastewny wydaje duże plony wartościowej masy zielonej, przeznaczanej do bezpośredniego skarmiania zwierząt gospodarskich, nie nadaje się jednak do zakiszania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na jakie produkty są wykorzystywane w przemyśle chemicznym rośliny przemysłowe oleiste?",
+      "options": [
+        "Lakiery.",
+        "Linoleum.",
+        "Środki piorące.",
+        "Farby."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Nasionami jakiej rośliny są tzw. kłębki?",
+      "options": [
+        "Rzepaku.",
+        "Konopi.",
+        "Lnu.",
+        "Buraka."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Tytoń ma wysokie wymagania klimatyczno-glebowe oraz wymaga żyznych gleb i odpowiednich warunków klimatycznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie cechy nasion ocenia Stacja Oceny Nasion?",
+      "options": [
+        "Stopień czystości nasion.",
+        "Wilgotność.",
+        "Przewidywane plonowanie.",
+        "Zdolność kiełkowania."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Niełupka to owoc spotykany u:",
+      "options": [
+        "roślin motylkowych gruboziarnistych.",
+        "konopi.",
+        "rzepaku.",
+        "słonecznika."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Uważa się, że produkcja roślin uprawnych jest znaczącym czynnikiem decydującym o opłacalności prowadzonej przez gospodarstwo produkcji zwierzęcej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Bródka to inaczej kępka włosków regulująca wilgotność ziarna w czasie jego dojrzewania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W celach pastewnych wśród roślin zbożowych wykorzystuje się jęczmień, żyto, kukurydzę i owies.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która część budowy ziarnika stanowi prawie 90% całej jego masy?",
+      "options": [
+        "Zarodek.",
+        "Okrywa owocowo-nasienna.",
+        "Bielmo."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Które z wymienionych roślin to rośliny specjalne?",
+      "options": [
+        "Tytoń szlachetny.",
+        "Chmiel.",
+        "Konopie.",
+        "Wiklina."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny zbożowe wykorzystywane w celach przemysłowych znajdują zastosowanie w piwowarstwie, gorzelnictwie i farmaceutyce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny zbożowe uprawiane są głównie w celu uzyskania ziarna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz który burak jest uprawiany ze względu na korzeń wykorzystywany w przemyśle cukrowniczym, jest bardzo ważnym na świecie źródłem cukru.",
+      "options": [
+        "Burak ćwikłowy.",
+        "Burak liściowy.",
+        "Burak pastewny.",
+        "Burak cukrowy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Im większą bruzdkę ma ziarno zbóż, tym lepszym jest surowcem młynarskim.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka roślina przedstawiona jest na zdjęciu?",
+      "options": [
+        "Kąkol polny.",
+        "Szczwół plamisty.",
+        "Owies głuchy.",
+        "Ostrożeń polny."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/ppr3/testwiedzy_26.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Chwasty segetalne to takie, które rosną głównie na łąkach i pastwiskach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakich celach mogą być wykorzystywane ziemniaki?",
+      "options": [
+        "W celach reprodukcyjnych.",
+        "W celach przemysłowych.",
+        "W celach konsumpcyjnych.",
+        "Na paszę zwierząt."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Chwasty ruderalne to takie, które często rosną na obszarach bogatych w azot (np. pokrzywa).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny okopowe to rośliny spożywcze uprawiane dla zbioru podziemnych organów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych roślin to rośliny okopowe?",
+      "options": [
+        "Wiklina.",
+        "Marchew.",
+        "Ziemniaki.",
+        "Buraki cukrowe."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych chwastów są wieloletnie?",
+      "options": [
+        "Mak polny.",
+        "Stokłosa polna.",
+        "Skrzyp polny.",
+        "Mniszek pospolity."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Produkty uboczne powstające przy produkcji buraka wykorzystywane są tylko jako surowiec przemysłowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż efekty występowania chwastów w uprawach.",
+      "options": [
+        "Obniżenie wartości zebranych plonów.",
+        "Obniżenie plonów.",
+        "Zagrożenie dla zwierząt i ludzi.",
+        "Utrudnienie zbiorów zbóż."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wszystkie zboża mogą być wykorzystywane w gorzelnictwie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
     }
   ]
 }

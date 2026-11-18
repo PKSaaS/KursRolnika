@@ -1,0 +1,2129 @@
+{
+  "id": "re1",
+  "course": "Rolnictwo ekologiczne",
+  "title": "Rolnictwo ekologiczne – wprowadzenie",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rolnictwo ekologiczne (organiczne, biologiczne) – system gospodarowania wykluczający syntetyczne nawozy mineralne, pestycydy, regulatory wzrostu i syntetyczne dodatki paszowe.",
+        "Charakteryzuje się produkcją w cyklu zamkniętym gleba–roślina–zwierzę przy dużej samowystarczalności; cele ekologiczne dominują nad ekonomicznymi.",
+        "Stosuje się tylko środki naturalne: obornik, komposty, nawozy zielone, nawozy zwierzęce i minerały występujące w przyrodzie zamiast nawozów sztucznych.",
+        "W ochronie roślin – metody zapobiegawcze, biologiczne, środki roślinne i mineralne zamiast syntetycznych pestycydów; zwierzętom zapewnia się pasze gospodarskie, ściółkę i ruch na świeżym powietrzu.",
+        "Zasady gospodarstw ekologicznych ustaliła Międzynarodowa Federacja Rolnictwa Ekologicznego (IFOAM).",
+        "Produkty rolnictwa ekologicznego muszą mieć atest potwierdzający wytworzenie zgodnie z kryteriami rolnictwa ekologicznego.",
+        "Atesty w Polsce przyznają m.in.: Stowarzyszenie EKOLAND, Cobico sp. z o.o., Agro Bio Test sp. z o.o., Bioekspert sp. z o.o.",
+        "Jako pierwsze atestację gospodarstw przeprowadzało Stowarzyszenie Ekoland (program oparty na standardach IFOAM).",
+        "Zadania EKOLANDU: reprezentowanie producentów i przetwórców, zatwierdzanie kryteriów, atestacja i inspekcja gospodarstw i przetwórni, upowszechnianie (kursy, szkolenia, promocja), działania na rzecz środowiska, zdrowia i oświaty.",
+        "Ideą ekologicznego przetwórstwa jest wybór technologii, która w najmniejszym stopniu obniża wartość odżywczą surowca.",
+        "Rolnictwo ekologiczne traktowane jest jako sposób życia w symbiozie z przyrodą.",
+        "Pełna nazwa EKOLANDU: Stowarzyszenie Producentów Żywności Metodami Ekologicznymi EKOLAND.",
+        "Pierwotny cel EKOLANDU: stworzenie systemu rolnictwa ekologicznego w Polsce – produkować żywność, nie niszcząc ziemi, i żywić, nie szkodząc konsumentom.",
+        "Efektem działalności gospodarstw ekologicznych jest tzw. żywność ekologiczna – płody wytworzone bez chemii przechowuje się i przetwarza tak, aby nie straciły swoich walorów."
+      ]
+    },
+    {
+      "heading": "1. Charakterystyka – zasady produkcji roślinnej",
+      "points": [
+        "Rolnictwo ekologiczne – system o zrównoważonej produkcji roślinnej i zwierzęcej, oparty na środkach biologicznych i mineralnych nieprzetworzonych technologicznie.",
+        "Podstawowa zasada: odrzucenie środków chemii rolnej, weterynaryjnej i spożywczej.",
+        "Dąży się do zrównoważenia produkcji roślinnej i zwierzęcej, by osiągnąć równowagę paszowo-nawozową.",
+        "Gatunki, odmiany i rasy dobiera się w oparciu o populacje, rasy i odmiany miejscowe z uwzględnieniem odporności na choroby.",
+        "Dopuszczalne nawozy: kompost, obornik, gnojówka, mielone skały i nawozy zielone.",
+        "Nawozy organiczne powinny pochodzić z gospodarstwa; dozwolony ograniczony zakup z ekstensywnych gospodarstw konwencjonalnych, ale trzeba je przekompostować.",
+        "W bilansie nawozowym ważną rolę odgrywają rośliny motylkowate wzbogacające glebę w azot.",
+        "Nawozy mineralne tylko pochodzenia naturalnego, nieprzetworzone przemysłowo; minerały P i K stosuje się przy stwierdzonym trwałym niedoborze w glebie.",
+        "Płodozmian o rotacji minimum 4 lata, z motylkowatymi w plonie głównym oraz wsiewkami i międzyplonami chroniącymi glebę przed erozją.",
+        "Odchwaszczanie mechaniczne: brony, obsypniki, pielniki, w ogrodnictwie także narzędzia ręczne.",
+        "Działania interwencyjne przy nasileniu chorób/szkodników ograniczone do środków mechanicznych i biologicznych; dozwolone preparaty wirusowe i bakteryjne, pułapki, feromony, wyciągi roślinne.",
+        "Zakazane: syntetyczne regulatory wzrostu oraz zaprawianie nasion i materiału sadzeniowego środkami syntetycznymi.",
+        "Gospodarstwo powinno leżeć w nieskażonym środowisku, z dala od przemysłu i dróg; dba się o miedze, łąki, zadrzewienia śródpolne, strumienie i oczka wodne.",
+        "Gospodarowanie metodami ekologicznymi aktywizuje naturalne zasoby gospodarstwa i zapewnia trwałą żyzność gleby, zdrowotność zwierząt i wysoką jakość biologiczną płodów rolnych.",
+        "Rolnictwo ekologiczne umożliwia praktyczną realizację zasad ekorozwoju – postęp nie ma oznaczać degradacji gleby, wody, krajobrazu, pogorszenia zdrowia ludzi i zwierząt ani marnotrawstwa nieodnawialnych zasobów przyrody."
+      ]
+    },
+    {
+      "heading": "1. Charakterystyka – chów zwierząt",
+      "points": [
+        "Zwierzęta żywione paszami gospodarskimi, w warunkach odpowiadających ich naturalnym potrzebom.",
+        "Regułą jest wychów pastwiskowy latem i dostęp do wybiegów zimą – wszystkie gatunki muszą mieć możliwość ruchu przez cały rok.",
+        "W budynkach: dostateczna wielkość stanowiska, stały dostęp do wody i pasz, wystarczająca ilość światła, naturalna ściółka.",
+        "Obecność zwierząt wymusza uprawę roślin pastewnych (bioróżnorodność) i zapewnia własne nawozy organiczne.",
+        "Samowystarczalność paszowo-nawozową umożliwia obsada 0,5–1,5 SD/ha.",
+        "Dopuszczalna obsada to 2 DJP/ha, co daje rocznie 170 kg azotu w odchodach zwierząt.",
+        "Zwierzęta dokupywane muszą pochodzić z gospodarstw ekologicznych; z konwencjonalnych tylko na określonych warunkach i po okresie odchowu.",
+        "Leki alopatyczne (antybiotyki, sulfonamidy, kokcydiostatyki) wyjątkowo, za zgodą jednostki certyfikującej i pod kontrolą weterynarza.",
+        "Okres karencji po leczeniu jest dwa razy dłuższy niż zaleca producent leku.",
+        "Profilaktyczne podawanie leków zabronione; szczepienia tylko gdy są wymagane urzędowo."
+      ]
+    },
+    {
+      "heading": "1. Charakterystyka – przestawianie, przetwórstwo, znakowanie",
+      "points": [
+        "Przestawianie gospodarstwa trwa co najmniej 2 lata (uprawy wieloletnie – 3 lata).",
+        "W chowie zwierząt okres przestawiania: od 12 miesięcy (bydło mięsne, konie) do 6 tygodni (kury nioski).",
+        "Okres ten może być skrócony do 1 roku albo wydłużony, zależnie od wcześniejszego gospodarowania.",
+        "Cel przestawiania: rozkład pozostałości środków agrochemicznych i osiągnięcie równowagi ekologicznej.",
+        "Chęć przestawienia rolnik zgłasza pisemnie do jednej z jednostek kontrolujących.",
+        "W przetwórstwie dopuszczalne metody mechaniczne, fizyczne, fermentacyjne i ograniczona liczba sprawdzonych substancji dodatkowych.",
+        "Zakazane: syntetyczne barwniki, emulgatory, stabilizatory, konserwanty, przeciwutleniacze, substancje powlekające, GMO oraz napromienianie żywności.",
+        "Magazyny nie mogą być traktowane pestycydami; transport w zamkniętych, oznakowanych opakowaniach.",
+        "Produkt wieloskładnikowy oznakowany jako ekologiczny musi mieć co najmniej 95% składników ekorolniczych; składniki konwencjonalne (do 5%) tylko z urzędowego wykazu KE.",
+        "Poniżej 95% – tylko wzmianka w liście składników z podaniem ich łącznej zawartości procentowej.",
+        "Dozwolone substancje – załącznik VIII Rozporządzenia Komisji (WE) 889/2008 (wdrażającego rozp. Rady (WE) nr 834/2007).",
+        "Euro-liść – unijne logo produktów ekologicznych (Rozporządzenie Komisji (UE) nr 271/2010).",
+        "Przetwórstwo produktów ekologicznych ma na celu zachowanie wysokiej jakości biologicznej surowców; dopuszcza się tradycyjne metody i substancje dodatkowe „sprawdzone przez wieki”.",
+        "Przechowywanie: pomieszczenia nie mogą być traktowane pestycydami, wykluczone są toksyczne materiały budowlane, farby itd.",
+        "W praktyce w obrocie rynkowym znajdują się produkty zawierające wyłącznie składniki z rolnictwa ekologicznego.",
+        "Kryteria ekorolnicze określają dozwolone środki i sposoby produkcji oraz przetwórstwa; substancje niezamieszczone w wykazie (zał. VIII rozp. 889/2008 z 5 września 2008 r.) nie mają zastosowania w ekologicznej produkcji żywności.",
+        "Rozporządzenie Komisji (UE) nr 271/2010 (Euro-liść) pochodzi z 24 marca 2010 r."
+      ],
+      "images": [
+        {
+          "src": "img/re1/euro-lisc.jpg",
+          "caption": "Euro-liść – unijne logo produktów ekologicznych (rys. 1.2): liść z 12 białych gwiazdek na zielonym tle (Rozporządzenie Komisji (UE) nr 271/2010)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Cele i cechy gospodarowania ekologicznego",
+      "points": [
+        "Cele: zachowanie i podnoszenie żyzności gleby (płodozmian, nawożenie organiczne, płytka uprawa), równowaga biologiczna przez bioróżnorodność, samowystarczalność paszowo-nawozowa (zamknięty obieg materii).",
+        "Cechy: dążenie do samowystarczalności paszowej i nawozowej, zrównoważenie produkcji roślinnej i zwierzęcej.",
+        "Zakaz syntetycznych nawozów mineralnych i chemicznych środków ochrony roślin.",
+        "Płodozmiany bez uproszczeń i monokultury, z dużym udziałem motylkowatych i międzyplonów.",
+        "Utrzymanie okrywy roślinnej (międzyplony), warunki bytowe zwierząt zgodne z potrzebami.",
+        "Niskie nakłady rzeczowe, niskie zużycie energii, ochrona środowiska i krajobrazu rolniczego."
+      ]
+    },
+    {
+      "heading": "2. Rolnictwo ekologiczne a konwencjonalne",
+      "points": [
+        "Systemy konwencjonalne: ekstensywne (najczęściej przyjazne środowisku), intensywne (eksploatują i degradują środowisko), integrowane (przyjazne, zależnie od poziomu agrochemikaliów).",
+        "Systemy ekologiczne: biodynamiczne i biologiczne – chronią przyrodę, nie degradują środowiska.",
+        "Cechy rolnictwa ekologicznego: żywność wysokiej jakości, odnawialne źródła energii, ochrona gleby/wód/powietrza, optymalne plony, nawozy naturalne, plony dobrze się przechowują.",
+        "Cechy rolnictwa tradycyjnego: szkodliwe substancje w żywności, degradacja środowiska, maksymalne plony, pestycydy i nawozy sztuczne, plony źle się przechowują.",
+        "Liczba gospodarstw ekologicznych w Polsce rosła z 2286 (2003) do 25 944 (2012); wzrost po wejściu do UE dzięki dopłatom.",
+        "Nakłady: konwencjonalne – wysokie zewnętrzne, ujemny bilans energetyczny; ekologiczne – niskie, zrównoważony bilans energetyczny, odnawialne źródła energii.",
+        "Gospodarowanie: konwencjonalne – specjalistyczne (często monokultury); ekologiczne – wielokierunkowe, obsada zwierząt ≤2 SD/ha.",
+        "Obieg materii: konwencjonalne – układ otwarty (stały dopływ NPK i pestycydów); ekologiczne – gospodarstwo jako organiczna całość.",
+        "Lokalizacja: w ekologicznym określona odległość od emiterów pyłów metali, dróg, ferm oraz wymagania jakości powietrza, wody i gleby.",
+        "Nawożenie: konwencjonalne – cel żywienie roślin; ekologiczne – podwyższenie aktywności biologicznej gleby (materia organiczna, mączki skalne).",
+        "Płodozmian w ekologicznym: rola podstawowa, wielopolowy, motylkowate 23–35%, znaczny udział międzyplonów, rola sanitarna i nawozowa.",
+        "Uprawa roli w ekologicznym: bezpłużna lub ograniczenie pługa; zasada: płytko orać, głęboko spulchniać, ograniczać przejazdy, skracać czas bez okrywy.",
+        "Chwasty w ekologicznym: profilaktyka (płodozmian), metody mechaniczne, termiczne, termin siewu/zbioru, dobór odmian, mulczowanie.",
+        "Odmiany ekologiczne: stabilne genetycznie, odporne, konkurencyjne dla chwastów, często miejscowe; zakaz GMO.",
+        "Materiał siewny ekologiczny: reprodukowany regionalnie, traktowany preparatami biodynamicznymi, kompostem (konwencjonalny – z zakupu, zaprawiony chemicznie).",
+        "Jakość biologiczna i przechowalnicza: konwencjonalne niska, ekologiczne wysoka; relacja konsument–producent: anonimowa vs bezpośredni kontakt.",
+        "Cele: konwencjonalne – tylko ekonomiczny; ekologiczne – ekonomiczny, ekologiczny i społeczny.",
+        "Oznakowanie produktu ekologicznego: znana tożsamość producenta – atestacja.",
+        "Cecha rolnictwa ekologicznego: gospodarstwa dostosowane do pojemności środowiska; rolnictwa tradycyjnego: gospodarstwa eksploatujące maksymalnie pojemność środowiska.",
+        "Cechy rolnictwa tradycyjnego (c.d.): skażenie i wyjałowienie gleb, zanieczyszczenie wód i powietrza.",
+        "Żywność ekologiczna jest droższa, ale dużo zdrowsza; wg modułu żywność tradycyjna przyczynia się do zwiększenia liczby zachorowań na raka, zaburzeń układu nerwowego i patologii płodu.",
+        "Dawniej rolnictwo ekologiczne dotyczyło małych gospodarstw produkujących tylko na własny użytek (bez prawnego potwierdzenia ekologiczności); obecnie powstają też duże gospodarstwa ekologiczne.",
+        "Tab. 1.2 – nakłady: konwencjonalne – dominacja techniki (agrochemii), duże zużycie energii nieodnawialnej; ekologiczne – maksymalne wykorzystanie odnawialnych źródeł energii.",
+        "Tab. 1.2 – sposób gospodarowania: konwencjonalne – gospodarstwa specjalistyczne, albo roślinne (często monokultury), albo zwierzęce; ekologiczne – uprawa roślin i chów zwierząt w równowadze, samowystarczalność paszowo-nawozowa.",
+        "Tab. 1.2 – lokalizacja gospodarstwa: w konwencjonalnym nie określa się wymagań.",
+        "Tab. 1.2 – kształtowanie krajobrazu: konwencjonalne – podporządkowanie technice i wydajności (osuszanie terenów, likwidacja oczek wodnych i zadrzewień, niwelacje terenu); ekologiczne – różnorodność krajobrazowa warunkująca równowagę ekologiczną, prawidłowe rozmieszczenie gruntów ornych, użytków zielonych, zadrzewień, miedz, oczek.",
+        "Tab. 1.2 – agrotechnika: konwencjonalne – podporządkowana względom technologicznym i wymogom rynku; ekologiczne – optymalna w stosunku do środowiska (w tym glebowego), bez syntetycznych nawozów i pestycydów.",
+        "Tab. 1.2 – płodozmian konwencjonalny: rola marginalna, uproszczony, podporządkowany ekonomii, bez funkcji sanitarnej i nawozowej, zawężony do 1–2 grup roślin, bez międzyplonów.",
+        "Tab. 1.2 – uprawa roli konwencjonalna: system płużny, wzrost szybkości uprawek, ciężkości i szerokości sprzętu, częste agregowanie zabiegów.",
+        "Tab. 1.2 – zwalczanie chwastów konwencjonalne: głównie herbicydami; dobór odmian konwencjonalny: ukierunkowany na wysokość plonu.",
+        "Tab. 1.2 – regulatory wzrostu i rozwoju: konwencjonalne – syntetyczne; ekologiczne – substancje naturalne.",
+        "Tab. 1.2 – ochrona roślin: konwencjonalne – pestycydy; ekologiczne – podstawą profilaktyka (płodozmian, kształtowanie krajobrazu, aktywność biologiczna gleby), interwencyjnie preparaty roślinne, sproszkowane skały, feromony, termiczna dezynfekcja podłoży.",
+        "Tab. 1.2 – znaczenie chowu zwierząt: konwencjonalne – zysk; ekologiczne – zamyka obieg składników pokarmowych, uprawa wieloletnich motylkowatych na paszę, ułatwia konstruowanie płodozmianów, zwiększa aktywność biologiczną gleby.",
+        "Tab. 1.2 – metody i warunki chowu: konwencjonalne – zaspokojenie tylko potrzeb służących wydajności; ekologiczne – uwzględniają wszystkie potrzeby zwierząt.",
+        "Tab. 1.2 – rasy: konwencjonalne – dobór, hodowla i chów podporządkowane maksymalizacji wydajności; ekologiczne – dostosowanie ras do warunków lokalnych.",
+        "Tab. 1.2 – oznakowanie produktu: konwencjonalne – anonimowość producenta.",
+        "Tab. 1.2 – obieg materii i energii (uzupełnienie): konwencjonalne – układ otwarty z dużym zużyciem energii nieodnawialnej; ekologiczne – daleko posunięta samowystarczalność paszowa i nawozowa."
+      ],
+      "images": [
+        {
+          "src": "img/re1/liczba-gospodarstw-eko.jpg",
+          "caption": "Liczba gospodarstw ekologicznych w Polsce 2003–2012 (rys. 1.3): 2003 – 2286, 2004 – 3760, 2005 – 7182, 2006 – 9194, 2007 – 12 121, 2008 – 15 206, 2009 – 17 423, 2010 – 20 956, 2011 – 23 449, 2012 – 25 944."
+        }
+      ]
+    },
+    {
+      "heading": "3. ZDPR – przechowywanie i stosowanie nawozów",
+      "points": [
+        "Zwykła Dobra Praktyka Rolnicza – zbiór zasad, których stosowanie daje pewność, że praca rolnika nie szkodzi przyrodzie lub szkodzi możliwie najmniej.",
+        "Nawozy płynne (gnojowica, gnojówka) przechowuje się w szczelnych zbiornikach.",
+        "Płyta gnojowa i zbiornik na gnojowicę: pojemność na co najmniej 4 miesiące (6 miesięcy na obszarach szczególnie narażonych).",
+        "Nawozy naturalne stałe – w pomieszczeniach inwentarskich lub na nieprzepuszczalnych płytach pod wodoszczelnym przykryciem, z odprowadzeniem wycieków.",
+        "Nawozy luzem – w magazynach lub pod zadaszeniem; dopuszczalne pryzmy na nieprzepuszczalnym podłożu pod folią, ale nie na spadkach i w strefach ochrony wód.",
+        "Nie wolno składować w pryzmach saletry amonowej i nawozów z azotanem amonowym powyżej 28% azotu całkowitego.",
+        "Nawozy naturalne i organiczne stosuje się tylko od 1 marca do 30 listopada (wyjątek: uprawy pod osłonami).",
+        "Od początku grudnia do końca lutego nie wolno stosować nawozów naturalnych i organicznych, w tym kompostów.",
+        "Gnojowicę i gnojówkę najlepiej rozlewać na nieobsianą glebę wczesną wiosną.",
+        "Nie wywozić obornika późnym latem i wczesną jesienią; późną jesienią tylko z natychmiastowym przyoraniem.",
+        "Nawozy na gruntach ornych przykryć lub wymieszać z glebą nie później niż następnego dnia po wywiezieniu.",
+        "Zakaz nawożenia gleb zalanych wodą, przykrytych śniegiem lub zamarzniętych do głębokości 30 cm.",
+        "Zakaz nawozów płynnych naturalnych i azotowych na stokach bez okrywy o nachyleniu powyżej 10%.",
+        "W pasie do 20 m od wód powierzchniowych nie stosuje się nawozów naturalnych, a mineralne rozsiewa się ręcznie.",
+        "Wodę z mycia sprzętu rozlewa się na polu oddalonym co najmniej 20 m od wód.",
+        "Nadwyżkę nawozów naturalnych trzeba udokumentować (np. umową sprzedaży); przy przekroczeniu normy zmniejszyć obsadę lub przekazać nadwyżkę.",
+        "Nawozy mineralne i organiczne w postaci stałej przechowuje się w oryginalnych opakowaniach, zgodnie z instrukcją stosowania i przechowywania.",
+        "Pryzmy nawozów nie mogą być zakładane na spadkach terenu ani w strefach ochrony pośredniej wód i strefach wrażliwych.",
+        "Dopuszcza się stosowanie nawozów naturalnych pogłównie, z wyjątkiem roślin przeznaczonych do bezpośredniego spożycia przez ludzi lub skarmiania przez zwierzęta.",
+        "Obornika nie wywozi się późnym latem i wczesną jesienią z powodu strat azotu przez wymywanie do wód podziemnych.",
+        "Nadmiar składników z nawozów jest marnotrawstwem: zwiększa koszty, zwiększa podatność roślin na choroby i szkodniki, zanieczyszcza wody gruntowe i powierzchniowe.",
+        "Przy obliczaniu dawki azotu można korzystać z pomocy doradców rolnych (programy komputerowe).",
+        "Nawozów nie stosuje się, gdy składniki (zwłaszcza azot) są narażone na wymywanie lub zmywanie do wód – przede wszystkim zimą, ale także w innych okresach, zależnie od gleby, opadów i okrywy.",
+        "Na glebach zalanych, zaśnieżonych lub zamarzniętych do 30 cm zakaz dotyczy nawozów naturalnych oraz mineralnych.",
+        "Zakaz stosowania płynnych nawozów naturalnych podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi.",
+        "Pas 20 m bez nawozów naturalnych dotyczy wód powierzchniowych, stref ochrony wód i obszarów morskiego pasa nadbrzeżnego.",
+        "Sprzęt do nawożenia ma być sprawny i wyregulowany; rozsiewaczy i opryskiwaczy nie myje się przy wodach – wodę z mycia rozlewa się równomiernie na powierzchni przeznaczonej do nawożenia."
+      ]
+    },
+    {
+      "heading": "3. ZDPR – ścieki i komunalne osady ściekowe",
+      "points": [
+        "Dostawca ścieków: pozwolenie wodnoprawne, wstępne oczyszczenie, analiza ścieków co najmniej raz na 2 miesiące, analiza gleb raz w roku, ustalenie dawek.",
+        "Rolnik: kopia pozwolenia wodnoprawnego, analizy ścieków i gleby (pH, P, K, metale ciężkie), plan nawożenia.",
+        "Ścieków nie wolno stosować: w uprawach do bezpośredniego spożycia, na glebach zamarzniętych/zaśnieżonych, na gruntach ornych o spadku >10%, na łąkach, pastwiskach i plantacjach leśnych o spadku 20% i więcej.",
+        "Przy deszczowniach – zakaz w odległości mniejszej niż 200 m od obiektów dla ludzi i 70 m od dróg publicznych i linii kolejowych.",
+        "Komunalne osady ściekowe – osady z komór fermentacyjnych i instalacji oczyszczania ścieków komunalnych.",
+        "Osady nadają się, gdy metale ciężkie i Salmonella nie przekraczają norm, a odczyn gleby nie przekracza pH 5,6.",
+        "Zakaz osadów m.in. na: uprawach do bezpośredniego spożycia, łąkach i pastwiskach, glebach bardzo przepuszczalnych z wodą gruntową poniżej 1,5 m, gruntach o spadku >10%, uprawach pod przykryciem.",
+        "Zakaz osadów także: w uprawach ogrodniczych i warzywnych (oprócz drzew owocowych), w parkach narodowych i rezerwatach, w pasie 50 m od wód, na terenach zalewowych.",
+        "Osadów nie stosuje się bliżej niż 100 m od ujęć wody, domów mieszkalnych i zakładów przetwórstwa spożywczego.",
+        "Ścieki mogą być źródłem składników nawozowych, ale też metali ciężkich i organizmów chorobotwórczych.",
+        "Dostawca ścieków: wstępne oczyszczenie do norm sanitarnych i dopuszczalnej zawartości metali ciężkich; analiza ścieków obejmuje badania mikrobiologiczne i skład; dawki ustala z uwzględnieniem potrzeb roślin, nawozów naturalnych i zasobności gleby.",
+        "Plan nawożenia rolnika uwzględnia ilość składników zawartych w ściekach.",
+        "Wyjątek od zakazu ścieków na glebach zamarzniętych/zaśnieżonych: dno stawów ziemnych do chowu i hodowli ryb.",
+        "Dawka komunalnych osadów ściekowych zależy od jakości osadu, rodzaju i zasobności gleby oraz zapotrzebowania roślin; normy metali ciężkich i Salmonelli – rozporządzenie Ministra Środowiska.",
+        "Gleby bardzo przepuszczalne wykluczające osady: piaski luźne i piaski gliniaste; zakaz osadów także na terenach podtapianych i bagiennych oraz na glebach zamarzniętych i pokrytych śniegiem.",
+        "Rolnicze wykorzystanie ścieków i osadów – stosowanie ich (odwodnionych lub płynnych) do nawadniania i nawożenia użytków rolnych oraz stawów rybnych.",
+        "Ścieki i osady komunalne można stosować do wszystkich upraw z wyjątkiem łąk, pastwisk oraz warzyw i roślin jagodowych do bezpośredniego spożycia; także na gruntach rekultywowanych na cele rolnicze; nie mogą pogarszać jakości gleb i wód ani zagrażać zdrowiu ludzi."
+      ]
+    },
+    {
+      "heading": "3. ZDPR – ochrona gleb przed erozją",
+      "points": [
+        "Warstwa gleby o grubości 1 cm powstaje 100–400 lat, a degradacja przebiega znacznie szybciej.",
+        "Degradacja fizyczna (erozja wodna i wietrzna, gorsze właściwości powietrzno-wodne), chemiczna (utrata składników, zakwaszenie, zasolenie), biologiczna (mniej materii organicznej, szkodliwa mikroflora).",
+        "Erozja jest szczególnie groźna, bo niszczy najżyźniejszą warstwę gleby; ochrona gleb to głównie zapobieganie erozji.",
+        "Intensywność erozji zależy od rzeźby terenu, gleby, wilgotności, wiatru, opadów, okrywy roślinnej i sposobu uprawy.",
+        "Obowiązki rolnika: przeciwdziałanie erozji, utrzymanie urządzeń przeciwerozyjnych i melioracyjnych, zakaz wypalania.",
+        "Przy wypalaniu temperatura przy powierzchni dochodzi do 700°C; niszczy próchnicę i organizmy glebowe.",
+        "Wypalanie słomy, ściernisk, roślinności na miedzach i rowach zakazane Ustawą z 16 kwietnia 2004 r. o ochronie przyrody.",
+        "Szkodliwość erozji: zmywanie lub zwiewanie wierzchniej (często też głębszej) warstwy gleby w inne miejsce lub do wód – wraz ze składnikami mineralnymi, organicznymi i pozostałościami środków ochrony roślin.",
+        "Ochrona gleb przed erozją wodną i wietrzną jest równocześnie ochroną wód.",
+        "Wypalanie zmniejsza żyzność i zwiększa podatność gleby na erozję; wysoka temperatura sięga także głębszych warstw.",
+        "Gleba jest dla rolnika warsztatem pracy i podstawowym źródłem utrzymania; degradacja zmniejsza żyzność i możliwość uzyskania wysokich i dobrych plonów.",
+        "Degradacja biologiczna oznacza m.in. przewagę mikroorganizmów szkodliwych nad pożytecznymi; wszystkie rodzaje degradacji są ściśle powiązane i mogą mieć te same przyczyny.",
+        "Intensywność erozji zależy też od kierunku i szybkości wiatru oraz ilości opadów.",
+        "Urządzenia melioracji szczegółowych rolnik pielęgnuje i konserwuje poprzez Spółkę Wodną lub we własnym zakresie; urządzenia przeciwerozyjne utrzymuje w sprawności technicznej.",
+        "Ustawa o ochronie przyrody z 16 kwietnia 2004 r. – Dz. U. Nr 92 poz. 880; wypalanie jest zabronione i karalne."
+      ],
+      "images": [
+        {
+          "src": "img/re1/profil-glebowy.jpg",
+          "caption": "Profil glebowy: warstwa gleby o grubości 1 cm powstaje w czasie od 100 do 400 lat, a jej degradacja przebiega znacznie szybciej – dlatego gleba, podstawowy warsztat pracy rolnika, wymaga ochrony."
+        },
+        {
+          "src": "img/re1/degradacja-gleby-rodzaje.jpg",
+          "caption": "Rodzaje degradacji gleby: fizyczna – strata masy gleby przez erozję wodną i wietrzną, pogorszenie właściwości powietrzno-wodnych; chemiczna – strata składników pokarmowych, nagromadzenie substancji szkodliwych, zakwaszenie i zasolenie; biologiczna – mniej substancji organicznej, niekorzystne zmiany mikroflory i mikrofauny glebowej."
+        }
+      ]
+    },
+    {
+      "heading": "3. ZDPR – ochrona wód i środki ochrony roślin",
+      "points": [
+        "Źródła zanieczyszczeń wód: źle przechowywane nawozy, odcieki z pryzm kiszonkowych, środki ochrony roślin, mycie sprzętu.",
+        "Tylko niewiele ponad 10% gospodarstw ma dostęp do kanalizacji; pozostałe – przydomowe oczyszczalnie lub szamba.",
+        "Niedopuszczalne odprowadzanie ścieków bytowych do wód, rowów, ziemi oraz nieszczelne szamba.",
+        "Chemiczne ŚOR stosuje się tylko, gdy metody biologiczne i agrotechniczne są niewystarczające, w najniższej zalecanej dawce.",
+        "Zabiegi wykonuje sprawny sprzęt i osoba z aktualnym zaświadczeniem o przeszkoleniu.",
+        "ŚOR w terenie otwartym przy bezwietrznej pogodzie, co najmniej 5 m od dróg publicznych i 20 m od budynków, pasiek, upraw zielarskich, ogródków działkowych, rezerwatów, wód.",
+        "Obowiązek przestrzegania okresów karencji i prewencji oraz ewidencji zabiegów (roślina, powierzchnia, termin, nazwa środka, dawka).",
+        "Najlepszym rozwiązaniem dla ścieków bytowych jest zbiorcza sieć kanalizacyjna (na wsi rzadkość).",
+        "Przydomowe oczyszczalnie: gruntowo-roślinne lub z drenażem rozsączającym; szambo = bezodpływowe urządzenie do czasowego gromadzenia nieczystości ciekłych.",
+        "Woda stale krąży w środowisku – zanieczyszczenia wracają i czynią ją niezdatną do picia i pojenia zwierząt.",
+        "Wolno stosować tylko ŚOR i materiał siewny zawierający ŚOR dopuszczone przepisami o ochronie roślin lub o rolnictwie ekologicznym; ŚOR stosuje się tylko na roślinę uprawną i powierzchnię, która tego wymaga.",
+        "Odległość 20 m przy ŚOR dotyczy także zabudowań inwentarskich i granicy wewnętrznego terenu ochrony strefy pośredniej źródeł i ujęć wody."
+      ]
+    },
+    {
+      "heading": "3. ZDPR – użytki zielone, porządek, siedliska",
+      "points": [
+        "Nieużytkowane trwałe użytki zielone należy wykaszać co najmniej raz w roku.",
+        "Największe zagrożenie dla wód – użytkowanie pastwiskowe (straty azotu z odchodów przy nadmiernej obsadzie).",
+        "Na terenach zalewowych nie wypasać co najmniej 2 tygodnie po ustąpieniu wody.",
+        "Nie prowadzić wypasu po połowie października.",
+        "Nie wypasać na terenach źródliskowych i przy wodach (strefa buforowa); naturalne zbiorniki i cieki nie mogą być wodopojami – stosować przenośne poidła.",
+        "Użytki zielone przy budynkach nie mogą być stałymi wybiegami.",
+        "Zdegradowaną ruń odnawia się głównie podsiewem; najbardziej wskazane użytkowanie przemienne kośno-pastwiskowe.",
+        "Zakaz wypalania roślinności na łąkach, pastwiskach, nieużytkach, miedzach, rowach, trzcinach; podpalenie przez osobę obcą właściciel zgłasza policji.",
+        "Rolnik musi mieć miejsca do gromadzenia odpadów komunalnych; odbiera je uprawniona jednostka, odpowiada samorząd gminny.",
+        "Formy ochrony przyrody: obszarowa (parki narodowe, rezerwaty, parki krajobrazowe, obszary chronionego krajobrazu, NATURA 2000), gatunkowa, indywidualna (pomniki przyrody, użytki ekologiczne, zespoły przyrodniczo-krajobrazowe).",
+        "Na terenach chronionych zakazane m.in.: likwidacja zbiorników wodnych, odwadnianie bagien, usuwanie zadrzewień, trwałe zniekształcanie rzeźby, niszczenie nor i legowisk.",
+        "Trwałych użytków zielonych nie wolno doprowadzić do odłogowania (zdziczenia); wykaszanie raz w roku zapobiega ekspansji krzewów.",
+        "Gospodarka na użytkach zielonych wiąże się z ochroną wód, ochroną gruntów rolnych oraz ochroną krajobrazu i bioróżnorodności.",
+        "Zbyt duża obsada trwale uszkadza darń (zwłaszcza na glebach organicznych i przy wodopojach) – gleba staje się podatna na zanieczyszczenia.",
+        "Nie wypasać, gdy gleba jest nadmiernie uwilgotniona; kosić i wypasać przy wilgotności, przy której koła ciągnika i racice nie zostawiają śladów.",
+        "Wypas po połowie października jest niewskazany, bo rośliny słabo pobierają już składniki z odchodów, które mogą przemieszczać się do wód gruntowych.",
+        "Wybiegi dla zwierząt powinny być specjalnie do tego przygotowane; podsiew runi ewentualnie z częściowym zniszczeniem starej darni oraz poprawa lub zmiana systemu użytkowania.",
+        "Zakaz wypalania dotyczy też pasów przydrożnych, szlaków kolejowych i oczeretów; skutki: giną najcenniejsze trawy i zioła (rozwijają się chwasty), degradacja siedlisk, giną ptaki i owady (pszczoły, trzmiele, biedronki, błonkówki).",
+        "Zagospodarowanie przestrzenne gospodarstwa powinno być podporządkowane ochronie środowiska; potrzebne są sprawne zbiorniki na odpady i opakowania po środkach produkcji.",
+        "Cel zaleceń na terenach chronionych: utrzymanie i racjonalne użytkowanie naturalnych zbiorowisk roślin i zwierząt, trwałość ginących gatunków.",
+        "Na terenach chronionych zakazane są też: zmiana przeznaczenia gruntów, niszczenie zadrzewień przydrożnych, zabijanie dzikich zwierząt i niszczenie miejsc rozrodu."
+      ]
+    },
+    {
+      "heading": "4. Zasady Wzajemnej Zgodności",
+      "points": [
+        "Reforma WPR z 2003 r. wprowadziła Płatność Jednolitą (SPS) oddzieloną od struktury i wielkości produkcji.",
+        "Płatność uzależniona od Dobrej Kultury Rolnej zgodnej z ochroną środowiska i podstawowych wymogów z zakresu zarządzania – razem: Zasady Wzajemnej Zgodności.",
+        "Wzajemna zgodność – powiązanie wysokości płatności bezpośrednich ze spełnianiem określonych wymogów.",
+        "Obszar A: identyfikacja i rejestracja zwierząt (IRZ) oraz ochrona środowiska naturalnego.",
+        "IRZ umożliwia śledzenie przemieszczeń zwierząt (ważne przy chorobach zakaźnych); numer siedziby stada nadaje biuro powiatowe ARiMR.",
+        "Zgłoszenia IRZ: urodzenie, przywóz, przemieszczenie, padnięcie, ubój – na drukach ARiMR lub elektronicznie.",
+        "Szkolenie z ŚOR w innym państwie UE/EFTA – ukończone nie wcześniej niż 5 lat przed wykonywaniem zabiegów.",
+        "Obszar B: zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin.",
+        "Dokumentację leczenia zwierząt przechowuje się 5 lat od ostatniego wpisu.",
+        "Zakaz podawania substancji hormonalnych, tyreostatycznych i ß-agonistycznych w celach innych niż lecznicze; zakaz posiadania estradiolu 17ß.",
+        "Obowiązek niezwłocznego zgłoszenia podejrzenia m.in. pryszczycy, afrykańskiego pomoru świń, choroby niebieskiego języka, księgosuszu, ospy owiec i kóz do Inspekcji Weterynaryjnej, lekarza weterynarii lub wójta/burmistrza.",
+        "Obszar C: dobrostan zwierząt – wymogi ogólne, dodatkowe dla cieląt i dla świń.",
+        "W Polsce: obszar A od 1 stycznia 2009, obszar B od 1 stycznia 2011, obszar C od 1 stycznia 2013.",
+        "SPS zastąpiła większość płatności bezpośrednich specyficznych dla rodzajów produkcji – daje rolnikowi wolny wybór produkcji i zapewnia niezbędny poziom dochodów.",
+        "IRZ umożliwia szybką identyfikację miejsc pobytu zakażonych zwierząt, co ogranicza ryzyko dla zdrowia publicznego.",
+        "Rejestracja w IRZ: najpierw numer identyfikacyjny producenta rolnego, potem numer siedziby stada (biuro powiatowe ARiMR); rejestracja zwierzęcia obejmuje urodzenie, przywóz z państw spoza UE i z UE; zgłasza się też przemieszczenie z i do gospodarstwa.",
+        "Obszar A – ochrona środowiska: tylko ŚOR dopuszczone do obrotu, stosowane i przechowywane zgodnie z etykietą-instrukcją, sprawnym sprzętem, przez osobę z aktualnym zaświadczeniem o szkoleniu w Polsce (lub w innym państwie UE/EFTA – nie wcześniej niż 5 lat przed zabiegami).",
+        "Obszar B: bezpieczeństwo zdrowia publicznego rozpatruje się w całym łańcuchu żywnościowym od produkcji podstawowej; dobra praktyka rolnicza z zasadami higieny zapewnia bezpieczeństwo żywności.",
+        "Zakaz posiadania weterynaryjnych produktów z substancjami beta-agonistycznymi (mogą przyspieszać poród) oraz estradiolu 17ß lub jego pochodnych.",
+        "Zakaz wprowadzania na rynek, uboju i przetwarzania mięsa zwierząt, u których wykryto substancje zabronione (poza podanymi w celach leczniczych).",
+        "Zakaz wprowadzania na rynek produktów od zwierząt leczonych substancjami o działaniu estrogennym lub androgennym, jeśli nie przestrzegano okresu karencji przed ubojem.",
+        "Zakaz wykonywania czynności zootechnicznych na zwierzętach reprodukcyjnych, które nie będą dalej wykorzystywane do rozrodu.",
+        "Choroby podlegające natychmiastowemu zgłoszeniu: księgosusz, pomór małych przeżuwaczy, choroba pęcherzykowa świń, choroba niebieskiego języka, krwotoczna choroba zwierzyny płowej, ospa owiec i kóz, pryszczyca, pęcherzykowe zapalenie jamy ustnej, afrykański pomór świń, choroba guzowatej skóry bydła, gorączka doliny Rift.",
+        "Przy podejrzeniu lub wystąpieniu pryszczycy – zwierzęta pozostawia się w miejscu przebywania i nie wprowadza tam innych zwierząt.",
+        "Cel wymogu dobrostanu: zdrowie i komfort bytowania zwierząt, zapobieganie zranieniom i cierpieniom; wymogi ogólne dotyczą wszystkich utrzymujących zwierzęta bez względu na gatunek i liczbę.",
+        "Wymogi wzajemnej zgodności nie są nowymi przepisami – były już w prawie krajowym i są obowiązkowe dla wszystkich gospodarstw; w nowych państwach (w tym Polsce) wdrażano je stopniowo."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rolnictwo ekologiczne – inne nazwy",
+      "back": "Organiczne, biologiczne."
+    },
+    {
+      "front": "Czego nie stosuje się w rolnictwie ekologicznym?",
+      "back": "Syntetycznych nawozów mineralnych, pestycydów, regulatorów wzrostu i syntetycznych dodatków paszowych."
+    },
+    {
+      "front": "W jakim cyklu przebiega produkcja ekologiczna?",
+      "back": "W cyklu zamkniętym gleba–roślina–zwierzę."
+    },
+    {
+      "front": "IFOAM",
+      "back": "Międzynarodowa Federacja Rolnictwa Ekologicznego – ustaliła zasady gospodarstw ekologicznych."
+    },
+    {
+      "front": "Kto jako pierwszy atestował gospodarstwa ekologiczne w Polsce?",
+      "back": "Stowarzyszenie EKOLAND."
+    },
+    {
+      "front": "Wymień jednostki przyznające atesty w Polsce (wg modułu)",
+      "back": "EKOLAND, Cobico, Agro Bio Test, Bioekspert."
+    },
+    {
+      "front": "Idea ekologicznego przetwórstwa",
+      "back": "Wybór technologii, która w najmniejszym stopniu obniża wartość odżywczą surowca."
+    },
+    {
+      "front": "Podstawowa zasada rolnictwa ekologicznego",
+      "back": "Odrzucenie środków chemii rolnej, weterynaryjnej i spożywczej."
+    },
+    {
+      "front": "Dopuszczalne nawozy w gospodarstwie ekologicznym",
+      "back": "Kompost, obornik, gnojówka, mielone skały, nawozy zielone."
+    },
+    {
+      "front": "Warunek użycia nawozów organicznych kupionych z gospodarstw konwencjonalnych",
+      "back": "Muszą pochodzić z gospodarstw ekstensywnych i zostać przekompostowane w gospodarstwie ekologicznym."
+    },
+    {
+      "front": "Kiedy w ekorolnictwie stosuje się naturalne minerały P i K?",
+      "back": "Gdy w glebie stwierdzono ich trwały niedobór."
+    },
+    {
+      "front": "Minimalna rotacja płodozmianu w rolnictwie ekologicznym",
+      "back": "4 lata."
+    },
+    {
+      "front": "Jakie rośliny wzbogacają glebę w azot w bilansie nawozowym?",
+      "back": "Rośliny motylkowate."
+    },
+    {
+      "front": "Narzędzia do mechanicznego odchwaszczania",
+      "back": "Brony, obsypniki, pielniki (w ogrodnictwie także narzędzia ręczne)."
+    },
+    {
+      "front": "Dozwolone środki interwencyjne w ochronie roślin (ekologicznej)",
+      "back": "Preparaty wirusowe i bakteryjne, pułapki, feromony, wyciągi roślinne, inne środki naturalne."
+    },
+    {
+      "front": "Czy wolno zaprawiać nasiona środkami syntetycznymi w ekorolnictwie?",
+      "back": "Nie."
+    },
+    {
+      "front": "Reguła utrzymania zwierząt ekologicznych latem i zimą",
+      "back": "Latem wychów pastwiskowy, zimą dostęp do wybiegów – ruch przez cały rok."
+    },
+    {
+      "front": "Obsada zapewniająca samowystarczalność paszowo-nawozową",
+      "back": "0,5–1,5 SD/ha."
+    },
+    {
+      "front": "Dopuszczalna obsada zwierząt w gospodarstwie ekologicznym",
+      "back": "2 DJP/ha."
+    },
+    {
+      "front": "Ile azotu w odchodach rocznie odpowiada obsadzie 2 DJP/ha?",
+      "back": "170 kg N."
+    },
+    {
+      "front": "Okres karencji po leczeniu lekami alopatycznymi w gospodarstwie ekologicznym",
+      "back": "Dwa razy dłuższy niż zaleca producent leku."
+    },
+    {
+      "front": "Warunki stosowania leków alopatycznych w ekorolnictwie",
+      "back": "Wyjątkowo, za zgodą jednostki certyfikującej i pod kontrolą weterynarza."
+    },
+    {
+      "front": "Kiedy dopuszczalne są szczepienia w gospodarstwie ekologicznym?",
+      "back": "Tylko gdy są wymagane urzędowo."
+    },
+    {
+      "front": "Minimalny okres przestawiania gospodarstwa (uprawy jednoroczne / wieloletnie)",
+      "back": "2 lata / 3 lata."
+    },
+    {
+      "front": "Okres przestawiania dla bydła mięsnego i koni",
+      "back": "12 miesięcy."
+    },
+    {
+      "front": "Okres przestawiania dla kur niosek",
+      "back": "6 tygodni."
+    },
+    {
+      "front": "Do ilu można skrócić okres przestawiania?",
+      "back": "Do 1 roku (zależnie od wcześniejszego gospodarowania)."
+    },
+    {
+      "front": "Cel okresu przestawiania",
+      "back": "Rozkład pozostałości środków agrochemicznych i osiągnięcie równowagi ekologicznej."
+    },
+    {
+      "front": "Jak zgłasza się chęć przestawienia gospodarstwa?",
+      "back": "Pisemnie do jednej z jednostek kontrolujących."
+    },
+    {
+      "front": "Dopuszczalne metody w przetwórstwie ekologicznym",
+      "back": "Mechaniczne, fizyczne, fermentacyjne + ograniczona liczba sprawdzonych substancji dodatkowych."
+    },
+    {
+      "front": "Minimalny udział składników ekologicznych w produkcie oznakowanym jako ekologiczny",
+      "back": "95%."
+    },
+    {
+      "front": "Maksymalny udział składników konwencjonalnych w produkcie ekologicznym",
+      "back": "Do 5%, wyłącznie z urzędowego wykazu Komisji Europejskiej."
+    },
+    {
+      "front": "Gdzie wymieniono substancje dozwolone w produkcji ekologicznej?",
+      "back": "Załącznik VIII Rozporządzenia Komisji (WE) 889/2008."
+    },
+    {
+      "front": "Euro-liść",
+      "back": "Unijne logo produktów ekologicznych (Rozp. Komisji (UE) nr 271/2010)."
+    },
+    {
+      "front": "Główne cele rolnictwa ekologicznego (3)",
+      "back": "Żyzność gleby, równowaga biologiczna (bioróżnorodność), samowystarczalność paszowo-nawozowa."
+    },
+    {
+      "front": "Kierunki rolnictwa ekologicznego (tab. 1.1)",
+      "back": "Biodynamiczne i biologiczne."
+    },
+    {
+      "front": "Kierunki rolnictwa konwencjonalnego (tab. 1.1)",
+      "back": "Ekstensywne, intensywne, integrowane."
+    },
+    {
+      "front": "Który kierunek konwencjonalny eksploatuje przyrodę i degraduje środowisko?",
+      "back": "Intensywny."
+    },
+    {
+      "front": "Liczba gospodarstw ekologicznych w Polsce w 2003 i 2012 r.",
+      "back": "2286 i 25 944."
+    },
+    {
+      "front": "Bilans energetyczny rolnictwa konwencjonalnego vs ekologicznego",
+      "back": "Ujemny vs zrównoważony."
+    },
+    {
+      "front": "Udział roślin motylkowatych w płodozmianie ekologicznym",
+      "back": "23–35%."
+    },
+    {
+      "front": "Zasady uprawy roli w rolnictwie ekologicznym",
+      "back": "Płytko orać, głęboko spulchniać, ograniczać przejazdy, skracać czas bez okrywy."
+    },
+    {
+      "front": "Cel nawożenia w rolnictwie ekologicznym",
+      "back": "Podwyższenie aktywności biologicznej gleby."
+    },
+    {
+      "front": "Cele rolnictwa ekologicznego wg tab. 1.2",
+      "back": "Ekonomiczny, ekologiczny i społeczny (konwencjonalne – tylko ekonomiczny)."
+    },
+    {
+      "front": "Zwykła Dobra Praktyka Rolnicza (ZDPR)",
+      "back": "Zbiór zasad, których stosowanie daje pewność, że praca rolnika nie szkodzi przyrodzie lub szkodzi możliwie najmniej."
+    },
+    {
+      "front": "Minimalna pojemność płyty gnojowej/zbiornika na gnojowicę",
+      "back": "Na 4 miesiące (6 miesięcy na obszarach szczególnie narażonych)."
+    },
+    {
+      "front": "Powyżej jakiej zawartości N nie wolno składować w pryzmach saletry amonowej?",
+      "back": "Powyżej 28% azotu całkowitego."
+    },
+    {
+      "front": "W jakim okresie można stosować nawozy naturalne i organiczne?",
+      "back": "Od 1 marca do 30 listopada (poza uprawami pod osłonami)."
+    },
+    {
+      "front": "Kiedy bezwzględnie nie wolno stosować nawozów naturalnych i organicznych?",
+      "back": "Od początku grudnia do końca lutego."
+    },
+    {
+      "front": "Do kiedy należy przykryć/wymieszać nawóz naturalny z glebą na gruntach ornych?",
+      "back": "Nie później niż następnego dnia po wywiezieniu."
+    },
+    {
+      "front": "Przy jakim zamarznięciu gleby zakazane jest nawożenie?",
+      "back": "Zamarzniętej do głębokości 30 cm."
+    },
+    {
+      "front": "Nachylenie stoku bez okrywy, powyżej którego nie wolno stosować płynnych nawozów naturalnych i azotowych",
+      "back": "Powyżej 10%."
+    },
+    {
+      "front": "Odległość od wód, w której nie stosuje się nawozów naturalnych",
+      "back": "Do 20 m (mineralne rozsiewa się tam ręcznie)."
+    },
+    {
+      "front": "Jak często dostawca ścieków bada ścieki i glebę?",
+      "back": "Ścieki co najmniej raz na 2 miesiące, glebę raz w roku."
+    },
+    {
+      "front": "Odległości przy stosowaniu ścieków deszczownią",
+      "back": "Min. 200 m od obiektów dla ludzi, 70 m od dróg publicznych i linii kolejowych."
+    },
+    {
+      "front": "Spadek łąk i pastwisk wykluczający stosowanie ścieków",
+      "back": "20% i więcej (grunty orne – powyżej 10%)."
+    },
+    {
+      "front": "Maksymalne pH gleby dla stosowania komunalnych osadów ściekowych (wg modułu)",
+      "back": "pH 5,6 – tak podaje moduł. Uwaga: w przepisach jest odwrotnie – osadów ściekowych nie stosuje się na glebach o pH do 5,6 (kwaśnych), a w rolnictwie ekologicznym osady ściekowe są niedozwolone."
+    },
+    {
+      "front": "Szerokość pasa przy wodach, gdzie nie stosuje się osadów ściekowych",
+      "back": "50 m."
+    },
+    {
+      "front": "Minimalna odległość osadów ściekowych od ujęć wody i domów",
+      "back": "100 m."
+    },
+    {
+      "front": "Ile lat powstaje 1 cm warstwy gleby (wg rozdz. o erozji)?",
+      "back": "100–400 lat."
+    },
+    {
+      "front": "Rodzaje degradacji gleby",
+      "back": "Fizyczna, chemiczna, biologiczna."
+    },
+    {
+      "front": "Temperatura przy powierzchni podczas wypalania",
+      "back": "Do 700°C."
+    },
+    {
+      "front": "Akt prawny zakazujący wypalania ściernisk i roślinności",
+      "back": "Ustawa z 16 kwietnia 2004 r. o ochronie przyrody."
+    },
+    {
+      "front": "Jaki odsetek gospodarstw ma dostęp do kanalizacji?",
+      "back": "Niewiele ponad 10%."
+    },
+    {
+      "front": "Odległości przy stosowaniu ŚOR w terenie otwartym",
+      "back": "Min. 5 m od dróg publicznych, 20 m od budynków, pasiek, wód, rezerwatów itp."
+    },
+    {
+      "front": "Co zawiera ewidencja zabiegów ŚOR?",
+      "back": "Roślina, powierzchnia, termin, nazwa środka, dawka."
+    },
+    {
+      "front": "Jak często wykaszać nieużytkowane trwałe użytki zielone?",
+      "back": "Co najmniej raz w roku."
+    },
+    {
+      "front": "Do kiedy można prowadzić wypas wg ZDPR?",
+      "back": "Do połowy października."
+    },
+    {
+      "front": "Ile czekać z wypasem na terenach zalewowych?",
+      "back": "Co najmniej 2 tygodnie po ustąpieniu wody."
+    },
+    {
+      "front": "Podstawowy sposób odnowienia zdegradowanej runi",
+      "back": "Podsiew; najlepiej użytkowanie przemienne kośno-pastwiskowe."
+    },
+    {
+      "front": "Kto odpowiada za gospodarkę odpadami komunalnymi?",
+      "back": "Samorząd gminny."
+    },
+    {
+      "front": "Formy ochrony indywidualnej przyrody",
+      "back": "Pomniki przyrody, użytki ekologiczne, zespoły przyrodniczo-krajobrazowe."
+    },
+    {
+      "front": "SPS",
+      "back": "Płatność Jednolita wprowadzona reformą WPR z 2003 r., oddzielona od produkcji."
+    },
+    {
+      "front": "Zasada Wzajemnej Zgodności",
+      "back": "Powiązanie wysokości płatności bezpośrednich ze spełnianiem przez beneficjentów określonych wymogów."
+    },
+    {
+      "front": "Obszar A wzajemnej zgodności",
+      "back": "Identyfikacja i rejestracja zwierząt oraz ochrona środowiska."
+    },
+    {
+      "front": "Obszar B wzajemnej zgodności",
+      "back": "Zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin."
+    },
+    {
+      "front": "Obszar C wzajemnej zgodności",
+      "back": "Dobrostan zwierząt (wymogi ogólne, dla cieląt, dla świń)."
+    },
+    {
+      "front": "Od kiedy obowiązują w Polsce obszary A, B, C?",
+      "back": "A – 1.01.2009, B – 1.01.2011, C – 1.01.2013."
+    },
+    {
+      "front": "Gdzie uzyskuje się numer siedziby stada?",
+      "back": "W biurze powiatowym ARiMR."
+    },
+    {
+      "front": "Jak długo przechowuje się dokumentację leczenia zwierząt?",
+      "back": "5 lat od daty ostatniego wpisu."
+    },
+    {
+      "front": "Komu zgłasza się podejrzenie choroby zakaźnej (np. pryszczycy)?",
+      "back": "Inspekcji Weterynaryjnej, najbliższemu lekarzowi weterynarii albo wójtowi/burmistrzowi."
+    },
+    {
+      "front": "Na czym polega szkodliwość erozji gleby?",
+      "back": "Na zmywaniu lub zwiewaniu wierzchniej (często i głębszej) warstwy gleby wraz ze składnikami mineralnymi, organicznymi i pozostałościami ŚOR – w inne miejsce lub do wód."
+    },
+    {
+      "front": "Dlaczego ochrona gleb przed erozją chroni też wody?",
+      "back": "Bo erozja przenosi glebę wraz ze składnikami i pozostałościami ŚOR do wód."
+    },
+    {
+      "front": "Co oznacza to logo umieszczane na produktach?",
+      "back": "Euro-liść – unijne logo produktów rolnictwa ekologicznego (Rozporządzenie Komisji (UE) nr 271/2010).",
+      "img": "img/re1/euro-lisc.jpg"
+    },
+    {
+      "front": "Pełna nazwa EKOLANDU",
+      "back": "Stowarzyszenie Producentów Żywności Metodami Ekologicznymi EKOLAND."
+    },
+    {
+      "front": "Pierwotny cel stowarzyszenia EKOLAND",
+      "back": "Stworzenie systemu rolnictwa ekologicznego w Polsce – produkować żywność, nie niszcząc ziemi, i żywić, nie szkodząc konsumentom."
+    },
+    {
+      "front": "Cel przetwórstwa produktów ekologicznych",
+      "back": "Zachowanie wysokiej jakości biologicznej surowców (tradycyjne metody mechaniczne, fizyczne, fermentacyjne)."
+    },
+    {
+      "front": "Wymagania wobec magazynów produktów ekologicznych",
+      "back": "Nie mogą być traktowane pestycydami; wykluczone toksyczne materiały budowlane i farby."
+    },
+    {
+      "front": "Czy w produkcji ekologicznej można użyć substancji spoza wykazu zał. VIII rozp. 889/2008?",
+      "back": "Nie – substancje niezamieszczone w wykazie nie mają zastosowania."
+    },
+    {
+      "front": "Kształtowanie krajobrazu w rolnictwie ekologicznym (tab. 1.2)",
+      "back": "Różnorodność krajobrazowa warunkująca równowagę ekologiczną; prawidłowe rozmieszczenie gruntów ornych, użytków zielonych, zadrzewień, miedz, oczek."
+    },
+    {
+      "front": "Kształtowanie krajobrazu w rolnictwie konwencjonalnym (tab. 1.2)",
+      "back": "Podporządkowane technice i wydajności: osuszanie terenów, likwidacja oczek wodnych i zadrzewień, niwelacje terenu."
+    },
+    {
+      "front": "Płodozmian w rolnictwie konwencjonalnym (tab. 1.2)",
+      "back": "Rola marginalna; uproszczony, bez funkcji sanitarnej i nawozowej, 1–2 grupy roślin, bez międzyplonów."
+    },
+    {
+      "front": "Uprawa roli w rolnictwie konwencjonalnym (tab. 1.2)",
+      "back": "System płużny, szybsze uprawki, cięższy i szerszy sprzęt, częste agregowanie zabiegów."
+    },
+    {
+      "front": "Ochrona roślin w rolnictwie ekologicznym (tab. 1.2)",
+      "back": "Podstawą profilaktyka (płodozmian, krajobraz, aktywność biologiczna gleby); interwencyjnie preparaty roślinne, sproszkowane skały, feromony, termiczna dezynfekcja podłoży."
+    },
+    {
+      "front": "Znaczenie chowu zwierząt w rolnictwie ekologicznym (tab. 1.2)",
+      "back": "Zamyka obieg składników, uprawa wieloletnich motylkowatych na paszę, ułatwia płodozmiany, zwiększa aktywność biologiczną gleby (w konwencjonalnym – zysk)."
+    },
+    {
+      "front": "Rasy zwierząt w rolnictwie ekologicznym vs konwencjonalnym (tab. 1.2)",
+      "back": "Ekologiczne – dostosowanie ras do warunków lokalnych; konwencjonalne – podporządkowanie maksymalizacji wydajności."
+    },
+    {
+      "front": "Regulatory wzrostu w rolnictwie konwencjonalnym vs ekologicznym (tab. 1.2)",
+      "back": "Syntetyczne vs substancje naturalne."
+    },
+    {
+      "front": "Dlaczego nie wywozi się obornika późnym latem i wczesną jesienią?",
+      "back": "Z powodu strat azotu przez wymywanie do wód podziemnych."
+    },
+    {
+      "front": "Na jakie rośliny nie wolno stosować nawozów naturalnych pogłównie?",
+      "back": "Na rośliny przeznaczone do bezpośredniego spożycia przez ludzi lub skarmiania przez zwierzęta."
+    },
+    {
+      "front": "Co zrobić z wodą z mycia opryskiwacza/rozsiewacza?",
+      "back": "Rozlać równomiernie na powierzchni przeznaczonej do nawożenia, co najmniej 20 m od brzegów wód."
+    },
+    {
+      "front": "Wyjątek od zakazu stosowania ścieków na glebach zamarzniętych",
+      "back": "Dno stawów ziemnych wykorzystywanych do chowu i hodowli ryb."
+    },
+    {
+      "front": "Na czym polega rolnicze wykorzystanie ścieków i osadów?",
+      "back": "Na stosowaniu ich (odwodnionych lub płynnych) do nawadniania i nawożenia użytków rolnych oraz stawów rybnych."
+    },
+    {
+      "front": "Do jakich upraw nie wolno stosować ścieków i osadów komunalnych?",
+      "back": "Łąki, pastwiska oraz warzywa i rośliny jagodowe do bezpośredniego spożycia."
+    },
+    {
+      "front": "Rodzaje przydomowych oczyszczalni ścieków",
+      "back": "Gruntowo-roślinne lub z drenażem rozsączającym (alternatywa: szamba – zbiorniki bezodpływowe)."
+    },
+    {
+      "front": "Dlaczego nie wypasa się po połowie października?",
+      "back": "Rośliny słabo pobierają już składniki z odchodów – przemieszczają się one do wód gruntowych."
+    },
+    {
+      "front": "Przy jakiej wilgotności można kosić i wypasać użytki zielone?",
+      "back": "Przy takiej, przy której koła ciągnika i racice nie zostawiają śladów (nie uszkadzają runi)."
+    },
+    {
+      "front": "Skutki wypalania roślinności na łąkach",
+      "back": "Giną najcenniejsze trawy i zioła (rozwijają się chwasty), degradacja siedlisk, giną ptaki i owady (pszczoły, trzmiele, biedronki)."
+    },
+    {
+      "front": "Pierwszy krok rejestracji zwierząt w IRZ",
+      "back": "Uzyskanie numeru identyfikacyjnego producenta rolnego, potem numeru siedziby stada w biurze powiatowym ARiMR."
+    },
+    {
+      "front": "Wymień choroby zakaźne z obowiązkiem zgłoszenia (obszar B)",
+      "back": "Księgosusz, pomór małych przeżuwaczy, choroba pęcherzykowa świń, choroba niebieskiego języka, krwotoczna choroba zwierzyny płowej, ospa owiec i kóz, pryszczyca, pęcherzykowe zapalenie jamy ustnej, ASF, choroba guzowatej skóry bydła, gorączka doliny Rift."
+    },
+    {
+      "front": "Co robić przy podejrzeniu pryszczycy?",
+      "back": "Zgłosić i pozostawić zwierzęta w miejscu przebywania, nie wprowadzać tam innych zwierząt."
+    },
+    {
+      "front": "Cel wymogów dobrostanu zwierząt (obszar C)",
+      "back": "Zapewnienie zdrowia i komfortu bytowania, zapobieganie zranieniom i cierpieniom."
+    },
+    {
+      "front": "Kto pielęgnuje urządzenia melioracji szczegółowych?",
+      "back": "Rolnik – poprzez Spółkę Wodną lub we własnym zakresie."
+    },
+    {
+      "front": "Obieg materii i energii w gospodarstwie konwencjonalnym i ekologicznym (tab. 1.2)",
+      "back": "Konwencjonalne: układ otwarty, niezbędny stały dopływ NPK i pestycydów, duże zużycie energii nieodnawialnej. Ekologiczne: gospodarstwo jako organiczna całość, daleko posunięta samowystarczalność paszowa i nawozowa."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Jaki jest minimalny okres przestawiania gospodarstwa na produkcję ekologiczną w przypadku upraw wieloletnich?",
+      "options": [
+        "3 lata",
+        "1 rok",
+        "2 lata",
+        "5 lat"
+      ],
+      "answer": 0,
+      "explain": "Przestawianie trwa co najmniej 2 lata, a dla upraw wieloletnich 3 lata."
+    },
+    {
+      "q": "Okres przestawiania w chowie kur niosek wynosi:",
+      "options": [
+        "12 miesięcy",
+        "6 miesięcy",
+        "2 lata",
+        "6 tygodni"
+      ],
+      "answer": 3,
+      "explain": "Okres przestawiania wynosi od 12 miesięcy dla bydła mięsnego i koni do 6 tygodni dla kur niosek."
+    },
+    {
+      "q": "Produkt wieloskładnikowy może być oznakowany jako ekologiczny, jeśli zawiera co najmniej:",
+      "options": [
+        "70% składników ekologicznych",
+        "80% składników ekologicznych",
+        "95% składników ekologicznych",
+        "50% składników ekologicznych"
+      ],
+      "answer": 2,
+      "explain": "Wymagane jest co najmniej 95% składników ekorolniczych."
+    },
+    {
+      "q": "Dopuszczalna obsada zwierząt w gospodarstwie ekologicznym wynosi:",
+      "options": [
+        "1 DJP/ha",
+        "2 DJP/ha",
+        "3 DJP/ha",
+        "4 DJP/ha"
+      ],
+      "answer": 1,
+      "explain": "Dopuszczalna obsada to 2 DJP/ha, co daje rocznie 170 kg azotu w odchodach."
+    },
+    {
+      "q": "Obsada 2 DJP/ha odpowiada rocznej ilości azotu w odchodach zwierząt równej:",
+      "options": [
+        "100 kg",
+        "170 kg",
+        "210 kg",
+        "250 kg"
+      ],
+      "answer": 1,
+      "explain": "Obsada 2 DJP/ha daje rocznie 170 kg azotu zawartego w odchodach."
+    },
+    {
+      "q": "Okres karencji dla produktów od zwierząt leczonych lekami alopatycznymi w gospodarstwie ekologicznym jest:",
+      "options": [
+        "dwa razy dłuższy niż zaleca producent leku",
+        "taki sam jak zaleca producent",
+        "trzy razy dłuższy niż zaleca producent",
+        "skrócony o połowę"
+      ],
+      "answer": 0,
+      "explain": "Okres karencji jest dwa razy dłuższy niż zaleca producent leku."
+    },
+    {
+      "q": "Minimalna rotacja płodozmianu w rolnictwie ekologicznym wynosi:",
+      "options": [
+        "2 lata",
+        "3 lata",
+        "6 lat",
+        "4 lata"
+      ],
+      "answer": 3,
+      "explain": "Kluczowy jest płodozmian o kilkuletniej rotacji – minimum cztery lata."
+    },
+    {
+      "q": "Który nawóz NIE jest dopuszczony w rolnictwie ekologicznym?",
+      "options": [
+        "Kompost",
+        "Mielone skały",
+        "Saletra amonowa",
+        "Gnojówka"
+      ],
+      "answer": 2,
+      "explain": "Dopuszczalne nawozy to kompost, obornik, gnojówka, mielone skały i nawozy zielone; syntetyczne nawozy mineralne są wykluczone."
+    },
+    {
+      "q": "Która organizacja ustaliła zasady obowiązujące gospodarstwa ekologiczne?",
+      "options": [
+        "ARiMR",
+        "FAO",
+        "IFOAM",
+        "EFTA"
+      ],
+      "answer": 2,
+      "explain": "Zasady ustaliła Międzynarodowa Federacja Rolnictwa Ekologicznego (IFOAM)."
+    },
+    {
+      "q": "Jako pierwsze atestację gospodarstw ekologicznych w Polsce przeprowadzało:",
+      "options": [
+        "Cobico sp. z o.o.",
+        "Stowarzyszenie EKOLAND",
+        "Bioekspert sp. z o.o.",
+        "Agro Bio Test sp. z o.o."
+      ],
+      "answer": 1,
+      "explain": "Jako pierwsze atestację przeprowadzało Stowarzyszenie Ekoland."
+    },
+    {
+      "q": "Unijne logo zamieszczane na produktach ekologicznych to:",
+      "options": [
+        "Euro-liść",
+        "Znak CE",
+        "Zielony punkt",
+        "Euro-kłos"
+      ],
+      "answer": 0,
+      "explain": "Euro-liść to unijne logo produktów ekologicznych."
+    },
+    {
+      "q": "Substancje dozwolone w produkcji ekologicznej wymienia załącznik VIII rozporządzenia:",
+      "options": [
+        "Rady (WE) 1782/2003",
+        "Komisji (UE) 1307/2013",
+        "Rady (EWG) 2092/91",
+        "Komisji (WE) 889/2008"
+      ],
+      "answer": 3,
+      "explain": "Dozwolone substancje wymienia załącznik VIII Rozporządzenia Komisji (WE) 889/2008."
+    },
+    {
+      "q": "Obsada zwierząt umożliwiająca samowystarczalność paszowo-nawozową wynosi:",
+      "options": [
+        "2–3 SD/ha",
+        "3–4 SD/ha",
+        "0,1–0,3 SD/ha",
+        "0,5–1,5 SD/ha"
+      ],
+      "answer": 3,
+      "explain": "Samowystarczalność paszowo-nawozową umożliwia obsada 0,5–1,5 SD/ha."
+    },
+    {
+      "q": "Który zabieg jest zabroniony w rolnictwie ekologicznym?",
+      "options": [
+        "Stosowanie pułapek feromonowych",
+        "Odchwaszczanie pielnikiem",
+        "Zaprawianie nasion środkami syntetycznymi",
+        "Stosowanie wyciągów roślinnych"
+      ],
+      "answer": 2,
+      "explain": "Niedozwolone jest zaprawianie nasion i materiału sadzeniowego środkami syntetycznymi."
+    },
+    {
+      "q": "Szczepienia ochronne zwierząt w gospodarstwie ekologicznym są dopuszczalne:",
+      "options": [
+        "zawsze profilaktycznie",
+        "tylko gdy są wymagane urzędowo",
+        "tylko u młodych zwierząt",
+        "nigdy"
+      ],
+      "answer": 1,
+      "explain": "Szczepienia ochronne dopuszczone są tylko wtedy, gdy są wymagane urzędowo."
+    },
+    {
+      "q": "Udział roślin motylkowatych w płodozmianie ekologicznym (tab. 1.2) wynosi:",
+      "options": [
+        "23–35%",
+        "5–10%",
+        "50–60%",
+        "10–15%"
+      ],
+      "answer": 0,
+      "explain": "W ekologicznym płodozmianie udział roślin motylkowatych wynosi 23–35%."
+    },
+    {
+      "q": "Zasada uprawy roli w rolnictwie ekologicznym brzmi:",
+      "options": [
+        "płytko orać, głęboko spulchniać",
+        "głęboko orać, płytko spulchniać",
+        "orać zawsze na pełną głębokość",
+        "zwiększać liczbę przejazdów"
+      ],
+      "answer": 0,
+      "explain": "Zasady: płytko orać, głęboko spulchniać, ograniczać przejazdy, skracać czas bez okrywy."
+    },
+    {
+      "q": "Który kierunek rolnictwa konwencjonalnego eksploatuje przyrodę i degraduje środowisko?",
+      "options": [
+        "Ekstensywny",
+        "Integrowany",
+        "Biodynamiczny",
+        "Intensywny"
+      ],
+      "answer": 3,
+      "explain": "Wg tabeli 1.1 rolnictwo intensywne eksploatuje przyrodę i degraduje środowisko."
+    },
+    {
+      "q": "Do rolnictwa ekologicznego zalicza się kierunek:",
+      "options": [
+        "intensywny",
+        "integrowany",
+        "biodynamiczny",
+        "ekstensywny"
+      ],
+      "answer": 2,
+      "explain": "Systemy ekologiczne obejmują kierunki biodynamiczny i biologiczny."
+    },
+    {
+      "q": "Celem nawożenia w rolnictwie ekologicznym jest przede wszystkim:",
+      "options": [
+        "maksymalne żywienie roślin",
+        "podwyższenie aktywności biologicznej gleby",
+        "zwiększenie zasolenia gleby",
+        "uzupełnienie azotu nawozami syntetycznymi"
+      ],
+      "answer": 1,
+      "explain": "W rolnictwie ekologicznym celem nawożenia jest podwyższenie aktywności biologicznej gleby."
+    },
+    {
+      "q": "Płyta gnojowa i zbiornik na gnojowicę powinny pomieścić nawozy przez co najmniej (poza obszarami szczególnie narażonymi):",
+      "options": [
+        "2 miesiące",
+        "4 miesiące",
+        "6 miesięcy",
+        "12 miesięcy"
+      ],
+      "answer": 1,
+      "explain": "Pojemność ma zapewnić gromadzenie przez co najmniej 4 miesiące (6 na obszarach szczególnie narażonych)."
+    },
+    {
+      "q": "Nawozy naturalne i organiczne wolno stosować w okresie:",
+      "options": [
+        "od 1 marca do 30 listopada",
+        "od 1 lutego do 31 grudnia",
+        "od 15 marca do 15 października",
+        "przez cały rok"
+      ],
+      "answer": 0,
+      "explain": "Nawozy naturalne i organiczne stosuje się tylko od 1 marca do 30 listopada."
+    },
+    {
+      "q": "Nawozów naturalnych nie wolno stosować na glebie zamarzniętej do głębokości:",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "50 cm",
+        "30 cm"
+      ],
+      "answer": 3,
+      "explain": "Zabrania się nawożenia gleb zamarzniętych do głębokości 30 cm."
+    },
+    {
+      "q": "Nawozy naturalne na gruntach ornych należy przykryć lub wymieszać z glebą:",
+      "options": [
+        "w ciągu tygodnia",
+        "w ciągu miesiąca",
+        "nie później niż następnego dnia po wywiezieniu",
+        "dopiero przed siewem"
+      ],
+      "answer": 2,
+      "explain": "Nawozy należy przykryć lub wymieszać z glebą nie później niż w następnym dniu po wywiezieniu."
+    },
+    {
+      "q": "W jakiej odległości od wód powierzchniowych nie stosuje się nawozów naturalnych?",
+      "options": [
+        "Do 5 m",
+        "Do 50 m",
+        "Do 20 m",
+        "Do 100 m"
+      ],
+      "answer": 2,
+      "explain": "W odległości do 20 m od wód nie stosuje się nawozów naturalnych, a mineralne rozsiewa się ręcznie."
+    },
+    {
+      "q": "Nie wolno składować w pryzmach saletry amonowej o zawartości azotu całkowitego powyżej:",
+      "options": [
+        "15%",
+        "28%",
+        "34%",
+        "46%"
+      ],
+      "answer": 1,
+      "explain": "Nie dopuszcza się składowania w pryzmach nawozów z azotanem amonowym powyżej 28% N."
+    },
+    {
+      "q": "Stosowanie płynnych nawozów naturalnych na stokach bez okrywy roślinnej jest zabronione przy nachyleniu powyżej:",
+      "options": [
+        "10%",
+        "3%",
+        "20%",
+        "30%"
+      ],
+      "answer": 0,
+      "explain": "Zakaz dotyczy stoków bez pokrywy roślinnej o nachyleniu powyżej 10%."
+    },
+    {
+      "q": "Komunalne osady ściekowe nie mogą być stosowane w odległości mniejszej niż:",
+      "options": [
+        "10 m od ujęć wody",
+        "20 m od domów",
+        "500 m od dróg",
+        "100 m od ujęć wody i domów"
+      ],
+      "answer": 3,
+      "explain": "Zakaz dotyczy terenów w odległości mniejszej niż 100 m od ujęć wody, domów i zakładów spożywczych."
+    },
+    {
+      "q": "Analizę gleby, na której mają być stosowane ścieki, wykonuje się:",
+      "options": [
+        "raz na 2 miesiące",
+        "raz na 5 lat",
+        "raz w miesiącu",
+        "raz w roku"
+      ],
+      "answer": 3,
+      "explain": "Analizy gleb wykonuje się raz w roku, a analizy ścieków co najmniej raz na 2 miesiące."
+    },
+    {
+      "q": "Temperatura przy powierzchni gleby podczas wypalania ściernisk dochodzi do:",
+      "options": [
+        "100°C",
+        "300°C",
+        "700°C",
+        "1500°C"
+      ],
+      "answer": 2,
+      "explain": "Podczas wypalania temperatura przy powierzchni dochodzi do 700°C."
+    },
+    {
+      "q": "Środki ochrony roślin w terenie otwartym można stosować w odległości co najmniej:",
+      "options": [
+        "1 m od dróg i 5 m od budynków",
+        "5 m od dróg publicznych i 20 m od budynków",
+        "20 m od dróg i 50 m od budynków",
+        "10 m od dróg i 10 m od pasiek"
+      ],
+      "answer": 1,
+      "explain": "ŚOR stosuje się co najmniej 5 m od dróg publicznych i 20 m od budynków, pasiek, wód itp."
+    },
+    {
+      "q": "Wypasu zwierząt na użytkach zielonych nie należy prowadzić po:",
+      "options": [
+        "połowie października",
+        "połowie sierpnia",
+        "końcu czerwca",
+        "połowie grudnia"
+      ],
+      "answer": 0,
+      "explain": "Nie prowadzi się wypasu po połowie października, bo odchody mogą przemieszczać się do wód."
+    },
+    {
+      "q": "Nieużytkowane produkcyjnie trwałe użytki zielone należy wykaszać:",
+      "options": [
+        "co najmniej raz w roku",
+        "co najmniej trzy razy w roku",
+        "raz na 2 lata",
+        "raz na 5 lat"
+      ],
+      "answer": 0,
+      "explain": "Nieużytkowane użytki zielone powinny być wykaszane przynajmniej raz w roku."
+    },
+    {
+      "q": "Płatność Jednolitą (SPS) wprowadziła reforma WPR z roku:",
+      "options": [
+        "1992",
+        "2007",
+        "2013",
+        "2003"
+      ],
+      "answer": 3,
+      "explain": "Reforma WPR z 2003 roku wprowadziła Płatność Jednolitą (SPS)."
+    },
+    {
+      "q": "Wymogi z obszaru C wzajemnej zgodności (dobrostan zwierząt) obowiązują w Polsce od:",
+      "options": [
+        "1 stycznia 2009 r.",
+        "1 stycznia 2011 r.",
+        "1 stycznia 2013 r.",
+        "1 maja 2004 r."
+      ],
+      "answer": 2,
+      "explain": "Obszar A obowiązuje od 2009, B od 2011, a C od 1 stycznia 2013 r."
+    },
+    {
+      "q": "Identyfikacja i rejestracja zwierząt należy do obszaru wzajemnej zgodności:",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explain": "Obszar A obejmuje identyfikację i rejestrację zwierząt oraz ochronę środowiska."
+    },
+    {
+      "q": "Dokumentację leczenia zwierząt gospodarskich przechowuje się przez:",
+      "options": [
+        "1 rok",
+        "5 lat od ostatniego wpisu",
+        "3 lata",
+        "10 lat"
+      ],
+      "answer": 1,
+      "explain": "Dokumentację leczenia przechowuje się 5 lat od daty ostatniego wpisu."
+    },
+    {
+      "q": "Numer siedziby stada nadaje:",
+      "options": [
+        "biuro powiatowe ARiMR",
+        "Inspekcja Weterynaryjna",
+        "urząd gminy",
+        "jednostka certyfikująca"
+      ],
+      "answer": 0,
+      "explain": "O nadanie numeru siedziby stada zwraca się do biura powiatowego ARiMR."
+    },
+    {
+      "q": "Co oznacza logo przedstawione na ilustracji?",
+      "options": [
+        "Unijne oznaczenie produktu ekologicznego (Euro-liść)",
+        "Chronione oznaczenie geograficzne",
+        "Produkt z gospodarstwa w okresie przestawiania bez certyfikatu",
+        "Znak bezpieczeństwa opakowania"
+      ],
+      "answer": 0,
+      "explain": "To Euro-liść – unijne logo zamieszczane na produktach ekologicznych.",
+      "img": "img/re1/euro-lisc.jpg"
+    },
+    {
+      "q": "Który element według tab. 1.2 charakteryzuje rolnictwo konwencjonalne?",
+      "options": [
+        "Obsada zwierząt ≤2 SD/ha",
+        "Anonimowość producenta",
+        "Bezpośredni kontakt konsument–producent",
+        "Zrównoważony bilans energetyczny"
+      ],
+      "answer": 1,
+      "explain": "Konwencjonalne – anonimowość producenta; ekologiczne – znana tożsamość producenta (atestacja)."
+    },
+    {
+      "q": "Od jakiej odległości od ujęć wody i domów mieszkalnych można stosować komunalne osady ściekowe?",
+      "options": [
+        "20 m",
+        "50 m",
+        "70 m",
+        "100 m"
+      ],
+      "answer": 3,
+      "explain": "Osadów nie stosuje się bliżej niż 100 m od ujęć wody, domów mieszkalnych i zakładów przetwórstwa spożywczego."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaka jest skrócona nazwa Międzynarodowej Federacji Rolnictwa Ekologicznego?",
+      "options": [
+        "TOMFG",
+        "IOGRM",
+        "FGRM",
+        "IFOAM",
+        "ECOFR"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "W gospodarstwie ekologicznym dąży się do zrównoważenia produkcji roślinnej i zwierzęcej tak, by osiągnąć równowagę ….",
+      "options": [
+        "paszowo-nawozową",
+        "popytu i podaży"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRotacja odpowiednio zaplanowanego płodozmianu w gospodarstwie ekologicznym musi wynosić minimum 4 lata.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż cechy gospodarowania ekologicznego.",
+      "options": [
+        "Ochrona środowiska.",
+        "Upowszechnienie syntetycznych nawozów mineralnych.",
+        "Minimum 4-letni płodozmian.",
+        "Niskie nakłady rzeczowe i niskie zużycie energii."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPolska po wejściu do Unii Europejskiej otrzymała dopłaty do rolnictwa ekologicznego, stąd zapotrzebowanie na jego produkty i zainteresowanie tą dziedziną gospodarką znacznie … w ostatnich latach.",
+      "options": [
+        "wzrosły",
+        "zmalały"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonwencjonalne gospodarstwa specjalistyczne ukierunkowane są zazwyczaj albo na produkcję roślinną albo na produkcję zwierzęcą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, które określenie nie charakteryzuje ekorolnictwa.",
+      "options": [
+        "Niskie nakłady zewnętrzne.",
+        "Zrównoważony bilans energetyczny.",
+        "Maksymalne wykorzystanie odnawialnych źródeł energii.",
+        "Ujemny bilans energetyczny."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW gospodarstwie ekologicznym nawóz naturalny, zastosowany w ciągu roku, nie może zawierać więcej niż … azotu w czystym składniku na 1 ha użytków rolnych.",
+      "options": [
+        "170 kg",
+        "130 kg"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeśli ilość nawozów naturalnych przekracza dopuszczalną normę, rolnik powinien zmniejszyć obsadę inwentarza albo przekazać nadwyżkę innym producentom.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Nawozy naturalne oraz organiczne w postaci stałej oraz płynnej należy wykorzystać tylko pomiędzy:",
+      "options": [
+        "1 czerwca a 30 grudnia.",
+        "1 czerwca a 30 listopada.",
+        "1 stycznia a 30 marca.",
+        "1 marca a 30 czerwca.",
+        "1 marca a 30 listopada."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa glebach zalanych wodą, przykrytych śniegiem lub zamarzniętych do głębokości … zabrania się stosowania nawozów naturalnych oraz mineralnych.",
+      "options": [
+        "30 cm",
+        "20 cm"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozów naturalnych nie można stosować w odległości do 40 m od wód powierzchniowych, stref ochrony wód i obszarów morskiego pasa nadbrzeżnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Gdzie można stosować ścieki?",
+      "options": [
+        "W uprawie roślin przeznaczonych do bezpośredniego spożycia przez ludzi i zwierzęta.",
+        "Na gruntach ornych o spadku większym niż 10%.",
+        "Na łąkach, pastwiskach i plantacjach drzew leśnych o spadku 20% i więcej.",
+        "Na dnie stawów ziemnych wykorzystywanych do chowu i hodowli ryb."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nStosowanie wypalania roślin prowadzi do … żyzności.",
+      "options": [
+        "zwiększenia",
+        "zmniejszenia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo obowiązków rolnika należy przeciwdziałanie degradacji gleb, szczególnie ich ochrona przed erozją.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z informacji na temat właściwego stosowania środków ochrony roślin w gospodarstwie ekologicznym są prawdziwe?",
+      "options": [
+        "Środki ochrony roślin na terenie otwartym można stosować podczas pogody bezwietrznej, w miejscach oddalonych co najmniej 50 m od budynków mieszkalnych.",
+        "Jeśli efektywność biologicznych i agrotechnicznych metod ochrony roślin jest niewystarczająca, rolnik może zastosować środki chemiczne.",
+        "Rolnicy są zobowiązani do przestrzegania okresów karencji przy stosowaniu środków ochrony roślin."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNawozy organiczne powinny być wytworzone w gospodarstwie ekologicznym. Zakup nawozów organicznych z ekstensywnych gospodarstw konwencjonalnych jest ….",
+      "options": [
+        "zabroniony",
+        "dozwolony"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMożna wypasać zwierzęta na terenach źródliskowych i w bezpośrednim sąsiedztwie wód powierzchniowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakich preparatów nie dopuszcza się do stosowania w rolnictwie ekologicznym?",
+      "options": [
+        "Syntetycznych regulatorów wzrostu.",
+        "Wyciągów roślinnych.",
+        "Substancji feromonowych.",
+        "Preparatów wirusowych.",
+        "Preparatów bakteryjnych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nLeki alopatyczne jak antybiotyki i sulfonamidy są ….",
+      "options": [
+        "całkowicie zabronione",
+        "dozwolone warunkowo"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnictwo ekologiczne wykorzystuje minerały fosforowe i potasowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gospodarka na użytkach zielonych wiąże się z elementami ochrony:",
+      "options": [
+        "wód.",
+        "gruntów rolnych.",
+        "krajobrazu bioróżnorodności."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW rolnictwie ekologicznym szczepienia ochronne zwierząt są ….",
+      "options": [
+        "zabronione",
+        "dozwolone w przypadku wymagań urzędowych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamowystarczalność paszowo-nawozową umożliwia obsada zwierząt 1,5–3,5 SD/ha.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Cechą rolnictwa ekologicznego nie jest:",
+      "options": [
+        "ochrona gleby, wód i powietrza,",
+        "dobre przechowywanie się plonów.",
+        "stosowanie naturalnych nawozów.",
+        "maksymalizacja ilości plonów.",
+        "optymalne plony."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW rolnictwie ekologicznym głównym celem nawożenia jest ….",
+      "options": [
+        "podwyższenie aktywności biologicznej gleby",
+        "żywienie roślin"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWypalanie słomy, ściernisk, roślinności na miedzach i rowach jest prawnie zabronione.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z działań są zabronione przy procesie ochrony siedlisk przyrodniczych?",
+      "options": [
+        "Odwadnianie obszarów bagiennych.",
+        "Likwidowanie naturalnych zbiorników wodnych.",
+        "Niszczenie, usuwanie zadrzewień śródpolnych i przydrożnych.",
+        "Zabijanie dziko występujących zwierząt.",
+        "Dokarmianie dzikich zwierząt w okresie zimowym."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZmniejszanie zawartości substancji organicznej, niekorzystne zmiany w składzie mikroflory i mikrofauny glebowej to degradacja ….",
+      "options": [
+        "biologiczna",
+        "fizyczna"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdprowadzanie ścieków bytowych bezpośrednio do rowów melioracyjnych jest dozwolone w okresie od maja do października.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Obowiązkiem dostawcy ścieków jest badanie mikrobiologiczne ich składu co najmniej raz na",
+      "options": [
+        "6 miesięcy.",
+        "rok.",
+        "2 miesiące.",
+        "3 miesiące."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZabrania się stosowania nawozów naturalnych w postaci płynnej oraz azotowych na stokach bez pokrywy roślinnej o nachyleniu powyżej ….",
+      "options": [
+        "5 %",
+        "10 %"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnicy zobowiązani są do posiadania miejsc do gromadzenia odpadów komunalnych wytworzonych na terenie gospodarstwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W systemie rolnictwa ekologicznego występują:",
+      "options": [
+        "określone wymagania dotyczą jakości powietrza, wody i gleby.",
+        "płodozmiany rozbudowane i wielopolowe.",
+        "dobór odmian ukierunkowany na wysokość plonu.",
+        "znaczny udział roślin motylkowatych.",
+        "dobór odmian stabilnych genetycznie."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW rolnictwie konwencjonalnym chwasty zwalcza się przede wszystkim przy użyciu ….",
+      "options": [
+        "herbicydów",
+        "mulczowania"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStały dopływ NPK w obiegu materii i energii jest w rolnictwie ekologicznym niezbędny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Strata składników pokarmowych, nagromadzenie substancji szkodliwych, zakwaszenie i zasolenie gleby to degradacja",
+      "options": [
+        "biologiczna.",
+        "fizyczna.",
+        "chemiczna.",
+        "chemiczno-biologiczna."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWieloskładnikowe produkty przetworzone muszą zawierać co najmniej … składników ekorolniczych, by dany środek spożywczy mógł być oznakowany jako produkt rolnictwa ekologicznego.",
+      "options": [
+        "85%",
+        "95%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Mikroorganizmy zmienione w drodze inżynierii genetycznej (GMO), ani ich produkty, nie mogą być wykorzystywane w przetwórstwie ekorolniczym, natomiast napromienianie żywności jest dozwolone.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W ekorolnictwie dobór gatunków, odmian i ras zwierząt dokonywany jest w oparciu o:",
+      "options": [
+        "populacje miejscowe.",
+        "wymogi rynku.",
+        "rasy i odmiany miejscowe.",
+        "odporność zwierząt na choroby."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW bilansie nawozowym bardzo ważną rolę odgrywają rośliny motylkowate wzbogacające glebę w ….",
+      "options": [
+        "tlen",
+        "azot"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosowanie się do przepisów wzajemnej zgodności nie jest jeszcze obowiązkowe dla wszystkich gospodarstw. Wszystkie wymogi zaczną obowiązywać w Polsce od 1 stycznia 2015 roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Obecność zwierząt wymusza włączenie do uprawy....",
+      "options": [
+        "roślin pastewnych.",
+        "roślin oleistych.",
+        "roślin włóknistych.",
+        "roślin okopowych.",
+        "roślin motylkowych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŚrodki ochrony roślin powinny być stosowane w dawce … z zalecanych ilości.",
+      "options": [
+        "najniższej",
+        "najwyższej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNależy wywozić obornik późnym latem lub wczesną jesienią z uwagi na możliwe straty azotu poprzez wymywanie do wód podziemnych w innych okresach roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "W gospodarstwie ekologicznym środki ochrony roślin powinny być stosowane w dawce...",
+      "options": [
+        "najniższej z zalecanych.",
+        "najwyższej z zalecanych.",
+        "uzależnionej od potrzeb."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W gospodarstwie ekologicznym dąży się do zrównoważenia produkcji roślinnej i zwierzęcej tak, by osiągnąć równowagę paszowo-nawozową.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W rolnictwie ekologicznym gatunki i odmiany roślin oraz zwierząt dobiera się w oparciu o:",
+      "options": [
+        "rasy i odmiany miejscowe.",
+        "odporność zwierząt na choroby.",
+        "populacje miejscowe.",
+        "wymogi rynku."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Obowiązkiem dostawcy ścieków jest badanie mikrobiologiczne ich składu nie rzadziej niż raz na...",
+      "options": [
+        "rok.",
+        "2 miesiące.",
+        "6 miesięcy.",
+        "3 miesiące."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPolska po wejściu do Unii Europejskiej nie otrzymała dopłat do rolnictwa ekologicznego, stąd zapotrzebowanie na jego produkty i zainteresowanie tą dziedziną gospodarki znacznie zmalały w ostatnich latach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Nawozy naturalne oraz organiczne w postaci stałej oraz płynnej można stosować pomiędzy...",
+      "options": [
+        "1 czerwca a 30 listopada.",
+        "1 czerwca a 30 grudnia.",
+        "1 marca a 30 listopada.",
+        "1 stycznia a 30 marca.",
+        "1 marca a 30 czerwca."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "W ekorolnictwie zabrania się stosowania...",
+      "options": [
+        "substancji feromonowych.",
+        "syntetycznych regulatorów wzrostu.",
+        "preparatów wirusowych.",
+        "preparatów bakteryjnych.",
+        "wyciągów roślinnych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawóz naturalny, zastosowany w ciągu roku, nie może zawierać więcej niż 130 kg azotu w czystym składniku na 1 ha użytków rolnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W ekorolnictwie dozwolone jest stosowanie ścieków w następującym przypadku:",
+      "options": [
+        "na gruntach ornych o spadku większym niż 10%.",
+        "na dna stawów ziemnych wykorzystywanych do chowu i hodowli ryb.",
+        "w uprawie roślin przeznaczonych do bezpośredniego spożycia przez ludzi i zwierzęta.",
+        "na łąki, pastwiska i plantacje drzew leśnych o spadku 20% i więcej."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jeśli w gospodarstwie ekologicznym ilość nawozów naturalnych przekracza dopuszczalną normę, rolnik:",
+      "options": [
+        "może przechować nadwyżki do wykorzystania zimą.",
+        "może zużyć nadwyżki wedle własnego uznania.",
+        "powinien przekazać nadwyżkę innym producentom.",
+        "powinien zmniejszyć obsadę inwentarza."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa glebach zalanych wodą, przykrytych śniegiem lub zamarzniętych do głębokości 30 cm zabrania się stosowania nawozów naturalnych oraz mineralnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zgodnie z zasadą wzajemnej zgodności dokumentacja leczenia zwierząt gospodarskich musi być przechowywana przez utrzymującego zwierzęta przez...",
+      "options": [
+        "8 lat od daty dokonania ostatniego wpisu.",
+        "3 lata od daty dokonania ostatniego wpisu.",
+        "2 lata od daty dokonania ostatniego wpisu.",
+        "5 lat od daty dokonania ostatniego wpisu."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Który rodzaj degradacji opisują poniższe cechy?\nStrata składników pokarmowych, nagromadzenie substancji szkodliwych, zakwaszenie i zasolenie gleby.",
+      "options": [
+        "Degradację fizyczną.",
+        "Degradację biologiczną.",
+        "Degradację chemiczną.",
+        "Degradację chemiczno-biologiczną."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWypalanie roślin prowadzi do zwiększenia żyzności gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nNawozy organiczne powinny być wytworzone w gospodarstwie. Zakup nawozów organicznych z ekstensywnych gospodarstw konwencjonalnych jest zabroniony.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Hodowla zwierząt powoduje, że do uprawy w gospodarstwie włącza się...",
+      "options": [
+        "rośliny pastewne.",
+        "rośliny oleiste.",
+        "rośliny włókniste.",
+        "rośliny motylkowe.",
+        "rośliny okopowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLeki alopatyczne, takie jak antybiotyki i sulfonamidy, są warunkowo dozwolone.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Cechą rolnictwa ekologicznego nie jest...",
+      "options": [
+        "stosowanie naturalnych nawozów.",
+        "ochrona gleby, wód i powietrza.",
+        "maksymalizacja ilości plonów.",
+        "dobre przechowywanie plonów."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczepienia ochronne zwierząt w ekorolnictwie są dozwolone w przypadku wymagań urzędowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż cechę rolnictwa konwencjonalnego.",
+      "options": [
+        "Niskie nakłady rzeczowe i niskie zużycie energii.",
+        "Dbałość o utrzymanie okrywy roślinnej.",
+        "Stosowanie płodozmianów, ochrona środowiska naturalnego.",
+        "Upowszechnienie syntetycznych nawozów mineralnych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jaka jest skrócona nazwa Międzynarodowej Federacji Rolnictwa Ekologicznego?",
+      "options": [
+        "ECOFR",
+        "TOMFG",
+        "FGRM",
+        "IFOAM",
+        "IOGRM"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie ekologicznym celem nawożenia jest podwyższenie aktywności biologicznej gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile czasu musi wynosić minimalna rotacja odpowiednio zaplanowanego płodozmianu w rolnictwie ekologicznym?",
+      "options": [
+        "6 miesięcy.",
+        "2 lata.",
+        "3 lata.",
+        "rok.",
+        "4 lata."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZmniejszanie zawartości substancji organicznej, niekorzystne zmiany w składzie mikroflory i mikrofauny glebowej to degradacja fizyczna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚrodki ochrony roślin na terenie otwartym można stosować podczas pogody bezwietrznej, w miejscach oddalonych co najmniej 5 m od dróg publicznych i co najmniej 20 m od budynków mieszkalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na jaki rodzaj produkcji ukierunkowane są konwencjonalne gospodarstwa specjalistyczne?",
+      "options": [
+        "Zawsze tylko na produkcję zwierzęcą.",
+        "Zawsze tylko na produkcję roślinną.",
+        "Na produkcję zwierzęcą i roślinną jednocześnie.",
+        "Albo na produkcję roślinną, albo na zwierzęcą."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZabrania się stosowania nawozów naturalnych w postaci płynnej oraz azotowych na stokach bez pokrywy roślinnej o nachyleniu powyżej 10%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie konwencjonalnym chwasty zwalcza się przy przede wszystkim przy zastosowaniu mulczowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakiej odległości od wód powierzchniowych, stref ochrony wód i obszarów morskiego pasa nadbrzeżnego, nie można stosować nawozów naturalnych?",
+      "options": [
+        "40m.",
+        "30m.",
+        "50m.",
+        "20m."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWieloskładnikowe produkty przetworzone muszą zawierać co najmniej 85% składników ekorolniczych, by dany środek spożywczy mógł być oznakowany jako produkt rolnictwa ekologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, które z określeń charakteryzują ekorolnictwo.",
+      "options": [
+        "Ujemny bilans energetyczny.",
+        "Maksymalne wykorzystanie odnawialnych źródeł energii.",
+        "Zrównoważony bilans energetyczny.",
+        "Niskie nakłady zewnętrzne."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEwidencja zabiegów wykonywanych przy użyciu środków ochrony roślin powinna zawierać informacje na temat rośliny i powierzchni, na której wykonano zabieg, termin wykonania zabiegu, nazwę zastosowanych środków ochrony roślin i ich dawki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW bilansie nawozowym bardzo ważną rolę odgrywają rośliny motylkowate wzbogacające glebę w tlen.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na których terenach zabrania się stosowania osadów ściekowych?",
+      "options": [
+        "Na polach z uprawami pod przykryciem.",
+        "Na glebach zamarzniętych i pokrytych śniegiem.",
+        "Na łąkach i pastwiskach.",
+        "Na gruntach rekultywowanych na cele rolnicze."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Intensywność erozji nie zależy od...",
+      "options": [
+        "rodzaju gleby.",
+        "rodzaju okrywy roślinnej.",
+        "ilości opadów.",
+        "kierunku i szybkości wiatru.",
+        "stabilności składu mikroflory i mikrofauny.",
+        "ukształtowania terenu."
+      ],
+      "answers": [
+        4
+      ]
+    }
+  ]
+}

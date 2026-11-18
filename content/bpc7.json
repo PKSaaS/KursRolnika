@@ -1,0 +1,1937 @@
+{
+  "id": "bpc7",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Rozród zwierząt – część 1",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Znajomość okresu dojrzewania płciowego i dojrzałości hodowlanej pozwala uniknąć błędów zbyt wczesnego przeznaczenia do rozmnażania.",
+        "Przygotowanie zwierząt do stanowienia powinno zacząć się przed planowanym rozrodem – decyduje o jego przebiegu i odsetku skutecznych zapłodnień.",
+        "Rozpoznanie etapów cyklu płciowego zwiększa skuteczność krycia, efektywność produkcyjną i rentowność gospodarstwa.",
+        "Istotna jest znajomość terminu owulacji względem pierwszych objawów rui – pozwala określić optymalny czas krycia.",
+        "Sztuczna inseminacja przyspiesza postęp hodowlany dzięki dokładniejszej selekcji ojców i większej wydajności nasienia.",
+        "Zakłócenia rozrodu to dodatkowe koszty: dłuższy okres produkcyjny, większe nakłady na żywienie, leczenie i odchów.",
+        "Metody wykrywania rui wykorzystują objawy u danych gatunków – niektóre wymagają specjalistycznego sprzętu, inne opierają się na obserwacji behawioru; istnieją metody krycia z bezpośrednim udziałem samca i umożliwiające zapłodnienie bez jego obecności."
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia – dojrzałość, cykl, ruja",
+      "points": [
+        "Wiek dojrzałości płciowej – zdolność organizmu do wytwarzania gamet zdolnych do zapłodnienia (u samic komórka jajowa, u samców dojrzałe plemniki).",
+        "Wiek dojrzałości rozpłodowej (hodowlanej) – dojrzałość fizjologiczna i psychiczna do zajścia w ciążę i urodzenia zdrowego potomstwa bez szkody dla organizmu.",
+        "Cykl płciowy – pojedynczy okres aktywności jajników przebiegający pod wpływem hormonów.",
+        "Owulacja – proces uwalniania gamet z pęcherzyka jajnikowego.",
+        "Ruja – faza cyklu płciowego, w której samica wykazuje gotowość do krycia.",
+        "Optymalny czas krycia/unasieniania – okres największej skuteczności zapłodnienia.",
+        "Długość procesu owulacyjnego jest różna u różnych gatunków zwierząt."
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia – ciąża, płód, poród",
+      "points": [
+        "Ciąża – proces fizjologiczny u samic ssaków od zapłodnienia do porodu.",
+        "Okres międzyciążowy – od zakończenia jednej ciąży do pierwszego dnia kolejnej; okres międzywycieleniowy – liczba dni od porodu do porodu.",
+        "Położenie płodu – stosunek osi długiej płodu do osi długiej matki: podłużne (proste) gdy zgodne; odchylenia: poprzeczne lub pionowe.",
+        "Ułożenie płodu – stosunek głowy lub kończyn do tułowia płodu; szczególnie ważne podczas porodu.",
+        "Postawa płodu – stosunek grzbietu płodu do grzbietu matki: górna (grzbiet do grzbietu), dolna (grzbiet do brzucha matki), prawo- lub lewoboczna.",
+        "Błony płodowe – kosmówka, owodnia i omocznia; odżywianie, kontakt z łożyskiem matczynym, gromadzenie produktów przemiany materii.",
+        "Poród – etap kończący ciążę: wydalenie płodu i łożyska z macicy.",
+        "Siara – wydzielina gruczołu mlekowego z końca ciąży, pobierana w pierwszych dniach; więcej białek niż mleko, w tym przeciwciała zapewniające odporność przez pierwsze tygodnie życia.",
+        "Ułożenie płodu odgrywa szczególną rolę w czasie porodu, kiedy płód zmienia pozycję wskutek skurczów porodowych.",
+        "Błony płodowe (otoczki jajowe) początkowo pobierają substancje odżywcze z wydzieliny macicy, później przez naczynia włosowate utrzymują kontakt z łożyskiem matczynym i wymianę substancji między matką a płodem."
+      ]
+    },
+    {
+      "heading": "2. Parametry rozrodu – uwagi ogólne",
+      "points": [
+        "Parametry rozrodu mają charakter orientacyjny i różnią się między rasami.",
+        "Ciąża u kotów syjamskich trwa średnio 66 dni; długość ciąży może zależeć od liczebności miotu.",
+        "Procesy mogą zależeć od żywienia czy długości dnia świetlnego; okres rui może być różny w różnych cyklach u tej samej suki.",
+        "Dojrzałość płciowa u trzody chlewnej zależy od masy ciała.",
+        "Okresy międzyrujowe krów zależą od długości laktacji i czasu do kolejnej rui."
+      ]
+    },
+    {
+      "heading": "2. Tabela parametrów rozrodu (Tab. 7.1)",
+      "points": [
+        "Dojrzałość płciowa: bydło 6–16 mies., konie 10–18 mies., knury 2–3 mies., lochy 4–5 mies., owce 6–8 mies., koty 6–12 mies., psy 6–12 mies.",
+        "Dojrzałość rozpłodowa: bydło 15–18 mies., konie 2–4 lata, knury 6–10 mies., lochy 8–10 mies., owce 12–18 mies., koty 7–12 mies., psy 12–13 mies.",
+        "Zanikanie aktywności rozrodczej: bydło 15–26 lat, konie 15–25 lat, świnie 10 lat, owce 10 lat.",
+        "Długość cyklu płciowego: bydło 21 dni, konie 11 dni (tak w tabeli 7.1 – prawdopodobnie błąd; zwykle ok. 21 dni, w module 3: 21–28 dni), świnie 21 dni, owce 17 dni, koty 14–21 dni, psy 6 mies.",
+        "Długość rui: bydło 6–36 godz. (średnio 15 godz.), świnie 48–72 godz., owce 30 godz., koty 4–10 dni, psy 7–9 dni.",
+        "Długość ciąży: bydło 9 mies., konie 11 mies., świnie 4 mies., owce 5 mies., koty 2 mies., psy 2 mies.",
+        "Długość rui u koni wg tabeli 7.1: 2–13 dni (w tekście: ruja klaczy 3–12 dni).",
+        "Dojrzałość płciowa kotów i psów: 6–12 mies.; długość cyklu płciowego kotów: 14–21 dni; zanikanie aktywności rozrodczej – brak danych dla kotów i psów."
+      ],
+      "images": [
+        {
+          "src": "img/bpc7/tabela-parametry-rozrodu.jpg",
+          "caption": "Tabela 7.1 – parametry rozrodu (bydło, konie, świnie, owce, koty, psy): dojrzałość płciowa i rozpłodowa, okres zanikania aktywności rozrodczej, długość cyklu płciowego, długość rui i ciąży."
+        }
+      ]
+    },
+    {
+      "heading": "3. Przygotowanie do okresu rozrodczego",
+      "points": [
+        "Stanowienie (u owiec – stanówka) wymaga podniesienia poziomu i jakości żywienia: białko, energia, składniki mineralne, witaminy.",
+        "Przed stanowieniem – korzystanie z wybiegów, badania kliniczne (zwłaszcza samców: ocena libido i nasienia), korekcja racic/kopyt, odrobaczenie.",
+        "U zwierząt towarzyszących również ważna poprawa żywienia i odrobaczanie.",
+        "W czasie stanowienia: dobre warunki bytowe, ściółka, temperatura i wilgotność wg zaleceń dla gatunku, właściwe żywienie.",
+        "Należy minimalizować stres – wpływa na przebieg rozrodu i skuteczność krycia; rolę odgrywa też personel.",
+        "Wskazane jest doprowadzanie samicy do samca – samica bywa agresywna wobec obcego na swoim terytorium, a samiec w znanym otoczeniu jest pewniejszy (ważne zwłaszcza u zwierząt towarzyszących)."
+      ]
+    },
+    {
+      "heading": "4. Objawy rui – proestrus i estrus",
+      "points": [
+        "Objawy rujowe to zmiany w narządach płciowych i w zachowaniu samicy; fazy: przedrujowa (proestrus) i ruja właściwa (estrus).",
+        "Proestrus – dojrzewanie pęcherzyków: obrzęk i przekrwienie sromu, wydzielina z feromonami wabiącymi samce, niepokój, spadek apetytu, porykiwanie/nawoływanie samca, zwiększona ruchliwość.",
+        "Estrus – dochodzi do owulacji (wyjątek: koty), samica gotowa do krycia, odruch tolerancji.",
+        "Objawy estrus: wyginanie grzbietu, wypinanie sromu, odstawianie ogona, obskakiwanie innych zwierząt, zwiększona produkcja śluzu pochwowego."
+      ]
+    },
+    {
+      "heading": "4. Wykrywanie rui i termin unasieniania – bydło",
+      "points": [
+        "Pedometry (krokomierze) wykrywają zwiększoną aktywność krów – skuteczność do 80%.",
+        "Urządzenia typu Kamar na grzbiecie krowy znakują farbą samicę obskakiwaną przez inne zwierzęta.",
+        "Można użyć samca z operacyjnie przemieszczonym prąciem – obskakuje samice w rui, ale nie zapładnia.",
+        "Oporność śluzu pochwowego spada w proestrus do minimum (≤ 200), potem gwałtownie rośnie – owulacja w ciągu kilkunastu godzin.",
+        "Ruja u bydła trwa 6–36 godzin; owulacja może nastąpić w ciągu 30 godzin od początku objawów estrus.",
+        "Unasienianie/krycie w 15–18 godzin od pierwszych objawów rui: ruja rano → inseminacja wieczorem; ruja wieczorem → rano.",
+        "Reinseminację lub ponowne krycie można wykonać 12 godzin po pierwszym zdeponowaniu nasienia.",
+        "Metody wykrywania rui stosuje się ze względu na trudności w indywidualnej obserwacji zwierząt w chowie wielkostadnym.",
+        "Ze względu na małą precyzję określenia czasu uwolnienia komórki jajowej przyjmuje się termin 15–18 godzin od pierwszych objawów rui; reinseminacja podnosi efektywność zabiegu."
+      ]
+    },
+    {
+      "heading": "4. Termin krycia – klacze i świnie",
+      "points": [
+        "U klaczy ruja trwa 3–12 dni; owulacja 24–48 godzin przed jej zakończeniem.",
+        "Najbardziej wiarygodne u klaczy: USG i ocena pęcherzyka – przy średnicy 4 cm można kryć/unasieniać; inna metoda – badanie przez prostnicę.",
+        "Klacze ze skłonnością do bardzo krótkiej rui – unasienianie/krycie już pierwszego dnia.",
+        "Świnie: obserwacja lochy w obecności knura lub nagranych odgłosów samca, próba dosiadania (locha w bezruchu, srom obrzmiały i zaczerwieniony), pomiar oporności śluzu.",
+        "U świń ruja trwa 48–72 godziny; owulacja ok. 36–55 godziny od pierwszych objawów; uwalnianie komórek trwa ok. 1–8 godzin, niezależnie od liczby pęcherzyków.",
+        "Badanie klaczy przez prostnicę – ocena wielkości i ścian pęcherzyka jajnikowego.",
+        "U loch powstaje i pęka wiele pęcherzyków; w okresie owulacji najlepiej wykonać sztuczną inseminację lub krycie."
+      ]
+    },
+    {
+      "heading": "4. Termin krycia – suki i kotki",
+      "points": [
+        "Suki: objawem rui jest zwiększone zainteresowanie samców; jasnoczerwony wypływ, zmniejszający się obrzęk sromu przy wyraźnej jego prezentacji.",
+        "Suki: błona śluzowa z bladoróżowej staje się blada i sucha; wydzielina barwy popłuczyn mięsnych; widoczne wtórne fałdy i obrzęk części szyjkowej.",
+        "Inne metody u suk: poziom progesteronu we krwi, cytologia wymazu z pochwy – w optymalnym okresie przeważają komórki zrogowaciałe.",
+        "Kotki: ruja dobrze widoczna od 1. dnia – wokalizacja, wypinanie grzbietu, dreptanie tylnymi łapami, odstawianie ogona.",
+        "U kotek owulacja prowokowana – następuje dopiero po kilkukrotnej kopulacji.",
+        "Krycie kotki przez kilka dni, począwszy od 2.–3. dnia rui; bez kopulacji brak owulacji i szybsza kolejna ruja; po owulacji przerwa może wydłużyć się nawet do 75 dni.",
+        "Przy sztucznym unasienianiu kotki konieczna jest stymulacja hormonalna wywołująca owulację.",
+        "Suki: wyraźny opór przy wziernikowaniu; obrzęk sromu mniejszy niż na początku cieczki; cytologia określa udział poszczególnych frakcji komórkowych w barwionym wymazie.",
+        "Kotki: po kilkukrotnej kopulacji wzrasta poziom hormonów, co inicjuje uwolnienie komórki jajowej; w przypadku ciąży lub nieskutecznego krycia z owulacją przerwa do kolejnej rui wydłuża się (nawet do 75 dni)."
+      ]
+    },
+    {
+      "heading": "4. Rozród drobiu i inseminacja ptaków",
+      "points": [
+        "U drobiu powszechne jest krycie naturalne z uwzględnieniem liczby samców na samicę.",
+        "U indyków i drobiu mięsnego wskazana sztuczna inseminacja – duża różnica masy samca i samicy (urazy, nieskuteczne krycie).",
+        "Zalety: szybszy postęp hodowlany, mniejsze ryzyko chorób, efektywne wykorzystanie nasienia, krzyżowanie międzygatunkowe (kaczki pekin × kaczory piżmowe = mulardy).",
+        "Pobranie nasienia: masaż grzbietu, stymulacja w obecności samicy, elektrostymulacja.",
+        "Ocena nasienia: objętość ejakulatu, barwa, zanieczyszczenia (kał, krew, konsystencja żelowa), koncentracja, ruchliwość i morfologia plemników.",
+        "Unasienianie – nasienie do części pochwowej jajowodu pipetą lub pistoletem; jak najszybciej po pobraniu, bo plemniki szybko tracą zdolność zapładniania in vitro.",
+        "Sztuczna inseminacja drobiu, podobnie jak u ssaków, obejmuje 3 etapy: pobranie nasienia, ocenę nasienia, unasienianie samic."
+      ]
+    },
+    {
+      "heading": "5. Metody krycia – naturalne",
+      "points": [
+        "Metody krycia: naturalne i sztuczne.",
+        "Na dziko (wolne) – wiele samic i samców; brak kontroli, który samiec pokryje; możliwe walki samców.",
+        "Haremowe – jeden samiec w stadzie kilku samic; brak kontroli nad terminem krycia utrudnia określenie terminu porodu.",
+        "Z ręki – do samicy w rui doprowadza się konkretnego samca; wymaga więcej zaangażowania (czasem kilka podejść)."
+      ],
+      "images": [
+        {
+          "src": "img/bpc7/metody-krycia.jpg",
+          "caption": "Metody krycia: naturalne – na dziko (wolne), haremowe, z ręki; sztuczne – inseminacja nasieniem świeżym, inseminacja nasieniem mrożonym."
+        }
+      ]
+    },
+    {
+      "heading": "5. Metody krycia – sztuczne unasienianie",
+      "points": [
+        "Metody sztuczne: inseminacja nasieniem świeżym lub mrożonym oraz transfer zarodków (najczęściej u bydła).",
+        "Zalety SI: badanie laboratoryjne zapobiega szerzeniu chorób, ocena jakości nasienia, brak potrzeby własnego samca (niższe koszty), nasienie z różnych krajów, więcej samic z jednego ejakulatu, użycie po śmierci samca.",
+        "Nasienie świeże ma krótki termin przydatności (zamieralność plemników); mrożone wymaga określonych warunków przechowywania.",
+        "SI pozwala uniknąć sytuacji, gdy samiec nie chce kryć danej samicy; ocena jakości nasienia pozwala wykluczyć wadliwe próbki."
+      ]
+    },
+    {
+      "heading": "5. Transfer zarodków",
+      "points": [
+        "W Polsce transfer zarodków nie znalazł jeszcze szerszego zastosowania; wymaga krowy dawczyni i krowy surogatki.",
+        "Stymulacja hormonalna dawczyni wywołuje superowulację – wytworzenie większej liczby komórek jajowych; potem standardowe unasienienie w rui.",
+        "Po ok. tygodniu zarodki wypłukuje się cewnikiem (przed zagnieżdżeniem); uzyskuje się 10–20 zarodków, martwe są odrzucane.",
+        "Biorczynie muszą być w 6.–7. dniu po rui – ciałko żółte produkuje progesteron podtrzymujący ciążę.",
+        "Jednorazowo przenosi się 3–4 zarodki na jedną surogatkę; mniej może być nieefektywne.",
+        "Zarodki można zamrażać (brak matek zastępczych, bank cennych zwierząt i gatunków zagrożonych).",
+        "Organizm surogatki przygotowuje się odpowiednimi preparatami do przyjęcia zarodka i dalszej ciąży.",
+        "Transfer zarodków umożliwia uzyskanie w tym samym czasie licznego potomstwa o pożądanych cechach krowy dawczyni i wybranego ojca."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Wiek dojrzałości płciowej",
+      "back": "Zdolność organizmu do wytwarzania gamet zdolnych do zapłodnienia."
+    },
+    {
+      "front": "Wiek dojrzałości rozpłodowej (hodowlanej)",
+      "back": "Dojrzałość fizjologiczna i psychiczna do zajścia w ciążę i urodzenia zdrowego potomstwa bez szkody dla organizmu."
+    },
+    {
+      "front": "Cykl płciowy",
+      "back": "Pojedynczy okres aktywności jajników przebiegający pod wpływem hormonów."
+    },
+    {
+      "front": "Owulacja",
+      "back": "Proces uwalniania gamet z pęcherzyka jajnikowego."
+    },
+    {
+      "front": "Ruja",
+      "back": "Faza cyklu płciowego, w której samica wykazuje gotowość do krycia."
+    },
+    {
+      "front": "Ciąża",
+      "back": "Proces fizjologiczny u samic ssaków od zapłodnienia do porodu."
+    },
+    {
+      "front": "Okres międzywycieleniowy",
+      "back": "Liczba dni od jednego porodu do kolejnego."
+    },
+    {
+      "front": "Okres międzyciążowy",
+      "back": "Czas od zakończenia jednej ciąży do pierwszego dnia kolejnej."
+    },
+    {
+      "front": "Położenie płodu",
+      "back": "Stosunek osi długiej płodu do osi długiej ciała matki."
+    },
+    {
+      "front": "Położenie podłużne (proste)",
+      "back": "Gdy oś długa płodu jest zgodna z osią długą matki."
+    },
+    {
+      "front": "Odchylenia od położenia podłużnego",
+      "back": "Położenie poprzeczne lub pionowe."
+    },
+    {
+      "front": "Ułożenie płodu",
+      "back": "Stosunek głowy lub kończyn płodu do jego tułowia."
+    },
+    {
+      "front": "Postawa płodu",
+      "back": "Stosunek grzbietu płodu do grzbietu matki."
+    },
+    {
+      "front": "Postawa górna płodu",
+      "back": "Grzbiet płodu skierowany do grzbietu matki."
+    },
+    {
+      "front": "Postawa dolna płodu",
+      "back": "Grzbiet płodu skierowany do brzucha matki."
+    },
+    {
+      "front": "Trzy podstawowe błony płodowe",
+      "back": "Kosmówka, owodnia, omocznia."
+    },
+    {
+      "front": "Poród",
+      "back": "Etap kończący ciążę – wydalenie płodu i łożyska z macicy."
+    },
+    {
+      "front": "Siara – czym różni się od mleka?",
+      "back": "Zawiera dużo więcej białek, w tym gotowe przeciwciała dające odporność przez pierwsze tygodnie życia."
+    },
+    {
+      "front": "Ile średnio trwa ciąża u kotów syjamskich?",
+      "back": "66 dni."
+    },
+    {
+      "front": "Od czego zależy dojrzałość płciowa trzody chlewnej?",
+      "back": "Od masy ciała."
+    },
+    {
+      "front": "Od czego zależą okresy międzyrujowe krów?",
+      "back": "Od długości laktacji i czasu do wejścia w kolejną ruję."
+    },
+    {
+      "front": "Dojrzałość płciowa bydła",
+      "back": "6–16 mies."
+    },
+    {
+      "front": "Dojrzałość płciowa koni",
+      "back": "10–18 mies."
+    },
+    {
+      "front": "Dojrzałość płciowa knurów i loch",
+      "back": "Knury 2–3 mies., lochy 4–5 mies."
+    },
+    {
+      "front": "Dojrzałość płciowa owiec",
+      "back": "6–8 mies."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa bydła",
+      "back": "15–18 mies."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa koni",
+      "back": "2–4 lata."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa knurów i loch",
+      "back": "Knury 6–10 mies., lochy 8–10 mies."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa owiec",
+      "back": "12–18 mies."
+    },
+    {
+      "front": "Dojrzałość rozpłodowa kotów i psów",
+      "back": "Koty 7–12 mies., psy 12–13 mies."
+    },
+    {
+      "front": "Zanikanie aktywności rozrodczej bydła i koni",
+      "back": "Bydło 15–26 lat, konie 15–25 lat."
+    },
+    {
+      "front": "Długość cyklu płciowego bydła i świń",
+      "back": "21 dni."
+    },
+    {
+      "front": "Długość cyklu płciowego koni",
+      "back": "11 dni wg tabeli 7.1 materiału – prawdopodobnie błąd w źródle; zwykle cykl płciowy klaczy trwa ok. 21 dni (moduł 3 podaje 21–28 dni)."
+    },
+    {
+      "front": "Długość cyklu płciowego owiec",
+      "back": "17 dni."
+    },
+    {
+      "front": "Długość cyklu płciowego psów",
+      "back": "6 mies."
+    },
+    {
+      "front": "Długość rui u bydła",
+      "back": "6–36 godz. (średnio 15 godz.)."
+    },
+    {
+      "front": "Długość rui u świń",
+      "back": "48–72 godz."
+    },
+    {
+      "front": "Długość rui u owiec",
+      "back": "30 godz."
+    },
+    {
+      "front": "Długość rui u kotów i psów",
+      "back": "Koty 4–10 dni, psy 7–9 dni."
+    },
+    {
+      "front": "Długość ciąży: bydło, konie",
+      "back": "Bydło 9 mies., konie 11 mies."
+    },
+    {
+      "front": "Długość ciąży: świnie, owce",
+      "back": "Świnie 4 mies., owce 5 mies."
+    },
+    {
+      "front": "Długość ciąży: koty, psy",
+      "back": "2 mies."
+    },
+    {
+      "front": "Stanówka",
+      "back": "Okres stanowienia (rozrodczy) u owiec."
+    },
+    {
+      "front": "Jak zmienia się żywienie przed stanowieniem?",
+      "back": "Podnosi się poziom i jakość żywienia – białko, energia, składniki mineralne, witaminy."
+    },
+    {
+      "front": "Co obejmują badania kliniczne samców przed stanowieniem?",
+      "back": "Ocenę libido i ocenę nasienia."
+    },
+    {
+      "front": "Zabiegi przed okresem rozrodczym (poza żywieniem)",
+      "back": "Wybiegi, badania kliniczne, korekcja racic/kopyt, odrobaczenie."
+    },
+    {
+      "front": "Kogo do kogo się doprowadza przy kryciu i dlaczego?",
+      "back": "Samicę do samca – samica bywa agresywna wobec obcego na swoim terytorium, samiec w znanym otoczeniu jest pewniejszy."
+    },
+    {
+      "front": "Proestrus",
+      "back": "Faza przedrujowa – dojrzewanie pęcherzyków jajnikowych."
+    },
+    {
+      "front": "Objawy proestrus",
+      "back": "Obrzęk i przekrwienie sromu, wydzielina z feromonami, niepokój, spadek apetytu, nawoływanie samca, zwiększona ruchliwość."
+    },
+    {
+      "front": "Estrus",
+      "back": "Ruja właściwa – owulacja (wyjątek: koty), gotowość do krycia, odruch tolerancji."
+    },
+    {
+      "front": "Objawy odruchu tolerancji",
+      "back": "Wyginanie grzbietu, wypinanie sromu, odstawianie ogona, obskakiwanie innych, więcej śluzu pochwowego."
+    },
+    {
+      "front": "Skuteczność pedometrów w wykrywaniu rui krów",
+      "back": "Do 80%."
+    },
+    {
+      "front": "Urządzenie Kamar",
+      "back": "Umieszczane na grzbiecie krowy; znakuje farbą samicę obskakiwaną w rui."
+    },
+    {
+      "front": "Samiec z operacyjnie przemieszczonym prąciem",
+      "back": "Obskakuje samice w rui (wykrywa ją), ale nie zapładnia."
+    },
+    {
+      "front": "Oporność śluzu pochwowego w proestrus",
+      "back": "Spada do minimum (≤ 200), potem gwałtownie rośnie – owulacja w ciągu kilkunastu godzin."
+    },
+    {
+      "front": "Kiedy unasieniać krowę?",
+      "back": "15–18 godzin od pierwszych objawów rui (ruja rano → wieczorem, ruja wieczorem → rano)."
+    },
+    {
+      "front": "Owulacja u krowy – w jakim czasie od początku estrus?",
+      "back": "W okresie 30 godzin."
+    },
+    {
+      "front": "Kiedy można wykonać reinseminację krowy?",
+      "back": "12 godzin po pierwszym zdeponowaniu nasienia."
+    },
+    {
+      "front": "Długość rui u klaczy i termin owulacji",
+      "back": "3–12 dni; owulacja 24–48 godzin przed końcem rui."
+    },
+    {
+      "front": "Przy jakiej średnicy pęcherzyka kryje się klacz?",
+      "back": "4 cm (ocena USG)."
+    },
+    {
+      "front": "Najbardziej wiarygodna metoda określania terminu krycia klaczy",
+      "back": "Badanie ultrasonograficzne pęcherzyka jajnikowego."
+    },
+    {
+      "front": "Klacz z bardzo krótką rują – kiedy kryć?",
+      "back": "Już pierwszego dnia rui."
+    },
+    {
+      "front": "Objawy rui lochy przy próbie dosiadania",
+      "back": "Pozostaje w bezruchu; srom obrzmiały i zaczerwieniony."
+    },
+    {
+      "front": "Kiedy owulacja u lochy?",
+      "back": "Ok. 36–55 godziny od pierwszych objawów rui."
+    },
+    {
+      "front": "Ile trwa uwalnianie komórek jajowych u lochy?",
+      "back": "Ok. 1–8 godzin, niezależnie od liczby pęcherzyków."
+    },
+    {
+      "front": "Barwa wydzieliny dróg rodnych suki w optymalnym okresie",
+      "back": "Barwa popłuczyn mięsnych."
+    },
+    {
+      "front": "Jakie komórki przeważają w wymazie u suki w optymalnym okresie krycia?",
+      "back": "Komórki zrogowaciałe."
+    },
+    {
+      "front": "Badania laboratoryjne przy określaniu rui suki",
+      "back": "Poziom progesteronu we krwi, cytologia wymazu z pochwy."
+    },
+    {
+      "front": "Owulacja prowokowana – u kogo i na czym polega?",
+      "back": "U kotek – owulacja następuje dopiero po kilkukrotnej kopulacji."
+    },
+    {
+      "front": "Od którego dnia rui kryć kotkę?",
+      "back": "Od 2.–3. dnia, przez kilka dni."
+    },
+    {
+      "front": "Do ilu dni może wydłużyć się przerwa między rujami kotki po owulacji?",
+      "back": "Nawet do 75 dni."
+    },
+    {
+      "front": "Co jest konieczne przy sztucznym unasienianiu kotki?",
+      "back": "Stymulacja hormonalna wywołująca owulację."
+    },
+    {
+      "front": "Dlaczego u indyków stosuje się sztuczną inseminację?",
+      "back": "Duża różnica masy ciała samca i samicy – urazy i nieskuteczne krycie naturalne."
+    },
+    {
+      "front": "Mulardy",
+      "back": "Mieszańce kaczek pekin i kaczorów piżmowych (krzyżowanie międzygatunkowe dzięki SI)."
+    },
+    {
+      "front": "Metody pobierania nasienia od ptaków",
+      "back": "Masaż grzbietu, stymulacja w obecności samicy, elektrostymulacja."
+    },
+    {
+      "front": "Gdzie wprowadza się nasienie u kury?",
+      "back": "Do części pochwowej jajowodu (pipeta lub pistolet inseminacyjny)."
+    },
+    {
+      "front": "Krycie na dziko (wolne)",
+      "back": "Wiele samic i samców; brak kontroli, który samiec kryje; możliwe walki samców."
+    },
+    {
+      "front": "Krycie haremowe",
+      "back": "Jeden samiec w stadzie kilku samic; brak kontroli nad terminem krycia."
+    },
+    {
+      "front": "Krycie z ręki",
+      "back": "Do samicy w rui doprowadza się konkretnego samca."
+    },
+    {
+      "front": "Metody sztuczne rozrodu",
+      "back": "Inseminacja nasieniem świeżym lub mrożonym oraz transfer zarodków."
+    },
+    {
+      "front": "Wada nasienia świeżego",
+      "back": "Krótki termin przydatności (zamieralność plemników)."
+    },
+    {
+      "front": "Superowulacja",
+      "back": "Wytworzenie większej liczby komórek jajowych po stymulacji hormonalnej dawczyni."
+    },
+    {
+      "front": "Kiedy wypłukuje się zarodki od dawczyni i ile się uzyskuje?",
+      "back": "Po ok. tygodniu od unasienienia; 10–20 zarodków."
+    },
+    {
+      "front": "W którym dniu po rui musi być biorczyni zarodka?",
+      "back": "W 6.–7. dniu – ciałko żółte produkuje progesteron."
+    },
+    {
+      "front": "Ile zarodków przenosi się na jedną surogatkę?",
+      "back": "3–4."
+    },
+    {
+      "front": "Długość rui u koni wg tabeli 7.1",
+      "back": "2–13 dni (w tekście modułu: ruja klaczy trwa 3–12 dni)."
+    },
+    {
+      "front": "Długość cyklu płciowego kotów",
+      "back": "14–21 dni."
+    },
+    {
+      "front": "Dojrzałość płciowa kotów i psów",
+      "back": "6–12 mies."
+    },
+    {
+      "front": "Zanikanie aktywności rozrodczej świń i owiec",
+      "back": "Ok. 10 lat."
+    },
+    {
+      "front": "Etapy sztucznej inseminacji drobiu",
+      "back": "1. Pobranie nasienia, 2. ocena nasienia, 3. unasienianie samic (do części pochwowej jajowodu)."
+    },
+    {
+      "front": "Co obejmuje ocena nasienia ptaków?",
+      "back": "Objętość ejakulatu, barwę, stan zanieczyszczenia (kał, krew, żelowata konsystencja), koncentrację, ruchliwość i morfologię plemników."
+    },
+    {
+      "front": "Co daje transfer zarodków?",
+      "back": "Liczne potomstwo uzyskane w tym samym czasie, o pożądanych cechach krowy dawczyni i wybranego ojca."
+    },
+    {
+      "front": "Optymalny czas krycia/unasieniania – definicja",
+      "back": "Okres, w którym krycie lub unasienianie wykazuje największą skuteczność zapłodnienia."
+    },
+    {
+      "front": "Postawa prawo- lub lewoboczna płodu",
+      "back": "Grzbiet płodu zwrócony do prawego lub lewego boku matki."
+    },
+    {
+      "front": "Funkcje błon płodowych",
+      "back": "Początkowo pobieranie substancji odżywczych z wydzieliny macicy, później kontakt przez naczynia włosowate z łożyskiem matczynym i wymiana substancji między matką a płodem; gromadzenie produktów przemiany materii płodu."
+    },
+    {
+      "front": "Zalety sztucznej inseminacji (ssaki)",
+      "back": "Badanie laboratoryjne zapobiega szerzeniu chorób; ocena jakości nasienia i wykluczenie wadliwych próbek; brak potrzeby własnego samca (niższe koszty, brak problemu niechęci samca); nasienie z różnych krajów; pokrycie większej liczby samic; użycie nasienia po śmierci samca."
+    },
+    {
+      "front": "Zalety sztucznej inseminacji drobiu",
+      "back": "Szybszy postęp hodowlany, mniejsze ryzyko chorób, efektywniejsze wykorzystanie nasienia, możliwość krzyżowania międzygatunkowego (mulardy)."
+    },
+    {
+      "front": "Dlaczego unasienianie drobiu wykonuje się jak najszybciej po pobraniu nasienia?",
+      "back": "Plemniki szybko tracą zdolność zapładniania w warunkach in vitro."
+    },
+    {
+      "front": "Po co zamraża się zarodki?",
+      "back": "Przy braku matek zastępczych oraz do tworzenia rezerwy (banku) wyjątkowo cennych zwierząt lub gatunków zagrożonych."
+    },
+    {
+      "front": "Objawy rui u kotek",
+      "back": "Nasilona wokalizacja, wypinanie grzbietu, dreptanie na tylnych łapach, odstawianie ogona – widoczne już od 1. dnia rui."
+    },
+    {
+      "front": "Co dzieje się z kotką, gdy nie dojdzie do kopulacji?",
+      "back": "Nie ma owulacji, więc szybciej wchodzi w kolejną ruję."
+    },
+    {
+      "front": "Warunki w przebiegu stanowienia",
+      "back": "Jak najlepsze warunki bytowe, odpowiednia ściółka, temperatura i wilgotność wg zaleceń dla gatunku, właściwe żywienie, minimalizacja stresu."
+    },
+    {
+      "front": "Wada krycia z ręki",
+      "back": "Wymaga więcej zaangażowania – czasem konieczne jest kilka podejść."
+    },
+    {
+      "front": "Od czego może zależeć długość ciąży (poza gatunkiem i rasą)?",
+      "back": "Od liczebności miotu; procesy rozrodu zależą też od warunków środowiska, np. żywienia i długości dnia świetlnego."
+    },
+    {
+      "front": "Jakie koszty niosą zakłócenia rozrodu?",
+      "back": "Wydłużenie okresu produkcyjnego oraz większe nakłady na żywienie, leczenie i odchów młodych."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dojrzałość fizjologiczna i psychiczna do zajścia w ciążę i urodzenia zdrowego potomstwa to:",
+      "options": [
+        "dojrzałość rozpłodowa (hodowlana)",
+        "dojrzałość płciowa",
+        "cykl płciowy",
+        "ruja"
+      ],
+      "answer": 0,
+      "explain": "Wiek dojrzałości rozpłodowej to dojrzałość fizjologiczna i psychiczna do ciąży bez szkody dla organizmu."
+    },
+    {
+      "q": "Okres międzywycieleniowy to:",
+      "options": [
+        "czas od zapłodnienia do porodu",
+        "czas od porodu do pierwszej rui",
+        "czas trwania rui",
+        "liczba dni od jednego porodu do kolejnego"
+      ],
+      "answer": 3,
+      "explain": "Okres międzywycieleniowy to liczba dni od jednego porodu do kolejnego."
+    },
+    {
+      "q": "Stosunek grzbietu płodu do grzbietu matki to:",
+      "options": [
+        "położenie płodu",
+        "ułożenie płodu",
+        "postawa płodu",
+        "prezentacja łożyska"
+      ],
+      "answer": 2,
+      "explain": "Postawa płodu to stosunek grzbietu płodu do grzbietu matki."
+    },
+    {
+      "q": "Gdy grzbiet płodu skierowany jest do brzucha matki, mówimy o postawie:",
+      "options": [
+        "górnej",
+        "dolnej",
+        "prawobocznej",
+        "podłużnej"
+      ],
+      "answer": 1,
+      "explain": "Płód grzbietem do brzucha matki to postawa dolna."
+    },
+    {
+      "q": "Stosunek osi długiej płodu do osi długiej ciała matki to:",
+      "options": [
+        "postawa płodu",
+        "położenie płodu",
+        "ułożenie płodu",
+        "pozycja porodowa"
+      ],
+      "answer": 1,
+      "explain": "Położenie płodu to stosunek osi długiej płodu do osi długiej matki."
+    },
+    {
+      "q": "Do podstawowych błon płodowych nie należy:",
+      "options": [
+        "kosmówka",
+        "owodnia",
+        "łożysko",
+        "omocznia"
+      ],
+      "answer": 2,
+      "explain": "Trzy podstawowe błony płodowe to kosmówka, owodnia i omocznia."
+    },
+    {
+      "q": "Siara w porównaniu z mlekiem zawiera:",
+      "options": [
+        "dużo więcej białek, w tym przeciwciał",
+        "mniej białek i więcej laktozy",
+        "wyłącznie tłuszcz",
+        "mniej przeciwciał"
+      ],
+      "answer": 0,
+      "explain": "Siara zawiera dużo więcej białek, w tym gotowe przeciwciała."
+    },
+    {
+      "q": "Dojrzałość płciowa u trzody chlewnej uzależniona jest od:",
+      "options": [
+        "długości dnia",
+        "długości laktacji",
+        "liczby sutków",
+        "masy ciała"
+      ],
+      "answer": 3,
+      "explain": "Dojrzałość płciowa u trzody chlewnej uzależniona jest od masy ciała."
+    },
+    {
+      "q": "Długość cyklu płciowego u bydła wynosi:",
+      "options": [
+        "11 dni",
+        "21 dni",
+        "17 dni",
+        "28 dni"
+      ],
+      "answer": 1,
+      "explain": "Cykl płciowy bydła trwa 21 dni."
+    },
+    {
+      "q": "Długość cyklu płciowego u owiec wynosi:",
+      "options": [
+        "21 dni",
+        "11 dni",
+        "17 dni",
+        "6 mies."
+      ],
+      "answer": 2,
+      "explain": "Cykl płciowy owiec trwa 17 dni."
+    },
+    {
+      "q": "Ciąża u klaczy trwa około:",
+      "options": [
+        "11 mies.",
+        "9 mies.",
+        "5 mies.",
+        "12 mies."
+      ],
+      "answer": 0,
+      "explain": "Długość ciąży u koni to 11 miesięcy."
+    },
+    {
+      "q": "Ciąża u owiec trwa około:",
+      "options": [
+        "4 mies.",
+        "9 mies.",
+        "2 mies.",
+        "5 mies."
+      ],
+      "answer": 3,
+      "explain": "Długość ciąży owiec wynosi 5 miesięcy."
+    },
+    {
+      "q": "Ciąża u świń trwa około:",
+      "options": [
+        "4 mies.",
+        "5 mies.",
+        "2 mies.",
+        "9 mies."
+      ],
+      "answer": 0,
+      "explain": "Długość ciąży świń wynosi 4 miesiące."
+    },
+    {
+      "q": "Dojrzałość rozpłodową jałówki osiągają w wieku:",
+      "options": [
+        "6–16 mies.",
+        "8–10 mies.",
+        "15–18 mies.",
+        "2–4 lat"
+      ],
+      "answer": 2,
+      "explain": "Okres dojrzałości rozpłodowej bydła to 15–18 miesięcy."
+    },
+    {
+      "q": "Dojrzałość rozpłodową lochy osiągają w wieku:",
+      "options": [
+        "4–5 mies.",
+        "15–18 mies.",
+        "12–18 mies.",
+        "8–10 mies."
+      ],
+      "answer": 3,
+      "explain": "Lochy osiągają dojrzałość rozpłodową w wieku 8–10 miesięcy."
+    },
+    {
+      "q": "Ruja u owiec trwa średnio:",
+      "options": [
+        "48–72 godz.",
+        "30 godz.",
+        "7–9 dni",
+        "6–36 godz."
+      ],
+      "answer": 1,
+      "explain": "Długość rui u owiec wynosi 30 godzin."
+    },
+    {
+      "q": "Okres rozrodczy u owiec nazywany jest:",
+      "options": [
+        "wycieleniem",
+        "stanówką",
+        "proszeniem",
+        "kocią"
+      ],
+      "answer": 1,
+      "explain": "Stanowienie w przypadku owiec nazywane jest stanówką."
+    },
+    {
+      "q": "Przed okresem rozrodczym u samców należy przeprowadzić:",
+      "options": [
+        "kastrację",
+        "ograniczenie żywienia",
+        "zamknięcie bez wybiegu",
+        "ocenę libido i ocenę nasienia"
+      ],
+      "answer": 3,
+      "explain": "Badania kliniczne samców obejmują ocenę libido i ocenę nasienia."
+    },
+    {
+      "q": "Przy kryciu wskazane jest:",
+      "options": [
+        "doprowadzanie samicy do samca",
+        "doprowadzanie samca do samicy",
+        "krycie na neutralnym terenie",
+        "krycie w obecności wielu osób"
+      ],
+      "answer": 0,
+      "explain": "Wskazane jest doprowadzanie samic do samca – samiec w znanym otoczeniu jest pewniejszy."
+    },
+    {
+      "q": "Faza przedrujowa to:",
+      "options": [
+        "estrus",
+        "metestrus",
+        "proestrus",
+        "anestrus"
+      ],
+      "answer": 2,
+      "explain": "W cyklu wyróżniamy fazę przedrujową (proestrus) i ruję właściwą (estrus)."
+    },
+    {
+      "q": "Odruch tolerancji samicy występuje w fazie:",
+      "options": [
+        "estrus",
+        "proestrus",
+        "ciąży",
+        "laktacji"
+      ],
+      "answer": 0,
+      "explain": "W estrus samica jest gotowa do krycia i przejawia odruch tolerancji."
+    },
+    {
+      "q": "Skuteczność pedometrów w wykrywaniu rui u krów wynosi do:",
+      "options": [
+        "50%",
+        "95%",
+        "100%",
+        "80%"
+      ],
+      "answer": 3,
+      "explain": "Krokomierze wykazują skuteczność do 80%."
+    },
+    {
+      "q": "Urządzenie typu Kamar służy do:",
+      "options": [
+        "pomiaru oporności śluzu",
+        "oznakowania farbą krowy obskakiwanej w rui",
+        "pomiaru aktywności ruchowej",
+        "badania USG jajników"
+      ],
+      "answer": 1,
+      "explain": "Kamar na grzbiecie krowy znakuje farbą samicę obskakiwaną z powodu rui."
+    },
+    {
+      "q": "Oporność śluzu pochwowego w proestrus:",
+      "options": [
+        "gwałtownie rośnie",
+        "nie zmienia się",
+        "spada do minimum (≤ 200)",
+        "spada do zera po owulacji"
+      ],
+      "answer": 2,
+      "explain": "Oporność śluzu spada w proestrus do minimum (≤ 200), a następnie gwałtownie wzrasta."
+    },
+    {
+      "q": "Krowę unasienia się w okresie od pierwszych objawów rui:",
+      "options": [
+        "2–4 godzin",
+        "30–36 godzin",
+        "15–18 godzin",
+        "48–72 godzin"
+      ],
+      "answer": 2,
+      "explain": "Unasienianie przeprowadza się 15–18 godzin od pierwszych objawów rui."
+    },
+    {
+      "q": "Jeśli ruja u krowy zaczęła się rano, krowę należy unasienić:",
+      "options": [
+        "natychmiast",
+        "wieczorem tego samego dnia",
+        "rano następnego dnia",
+        "po 48 godzinach"
+      ],
+      "answer": 1,
+      "explain": "Jeśli ruja zaczęła się rano, inseminuje się krowę wieczorem."
+    },
+    {
+      "q": "Reinseminację krowy można wykonać po:",
+      "options": [
+        "12 godzinach",
+        "2 godzinach",
+        "24 godzinach",
+        "3 dniach"
+      ],
+      "answer": 0,
+      "explain": "Po 12 godzinach od pierwszego zdeponowania nasienia można wykonać reinseminację."
+    },
+    {
+      "q": "Klacz można kryć, gdy średnica pęcherzyka jajnikowego w badaniu USG wynosi:",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "8 cm",
+        "4 cm"
+      ],
+      "answer": 3,
+      "explain": "Gdy średnica pęcherzyka wynosi 4 cm, można przystąpić do krycia."
+    },
+    {
+      "q": "Owulacja u klaczy następuje:",
+      "options": [
+        "na początku rui",
+        "po zakończeniu rui",
+        "24–48 godzin przed końcem rui",
+        "6 godzin od początku rui"
+      ],
+      "answer": 2,
+      "explain": "Owulacja może mieć miejsce 24–48 godzin przed zakończeniem rui."
+    },
+    {
+      "q": "Locha w rui podczas próby dosiadania:",
+      "options": [
+        "ucieka",
+        "gryzie",
+        "kładzie się na boku",
+        "pozostaje w bezruchu"
+      ],
+      "answer": 3,
+      "explain": "W rui locha pozostaje w bezruchu, a srom jest obrzmiały i zaczerwieniony."
+    },
+    {
+      "q": "U suki w optymalnym okresie krycia w wymazie z pochwy przeważają komórki:",
+      "options": [
+        "krwinki czerwone",
+        "zrogowaciałe",
+        "leukocyty",
+        "komórki przypodstawne"
+      ],
+      "answer": 1,
+      "explain": "W optymalnym okresie krycia w wymazie przeważają komórki zrogowaciałe."
+    },
+    {
+      "q": "Owulacja prowokowana, następująca po kilkukrotnej kopulacji, występuje u:",
+      "options": [
+        "kotek",
+        "suk",
+        "klaczy",
+        "loch"
+      ],
+      "answer": 0,
+      "explain": "U kotek występuje owulacja prowokowana."
+    },
+    {
+      "q": "Mulardy uzyskuje się z krzyżowania:",
+      "options": [
+        "gęsi z kaczorami",
+        "indyków z kurami",
+        "kaczek pekin z kaczorami piżmowymi",
+        "kaczek piżmowych z gęsiorami"
+      ],
+      "answer": 2,
+      "explain": "Sztuczna inseminacja umożliwia krzyżowanie kaczek pekin i kaczorów piżmowych w celu uzyskania mulardów."
+    },
+    {
+      "q": "Do metod pobierania nasienia od ptaków nie należy:",
+      "options": [
+        "masaż grzbietu",
+        "stymulacja w obecności samicy",
+        "elektrostymulacja",
+        "sztuczna pochwa z fantomem"
+      ],
+      "answer": 3,
+      "explain": "Nasienie ptaków pobiera się masażem grzbietu, stymulacją w obecności samicy lub elektrostymulacją."
+    },
+    {
+      "q": "Metoda krycia, w której w stadzie kilku samic przebywa jeden samiec, to krycie:",
+      "options": [
+        "z ręki",
+        "haremowe",
+        "na dziko",
+        "inseminacyjne"
+      ],
+      "answer": 1,
+      "explain": "Krycie haremowe – w stadzie kilku samic znajduje się jeden samiec."
+    },
+    {
+      "q": "Krycie z ręki polega na:",
+      "options": [
+        "doprowadzeniu konkretnego samca do samicy w rui",
+        "swobodnym kryciu w stadzie wielu samców",
+        "inseminacji nasieniem mrożonym",
+        "transferze zarodków"
+      ],
+      "answer": 0,
+      "explain": "Przy kryciu z ręki do samicy w rui doprowadza się konkretnego samca."
+    },
+    {
+      "q": "Superowulacja u dawczyni zarodków to:",
+      "options": [
+        "brak owulacji",
+        "owulacja prowokowana",
+        "wytworzenie większej liczby komórek jajowych",
+        "przedłużona ruja"
+      ],
+      "answer": 2,
+      "explain": "Stymulacja hormonalna wywołuje superowulację – wytworzenie większej liczby komórek jajowych."
+    },
+    {
+      "q": "Na jedną surogatkę przenosi się jednorazowo:",
+      "options": [
+        "1 zarodek",
+        "3–4 zarodki",
+        "10–20 zarodków",
+        "6–7 zarodków"
+      ],
+      "answer": 1,
+      "explain": "Jednorazowo transfer obejmuje 3–4 zarodki dla jednej surogatki."
+    },
+    {
+      "q": "Krowa biorczyni zarodka powinna być w:",
+      "options": [
+        "6.–7. dniu po rui",
+        "1. dniu rui",
+        "dniu owulacji",
+        "14. dniu po rui"
+      ],
+      "answer": 0,
+      "explain": "Krowy biorczynie muszą być w okresie 6–7 dnia po rui, gdy ciałko żółte produkuje progesteron."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Proces uwalniania gamet z pęcherzyka jajnikowego to:",
+      "options": [
+        "ruja.",
+        "inicjacja.",
+        "owulacja.",
+        "krycie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWiek dojrzałości … to zdolność organizmu do wytwarzania gamet zdolnych do zapłodnienia: komórek jajowych u samic i dojrzałych plemników u samców.",
+      "options": [
+        "płciowej",
+        "rozpłodowej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkres międzywycieleniowy to ilość dni liczona od porodu do porodu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta, u których okres zanikania aktywności rozrodczej zaczyna się w wieku ok.10 lat.",
+      "options": [
+        "Owce.",
+        "Konie.",
+        "Bydło.",
+        "Świnie."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSiara to wydzielina gruczołu mlekowego matki produkowana w … etapie ciąży.",
+      "options": [
+        "początkowym",
+        "końcowym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBłony płodowe to otoczki jajowe służące początkowo do pobierania substancji odżywczych z wydzieliny macicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, jak długo trwa ciąża bydła.",
+      "options": [
+        "12 miesięcy.",
+        "9 miesięcy.",
+        "7 miesięcy.",
+        "10 miesięcy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSamica może być …, jeśli podczas stanowienia na jej terytorium znajdzie się obce zwierzę.",
+      "options": [
+        "agresywna",
+        "osowiała"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku bydła ruja trwa od 6 do 36 godzin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż objawy rui właściwej.",
+      "options": [
+        "Zwiększona produkcja śluzu pochwowego.",
+        "Wyginanie grzbietu.",
+        "Wypinanie sromu.",
+        "Odstawanie ogona."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRuja klaczy trwa 3–12 dni, a owulacja może mieć miejsce … przed zakończeniem.",
+      "options": [
+        "10–15 godzin",
+        "24–48 godzin"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamiec przebywając w znanym sobie otoczeniu jest bardziej pewny siebie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaz, jak długo trwa ruja psów.",
+      "options": [
+        "48 godzin.",
+        "7–9 dni.",
+        "13–5 dni.",
+        "3–5 dni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nProces owulacji loch trwa ok. 18 godzin od momentu uwolnienia pierwszej komórki jajowej – jego długość … do ilości pęcherzyków",
+      "options": [
+        "nie zależy",
+        "zależy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku suk objawem rui, oprócz zmian zewnętrznych narządów płciowych, może być zwiększone zainteresowanie samców.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie komórki przeważają w optymalnym okresie krycia w obrazie mikroskopowym barwionego wymazu u suk?",
+      "options": [
+        "Nowe.",
+        "Białe.",
+        "Czerwone.",
+        "Zrogowaciałe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU kotek występuje owulacja ….",
+      "options": [
+        "sprzężona",
+        "prowokowana"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU drobiu powszechnie stosuje się krycie naturalne, z uwzględnieniem wymagań gatunkowych i liczby samców przypadających na jedną samicę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wprowadzenie porcji nasienia do części pochwowej jajowodu z użyciem specjalnych pipet lub pistoletów inseminacyjnych to:",
+      "options": [
+        "unasienianie.",
+        "owulacja.",
+        "rozród.",
+        "inseminacja."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU niektórych klaczy ruja trwa bardzo krótko, dlatego wskazane jest unasiennienie … dnia od rozpoczęcia.",
+      "options": [
+        "drugiego",
+        "pierwszego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed stanowieniem należy uniemożliwić zwierzętom korzystanie z wybiegów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż objawy fazy przedrujowej.",
+      "options": [
+        "Zmiana zachowania, niepokój.",
+        "Obrzęk sromu.",
+        "Zmniejszona ruchliwość.",
+        "Zmniejszony apetyt."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUnasiennianie umożliwia szybszy postęp ….",
+      "options": [
+        "hodowlany",
+        "gospodarczy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCiąża koni trwa 9 miesięcy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak długo trwa ruja świń?",
+      "options": [
+        "7 dni.",
+        "Około 15 godzin.",
+        "5 dni.",
+        "48–72 godzin."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW badaniu klinicznym suk można przy … prezentacji sromu zaobserwować jasnoczerwony wypływ z pochwy i zmniejszający się obrzęk zewnętrznych narządów płciowych.",
+      "options": [
+        "niewyraźnej",
+        "wyraźnej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMetody naturalne krycia obejmują krycie samcem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z podanych metod wybierz naturalne metody krycia.",
+      "options": [
+        "Na dziko.",
+        "Z ręki.",
+        "Haremowe.",
+        "In vitro."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWadą krycia … jest brak kontroli nad terminem krycia, co może utrudnia określenie terminu porodu.",
+      "options": [
+        "z ręki",
+        "haremowego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW hodowli takich ptaków jak indyki czy drób mięsny dopuszczalne, a często wskazane jest wykonanie zabiegu sztucznej inseminacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Stosunek osi długiej ciała płodu do długiej osi ciała matki to:",
+      "options": [
+        "postawa płodu.",
+        "położenie płodu.",
+        "ustawienie płodu.",
+        "ułożenie płodu."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalny czas krycia lub unasieniania to okres, kiedy krycie lub unasiennianie wykazuje … skuteczność zapłodnienia.",
+      "options": [
+        "największą",
+        "dokładnie określoną"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiek dojrzałości płciowej to dojrzałość fizjologiczna oraz psychiczna do zajścia w ciążę i urodzenia zdrowego potomstwa bez szkody dla organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta, u których cykl płciowy trwa krócej niż jeden miesiąc.",
+      "options": [
+        "Psy.",
+        "Owce.",
+        "Koty.",
+        "Konie."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo unasienniania klaczy można przystąpić, kiedy średnica pęcherzyka jajnikowego wynosi ….",
+      "options": [
+        "1 cm.",
+        "4 cm."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywa się metoda krycia, w której do samicy w rui doprowadza się konkretnego samca?",
+      "options": [
+        "Na dziko.",
+        "Inseminacja.",
+        "Z ręki.",
+        "Haremowa."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdpowiednio przechowywane nasienie może być wykorzystywane także po śmierci samca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to proces uwalniania gamet z pęcherzyka jajnikowego.",
+      "options": [
+        "Ruja.",
+        "Owulacja."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuja oznacza pojedynczy okres aktywności jajników przebiegający pod wpływem działania odpowiednich hormonów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zalety sztucznej inseminacji.",
+      "options": [
+        "Większa wydajność nasienia.",
+        "Szansa na wykorzystanie nasienia po śmierci samca.",
+        "Możliwość przebadania nasienia.",
+        "Możliwość sprowadzenia nasienia zza granicy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMetodą wykrywania rui jest pomiar oporności śluzu pochwowego, która podczas … spada do minimum.",
+      "options": [
+        "estrus",
+        "proestrus"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEstrus – okres, w którym dochodzi do owulacji",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile trwa cykl płciowy owiec?",
+      "options": [
+        "11 dni.",
+        "15 dni.",
+        "17 dni.",
+        "21 dni."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku bydła ruja trwa od 6 do 36 godzin, jednak sama owulacja może przebiegać w okresie 30 godzin od początkowych objawów….",
+      "options": [
+        "proestrus",
+        "estrus"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednorazowo transfer zarodków obejmuje 3–4 zarodki dla jednej surogatki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuja to faza cyklu płciowego, kiedy samica wykazuje gotowość do krycia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwulacja to proces uwalniania gamet z pęcherzyka jajnikowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wśród podanych pojęć wskaż parametry rozrodu.",
+      "options": [
+        "Długość rui.",
+        "Długość ciąży.",
+        "Długość cyklu płciowego.",
+        "Okres zanikania aktywności rozrodczej."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż działania, które należy podjąć, aby prawidłowo przygotować zwierzę do okresu rozrodczego.",
+      "options": [
+        "Korekcja racic/kopyt.",
+        "Odrobaczenie.",
+        "Poprawa żywienia.",
+        "Umożliwienie korzystania z wybiegu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkres rui może być różny w różnych cyklach płciowych u tej samej suki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed okresem rozrodczym konieczne jest odrobaczenie zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile miesięcy trwa ciąża owiec?",
+      "options": [
+        "6",
+        "2",
+        "5",
+        "4"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo objawów rujowych zalicza się zmiany fizjologiczne zachodzące w obrębie narządów płciowych oraz w zachowaniu samicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEstrus to okres dojrzewania pęcherzyków jajnikowych, w którym dochodzi do obrzęku i przekrwienia sromu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile dni trwa cykl płciowy u koni?",
+      "options": [
+        "15",
+        "32",
+        "11",
+        "21"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW okresie rui występuje zwiększona produkcja śluzu pochwowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW czasie trwania fazy przedrujowej zwierzęta wykazują zwiększony apetyt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż długość cyklu płciowego psów.",
+      "options": [
+        "6 miesięcy.",
+        "21 dni.",
+        "4 miesiące.",
+        "11 dni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiektóre klacze mają skłonność do bardzo krótkiej rui, dlatego wskazane jest unasiennianie lub krycie już pierwszego dnia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuja owiec trwa około 48 godzin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile miesięcy trwa ciąża koni.",
+      "options": [
+        "14",
+        "7",
+        "11",
+        "9"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku suk objawem rui może być zwiększone zainteresowanie samców.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Masaż grzbietu i elektrostymulacja oraz stymulacja w obecności samicy to metody stosowane przy pobieraniu nasienia:",
+      "options": [
+        "ptaków.",
+        "psów.",
+        "kóz.",
+        "owiec."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlemniki w warunkach in vitro bardzo szybko tracą zdolność zapładniania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU drobiu powszechnie stosuje się krycie naturalne, z uwzględnieniem wymagań gatunkowych i liczby samców przypadających na jedną samicę",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż czynności wykonywane po pobraniu nasienia do sztucznej inseminacji.",
+      "options": [
+        "Ocena nasienia.",
+        "Podgrzewanie nasienia.",
+        "Zamrożenie nasienia przeznaczonego do przechowywania.",
+        "Wykluczenie wadliwych próbek."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU suk w optymalnym okresie krycia w obrazie mikroskopowym barwionego wymazu przeważają komórki zrogowaciałe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W trakcie rui narządy płciowe lochy są:",
+      "options": [
+        "blade.",
+        "czerwone.",
+        "nabrzmiałe.",
+        "obkurczone."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z kilku sposobów badania klinicznego klaczy w rui jest sprawdzenie przez prostnicę wielkości i ścian pęcherzyka jajnikowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku bydła po 12 godzinach od pierwszego unasinnienia wykonuje się reinseminację lub ponowne krycie, żeby podnieść efektywność zabiegu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta, u których w trakcie rui wyczuwa się wyraźny opór przy wziernikowaniu, a błona śluzowa z bladoróżowej zaczyna stawać się blada i sucha.",
+      "options": [
+        "Konie.",
+        "Koty.",
+        "Psy.",
+        "Świnie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo wykrywania rui u samic bydła można wykorzystywać samca z operacyjnie przemieszczonym prąciem, który będzie obskakiwać samice, ale nie będzie w stanie ich zapłodnić.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z naturalnych metod krycia jest inseminacja nasieniem świeżym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiekorzystnym skutkiem metody krycia z ręki mogą być walki pomiędzy samcami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInseminację można przeprowadzić z użyciem nasienia mrożonego lub świeżego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z podanych wybierz zalety sztucznego krycia.",
+      "options": [
+        "Większa wydajność nasienia.",
+        "Możliwość sprowadzenia nasienia zza granicy.",
+        "Możliwość przebadania nasienia.",
+        "Szansa na wykorzystanie nasienia po śmierci samca."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka powinna być średnica pęcherzyka jajnikowego u klaczy gotowej do krycia.",
+      "options": [
+        "4 cm.",
+        "1 cm.",
+        "2 cm.",
+        "3 cm."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe względu na małą precyzyjność w określeniu dokładnego czasu uwolnienia komórki jajowej u bydła, przyjmuje się, że unasiennianie lub krycie powinno prowadzić się w okresie 15–18 godzin od pierwszych objawów rui.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż postawy płodu.",
+      "options": [
+        "Górna.",
+        "Grzbietowa.",
+        "Dolna.",
+        "Brzuszna."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czas pomiędzy zakończeniem jednej ciąży a rozpoczęciem kolejnej to:",
+      "options": [
+        "cykl płciowy.",
+        "okres międzyciążowy.",
+        "okres międzywycieleniowy.",
+        "ruja."
+      ],
+      "answers": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2087 @@
+{
+  "id": "bpc8",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Rozród zwierząt – część 2",
+  "number": "VIII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Znajomość opieki nad ciężarną samicą i potomstwem zwiększa przeżywalność zwierząt i przychody gospodarstwa.",
+        "Rozpoznanie ciąży pozwala zapewnić samicy właściwe warunki i określić termin porodu.",
+        "Znajomość objawów porodu pozwala wykryć nieprawidłowości i wcześnie wezwać lekarza weterynarii.",
+        "Wylęg i klucie drobiu mogą odbywać się naturalnie (pozostawienie niosce) lub w sztucznej inkubacji; gatunki mają różne wymagania.",
+        "Znajomość terminu porodu pozwala przygotować miejsce, sprzęt i obsługę, co znacznie zwiększa szanse matki i noworodka.",
+        "Wiedza o nieprawidłowościach ułożenia płodu pozwala określić konieczność interwencji lekarskiej; właściwe przygotowanie sprzętu i postępowanie z noworodkiem wpływają na jego przeżywalność.",
+        "Opieka nad noworodkiem obejmuje też opiekę nad matką, zwłaszcza u zwierząt towarzyszących; czasem konieczne jest samodzielne zajęcie się kociętami lub szczeniętami."
+      ]
+    },
+    {
+      "heading": "1. Rozpoznawanie ciąży",
+      "points": [
+        "Rozpoznawanie ciąży opiera się na USG i/lub badaniu rektalnym (u dużych zwierząt).",
+        "Brak rui nie potwierdza ciąży; u suk to parametr niewiarygodny – cykl trwa ok. 6–7 miesięcy, a ciąża tylko 2.",
+        "Pierwsze USG – ok. 30. dnia po kryciu; najbardziej miarodajna metoda, bardziej wiarygodna w późniejszych etapach.",
+        "U małych zwierząt pod koniec ciąży (po mineralizacji szkieletu płodu) RTG pokazuje liczbę płodów i wielkość czaszek względem macicy.",
+        "Niestosunek porodowy – płody zbyt duże do porodu drogami natury; konieczne cesarskie cięcie.",
+        "U zwierząt gospodarskich wykonuje się badanie przez prostnicę (omacanie narządów rodnych).",
+        "Niektórzy lekarze określają dzień porodu na podstawie wielkości ampuł płodowych w obrazie USG lub pomiarów czaszki na zdjęciu RTG.",
+        "Badanie przez prostnicę pozwala wyczuć zmiany macicy (położenie, struktura) i – w późniejszych okresach – samego płodu."
+      ]
+    },
+    {
+      "heading": "1. Objawy etapów ciąży (Tab. 8.1)",
+      "points": [
+        "2 miesiące (per rectum): asymetria rogów, ścieńczenie ściany macicy, podwójna ściana macicy (od 5 tyg.), wyczuwalny pęcherz płodowy.",
+        "3 miesiące (per rectum): zarodek wielkości jaja kurzego, macica poza przednią krawędzią spojenia łonowego (po 10 tyg.), macica wielkości melona (12–13 tyg.), łożyszcza u bydła.",
+        "4 miesiące (per rectum): macica wielkości arbuza, można wymacać płód, łożysko i błony płodowe, drżenie macicy środkowej, jajniki trudno osiągalne.",
+        "4 miesiące (badanie kliniczne): powiększenie wymienia u jałówek.",
+        "6–7 miesiąc (per rectum): macica wysunięta do przodu i dołu po dolnej ścianie brzucha, szyjka gruba i mięsista.",
+        "7–8 miesiąc: per rectum – macica bliżej miednicy; klinicznie – ruchy płodu spontaniczne lub prowokowane, gruszkowate uwypuklenie prawego boku matki."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/tabela-objawy-ciazy.jpg",
+          "caption": "Tabela 8.1 – objawy kolejnych etapów ciąży (2, 3, 4, 6–7, 7–8 miesiąc) wyczuwalne badaniem per rectum i badaniem klinicznym."
+        }
+      ]
+    },
+    {
+      "heading": "2. Opieka nad ciężarną samicą",
+      "points": [
+        "Zapewnić: suchą, czystą ściółkę, właściwą temperaturę i wilgotność, zbilansowaną karmę wolną od zanieczyszczeń i mikotoksyn, czystą wodę.",
+        "Do rozrodu – osobniki zdrowe, wcześniej zaszczepione i odrobaczone (zabiegi w ciąży to stres zaburzający rozwój płodu).",
+        "Personel przeszkolony i w miarę możliwości stały.",
+        "Wypływ z dróg rodnych niezwiązany z porodem lub wcześniejsze poronienia – konsultacja z lekarzem weterynarii.",
+        "Ciężarne stanowią odrębną grupę technologiczną na wydzielonej przestrzeni.",
+        "Stały personel – zmiany osobowe nie są wtedy źródłem stresu."
+      ]
+    },
+    {
+      "heading": "2. Porodówka i okres okołoporodowy",
+      "points": [
+        "Porodówkę (kojce, boksy) czyści się i dezynfekuje między wstawieniami.",
+        "Samice przenosi się na porodówkę co najmniej 2 tygodnie przed porodem – tyle trwa wytworzenie przeciwciał przeciw patogenom środowiska.",
+        "Przeciwciała przechodzą do noworodka z siarą (u niektórych gatunków przez łożysko) – odporność bierna na pierwsze tygodnie życia.",
+        "Nowe zarazki (zmiana miejsca, sprzęt, pracownicy) są zagrożeniem – ważna higiena porodówki przed, w trakcie i po porodzie.",
+        "U bydła zasuszanie 60 dni przed porodem – zahamowanie laktacji, regeneracja wymienia.",
+        "Przed porodem można zmniejszyć dawkę pokarmową – u bydła zapobiega ketozie, u trzody syndromowi MMA (mastitis, metritis, agalactia).",
+        "U loch można dodać do paszy sól glauberską – rozluźnia kał i zapobiega zaparciom.",
+        "Układ odpornościowy młodych zwierząt nie jest w pełni wydajny – przeciwciała matczyne częściowo chronią noworodki przed patogenami, z którymi miała kontakt matka.",
+        "Zmniejszenie dawki pokarmowej stosuje się w okresie bezpośrednio przed porodem; sól glauberska pomaga, gdy z powodu porodu spada apetyt i pobieranie paszy."
+      ]
+    },
+    {
+      "heading": "3. Inicjacja i objawy zwiastunowe porodu",
+      "points": [
+        "Inicjacja porodu odbywa się ze strony płodu – sygnał hormonalny: kortykoliberyna, ACTH, kortyzol.",
+        "Schemat: wzrost kortykoliberyny w podwzgórzu płodu → ACTH z przedniego płata przysadki → kortyzol z nadnerczy płodu.",
+        "Objawy zwiastunowe – na dobę przed porodem lub wcześniej: powiększenie/obrzęk sromu (nie u wszystkich).",
+        "Na 24–48 h przed porodem czop śluzowy upłynnia się i wycieka.",
+        "Spadek temperatury ciała nie jest miarodajny i nie występuje u wszystkich gatunków (np. u kotów).",
+        "Gruczoły mleczne powiększają się, pojawia się gęsta, żółta siara; ok. 24 h przed porodem spada napięcie mięśni zadu.",
+        "Zachowanie: niepokój, moszczenie gniazda, grzebanie w ściółce, chodzenie wkoło, wstawanie i kładzenie się.",
+        "Przed porodem rozluźniają się mięśnie macicy.",
+        "Czop śluzowy do czasu porodu uszczelnia drogi rodne; gruczoły mleczne powiększają się i nabrzmiewają.",
+        "Czas od pierwszych oznak do porodu jest różny u poszczególnych gatunków."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/inicjacja-porodu.jpg",
+          "caption": "Inicjacja porodu przez płód: wzrost stężenia kortykoliberyny w podwzgórzu płodu → wydzielanie ACTH przez przedni płat przysadki → wzrost produkcji kortyzolu przez nadnercza płodu."
+        }
+      ]
+    },
+    {
+      "heading": "3. Etapy porodu",
+      "points": [
+        "Etap 1: rozwieranie szyjki macicy, płód układa się do porodu, skurcze macicy, kosmówko-omocznia w świetle pochwy.",
+        "Etap 2: silniejsze skurcze, płód w kanale rodnym, skurcze tłoczni brzusznej, owodnia w świetle pochwy, wypieranie płodu.",
+        "Etap 3: zahamowanie krążenia łożyskowego, odklejenie i wyparcie łożyska.",
+        "U wielopłodowych etap 2 i 3 występują na przemian; łożyska wydalane po każdym potomku lub łącznie na końcu.",
+        "W praktyce etapy porodu często się przeplatają, a czas ich trwania nie jest jednoznaczny; u wielopłodowych mogą występować przerwy między kolejnymi noworodkami.",
+        "Etap 1 obejmuje rozluźnienie i rozwieranie szyjki; w etapie 2 rośnie intensywność i częstotliwość skurczów; w etapie 3 wciąż kurcząca się macica i tłocznia brzuszna wypierają łożysko.",
+        "U wielopłodowych etapy 2 i 3 występują na przemian aż do wyparcia wszystkich płodów."
+      ]
+    },
+    {
+      "heading": "4. Sprzęt do bezkrwawej pomocy porodowej",
+      "points": [
+        "Personel – czysta odzież, odkażone ręce.",
+        "Sprzęt: czyste rękawice gumowe, wiadro z czystą wodą, mydło i ściereczka, odkażone linki lub łańcuszki porodowe, kleszcze lub sterylna nić do pępowiny, nożyczki, gruszka do udrożnienia dróg oddechowych, czysty ręcznik.",
+        "Nie wolno przedwcześnie pociągać płodu ani otwierać pęcherzy płodowych; wolno ciągnąć tylko za symetrycznie wystające kończyny.",
+        "Przy nieprawidłowej prezentacji – lekarz weterynarii: repozycja, cesarskie cięcie albo fetotomia.",
+        "U wielu ras bydła mięsnego większość cieląt rodzi się przez zaplanowany zabieg chirurgiczny.",
+        "U klaczy cesarskie cięcie rzadko (ryzyko zapalenia otrzewnej) – niektóre nieprawidłowe prezentacje są bezwzględnym wskazaniem do fetotomii.",
+        "Zwierzęta towarzyszące zwykle nie potrzebują pomocy – ewentualnie repozycja płodu lub opieka nad odrzuconymi noworodkami.",
+        "Problemy porodowe mogą wynikać z niedoborów mineralnych (wapń, magnez), hormonalnych (oksytocyna), wad anatomicznych – zawsze uprzedzić lekarza o porodzie.",
+        "Przeznaczenie sprzętu: wiadro/miska z wodą, mydło i ściereczka – do obmycia okolicy zadu (by nie zanieczyścić narządów i dróg rodnych samicy oraz rąk obsługującego); nożyczki – do przecięcia pępowiny; ręcznik – do wytarcia noworodka.",
+        "Poród to normalny proces fizjologiczny kończący ciążę.",
+        "Uprzedzony wcześniej lekarz może szybciej zareagować, podać potrzebne leki lub przygotować zabieg."
+      ]
+    },
+    {
+      "heading": "5. Położenie, postawa i ułożenie płodu",
+      "points": [
+        "Położenie prawidłowe: podłużne (proste); odchylenia: poprzeczne i pionowe (brzuszne lub grzbietowe).",
+        "Postawa prawidłowa: górna; nieprawidłowe: boczna (prawo-/lewoboczna) i dolna – mogą wystąpić w przodowaniu główkowym i pośladkowym.",
+        "Ułożenie – stosunek głowy lub kończyn do tułowia.",
+        "Przodowanie główkowe prawidłowe: głowa i przednie kończyny skierowane do dróg rodnych.",
+        "Przodowanie pośladkowe bez przeszkód ze strony kończyn można uznać za normalne – większość kociąt rodzi się pośladkowo.",
+        "Głowa: zaparcie głowy, zawinięcie na bok (często gdy płód martwy), opadnięcie na przedpiersie, zawinięcie ku górze, podłużne skręcenie szyi.",
+        "Kończyny: zaparcie nadgarstkowe (jedno-/dwustronne; bez znaczenia u jagniąt), barkowe, łokciowe lub barkowo-łokciowe.",
+        "Skrzyżowanie kończyn na karku – częste u źrebiąt.",
+        "Zaparcie skokowe (bez znaczenia u jagniąt) i zaparcie biodrowe (jedno- lub obustronne).",
+        "Zaparcie nadgarstkowe może być jedno- lub dwustronne, wklinowane lub nie; postawy boczne mogą wystąpić w przodowaniu pośladkowym i główkowym.",
+        "W przodowaniu pośladkowym płód zwrócony jest do kanału rodnego tyłem."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/polozenie-plodu-krowy.jpg",
+          "caption": "Położenie płodu u krowy – schemat płodu w macicy (z wideocastu)."
+        }
+      ]
+    },
+    {
+      "heading": "6. Opieka nad samicą po porodzie",
+      "points": [
+        "Lochom po porodzie można podać pójło z 2–3 kg otrąb i gorącej wody – zachęca do wstania, działa mlekopędnie, pobudza motorykę jelit.",
+        "Infekcje (np. poporodowe endometritis) wnikają drogą wstępującą przez otwarte drogi rodne; po zamknięciu szyjki powstaje idealne środowisko dla bakterii.",
+        "Nieleczone – zahamowanie laktacji, uogólniona toksemia, a nawet padnięcia.",
+        "Zatrzymanie łożyska i zaburzenia poporodowe zgłasza się lekarzowi weterynarii.",
+        "Zapach pójła z otrąb powinien zachęcić lochę do wstania i zjedzenia; pójło ma wartość odżywczą.",
+        "Infekcje poporodowe mogą powodować późniejsze zaburzenia rozrodu."
+      ]
+    },
+    {
+      "heading": "6. Noworodek – cielę i źrebię",
+      "points": [
+        "Bardzo ważne: umożliwienie pobrania siary i dezynfekcja pępowiny.",
+        "Cielę: ssanie do 2 godz. po porodzie; pierwsza dawka siary 4–5% masy ciała; dobowa dawka siary 10% masy ciała; odłączenie od krowy 2–4 godz. po porodzie.",
+        "Źrebię: 5 min – podnosi głowę, odruch ssania; 15 min – próbuje wstawać; 30–90 min – stoi, szuka wymienia; 1,5–4 godz. – pije siarę; 12 godz. – regularnie ssie, podąża za klaczą.",
+        "Giesseński schemat oceny punktowej źrebięcia (1–2 min, do 30 min, do 60 min): żywotne 8–9 pkt, osłabione 6–7 pkt, silnie osłabione < 6 pkt.",
+        "Ocena zdrowia źrebięcia w 6–24 godz.: wstawanie, temperatura, smółka, mocz, oddech, kontakt z matką; normalny rozwój 18 pkt, 15–17 – konsultacja, < 15 – szybka pomoc lekarska.",
+        "Prawidłowa temperatura źrebięcia 38,2–39,0°C (3 pkt); > 39,2°C – 2 pkt; < 38,0°C – 1 pkt.",
+        "Smółka powinna być wydalona do 8 h po narodzeniu, potem kał mleczny.",
+        "Giesseński schemat (tab. 8.2) – 1–2 min po porodzie: pozycja mostkowa + regularny oddech – 3 pkt; leżenie na boku + regularny oddech – 2; leżenie na boku + zaburzony oddech (przez jamę ustną) – 1.",
+        "Do 30 min: pierwsze próby wstania – 3 pkt; leżenie na mostku lub boku – 2; leżenie na mostku lub boku z napadami skurczów mięśni – 1.",
+        "Do 60 min: źrebię stoi pewnie, pierwsze próby szukania wymienia – 3 pkt; niepewne stanie, częste polegiwanie, głowa uniesiona – 2; leżenie na boku, głowa leży bezwładnie – 1.",
+        "Ocena zdrowia 6–24 godz. (tab. 8.3) – wstawanie: pełna zdolność i skoordynowane ruchy 3; niepewne, nieskoordynowane 2; częste polegiwanie, trudności ze wstaniem 1.",
+        "Smółka: wydalenie do 8 h, potem kał mleczny 3; niewielka ilość smółki, częste napinanie, niepokój 2; brak wydalania kału, napinanie, pokładanie się i turlanie 1.",
+        "Mocz: strumieniem, kilkakrotnie, w normalnej ilości 3; częste parcie, małe ilości lub kroplami 2; brak mimo przybierania pozycji i napinania 1.",
+        "Oddech: regularny i równomierny 3; nierówny 2; łapanie haustów powietrza, płytkie, nieregularne 1.",
+        "Kontakt z matką: częsty, szukanie wymienia, słyszalne ssanie 3; utrzymywanie dystansu, rzadkie szukanie wymienia 2; brak prób kontaktu i zainteresowania wymieniem 1."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/pierwsze-zabiegi-ciele.jpg",
+          "caption": "Cielę po porodzie: do 2 godz. – ssanie; pierwsza dawka siary – 4–5% masy ciała; dobowa dawka siary – 10% masy ciała; 2–4 godz. po porodzie – odłączenie od krowy."
+        },
+        {
+          "src": "img/bpc8/zachowania-zrebiecia.jpg",
+          "caption": "Źrebię po porodzie: 5 min – podnosi głowę, zachowany odruch ssania; 15 min – próbuje wstawać; 30–90 min – stoi, szuka wymienia; 1,5–4 godz. – pije siarę; 12 godz. – regularnie ssie wymię, podąża za klaczą."
+        }
+      ]
+    },
+    {
+      "heading": "6. Odchów cieląt i prosiąt",
+      "points": [
+        "Cielętnik – osobny budynek z oddzielnymi klatkami dla najmłodszych i większymi dla starszych; możliwy odchów w igloo (sucha słoma).",
+        "Siara dostarcza składników odżywczych, przeciwciał, hormonów, peptydów regulacyjnych i czynników wzrostu.",
+        "Pojenie w stacji odpajania lub ręcznie.",
+        "Karmienie cieląt: pierwsze 3 dni – siara 10% masy ciała/dobę; kolejne 2 dni – mleko krowie 1,5 l 3 × dziennie; potem preparat mlekozastępczy 8–10% masy ciała/dobę.",
+        "Stały dostęp do wody poza porami karmienia; pasza treściwa od 2. tygodnia życia.",
+        "Odsadzanie cieląt, gdy zjadają 1 kg paszy treściwej na dobę – zwykle w 10–12 tyg. życia, przy ok. 70–80 kg; termin zależy od systemu odchowu (intensywny, tradycyjny, skrócony).",
+        "Prosięta przebywają z matką do odsadzenia.",
+        "W igloo: sucha słoma, pojenie mlekiem, od 2. tygodnia pasza treściwa.",
+        "Odsadzanie prosiąt wg materiału „najwcześniej w 28 tyg. życia” (tak w tekście; zdarza się wcześniejsze oddzielenie)."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/karmienie-cielat.jpg",
+          "caption": "Schemat karmienia cieląt: pierwsze 3 dni – siara, dawka dobowa 10% masy ciała; kolejne 2 dni – mleko krowie (1,5 litra 3 x dziennie) lub preparat mlekozastępczy (8–10% masy ciała dziennie); poza porami karmienia – stały dostęp do wody; od 2. tygodnia – pasza treściwa."
+        }
+      ]
+    },
+    {
+      "heading": "6. Opieka nad szczeniętami i kociętami",
+      "points": [
+        "Miot zostaje z matką przez pierwsze tygodnie; potrzebne czyste, spokojne, ciepłe miejsce – noworodki nie mają sprawnej termoregulacji.",
+        "Matka wylizuje młode: oczyszcza, masuje, wspomaga krążenie i pobudza odruch defekacji.",
+        "Szczenięta w 1. tygodniu: śpią 90% czasu, 10% jedzą; wymagają pobudzania do defekacji; pod koniec tygodnia podwajają masę urodzeniową.",
+        "2. tydzień: oczy otwierają ok. 8–10 dnia (jeszcze nie widzą), uszy ok. 13–17 dnia (jeszcze nie słyszą).",
+        "3. tydzień: wstają i chodzą, załatwiają się samodzielnie, rozwija się węch, wyrzynają się zęby, bawią się z rodzeństwem.",
+        "Bez matki – preparat mlekozastępczy dla danego gatunku (dla kociąt i szczeniąt różne, nie stosować zamiennie); mleko krowie niewskazane – laktoza powoduje biegunki i odwodnienie.",
+        "Karmienie początkowo co 2 h, z masowaniem okolicy cewki moczowej i odbytu.",
+        "Od 4. tygodnia – stopniowo pokarmy stałe (najlepiej mokre) i pierwsze odrobaczanie; do 6. miesiąca wymiana zębów mlecznych na stałe.",
+        "Noworodki psów i kotów są całkowicie zależne od matki, ślepe i głuche, głównie śpią i jedzą; odruchy defekacji nie są jeszcze w pełni wykształcone.",
+        "1. tydzień (tab. 8.4): wymagają stałej opieki, odczuwają różnice temperatur, instynktownie szukają ciepła, ssą matkę, pełzają, samodzielnie przewracają się na grzbiet, szybko rozwija się układ nerwowy.",
+        "3. tydzień: próbują jeść płynne pokarmy inne niż mleko matki, są świadome otoczenia.",
+        "Zaparcia i wzdęcia u osesków – konsultacja z lekarzem weterynarii; często wynikają z nieodpowiedniego (złej jakości) preparatu mlekozastępczego, ale mogą być objawem poważniejszych schorzeń.",
+        "Pokarm stały wprowadza się stopniowo, najlepiej od formy mokrej – łatwiejszej do pobrania."
+      ]
+    },
+    {
+      "heading": "7. Wylęg jaj drobiu i parametry inkubacji",
+      "points": [
+        "Inkubacja naturalna (wysiadywanie przez nioskę) lub sztuczna w inkubatorach.",
+        "Sztuczna inkubacja ma 2 etapy: wylęganie i klucie.",
+        "Wylęganie: właściwa temperatura i wilgotność, obracanie jaj, selekcja – prześwietlanie owoskopem w celu usunięcia obumarłych zarodków.",
+        "Klucie – zwykle 3 ostatnie dni inkubacji; nie obraca się już jaj; pisklę nakłuwa skorupę w szerszym końcu (komora powietrzna).",
+        "W fazie klucia zmienia się wilgotność i zapewnia wentylację – zapobiega przegrzaniu i uduszeniu piskląt.",
+        "Kury: 37,4–37,6°C; wilgotność I etap 55–60%, II etap 70%; koniec obracania 18. dnia; inkubacja 21 dni.",
+        "Bażanty: 37,6–37,8°C; 55–65% / 74%; koniec obracania 21. dnia; 23–27 dni.",
+        "Przepiórki: 37,6–37,8°C; 55–58% / 65–70%; koniec obracania 15. dnia; 16–23 dni.",
+        "Kaczki: 37,4–37,6°C; 55–58% / 70%; koniec obracania 25. dnia; 28 dni.",
+        "Gęsi: 37,4–37,6°C; 60–68% / 70%; koniec obracania 25. dnia; 28–32 dni.",
+        "Indyki: 37,6°C; 53–58% / 70%; koniec obracania 22.–27. dnia; 25–30 dni.",
+        "Selekcja jaj wyklucza z lęgu zarodki obumarłe we wczesnym lub późnym etapie; okres klucia oznacza gotowość zarodka do wydostania się z jaja."
+      ],
+      "images": [
+        {
+          "src": "img/bpc8/tabela-inkubacja-drobiu.jpg",
+          "caption": "Parametry sztucznej inkubacji (temperatura, wilgotność I i II etap, koniec obracania jaj, okres inkubacji): kury 37,4–37,6°C, 21 dni; bażanty 23–27 dni; przepiórki 16–23 dni; kaczki 28 dni; gęsi 28–32 dni; indyki 25–30 dni."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Na czym opiera się rozpoznawanie ciąży?",
+      "back": "Na badaniu USG i/lub badaniu rektalnym (u dużych zwierząt)."
+    },
+    {
+      "front": "Dlaczego brak rui u suki nie potwierdza ciąży?",
+      "back": "Cykl płciowy suki trwa ok. 6–7 miesięcy, a ciąża tylko 2."
+    },
+    {
+      "front": "Kiedy można wykonać pierwsze USG ciąży?",
+      "back": "Około 30. dnia po kryciu."
+    },
+    {
+      "front": "Najbardziej miarodajna metoda rozpoznania ciąży",
+      "back": "USG (bardziej wiarygodne w późniejszych etapach)."
+    },
+    {
+      "front": "Kiedy u małych zwierząt wykonuje się RTG ciąży i po co?",
+      "back": "Pod koniec ciąży, po mineralizacji szkieletu – liczba płodów i wielkość czaszek."
+    },
+    {
+      "front": "Niestosunek porodowy",
+      "back": "Płody są zbyt duże, by urodzić się drogami natury – konieczne cesarskie cięcie."
+    },
+    {
+      "front": "Od którego tygodnia wyczuwalna jest podwójna ściana macicy?",
+      "back": "Od 5. tygodnia ciąży."
+    },
+    {
+      "front": "Objawy ciąży w 2. miesiącu (per rectum)",
+      "back": "Asymetria rogów, ścieńczenie ściany macicy, podwójna ściana macicy, pęcherz płodowy."
+    },
+    {
+      "front": "Wielkość zarodka wyczuwalnego w 3. miesiącu",
+      "back": "Wielkości jaja kurzego."
+    },
+    {
+      "front": "Kiedy macica ma wielkość melona?",
+      "back": "W 12–13 tyg. ciąży."
+    },
+    {
+      "front": "Kiedy macica ma wielkość arbuza?",
+      "back": "W 4. miesiącu ciąży."
+    },
+    {
+      "front": "Kiedy wyczuwalne są łożyszcza u bydła?",
+      "back": "W 3. miesiącu ciąży."
+    },
+    {
+      "front": "Kiedy wyczuwalne jest drżenie macicy środkowej?",
+      "back": "W 4. miesiącu ciąży."
+    },
+    {
+      "front": "Objaw kliniczny 4. miesiąca ciąży u jałówek",
+      "back": "Powiększenie wymienia."
+    },
+    {
+      "front": "Objawy per rectum w 6–7 miesiącu ciąży",
+      "back": "Macica wysunięta do przodu i dołu po dolnej ścianie brzucha; szyjka gruba i mięsista."
+    },
+    {
+      "front": "Objawy kliniczne w 7–8 miesiącu ciąży",
+      "back": "Ruchy płodu (spontaniczne lub prowokowane), gruszkowate uwypuklenie prawego boku matki."
+    },
+    {
+      "front": "Jakie zwierzęta przeznacza się do rozrodu?",
+      "back": "Zdrowe, wcześniej zaszczepione i odrobaczone."
+    },
+    {
+      "front": "Dlaczego nie wykonuje się zabiegów u ciężarnych?",
+      "back": "Powodują stres, który może zaburzać rozwój płodu i podtrzymanie ciąży."
+    },
+    {
+      "front": "Kiedy przenosi się samice na porodówkę?",
+      "back": "Co najmniej 2 tygodnie przed spodziewanym porodem."
+    },
+    {
+      "front": "Dlaczego 2 tygodnie przed porodem na porodówce?",
+      "back": "Tyle trwa wytworzenie przeciwciał przeciw patogenom środowiska, przekazywanych potem z siarą."
+    },
+    {
+      "front": "Kiedy zasusza się krowy?",
+      "back": "60 dni przed spodziewanym porodem."
+    },
+    {
+      "front": "Cel zasuszania",
+      "back": "Zahamowanie poprzedniej laktacji, regeneracja wymienia i przygotowanie do kolejnej."
+    },
+    {
+      "front": "Czemu zapobiega zmniejszenie dawki przed porodem?",
+      "back": "U bydła – ketozie, u trzody – syndromowi MMA."
+    },
+    {
+      "front": "Syndrom MMA",
+      "back": "Mastitis, metritis, agalactia."
+    },
+    {
+      "front": "Sól glauberska u loch",
+      "back": "Dodatek do paszy rozluźniający kał – zapobiega zaparciom przy spadku apetytu."
+    },
+    {
+      "front": "Kto inicjuje poród?",
+      "back": "Płód – sygnałem hormonalnym (kortykoliberyna, ACTH, kortyzol)."
+    },
+    {
+      "front": "Kolejność hormonalnej inicjacji porodu",
+      "back": "Kortykoliberyna w podwzgórzu płodu → ACTH z przedniego płata przysadki → kortyzol z nadnerczy płodu."
+    },
+    {
+      "front": "Kiedy wycieka czop śluzowy?",
+      "back": "24–48 h przed porodem."
+    },
+    {
+      "front": "Czy spadek temperatury przed porodem jest miarodajny?",
+      "back": "Nie – nie występuje u wszystkich gatunków (np. u kotów)."
+    },
+    {
+      "front": "Kiedy spada napięcie mięśni zadu przed porodem?",
+      "back": "Około 24 h przed porodem."
+    },
+    {
+      "front": "Wygląd siary przed porodem",
+      "back": "Gęsta, żółta."
+    },
+    {
+      "front": "Behawioralne objawy zbliżającego się porodu",
+      "back": "Niepokój, moszczenie gniazda, grzebanie w ściółce, chodzenie wkoło, wstawanie i kładzenie się."
+    },
+    {
+      "front": "Etap 1 porodu",
+      "back": "Rozwieranie szyjki, płód układa się do porodu, skurcze macicy, kosmówko-omocznia w świetle pochwy."
+    },
+    {
+      "front": "Etap 2 porodu",
+      "back": "Silniejsze skurcze, płód w kanale rodnym, skurcze tłoczni brzusznej, owodnia w świetle pochwy, wypieranie płodu."
+    },
+    {
+      "front": "Etap 3 porodu",
+      "back": "Zahamowanie krążenia łożyskowego, odklejenie i wyparcie łożyska."
+    },
+    {
+      "front": "Przebieg porodu u zwierząt wielopłodowych",
+      "back": "Etap 2 i 3 na przemian; łożyska po każdym potomku lub łącznie na końcu."
+    },
+    {
+      "front": "Do czego służy gruszka przy porodzie?",
+      "back": "Do udrożnienia dróg oddechowych noworodka."
+    },
+    {
+      "front": "Czym podwiązuje się pępowinę?",
+      "back": "Kleszczami lub sterylną nicią."
+    },
+    {
+      "front": "Za co wolno pociągać podczas porodu?",
+      "back": "Tylko za symetrycznie wystające z dróg rodnych kończyny."
+    },
+    {
+      "front": "Czego nie wolno robić podczas porodu?",
+      "back": "Przedwcześnie pociągać płodu ani otwierać pęcherzy płodowych."
+    },
+    {
+      "front": "Decyzje lekarza przy nieprawidłowej prezentacji płodu",
+      "back": "Repozycja, cesarskie cięcie albo fetotomia."
+    },
+    {
+      "front": "Dlaczego u klaczy rzadko wykonuje się cesarskie cięcie?",
+      "back": "Duże ryzyko zapalenia otrzewnej – częściej fetotomia."
+    },
+    {
+      "front": "Jak rodzi się większość cieląt wielu ras mięsnych?",
+      "back": "Przez zaplanowany zabieg chirurgiczny (cesarskie cięcie)."
+    },
+    {
+      "front": "Przyczyny problemów z porodem (przykłady)",
+      "back": "Niedobory wapnia, magnezu; niedobór oksytocyny; wady fizjologiczne lub anatomiczne."
+    },
+    {
+      "front": "Rodzaje nieprawidłowego położenia płodu",
+      "back": "Poprzeczne (brzuszne lub grzbietowe) i pionowe (brzuszne lub grzbietowe)."
+    },
+    {
+      "front": "Nieprawidłowe postawy płodu",
+      "back": "Boczna (prawo- lub lewoboczna) i dolna."
+    },
+    {
+      "front": "Prawidłowe przodowanie główkowe",
+      "back": "Głowa i przednie kończyny skierowane do dróg rodnych."
+    },
+    {
+      "front": "Jakim przodowaniem rodzi się większość kociąt?",
+      "back": "Pośladkowym."
+    },
+    {
+      "front": "Nieprawidłowe ułożenia głowy płodu",
+      "back": "Zaparcie głowy, zawinięcie na bok, opadnięcie na przedpiersie, zawinięcie ku górze, podłużne skręcenie szyi."
+    },
+    {
+      "front": "Kiedy często występuje zawinięcie głowy na bok?",
+      "back": "Gdy płód jest już martwy."
+    },
+    {
+      "front": "Wada ułożenia częsta u źrebiąt",
+      "back": "Skrzyżowanie kończyn na karku."
+    },
+    {
+      "front": "Zaparcia bez znaczenia u jagniąt",
+      "back": "Zaparcie nadgarstkowe i skokowe."
+    },
+    {
+      "front": "Pójło dla lochy po porodzie",
+      "back": "2–3 kg otrąb z gorącą wodą."
+    },
+    {
+      "front": "Poporodowe endometritis – jak dochodzi do zakażenia?",
+      "back": "Drogą wstępującą przez otwarte drogi rodne."
+    },
+    {
+      "front": "Skutki nieleczonych infekcji poporodowych",
+      "back": "Zahamowanie laktacji, uogólniona toksemia, padnięcia."
+    },
+    {
+      "front": "Dwa najważniejsze zabiegi przy noworodku",
+      "back": "Umożliwienie pobrania siary i dezynfekcja pępowiny."
+    },
+    {
+      "front": "Do kiedy cielę powinno ssać?",
+      "back": "Do 2 godz. po porodzie."
+    },
+    {
+      "front": "Pierwsza dawka siary dla cielęcia",
+      "back": "4–5% masy ciała."
+    },
+    {
+      "front": "Dobowa dawka siary dla cielęcia",
+      "back": "10% masy ciała."
+    },
+    {
+      "front": "Kiedy odłącza się cielę od krowy?",
+      "back": "2–4 godz. po porodzie."
+    },
+    {
+      "front": "Źrebię – 15 min po porodzie",
+      "back": "Próbuje wstawać."
+    },
+    {
+      "front": "Źrebię – 30–90 min po porodzie",
+      "back": "Stoi i szuka wymienia."
+    },
+    {
+      "front": "Źrebię – 1,5–4 godz. po porodzie",
+      "back": "Pije siarę."
+    },
+    {
+      "front": "Giesseński schemat oceny punktowej",
+      "back": "Klucz wczesnej oceny kondycji nowo narodzonego źrebięcia."
+    },
+    {
+      "front": "Punktacja giesseńska – żywotne / osłabione / silnie osłabione",
+      "back": "8–9 / 6–7 / < 6 pkt."
+    },
+    {
+      "front": "Ocena zdrowia źrebięcia 6–24 godz. – progi",
+      "back": "18 pkt normalny rozwój; 15–17 konsultacja; < 15 szybka pomoc lekarska."
+    },
+    {
+      "front": "Prawidłowa temperatura nowo narodzonego źrebięcia",
+      "back": "38,2–39,0°C."
+    },
+    {
+      "front": "Do kiedy źrebię powinno wydalić smółkę?",
+      "back": "Do 8 h po narodzeniu."
+    },
+    {
+      "front": "Cielętnik",
+      "back": "Osobny budynek z oddzielnymi klatkami dla najmłodszych i większymi dla starszych cieląt."
+    },
+    {
+      "front": "Karmienie cieląt w dniach 4–5",
+      "back": "Mleko krowie 1,5 litra 3 × dziennie."
+    },
+    {
+      "front": "Dawka preparatu mlekozastępczego dla cieląt",
+      "back": "8–10% masy ciała na dobę."
+    },
+    {
+      "front": "Od kiedy cielęta dostają paszę treściwą?",
+      "back": "Od 2. tygodnia życia."
+    },
+    {
+      "front": "Kiedy odsadza się cielęta?",
+      "back": "Gdy zjadają 1 kg paszy treściwej dziennie – zwykle 10–12 tyg., ok. 70–80 kg."
+    },
+    {
+      "front": "Ile czasu śpią szczenięta w 1. tygodniu?",
+      "back": "90% czasu (10% jedzą)."
+    },
+    {
+      "front": "Kiedy szczenię podwaja masę urodzeniową?",
+      "back": "Pod koniec 1. tygodnia."
+    },
+    {
+      "front": "Kiedy szczenięta otwierają oczy i uszy?",
+      "back": "Oczy ok. 8–10 dnia, uszy ok. 13–17 dnia."
+    },
+    {
+      "front": "Dlaczego nie karmić szczeniąt mlekiem krowim?",
+      "back": "Wysoki poziom laktozy – biegunki i odwodnienie."
+    },
+    {
+      "front": "Jak często karmić osierocone szczenięta/kocięta?",
+      "back": "Początkowo co 2 h, z masowaniem okolicy cewki moczowej i odbytu."
+    },
+    {
+      "front": "Kiedy wprowadza się pokarm stały i pierwsze odrobaczanie szczeniąt/kociąt?",
+      "back": "W 4. tygodniu życia."
+    },
+    {
+      "front": "Do kiedy szczenięta i kocięta wymieniają zęby mleczne?",
+      "back": "Do 6. miesiąca życia."
+    },
+    {
+      "front": "Etapy sztucznej inkubacji jaj",
+      "back": "Wylęganie i klucie."
+    },
+    {
+      "front": "Owoskop",
+      "back": "Lampa do prześwietlania jaj (wykrywanie obumarłych zarodków)."
+    },
+    {
+      "front": "Kiedy przypada okres klucia?",
+      "back": "Zwykle na 3 ostatnie dni inkubacji (bez obracania jaj)."
+    },
+    {
+      "front": "Gdzie pisklę nakłuwa skorupę?",
+      "back": "W szerszym końcu, gdzie jest komora powietrzna."
+    },
+    {
+      "front": "Inkubacja jaj kurzych – temperatura i czas",
+      "back": "37,4–37,6°C; 21 dni."
+    },
+    {
+      "front": "Kiedy kończy się obracanie jaj kurzych?",
+      "back": "18. dnia."
+    },
+    {
+      "front": "Wilgotność przy inkubacji jaj kurzych",
+      "back": "I etap 55–60%, II etap 70%."
+    },
+    {
+      "front": "Okres inkubacji jaj kaczych i gęsich",
+      "back": "Kaczki 28 dni; gęsi 28–32 dni."
+    },
+    {
+      "front": "Okres inkubacji jaj indyczych",
+      "back": "25–30 dni."
+    },
+    {
+      "front": "Okres inkubacji jaj przepiórczych",
+      "back": "16–23 dni."
+    },
+    {
+      "front": "Po co znać termin porodu?",
+      "back": "By przygotować miejsce, sprzęt i obsługę – zwiększa to szanse matki i noworodka."
+    },
+    {
+      "front": "Czy etapy porodu są w praktyce wyraźnie rozdzielone?",
+      "back": "Nie – często się przeplatają, a czas ich trwania nie jest jednoznaczny."
+    },
+    {
+      "front": "Giesseński schemat – ocena 1–2 min po porodzie (punkty)",
+      "back": "Pozycja mostkowa + regularny oddech – 3; leżenie na boku + regularny oddech – 2; leżenie na boku + zaburzony oddech (przez jamę ustną) – 1."
+    },
+    {
+      "front": "Giesseński schemat – ocena do 60 min po porodzie (3 pkt)",
+      "back": "Źrebię stoi pewnie na nogach i podejmuje pierwsze próby szukania wymienia."
+    },
+    {
+      "front": "Jakie parametry ocenia się u źrebięcia między 6 a 24 godz. życia?",
+      "back": "Zdolność wstawania i stania, temperaturę ciała, odejście smółki, wydalanie moczu, oddech, kontakt z matką (każdy 1–3 pkt; razem 18 = normalny rozwój)."
+    },
+    {
+      "front": "Inkubacja jaj bażantów – parametry",
+      "back": "37,6–37,8°C; wilgotność 55–65% / 74%; koniec obracania 21. dnia; inkubacja 23–27 dni."
+    },
+    {
+      "front": "Inkubacja jaj gęsi – parametry",
+      "back": "37,4–37,6°C; wilgotność 60–68% / 70%; koniec obracania 25. dnia; 28–32 dni."
+    },
+    {
+      "front": "Na jakiej podstawie niektórzy lekarze określają dzień porodu?",
+      "back": "Na podstawie wielkości ampuł płodowych w obrazie USG lub pomiarów czaszki płodu na zdjęciu RTG."
+    },
+    {
+      "front": "Dlaczego przeciwciała matczyne są ważne dla noworodka?",
+      "back": "Układ odpornościowy młodych nie jest w pełni wydajny – przeciwciała z siary (u niektórych gatunków przez łożysko) dają odporność bierną na pierwsze tygodnie życia."
+    },
+    {
+      "front": "Inkubacja jaj przepiórek – parametry",
+      "back": "37,6–37,8°C; wilgotność 55–58% / 65–70%; koniec obracania 15. dnia; inkubacja 16–23 dni."
+    },
+    {
+      "front": "Inkubacja jaj kaczek – parametry",
+      "back": "37,4–37,6°C; wilgotność 55–58% / 70%; koniec obracania 25. dnia; inkubacja 28 dni."
+    },
+    {
+      "front": "Inkubacja jaj indyków – parametry",
+      "back": "37,6°C; wilgotność 53–58% / 70%; koniec obracania 22.–27. dnia; inkubacja 25–30 dni."
+    },
+    {
+      "front": "Co należy zapewnić w fazie klucia piskląt?",
+      "back": "Zmianę wilgotności i odpowiednią wentylację – zapobiega przegrzaniu i uduszeniu piskląt; jaj już się nie obraca."
+    },
+    {
+      "front": "Co dostarcza noworodkom siara?",
+      "back": "Podstawowe składniki odżywcze, przeciwciała matczyne, hormony, peptydy regulacyjne i czynniki wzrostu."
+    },
+    {
+      "front": "Odchów cieląt w igloo",
+      "back": "Sucha słoma, pojenie mlekiem, od 2. tygodnia pasza treściwa."
+    },
+    {
+      "front": "Od czego zależy termin odsadzania cieląt?",
+      "back": "Od systemu odchowu: intensywny, tradycyjny, skrócony (zwykle gdy cielę zjada 1 kg paszy treściwej/dobę)."
+    },
+    {
+      "front": "Jak poi się cielęta?",
+      "back": "W stacji odpajania lub ręcznie przez pracowników obsługi."
+    },
+    {
+      "front": "Szczenięta w 3. tygodniu życia",
+      "back": "Wstają i próbują chodzić, załatwiają się samodzielnie, rozwija się węch, wyrzynają się zęby, próbują jeść płynne pokarmy inne niż mleko matki, są świadome otoczenia, bawią się z rodzeństwem."
+    },
+    {
+      "front": "Szczenięta w 1. tygodniu życia – zachowania",
+      "back": "Całkowicie zależne od matki; śpią 90% czasu; odczuwają różnice temperatur, instynktownie szukają ciepła, ssą, pełzają, przewracają się na grzbiet; wymagają pobudzania do defekacji; pod koniec tygodnia podwajają masę."
+    },
+    {
+      "front": "Po co matka wylizuje noworodki?",
+      "back": "Oczyszcza je, rozmasowuje, wspomaga krążenie i pobudza odruch defekacji."
+    },
+    {
+      "front": "Dlaczego nie stosuje się zamiennie preparatów mlekozastępczych dla kociąt i szczeniąt?",
+      "back": "Mają inny skład – należy stosować preparat przeznaczony dla danego gatunku."
+    },
+    {
+      "front": "Podstawowy sprzęt przy porodzie bez komplikacji",
+      "back": "Czyste rękawice gumowe; wiadro/miska z wodą, mydło i ściereczka; odkażone linki lub łańcuszki porodowe; kleszcze lub sterylna nić do pępowiny; nożyczki; gruszka do udrożnienia dróg oddechowych; czysty ręcznik."
+    },
+    {
+      "front": "Kiedy zwierzęta towarzyszące potrzebują pomocy porodowej?",
+      "back": "Rzadko – zwykle chodzi o repozycję płodu lub opiekę nad noworodkami odrzuconymi przez matkę."
+    },
+    {
+      "front": "Co zgłasza się lekarzowi weterynarii po porodzie?",
+      "back": "Wszelkie zatrzymania łożyska i zaburzenia okresu poporodowego."
+    },
+    {
+      "front": "Działanie pójła z otrąb dla lochy",
+      "back": "Zachęca do wstania i jedzenia, ma wartość odżywczą, działa mlekopędnie, pobudza pracę przewodu pokarmowego i motorykę jelit."
+    },
+    {
+      "front": "Jakie warunki zapewnić ciężarnej samicy?",
+      "back": "Suchą, czystą ściółkę, właściwą temperaturę i wilgotność, zbilansowaną karmę wolną od zanieczyszczeń i mikotoksyn, czystą wodę; odrębna grupa technologiczna na wydzielonej przestrzeni; stały, przeszkolony personel."
+    },
+    {
+      "front": "Kiedy skonsultować się z lekarzem w czasie ciąży?",
+      "back": "Przy nieprawidłowościach, np. wypływie z dróg rodnych niezwiązanym z porodem lub wcześniejszych poronieniach."
+    },
+    {
+      "front": "Objawy ciąży wyczuwalne per rectum w 7–8 miesiącu",
+      "back": "Macica przesunięta bliżej miednicy."
+    },
+    {
+      "front": "Giesseński schemat – ocena do 30 min po porodzie (punkty)",
+      "back": "Pierwsze próby wstania – 3; leżenie na mostku lub boku – 2; leżenie na mostku lub boku z napadami skurczów mięśni – 1."
+    },
+    {
+      "front": "Ocena oddechu i kontaktu z matką u źrebięcia (6–24 h) – 3 pkt",
+      "back": "Oddech regularny i równomierny; częsty kontakt z matką, szukanie wymienia, słyszalne odgłosy ssania."
+    },
+    {
+      "front": "Temperatura źrebięcia > 39,2°C i < 38,0°C – punkty",
+      "back": "> 39,2°C – 2 pkt; < 38,0°C – 1 pkt (38,2–39,0°C – 3 pkt)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pierwsze badanie USG w kierunku ciąży można wykonać około:",
+      "options": [
+        "7. dnia po kryciu",
+        "30. dnia po kryciu",
+        "14. dnia po kryciu",
+        "60. dnia po kryciu"
+      ],
+      "answer": 1,
+      "explain": "Pierwsze USG można wykonać około 30 dnia po kryciu."
+    },
+    {
+      "q": "Brak rui jest szczególnie niewiarygodnym objawem ciąży u:",
+      "options": [
+        "krów",
+        "loch",
+        "suk",
+        "owiec"
+      ],
+      "answer": 2,
+      "explain": "U suk cykl płciowy trwa 6–7 miesięcy, a ciąża tylko dwa."
+    },
+    {
+      "q": "Niestosunek porodowy oznacza, że:",
+      "options": [
+        "płód ma postawę dolną",
+        "łożysko zostało zatrzymane",
+        "poród nastąpił przedwcześnie",
+        "płody są zbyt duże do porodu drogami natury"
+      ],
+      "answer": 3,
+      "explain": "Niestosunek porodowy – maluchy zbyt duże, by urodzić się drogami naturalnymi."
+    },
+    {
+      "q": "Podwójna ściana macicy w badaniu per rectum jest wyczuwalna od:",
+      "options": [
+        "5. tygodnia ciąży",
+        "2. tygodnia ciąży",
+        "10. tygodnia ciąży",
+        "4. miesiąca ciąży"
+      ],
+      "answer": 0,
+      "explain": "Wyczuwalna podwójna ściana macicy (od 5 tyg.)."
+    },
+    {
+      "q": "Macica wielkości melona wyczuwalna jest w:",
+      "options": [
+        "5–6 tyg. ciąży",
+        "6–7 miesiącu ciąży",
+        "7–8 miesiącu ciąży",
+        "12–13 tyg. ciąży"
+      ],
+      "answer": 3,
+      "explain": "Macica wielkości melona – 12–13 tydzień."
+    },
+    {
+      "q": "Gruszkowate uwypuklenie prawego boku matki widoczne jest w:",
+      "options": [
+        "2. miesiącu ciąży",
+        "3. miesiącu ciąży",
+        "7–8 miesiącu ciąży",
+        "4. miesiącu ciąży"
+      ],
+      "answer": 2,
+      "explain": "W 7–8 miesiącu widoczne jest gruszkowate uwypuklenie prawego boku matki."
+    },
+    {
+      "q": "Powiększenie wymienia u jałówek stwierdza się w badaniu klinicznym w:",
+      "options": [
+        "2. miesiącu ciąży",
+        "4. miesiącu ciąży",
+        "3. miesiącu ciąży",
+        "9. miesiącu ciąży"
+      ],
+      "answer": 1,
+      "explain": "W 4. miesiącu w badaniu klinicznym stwierdza się powiększenie wymienia u jałówek."
+    },
+    {
+      "q": "Samice należy przenieść na porodówkę co najmniej:",
+      "options": [
+        "2 tygodnie przed porodem",
+        "2 dni przed porodem",
+        "w dniu porodu",
+        "2 miesiące przed porodem"
+      ],
+      "answer": 0,
+      "explain": "Samice powinny zostać przeniesione przynajmniej dwa tygodnie przed porodem."
+    },
+    {
+      "q": "Zasuszanie krów przeprowadza się przed spodziewanym porodem na:",
+      "options": [
+        "14 dni",
+        "60 dni",
+        "30 dni",
+        "90 dni"
+      ],
+      "answer": 1,
+      "explain": "U bydła 60 dni przed porodem przeprowadza się zasuszanie."
+    },
+    {
+      "q": "Zmniejszenie dawki pokarmowej przed porodem u trzody ma zapobiec:",
+      "options": [
+        "ketozie",
+        "tężyczce",
+        "syndromowi MMA",
+        "kwasicy"
+      ],
+      "answer": 2,
+      "explain": "U trzody ogranicza się dawkę, by uniknąć syndromu MMA."
+    },
+    {
+      "q": "Syndrom MMA obejmuje:",
+      "options": [
+        "mastitis, myositis, anemia",
+        "metritis, mukozę, agalactię",
+        "mastitis, metritis, acidosis",
+        "mastitis, metritis, agalactia"
+      ],
+      "answer": 3,
+      "explain": "MMA to mastitis, metritis, agalactia."
+    },
+    {
+      "q": "Sól glauberską podaje się lochom przed porodem w celu:",
+      "options": [
+        "zapobiegania zaparciom",
+        "zwiększenia mleczności",
+        "wywołania porodu",
+        "zapobiegania ketozie"
+      ],
+      "answer": 0,
+      "explain": "Sól glauberska rozluźnia masy kałowe i pozwala uniknąć zaparć."
+    },
+    {
+      "q": "Inicjacja porodu następuje ze strony:",
+      "options": [
+        "płodu",
+        "łożyska",
+        "jajników matki",
+        "wymienia"
+      ],
+      "answer": 0,
+      "explain": "Inicjacja porodu odbywa się ze strony płodu."
+    },
+    {
+      "q": "W inicjacji porodu kortyzol produkowany jest przez:",
+      "options": [
+        "przysadkę matki",
+        "nadnercza płodu",
+        "łożysko",
+        "podwzgórze matki"
+      ],
+      "answer": 1,
+      "explain": "Wzrost produkcji kortyzolu przez nadnercza płodu."
+    },
+    {
+      "q": "Czop śluzowy upłynnia się i wycieka na:",
+      "options": [
+        "2 tygodnie przed porodem",
+        "2–4 h po porodzie",
+        "7 dni przed porodem",
+        "24–48 h przed porodem"
+      ],
+      "answer": 3,
+      "explain": "Na 24–48 h przed porodem czop śluzowy ulega upłynnieniu."
+    },
+    {
+      "q": "Spadek temperatury ciała przed porodem nie występuje np. u:",
+      "options": [
+        "wszystkich ssaków",
+        "żadnego gatunku",
+        "kotów",
+        "bydła mięsnego wyłącznie"
+      ],
+      "answer": 2,
+      "explain": "Spadek temperatury nie występuje u wszystkich gatunków (np. u kotów)."
+    },
+    {
+      "q": "Owodnia osiąga światło pochwy w:",
+      "options": [
+        "2. etapie porodu",
+        "1. etapie porodu",
+        "3. etapie porodu",
+        "okresie zwiastunowym"
+      ],
+      "answer": 0,
+      "explain": "W etapie 2 owodnia osiąga światło pochwy."
+    },
+    {
+      "q": "Odklejenie łożyska następuje w:",
+      "options": [
+        "1. etapie porodu",
+        "3. etapie porodu",
+        "2. etapie porodu",
+        "okresie przedporodowym"
+      ],
+      "answer": 1,
+      "explain": "W etapie 3 dochodzi do odklejenia łożyska."
+    },
+    {
+      "q": "Gruszka w zestawie do pomocy porodowej służy do:",
+      "options": [
+        "podwiązania pępowiny",
+        "podawania siary",
+        "obmycia sromu",
+        "udrożnienia dróg oddechowych noworodka"
+      ],
+      "answer": 3,
+      "explain": "Gruszka służy do udrożnienia dróg oddechowych noworodka."
+    },
+    {
+      "q": "Podczas porodu dopuszczalne jest:",
+      "options": [
+        "otwieranie pęcherzy płodowych",
+        "przedwczesne pociąganie płodu",
+        "pociąganie za symetrycznie wystające kończyny",
+        "ciągnięcie za jedną kończynę"
+      ],
+      "answer": 2,
+      "explain": "Dopuszczalne jest jedynie pociąganie za symetrycznie wystające kończyny."
+    },
+    {
+      "q": "U klaczy decyzje o cesarskim cięciu podejmowane są rzadko z powodu:",
+      "options": [
+        "dużych rozmiarów płodu",
+        "braku sprzętu",
+        "dużego ryzyka zapalenia otrzewnej",
+        "krótkiej ciąży"
+      ],
+      "answer": 2,
+      "explain": "U klaczy duże ryzyko zapalenia otrzewnej – częściej fetotomia."
+    },
+    {
+      "q": "Problemy z porodem mogą wynikać z niedoboru hormonu:",
+      "options": [
+        "insuliny",
+        "oksytocyny",
+        "tyroksyny",
+        "prolaktyny"
+      ],
+      "answer": 1,
+      "explain": "Przyczyną mogą być zaburzenia hormonalne, np. niedobór oksytocyny."
+    },
+    {
+      "q": "Większość kociąt rodzi się w przodowaniu:",
+      "options": [
+        "główkowym",
+        "poprzecznym",
+        "pionowym",
+        "pośladkowym"
+      ],
+      "answer": 3,
+      "explain": "Większość kociąt rodzi się przodowaniem pośladkowym."
+    },
+    {
+      "q": "Skrzyżowanie kończyn na karku jest częste u:",
+      "options": [
+        "źrebiąt",
+        "jagniąt",
+        "kociąt",
+        "prosiąt"
+      ],
+      "answer": 0,
+      "explain": "Skrzyżowanie kończyn na karku – częste u źrebiąt."
+    },
+    {
+      "q": "Zaparcie nadgarstkowe nie ma znaczenia u:",
+      "options": [
+        "źrebiąt",
+        "cieląt",
+        "jagniąt",
+        "szczeniąt"
+      ],
+      "answer": 2,
+      "explain": "Zaparcie nadgarstkowe jest bez znaczenia u jagniąt."
+    },
+    {
+      "q": "Lochom po porodzie można podać pójło z:",
+      "options": [
+        "2–3 kg otrąb i gorącej wody",
+        "1 kg śruty i zimnej wody",
+        "siary krowiej",
+        "soli glauberskiej i mleka"
+      ],
+      "answer": 0,
+      "explain": "Świniom można podać pójło z 2–3 kg otrąb i gorącej wody."
+    },
+    {
+      "q": "Pierwsza dawka siary dla cielęcia powinna wynosić:",
+      "options": [
+        "1% masy ciała",
+        "10% masy ciała",
+        "15% masy ciała",
+        "4–5% masy ciała"
+      ],
+      "answer": 3,
+      "explain": "Pierwsza dawka siary to 4–5% masy ciała."
+    },
+    {
+      "q": "Cielę powinno ssać siarę:",
+      "options": [
+        "do 12 godz. po porodzie",
+        "do 2 godz. po porodzie",
+        "do 24 godz. po porodzie",
+        "po 2 dniach"
+      ],
+      "answer": 1,
+      "explain": "Do 2 godz. po porodzie – ssanie."
+    },
+    {
+      "q": "Źrebię powinno stać i szukać wymienia w czasie:",
+      "options": [
+        "5 min po porodzie",
+        "30–90 min po porodzie",
+        "12 godz. po porodzie",
+        "24 godz. po porodzie"
+      ],
+      "answer": 1,
+      "explain": "W 30–90 min źrebię stoi i szuka wymienia."
+    },
+    {
+      "q": "W giesseńskim schemacie oceny źrebię żywotne uzyskuje:",
+      "options": [
+        "6–7 pkt",
+        "< 6 pkt",
+        "8–9 pkt",
+        "18 pkt"
+      ],
+      "answer": 2,
+      "explain": "Żywotne 8–9 pkt, osłabione 6–7, silnie osłabione < 6."
+    },
+    {
+      "q": "Prawidłowa temperatura ciała źrebięcia w ocenie stanu zdrowia to:",
+      "options": [
+        "38,2–39,0°C",
+        "36,5–37,0°C",
+        "> 39,2°C",
+        "< 38,0°C"
+      ],
+      "answer": 0,
+      "explain": "38,2–39,0°C daje 3 punkty."
+    },
+    {
+      "q": "Źrebię powinno wydalić smółkę do:",
+      "options": [
+        "30 min po narodzeniu",
+        "48 h po narodzeniu",
+        "7 dni po narodzeniu",
+        "8 h po narodzeniu"
+      ],
+      "answer": 3,
+      "explain": "Wydalenie smółki do 8 h po narodzeniu, następnie kał mleczny."
+    },
+    {
+      "q": "W kolejnych 2 dniach po okresie siarowym cielęta otrzymują mleko krowie w dawce:",
+      "options": [
+        "1,5 litra 3 × dziennie",
+        "5 litrów raz dziennie",
+        "0,5 litra 2 × dziennie",
+        "10% masy ciała raz dziennie"
+      ],
+      "answer": 0,
+      "explain": "Kolejne 2 dni – mleko krowie 1,5 litra 3 × dziennie."
+    },
+    {
+      "q": "Odsadzanie cieląt może nastąpić, gdy zjadają paszy treściwej na dobę:",
+      "options": [
+        "0,2 kg",
+        "3 kg",
+        "5 kg",
+        "1 kg"
+      ],
+      "answer": 3,
+      "explain": "Odsadzanie, gdy zwierzę zjada 1 kg paszy treściwej na dobę."
+    },
+    {
+      "q": "Szczenięta otwierają oczy około:",
+      "options": [
+        "2–3 dnia życia",
+        "13–17 dnia życia",
+        "8–10 dnia życia",
+        "4 tygodnia życia"
+      ],
+      "answer": 2,
+      "explain": "Około 8–10 dnia szczenięta otwierają oczy."
+    },
+    {
+      "q": "Osieroconych szczeniąt nie należy karmić mlekiem krowim, ponieważ:",
+      "options": [
+        "zawiera za dużo przeciwciał",
+        "wysoki poziom laktozy wywołuje biegunki",
+        "jest zbyt ubogie w laktozę",
+        "powoduje zaparcia"
+      ],
+      "answer": 1,
+      "explain": "Mleko krowie z uwagi na wysoki poziom laktozy może wywoływać biegunki i odwodnienie."
+    },
+    {
+      "q": "Pierwsze odrobaczanie szczeniąt i kociąt przeprowadza się w:",
+      "options": [
+        "1. tygodniu życia",
+        "6. miesiącu życia",
+        "2. tygodniu życia",
+        "4. tygodniu życia"
+      ],
+      "answer": 3,
+      "explain": "W 4. tyg. życia pierwszy raz odrobacza się szczenięta/kocięta."
+    },
+    {
+      "q": "Do prześwietlania jaj w czasie inkubacji służy:",
+      "options": [
+        "inkubator",
+        "pedometr",
+        "owoskop",
+        "wziernik"
+      ],
+      "answer": 2,
+      "explain": "Prześwietlanie jaj wykonuje się za pomocą lamp – owoskopów."
+    },
+    {
+      "q": "Okres inkubacji jaj kurzych wynosi:",
+      "options": [
+        "21 dni",
+        "18 dni",
+        "28 dni",
+        "25–30 dni"
+      ],
+      "answer": 0,
+      "explain": "Typowy okres inkubacji jaj kur to 21 dni."
+    },
+    {
+      "q": "Obracanie jaj kaczych kończy się:",
+      "options": [
+        "18. dnia",
+        "25. dnia",
+        "15. dnia",
+        "21. dnia"
+      ],
+      "answer": 1,
+      "explain": "U kaczek koniec obracania jaj – 25 dnia."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Pierwszym objawem ciąży u zwierząt jest:",
+      "options": [
+        "wyczuwalna podwójna ściana macicy.",
+        "wyczuwalny pęcherz płodowy.",
+        "brak rui.",
+        "cieńsze ściany macicy."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNiestosunek porodowy pociąga za sobą konieczność wykonania cesarskiego cięcia, ponieważ maluchy są ….",
+      "options": [
+        "zbyt duże, by urodzić się drogami naturalnymi",
+        "niepoprawnie ułożone względem macicy matki"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPierwsze USG można wykonać około 30. dnia po kryciu, zarówno u zwierząt gospodarskich, jak i towarzyszących.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Objawem trzeciego miesiąca ciąży u zwierząt gospodarskich jest:",
+      "options": [
+        "macica przesunięta bliżej miednicy.",
+        "wyczuwalna macica wielkości arbuza.",
+        "wyczuwalny zarodek wielkości jaja kurzego.",
+        "widoczne gruszkowate uwypuklenie prawego boku matki."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU małych zwierząt w ostatnim okresie ciąży, kiedy szkielet płodu ulegnie już mineralizacji, można wykonać … w celu uwidocznienia liczby płodów i ewentualnego wymierzenia rozmiaru ich czaszek w stosunku do macicy matki.",
+      "options": [
+        "badanie USG",
+        "zdjęcie RTG"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW trzecim miesiącu ciąży zwierząt gospodarskich można już wymacać płód, łożysko i błony płodowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, jakie warunki środowiskowe należy zapewnić samicom ciężarnym.",
+      "options": [
+        "Sucha, czysta ściółka.",
+        "Odpowiednie warunki temperatury i wilgotności powietrza.",
+        "Czysta woda.",
+        "Prawidłowo zbilansowana karma, wolna od zanieczyszczeń i mikotoksyn."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSamice powinny zostać przeniesione na porodówkę przynajmniej dwa … przed spodziewanym porodem, ponieważ mniej więcej tyle czasu trwa w organizmie matki wytworzenie przeciwciał przeciw patogenom w danym środowisku.",
+      "options": [
+        "tygodnie",
+        "dni"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOsobno należy wygospodarować teren obory (kojce, boksy) na porodówkę, która powinna podlegać czyszczeniu i dezynfekcji przynajmniej trzy razy pomiędzy kolejnymi wstawieniami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż objawy zbliżającego się porodu i zwierząt.",
+      "options": [
+        "Powiększenie sromu.",
+        "Samica staje się spokojna i ospała.",
+        "Podwyższenie temperatury ciała.",
+        "Wypłynięcie czopa śluzowego."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku nieprawidłowej prezentacji płodu należy ….",
+      "options": [
+        "skontaktować się z lekarzem weterynarii",
+        "jak najszybciej wykonać zabieg repozycji płodu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInicjacja porodu nie odbywa się ze strony płodu, ale ze strony człowieka, który podaje matce takie hormony jak kortykoliberyna, hormon adrenokortykotropowy (ACTH) i kortyzol.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, jaka faza nie występuje w początkowym etapie porodu.",
+      "options": [
+        "Rozluźnienie i rozwieranie szyjki macicy.",
+        "Odklejenie łożyska.",
+        "Skurcze macicy.",
+        "Kosmówko-omocznia osiąga światło pochwy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNiektóre nieprawidłowe prezentacje płodu u klaczy są bezwzględnym wskazaniem do …, ponieważ, z uwagi na duże ryzyko zapalenia otrzewnej u tego gatunku, decyzje o cesarskim cięciu podejmowane są bardzo rzadko.",
+      "options": [
+        "fetotomii",
+        "repozycji płodu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zwierząt wielopłodowych łożyska są wydalane pojedynczo po każdym kolejnym potomku lub opuszczają drogi rodne łącznie na samym końcu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż podstawowy sprzęt medyczny, który powinien posiadać personel odbierający poród.",
+      "options": [
+        "Rękawice gumowe.",
+        "Linki i łańcuszki porodowe.",
+        "Kleszcze i nici do podwiązania pępowiny.",
+        "Czysta woda, ręczniki."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeśli oś długa ciała płodu i oś długa ciała matki są zgodne, to mówimy o położeniu … płodu.",
+      "options": [
+        "poprzecznym lub pionowym",
+        "podłużnym lub prostym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiektóre problemy z rozwiązaniem ciąży mogą wynikać z niedoborów związków mineralnych, zaburzeń hormonalnych lub nieprawidłowości fizjologicznych lub anatomicznych, dlatego zawsze wcześniej należy uprzedzić lekarza weterynarii o spodziewanym porodzie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do nieprawidłowych postaw płodu zaliczamy postawę:",
+      "options": [
+        "dolną.",
+        "górną.",
+        "prawo- lub lewoboczną.",
+        "boczną."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUłożenie płodu to stosunek głowy lub kończyn płodu do ….",
+      "options": [
+        "jego tułowia",
+        "tułowia matki"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW prawidłowej postawie zarówno główka, jak i przednie kończyny powinny być skierowane do dróg rodnych w przodowaniu główkowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nieprawidłowości związane z niewłaściwym ułożeniem głowy przy porodzie.",
+      "options": [
+        "Podłużne skręcenie szyi.",
+        "Opadnięcie głowy na przedpiersie.",
+        "Skrzyżowanie kończyn na karku.",
+        "Zawinięcie głowy ku górze."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZaraz po porodzie świniom można podać pójło z 2–3 kg otrąb i ciepłej wody, które ma właściwości ….",
+      "options": [
+        "mlekopędne",
+        "moczopędne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo dwóch godzin po porodzie u cieląt powinien pojawić się odruch ssania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do czego może prowadzić nieleczenie stanów zapalnych macicy po porodzie?",
+      "options": [
+        "Do bezpłodności.",
+        "Do toksemii.",
+        "Do zahamowania laktacji.",
+        "Do padnięcia."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŹrebię po około 5 minutach od porodu podnosi głowę, a po … minutach próbuje wstawać.",
+      "options": [
+        "45",
+        "15"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku źrebiąt istnieje ustalony klucz oceny kondycji nowo narodzonego źrebięcia, znany jako giesseński schemat oceny punktowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W giesseńskim schemacie oceny punktowej wynik równy 5 punktom oznacza, że zwierzę jest:",
+      "options": [
+        "osłabione.",
+        "żywotne.",
+        "silnie osłabione."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOcenę stanu zdrowia nowo narodzonego źrebięcia wykonuje się między … godziną życia.",
+      "options": [
+        "6 a 24",
+        "1 a 3"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOznaką zdrowia w pierwszych godzinach życia źrebięcia jest częsty kontakt z matką, szukanie wymienia i odruch ssania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, które z zachowań nowo narodzonego źrebięcia nie należą do oznak zdrowia.",
+      "options": [
+        "Wydalenie smółki do 8 h po narodzeniu.",
+        "Wydalenie niewielkiej ilości smółki, częste napinanie się.",
+        "Łapanie haustów powietrza.",
+        "Nieskoordynowane ruchy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeżeli nowo narodzone źrebię uzyskało tylko 13 na 18 punktów z oceny stanu zdrowia, oznacza to, że jest silnie osłabione i konieczna jest ….",
+      "options": [
+        "konsultacja lekarska",
+        "szybka pomoc lekarska"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrawidłowe pojenie cieląt siarą dostarcza podstawowych składników odżywczych oraz przeciwciał matczynych, hormonów i peptydów regulacyjnych, czynników wzrostu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dawka dobowa preparatu mlekozastępczego to:",
+      "options": [
+        "8–10% masy ciała.",
+        "10–12% masy ciała.",
+        "14–16% masy ciała.",
+        "6–8% masy ciała."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOd … życia cielęcia należy mu podawać paszę treściwą.",
+      "options": [
+        "4 tygodnia",
+        "2 tygodnia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdsadzanie cieląt może odbywać się, gdy zwierzę zjada 3 kg paszy treściwej na dobę, co zazwyczaj wypada w okresie 10–12 tyg. życia, przy wadze około 70–80 kg.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż przyczyny pozostawiania nowo narodzonego miotu z matką przez pierwsze tygodnie życia w przypadku zwierząt towarzyszących.",
+      "options": [
+        "Młode nie posiadają w pełni sprawnej termoregulacji.",
+        "Matka wylizując młode pobudza odruchy defekacji.",
+        "Młode są ślepe i głuche."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSzczenięta po tygodniu od porodu … swoją wagę urodzeniową, a po 8–10 dniach otwierają oczy, chociaż jeszcze nie widzą.",
+      "options": [
+        "podwajają",
+        "potrajają"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiewskazane jest karmienie noworodków zwierząt towarzyszących mlekiem krowim, ponieważ z uwagi na wysoki poziom laktozy może ono wywoływać biegunki i powodować odwodnienie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, w jakim okresie pierwszy raz odrobacza się szczenięta/kocięta.",
+      "options": [
+        "W pierwszym tygodniu życia.",
+        "W czwartym tygodniu życia.",
+        "W pierwszym miesiącu życia.",
+        "W czwartym miesiącu życia."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW celu dokonania selekcji obumarłych zarodków prześwietla się jaja za pomocą specjalnych lamp – ….",
+      "options": [
+        "owoskopów",
+        "naświetlaczy UV"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSztuczna inkubacja jaj składa się zawsze z dwóch etapów – wysiadywania i klucia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Okres sztucznej inkubacji jaj kur trwa:",
+      "options": [
+        "27 dni.",
+        "21 dni.",
+        "32 dni.",
+        "14 dni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPisklę od wewnątrz nakłuwa skorupę w … końcu, gdzie znajduje się komora powietrzna.",
+      "options": [
+        "szerszym",
+        "węższym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkres klucia przypada zazwyczaj na 3 ostatnie dni inkubacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZasadniczą zmianą, jaką można zauważyć po zapłodnieniu u zwierząt jest brak rui, ale z uwagi na złożoność przyczyn takiego stanu, nie można na tej podstawie potwierdzić ciąży.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiestosunek porodowy pociąga za sobą konieczność wykonania cesarskiego cięcia, ponieważ maluchy są zbyt duże, by urodzić się drogami naturalnymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zarówno u zwierząt gospodarskich, jak i u towarzyszących, pierwsze USG można wykonać około:",
+      "options": [
+        "10 dnia po kryciu.",
+        "40 dnia po kryciu.",
+        "30 dnia po kryciu.",
+        "20 dnia po kryciu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Objawem czwartego miesiąca ciąży u zwierząt gospodarskich jest:",
+      "options": [
+        "wyczuwalna macica wielkości arbuza.",
+        "wyczuwalny zarodek wielkości jaja kurzego.",
+        "wyczuwalne drżenie macicy środkowej.",
+        "wyczuwalne spontaniczne lub prowokowane ruchy płodu."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU małych zwierząt w ostatnim okresie ciąży, kiedy szkielet płodu ulegnie już mineralizacji, można wykonać także badanie USG w celu uwidocznienia liczby płodów",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamice dużych zwierząt gospodarskich powinny zostać przeniesione na porodówkę przynajmniej dwa tygodnie przed spodziewanym porodem, ponieważ mniej więcej tyle czasu trwa w organizmie matki wytworzenie przeciwciał przeciw patogenom w danym środowisku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, jakie warunki środowiskowe należy zapewnić samicom ciężarnym.",
+      "options": [
+        "Odpowiednie warunki temperatury i wilgotności powietrza.",
+        "Sucha, czysta ściółka.",
+        "Prawidłowo zbilansowana karma, wolna od zanieczyszczeń i mikotoksyn.",
+        "Czysta woda."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Osobno należy wygospodarować teren obory (kojce, boksy) na porodówkę, która powinna podlegać czyszczeniu i dezynfekcji przynajmniej raz pomiędzy kolejnymi wstawieniami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObjawami zwiastunowymi porodu są: powiększenie sromu, a nawet jego obrzęk, a na 24–48 h przed porodem czop śluzowy ulega upłynnieniu i wycieka na zewnątrz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, które fazy występują w początkowym etapie porodu.",
+      "options": [
+        "Odklejenie łożyska.",
+        "Kosmówko-omocznia osiąga światło pochwy.",
+        "Rozluźnienie i rozwieranie szyjki macicy.",
+        "Skurcze macicy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku nieprawidłowej prezentacji płodu należy jak najszybciej wykonać zabieg fetotomii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInicjacja porodu odbywa się ze strony płodu, gdy osiąga on gotowość do opuszczenia organizmu matki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż podstawowy sprzęt medyczny, który powinien posiadać personel odbierający poród.",
+      "options": [
+        "Nożyczki do przecięcia pępowiny.",
+        "Czysta woda, ręczniki.",
+        "Kleszcze i nici do podwiązania pępowiny.",
+        "Gruszki do udrożnienia dróg oddechowych noworodka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zwierząt wielopłodowych łożyska są zawsze wydalane na samym końcu porodu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo nieprawidłowych postaw płodu zaliczamy postawę boczną i dolną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jeśli oś długa ciała płodu i oś długa ciała matki są zgodne, to mówimy o położeniu płodu:",
+      "options": [
+        "podłużnym.",
+        "poprzecznym.",
+        "prostym.",
+        "pionowym."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPostawa płodu to stosunek grzbietu płodu do grzbietu matki. Jeśli grzbiet płodu skierowany jest do grzbietu matki, mówimy o postawie górnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nieprawidłowości związane z niewłaściwym ułożeniem głowy przy porodzie.",
+      "options": [
+        "Zawinięcie głowy ku górze.",
+        "Podłużne skręcenie szyi.",
+        "Opadnięcie głowy na przedpiersie.",
+        "Skrzyżowanie kończyn na karku."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodawanie świniom zaraz po porodzie pójła z 2–3 kg otrąb i ciepłej wody zachęca lochę do wstania i zjedzenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹrebię już po 3 godzinach od porodu podąża za klaczą i pije siarę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dawka dobowa preparatu mlekozastępczego to:",
+      "options": [
+        "6–8% masy ciała.",
+        "14–16% masy ciała.",
+        "8–10% masy ciała.",
+        "10–12% masy ciała."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku źrebiąt istnieje ustalony klucz oceny kondycji nowo narodzonego źrebięcia, znany jako giesseński schemat oceny punktowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż czas, który musi minąć od porodu źrebięcia, aby mogło bez problemu podążać za klaczą i regularnie ssać wymię matki.",
+      "options": [
+        "90 minut.",
+        "12 godzin.",
+        "6 godzin.",
+        "2 godziny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż poprawnie nazwane nieprawidłowości związane z niewłaściwym ułożeniem kończyn płodu.",
+      "options": [
+        "Zaparcie biodrowe obustronne.",
+        "Zaparcie nadgarstkowe dwustronne wklinowane.",
+        "Zaparcie skokowe.",
+        "Skrzyżowanie na karku.",
+        "Zawinięcie na bok.",
+        "Zawinięcie ku górze."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOcenę stanu zdrowia nowo narodzonego źrebięcia wykonuje się między 2 a 4 godziną życia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W giesseńskim schemacie oceny punktowej wynik równy 8 punktom oznacza, że zwierzę jest:",
+      "options": [
+        "silnie osłabione.",
+        "żywotne.",
+        "osłabione."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW pierwszym tygodniu życia szczenięta przesypiają 90% czasu, pozostałe 10% poświęcają na jedzenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNaturalnym u źrebięcia w pierwszych godzinach życia jest brak kontaktu z matką oraz brak zainteresowania wymieniem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdsadzanie cieląt może odbywać się, gdy zwierzę zjada 1 kg paszy treściwej na dobę, co zazwyczaj wypada w okresie 10–12 tyg. życia, przy wadze około 70–80 kg.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu dokonania selekcji obumarłych zarodków prześwietla się jaja za pomocą specjalnych lamp – owoskopów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przyczyny pozostawiania nowo narodzonego miotu z matką przez pierwsze tygodnie życia w przypadku zwierząt towarzyszących.",
+      "options": [
+        "Młode nie posiadają w pełni sprawnej termoregulacji.",
+        "Młode są ślepe i głuche.",
+        "Młode wymagają pobudzenia do defekacji."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż, w którym tygodniu życia szczenięta zaczynają widzieć i słyszeć.",
+      "options": [
+        "W czwartym tygodniu życia.",
+        "W drugim tygodniu życia.",
+        "W trzecim tygodniu życia.",
+        "W piątym tygodniu życia."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSztuczna inkubacja jaj składa się zawsze z dwóch etapów – wylęgania i klucia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Okres sztucznej inkubacji jaj kaczki trwa:",
+      "options": [
+        "14 dni.",
+        "32 dni.",
+        "21 dni.",
+        "28 dni."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż moment, kiedy należy przestać obracać jaja w inkubatorach.",
+      "options": [
+        "Ostatnie 3 dni inkubacji.",
+        "Ostatni tydzień inkubacji.",
+        "Ostatnie 5 dni inkubacji."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

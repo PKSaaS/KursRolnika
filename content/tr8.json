@@ -1,0 +1,2017 @@
+{
+  "id": "tr8",
+  "course": "Technika w rolnictwie",
+  "title": "Energetyka odnawialna, urządzenia wodociągowe i wodno-melioracyjne",
+  "number": "VIII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Najważniejszą formą energii w gospodarstwie jest energia elektryczna – zasila silniki, oświetlenie, ogrzewanie, klimatyzację.",
+        "Odnawialne źródła energii: słońce, wiatr, spadek wody, biomasa (substancja z organizmów żywych – roślin i zwierząt).",
+        "Woda służy do picia, pojenia zwierząt, higieny zwierząt, pomieszczeń i maszyn, przygotowania paszy; jest podstawą ochrony przeciwpożarowej.",
+        "Woda w gospodarstwie powinna być czysta, wolna od bakterii i wirusów chorobotwórczych; dopuszczalne zawartości składników szkodliwych określają normy.",
+        "Nadmiar wody w glebie opóźnia lub uniemożliwia zabiegi, użycie maszyn, wypas.",
+        "Niedobór wody obniża tempo wzrostu i plon oraz sprzyja niektórym gatunkom chwastów.",
+        "Normy określają dopuszczalną zawartość szkodliwych składników fizycznych, chemicznych i biologicznych w wodzie."
+      ]
+    },
+    {
+      "heading": "1. Prąd elektryczny – wytwarzanie i parametry",
+      "points": [
+        "Prąd elektryczny – uporządkowany ruch ładunków elektrycznych w przewodniku w polu elektrycznym.",
+        "Prądnice przetwarzają energię mechaniczną na elektryczną (prądu stałego lub przemiennego).",
+        "Alternatory zamieniają energię mechaniczną w prąd przemienny.",
+        "Ogniwa (półprzewodniki) zamieniają energię słońca na elektryczną.",
+        "Parametry prądu: napięcie U [V], częstotliwość f [Hz], natężenie I [A], moc P [W]."
+      ]
+    },
+    {
+      "heading": "1.1. Prąd stały i przemienny, przyłącza",
+      "points": [
+        "Prąd stały – stały kierunek i wartość; w pojazdach (ciągniki, kombajny, samochody) instalacje 6 V, 12 V lub 24 V – ze względów bezpieczeństwa.",
+        "Prąd stały: zaleta – można go magazynować; wada – duże straty przy przesyle na większe odległości; oznaczenie: pozioma kreska [–].",
+        "Prąd przemienny – kierunek i wartość zmieniają się okresowo, średnia wartość w okresie = 0; u odbiorców 230 V i 400 V.",
+        "Prąd przemienny: zaleta – przesył na duże odległości; wada – brak możliwości magazynowania; oznaczenie: wężyk [~].",
+        "Prąd doprowadza się od linii niskiego napięcia przyłączem czteroprzewodowym (trójfazowym) lub dwuprzewodowym (jednofazowym).",
+        "Instalacja jednofazowa (maks. 230 V) – oświetlenie i urządzenia małej mocy.",
+        "Instalacja trójfazowa (siłowa, maks. 400 V) – silniki trójfazowe i urządzenia dużej mocy."
+      ]
+    },
+    {
+      "heading": "1.2. Odnawialne źródła energii",
+      "points": [
+        "Paliwa kopalne (węgiel, ropa, gaz) to źródła nieodnawialne, których zasoby gwałtownie maleją.",
+        "Energia słoneczna (termiczna, fotoelektryczna): wzrost roślin, suszenie (słoma, trawa, tytoń), podgrzewanie wody i powietrza w kolektorach, prąd z ogniw fotowoltaicznych (zużywany na bieżąco lub magazynowany w akumulatorach).",
+        "Energia wiatru (kinetyczna): najczęściej pojedyncze elektrownie na otwartych terenach; przed budową badania środowiskowe i pomiar wiatru.",
+        "Średnia prędkość wiatru dla dobrej wydajności elektrowni – minimum 4 m/s (15 km/h); prąd trafia bezpośrednio do sieci krajowej.",
+        "Energia geotermalna: odwiert i pompy wydobywają ciepłą wodę; drugim otworem wtłacza się ją z powrotem do złoża.",
+        "Wody geotermalne są mocno zasolone – trudne warunki pracy wymienników ciepła i armatury.",
+        "Geotermalne zakłady ciepłownicze: Pyrzyce, Mszczonów, Uniejów, Toruń.",
+        "Małe niskotemperaturowe systemy (baseny, szklarnie, domy) wymagają pomp ciepła.",
+        "Energia wody (kinetyczna i potencjalna): spiętrzona woda porusza koła młyńskie lub turbiny napędzające prądnice; energia trafia do sieci.",
+        "Paliwa kopalne przetwarza się na wtórne nośniki energii – inne paliwa (benzyna) lub energię (elektryczną)."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/kolektory-sloneczne.jpg",
+          "caption": "Energia słoneczna – panele słoneczne (w podręczniku: „kolektory słoneczne”) ustawione na otwartym terenie."
+        },
+        {
+          "src": "img/tr8/elektrownia-wiatrowa.jpg",
+          "caption": "Elektrownia wiatrowa – turbiny na otwartym terenie; dla dobrej wydajności średnia prędkość wiatru min. 4 m/s (15 km/h)."
+        },
+        {
+          "src": "img/tr8/elektrownia-wodna.jpg",
+          "caption": "Elektrownia wodna – spiętrzona woda porusza turbiny napędzające prądnice; energia trafia do sieci elektrycznej."
+        }
+      ]
+    },
+    {
+      "heading": "1.3. Energia z biomasy",
+      "points": [
+        "Biomasa – odpady organiczne lub specjalnie produkowane surowce organiczne.",
+        "Bezpośrednie spalanie (drewno, słoma, trzcina) daje energię cieplną.",
+        "Odchody zwierzęce i kukurydza są poddawane fermentacji metanowej – gaz spala się do ogrzewania pomieszczeń, wody lub napędu silników spalinowych.",
+        "Źródła: drewno opałowe (wierzba energetyczna), słoma zbóż, trzcina energetyczna (miskant), biopaliwa (etanol, oleje roślinne), biogaz (z odchodów lub odpadów organicznych).",
+        "Do podgrzewania wody wykorzystuje się energię słoneczną, wymienniki ciepła schładzające mleko, energię obornika, a nawet wymienniki pod legowiskami zwierząt.",
+        "Rolnictwo wykorzystuje wszystkie możliwości pozyskania tańszej energii, co przekłada się na wyniki ekonomiczne."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/biogazownia.jpg",
+          "caption": "Biogazownia – zbiorniki (komory fermentacyjne) z kopułami; z odchodów zwierzęcych i kukurydzy w fermentacji metanowej powstaje biogaz."
+        }
+      ]
+    },
+    {
+      "heading": "1.4. Instalacja elektryczna i silniki – eksploatacja",
+      "points": [
+        "Instalację wykonują upoważnione osoby; musi być dobrana do pomieszczenia i urządzeń.",
+        "Uszkodzenia (przewody, gniazda, wtyczki, wyłączniki) usuwa się na bieżąco – grożą porażeniem i pożarem.",
+        "Większe prace (wymiana przewodów, rozbudowa) – tylko wykwalifikowani elektromonterzy; amatorskie przeróbki powodują wypadki.",
+        "Zabezpieczenie przed przeciążeniem: wyłączniki samoczynne lub wkładki topikowe bezpieczników – chronią ludzi przed porażeniem i mienie przed pożarem.",
+        "Częste wyłączanie zabezpieczeń wymaga znalezienia przyczyny; osoby niepowołane nie mogą mieć dostępu do zabezpieczeń.",
+        "Czystość żarówek i opraw wpływa na jakość oświetlenia; przed czyszczeniem wyłączyć zasilanie (wykręcić lub wyłączyć bezpieczniki).",
+        "Silniki elektryczne czyści się okresowo najlepiej sprężonym powietrzem; przy użyciu wody chronić przed zawilgoceniem.",
+        "Moc silnika dobiera się do maszyny, by uniknąć przegrzania; kontroluje się połączenia przewodów i stan izolacji.",
+        "Nieużywane silniki przechowuje się w suchym pomieszczeniu.",
+        "Po dłuższej przerwie lub co najmniej raz w roku przegląd silnika przez konserwatora: łożyska, izolacja, pierścienie, pomiar oporności izolacji.",
+        "Staranna konserwacja instalacji zapewnia ciągłość dostawy energii i bezpieczeństwo; urządzenia elektryczne konserwuje się zgodnie z zaleceniami producenta.",
+        "Częstotliwość czyszczenia silników zależy od warunków pracy; sprawdza się, czy połączenia przewodów nie są poluzowane."
+      ]
+    },
+    {
+      "heading": "2. Źródła wody w gospodarstwie",
+      "points": [
+        "Studnie szybowe (kopane) – z kręgów betonowych, pobór wody do głębokości ok. 15 m.",
+        "Studnie wbijane (abisyńskie) – do kilkunastu metrów, z rur stalowych, ręczna pompa tłokowa.",
+        "Studnie wiercone (rurowe) – woda z głębokości poniżej 20 m; rury wkręcane i łączone gwintem.",
+        "Wiejskie lub gminne wodociągi – woda ze wspólnych ujęć, przygotowana do spożycia przez ludzi i zwierzęta.",
+        "Instalacja przy własnej studni: pompy, zbiorniki wyrównawcze (urządzenia hydroforowe), odbiorniki wody, sieć rurociągów.",
+        "Pompy podnoszą ciecz z poziomu niższego na wyższy lub przetłaczają ją do przestrzeni o wyższym ciśnieniu – zamieniają energię mechaniczną na energię ciśnienia cieczy."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/instalacja-wodociagowa-schemat.jpg",
+          "caption": "Schemat instalacji wodociągowej w gospodarstwie: ujęcie wody (studnia, oznaczenie max 700 cm), hydrofor w budynku mieszkalnym, rurociąg do wanny i do poideł w budynku gospodarczym."
+        }
+      ]
+    },
+    {
+      "heading": "2.1. Urządzenie hydroforowe",
+      "points": [
+        "Pompa zasysa wodę z ujęcia i tłoczy ją do zbiornika z powietrzem; powietrze się spręża.",
+        "Po osiągnięciu górnej wartości ciśnienia wyłącznik ciśnieniowy odcina zasilanie silnika pompy.",
+        "Ciśnienie powietrza wypycha wodę do odbiorników; przy dolnej granicy ciśnienia włącznik uruchamia silnik pompy.",
+        "Powietrze częściowo rozpuszcza się w wodzie – trzeba je okresowo uzupełniać; inaczej pompa często się włącza i wyłącza i szybciej zużywa.",
+        "W najniższym punkcie zbiornika – zawór spustowy (całkowite opróżnienie).",
+        "W rurociągu pompa–zbiornik: zawory odcinające (zamykają przepływ) i zwrotne (samoczynne, przepływ w jednym kierunku – woda nie cofa się do ujęcia).",
+        "Wyłącznik ciśnieniowy działa przy górnej wartości ciśnienia ustawionej na nim; w miarę poboru wody spada jej poziom i ciśnienie w zbiorniku."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/hydrofor-schemat.jpg",
+          "caption": "Schemat urządzenia hydroforowego: zbiornik hydroforu z manometrem i rurką wodowskazu, zawór odcinający, wyłącznik ciśnieniowy, zawór zwrotny, agregat pompa–silnik, przewód ssawny z zaworem zwrotnym, wyłącznik instalacji elektrycznej."
+        }
+      ]
+    },
+    {
+      "heading": "2.2. Poidła dla zwierząt",
+      "points": [
+        "Samoczynne poidła zapewniają wodę przez całą dobę.",
+        "Bydło i owce – poidła miskowe: zwierzę naciska nosem przycisk połączony z zaworem; po zakończeniu picia zawór się zamyka.",
+        "Obora uwięziowa – jedno poidło między dwoma stanowiskami, dla dwóch krów.",
+        "Obora wolnostanowiskowa i pastwisko – jedno poidło na 15–20 krów.",
+        "Na pastwisku stosuje się cysterny (także z poidłem miskowym).",
+        "Trzoda przy paszy suchej – ok. 2–3 l wody na 1 kg paszy; przy paszy płynnej pojenie może być zbyteczne.",
+        "Koryta dla świń – wady: duże zużycie wody i jej zanieczyszczanie.",
+        "Najczęściej dla świń – poidła smoczkowe podłączone do wodociągu, uruchamiane językiem lub podniebieniem; zawsze świeża woda.",
+        "Poidła smoczkowe montuje się na wysokości dostosowanej do wzrostu, nad kanałem gnojowym lub korytarzem (by nie zalewać legowisk).",
+        "Kury potrzebują trzy razy więcej wody niż spożywanej paszy.",
+        "Poidła dla kur: napełniane ręcznie, samoczynnie lub uruchamiane przez ptaki.",
+        "Poidła o stałym poziomie (pływak) – dużo pracy przy utrzymaniu czystości.",
+        "Poidła kropelkowe (uruchamiane przez ptaki) – proste, nie brudzą się, pewne, higieniczne; jedno na trzy kury.",
+        "Sieć wodociągowa w budynkach inwentarskich ułatwia pojenie zwierząt, przygotowanie paszy oraz utrzymanie w czystości urządzeń, maszyn i pomieszczeń.",
+        "Poidła kropelkowe są higieniczne, bo umożliwiają indywidualne pobranie wody; w poidłach o stałym poziomie pływak zamyka lub otwiera dopływ wody."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/poidlo-miskowe.jpg",
+          "caption": "Poidło miskowe – zwierzę naciska nosem przycisk (języczek) na dnie miski, który otwiera zawór dopływu wody."
+        },
+        {
+          "src": "img/tr8/poidlo-miskowe-schemat.jpg",
+          "caption": "Schemat poidła miskowego z komorą pływakową: woda przewodem doprowadzającym trafia do miski; pływak zamyka zawór po osiągnięciu stałego poziomu wody."
+        },
+        {
+          "src": "img/tr8/cysterna-do-pojenia.jpg",
+          "caption": "Cysterna do pojenia zwierząt na pastwisku."
+        },
+        {
+          "src": "img/tr8/cysterna-z-poidlem-miskowym.jpg",
+          "caption": "Cysterna z poidłem miskowym do pojenia zwierząt na pastwisku."
+        }
+      ]
+    },
+    {
+      "heading": "3. Melioracje – podział urządzeń",
+      "points": [
+        "Melioracje odwadniające odprowadzają nadmiar wody z gleby; nawadniające uzupełniają okresowe niedobory.",
+        "Urządzenia podstawowe: budowle piętrzące, ujęcia, kanały, rurociągi o średnicy co najmniej 0,6 m, budowle regulacyjne i przeciwpowodziowe, zbiorniki – na koszt i własność Skarbu Państwa.",
+        "Urządzenia szczegółowe: rowy, drenowania, rurociągi poniżej 0,6 m, stacje pomp do nawodnień ciśnieniowych, ziemne stawy rybne, groble, systemy nawodnień – wykonują i finansują głównie właściciele gruntów."
+      ]
+    },
+    {
+      "heading": "3.1. Odwadnianie – rowy i drenowanie",
+      "points": [
+        "Odwadnianie: odprowadzenie nadmiaru wody z profilu glebowego i obniżenie poziomu wód gruntowych – rowami otwartymi lub drenowaniem.",
+        "Rowy osączające – odprowadzają nadmiar wody.",
+        "Rowy zbierające – odprowadzają wodę z rowów osączających.",
+        "Rowy opaskowe – zapobiegają spływowi wody z terenów położonych wyżej.",
+        "Rowy obwodowe – chronią przed wodami powodziowymi.",
+        "Zalety rowów otwartych: duża przepustowość, sprawne odprowadzanie wody po opadach, mała materiałochłonność.",
+        "Wady rowów otwartych: zmniejszenie powierzchni produkcyjnej o 5–10%, utrudniona mechanizacja, duże nakłady na konserwację (wykaszanie skarp, odmulanie).",
+        "Drenowanie – odwodnienie siecią podziemnych przewodów, do których przesiąka woda z gruntu.",
+        "Sieć drenarska: sączki (ceramika lub tworzywa – przyjmują wodę z gruntu), zbieracze (odprowadzają wodę do odbiornika: rowy, stawy, jeziora, rzeki), studzienki drenarskie (niwelują duże różnice wysokości terenu)."
+      ],
+      "images": [
+        {
+          "src": "img/tr8/rowy-odwadniajace-dzialanie.jpg",
+          "caption": "Odwadniające działanie rowów: obniżenie zwierciadła wody gruntowej między rowami; linia przerywana – działanie na glebach lekkich (szerszy zasięg), linia ciągła – na glebach ciężkich."
+        },
+        {
+          "src": "img/tr8/rowy-otwarte-zalety-wady.jpg",
+          "caption": "Odwadnianie rowami otwartymi. Zalety: duża przepustowość, sprawne odprowadzanie wody z pól po opadach, mała materiałochłonność wykonania. Wady: zmniejszenie powierzchni produkcyjnej o 5–10%, utrudnienie mechanizacji prac, znaczne nakłady na konserwację."
+        },
+        {
+          "src": "img/tr8/rowy-rodzaje-funkcje.jpg",
+          "caption": "Rowy melioracyjne według pełnionych funkcji: osączające – odprowadzają nadmiar wody; zbierające – odprowadzają wodę z rowów osączających; opaskowe – zapobiegają spływowi powierzchniowemu wody z terenów położonych wyżej; obwodowe – zabezpieczają przed wodami powodziowymi."
+        }
+      ]
+    },
+    {
+      "heading": "3.2. Nawadnianie",
+      "points": [
+        "Funkcje urządzeń nawadniających: gromadzenie wody, ujęcie, doprowadzenie do obszarów nawadnianych, rozprowadzenie na powierzchni.",
+        "Nawadnianie ciśnieniowe: deszczowanie, mikronawodnienia.",
+        "Nawadnianie grawitacyjne: podsiąkowe, wgłębne, zalewowe, stokowe, bruzdowe."
+      ]
+    },
+    {
+      "heading": "3.3. Konserwacja urządzeń melioracyjnych",
+      "points": [
+        "Urządzenia wymagają corocznej konserwacji; obowiązek właścicieli gruntów lub spółki wodnej.",
+        "Najczęstsze usterki: zamulenie dna, zarastanie dna i skarp, uszkodzenia przez wodę, wymywanie i obsuwanie skarp, niszczenie przez ludzi i zwierzęta, uszkodzenia budowli (zastawki, przepusty, stopnie, wyloty drenarskie), zniszczenie umocnień, zamulenie drenów i studzienek.",
+        "Kanały: wykaszanie i usuwanie roślinności ze skarp dwa razy w roku, odmulanie dna co 2–3 lata, naprawa skarp i umocnień, usuwanie przeszkód (kłody, gałęzie, kamienie).",
+        "Urządzenia piętrzące, zastawki i przepusty systematycznie się zabezpiecza i naprawia.",
+        "Drenaż: utrzymanie rowów odbierających wodę ze zbieraczy; sieć, studzienki i wyloty sprawdza się co najmniej raz w roku.",
+        "Zatkany wylot zbieracza zatrzymuje wodę i powoduje zamulenie drenów.",
+        "Studzienki drenarskie kontroluje się co najmniej dwa razy w roku i usuwa zamulenie.",
+        "Objawy uszkodzenia drenażu: wymokliska, lokalne zawilgocenia.",
+        "Zamulone rurociągi czyści się drutem lub wodą pod ciśnieniem z węża; ostateczność – demontaż, wymiana elementów i ponowny montaż.",
+        "Urządzenia melioracyjne niszczą: czynniki atmosferyczne, przepływająca woda, zarastająca roślinność oraz działalność człowieka i zwierząt – stąd konieczność corocznej konserwacji."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Najważniejsza forma energii w gospodarstwie",
+      "back": "Energia elektryczna."
+    },
+    {
+      "front": "Odnawialne źródła energii",
+      "back": "Słońce, wiatr, spadek wody, biomasa."
+    },
+    {
+      "front": "Biomasa – definicja",
+      "back": "Substancja powstająca z organizmów żywych (roślin i zwierząt)."
+    },
+    {
+      "front": "Skutki niedoboru wody dla roślin",
+      "back": "Wolniejszy wzrost, spadek plonu, sprzyja niektórym chwastom."
+    },
+    {
+      "front": "Prąd elektryczny – definicja",
+      "back": "Uporządkowany ruch ładunków elektrycznych w przewodniku w polu elektrycznym."
+    },
+    {
+      "front": "Prądnica",
+      "back": "Przetwarza energię mechaniczną na elektryczną (prąd stały lub przemienny)."
+    },
+    {
+      "front": "Alternator",
+      "back": "Zamienia energię mechaniczną w prąd przemienny."
+    },
+    {
+      "front": "Ogniwo fotowoltaiczne",
+      "back": "Półprzewodnik zamieniający energię słońca na elektryczną."
+    },
+    {
+      "front": "Jednostka napięcia",
+      "back": "Wolt [V]."
+    },
+    {
+      "front": "Jednostka natężenia prądu",
+      "back": "Amper [A]."
+    },
+    {
+      "front": "Jednostka częstotliwości",
+      "back": "Herc [Hz]."
+    },
+    {
+      "front": "Jednostka mocy",
+      "back": "Wat [W]."
+    },
+    {
+      "front": "Napięcia instalacji w pojazdach rolniczych",
+      "back": "6 V, 12 V lub 24 V (prąd stały)."
+    },
+    {
+      "front": "Dlaczego w pojazdach stosuje się niskie napięcia?",
+      "back": "Ze względów bezpieczeństwa."
+    },
+    {
+      "front": "Zaleta i wada prądu stałego",
+      "back": "Można go magazynować; duże straty przy przesyle na odległość."
+    },
+    {
+      "front": "Oznaczenie prądu stałego",
+      "back": "Pozioma kreska [–]."
+    },
+    {
+      "front": "Oznaczenie prądu przemiennego",
+      "back": "Wężyk [~]."
+    },
+    {
+      "front": "Zaleta i wada prądu przemiennego",
+      "back": "Przesył na duże odległości; nie da się go magazynować."
+    },
+    {
+      "front": "Średnia wartość prądu przemiennego w okresie",
+      "back": "0."
+    },
+    {
+      "front": "Napięcia prądu przemiennego u odbiorców",
+      "back": "230 V i 400 V."
+    },
+    {
+      "front": "Przyłącze trójfazowe",
+      "back": "Czteroprzewodowe."
+    },
+    {
+      "front": "Przyłącze jednofazowe",
+      "back": "Dwuprzewodowe."
+    },
+    {
+      "front": "Instalacja jednofazowa – napięcie i zastosowanie",
+      "back": "Maks. 230 V – oświetlenie i urządzenia małej mocy."
+    },
+    {
+      "front": "Instalacja siłowa – napięcie i zastosowanie",
+      "back": "Trójfazowa, maks. 400 V – silniki trójfazowe i urządzenia dużej mocy."
+    },
+    {
+      "front": "Paliwa kopalne",
+      "back": "Węgiel, ropa naftowa, gaz ziemny – źródła nieodnawialne."
+    },
+    {
+      "front": "Zastosowania energii słonecznej w rolnictwie",
+      "back": "Wzrost roślin, suszenie, kolektory (woda, powietrze), fotowoltaika."
+    },
+    {
+      "front": "Minimalna średnia prędkość wiatru dla elektrowni wiatrowej",
+      "back": "4 m/s (15 km/h)."
+    },
+    {
+      "front": "Co wykonuje się przed budową elektrowni wiatrowej?",
+      "back": "Badania środowiskowe i pomiar prędkości wiatru."
+    },
+    {
+      "front": "Po co drugi otwór w instalacji geotermalnej?",
+      "back": "Do wtłaczania schłodzonej wody z powrotem do złoża."
+    },
+    {
+      "front": "Problem wód geotermalnych",
+      "back": "Silne zasolenie – trudne warunki pracy wymienników i armatury."
+    },
+    {
+      "front": "Geotermalne zakłady ciepłownicze w Polsce",
+      "back": "Pyrzyce, Mszczonów, Uniejów, Toruń."
+    },
+    {
+      "front": "Co jest potrzebne do niskotemperaturowego wykorzystania ciepła ziemi?",
+      "back": "Pompy ciepła."
+    },
+    {
+      "front": "Jak pozyskuje się energię wody?",
+      "back": "Spiętrzona woda porusza koła młyńskie lub turbiny napędzające prądnice."
+    },
+    {
+      "front": "Fermentacja metanowa – surowce",
+      "back": "Odchody zwierzęce i kukurydza."
+    },
+    {
+      "front": "Źródła energii z biomasy",
+      "back": "Wierzba energetyczna, słoma, miskant, biopaliwa (etanol, oleje), biogaz."
+    },
+    {
+      "front": "Miskant",
+      "back": "Trzcina energetyczna."
+    },
+    {
+      "front": "Nietypowe źródła ciepła do podgrzewania wody w gospodarstwie",
+      "back": "Wymienniki schładzające mleko, energia obornika, wymienniki pod legowiskami."
+    },
+    {
+      "front": "Zabezpieczenia instalacji przed przeciążeniem",
+      "back": "Wyłączniki samoczynne lub wkładki topikowe bezpieczników."
+    },
+    {
+      "front": "Kto wykonuje rozbudowę instalacji elektrycznej?",
+      "back": "Wykwalifikowani elektromonterzy."
+    },
+    {
+      "front": "Co zrobić przed czyszczeniem opraw oświetleniowych?",
+      "back": "Wyłączyć zasilanie – wykręcić lub wyłączyć bezpieczniki."
+    },
+    {
+      "front": "Najlepszy sposób czyszczenia silnika elektrycznego",
+      "back": "Strumień sprężonego powietrza."
+    },
+    {
+      "front": "Skutek zbyt małej mocy silnika względem maszyny",
+      "back": "Przegrzanie i uszkodzenie silnika."
+    },
+    {
+      "front": "Jak często przegląd silnika elektrycznego?",
+      "back": "Po każdej dłuższej przerwie lub co najmniej raz w roku."
+    },
+    {
+      "front": "Zakres przeglądu silnika elektrycznego",
+      "back": "Łożyska, izolacja, pierścienie, pomiar oporności izolacji."
+    },
+    {
+      "front": "Studnia szybowa (kopana)",
+      "back": "Z kręgów betonowych, do głębokości ok. 15 m."
+    },
+    {
+      "front": "Studnia wbijana (abisyńska)",
+      "back": "Rury stalowe, do kilkunastu metrów, ręczna pompa tłokowa."
+    },
+    {
+      "front": "Studnia wiercona (rurowa)",
+      "back": "Woda z głębokości poniżej 20 m; rury łączone gwintem."
+    },
+    {
+      "front": "Elementy instalacji wodociągowej z własnej studni",
+      "back": "Pompy, zbiorniki wyrównawcze (hydrofor), odbiorniki wody, rurociągi."
+    },
+    {
+      "front": "Pompa – przemiana energii",
+      "back": "Energia mechaniczna → energia ciśnienia cieczy."
+    },
+    {
+      "front": "Co wyłącza pompę w hydroforze?",
+      "back": "Wyłącznik ciśnieniowy po osiągnięciu górnej wartości ciśnienia."
+    },
+    {
+      "front": "Dlaczego uzupełnia się powietrze w zbiorniku hydroforu?",
+      "back": "Rozprasza się w wodzie; jego brak powoduje częste włączanie pompy i szybsze zużycie."
+    },
+    {
+      "front": "Zawór spustowy hydroforu – położenie",
+      "back": "W najniżej położonym punkcie zbiornika."
+    },
+    {
+      "front": "Zawór zwrotny",
+      "back": "Działa samoczynnie, przepuszcza wodę w jednym kierunku – woda nie cofa się do ujęcia."
+    },
+    {
+      "front": "Zawór odcinający",
+      "back": "Umożliwia zamknięcie przepływu wody."
+    },
+    {
+      "front": "Poidło miskowe – działanie",
+      "back": "Zwierzę naciska nosem przycisk zaworu, który otwiera dopływ wody."
+    },
+    {
+      "front": "Liczba krów na jedno poidło w oborze uwięziowej",
+      "back": "Dwie (poidło między dwoma stanowiskami)."
+    },
+    {
+      "front": "Liczba krów na jedno poidło w oborze wolnostanowiskowej / pastwisku",
+      "back": "15–20 krów."
+    },
+    {
+      "front": "Zapotrzebowanie świń na wodę przy paszy suchej",
+      "back": "Ok. 2–3 l na 1 kg paszy."
+    },
+    {
+      "front": "Wady pojenia świń z koryt",
+      "back": "Duże zużycie wody i jej zanieczyszczanie."
+    },
+    {
+      "front": "Najczęstsze poidła dla świń",
+      "back": "Smoczkowe, podłączone do wodociągu."
+    },
+    {
+      "front": "Gdzie montuje się poidła smoczkowe?",
+      "back": "Nad kanałem gnojowym lub korytarzem, na wysokości dostosowanej do wzrostu."
+    },
+    {
+      "front": "Zapotrzebowanie kur na wodę",
+      "back": "Trzy razy większe niż ilość spożywanej paszy."
+    },
+    {
+      "front": "Ile kur na jedno poidło kropelkowe?",
+      "back": "Trzy."
+    },
+    {
+      "front": "Zalety poideł kropelkowych",
+      "back": "Prosta budowa, brak zanieczyszczeń, pewne, higieniczne."
+    },
+    {
+      "front": "Co utrzymuje stały poziom wody w poidle?",
+      "back": "Pływak."
+    },
+    {
+      "front": "Melioracje odwadniające vs nawadniające",
+      "back": "Odprowadzają nadmiar wody vs uzupełniają okresowe niedobory."
+    },
+    {
+      "front": "Granica średnicy rurociągów: podstawowe/szczegółowe",
+      "back": "0,6 m (podstawowe ≥ 0,6 m, szczegółowe < 0,6 m)."
+    },
+    {
+      "front": "Kto finansuje urządzenia melioracji podstawowych?",
+      "back": "Skarb Państwa (są jego własnością)."
+    },
+    {
+      "front": "Kto finansuje urządzenia melioracji szczegółowych?",
+      "back": "Głównie właściciele gruntów."
+    },
+    {
+      "front": "Rowy osączające",
+      "back": "Odprowadzają nadmiar wody z gleby."
+    },
+    {
+      "front": "Rowy zbierające",
+      "back": "Odprowadzają wodę z rowów osączających."
+    },
+    {
+      "front": "Rowy opaskowe",
+      "back": "Zapobiegają spływowi wody z terenów położonych wyżej."
+    },
+    {
+      "front": "Rowy obwodowe",
+      "back": "Chronią przed wodami powodziowymi."
+    },
+    {
+      "front": "O ile rowy otwarte zmniejszają powierzchnię produkcyjną?",
+      "back": "O 5–10%."
+    },
+    {
+      "front": "Zalety rowów otwartych",
+      "back": "Duża przepustowość, sprawny odpływ po opadach, mała materiałochłonność."
+    },
+    {
+      "front": "Drenowanie",
+      "back": "Odwodnienie siecią podziemnych przewodów, do których przesiąka woda z gruntu."
+    },
+    {
+      "front": "Elementy sieci drenarskiej",
+      "back": "Sączki, zbieracze, studzienki drenarskie."
+    },
+    {
+      "front": "Sączki – materiał i rola",
+      "back": "Ceramika lub tworzywa; przyjmują nadmiar wody z gruntu."
+    },
+    {
+      "front": "Rola studzienek drenarskich",
+      "back": "Niwelacja dużych różnic wysokości terenu."
+    },
+    {
+      "front": "Metody nawadniania ciśnieniowego",
+      "back": "Deszczowanie, mikronawodnienia."
+    },
+    {
+      "front": "Metody nawadniania grawitacyjnego",
+      "back": "Podsiąkowe, wgłębne, zalewowe, stokowe, bruzdowe."
+    },
+    {
+      "front": "Kto konserwuje urządzenia melioracyjne?",
+      "back": "Właściciele użytków rolnych lub spółka wodna."
+    },
+    {
+      "front": "Jak często wykaszać skarpy rowów?",
+      "back": "Dwa razy w roku."
+    },
+    {
+      "front": "Jak często odmulać dno rowów?",
+      "back": "Co 2–3 lata."
+    },
+    {
+      "front": "Jak często kontrolować studzienki drenarskie?",
+      "back": "Co najmniej dwa razy w roku."
+    },
+    {
+      "front": "Objawy uszkodzenia drenażu",
+      "back": "Wymokliska i lokalne zawilgocenia."
+    },
+    {
+      "front": "Czym czyści się zamulone dreny?",
+      "back": "Drutem lub wodą pod ciśnieniem z węża."
+    },
+    {
+      "front": "Jakie czynniki niszczą urządzenia melioracyjne?",
+      "back": "Czynniki atmosferyczne, przepływająca woda, zarastająca roślinność, działalność człowieka i zwierząt."
+    },
+    {
+      "front": "Nazwij elementy urządzenia hydroforowego.",
+      "back": "Zbiornik hydroforu, manometr, rurka wodowskazu, zawór odcinający, wyłącznik ciśnieniowy, zawór zwrotny, agregat pompa–silnik, przewód ssawny z zaworem zwrotnym, wyłącznik instalacji elektrycznej.",
+      "img": "img/tr8/hydrofor-schemat.jpg"
+    },
+    {
+      "front": "Jakie to urządzenie i jak działa?",
+      "back": "Poidło miskowe – zwierzę naciska nosem przycisk połączony z zaworem, woda napływa do miski; po zakończeniu picia zawór się zamyka. Dla bydła i owiec.",
+      "img": "img/tr8/poidlo-miskowe.jpg"
+    },
+    {
+      "front": "Jak działa poidło miskowe z komorą pływakową?",
+      "back": "Woda dopływa przewodem doprowadzającym, pływak w komorze pływakowej zamyka zawór, gdy poziom wody w misce jest wystarczający (stały poziom wody).",
+      "img": "img/tr8/poidlo-miskowe-schemat.jpg"
+    },
+    {
+      "front": "Jaki obiekt OZE przedstawia zdjęcie i co w nim powstaje?",
+      "back": "Biogazownia – w fermentacji metanowej odchodów zwierzęcych i kukurydzy powstaje biogaz (ogrzewanie, napęd silników).",
+      "img": "img/tr8/biogazownia.jpg"
+    },
+    {
+      "front": "Jak działają rowy odwadniające na glebach lekkich i ciężkich?",
+      "back": "Obniżają poziom wody gruntowej między rowami; na glebach lekkich zasięg działania jest większy (linia przerywana), na ciężkich mniejszy (linia ciągła).",
+      "img": "img/tr8/rowy-odwadniajace-dzialanie.jpg"
+    },
+    {
+      "front": "Jaki obiekt OZE przedstawia zdjęcie i jak działa?",
+      "back": "Elektrownia wodna – spiętrzona woda (energia kinetyczna i potencjalna) porusza turbiny napędzające prądnice; prąd trafia do sieci.",
+      "img": "img/tr8/elektrownia-wodna.jpg"
+    },
+    {
+      "front": "Jakie urządzenie do pojenia przedstawia zdjęcie?",
+      "back": "Cysternę z poidłem miskowym do pojenia zwierząt na pastwisku.",
+      "img": "img/tr8/cysterna-z-poidlem-miskowym.jpg"
+    },
+    {
+      "front": "Dlaczego poidła kropelkowe dla kur są higieniczne?",
+      "back": "Umożliwiają indywidualne pobranie wody i nie ulegają zanieczyszczeniu; jedno poidło na trzy kury."
+    },
+    {
+      "front": "Funkcje wody w gospodarstwie",
+      "back": "Picie, pojenie zwierząt, higiena zwierząt, pomieszczeń i maszyn, przygotowanie paszy; podstawa ochrony przeciwpożarowej."
+    },
+    {
+      "front": "Sposoby zaopatrzenia gospodarstwa w wodę",
+      "back": "Studnie szybowe (kopane), wbijane (abisyńskie), wiercone (rurowe), wiejskie lub gminne wodociągi."
+    },
+    {
+      "front": "Urządzenia melioracji podstawowych – przykłady",
+      "back": "Budowle piętrzące, ujęcia wody, kanały, rurociągi o średnicy ≥ 0,6 m, budowle regulacyjne i przeciwpowodziowe, zbiorniki wodne."
+    },
+    {
+      "front": "Urządzenia melioracji szczegółowych – przykłady",
+      "back": "Rowy, drenowania, rurociągi < 0,6 m, stacje pomp do nawodnień ciśnieniowych, ziemne stawy rybne, groble, systemy nawodnień grawitacyjnych i ciśnieniowych."
+    },
+    {
+      "front": "Funkcje urządzeń nawadniających",
+      "back": "Gromadzenie wody, ujęcie wody, doprowadzenie do obszarów nawadnianych, rozprowadzenie na powierzchni."
+    },
+    {
+      "front": "Najczęstsze nieprawidłowości systemu melioracyjnego",
+      "back": "Zamulenie i zarastanie dna i skarp, uszkodzenia przez wodę, wymywanie i obsuwanie skarp, niszczenie przez ludzi i zwierzęta, uszkodzenia budowli (zastawki, przepusty, stopnie, wyloty drenarskie) i umocnień, zamulenie drenów i studzienek."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Jednostką natężenia prądu jest:",
+      "options": [
+        "amper [A]",
+        "wolt [V]",
+        "wat [W]",
+        "herc [Hz]"
+      ],
+      "answer": 0,
+      "explain": "Natężenie prądu I mierzy się w amperach."
+    },
+    {
+      "q": "Alternator służy do:",
+      "options": [
+        "zamiany energii słonecznej w elektryczną",
+        "magazynowania prądu stałego",
+        "zamiany energii mechanicznej w prąd przemienny",
+        "pomiaru napięcia"
+      ],
+      "answer": 2,
+      "explain": "Alternatory zmieniają energię mechaniczną w prąd przemienny."
+    },
+    {
+      "q": "Instalacje elektryczne w ciągnikach i kombajnach pracują przy napięciu:",
+      "options": [
+        "110 V",
+        "6 V, 12 V lub 24 V",
+        "230 V",
+        "400 V"
+      ],
+      "answer": 1,
+      "explain": "W pojazdach stosuje się prąd stały o napięciu 6, 12 lub 24 V."
+    },
+    {
+      "q": "Zaletą prądu stałego jest:",
+      "options": [
+        "przesył na duże odległości bez strat",
+        "średnia wartość równa zero",
+        "wysokie napięcie 400 V",
+        "możliwość magazynowania"
+      ],
+      "answer": 3,
+      "explain": "Prąd stały można magazynować, ale ma duże straty przy przesyle."
+    },
+    {
+      "q": "Urządzenia zasilane prądem przemiennym oznacza się symbolem:",
+      "options": [
+        "poziomej kreski [–]",
+        "plusa [+]",
+        "litery P",
+        "wężyka [~]"
+      ],
+      "answer": 3,
+      "explain": "Prąd przemienny oznacza się wężykiem [~]."
+    },
+    {
+      "q": "Wadą prądu przemiennego jest:",
+      "options": [
+        "duże straty przy przesyle",
+        "brak możliwości magazynowania",
+        "niskie napięcie",
+        "stały kierunek przepływu"
+      ],
+      "answer": 1,
+      "explain": "Prądu przemiennego nie można magazynować."
+    },
+    {
+      "q": "Przyłącze trójfazowe jest przyłączem:",
+      "options": [
+        "dwuprzewodowym",
+        "trzyprzewodowym",
+        "czteroprzewodowym",
+        "jednoprzewodowym"
+      ],
+      "answer": 2,
+      "explain": "Przyłącze czteroprzewodowe to przyłącze trójfazowe."
+    },
+    {
+      "q": "Silniki trójfazowe zasila się z instalacji siłowej o napięciu maksymalnym:",
+      "options": [
+        "400 V",
+        "12 V",
+        "24 V",
+        "230 V"
+      ],
+      "answer": 0,
+      "explain": "Instalacja trójfazowa (siłowa) ma maks. napięcie 400 V."
+    },
+    {
+      "q": "Średnia prędkość wiatru zapewniająca elektrowni wiatrowej dobrą wydajność to minimum:",
+      "options": [
+        "4 m/s",
+        "1 m/s",
+        "2 m/s",
+        "10 m/s"
+      ],
+      "answer": 0,
+      "explain": "Prędkość wiatru powinna średnio wynosić minimum 4 m/s (15 km/h)."
+    },
+    {
+      "q": "Wody geotermalne powodują trudne warunki pracy wymienników ciepła, ponieważ są:",
+      "options": [
+        "bardzo zimne",
+        "radioaktywne",
+        "mocno zasolone",
+        "silnie kwaśne"
+      ],
+      "answer": 2,
+      "explain": "Wody geotermiczne są z reguły mocno zasolone."
+    },
+    {
+      "q": "Geotermalny zakład ciepłowniczy działa m.in. w:",
+      "options": [
+        "Bełchatowie",
+        "Pyrzycach",
+        "Kozienicach",
+        "Turowie"
+      ],
+      "answer": 1,
+      "explain": "Przykłady: Pyrzyce, Mszczonów, Uniejów, Toruń."
+    },
+    {
+      "q": "Do wykorzystania ciepła ziemi w domach i szklarniach potrzebne są:",
+      "options": [
+        "kolektory słoneczne",
+        "turbiny wodne",
+        "alternatory",
+        "pompy ciepła"
+      ],
+      "answer": 3,
+      "explain": "Niskotemperaturowe systemy wymagają pomp ciepła."
+    },
+    {
+      "q": "Fermentacji metanowej w biogazowni poddaje się m.in.:",
+      "options": [
+        "drewno i słomę",
+        "węgiel i torf",
+        "etanol i olej rzepakowy",
+        "odchody zwierzęce i kukurydzę"
+      ],
+      "answer": 3,
+      "explain": "Odchody zwierzęce i kukurydzę poddaje się fermentacji metanowej."
+    },
+    {
+      "q": "Miskant to roślina wykorzystywana jako:",
+      "options": [
+        "drewno opałowe",
+        "trzcina energetyczna",
+        "surowiec do etanolu",
+        "pasza objętościowa"
+      ],
+      "answer": 1,
+      "explain": "Trzcina energetyczna to np. miskant."
+    },
+    {
+      "q": "Wierzba energetyczna jest źródłem:",
+      "options": [
+        "biogazu",
+        "bioetanolu",
+        "drewna opałowego",
+        "oleju roślinnego"
+      ],
+      "answer": 2,
+      "explain": "Drewno opałowe pozyskuje się m.in. z wierzby energetycznej."
+    },
+    {
+      "q": "Instalację elektryczną przed przeciążeniem chronią:",
+      "options": [
+        "wyłączniki samoczynne lub wkładki topikowe",
+        "zawory zwrotne",
+        "uziemione rynny",
+        "pompy ciepła"
+      ],
+      "answer": 0,
+      "explain": "Instalacje zabezpiecza się wyłącznikami samoczynnymi lub wkładkami topikowymi."
+    },
+    {
+      "q": "Silniki elektryczne najlepiej czyścić:",
+      "options": [
+        "strumieniem sprężonego powietrza",
+        "strumieniem gorącej wody",
+        "benzyną",
+        "na mokro szczotką drucianą"
+      ],
+      "answer": 0,
+      "explain": "Do czyszczenia najlepiej użyć sprężonego powietrza."
+    },
+    {
+      "q": "Przegląd silnika elektrycznego przez konserwatora należy zlecać co najmniej:",
+      "options": [
+        "raz na miesiąc",
+        "raz na 5 lat",
+        "raz w roku",
+        "raz na 10 lat"
+      ],
+      "answer": 2,
+      "explain": "Przegląd po dłuższej przerwie lub co najmniej raz w roku."
+    },
+    {
+      "q": "Studnie szybowe (kopane) pozwalają pobierać wodę do głębokości ok.:",
+      "options": [
+        "3 m",
+        "15 m",
+        "50 m",
+        "100 m"
+      ],
+      "answer": 1,
+      "explain": "Studnie szybowe służą do poboru wody do ok. 15 m."
+    },
+    {
+      "q": "Studnia abisyńska to studnia:",
+      "options": [
+        "kopana",
+        "wiercona",
+        "gminna",
+        "wbijana"
+      ],
+      "answer": 3,
+      "explain": "Studnie wbijane nazywa się abisyńskimi."
+    },
+    {
+      "q": "Studnie wiercone wydobywają wodę z głębokości:",
+      "options": [
+        "do 5 m",
+        "do 10 m",
+        "do 15 m",
+        "poniżej 20 m"
+      ],
+      "answer": 3,
+      "explain": "Studnie wiercone (rurowe) pobierają wodę z głębokości poniżej 20 m."
+    },
+    {
+      "q": "W urządzeniu hydroforowym pompę wyłącza:",
+      "options": [
+        "pływak",
+        "wyłącznik ciśnieniowy",
+        "zawór zwrotny",
+        "zawór spustowy"
+      ],
+      "answer": 1,
+      "explain": "Wyłącznik ciśnieniowy odcina zasilanie silnika po osiągnięciu górnego ciśnienia."
+    },
+    {
+      "q": "Brak powietrza w zbiorniku hydroforu powoduje:",
+      "options": [
+        "wzrost ciśnienia",
+        "cofanie wody do studni",
+        "częste włączanie i wyłączanie pompy",
+        "zamarzanie wody"
+      ],
+      "answer": 2,
+      "explain": "Powietrze trzeba uzupełniać, by pompa nie włączała się zbyt często."
+    },
+    {
+      "q": "Zawór zwrotny w instalacji hydroforowej:",
+      "options": [
+        "przepuszcza wodę tylko w jednym kierunku",
+        "opróżnia zbiornik",
+        "reguluje ciśnienie w zbiorniku",
+        "uzupełnia powietrze"
+      ],
+      "answer": 0,
+      "explain": "Zawory zwrotne działają samoczynnie i zapobiegają wypływowi wody do ujęcia."
+    },
+    {
+      "q": "W oborze wolnostanowiskowej jedno poidło miskowe wystarcza dla:",
+      "options": [
+        "15–20 krów",
+        "2 krów",
+        "5–6 krów",
+        "40–50 krów"
+      ],
+      "answer": 0,
+      "explain": "W oborach wolnostanowiskowych i na pastwiskach jedno poidło wystarcza dla 15–20 krów."
+    },
+    {
+      "q": "W oborze uwięziowej jedno poidło przypada na:",
+      "options": [
+        "jedną krowę",
+        "pięć krów",
+        "dwie krowy",
+        "dziesięć krów"
+      ],
+      "answer": 2,
+      "explain": "Poidło umieszcza się między dwoma stanowiskami dla dwóch krów."
+    },
+    {
+      "q": "Przy żywieniu świń paszą suchą należy zapewnić wodę w ilości ok.:",
+      "options": [
+        "0,5 l na 1 kg paszy",
+        "2–3 l na 1 kg paszy",
+        "5–6 l na 1 kg paszy",
+        "10 l na 1 kg paszy"
+      ],
+      "answer": 1,
+      "explain": "Przy paszy suchej potrzeba ok. 2–3 l wody na 1 kg paszy."
+    },
+    {
+      "q": "Poidła smoczkowe dla świń montuje się nad kanałem gnojowym lub korytarzem, aby:",
+      "options": [
+        "ułatwić dostęp prosiętom",
+        "zmniejszyć zużycie paszy",
+        "ogrzać wodę",
+        "nie zalewać legowisk"
+      ],
+      "answer": 3,
+      "explain": "Takie umieszczenie wyklucza zalewanie legowisk."
+    },
+    {
+      "q": "Zapotrzebowanie kur na wodę jest w stosunku do zjadanej paszy:",
+      "options": [
+        "dwa razy mniejsze",
+        "takie samo",
+        "dziesięć razy większe",
+        "trzy razy większe"
+      ],
+      "answer": 3,
+      "explain": "Kury potrzebują trzy razy więcej wody niż spożywanej paszy."
+    },
+    {
+      "q": "Jedno poidło kropelkowe przeznacza się dla:",
+      "options": [
+        "jednej kury",
+        "trzech kur",
+        "dziesięciu kur",
+        "pięćdziesięciu kur"
+      ],
+      "answer": 1,
+      "explain": "Jedno poidło kropelkowe przeznacza się dla trzech kur."
+    },
+    {
+      "q": "Do urządzeń melioracji podstawowych zalicza się rurociągi o średnicy:",
+      "options": [
+        "poniżej 0,1 m",
+        "poniżej 0,6 m",
+        "co najmniej 0,6 m",
+        "dokładnie 0,3 m"
+      ],
+      "answer": 2,
+      "explain": "Rurociągi ≥ 0,6 m należą do urządzeń podstawowych."
+    },
+    {
+      "q": "Urządzenia melioracji szczegółowych finansują głównie:",
+      "options": [
+        "właściciele gruntów",
+        "Skarb Państwa",
+        "gminy",
+        "Unia Europejska"
+      ],
+      "answer": 0,
+      "explain": "Wykonanie i finansowanie urządzeń szczegółowych leży w gestii właścicieli gruntów."
+    },
+    {
+      "q": "Rowy zapobiegające spływowi wody z terenów położonych wyżej to rowy:",
+      "options": [
+        "opaskowe",
+        "osączające",
+        "zbierające",
+        "obwodowe"
+      ],
+      "answer": 0,
+      "explain": "Rowy opaskowe zapobiegają spływowi powierzchniowemu z wyższych terenów."
+    },
+    {
+      "q": "Odwadnianie rowami otwartymi zmniejsza powierzchnię produkcyjną o:",
+      "options": [
+        "1–2%",
+        "15–20%",
+        "5–10%",
+        "25–30%"
+      ],
+      "answer": 2,
+      "explain": "Rowy otwarte zmniejszają powierzchnię produkcyjną o 5–10%."
+    },
+    {
+      "q": "Elementem sieci drenarskiej przyjmującym wodę z gruntu jest:",
+      "options": [
+        "zbieracz",
+        "sączek",
+        "studzienka",
+        "zastawka"
+      ],
+      "answer": 1,
+      "explain": "Sączki przyjmują nadmiar wody z otaczającego gruntu."
+    },
+    {
+      "q": "Deszczowanie należy do metod nawadniania:",
+      "options": [
+        "grawitacyjnego podsiąkowego",
+        "zalewowego",
+        "bruzdowego",
+        "ciśnieniowego"
+      ],
+      "answer": 3,
+      "explain": "Ciśnieniowo wodę dostarcza się przez deszczowanie i mikronawodnienia."
+    },
+    {
+      "q": "Odmulanie dna rowów melioracyjnych wykonuje się co:",
+      "options": [
+        "miesiąc",
+        "pół roku",
+        "10 lat",
+        "2–3 lata"
+      ],
+      "answer": 3,
+      "explain": "Dno odmula się co 2–3 lata, a skarpy wykasza dwa razy w roku."
+    },
+    {
+      "q": "Studzienki drenarskie należy kontrolować co najmniej:",
+      "options": [
+        "raz na 5 lat",
+        "dwa razy w roku",
+        "raz na miesiąc",
+        "raz na 2 lata"
+      ],
+      "answer": 1,
+      "explain": "Studzienki kontroluje się co najmniej dwa razy w roku."
+    },
+    {
+      "q": "Jakie urządzenie dla zwierząt przedstawia zdjęcie?",
+      "options": [
+        "Poidło miskowe",
+        "Poidło smoczkowe",
+        "Poidło kropelkowe",
+        "Dozownik paszy"
+      ],
+      "answer": 0,
+      "explain": "Poidło miskowe stosuje się dla bydła i owiec – zwierzę naciska nosem przycisk otwierający zawór.",
+      "img": "img/tr8/poidlo-miskowe.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Studnie szybowe nazywane są inaczej studniami:",
+      "options": [
+        "wbijanymi.",
+        "abisyńskimi.",
+        "rurowymi.",
+        "kopanymi."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to uporządkowany ruch ładunków elektrycznych w przewodniku w czasie działania pola elektrycznego.",
+      "options": [
+        "Prąd elektryczny",
+        "Instalacja elektryczna"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW ostatnich latach w Polsce możemy zaobserwować duże zainteresowanie wykorzystaniem odnawialnych źródeł energii takich, jak: słońce, wiatr, spadek wody, a także energii zawartej w biomasie, czyli substancji powstającej z organizmów żywych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do zasilania jakich elementów gospodarstw jest wykorzystywana energia elektryczna?",
+      "options": [
+        "Instalacji grzewczych.",
+        "Instalacji oświetleniowych.",
+        "Silników elektrycznych.",
+        "Instalacji klimatyzacyjnych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to urządzenia przetwarzające energię mechaniczną na energię elektryczną.",
+      "options": [
+        "Alternatory",
+        "Prądnice"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobór wody zmniejsza prawdopodobieństwo pojawienia się niektórych gatunków chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Studnie wiercone nazywane są inaczej studniami:",
+      "options": [
+        "rurowymi.",
+        "abisyńskimi.",
+        "szybowymi.",
+        "kopanymi."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNadmierne uwilgotnienie gleb … wykonanie zabiegów pielęgnacyjnych.",
+      "options": [
+        "uniemożliwia",
+        "umożliwia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od rodzaju wykonywanej pracy, powszechnie wykorzystywany jest prąd różniący się wartością i wielkością napięcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż funkcje, jakie pełni woda w gospodarstwie rolnym, umożliwiając prowadzenie działalności produkcyjnej.",
+      "options": [
+        "Służy do pojenia zwierząt.",
+        "Służy do utrzymania higeny zwierząt i pomieszczeń gospodarskich.",
+        "Służy do picia."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… służą do zmiany energii mechanicznej w prąd przemienny.",
+      "options": [
+        "Alternatory",
+        "Ogniwa"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDopuszczalną zawartość szkodliwych składników fizycznych, chemicznych i biologicznych w wodzie określają odpowiednie normy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wymienionych typów rowów zabezpiecza przed wodami powodziowymi?",
+      "options": [
+        "Opaskowy.",
+        "Obwodowy.",
+        "Zbierający.",
+        "Osączający."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… ma określony kierunek przepływu i nie zmienia swojej wartości w jednostce czasu.",
+      "options": [
+        "Prąd przemienny",
+        "Prąd stały"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrąd elektryczny jest doprowadzany do gospodarstwa od linii niskiego napięcia za pomocą przyłączy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Prąd elektryczny charakteryzują określone parametry:",
+      "options": [
+        "napięcie elektryczne U.",
+        "natężenia prądu I.",
+        "moc prądu elektrycznego P.",
+        "częstotliwość prądu f."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW zależności od potrzeb, przyłącze może być czteroprzewodowe, tzn. … lub dwuprzewodowe, tzn. jednofazowe.",
+      "options": [
+        "dwufazowe",
+        "trójfazowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEnergia z biomasy powstaje dzięki wykorzystaniu odpadów organicznych lub produkcji surowców organicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Napięcie elektryczne mierzone jest w:",
+      "options": [
+        "watach.",
+        "hercach.",
+        "woltach.",
+        "amperach."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… służy do doprowadzenia napięcia do oświetlenia i innych urządzeń o małej mocy.",
+      "options": [
+        "Instalacja jednofazowa",
+        "Instalacja trójfazowa"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInstalacje elektryczne są zabezpieczane przed przeciążeniem przez wyłączniki samoczynne lub wkładki topikowe bezpieczników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż odnawialne źródła energii.",
+      "options": [
+        "Promieniowanie słoneczne.",
+        "Wiatr.",
+        "Geotermia.",
+        "Gaz ziemny."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCzystość instalacji, szczególnie żarówek i ich opraw, … na jakość oświetlenia.",
+      "options": [
+        "nie wpływa",
+        "wpływa"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRowy opaskowe odprowadzają wodę z rowów osączających.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Natężenie prądu mierzone jest w:",
+      "options": [
+        "amperach.",
+        "watach.",
+        "hercach.",
+        "woltach."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku dostarczania wody dla trzody chlewnej najczęściej stosowanym rozwiązaniem są … podłączone bezpośrednio do instalacji wodociągowej.",
+      "options": [
+        "poidła smoczkowe",
+        "poidła kropelkowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdwadnianie polega na odprowadzeniu nadmiaru wody z profilu gleby i obniżeniu poziomu wód gruntowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż źródła energii z biomasy.",
+      "options": [
+        "Etanol.",
+        "Oleje roślinne.",
+        "Wierzba energetyczna.",
+        "Odpady organiczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRowy … zapobiegają spływowi powierzchniowemu wody z terenów położonych wyżej od obszaru meliorowanego.",
+      "options": [
+        "opaskowe",
+        "obwodowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawowe urządzenia do melioracji wodnej to budowle piętrzące, ujęcia służące do poboru wody, kanały, rurociągi o średnicy co najmniej 0,6 m, budowle regulacyjne oraz przeciwpowodziowe, zbiorniki wodne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Najczęstsze nieprawidłowości w poprawnym działaniu systemu melioracyjnego spowodowane są:",
+      "options": [
+        "uszkodzeniem budowli.",
+        "niszczeniem skarp rowów przez ludzi i zwierzęta.",
+        "zniszczeniem umocnień skarp rowów.",
+        "uszkodzeniem i zamuleniem rurociągów drenarskich i studzienek."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKierunek przepływu i wartość … zmienia się okresowo tak, że jego średnia wartość w okresie jest równa 0.",
+      "options": [
+        "prądu przemiennego",
+        "prądu stałego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMelioracje wodne obejmują budowę urządzeń mających na celu odprowadzenie z gleby nadmiaru wody, bądź uzupełnienie jej okresowych niedoborów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W rolnictwie do podgrzewania wody wykorzystuje się:",
+      "options": [
+        "wymienniki pod legowiskami dla zwierząt.",
+        "energię obornika.",
+        "wymienniki ciepła schładzające mleko.",
+        "energię słoneczną."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nStudnie wiercone (rurowe) wydobywają wodę z głębokości poniżej … m.",
+      "options": [
+        "20",
+        "15"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrace konserwacyjne nie należą do obowiązków właścicieli użytków rolnych lub, jeżeli są objęte działalnością spółki wodnej, do zakresu odpowiedzialności tej spółki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż rodzaj poidła podłączanego bezpośrednio do instalacji wodociągowej.",
+      "options": [
+        "Miskowe.",
+        "Kropelkowe.",
+        "Smoczkowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nStudnie … są zwykle budowane z kręgów betonowych i służą do pobierania wody do głębokości ok. 15 m.",
+      "options": [
+        "wbijane",
+        "szybowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Urządzenia melioracyjne narażone są na szkodliwe działanie wielu czynników atmosferycznych: przepływającej wody, zarastającej roślinności, działalności człowieka i zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż sposoby zaopatrywania gospodarstw w wodę.",
+      "options": [
+        "Studnie wbijane.",
+        "Wiejskie lub gminne instalacje wodociągowe.",
+        "Studnie kopane.",
+        "Studnie wiercone.",
+        "Studnie szybowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… wykonane są z ceramiki lub tworzyw sztucznych, a ich zadaniem jest przyjmowanie nadmiaru wody z otaczającego je gruntu.",
+      "options": [
+        "Zbieracze",
+        "Rurociągi odsączające"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPoidła miskowe mają prostą budowę, nie ulegają zanieczyszczeniu, są pewne w działaniu, higieniczne, gdyż umożliwiają indywidualne pobranie wody. Jedno takie poidło jest przeznaczane dla trzech kur.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie z wymienionych elementów sieci drenarskiej zbierają wodę z sączków i odprowadzają ją do odbiornika?",
+      "options": [
+        "Studzienki drenarskie.",
+        "Zbieracze.",
+        "Sączki."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonserwacja kanałów polega na wykaszaniu i usuwaniu roślinności ze skarp dwa razy w roku i odmulaniu dna co … lata.",
+      "options": [
+        "2–3",
+        "4–5"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRurociągi odsączające budowane są w celu zniwelowania dużych różnic wysokości terenu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Studnie wbijane nazywane są inaczej studniami:",
+      "options": [
+        "abisyńskimi.",
+        "rurowymi.",
+        "szybowymi.",
+        "kopanymi."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGospodarstwa wykorzystują energię elektryczną do zasilania silników elektrycznych, instalacji oświetleniowych, grzewczych i klimatyzacyjnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W ostatnich latach w Polsce możemy zaobserwować duże zainteresowanie wykorzystaniem odnawialnych źródeł energii takich, jak:",
+      "options": [
+        "wiatr.",
+        "słońce.",
+        "spadek wody.",
+        "energia zawarta w biomasie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Sieć drenarska składa się z:",
+      "options": [
+        "studzienek drenarskich.",
+        "rowów zbierających.",
+        "zbieraczy.",
+        "rurociągów odsączających."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWoda stanowi podstawowy czynnik zabezpieczenia przeciwpożarowego gospodarstwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W celu wytworzenia prądu elektrycznego stosuje się:",
+      "options": [
+        "ogniwa.",
+        "alternatory.",
+        "prądnice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Nawadnianie roślin wymaga wykorzystania zespołu urządzeń technicznych, które pełnią następujące funkcje:",
+      "options": [
+        "rozprowadzenie wody na powierzchni nawadnianej.",
+        "doprowadzenie wody do obszarów nawadnianych.",
+        "ujęcie wody w miejscach poboru."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWoda wykorzystywana w gospodarstwie rolnym powinna być czysta, wolna od bakterii i wirusów chorobotwórczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrąd elektryczny to uporządkowany ruch ładunków elektrycznych w przewodniku w czasie działania pola elektrycznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W zależności od pełnionych funkcji rowy dzielimy na:",
+      "options": [
+        "osączające.",
+        "opaskowe.",
+        "obwodowe.",
+        "zbierające."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nAlternatory to urządzenia przetwarzające energię mechaniczną na energię elektryczną. Rozróżnia się alternatory prądu stałego oraz przemiennego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W oborach wolnostanowiskowych i na pastwiskach jedno poidło miskowe wystarcza dla:",
+      "options": [
+        "30–35 krów.",
+        "5–10 krów.",
+        "15–20 krów.",
+        "10–15 krów."
+      ],
+      "answers": [
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Głównymi źródłami energii na Ziemi są paliwa kopalniane takie, jak:",
+      "options": [
+        "ropa naftowa.",
+        "biogaz.",
+        "gaz ziemny.",
+        "węgiel."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW ogniwach wykorzystuje się półprzewodniki umożliwiające zamianę energii światła na energię elektryczną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInstalacja trójfazowa służy do doprowadzenia napięcia do oświetlenia i innych urządzeń małej mocy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Częstotliwość prądu mierzona jest w:",
+      "options": [
+        "amperach.",
+        "watach.",
+        "woltach.",
+        "hercach."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSieć wodociągowa zainstalowana w budynkach inwentarskich ułatwia pojenie zwierząt, przygotowanie paszy oraz utrzymanie w czystości urządzeń, maszyn i pomieszczeń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nieodnawialne źródła energii.",
+      "options": [
+        "Geotermia.",
+        "Słońce.",
+        "Ropa naftowa.",
+        "Wiatr."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUrządzenia piętrzące, zastawki, przepusty na rowach i inne budowle drenarskie należy systematycznie zabezpieczać i naprawiać.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Najczęstsze nieprawidłowości w poprawnym działaniu systemu melioracyjnego spowodowane są:",
+      "options": [
+        "zrastaniem dna i skarp roślinnością.",
+        "wymywaniem i obsuwaniem skarp.",
+        "uszkodzeniem rowów przez przepływającą wodę.",
+        "zamuleniem dna rowów."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonserwacja kanałów polega na wykaszaniu i usuwaniu roślinności ze skarp dwa razy w roku i odmulaniu dna co 4–5 lat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStudnie wiercone (rurowe) wydobywają wodę z głębokości poniżej 20 m, rury są wkręcane i łączone za pomocą gwintu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż źródła energii z biomasy.",
+      "options": [
+        "Trzcina energetyczna.",
+        "Drewno opałowe.",
+        "Słoma zbóż.",
+        "Biopaliwa."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStudnie szybowe (kopane) są zwykle budowane z kręgów betonowych i służą do pobierania wody do głębokości ok. 25 m.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZasada działania urządzenia hydroforowego polega na zassaniu wody przez pompę z ujęcia i wtłoczeniu jej do zbiornika, w którym znajduje się powietrze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Moc prądu elektrycznego mierzona jest w:",
+      "options": [
+        "hercach.",
+        "woltach.",
+        "watach.",
+        "amperach."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEnergia słoneczna jest bezpośrednio wykorzystywana przez rolnictwo do stymulowania wzrostu roślin oraz suszenia materiałów roślinnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUrządzenia wykorzystujące prąd przemienny oznacza się wężykiem [~].",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zalety odwadniania gleby za pomocą rowów otwartych.",
+      "options": [
+        "Duża przepustowość.",
+        "Sprawne odprowadzenie wód opadowych.",
+        "Mała materiałochłonność wykonania rowów.",
+        "Niskie koszty konserwacji."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jako użytkownicy prądu przemiennego korzystamy z napięcia:",
+      "options": [
+        "12 V.",
+        "230 V.",
+        "400 V.",
+        "6 V."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrąd stały wykorzystywany jest w pojazdach (ciągnikach, kombajnach, samochodach).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Poidła uruchamiane przez ptaki to poidła:",
+      "options": [
+        "miskowe.",
+        "smoczkowe.",
+        "kropelkowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEnergię geotermalną najczęściej wykorzystuje się do ogrzania basenów, szklarni oraz domów jednorodzinnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przed budową elektrowni wiatrowej wykonuje się pomiar prędkości wiatru. Prędkość ta powinna wynosić nie mniej niż:",
+      "options": [
+        "8 m/s.",
+        "3 m/s.",
+        "4 m/s.",
+        "6 m/s."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWykonanie i finansowanie szczegółowych urządzeń do melioracji, w przeciwieństwie do urządzeń podstawowych leży głównie w gestii właścicieli gruntów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

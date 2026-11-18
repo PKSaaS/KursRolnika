@@ -1,0 +1,1970 @@
+{
+  "id": "tr6",
+  "course": "Technika w rolnictwie",
+  "title": "Maszyny i urządzenia stosowane w mechanizacji produkcji zwierzęcej",
+  "number": "VI",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Maszyny w produkcji zwierzęcej obniżyły pracochłonność chowu – umożliwiły zwiększanie pogłowia przy redukcji zatrudnienia.",
+        "Ręcznie wykwalifikowany pracownik doił 8–9 krów na godzinę; dojarnia karuzelowa obsługiwana przez 3 dojarzy – nawet 400 krów na godzinę.",
+        "Coraz częściej hodowcy kupują roboty udojowe.",
+        "Zadawanie pasz treściwych jest w wielu gospodarstwach w pełni zautomatyzowane; objętościowe coraz częściej zadaje się maszynami.",
+        "Pielęgnacja zwierząt to ważny element zoohigieny, wspomagany obecnie maszynami.",
+        "Ograniczenie pracy rąk dała też mechanizacja usuwania odchodów i nowe systemy utrzymania zwierząt."
+      ]
+    },
+    {
+      "heading": "1. Przygotowanie pasz – cele i sieczkarnie",
+      "points": [
+        "Przygotowanie pasz zwiększa strawność, poprawia smakowitość i ułatwia pobieranie.",
+        "Cztery sposoby przygotowania paszy: mechaniczny, cieplny, chemiczny, biologiczny.",
+        "Sieczkarnie (bębnowe i toporowe) służą do przygotowania sieczki z roślin łodygowych (kukurydza, trawa, słoma); dziś używane w niewielkim stopniu, głównie w małych gospodarstwach.",
+        "Sieczkarnia bębnowa: zespół podający, zespół wciągająco-zgniatający i zespół rozdrabniający.",
+        "Zespół podający – koryto metalowe lub drewniane z przenośnikiem łańcuchowo-listwowym (bywają koryta bez przenośnika).",
+        "Zespół wciągająco-zgniatający – dwa wały żeliwne: dolny nieruchomy, górny regulowany i dociskany sprężynami; wały obracają się nieco szybciej od przenośnika, by materiał się nie piętrzył.",
+        "Zespół rozdrabniający – bęben z wygiętymi nożami i stalnica.",
+        "Długość sieczki reguluje się zmianą prędkości podawania materiału lub liczby noży na bębnie.",
+        "BHP: napędy i zespół rozdrabniający pod osłonami; bez zespołu podającego szczególna ostrożność przy podsuwaniu materiału.",
+        "Sieczkarnie (wg wideokastu – zwłaszcza toporowe) są dziś mało używane ze względu na dużą pracochłonność przygotowania paszy.",
+        "Przygotowanie pasz to czynności pracochłonne, mające bezpośredni wpływ na zdrowie i kondycję zwierząt oraz wynik ekonomiczny produkcji; wymaga co najmniej jednego z czterech sposobów.",
+        "Odległość górnego wału wciągającego od dolnego reguluje się zależnie od ilości pobieranej masy; wygięte noże bębna zapewniają stałą i równą pracę sieczkarni."
+      ],
+      "images": [
+        {
+          "src": "img/tr6/sieczkarnia-bebnowa-schemat.jpg",
+          "caption": "Schemat pracy sieczkarni bębnowej: materiał podawany taśmą (zespół podający) przechodzi między wałami wciągająco-zgniatającymi do bębna z nożami (zespół rozdrabniający), a sieczka jest wyrzucana do góry."
+        },
+        {
+          "src": "img/tr6/beben-rozdrabniajacy-schemat.jpg",
+          "caption": "Schemat pracy bębna rozdrabniającego sieczkarni – materiał podawany do obracającego się bębna z nożami; długość sieczki zależy od prędkości podawania i liczby noży na bębnie."
+        },
+        {
+          "src": "img/tr6/przygotowanie-pasz-sposoby.jpg",
+          "caption": "Pasze przygotowuje się, by zwiększyć ich strawność, poprawić smak i ułatwić pobieranie – jednym z czterech sposobów: mechanicznym, cieplnym, chemicznym lub biologicznym."
+        },
+        {
+          "src": "img/tr6/sieczkarnie-podzial-schemat.jpg",
+          "caption": "Podział sieczkarń ze względu na zespół roboczy: bębnowe i toporowe (toporowe są dziś wykorzystywane w niewielkim stopniu)."
+        }
+      ]
+    },
+    {
+      "heading": "1.1. Przygotowanie roślin okopowych",
+      "points": [
+        "Okopowe (buraki, ziemniaki, marchew, brukiew) trzeba oczyścić z ziemi i rozdrobnić.",
+        "Płuczki – samodzielne lub agregowane z rozdrabniaczami; o działaniu okresowym lub ciągłym.",
+        "Płuczka bębnowa: pierwszy bęben czyści na sucho, drugi pracuje w wannie z wodą.",
+        "Przygotowanie płuczki: dostęp do bieżącej wody, osłonięty silnik elektryczny (przed człowiekiem i zalaniem), stabilne podłoże i wypoziomowanie.",
+        "Podawanie okopowych: przenośniki taśmowe, zsypy z blachy lub drewna; wstępne oczyszczenie – przenośniki rolkowe lub zsypy ażurowe z listew lub prętów.",
+        "Otrząsaczo-siekacz czyści i sieka (lub czyści i transportuje); podajnik ślimakowy w ażurowej obudowie nachylony ok. 45°, na końcu siekacz.",
+        "Otrząsaczo-siekacz: napęd silnikiem elektrycznym przez przekładnie pasowe, koła jezdne; ustawia się go blisko miejsca składowania – ładuje paszę na środki transportu.",
+        "Siekacze z pojedynczym lub podwójnym bębnem stożkowym – rozdrabniają oczyszczone okopowe; małe gospodarstwa (pracochłonne, mała wydajność).",
+        "Grubość krojenia w siekaczu reguluje się wysuwaniem lub cofaniem noży na bębnie.",
+        "Otrząsaczo-siekacz wykorzystuje się bezpośrednio przed zadaniem pasz lub przygotowaniem do zakiszenia.",
+        "Siekacze bębnowe umieszcza się najczęściej w pomieszczeniach gospodarskich sąsiadujących z inwentarskimi."
+      ]
+    },
+    {
+      "heading": "1.2. Obróbka cieplna pasz – parniki",
+      "points": [
+        "Obróbka cieplna: parowanie, zaparzanie, podgrzewanie, prażenie.",
+        "Najczęściej paruje się ziemniaki – większa przyswajalność skrobi i neutralizacja trującej solaniny.",
+        "Parniki zasilane energią elektryczną lub paliwem stałym.",
+        "Parnik elektryczny – droższy zabieg, ale mniej robocizny; można go ustawić w dowolnym pomieszczeniu z prądem.",
+        "Pomieszczenie z parnikiem musi być dobrze wentylowane – skraplająca się para sprzyja bakteriom i grzybom.",
+        "Parniki na paliwo stałe (węgiel, drewno) muszą stać blisko komina."
+      ]
+    },
+    {
+      "heading": "1.3. Rozdrabnianie pasz treściwych",
+      "points": [
+        "Stopień rozdrobnienia ziarna zależy od przeznaczenia śruty.",
+        "Nadmierne rozdrobnienie: zapylenie (wysuszanie śluzówek nosa, podrażnienie układu oddechowego) i większe zużycie energii.",
+        "Rozdrabnia się ziarno suche – łatwiej pęka i nie zasklepia sit.",
+        "Transport ziarna do śrutownika: zsypy nad śrutownikiem, przenośniki ślimakowe i taśmowe, dmuchawy ssąco-tłoczące.",
+        "Rozdrabniacze bijakowe ssąco-tłoczące pobierają ziarno podciśnieniem i tłoczą śrutę do zbiorników lub mieszalników.",
+        "Śrutownik tarczowy – dwie tarcze (jedna nieruchoma, druga obrotowa) rozcierają ziarno.",
+        "Śrutownik walcowy – dwa walce rowkowane obracające się współbieżnie z różną prędkością; ziarno jest rozrywane i rozłupywane.",
+        "Rozdrabniacze są bardziej uniwersalne niż śrutowniki – rozdrabniają też słomę i okopowe; stopień rozdrobnienia reguluje się doborem sit.",
+        "Rozdrabniacz bijakowy – bijaki (płytki prostokątne) na wirniku napędzanym silnikiem elektrycznym; rozdrabnianie przez uderzenie z dużą prędkością.",
+        "Rozdrabniacz uniwersalny – śrutuje zboża i rozdrabnia makuchy, siano, zielonki, okopowe dzięki wymiennym tarczom.",
+        "Zgniatacze miażdżą ziarno zbóż i nasiona motylkowych – mało części pylistych, dobra przyswajalność.",
+        "Przygotowanie pasz treściwych: rozdrobnienie, mielenie i przygotowanie odpowiednich mieszanek."
+      ],
+      "images": [
+        {
+          "src": "img/tr6/srutownik-bijakowy.jpg",
+          "caption": "Śrutownik bijakowy z koszem zasypowym (u góry kosz na ziarno, w obudowie wirnik z bijakami napędzany silnikiem elektrycznym)."
+        }
+      ]
+    },
+    {
+      "heading": "1.4. Mieszalniki pasz",
+      "points": [
+        "Mieszanie w odpowiednich proporcjach daje mieszankę pełnoporcjową; mieszalniki do pasz suchych lub mokrych.",
+        "Mieszalnik pasz treściwych suchych: pionowy przenośnik ślimakowy w lejowym zbiorniku – pasza unoszona z dna ku górze.",
+        "Mieszalnik musi być czysty, bez miejsc zalegania paszy (ryzyko mikroorganizmów i grzybów).",
+        "Pył paszowy osadzający się na ścianach i pajęczynach należy regularnie usuwać."
+      ]
+    },
+    {
+      "heading": "2. Dozowniki pasz",
+      "points": [
+        "Sposób zadawania pasz zależy od: gatunku, technologii utrzymania, liczby zwierząt, budowy pomieszczeń, bazy paszowej, kapitału, wielkości gospodarstwa, postępu technologicznego.",
+        "Dozowniki objętościowe – wydzielają paszę wg objętości, okresowo lub w sposób ciągły.",
+        "Dozowniki wagowe – bardziej precyzyjne, ale droższe; dokładna porcja dla zwierzęcia.",
+        "Pasza do dozowników: wózki transportowe, podajniki ślimakowe lub wrzecionowe.",
+        "Dozowniki z automatyczną identyfikacją zwierząt – każde zwierzę dostaje określoną dzienną ilość paszy; dobra kondycja i wykorzystanie paszy.",
+        "Dozowniki utrzymuje się w nienagannej czystości i regularnie sprawdza ich działanie."
+      ]
+    },
+    {
+      "heading": "2.1. Wozy paszowe, wybieraki i linie automatyczne",
+      "points": [
+        "Wozy paszowe przygotowują paszę w systemie TMR (Total Mixed Ration – całkowicie wymieszana dawka).",
+        "Wóz przejeżdża przez stół paszowy albo przygotowuje paszę przed budynkiem, skąd zadaje się ją mniejszymi środkami transportu.",
+        "Podstawowy zespół roboczy wozu – mieszadła pionowe lub poziome z nożami, które też rozdrabniają paszę łodygową (siano, słoma, sianokiszonka).",
+        "Na bieżąco kontroluje się mieszadła i zużycie noży; noże wymienia się w razie potrzeby.",
+        "Dno zbiornika często ma wagę; jej poprawność sprawdza się, wsypując paszę zważoną wcześniej na innym urządzeniu.",
+        "Przed każdym przygotowaniem paszy wóz trzeba oczyścić i sprawdzić mechanizmy.",
+        "Wybieraki do kiszonki mocuje się najczęściej na tylnym TUZ ciągnika; precyzyjne pobranie ogranicza straty.",
+        "W wybieraku sprawdza się nóż odcinający i jego zużycie oraz połączenia przewodów hydraulicznych – wycieki oleju są niedopuszczalne.",
+        "Automatyczne linie transportują paszę treściwą z silosów do automatów paszowych; obsługa kontroluje przenośniki i podzespoły.",
+        "Wybieraki do kiszonki są wyposażone w siłowniki hydrauliczne. Automatyczne linie paszowe znacznie ograniczają pracochłonność zadawania pasz."
+      ],
+      "images": [
+        {
+          "src": "img/tr6/silosy-paszowe-podajniki.jpg",
+          "caption": "Silosy paszowe z podajnikami – pasza treściwa transportowana automatycznymi liniami bezpośrednio z silosów do automatów paszowych."
+        }
+      ]
+    },
+    {
+      "heading": "3. Dojarki konwiowe i aparat udojowy",
+      "points": [
+        "Przy utrzymaniu na uwięzi – dojarki bańkowe i rurociągowe; przy bezuwięziowym – hale i roboty udojowe.",
+        "Dojarki konwiowe – małe gospodarstwa (kilka–kilkanaście krów).",
+        "Przed pracą: czystość urządzeń, okresowo poziom oleju w pompie próżniowej.",
+        "Podciśnienie na wakuometrze: 41–53 kPa; wartość ma być stała – wahania oznaczają kontrolę pompy i zbiornika wyrównawczego.",
+        "Kontroluje się też zawór regulacji podciśnienia i zawór odwadniający.",
+        "Pulsator zmienia ciśnienie w kubkach; optymalna częstotliwość – 60 pulsów na minutę.",
+        "Aparat udojowy: 4 kubki udojowe, kolektor, pulsator, przewody łączące.",
+        "Komora podstrzykowa – stałe podciśnienie; komora międzyścienna – na zmianę podciśnienie i ciśnienie atmosferyczne.",
+        "Takt ssania – podciśnienie w komorze międzyściennej, mleko wypływa ze strzyków.",
+        "Takt masażu – ciśnienie atmosferyczne w komorze międzyściennej, guma się odkształca, przerwa w wypływie mleka.",
+        "Kolektor łączy się z bańką przewodem mlecznym, a z pulsatorem – powietrznym.",
+        "Ukośnie zakończone króćce kolektora załamują przewody przy zakładaniu kubków i odcinają podciśnienie – zanieczyszczenia nie są wciągane do instalacji.",
+        "Po udoju jak najszybciej myje się i dezynfekuje aparaty i bańkę (myjnia automatyczna lub ręcznie).",
+        "Z komory powietrznej kolektora odchodzą 4 przewody do komór międzyściennych kubków, a z komory mlecznej 4 przewody (przez ukośne króćce) do komór podstrzykowych."
+      ],
+      "images": [
+        {
+          "src": "img/tr6/aparat-udojowy-schemat.jpg",
+          "caption": "Schemat pracy aparatu udojowego: kubek udojowy, guma elastyczna (strzykowa), komora międzyścienna, komora podstrzykowa, część powietrzna i część mleczna kolektora. Lewy kubek – takt ssania (podciśnienie w komorze międzyściennej, mleko wypływa), prawy – takt masażu (ciśnienie atmosferyczne, guma zaciska strzyk)."
+        },
+        {
+          "src": "img/tr6/kolektor-schemat.jpg",
+          "caption": "Kolektor aparatu udojowego: komora powietrzna (króćce łączące kolektor z kubkiem i z pulsatorem) i komora mleczna (króćce łączące kolektor z komorą podstrzykową kubka, króciec odprowadzający mleko do bańki)."
+        }
+      ]
+    },
+    {
+      "heading": "3.1. Dojarki rurociągowe, hale i roboty udojowe",
+      "points": [
+        "Dojarki rurociągowe (przewodowe) – gospodarstwa z kilkudziesięcioma krowami; bez dźwigania baniek, mleko bez kontaktu z atmosferą obory, rurociągiem do chłodziarki.",
+        "Przed zbiornikiem jest filtr mleka.",
+        "Myjnia automatyczna: płukanie → mycie środkiem myjącym → przedmuchiwanie powietrzem → płukanie → dezynfekcja.",
+        "Hale udojowe – wydzielone pomieszczenia przy wolnostanowiskowym utrzymaniu; dojarki przewodowe i komputer udojowy na każdym stanowisku (ilość i jakość mleka).",
+        "Robot udojowy: masowanie i mycie wymienia, zakładanie kubków, kontrola doju, zadawanie paszy treściwej, zdejmowanie aparatu, dezynfekcja wymion, wypuszczanie krowy; dane zapisywane w komputerze.",
+        "Małe gospodarstwa – hale szeregowe i tunelowe; średnie – „rybia ość”; bardzo duże – dojarnie karuzelowe.",
+        "Dojarnie różnią się liczbą i układem stanowisk – dostosowanie do konstrukcji obory, liczby krów i ich wydajności mlecznej.",
+        "Robot udojowy wykonuje też podój; zapis w komputerze pozwala rolnikowi na bieżąco kontrolować jakość i ilość mleka."
+      ],
+      "images": [
+        {
+          "src": "img/tr6/dojarka-karuzelowa.jpg",
+          "caption": "Dojarka (hala udojowa) karuzelowa – stanowiska na obracającej się platformie; stosowana w bardzo dużych gospodarstwach."
+        }
+      ]
+    },
+    {
+      "heading": "3.2. Schładzanie mleka",
+      "points": [
+        "Mleko schładza się jak najszybciej z ok. 35°C, by spowolnić rozwój bakterii.",
+        "Przechowywanie do 18 godz. – ok. 6°C; dłużej – 4°C.",
+        "Temperaturę przechowywania trzeba osiągnąć do 2 godzin po doju.",
+        "Schładzalniki sprężarkowe: otwarte w małych gospodarstwach, zamknięte w większych.",
+        "Schładzalnik otwarty – pokrywa otwierana do napełniania; mycie ręczne.",
+        "Schładzalnik zamknięty – mleko pompowane przewodami, mycie automatyczną myjnią.",
+        "Schładzalniki wyposaża się w systemy alarmowe o awarii; kontroluje się głównie temperaturę mleka.",
+        "W schładzalniku jest mleko o znacznej wartości – dlatego potrzebny system alarmowy informujący o awarii."
+      ]
+    },
+    {
+      "heading": "4. Usuwanie obornika",
+      "points": [
+        "Sposób usuwania odchodów zależy od systemu utrzymania i budowy budynku.",
+        "Głęboka ściółka: codziennie czyści się tylko stanowiska legowiskowe; duże zużycie ściółki zadawanej przez kilka miesięcy.",
+        "Przy głębokiej ściółce: wjazd i manewrowanie ładowacza, posadzka betonowa i nieprzepuszczalna, gnojówka spływa do zbiorników; konieczna hala udojowa.",
+        "Obory uwięziowe: ręcznie, spychaczem lub ładowaczem czołowym ciągnika.",
+        "Szufla mechaniczna – w kanałach do 25 m; ciągnięta liną nawijaną na bęben; lina musi być czysta i sprawna.",
+        "Przenośniki zgarniające – ruch ciągły w kanale, regulowana długość, napęd elektryczny; obornik na płytę gnojową lub środki transportu.",
+        "Przenośniki zgarniakowe posuwisto-zwrotne – małe obory; łapy wahliwe (prostopadle w ruchu roboczym, pod małym kątem w jałowym); skok 1,8–3 m, kilka ruchów na minutę.",
+        "Odchody przyspieszają korozję metali i degradację tworzyw – przegląd po każdym usuwaniu obornika i zabezpieczanie części metalowych.",
+        "Zerwania łańcuchów i lin zdarzają się najczęściej pod obciążeniem, co utrudnia naprawę.",
+        "Przy głębokiej ściółce hala udojowa jest potrzebna dla higienicznego udoju; szufla mechaniczna jest ciągnięta liną nawijaną na bęben silnika; w oborach uwięziowych sposób usuwania zależy od szerokości kanału gnojowego."
+      ]
+    },
+    {
+      "heading": "4.1. Usuwanie gnojowicy",
+      "points": [
+        "Gnojowica powstaje w systemie bezściołowym; usuwana mechanicznie lub hydraulicznie.",
+        "System bezściołowy ogranicza nakłady pracy, ale pogarsza zdrowie zwierząt chodzących po rusztach.",
+        "Przenośnik Delta – posuwisto-zwrotny, zgarniaki wahliwie na cięgle w dwóch sąsiednich kanałach (w jednym ruch roboczy, w drugim jałowy); konserwacja trudna – prace w kanale.",
+        "Samospływ okresowy: kanał głęboki ok. 1 m, spadek dna ok. 2%, długość do 25 m; pełni rolę zbiornika przez ok. 1 miesiąc.",
+        "Samospływ okresowy: opróżnianie przez uniesienie zasuwy; potem spłukanie i kilkucentymetrowa warstwa wody (zapobiega przywieraniu odchodów).",
+        "Samospływ ciągły: kanał szeroki ok. 1 m, długi do 35 m, płaskie dno; próg do 20 cm przy kanale zbiorczym lub zbiorniku.",
+        "Samospływ ciągły: przed wprowadzeniem zwierząt kanał napełnia się wodą do wysokości progu; odchody samoczynnie przelewają się przez próg."
+      ]
+    },
+    {
+      "heading": "5. Pielęgnacja zwierząt",
+      "points": [
+        "Czyszczenie skóry usuwa martwy naskórek, pasożyty, wyliniałą sierść i zaschnięte odchody; narzędzia w nienagannej czystości, przy pasożytach – dezynfekcja.",
+        "Podstawowe narzędzia: szczotki, zgrzebła, grzebienie, nożyczki, maszynki elektryczne.",
+        "Elektryczne szczotki uruchamiają się w obecności zwierzęcia; trzeba je czyścić i kontrolować pod kątem pasożytów.",
+        "Maszynki elektryczne skracają sierść (zwłaszcza bydła) – zapobiegają przywieraniu odchodów i paszy; ostrze dezynfekuje się po każdym użyciu, szczególnie po zacięciu skóry.",
+        "Dekornizacja (usuwanie zawiązków rogów) – konieczna przy wolnostanowiskowym utrzymaniu bydła; środki chemiczne lub urządzenia termiczne (elektryczne).",
+        "Przy wypalaniu zawiązków rogów skrępować młode zwierzę (głowa nieruchoma); rozgrzany grot; po zabiegu dezynfekcja rany.",
+        "Korekcja racic: szlifierka kątowa (doświadczeni korektorzy) lub noże prawy i lewy; zwierzę w poskromie; koryguje się kolejno wszystkie racice.",
+        "Czyszczenie skóry pozwala utrzymać zwierzęta w dobrej kondycji i higienie; przy pasożytach lub niepokojących zmianach skóry narzędzia się dezynfekuje. Szczotki elektryczne minimalizują pracę ręczną.",
+        "Skrępowanie młodego zwierzęcia przy dekornizacji zapobiega przypadkowemu okaleczeniu."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Ile krów na godzinę wydoi ręcznie wykwalifikowany pracownik?",
+      "back": "8–9 krów."
+    },
+    {
+      "front": "Wydajność dojarni karuzelowej obsługiwanej przez 3 dojarzy",
+      "back": "Nawet 400 krów na godzinę."
+    },
+    {
+      "front": "Cele przygotowania pasz",
+      "back": "Zwiększenie strawności, poprawa smakowitości, ułatwienie pobierania."
+    },
+    {
+      "front": "Cztery sposoby przygotowania paszy",
+      "back": "Mechaniczny, cieplny, chemiczny, biologiczny."
+    },
+    {
+      "front": "Rodzaje sieczkarni wg zespołu roboczego",
+      "back": "Bębnowe i toporowe."
+    },
+    {
+      "front": "Trzy zespoły sieczkarni bębnowej",
+      "back": "Podający, wciągająco-zgniatający, rozdrabniający."
+    },
+    {
+      "front": "Budowa zespołu wciągająco-zgniatającego",
+      "back": "Dwa wały żeliwne: dolny nieruchomy, górny regulowany i dociskany sprężynami."
+    },
+    {
+      "front": "Dlaczego wały wciągające obracają się szybciej od przenośnika?",
+      "back": "Aby materiał nie piętrzył się przed nimi."
+    },
+    {
+      "front": "Budowa zespołu rozdrabniającego sieczkarni bębnowej",
+      "back": "Bęben z wygiętymi nożami i stalnica."
+    },
+    {
+      "front": "Regulacja długości sieczki",
+      "back": "Zmiana prędkości podawania materiału lub liczby noży na bębnie."
+    },
+    {
+      "front": "Budowa płuczki bębnowej",
+      "back": "Bęben wstępny czyszczący na sucho i drugi bęben pracujący w wannie z wodą."
+    },
+    {
+      "front": "Rodzaje płuczek wg działania",
+      "back": "Okresowe i ciągłe."
+    },
+    {
+      "front": "Wymagania przy ustawieniu płuczki",
+      "back": "Bieżąca woda, osłonięty silnik, stabilne podłoże, wypoziomowanie."
+    },
+    {
+      "front": "Wstępne oczyszczenie okopowych z ziemi – urządzenia",
+      "back": "Przenośniki rolkowe lub zsypy ażurowe z listew lub prętów."
+    },
+    {
+      "front": "Otrząsaczo-siekacz – funkcja",
+      "back": "Czyszczenie i siekanie (lub czyszczenie i transport) roślin okopowych."
+    },
+    {
+      "front": "Nachylenie podajnika otrząsaczo-siekacza",
+      "back": "Ok. 45° do poziomu."
+    },
+    {
+      "front": "Gdzie ustawić otrząsaczo-siekacz?",
+      "back": "Blisko miejsca składowania okopowych."
+    },
+    {
+      "front": "Regulacja grubości krojenia w siekaczu bębnowym",
+      "back": "Wysuwanie lub cofanie noży na bębnie."
+    },
+    {
+      "front": "Po co paruje się ziemniaki?",
+      "back": "Większa przyswajalność skrobi i neutralizacja solaniny."
+    },
+    {
+      "front": "Solanina",
+      "back": "Trujący alkaloid ziemniaków, neutralizowany parowaniem."
+    },
+    {
+      "front": "Zaleta parnika elektrycznego",
+      "back": "Mniej robocizny; można go ustawić w każdym pomieszczeniu z prądem."
+    },
+    {
+      "front": "Wymóg dla parnika na paliwo stałe",
+      "back": "Musi stać blisko komina."
+    },
+    {
+      "front": "Dlaczego pomieszczenie z parnikiem musi być wentylowane?",
+      "back": "Skraplająca się para sprzyja bakteriom, mikroorganizmom i grzybom."
+    },
+    {
+      "front": "Skutki nadmiernego rozdrobnienia ziarna",
+      "back": "Zapylenie (wysuszanie śluzówek, podrażnienie dróg oddechowych), większe zużycie energii."
+    },
+    {
+      "front": "Dlaczego śrutuje się ziarno suche?",
+      "back": "Łatwiej pęka i nie zasklepia sit."
+    },
+    {
+      "front": "Sposoby transportu ziarna do śrutownika",
+      "back": "Zsypy, przenośniki ślimakowe i taśmowe, dmuchawy ssąco-tłoczące."
+    },
+    {
+      "front": "Śrutownik tarczowy",
+      "back": "Dwie tarcze – nieruchoma i obrotowa – rozcierają ziarno."
+    },
+    {
+      "front": "Śrutownik walcowy",
+      "back": "Dwa walce rowkowane obracające się współbieżnie z różną prędkością."
+    },
+    {
+      "front": "Regulacja stopnia rozdrobnienia w rozdrabniaczu",
+      "back": "Dobór wielkości sit."
+    },
+    {
+      "front": "Rozdrabniacz bijakowy – zasada działania",
+      "back": "Bijaki na wirniku uderzają materiał z dużą prędkością."
+    },
+    {
+      "front": "Na czym polega uniwersalność rozdrabniacza uniwersalnego?",
+      "back": "Na wymianie tarcz rozdrabniających."
+    },
+    {
+      "front": "Zgniatacze – zastosowanie i zaleta",
+      "back": "Miażdżenie ziarna zbóż i nasion motylkowych; mało pyłu, dobra przyswajalność."
+    },
+    {
+      "front": "Budowa mieszalnika pasz suchych",
+      "back": "Pionowy przenośnik ślimakowy w lejowym zbiorniku."
+    },
+    {
+      "front": "Dozowniki objętościowe vs wagowe",
+      "back": "Objętościowe – wg objętości; wagowe – precyzyjniejsze, droższe."
+    },
+    {
+      "front": "Czym transportuje się paszę do dozowników?",
+      "back": "Wózkami lub podajnikami ślimakowymi albo wrzecionowymi."
+    },
+    {
+      "front": "Zaleta dozowników z identyfikacją zwierząt",
+      "back": "Każde zwierzę dostaje określoną ilość paszy dziennie."
+    },
+    {
+      "front": "TMR",
+      "back": "Total Mixed Ration – całkowicie wymieszana dawka."
+    },
+    {
+      "front": "Podstawowy zespół roboczy wozu paszowego",
+      "back": "Mieszadła pionowe lub poziome z nożami tnącymi."
+    },
+    {
+      "front": "Jak sprawdzić wagę wozu paszowego?",
+      "back": "Wsypać paszę zważoną wcześniej na innym urządzeniu."
+    },
+    {
+      "front": "Gdzie mocuje się wybierak do kiszonki?",
+      "back": "Najczęściej na tylnym TUZ ciągnika."
+    },
+    {
+      "front": "Co kontrolować w wybieraku?",
+      "back": "Nóż odcinający i jego zużycie, przewody hydrauliczne (wycieki niedopuszczalne)."
+    },
+    {
+      "front": "Dojarki przy utrzymaniu uwięziowym",
+      "back": "Bańkowe (konwiowe) i rurociągowe."
+    },
+    {
+      "front": "Udój przy utrzymaniu bezuwięziowym",
+      "back": "Hale i roboty udojowe."
+    },
+    {
+      "front": "Podciśnienie robocze dojarki",
+      "back": "41–53 kPa."
+    },
+    {
+      "front": "Wahania podciśnienia – co sprawdzić?",
+      "back": "Pompę próżniową i zbiornik wyrównawczy."
+    },
+    {
+      "front": "Optymalna częstotliwość pulsatora",
+      "back": "60 pulsów na minutę."
+    },
+    {
+      "front": "Elementy aparatu udojowego",
+      "back": "4 kubki udojowe, kolektor, pulsator, przewody łączące."
+    },
+    {
+      "front": "Ciśnienie w komorze podstrzykowej",
+      "back": "Stałe podciśnienie."
+    },
+    {
+      "front": "Takt ssania",
+      "back": "Podciśnienie w komorze międzyściennej – mleko wypływa."
+    },
+    {
+      "front": "Takt masażu",
+      "back": "Ciśnienie atmosferyczne w komorze międzyściennej – przerwa w wypływie mleka."
+    },
+    {
+      "front": "Rola ukośnych króćców kolektora",
+      "back": "Odcinają podciśnienie przy zakładaniu kubków – brak zasysania zanieczyszczeń."
+    },
+    {
+      "front": "Kolektor łączy się z pulsatorem przewodem…",
+      "back": "Powietrznym (z bańką – mlecznym)."
+    },
+    {
+      "front": "Zalety dojarki rurociągowej",
+      "back": "Bez dźwigania baniek, mleko bez kontaktu z powietrzem obory, wprost do chłodziarki."
+    },
+    {
+      "front": "Etapy pracy myjni automatycznej dojarki",
+      "back": "Płukanie, mycie środkiem, przedmuchiwanie, płukanie, dezynfekcja."
+    },
+    {
+      "front": "Hala udojowa w średnim gospodarstwie",
+      "back": "Typu „rybia ość”."
+    },
+    {
+      "front": "Hale udojowe w małych gospodarstwach",
+      "back": "Szeregowe i tunelowe."
+    },
+    {
+      "front": "Dojarnie w bardzo dużych gospodarstwach",
+      "back": "Karuzelowe."
+    },
+    {
+      "front": "Temperatura mleka po udoju",
+      "back": "Ok. 35°C."
+    },
+    {
+      "front": "Przechowywanie mleka do 18 godz.",
+      "back": "Ok. 6°C."
+    },
+    {
+      "front": "Przechowywanie mleka dłużej niż 18 godz.",
+      "back": "4°C."
+    },
+    {
+      "front": "W jakim czasie po doju schłodzić mleko?",
+      "back": "Do 2 godzin."
+    },
+    {
+      "front": "Schładzalnik otwarty vs zamknięty",
+      "back": "Otwarty – pokrywa, mycie ręczne, małe gospodarstwa; zamknięty – mleko pompowane, myjnia automatyczna."
+    },
+    {
+      "front": "Wymagania dla obory na głębokiej ściółce",
+      "back": "Wjazd ładowacza, betonowa nieprzepuszczalna posadzka, odpływ gnojówki, hala udojowa."
+    },
+    {
+      "front": "Maks. długość kanału dla szufli mechanicznej",
+      "back": "25 m."
+    },
+    {
+      "front": "Skok przenośnika zgarniakowego posuwisto-zwrotnego",
+      "back": "1,8–3 m, kilka ruchów na minutę."
+    },
+    {
+      "front": "Kiedy najczęściej zrywają się łańcuchy i liny przenośników?",
+      "back": "Podczas pracy pod obciążeniem."
+    },
+    {
+      "front": "Przenośnik Delta",
+      "back": "Posuwisto-zwrotny do gnojowicy; zgarniaki w dwóch sąsiednich kanałach naprzemiennie."
+    },
+    {
+      "front": "Samospływ okresowy – parametry kanału",
+      "back": "Głębokość ok. 1 m, spadek ok. 2%, długość do 25 m, zbiornik na ok. 1 miesiąc."
+    },
+    {
+      "front": "Samospływ ciągły – parametry kanału",
+      "back": "Szerokość ok. 1 m, długość do 35 m, płaskie dno, próg do 20 cm."
+    },
+    {
+      "front": "Po co warstwa wody w kanale przy samospływie okresowym?",
+      "back": "Zapobiega przywieraniu odchodów."
+    },
+    {
+      "front": "Wada systemu bezściołowego",
+      "back": "Pogarsza zdrowie zwierząt poruszających się po rusztach."
+    },
+    {
+      "front": "Podstawowe narzędzia do pielęgnacji skóry",
+      "back": "Szczotki, zgrzebła, grzebienie, nożyczki, maszynki elektryczne."
+    },
+    {
+      "front": "Po co skraca się sierść bydła?",
+      "back": "By nie przywierały odchody, pasza i zanieczyszczenia."
+    },
+    {
+      "front": "Dekornizacja",
+      "back": "Usuwanie zawiązków rogów – środki chemiczne lub urządzenia termiczne."
+    },
+    {
+      "front": "Narzędzia do korekcji racic",
+      "back": "Szlifierka kątowa lub noże – prawy i lewy."
+    },
+    {
+      "front": "Czym unieruchamia się bydło do korekcji racic?",
+      "back": "Poskromem."
+    },
+    {
+      "front": "Dlaczego sieczkarnie są dziś wykorzystywane w niewielkim stopniu?",
+      "back": "Ze względu na dużą pracochłonność przygotowania paszy; używają ich głównie małe gospodarstwa (wideokast odnosi to do sieczkarni toporowych)."
+    },
+    {
+      "front": "Nazwij elementy aparatu udojowego i wyjaśnij takty jego pracy.",
+      "back": "Kubek udojowy, guma elastyczna, komora międzyścienna, komora podstrzykowa, część powietrzna i mleczna kolektora. Takt ssania – podciśnienie w komorze międzyściennej, mleko wypływa; takt masażu – ciśnienie atmosferyczne, guma zaciska strzyk. W komorze podstrzykowej stale podciśnienie.",
+      "img": "img/tr6/aparat-udojowy-schemat.jpg"
+    },
+    {
+      "front": "Jaki element aparatu udojowego przedstawia schemat? Z czym jest połączony?",
+      "back": "Kolektor – komora powietrzna łączy się z pulsatorem i kubkami, komora mleczna z komorami podstrzykowymi kubków i przewodem mlecznym do bańki.",
+      "img": "img/tr6/kolektor-schemat.jpg"
+    },
+    {
+      "front": "Jaki typ hali udojowej przedstawia zdjęcie i gdzie się go stosuje?",
+      "back": "Dojarnia (hala) karuzelowa – w bardzo dużych gospodarstwach.",
+      "img": "img/tr6/dojarka-karuzelowa.jpg"
+    },
+    {
+      "front": "Jakie urządzenie przedstawia zdjęcie?",
+      "back": "Śrutownik bijakowy z koszem zasypowym – do rozdrabniania ziarna na śrutę.",
+      "img": "img/tr6/srutownik-bijakowy.jpg"
+    },
+    {
+      "front": "Na jakie dwa rodzaje dzielimy sieczkarnie ze względu na zespół roboczy?",
+      "back": "Bębnowe i toporowe."
+    },
+    {
+      "front": "Jakie urządzenia przedstawia zdjęcie i do czego służą?",
+      "back": "Silosy paszowe z podajnikami – magazyn paszy treściwej, z którego automatyczne linie transportują paszę do automatów paszowych.",
+      "img": "img/tr6/silosy-paszowe-podajniki.jpg"
+    },
+    {
+      "front": "Od czego zależy odległość górnego wału wciągającego od dolnego w sieczkarni bębnowej?",
+      "back": "Od ilości pobieranej masy (dolny wał osadzony nieruchomo, górny regulowany i dociskany sprężynami)."
+    },
+    {
+      "front": "Dlaczego schładzalniki mleka wyposaża się w systemy alarmowe?",
+      "back": "Bo przechowują mleko o znacznej wartości – alarm informuje rolnika o awarii."
+    },
+    {
+      "front": "Ile przewodów odchodzi z komory powietrznej i mlecznej kolektora i dokąd?",
+      "back": "Z powietrznej – 4 do komór międzyściennych kubków; z mlecznej – 4 (przez ukośne króćce) do komór podstrzykowych kubków."
+    },
+    {
+      "front": "Rodzaje obróbki cieplnej pasz",
+      "back": "Parowanie, zaparzanie, podgrzewanie, prażenie."
+    },
+    {
+      "front": "Rodzaje śrutowników wg elementu roboczego",
+      "back": "Tarczowe (jedna tarcza nieruchoma, druga obrotowa) i walcowe (dwa walce rowkowane, współbieżne, różna prędkość)."
+    },
+    {
+      "front": "Od czego zależy sposób zadawania pasz?",
+      "back": "Gatunek zwierząt, technologia i liczba zwierząt, budowa pomieszczeń, baza paszowa, kapitał, wielkość gospodarstwa, postęp technologiczny."
+    },
+    {
+      "front": "Czynności wykonywane przez robota udojowego",
+      "back": "Masowanie i mycie wymienia, zakładanie kubków, kontrola doju, zadawanie paszy treściwej, podój, zdejmowanie aparatu, dezynfekcja wymion, wypuszczanie krowy; dane zapisywane w komputerze."
+    },
+    {
+      "front": "Sposoby usuwania gnojowicy",
+      "back": "Mechaniczny – przenośnik posuwisto-zwrotny Delta; hydrauliczny – samospływ okresowy lub ciągły."
+    },
+    {
+      "front": "Sposoby usuwania obornika w oborach uwięziowych",
+      "back": "Ręcznie, spychaczem lub ładowaczem czołowym ciągnika, szuflą mechaniczną (kanały do 25 m), przenośnikami zgarniającymi lub zgarniakowymi posuwisto-zwrotnymi."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dojarnia karuzelowa obsługiwana przez trzech dojarzy osiąga wydajność nawet:",
+      "options": [
+        "400 krów/h",
+        "40 krów/h",
+        "100 krów/h",
+        "1000 krów/h"
+      ],
+      "answer": 0,
+      "explain": "Dojarnia karuzelowa obsługiwana przez 3 dojarzy doi nawet 400 krów na godzinę."
+    },
+    {
+      "q": "Do sposobów przygotowania paszy nie należy sposób:",
+      "options": [
+        "mechaniczny",
+        "chemiczny",
+        "elektryczny",
+        "biologiczny"
+      ],
+      "answer": 2,
+      "explain": "Wyróżnia się sposoby: mechaniczny, cieplny, chemiczny i biologiczny."
+    },
+    {
+      "q": "Długość sieczki w sieczkarni bębnowej reguluje się:",
+      "options": [
+        "zmianą wielkości sit",
+        "zmianą prędkości podawania lub liczby noży na bębnie",
+        "wysuwaniem noży na stożku",
+        "dociskiem sprężyn dolnego wału"
+      ],
+      "answer": 1,
+      "explain": "Długość sieczki reguluje się prędkością podawania lub liczbą noży."
+    },
+    {
+      "q": "W zespole wciągająco-zgniatającym sieczkarni bębnowej:",
+      "options": [
+        "oba wały są nieruchome",
+        "górny wał jest nieruchomy",
+        "wały obracają się wolniej od przenośnika",
+        "dolny wał jest nieruchomy, górny regulowany i dociskany sprężynami"
+      ],
+      "answer": 3,
+      "explain": "Dolny wał osadzony jest nieruchomo, górny – regulowany i dociskany sprężynami."
+    },
+    {
+      "q": "Płuczka bębnowa składa się najczęściej z:",
+      "options": [
+        "jednego bębna z dyszami",
+        "dwóch bębnów w wannie z wodą",
+        "bębna i podajnika ślimakowego",
+        "bębna czyszczącego na sucho i bębna pracującego w wannie z wodą"
+      ],
+      "answer": 3,
+      "explain": "Pierwszy bęben czyści na sucho, drugi pracuje w wannie z wodą."
+    },
+    {
+      "q": "Podajnik ślimakowy otrząsaczo-siekacza jest nachylony pod kątem ok.:",
+      "options": [
+        "15°",
+        "45°",
+        "30°",
+        "75°"
+      ],
+      "answer": 1,
+      "explain": "Nachylenie podajnika wynosi ok. 45° do poziomu."
+    },
+    {
+      "q": "Grubość krojenia okopowych w siekaczu bębnowym reguluje się:",
+      "options": [
+        "wymianą sit",
+        "zmianą prędkości taśmy",
+        "wysuwaniem lub cofaniem noży na bębnie",
+        "zmianą liczby bijaków"
+      ],
+      "answer": 2,
+      "explain": "Grubość materiału reguluje się wysuwaniem lub cofaniem noży."
+    },
+    {
+      "q": "Parowanie ziemniaków ma na celu m.in.:",
+      "options": [
+        "neutralizację solaniny",
+        "zwiększenie zawartości włókna",
+        "usunięcie skrobi",
+        "obniżenie strawności"
+      ],
+      "answer": 0,
+      "explain": "Parowanie zwiększa przyswajalność skrobi i neutralizuje solaninę."
+    },
+    {
+      "q": "Parnik na paliwo stałe musi być usytuowany:",
+      "options": [
+        "blisko komina",
+        "w pomieszczeniu bez wentylacji",
+        "w oborze",
+        "na zewnątrz budynku"
+      ],
+      "answer": 0,
+      "explain": "Parniki na paliwo stałe muszą stać blisko komina odprowadzającego spaliny."
+    },
+    {
+      "q": "Do rozdrabniania przygotowuje się ziarno suche, ponieważ:",
+      "options": [
+        "jest cięższe",
+        "wymaga więcej energii",
+        "łatwiej pęka i nie zasklepia sit",
+        "daje więcej pyłu"
+      ],
+      "answer": 2,
+      "explain": "Suche ziarno łatwiej pęka i nie zasklepia sit."
+    },
+    {
+      "q": "Elementem roboczym śrutownika walcowego są:",
+      "options": [
+        "dwie tarcze, jedna nieruchoma",
+        "dwa walce rowkowane obracające się z różną prędkością",
+        "bijaki na wirniku",
+        "bęben z nożami i stalnica"
+      ],
+      "answer": 1,
+      "explain": "Śrutownik walcowy ma dwa walce rowkowane obracające się współbieżnie z różną prędkością."
+    },
+    {
+      "q": "W rozdrabniaczu bijakowym stopień rozdrobnienia reguluje się:",
+      "options": [
+        "liczbą noży na bębnie",
+        "odległością tarcz",
+        "prędkością podawania taśmy",
+        "doborem wielkości sit"
+      ],
+      "answer": 3,
+      "explain": "Stopień rozdrobnienia w rozdrabniaczach reguluje się doborem sit."
+    },
+    {
+      "q": "Urządzenie do miażdżenia ziarna, dające paszę z niewielką ilością pyłu, to:",
+      "options": [
+        "rozdrabniacz bijakowy",
+        "śrutownik tarczowy",
+        "sieczkarnia toporowa",
+        "zgniatacz"
+      ],
+      "answer": 3,
+      "explain": "Zgniatacze miażdżą ziarno, a materiał zawiera niewiele części pylistych."
+    },
+    {
+      "q": "Mieszalnik pasz treściwych suchych zbudowany jest najczęściej z:",
+      "options": [
+        "poziomego bębna obrotowego",
+        "pionowego przenośnika ślimakowego w lejowym zbiorniku",
+        "mieszadeł z nożami tnącymi",
+        "dwóch walców rowkowanych"
+      ],
+      "answer": 1,
+      "explain": "Mieszalnik ma pionowy przenośnik ślimakowy w lejowym zbiorniku."
+    },
+    {
+      "q": "Dozowniki wagowe w porównaniu z objętościowymi są:",
+      "options": [
+        "tańsze i mniej precyzyjne",
+        "tak samo precyzyjne",
+        "bardziej precyzyjne, ale droższe",
+        "przeznaczone tylko do pasz mokrych"
+      ],
+      "answer": 2,
+      "explain": "Dozowniki wagowe są precyzyjniejsze, ale droższe w zakupie."
+    },
+    {
+      "q": "Skrót TMR oznacza:",
+      "options": [
+        "całkowicie wymieszaną dawkę",
+        "paszę treściwą granulowaną",
+        "system identyfikacji zwierząt",
+        "dawkę z pastwiska"
+      ],
+      "answer": 0,
+      "explain": "TMR – Total Mixed Ration, całkowicie wymieszana dawka."
+    },
+    {
+      "q": "Poprawność wagi wozu paszowego najlepiej sprawdzić:",
+      "options": [
+        "wsypując paszę zważoną wcześniej na innym urządzeniu",
+        "ważąc pusty wóz",
+        "porównując z odczytem z poprzedniego dnia",
+        "mierząc objętość paszy"
+      ],
+      "answer": 0,
+      "explain": "Wagę sprawdza się, wsypując wcześniej zważoną paszę."
+    },
+    {
+      "q": "Wybieraki do kiszonki mocuje się najczęściej:",
+      "options": [
+        "na przednim ładowaczu",
+        "na wozie paszowym",
+        "na tylnym TUZ ciągnika",
+        "na ścianie silosu"
+      ],
+      "answer": 2,
+      "explain": "Wybieraki mocowane są najczęściej na tylnym TUZ ciągnika."
+    },
+    {
+      "q": "Prawidłowe podciśnienie w rurociągu dojarki wynosi:",
+      "options": [
+        "10–20 kPa",
+        "41–53 kPa",
+        "70–80 kPa",
+        "100–120 kPa"
+      ],
+      "answer": 1,
+      "explain": "Podciśnienie na wakuometrze powinno wynosić 41–53 kPa."
+    },
+    {
+      "q": "Optymalna częstotliwość pracy pulsatora wynosi:",
+      "options": [
+        "20 pulsów/min",
+        "120 pulsów/min",
+        "200 pulsów/min",
+        "60 pulsów/min"
+      ],
+      "answer": 3,
+      "explain": "Optymalna częstotliwość pulsatora to 60 pulsów na minutę."
+    },
+    {
+      "q": "Wahania podciśnienia w krótkich odstępach czasu wskazują na konieczność sprawdzenia:",
+      "options": [
+        "kubków udojowych",
+        "schładzalnika",
+        "filtra mleka",
+        "pompy i zbiornika wyrównawczego"
+      ],
+      "answer": 3,
+      "explain": "Przy wahaniach podciśnienia należy sprawdzić pompę i zbiornik wyrównawczy."
+    },
+    {
+      "q": "W komorze podstrzykowej kubka udojowego panuje:",
+      "options": [
+        "stałe ciśnienie atmosferyczne",
+        "stałe podciśnienie",
+        "na zmianę podciśnienie i ciśnienie atmosferyczne",
+        "nadciśnienie"
+      ],
+      "answer": 1,
+      "explain": "W komorze podstrzykowej panuje stałe podciśnienie."
+    },
+    {
+      "q": "Takt masażu występuje, gdy w komorze międzyściennej panuje:",
+      "options": [
+        "podciśnienie",
+        "nadciśnienie",
+        "ciśnienie atmosferyczne",
+        "takie samo podciśnienie jak w podstrzykowej"
+      ],
+      "answer": 2,
+      "explain": "Przy ciśnieniu atmosferycznym w komorze międzyściennej guma się odkształca – takt masażu."
+    },
+    {
+      "q": "Ukośne zakończenie króćców kolektora zapobiega:",
+      "options": [
+        "wciąganiu zanieczyszczeń podczas zakładania kubków",
+        "przegrzewaniu mleka",
+        "wahaniom pulsacji",
+        "pienieniu się mleka"
+      ],
+      "answer": 0,
+      "explain": "Załamane przewody odcinają podciśnienie, więc zanieczyszczenia nie są wciągane."
+    },
+    {
+      "q": "Dojarki konwiowe stosuje się najczęściej w gospodarstwach utrzymujących:",
+      "options": [
+        "kilka–kilkanaście krów",
+        "kilkadziesiąt krów",
+        "kilkaset krów",
+        "powyżej tysiąca krów"
+      ],
+      "answer": 0,
+      "explain": "Dojarki konwiowe wykorzystuje się w małych gospodarstwach z kilkoma–kilkunastoma krowami."
+    },
+    {
+      "q": "Dojarnie typu „rybia ość” stosuje się najczęściej w gospodarstwach:",
+      "options": [
+        "bardzo małych",
+        "bardzo dużych",
+        "średnich",
+        "bez krów mlecznych"
+      ],
+      "answer": 2,
+      "explain": "W gospodarstwach średnich najczęściej spotyka się dojarnie typu „rybia ość”."
+    },
+    {
+      "q": "Mleko przechowywane w gospodarstwie nie dłużej niż 18 godz. może mieć temperaturę ok.:",
+      "options": [
+        "1°C",
+        "6°C",
+        "10°C",
+        "15°C"
+      ],
+      "answer": 1,
+      "explain": "Przy przechowywaniu do 18 godz. wystarczy ok. 6°C."
+    },
+    {
+      "q": "Mleko przechowywane dłużej niż 18 godz. należy schłodzić do:",
+      "options": [
+        "6°C",
+        "8°C",
+        "0°C",
+        "4°C"
+      ],
+      "answer": 3,
+      "explain": "Przy dłuższym przechowywaniu temperaturę obniża się do 4°C."
+    },
+    {
+      "q": "Wymaganą temperaturę mleka należy osiągnąć w ciągu:",
+      "options": [
+        "30 minut od doju",
+        "6 godzin od doju",
+        "12 godzin od doju",
+        "2 godzin od doju"
+      ],
+      "answer": 3,
+      "explain": "Temperatury przechowywania należy zapewnić do 2 godzin po doju."
+    },
+    {
+      "q": "Schładzalnik zamknięty myty jest:",
+      "options": [
+        "ręcznie po otwarciu pokrywy",
+        "automatyczną myjnią",
+        "wyłącznie parą",
+        "raz w tygodniu przez mleczarnię"
+      ],
+      "answer": 1,
+      "explain": "W schładzalnikach zamkniętych zbiornik myje automatyczna myjnia."
+    },
+    {
+      "q": "Szuflę mechaniczną do usuwania obornika można stosować w kanałach o długości do:",
+      "options": [
+        "10 m",
+        "50 m",
+        "25 m",
+        "100 m"
+      ],
+      "answer": 2,
+      "explain": "Szufla mechaniczna nadaje się do kanałów nieprzekraczających 25 m."
+    },
+    {
+      "q": "Długość skoku przenośnika zgarniakowego o ruchu posuwisto-zwrotnym wynosi:",
+      "options": [
+        "1,8–3 m",
+        "0,5–1 m",
+        "5–6 m",
+        "10–12 m"
+      ],
+      "answer": 0,
+      "explain": "Skok przenośnika wynosi 1,8–3 m."
+    },
+    {
+      "q": "Przenośnik typu Delta służy do usuwania:",
+      "options": [
+        "gnojowicy z kanałów",
+        "obornika z głębokiej ściółki",
+        "paszy ze stołu paszowego",
+        "ziarna z silosu"
+      ],
+      "answer": 0,
+      "explain": "Delta to przenośnik posuwisto-zwrotny do mechanicznego usuwania gnojowicy."
+    },
+    {
+      "q": "Kanał do samospływu okresowego ma dno nachylone w stronę odpływu ok.:",
+      "options": [
+        "0%",
+        "10%",
+        "2%",
+        "20%"
+      ],
+      "answer": 2,
+      "explain": "Dno kanału przy samospływie okresowym ma nachylenie ok. 2%."
+    },
+    {
+      "q": "Przy samospływie ciągłym kanał przed wprowadzeniem zwierząt napełnia się wodą:",
+      "options": [
+        "do połowy głębokości",
+        "do wysokości progu",
+        "do pełna",
+        "nie napełnia się go wodą"
+      ],
+      "answer": 1,
+      "explain": "Kanał wypełnia się wodą do wysokości progu (do 20 cm)."
+    },
+    {
+      "q": "Kanał do samospływu ciągłego może mieć długość do:",
+      "options": [
+        "15 m",
+        "25 m",
+        "60 m",
+        "35 m"
+      ],
+      "answer": 3,
+      "explain": "Kanał do samospływu ciągłego ma długość do 35 m i płaskie dno."
+    },
+    {
+      "q": "Dekornizacja to:",
+      "options": [
+        "korekcja racic",
+        "skracanie sierści",
+        "dezynfekcja wymion",
+        "usuwanie zawiązków rogów"
+      ],
+      "answer": 3,
+      "explain": "Dekornizacja to usuwanie zawiązków rogów, konieczne przy wolnostanowiskowym utrzymaniu."
+    },
+    {
+      "q": "Do korekcji racic używa się:",
+      "options": [
+        "maszynki elektrycznej",
+        "szlifierki kątowej lub noży prawego i lewego",
+        "zgrzebła",
+        "rozgrzanego grota"
+      ],
+      "answer": 1,
+      "explain": "Korekcję wykonuje się szlifierką kątową lub nożami prawym i lewym."
+    },
+    {
+      "q": "W której komorze kubka udojowego panuje stałe podciśnienie?",
+      "options": [
+        "W komorze podstrzykowej",
+        "W komorze międzyściennej",
+        "W części powietrznej kolektora",
+        "W pulsatorze"
+      ],
+      "answer": 0,
+      "explain": "Komora podstrzykowa ma stałe podciśnienie, a w komorze międzyściennej zmienia się ono z ciśnieniem atmosferycznym (takt ssania i masażu).",
+      "img": "img/tr6/aparat-udojowy-schemat.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Nachylenie podajnika ślimakowego w otrząsaczo-siekaczu wynosi:",
+      "options": [
+        "60°.",
+        "45°.",
+        "15°.",
+        "90°."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZespół … sieczkarni bębnowej jest to koryto metalowe lub drewniane z umieszczonym na dnie przenośnikiem łańcuchowo-listwowym umożliwiającym przemieszczenie materiału do zespołu wciągającego.",
+      "options": [
+        "rozdrabniający",
+        "podający"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMaszyny i urządzenia stosowane w produkcji zwierzęcej przyczyniły się w znaczny sposób do obniżenia pracochłonności chowu zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W zależności od rodzaju elementu roboczego wyróżniamy śrutowniki:",
+      "options": [
+        "toporowe.",
+        "bębnowe.",
+        "walcowe.",
+        "tarczowe."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPłuczka … składa się najczęściej z dwóch bębnów – pierwszego wstępnego, który oczyszcza rośliny okopowe na sucho oraz drugiego, który pracuje w wannie z wodą.",
+      "options": [
+        "bębnowa",
+        "toporowa"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzygotowanie karmy wymaga zastosowania przynajmniej jednego z czterech sposobów: mechanicznego, cieplnego, chemicznego lub biologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do korekcji racic, gdy wykonuje ją doświadczony korektor, wykorzystuje się:",
+      "options": [
+        "szlifierkę oscylacyjną.",
+        "szlifierkę kątową.",
+        "noże korektorskie.",
+        "szlifierkę taśmową."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo przygotowania pasz z roślin łodygowych, np. kukurydzy, trawy, słomy, wykorzystuje się …, które pozwalają na uzyskanie sieczki o odpowiedniej długości.",
+      "options": [
+        "młocarnie",
+        "sieczkarnie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zespół rozdrabniający składa się z bębna, na którym osadzone są wygięte noże umożliwiające stałą i równą pracę sieczkarni oraz stalnicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Sieczkarnia bębnowa zbudowana jest z:",
+      "options": [
+        "zespołu wciągająco-zgniatającego.",
+        "zespołu rozdrabniającego.",
+        "zespołu podającego.",
+        "zespołu wytrząsającego."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… sieczki można regulować poprzez zmianę prędkości podawania materiału do zespołu rozdrabniającego lub zmianę ilości noży na bębnie.",
+      "options": [
+        "Długość",
+        "Ilość"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZespół rozdrabniający sieczkarni bębnowej jest zbudowany z dwóch wałów żeliwnych umieszczonych jeden nad drugim.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Sposoby zadawania pasz w gospodarstwach rolnych są uzależnione od:",
+      "options": [
+        "technologii utrzymania zwierząt.",
+        "gatunku utrzymywanych zwierząt.",
+        "ilości utrzymywanych zwierząt.",
+        "budowy pomieszczeń inwentarskich."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzygotowując sieczkarnie do pracy, należy przede wszystkim zabezpieczyć elementy napędzające sieczkarnie oraz zespół rozdrabniający odpowiednimi ….",
+      "options": [
+        "obudowami",
+        "stalnicami"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od sposobu działania możemy wyróżnić płuczki o działaniu okresowym lub ciągłym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co oznacza skrót TMR?",
+      "options": [
+        "Całkowicie wymieszana dawka.",
+        "Częściowo wymieszana dawka.",
+        "Dawka wyselekcjonowana."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nRośliny … należy przede wszystkim oczyścić z zanieczyszczeń (głównie ziemi) oraz odpowiednio rozdrobnić przed podaniem.",
+      "options": [
+        "łodygowe",
+        "okopowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiekacze z pojedynczym lub podwójnym bębnem stożkowym umożliwią rozdrobnienie wcześniej oczyszczonych roślin okopowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Z ilu bębnów składa się płuczka bębnowa?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSieczkarnia bębnowa zbudowana jest z … zasadniczych elementów.",
+      "options": [
+        "trzech",
+        "dwóch"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu wstępnego oczyszczenia roślin okopowych z ziemi można zastosować przenośniki podające rolkowe lub zsypy ażurowe wykonane z listew lub prętów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Część pasz przed skarmieniem wymaga zastosowania obróbki cieplnej takiej, jak:",
+      "options": [
+        "zaparzenie.",
+        "parowanie.",
+        "podgrzanie.",
+        "prażenie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOtrząsaczo-siekacz służy do czyszczenia i siekania roślin … lub tylko do czyszczenia i transportowania.",
+      "options": [
+        "łodygowych",
+        "okopowych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPracę dojarki reguluje pulsator, którego zadaniem jest zmiana ciśnienia w kubkach udojowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Podciśnienie wytwarzane w rurociągu powinno wahać się w granicach:",
+      "options": [
+        "55–63 kPa.",
+        "41–53 kPa.",
+        "31–43 kPa.",
+        "50–60 kPa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW śrutownikach … elementem roboczym są dwie tarcze, z których jedna pozostaje nieruchoma, a druga się obraca.",
+      "options": [
+        "tarczowych",
+        "walcowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nW śrutownikach walcowych elementem roboczym są dwa walce rowkowane poruszające się współbieżnie z różną prędkością. Ziarno jest przez nie rozrywane i rozłupywane.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Praca sieczkarni polowej polega na:",
+      "options": [
+        "nagarnianiu.",
+        "przygotowaniu do zespołu rozdrabniającego.",
+        "podcinaniu roślin.",
+        "przeniesieniu do zespołu rozdrabniającego."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.\nW rozdrabniaczach … częścią roboczą są płytki, najczęściej prostokątne, umieszczone na wirniku, który zostaje wprowadzony w ruch przez silnik elektryczny. Rozdrobnienie następuje w wyniku uderzenia z dużą prędkością bijaków w materiał rozdrabniany.",
+      "options": [
+        "bijakowych",
+        "uniwersalnych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nW komorze podstrzykowej panuje na zmianę podciśnienie i ciśnienie atmosferyczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W bardzo dużych gospodarstwach wykorzystuje się dojarnie:",
+      "options": [
+        "szeregowe.",
+        "dojarnie typu „rybia ość”.",
+        "karuzelowe.",
+        "tunelowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź… są przeznaczone do miażdżenia ziarna zbóż i nasion roślin motylkowych.",
+      "options": [
+        "Zgniatacze",
+        "Młocarnie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozdrabniacze są urządzeniami bardziej uniwersalnymi od śrutowników, gdyż umożliwiają rozdrobnienie, prócz ziarna, także słomy, roślin okopowych i innych materiałów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSamospływ … wymaga budowy kanału o głębokości ok. 1 m z dnem nachylonym w stronę odpływu odchodów ok. 2%.",
+      "options": [
+        "okresowy",
+        "ciągły"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOptymalna częstotliwość pracy pulsatora to … pulsów na minutę.",
+      "options": [
+        "40",
+        "60"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nHala udojowa powstaje w budynkach inwentarskich przy utrzymaniu zwierząt w systemie uwięziowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Aby spowolnić rozwój bakterii, po udoju mleko należy:",
+      "options": [
+        "doprowadzić do wrzenia, a następnie schłodzić do temperatury 10°C.",
+        "podwyższyć do temperatury 90°C.",
+        "schłodzić do temperatury 35°C.",
+        "schłodzić do temperatury 4–6°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Aparat udojowy dojarek przeznaczonych dla kóz i owiec składa się z … kubków udojowych.",
+      "options": [
+        "4",
+        "6"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nObecnie do przechowywania mleka najczęściej wykorzystuje się schładzalniki sprężarkowe otwarte w małych gospodarstwach oraz zamknięte w większych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Pasza do dozowników może być transportowana przy użyciu:",
+      "options": [
+        "podajników spiralnych.",
+        "podajników ślimakowych.",
+        "wózków transportowych.",
+        "odbiorników."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższy tekst, wybierając odpowiedź.\nTemperatura przechowywania mleka zależy od czasu jego magazynowania w gospodarstwie. Gdy czas ten nie przekracza 18 godzin, może być ono przechowywane w temperaturze ok. ….",
+      "options": [
+        "4°C",
+        "6°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHale udojowe są to wydzielone pomieszczenia przy wolnostanowiskowym utrzymaniu krów mlecznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wyróżniamy następujące typy sieczkarni:",
+      "options": [
+        "bębnowe.",
+        "napędowe.",
+        "kołowe.",
+        "toporowe."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDługość skoku przenośnika zawiera się w granicach 1,8–3 m, a częstotliwość wynosi … ruchów na minutę.",
+      "options": [
+        "kilkanaście",
+        "kilka"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMieszalniki do pasz treściwych suchych najczęściej są zbudowane z poziomego przenośnika ślimakowego, umieszczonego wewnątrz lejowego zbiornika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Sposoby zadawania pasz w gospodarstwach rolnych są uzależnione od:",
+      "options": [
+        "postępu technologicznego.",
+        "wielkości gospodarstwa.",
+        "bazy paszowej.",
+        "kapitału."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWykwalifikowany pracownik w ciągu godziny jest w stanie wydoić ręcznie 8–9 krów, natomiast przy zastosowaniu dojarni karuzelowej, obsługiwanej przez trzech dojarzy, wydajność sięga nawet 400 krów na godzinę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przygotowanie karmy wymaga zastosowania sposobu:",
+      "options": [
+        "mechanicznego.",
+        "fizycznego.",
+        "chemicznego.",
+        "cieplnego."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wyróżniamy następujące rodzaje sieczkarni:",
+      "options": [
+        "kołowe.",
+        "napędowe.",
+        "toporowe.",
+        "bębnowe."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nZespół rozdrabniający jest to koryto metalowe lub drewniane z umieszczonym na dnie przenośnikiem łańcuchowo-listwowym umożliwiającym przemieszczenie materiału do zespołu wciągającego. W małych sieczkarniach materiał w korytach przenoszony jest ręcznie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDługość sieczki można regulować poprzez zmianę prędkości podawania materiału do zespołu rozdrabniającego lub zmianę ilości noży na bębnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny okopowe.",
+      "options": [
+        "Buraki.",
+        "Marchew.",
+        "Kukurydza.",
+        "Brukiew."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzygotowanie sieczkarni do pracy nie wymaga zabezpieczenia napędzających je elementów oraz zespołu rozdrabniającego odpowiednimi obudowami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ziarno do śrutowników jest transportowane za pomocą:",
+      "options": [
+        "zsypów usytuowanych nad śrutownikiem.",
+        "dmuchaw ssąco-tłoczących.",
+        "przenośników ślimakowych.",
+        "przenośników taśmowych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W zależności od rodzaju elementu roboczego wyróżniamy śrutowniki:",
+      "options": [
+        "tarczowe.",
+        "bębnowe.",
+        "walcowe.",
+        "ślimakowe."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli sieczkarnia nie posiada zespołu podającego, należy zachować szczególną ostrożność przy podsuwaniu materiału do zespołu wciągającego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNachylenie podajnika ślimakowego w otrząsaczo-siekaczu to ok. 60° do poziomu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Optymalna częstotliwość pracy pulsatora to:",
+      "options": [
+        "60 pulsów na minutę.",
+        "80 pulsów na minutę.",
+        "40 pulsów na minutę.",
+        "35 pulsów na minutę."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGrubość materiału krojonego przez siekacze reguluje się poprzez wysuwanie lub cofanie noży na bębnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nW śrutownikach walcowych elementem roboczym są dwie tarcze, z których jedna pozostaje nieruchoma, a druga się obraca Między tarcze jest podawane ziarno, które zostaje roztarte.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Aparat udojowy składa się z:",
+      "options": [
+        "przewodów łączących.",
+        "kolektora.",
+        "pulsatora.",
+        "bańki."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nRozdrabniacz bijakowy wykorzystywany jest zarówno do śrutowania ziarna zbóż, jak i do rozdrabniania makuchów, siana, zielonek, okopowych. Uniwersalność polega na wymianie odpowiednio przeznaczonych tarcz rozdrabniających.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Samospływ ciągły wymaga budowy kanału o szerokości ok.",
+      "options": [
+        "2 m.",
+        "1,5 m.",
+        "0,5 m.",
+        "1 m."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDno zbiornika rzadko wyposażone bywa w wagę ułatwiającą odpowiednie zbilansowanie paszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przygotowanie do skarmiania pasz treściwych polega na:",
+      "options": [
+        "mieleniu.",
+        "rozdrobnieniu.",
+        "przygotowaniu odpowiednich mieszanek.",
+        "płukaniu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Nadmierne rozdrobnienie ziarna często przynosi negatywny skutek, powodując:",
+      "options": [
+        "podrażnienie układu oddechowego.",
+        "nadmierne zapylenie.",
+        "zwiększenie zużycia energii.",
+        "wysuszanie śluzówek nosa u zwierząt."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKiszonki z silosów mogą być pobierane i zadawane zwierzętom bezpośrednio za pomocą wybieraków mocowanych najczęściej na tylnym TUZ-ie ciągnika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do doju krów na uwięzi wykorzystuje się:",
+      "options": [
+        "roboty udojowe.",
+        "dojarki bańkowe.",
+        "dojarki rurociągowe.",
+        "hale."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZ komory powietrznej kolektora odchodzą cztery przewody do komór międzyściennych kubków, a z komory mlecznej wyprowadzone są cztery przewody poprzez ukośnie zakończone króćce do komór podstrzykowych kubków udojowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nZgniatacze są przeznaczone do miażdżenia ziarna zbóż i nasion roślin motylkowych. Materiał rozgnieciony zawiera niewiele części pylistych i jest dobrze przyswajalny przez zwierzęta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoprawność działania wagi na dnie zbiornika paszy należy kontrolować, najlepiej poprzez wsypanie wcześniej zważonej na innym urządzeniu paszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nDo przygotowywania i zadawania bydłu pasz pełnoporcjowych wykorzystywane są powszechnie wozy paszowe. Przygotowują one paszę w systemie TMR.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDekornizacja to usuwanie zawiązków rogów u zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W małych gospodarstwach wykorzystuje się dojarnie:",
+      "options": [
+        "szeregowe.",
+        "tunelowe.",
+        "dojarnie typu „rybia ość”.",
+        "karuzelowe."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDojarki rurociągowe, zwane również przewodowymi, wykorzystywane są w większych gospodarstwach, utrzymujących kilkadziesiąt krów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Długość skoku przenośnika zgarniakowego do usuwania obornika zawiera się w granicach:",
+      "options": [
+        "1–2 m.",
+        "0,8–1 m.",
+        "3–4 m.",
+        "1,8–3 m."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Do rozdrobnienia powinno być przygotowane ziarno suche, ponieważ łatwiej pęka i nie zasklepia sit.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGnojowica powstaje w budynkach inwentarskich przy utrzymaniu zwierząt w systemie bezściołowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje rozdrabniaczy wyróżniane w zależności od budowy zespołu roboczego.",
+      "options": [
+        "Tarczowe.",
+        "Bijakowe.",
+        "Uniwersalne."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSamospływ ciągły wymaga budowy kanału o głębokości ok. 1 m z dnem nachylonym w stronę odpływu odchodów ok. 2% zakończonym zasuwą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

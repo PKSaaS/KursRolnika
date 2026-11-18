@@ -1,0 +1,1722 @@
+{
+  "id": "tpc8",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Obrót stada. Przygotowanie do sprzedaży",
+  "number": "VIII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Chów i hodowla zwierząt służą otrzymaniu konkretnego produktu: mleka, wełny, mięsa lub nowych osobników do dalszej hodowli.",
+        "Obrót stada zwiększa efektywność produkcji: pozwala wyciągać wnioski z dotychczasowych doświadczeń i zaplanować chów na kolejny rok.",
+        "Obrót stada pomaga rozplanować przestrzeń dla zwierząt i uniknąć przepełnienia lub pustostanów.",
+        "Przed sprzedażą zwierząt (do hodowli, tuczu, dalszego chowu lub uboju) trzeba dopełnić wymaganych formalności.",
+        "Przepisy o przeciwdziałaniu chorobom zakaźnym obowiązują zarówno sprzedawców, jak i kupujących."
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia z zakresu obrotu stadem",
+      "points": [
+        "Remont stada – wymiana lub uzupełnienie stada podstawowego nowymi zwierzętami (gdy zwierzęta osiągną wiek wykluczający z rozrodu, padną lub mają słabe wyniki).",
+        "Obrót stada – tabelaryczne przedstawienie wszystkich zmian w stadzie w ciągu roku (zakup, przeznaczenie na remont, sprzedaż itp.).",
+        "Obrót stada sprawozdawczy – sporządzany pod koniec roku produkcyjnego; dotyczy zmian, które już nastąpiły.",
+        "Obrót stada planowany – plan zmian w stadzie na kolejny okres produkcyjny.",
+        "Przeklasowanie – przejście zwierzęcia z jednej grupy do drugiej (np. prosięta → warchlaki → tuczniki).",
+        "Stan przelotowy – suma zwierząt, które w ciągu roku przebywały w danej grupie technologicznej i przeszły do kolejnej.",
+        "Stan średnioroczny – dla zwierząt przebywających w grupie krócej niż rok: liczba zwierząt × czas przebywania w grupie ÷ 12 miesięcy.",
+        "Cykl zamknięty – cały proces produkcyjny w gospodarstwie; sztuki remontowe i produkcyjne (opasy, tuczniki) z własnej hodowli.",
+        "Cykl otwarty – część zwierząt dokupowana z zewnątrz (np. na remont stada lub do tuczu)."
+      ]
+    },
+    {
+      "heading": "2. Zasady i cel sporządzania obrotu stada",
+      "points": [
+        "Obrót sprawozdawczy pozwala przeanalizować wyniki i wyciągnąć wnioski; obrót planowany – zorganizować prace na kolejny rok.",
+        "Obrót stada pozwala lepiej wykorzystać ograniczoną powierzchnię i liczbę kojców.",
+        "Pozwala dobrać liczbę zwierząt stada podstawowego oraz częstotliwość remontów i liczbę wymienianych zwierząt.",
+        "Do sporządzenia obrotu trzeba znać: plenność gospodarczą, częstotliwość oproszeń, długość chowu w grupie technologicznej, czasem długość ciąży i okresów międzyciążowych.",
+        "Cztery składowe obrotu stada: stan początkowy, stan końcowy, przychody, rozchody.",
+        "Stan początkowy – liczba zwierząt na początku roku (1.01) w poszczególnych grupach; stan końcowy – w ostatnim dniu roku (31.12).",
+        "Przychody – zwierzęta zwiększające liczebność grupy: z własnego odchowu, z zakupu lub z przeklasowania.",
+        "Rozchody – zmniejszają liczebność grupy: przeklasowanie, przeznaczenie do własnego chowu, sprzedaż (np. na rzeź).",
+        "Zwierzęta brakowane wpisuje się do tabeli – tworzy się z nich grupę wywożoną jednorazowo, a nie sprzedaje pojedynczo.",
+        "Tabela obrotu stada zawiera kolumny: stan początkowy (01.01), przychody (z odchowu, z przeklasowania, z zakupu), razem, rozchody (na przeklasowanie, na rzeź, do chowu, na sprzedaż), stan końcowy (31.12), średni stan zwierząt w roku.",
+        "Obrót stada daje kontrolę nad produkcją zwierzęcą; lepsze wykorzystanie pomieszczeń i dobór liczebności stada podstawowego są istotne ekonomicznie i zwiększają efektywność gospodarstwa; szczególnie starannie zaznacza się w tabeli przeklasowania.",
+        "Uwaga – błąd rachunkowy w źródle (Tabela 8.1): suma kolumny „przychody z przeklasowania” z wierszy wynosi 15 + 15 + 1 + 1 + 480 + 480 = 992 (tyle samo co rozchody na przeklasowanie), a w wierszu podsumowania podano 998; bilans 317 + 480 + 992 + 16 = 1805 zgadza się z sumą „razem”. Przeklasowanie nie zmienia liczby zwierząt w całym stadzie – ile zwierząt przechodzi z grup, tyle do nich przybywa."
+      ],
+      "images": [
+        {
+          "src": "img/tpc8/obrot-stada-swinie-tabela.jpg",
+          "caption": "Tabela 8.1. Przykładowy obrót stada trzody chlewnej w cyklu otwartym. Kolumny: stan początkowy (01.01) + przychody (z odchowu, z przeklasowania, z zakupu) = razem; rozchody (na przeklasowanie, na sprzedaż: na rzeź / do chowu) → stan końcowy (31.12) i średni stan. Podsumowanie: stan początkowy 317 + odchów 480 + przeklasowanie 998 + zakup 16 = 1805; rozchody w roku 1488 (przeklasowanie 992, rzeź 496), więc stan końcowy = 1805 − 1488 = 317. W materiale źródłowym wiersze nie mają nazw grup zwierząt."
+        }
+      ]
+    },
+    {
+      "heading": "3. Podstawowe pojęcia z zakresu sprzedaży zwierząt",
+      "points": [
+        "Umieszczanie na rynku – przetrzymywanie lub prezentacja zwierząt w celu sprzedaży, oferowanie, dostarczanie lub inny sposób wprowadzania na rynek.",
+        "Handel – swobodny obrót między państwami członkowskimi UE.",
+        "Sprzedaż bezpośrednia – bez pośredników, z kontaktem kupującego z hodowcą; w gospodarstwie, na targach, targowiskach, wystawach, pokazach i konkursach.",
+        "Zwierząt towarzyszących, w szczególności psów, nie można sprzedawać poza miejscem ich chowu i hodowli.",
+        "Przygotowanie do sprzedaży – czynności przed wprowadzeniem na rynek: formalności, identyfikacja, doprowadzenie do kondycji spełniającej wymagania weterynaryjne."
+      ]
+    },
+    {
+      "heading": "4. Identyfikacja zwierząt – zasady ogólne",
+      "points": [
+        "Wszystkie zwierzęta gospodarskie muszą być oznakowane w określonych terminach lub przed sprzedażą.",
+        "Oznakowanie pozwala ustalić miejsce pochodzenia i przodków – ważne przy dochodzeniu epizootycznym (wykrycie źródła infekcji i zwierząt narażonych).",
+        "Podstawa prawna: Ustawa z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt."
+      ]
+    },
+    {
+      "heading": "Identyfikacja – bydło, owce, kozy, świnie, konie",
+      "points": [
+        "Bydło: cielęta znakuje się najpóźniej 7 dni po urodzeniu kolczykami w obu małżowinach usznych.",
+        "Kod na kolczyku bydła ma 12 cyfr; dwie pierwsze to symbol kraju pochodzenia.",
+        "Bydło musi mieć paszport: data urodzenia, pochodzenie, opis wyglądu, numer identyfikacyjny.",
+        "Owce i kozy: oznakowanie najpóźniej 180 dni po urodzeniu – kolczyk z numerem identyfikacyjnym w lewej małżowinie.",
+        "Owce i kozy do handlu – na prawej małżowinie kolczyk z identyfikatorem elektronicznym; niesprzedawane – kolczyk z indywidualnym numerem w stadzie.",
+        "Świnie: oznakowanie jak najszybciej – tatuaż lub kolczyk na lewej małżowinie; numer identyfikacyjny = numer siedziby stada, w której zwierzę się urodziło.",
+        "Od znakowania świń wycięciami na uszach stopniowo się odchodzi; oznakowanie zgłasza się do ARiMR.",
+        "Konie: odchodzi się od wymrażania i wypalania na rzecz mikroczipów; każdy koń musi mieć indywidualny paszport.",
+        "Numer identyfikacyjny świni to numer siedziby stada, w której przyszła na świat i została zgłoszona do rejestru zwierząt gospodarskich."
+      ],
+      "images": [
+        {
+          "src": "img/tpc8/paszport-bydla.jpg",
+          "caption": "Rysunek 8.1. Wzór paszportu bydła (ARiMR): data wystawienia, seria i numer paszportu, numer identyfikacyjny zwierzęcia, numer siedziby stada (PL…), kody kreskowe; 1) opis zwierzęcia (data i miejsce urodzenia, płeć, rasa, numer identyfikacyjny matki), 2) pochodzenie (jeśli nie urodziło się w Polsce), 3) data uboju lub padnięcia, dane posiadacza, 4) inne adnotacje, 5) potwierdzenie zgodności danych i podpis posiadacza."
+        },
+        {
+          "src": "img/tpc8/paszport-konia-opis-graficzny.jpg",
+          "caption": "Rysunek 8.2. Strona czwarta paszportu konia – opis graficzny: numer identyfikacyjny (PL…), sylwetka z prawej i lewej strony, głowa z linią oczu, nos, szyja – widok z dołu, nogi przednie i tylne – widok z tyłu (lewa, prawa)."
+        }
+      ]
+    },
+    {
+      "heading": "Identyfikacja zwierząt towarzyszących",
+      "points": [
+        "Zawieszki na obroży niosą ryzyko zgubienia.",
+        "Najczęstsze trwałe znakowanie psów i kotów – mikroczip pod skórą w lewej okolicy szyjnej lub między łopatkami; spotyka się też tatuaż w małżowinie usznej.",
+        "Związki kynologiczne i felinologiczne wymagają oznakowania zwierząt hodowlanych.",
+        "Psy puszczane luzem poza własnym terenem muszą być oznakowane tak, by można było odnaleźć właściciela.",
+        "Wyjazd za granicę wymaga paszportu z danymi, w tym o szczepieniach przeciw wściekliźnie i chorobom zakaźnym."
+      ],
+      "images": [
+        {
+          "src": "img/tpc8/oznakowanie-psow-kotow.jpg",
+          "caption": "Oznakowanie psów i kotów: zawieszki na obroży z podstawowymi danymi (ryzyko zgubienia) oraz trwałe – mikroczip w lewej okolicy szyjnej (lub między łopatkami) albo tatuaż numeru w małżowinie usznej."
+        },
+        {
+          "src": "img/tpc8/obowiazkowe-dokumenty-pelny.jpg",
+          "caption": "Obowiązkowe dokumenty zwierzęcia towarzyszącego przeznaczonego do sprzedaży: paszport (przy wyjeździe za granicę – dane podstawowe i szczepienia, m.in. przeciw wściekliźnie), świadectwo zdrowia wystawione przez lekarza weterynarii (handel, hodowla, wystawy) oraz rodowód lub metryka (sprzedawać można tylko zwierzęta z zarejestrowanych hodowli)."
+        }
+      ]
+    },
+    {
+      "heading": "Świadectwa zdrowia i kary",
+      "points": [
+        "Zwierzęta do uboju, handlu, chowu, hodowli i na imprezy z gromadzeniem zwierząt muszą mieć świadectwo zdrowia od lekarza weterynarii.",
+        "Świadectwa zdrowia reguluje Rozporządzenie MRiRW z 21 czerwca 2004 r. w sprawie świadectw zdrowia bydła, świń, owiec i kóz będących przedmiotem handlu.",
+        "Inspekcja weterynaryjna może ukarać mandatem sprzedawcę i kupującego, gdy zwierzę nie jest oznakowane lub koń/bydło nie ma paszportu (lub duplikatu).",
+        "Organizator wystawy, pokazu lub targów może dostać mandat, jeśli przyjęte zwierzęta (także towarzyszące) nie mają świadectwa zdrowia."
+      ]
+    },
+    {
+      "heading": "Sprzedaż psów i kotów oraz wady zwierząt",
+      "points": [
+        "Ustawa z 16 września 2011 r. (zmiana ustawy o ochronie zwierząt) zakazuje nielegalnych hodowli – niezarejestrowanych w związku kynologicznym (psy) lub felinologicznym (koty).",
+        "Zakazane jest rozmnażanie psów i kotów w celach handlowych bez zgłoszenia do tych organizacji.",
+        "Zwierzęta do sprzedaży muszą pochodzić z zarejestrowanych hodowli i mieć rodowód lub metrykę – handlować można tylko zwierzętami rasowymi.",
+        "Sprzedaż zwierząt wielorasowych (kundelków, dachowców) jest niezgodna z prawem – można je adoptować bezpłatnie.",
+        "Zwierzęta do hodowli muszą być wolne od wad fizycznych i genetycznych (ryzyko sporów).",
+        "Określone wady i niektóre choroby podlegają rękojmi – Rozporządzenie Ministerstwa Rolnictwa z 7 października 1966 r. w sprawie odpowiedzialności sprzedawców za wady główne niektórych gatunków zwierząt.",
+        "Przed sprzedażą warto wykonać zabiegi pielęgnacyjne: mycie, korekcję racic/kopyt, wyczesywanie, odrobaczenie.",
+        "Przy decyzji o sprzedaży należy zwrócić uwagę na predyspozycje zwierząt; zabiegi pielęgnacyjne przed sprzedażą mogą znacząco wpłynąć na jej efektywność.",
+        "Ustawa z 16 września 2011 r. zmienia ustawę o ochronie zwierząt oraz ustawę o utrzymaniu czystości i porządku w gminach; w praktyce przedmiotem handlu mogą być tylko osobniki rasowe o udokumentowanym pochodzeniu."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Cel obrotu stada",
+      "back": "Zwiększenie efektywności: wnioski z doświadczeń i plan chowu na kolejny rok."
+    },
+    {
+      "front": "Problemy, których pozwala uniknąć obrót stada",
+      "back": "Przepełnienie lub pustostan pomieszczeń."
+    },
+    {
+      "front": "Remont stada",
+      "back": "Wymiana lub uzupełnienie stada podstawowego nowymi zwierzętami."
+    },
+    {
+      "front": "Kiedy konieczny jest remont stada?",
+      "back": "Gdy zwierzęta osiągną wiek wykluczający z rozrodu, padną lub mają słabe wyniki produkcyjne."
+    },
+    {
+      "front": "Obrót stada – definicja",
+      "back": "Tabelaryczne przedstawienie wszystkich zmian w stadzie w ciągu roku."
+    },
+    {
+      "front": "Obrót stada sprawozdawczy",
+      "back": "Sporządzany pod koniec roku produkcyjnego; dotyczy zmian, które już nastąpiły."
+    },
+    {
+      "front": "Obrót stada planowany",
+      "back": "Plan zmian w stadzie na kolejny okres produkcyjny."
+    },
+    {
+      "front": "Który obrót stada służy analizie wyników?",
+      "back": "Sprawozdawczy."
+    },
+    {
+      "front": "Który obrót stada służy organizacji prac na kolejny rok?",
+      "back": "Planowany."
+    },
+    {
+      "front": "Przeklasowanie",
+      "back": "Przejście zwierzęcia z jednej grupy technologicznej do drugiej."
+    },
+    {
+      "front": "Przykład przeklasowania u świń",
+      "back": "Prosięta → warchlaki → tuczniki."
+    },
+    {
+      "front": "Stan przelotowy",
+      "back": "Suma zwierząt, które w ciągu roku przebywały w grupie i przeszły do kolejnej."
+    },
+    {
+      "front": "Stan średnioroczny – wzór",
+      "back": "Liczba zwierząt × czas przebywania w grupie (mies.) ÷ 12."
+    },
+    {
+      "front": "Dla jakich zwierząt liczy się stan średnioroczny?",
+      "back": "Przebywających w grupie krócej niż rok."
+    },
+    {
+      "front": "Stan średnioroczny: 120 warchlaków przez 3 miesiące",
+      "back": "120 × 3 ÷ 12 = 30 sztuk."
+    },
+    {
+      "front": "Cykl zamknięty",
+      "back": "Cały proces produkcyjny w gospodarstwie; wszystkie zwierzęta z własnej hodowli."
+    },
+    {
+      "front": "Cykl otwarty",
+      "back": "Część zwierząt dokupowana z zewnątrz (np. na remont lub do tuczu)."
+    },
+    {
+      "front": "Dane potrzebne do sporządzenia obrotu stada",
+      "back": "Plenność gospodarcza, częstotliwość oproszeń, długość chowu w grupie (czasem długość ciąży, okresy międzyciążowe)."
+    },
+    {
+      "front": "Cztery składowe obrotu stada",
+      "back": "Stan początkowy, stan końcowy, przychody, rozchody."
+    },
+    {
+      "front": "Stan początkowy",
+      "back": "Liczba zwierząt w grupach na początku roku (1.01)."
+    },
+    {
+      "front": "Stan końcowy",
+      "back": "Liczba zwierząt w ostatnim dniu roku (31.12)."
+    },
+    {
+      "front": "Źródła przychodów w obrocie stada",
+      "back": "Własny odchów, zakup, przeklasowanie."
+    },
+    {
+      "front": "Przyczyny rozchodów w obrocie stada",
+      "back": "Przeklasowanie, przeznaczenie do własnego chowu, sprzedaż (np. na rzeź)."
+    },
+    {
+      "front": "Dlaczego zwierzęta brakowane wpisuje się do tabeli?",
+      "back": "Tworzy się z nich grupę wywożoną jednorazowo, a nie sprzedaje pojedynczo."
+    },
+    {
+      "front": "Kolumny rozchodów w tabeli obrotu stada",
+      "back": "Na przeklasowanie, na rzeź, do chowu, na sprzedaż."
+    },
+    {
+      "front": "Umieszczanie na rynku",
+      "back": "Przetrzymywanie, prezentacja, oferowanie, dostarczanie lub inne wprowadzanie zwierzęcia na rynek."
+    },
+    {
+      "front": "Handel (w rozumieniu przepisów)",
+      "back": "Swobodny obrót między państwami członkowskimi UE."
+    },
+    {
+      "front": "Sprzedaż bezpośrednia",
+      "back": "Sprzedaż bez pośredników, z kontaktem kupującego z hodowcą."
+    },
+    {
+      "front": "Gdzie może odbywać się sprzedaż bezpośrednia?",
+      "back": "W gospodarstwie, na targach, targowiskach, wystawach, pokazach, konkursach."
+    },
+    {
+      "front": "Gdzie wolno sprzedawać psy?",
+      "back": "Tylko w miejscu ich chowu i hodowli."
+    },
+    {
+      "front": "Przygotowanie zwierząt do sprzedaży",
+      "back": "Dopełnienie formalności, identyfikacja, doprowadzenie do kondycji spełniającej wymagania weterynaryjne."
+    },
+    {
+      "front": "Po co znakuje się zwierzęta?",
+      "back": "By ustalić pochodzenie i przodków – m.in. na potrzeby dochodzenia epizootycznego."
+    },
+    {
+      "front": "Dochodzenie epizootyczne – cel",
+      "back": "Wykrycie źródła infekcji i zwierząt narażonych na zarażenie."
+    },
+    {
+      "front": "Ustawa o systemie identyfikacji i rejestracji zwierząt – data",
+      "back": "2 kwietnia 2004 r."
+    },
+    {
+      "front": "Termin oznakowania cieląt",
+      "back": "Najpóźniej 7 dni po urodzeniu."
+    },
+    {
+      "front": "Gdzie zakłada się kolczyki bydłu?",
+      "back": "Na obu małżowinach usznych."
+    },
+    {
+      "front": "Ile cyfr ma kod na kolczyku bydła?",
+      "back": "12."
+    },
+    {
+      "front": "Co oznaczają dwie pierwsze cyfry numeru bydła?",
+      "back": "Symbol kraju pochodzenia."
+    },
+    {
+      "front": "Dane w paszporcie bydła",
+      "back": "Data urodzenia, pochodzenie, opis wyglądu, numer identyfikacyjny."
+    },
+    {
+      "front": "Termin oznakowania jagniąt i koźląt",
+      "back": "Najpóźniej 180 dni po urodzeniu."
+    },
+    {
+      "front": "Kolczyk z numerem identyfikacyjnym u owiec i kóz – która małżowina?",
+      "back": "Lewa."
+    },
+    {
+      "front": "Owce i kozy do handlu – drugi kolczyk",
+      "back": "Na prawej małżowinie, z identyfikatorem elektronicznym."
+    },
+    {
+      "front": "Owce i kozy nie do sprzedaży – prawa małżowina",
+      "back": "Kolczyk z indywidualnym numerem zwierzęcia w stadzie."
+    },
+    {
+      "front": "Termin oznakowania świń",
+      "back": "Jak najszybciej."
+    },
+    {
+      "front": "Sposób oznakowania świń",
+      "back": "Tatuaż numeru lub kolczyk na lewej małżowinie usznej."
+    },
+    {
+      "front": "Numer identyfikacyjny świni",
+      "back": "Numer siedziby stada, w której zwierzę się urodziło."
+    },
+    {
+      "front": "Komu zgłasza się oznakowanie świń?",
+      "back": "ARiMR."
+    },
+    {
+      "front": "Od jakiej metody znakowania świń się odchodzi?",
+      "back": "Od wycięć na uszach."
+    },
+    {
+      "front": "Znakowanie koni – obecny trend",
+      "back": "Mikroczipy zamiast wymrażania i wypalania."
+    },
+    {
+      "front": "Dokument obowiązkowy dla konia",
+      "back": "Indywidualny paszport."
+    },
+    {
+      "front": "Wada zawieszek na obroży",
+      "back": "Ryzyko zgubienia."
+    },
+    {
+      "front": "Gdzie wszczepia się mikroczip psu/kotu?",
+      "back": "Pod skórę w lewej okolicy szyjnej lub między łopatkami."
+    },
+    {
+      "front": "Które psy muszą być oznakowane?",
+      "back": "Hodowlane oraz puszczane luzem poza własnym terenem."
+    },
+    {
+      "front": "Dokument przy wyjeździe psa za granicę",
+      "back": "Paszport z danymi o szczepieniach przeciw wściekliźnie i chorobom zakaźnym."
+    },
+    {
+      "front": "Kiedy wymagane jest świadectwo zdrowia?",
+      "back": "Przy uboju, handlu, chowie, hodowli i imprezach z gromadzeniem zwierząt."
+    },
+    {
+      "front": "Kto wystawia świadectwo zdrowia?",
+      "back": "Lekarz weterynarii."
+    },
+    {
+      "front": "Rozporządzenie o świadectwach zdrowia – data",
+      "back": "21 czerwca 2004 r."
+    },
+    {
+      "front": "Kto może ukarać za brak oznakowania zwierzęcia?",
+      "back": "Inspekcja weterynaryjna – sprzedawcę i kupującego."
+    },
+    {
+      "front": "Kiedy mandat dostaje organizator wystawy?",
+      "back": "Gdy przyjęte zwierzęta nie mają świadectwa zdrowia."
+    },
+    {
+      "front": "Ustawa z 16 września 2011 r. – zakaz",
+      "back": "Nielegalnych hodowli i rozmnażania psów i kotów w celach handlowych bez rejestracji w związku."
+    },
+    {
+      "front": "Związek rejestrujący hodowle psów / kotów",
+      "back": "Kynologiczny / felinologiczny."
+    },
+    {
+      "front": "Wymagane dokumenty psa/kota na sprzedaż",
+      "back": "Rodowód lub metryka (z zarejestrowanej hodowli)."
+    },
+    {
+      "front": "Czy można sprzedać kundelka?",
+      "back": "Nie – sprzedaż zwierząt wielorasowych jest nielegalna; można je adoptować bezpłatnie."
+    },
+    {
+      "front": "Rozporządzenie o wadach głównych zwierząt – data",
+      "back": "7 października 1966 r."
+    },
+    {
+      "front": "Co podlega rękojmi przy sprzedaży zwierząt?",
+      "back": "Określone wady główne i niektóre choroby."
+    },
+    {
+      "front": "Zabiegi zalecane przed sprzedażą",
+      "back": "Mycie, korekcja racic/kopyt, wyczesywanie, odrobaczenie."
+    },
+    {
+      "front": "Jaki dokument przedstawia ilustracja?",
+      "back": "Paszport bydła (wzór ARiMR) – m.in. numer identyfikacyjny zwierzęcia, numer siedziby stada, opis zwierzęcia (data i miejsce urodzenia, płeć, rasa, numer matki), pochodzenie, data uboju lub padnięcia, dane i podpis posiadacza.",
+      "img": "img/tpc8/paszport-bydla-bez-tytulu.jpg"
+    },
+    {
+      "front": "Którą stronę paszportu konia przedstawia ilustracja i co się na niej zaznacza?",
+      "back": "Stronę czwartą – opis graficzny konia: sylwetka z prawej i lewej strony, głowa z linią oczu, nos, szyja od dołu, nogi przednie i tylne od tyłu.",
+      "img": "img/tpc8/paszport-konia-bez-tytulu.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wymiana lub uzupełnienie stada podstawowego nowymi zwierzętami to:",
+      "options": [
+        "remont stada",
+        "przeklasowanie",
+        "obrót stada",
+        "stan przelotowy"
+      ],
+      "answer": 0,
+      "explain": "Remont stada to wymiana lub uzupełnienie stada podstawowego o nowe zwierzęta."
+    },
+    {
+      "q": "Obrót stada sprawozdawczy sporządza się:",
+      "options": [
+        "na początku roku jako plan",
+        "co tydzień",
+        "tylko przy sprzedaży zwierząt",
+        "pod koniec roku produkcyjnego"
+      ],
+      "answer": 3,
+      "explain": "Obrót sprawozdawczy sporządzany jest pod koniec roku produkcyjnego."
+    },
+    {
+      "q": "Plan zmian w stadzie na kolejny okres produkcyjny to obrót stada:",
+      "options": [
+        "sprawozdawczy",
+        "przelotowy",
+        "planowany",
+        "średnioroczny"
+      ],
+      "answer": 2,
+      "explain": "Obrót planowany to plany na kolejny okres produkcyjny."
+    },
+    {
+      "q": "Przejście prosiąt do grupy warchlaków to:",
+      "options": [
+        "remont stada",
+        "przeklasowanie",
+        "rozchód na rzeź",
+        "sprzedaż bezpośrednia"
+      ],
+      "answer": 1,
+      "explain": "Przeklasowanie to przejście zwierzęcia z jednej grupy do drugiej."
+    },
+    {
+      "q": "Suma zwierząt, które w ciągu roku przebywały w grupie technologicznej i przeszły dalej, to:",
+      "options": [
+        "stan początkowy",
+        "stan przelotowy",
+        "stan średnioroczny",
+        "stan końcowy"
+      ],
+      "answer": 1,
+      "explain": "Stan przelotowy to suma zwierząt, które przebywały w grupie i przeszły do kolejnej."
+    },
+    {
+      "q": "Stan średnioroczny oblicza się, mnożąc liczbę zwierząt przez czas przebywania w grupie i dzieląc przez:",
+      "options": [
+        "12 miesięcy",
+        "365 miesięcy",
+        "4 kwartały i mnożąc przez 2",
+        "liczbę grup technologicznych"
+      ],
+      "answer": 0,
+      "explain": "Stan średnioroczny to liczba zwierząt × czas przebywania ÷ 12 miesięcy."
+    },
+    {
+      "q": "Gdy 60 warchlaków przebywa w grupie przez 2 miesiące, stan średnioroczny wynosi:",
+      "options": [
+        "60 sztuk",
+        "120 sztuk",
+        "5 sztuk",
+        "10 sztuk"
+      ],
+      "answer": 3,
+      "explain": "60 × 2 ÷ 12 = 10 sztuk."
+    },
+    {
+      "q": "W cyklu zamkniętym:",
+      "options": [
+        "warchlaki kupuje się do tuczu",
+        "loszki remontowe są zawsze kupowane",
+        "wszystkie zwierzęta pochodzą z własnej hodowli",
+        "gospodarstwo prowadzi tylko tucz"
+      ],
+      "answer": 2,
+      "explain": "W cyklu zamkniętym wszystkie sztuki remontowe i produkcyjne pochodzą z własnej hodowli."
+    },
+    {
+      "q": "Gospodarstwo dokupujące warchlaki do tuczu prowadzi produkcję w cyklu:",
+      "options": [
+        "zamkniętym",
+        "sprawozdawczym",
+        "otwartym",
+        "ekologicznym"
+      ],
+      "answer": 2,
+      "explain": "Cykl otwarty – niektóre zwierzęta dokupowane są z zewnątrz, np. do tuczu."
+    },
+    {
+      "q": "Do składowych obrotu stada NIE należy:",
+      "options": [
+        "stan początkowy",
+        "plenność gospodarcza",
+        "przychody",
+        "rozchody"
+      ],
+      "answer": 1,
+      "explain": "Składowe obrotu to stan początkowy, końcowy, przychody i rozchody; plenność to dana potrzebna do jego sporządzenia."
+    },
+    {
+      "q": "Stan końcowy w obrocie stada podaje liczbę zwierząt:",
+      "options": [
+        "w ostatnim dniu roku",
+        "w pierwszym dniu roku",
+        "średnio w roku",
+        "sprzedanych w roku"
+      ],
+      "answer": 0,
+      "explain": "Stan końcowy podaje liczbę zwierząt w ostatnim dniu roku."
+    },
+    {
+      "q": "Przychodem w obrocie stada jest zwierzę:",
+      "options": [
+        "sprzedane na rzeź",
+        "przekazane do chowu",
+        "przeklasowane do starszej grupy (w grupie, z której wychodzi)",
+        "z zakupu"
+      ],
+      "answer": 3,
+      "explain": "Przychody pochodzą z własnego odchowu, zakupu lub przeklasowania."
+    },
+    {
+      "q": "Rozchodem w obrocie stada jest:",
+      "options": [
+        "zakup loszek",
+        "przyjście prosiąt z odchowu",
+        "przeklasowanie do grupy (w grupie przyjmującej)",
+        "sprzedaż zwierząt na rzeź"
+      ],
+      "answer": 3,
+      "explain": "Rozchody wynikają z przeklasowania, przeznaczenia do chowu lub sprzedaży np. na rzeź."
+    },
+    {
+      "q": "Do sporządzenia obrotu stada świń konieczna jest znajomość m.in.:",
+      "options": [
+        "ceny ciągnika",
+        "powierzchni lasów w gminie",
+        "plenności gospodarczej i częstotliwości oproszeń",
+        "liczby pracowników ARiMR"
+      ],
+      "answer": 2,
+      "explain": "Konieczna jest znajomość plenności gospodarczej, częstotliwości oproszeń i długości chowu w grupie."
+    },
+    {
+      "q": "Zwierzęta brakowane wpisuje się do tabeli obrotu, ponieważ:",
+      "options": [
+        "sprzedaje się je zawsze pojedynczo",
+        "tworzy się z nich grupę wywożoną jednorazowo",
+        "nie wolno ich sprzedawać",
+        "przechodzą do stada podstawowego"
+      ],
+      "answer": 1,
+      "explain": "Brakowanych nie sprzedaje się pojedynczo, lecz tworzy grupę wywożoną jednorazowo."
+    },
+    {
+      "q": "Handel w rozumieniu przepisów to:",
+      "options": [
+        "swobodny obrót między państwami członkowskimi UE",
+        "sprzedaż na targowisku gminnym",
+        "sprzedaż przez pośrednika w kraju",
+        "wymiana zwierząt między sąsiadami"
+      ],
+      "answer": 0,
+      "explain": "Handel to swobodny obrót między państwami członkowskimi Unii Europejskiej."
+    },
+    {
+      "q": "Sprzedaż bez pośredników, z kontaktem kupującego z hodowcą, to:",
+      "options": [
+        "sprzedaż bezpośrednia",
+        "handel",
+        "umieszczanie na rynku",
+        "obrót stada"
+      ],
+      "answer": 0,
+      "explain": "Sprzedaż bezpośrednia odbywa się bez udziału pośredników."
+    },
+    {
+      "q": "Psy wolno sprzedawać:",
+      "options": [
+        "na każdym targowisku",
+        "w sklepach zoologicznych bez rodowodu",
+        "na giełdach samochodowych",
+        "wyłącznie w miejscu ich chowu i hodowli"
+      ],
+      "answer": 3,
+      "explain": "Sprzedaży psów nie można prowadzić poza miejscem ich chowu i hodowli."
+    },
+    {
+      "q": "Wymagania w zakresie identyfikacji zwierząt określa w Polsce ustawa z:",
+      "options": [
+        "21 sierpnia 1997 r.",
+        "16 września 2011 r.",
+        "2 kwietnia 2004 r.",
+        "7 października 1966 r."
+      ],
+      "answer": 2,
+      "explain": "Wymagania określa Ustawa z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt."
+    },
+    {
+      "q": "Cielęta należy oznakować najpóźniej:",
+      "options": [
+        "24 godziny po urodzeniu",
+        "7 dni po urodzeniu",
+        "30 dni po urodzeniu",
+        "180 dni po urodzeniu"
+      ],
+      "answer": 1,
+      "explain": "Cielęta powinny być oznakowane najpóźniej w ciągu 7 dni po urodzeniu."
+    },
+    {
+      "q": "Kod na kolczyku bydła składa się z:",
+      "options": [
+        "6 cyfr",
+        "12 cyfr",
+        "8 cyfr",
+        "15 cyfr"
+      ],
+      "answer": 1,
+      "explain": "Kolczyki zawierają kod złożony z 12 cyfr."
+    },
+    {
+      "q": "Dwie pierwsze pozycje numeru identyfikacyjnego bydła oznaczają:",
+      "options": [
+        "symbol kraju pochodzenia",
+        "rok urodzenia",
+        "płeć zwierzęcia",
+        "numer powiatu"
+      ],
+      "answer": 0,
+      "explain": "Dwie pierwsze pozycje to symbol kraju, z którego pochodzi zwierzę."
+    },
+    {
+      "q": "Jagnięta i koźlęta należy oznakować najpóźniej:",
+      "options": [
+        "7 dni po urodzeniu",
+        "30 dni po urodzeniu",
+        "365 dni po urodzeniu",
+        "180 dni po urodzeniu"
+      ],
+      "answer": 3,
+      "explain": "Koźlęta i jagnięta oznakowuje się najpóźniej 180 dni po urodzeniu."
+    },
+    {
+      "q": "Kolczyk z numerem identyfikacyjnym owcy umieszcza się:",
+      "options": [
+        "w prawej małżowinie usznej",
+        "w fałdzie skóry na szyi",
+        "w lewej małżowinie usznej",
+        "na ogonie"
+      ],
+      "answer": 2,
+      "explain": "Kolczyk z numerem identyfikacyjnym umieszcza się w lewej małżowinie usznej."
+    },
+    {
+      "q": "Owca przeznaczona do handlu ma na prawej małżowinie kolczyk:",
+      "options": [
+        "z numerem telefonu właściciela",
+        "z datą urodzenia",
+        "z identyfikatorem elektronicznym",
+        "z kodem rasy"
+      ],
+      "answer": 2,
+      "explain": "U zwierząt do handlu na prawej małżowinie umieszcza się kolczyk z identyfikatorem elektronicznym."
+    },
+    {
+      "q": "Numer identyfikacyjny świni jest jednocześnie:",
+      "options": [
+        "numerem PESEL rolnika",
+        "numerem siedziby stada, w której się urodziła",
+        "numerem paszportu",
+        "numerem rzeźni"
+      ],
+      "answer": 1,
+      "explain": "Numer identyfikacyjny jest numerem siedziby stada, w której zwierzę przyszło na świat."
+    },
+    {
+      "q": "Fakt oznakowania świń zgłasza się do:",
+      "options": [
+        "ARiMR",
+        "urzędu gminy",
+        "KRUS",
+        "Izby Rolniczej"
+      ],
+      "answer": 0,
+      "explain": "Fakt oznakowania zgłasza się do Agencji Restrukturyzacji i Modernizacji Rolnictwa."
+    },
+    {
+      "q": "U koni obecnie odchodzi się od wypalania na rzecz:",
+      "options": [
+        "kolczyków",
+        "karbowania uszu",
+        "zawieszek na kantarze",
+        "mikroczipów"
+      ],
+      "answer": 3,
+      "explain": "U koni odchodzi się od wymrażania lub wypalania na rzecz mikroczipów."
+    },
+    {
+      "q": "Mikroczip psu wszczepia się pod skórę:",
+      "options": [
+        "w prawym udzie",
+        "na ogonie",
+        "w opuszce łapy",
+        "w lewej okolicy szyjnej lub między łopatkami"
+      ],
+      "answer": 3,
+      "explain": "Mikroczip wszczepia się pod skórę w lewej okolicy szyjnej lub między łopatkami."
+    },
+    {
+      "q": "Paszport psa przy wyjeździe za granicę musi zawierać dane o szczepieniu przeciw:",
+      "options": [
+        "różycy",
+        "pryszczycy",
+        "wściekliźnie",
+        "BVD"
+      ],
+      "answer": 2,
+      "explain": "Paszport zawiera m.in. dane o szczepieniach przeciwko wściekliźnie."
+    },
+    {
+      "q": "Świadectwo zdrowia zwierzęcia wystawia:",
+      "options": [
+        "wójt gminy",
+        "lekarz weterynarii",
+        "pracownik ARiMR",
+        "hodowca"
+      ],
+      "answer": 1,
+      "explain": "Świadectwo zdrowia wystawia odpowiedni lekarz weterynarii."
+    },
+    {
+      "q": "Mandat za brak paszportu konia lub bydła może nałożyć:",
+      "options": [
+        "Inspekcja Weterynaryjna",
+        "Izba Rolnicza",
+        "związek hodowców",
+        "urząd skarbowy"
+      ],
+      "answer": 0,
+      "explain": "Inspekcja weterynaryjna może nałożyć mandat na sprzedawcę i kupującego."
+    },
+    {
+      "q": "Organizator wystawy zwierząt może zostać ukarany, gdy przyjęte zwierzęta nie mają:",
+      "options": [
+        "świadectwa zdrowia",
+        "fotografii",
+        "rodowodu przodków do 5 pokolenia",
+        "ubezpieczenia OC"
+      ],
+      "answer": 0,
+      "explain": "Mandat można nałożyć na organizatora, gdy zwierzęta nie mają świadectwa zdrowia."
+    },
+    {
+      "q": "Zgodnie z ustawą z 16 września 2011 r. sprzedaż psów wielorasowych (kundelków):",
+      "options": [
+        "jest dozwolona bez ograniczeń",
+        "wymaga zgody wójta",
+        "jest dozwolona tylko na targach",
+        "jest niezgodna z prawem"
+      ],
+      "answer": 3,
+      "explain": "Sprzedaż zwierząt wielorasowych jest niezgodna z prawem – mogą być adoptowane bezpłatnie."
+    },
+    {
+      "q": "Odpowiedzialność sprzedawców za wady główne zwierząt reguluje rozporządzenie z:",
+      "options": [
+        "2 kwietnia 2004 r.",
+        "21 czerwca 2004 r.",
+        "7 października 1966 r.",
+        "16 września 2011 r."
+      ],
+      "answer": 2,
+      "explain": "Przepisy zawiera Rozporządzenie Ministerstwa Rolnictwa z 7 października 1966 r."
+    },
+    {
+      "q": "Przed sprzedażą zwierząt zaleca się wykonanie:",
+      "options": [
+        "kastracji wszystkich samców",
+        "mycia, korekcji racic i odrobaczenia",
+        "głodzenia przez 3 dni",
+        "obcięcia ogonów"
+      ],
+      "answer": 1,
+      "explain": "Przed sprzedażą wskazane są mycie, korekcja racic/kopyt, wyczesywanie, odrobaczenie."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Związek kynologiczny to organizacja zrzeszająca hodowców i miłośników:",
+      "options": [
+        "Kotów.",
+        "Jeleni.",
+        "Koni.",
+        "Psów."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... może nałożyć mandat, jeśli dane zwierzę nie jest oznakowane zgodnie z przepisami.",
+      "options": [
+        "Minister rolnictwa",
+        "Inspekcja weterynaryjna"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót stada to tzw. zwiększenie efektywności działalności związanej z żywym inwentarzem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż produkty otrzymywane z hodowli i chowu zwierząt.",
+      "options": [
+        "Mięso.",
+        "Wełna.",
+        "Nowe osobniki.",
+        "Mleko."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to przedstawienie w tabeli wszystkich zmian w danym stadzie w ciągu roku.",
+      "options": [
+        "Obrót stada",
+        "Remont stada"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót stada przewiduje m.in. zakup zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Młode jagnięta powinny być oznakowane najpóźniej:",
+      "options": [
+        "120 dni po urodzeniu.",
+        "140 dni po urodzeniu.",
+        "160 dni po urodzeniu.",
+        "180 dni po urodzeniu."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... sporządzany pod koniec danego roku produkcyjnego dotyczy zmian, które już miały miejsce.",
+      "options": [
+        "Obrót stada sprawozdawczy",
+        "Obrót stada planowany"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode jagnięta znakuje się poprzez umieszczenie kolczyka z numerem identyfikacyjnym w prawej małżowinie usznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż miejsca sprzedaży zwierząt.",
+      "options": [
+        "Targowisko.",
+        "Targi.",
+        "Gospodarstwo.",
+        "Konkursy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to przejście zwierzęcia z jednej grupy do drugiej.",
+      "options": [
+        "Przeklasowanie",
+        "Stan przelotowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode koźlęta znakuje się poprzez umieszczenie kolczyka z numerem identyfikacyjnym w lewej małżowinie usznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż podstawowe zabiegi pielęgnacyjne zwierząt wykonywane przed sprzedażą.",
+      "options": [
+        "Wyczesywanie.",
+        "Mycie.",
+        "Odrobaczanie.",
+        "Korekcja racic."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku sztuk nieprzeznaczonych do sprzedaży na prawej małżowinie umieszcza się ... z indywidualnym numerem.",
+      "options": [
+        "tatuaż",
+        "kolczyk"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHandel to swobodny obrót między państwami członkowskimi Unii Europejskiej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Młode koźlęta powinny być oznakowane najpóźniej:",
+      "options": [
+        "180 dni po urodzeniu.",
+        "120 dni po urodzeniu.",
+        "160 dni po urodzeniu.",
+        "140 dni po urodzeniu."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. ... może dotyczyć gospodarstw, gdzie zachodzi cały cykl produkcyjny i niektóre zwierzęta są dokupowane z zewnątrz.",
+      "options": [
+        "Cykl otwarty",
+        "Cykl zamknięty"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót stada pozwala uniknąć problemów związanych z przepełnieniem lub pustostanem zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Związek felinologiczny to organizacja zrzeszająca hodowców i miłośników:",
+      "options": [
+        "psów.",
+        "kotów.",
+        "rysi.",
+        "koni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... dotyczy zwierząt przebywających w danej grupie krócej niż rok i stanowi liczbę zwierząt w danej grupie przemnożony przez czas przebywania w niej i podzielony przez 12 miesięcy.",
+      "options": [
+        "Stan średnioroczny",
+        "Stan całoroczny"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nFakt oznakowania zwierzęcia zgłasza się do Agencji Restrukturyzacji i Modernizacji Rolnictwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przy sporządzaniu zestawienia obrotu stada konieczna jest znajomość:",
+      "options": [
+        "długości ciąży.",
+        "częstotliwości oproszeń.",
+        "plenności gospodarczej.",
+        "długości chowu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku ... sprzedaży nie można prowadzić poza miejscem ich chowu i hodowli.",
+      "options": [
+        "zwierząt towarzyszących",
+        "trzody chlewnej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOznakowane umożliwiające identyfikację zwierząt należy wykonać w określonych terminach lub przed sprzedażą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W przypadku przemieszczania za granicę zwierząt towarzyszących konieczne jest zaopatrzenie zwierzęcia w:",
+      "options": [
+        "wyniki ostatnich badań.",
+        "kartę zdrowia zwierzęcia.",
+        "legitymację zwierzęcia.",
+        "paszport."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to liczba zwierząt w gospodarstwie na początku roku z uwzględnieniem poszczególnych grup technologicznych.",
+      "options": [
+        "Stan przejściowy",
+        "Stan początkowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOznakowanie określa miejsce pochodzenia i przodków zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż główne składowe, które wyróżniamy w obrocie stada.",
+      "options": [
+        "Rozchody zwierząt.",
+        "Przychody zwierząt.",
+        "Stan końcowy.",
+        "Stan początkowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku ... numer identyfikacyjny jest jednocześnie numerem siedziby stada.",
+      "options": [
+        "koni",
+        "trzody chlewnej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W przypadku bydła odchodzi się od znakowania poprzez wymrażanie na rzecz mikroczipów wszczepianych pod skórę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Po urodzeniu na obu małżowinach usznych cieląt umieszcza się specjalne kolczyki zawierające kod złożony z:",
+      "options": [
+        "8 cyfr.",
+        "10 cyfr.",
+        "12 cyfr.",
+        "6 cyfr."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... podaję ilość zwierząt w gospodarstwie w ostatnim dniu roku.",
+      "options": [
+        "Stan okresowy",
+        "Stan końcowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonie powinny posiadać indywidualny paszport.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż dane, które powinien zawierać paszport zwierzęcia.",
+      "options": [
+        "Numer identyfikacyjny.",
+        "Pochodzenie.",
+        "Data urodzenia.",
+        "Opis wyglądu zewnętrznego."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... wymaga od hodowców oznakowania zwierząt przeznaczonych do hodowli.",
+      "options": [
+        "Minister rolnictwa",
+        "Związek kynologiczny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymagania w dziedzinie identyfikacji określa w Polsce Ustawa z dnia 2 kwietnia 2009 r. o systemie identyfikacji i rejestracji zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Cielęta powinny być oznakowane najpóźniej w ciągu:",
+      "options": [
+        "7 dni od urodzenia.",
+        "28 dni od urodzenia.",
+        "21 dni od urodzenia.",
+        "14 dni od urodzenia."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to zwiększenie liczebności grupy zwierząt w porównaniu ze stanem początkowym.",
+      "options": [
+        "Rozchody",
+        "Przychody"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNowe sztuki w danej grupie technologicznej mogą pochodzić z własnej hodowli i odchowu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż gdzie najczęściej przekazywane są zbywane osobniki.",
+      "options": [
+        "Do dalszego chowu.",
+        "Do tuczu.",
+        "Do uboju.",
+        "Do hodowli."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to przetrzymywanie lub prezentacja zwierząt w celu sprzedaży.",
+      "options": [
+        "Umieszczanie na rynku",
+        "Remont stada"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku bydła konieczne jest wyrobienie paszportu zawierającego jego podstawowe dane.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Obecnie najczęstszą trwałą formą znakowania zwierząt towarzyszących jest wszczepienie mikroczipu w miejsce:",
+      "options": [
+        "przedniej łapy.",
+        "tylnej łapy.",
+        "małżowiny usznej.",
+        "między łopatkami."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... cyfry kodu na kolczykach to symbol kraju, z którego pochodzi dana sztuka bydła.",
+      "options": [
+        "Dwie pierwsze",
+        "Trzy pierwsze"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBydło powinno posiadać indywidualny paszport.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Owce i kozy znakuje się poprzez umieszczenie kolczyka z numerem identyfikacyjnym na:",
+      "options": [
+        "lewej małżowinie usznej.",
+        "ogonie.",
+        "szyi.",
+        "prawej małżowinie usznej."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nInspekcja weterynaryjna może nałożyć mandat, jeśli dane zwierzę nie jest oznakowane zgodnie z przepisami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Świadectwo zdrowia muszą posiadać zwierzęta przeznaczone do:",
+      "options": [
+        "handlu.",
+        "chowu.",
+        "uboju.",
+        "hodowli."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Obrót planowany ma znaczenie z uwagi na:",
+      "options": [
+        "określenie częstotliwości wykonywanych remontów.",
+        "dobranie odpowiedniej ilości zwierząt.",
+        "ograniczoną powierzchnię.",
+        "liczbę kojców."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót stada to przedstawienie w tabeli wszystkich zmian w danym stadzie w ciągu roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Rozporządzenie Ministerstwa Rolnictwa z dnia 7 października 1966 r. określa:",
+      "options": [
+        "szczepienia przeciwko wściekliźnie.",
+        "odpowiedzialność sprzedawców za wady niektórych gatunków zwierząt.",
+        "świadectwo zdrowia bydła, świń, owiec i kóz.",
+        "utrzymanie czystości i porządku w gminie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Obecnie najczęstszą trwałą formą znakowania zwierząt towarzyszących jest wszczepienie mikroczipu:",
+      "options": [
+        "w tylną łapę.",
+        "między łopatkami.",
+        "w przednią łapę.",
+        "w małżowinę uszną."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót stada sprawozdawczy sporządzany pod koniec danego roku produkcyjnego dotyczy zmian, które już miały miejsce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zwierzęta przeznaczone do handlu powinny posiadać kolczyk z identyfikatorem elektronicznym na:",
+      "options": [
+        "lewej małżowinie.",
+        "grzbiecie.",
+        "prawej małżowinie.",
+        "szyi."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wskaż podstawowe informacje opisu graficznego zamieszczone w paszporcie dla konia.",
+      "options": [
+        "Strona prawa.",
+        "Linia oczu.",
+        "Nogi przednie.",
+        "Strona lewa."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzeklasowanie to przejście zwierzęcia z jednej grupy do drugiej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zwierząt towarzyszących możliwe jest umieszczenie na obroży zawieszek, zawierających podstawowe dane.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode koźlęta powinny być oznakowane najpóźniej 160 dni po urodzeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku sztuk nieprzeznaczonych do sprzedaży na prawej małżowinie umieszcza się kolczyk z indywidualnym numerem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCykl otwarty może dotyczyć gospodarstw, gdzie zachodzi cały cykl produkcyjny i niektóre zwierzęta są dokupowane z zewnątrz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W przypadku przemieszczania za granicę zwierząt towarzyszących konieczne jest zaopatrzenie zwierzęcia w:",
+      "options": [
+        "paszport.",
+        "wyniki ostatnich badań.",
+        "kartę zdrowia zwierzęcia.",
+        "legitymację zwierzęcia."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStan średnioroczny dotyczy zwierząt przebywających w danej grupie krócej niż rok i stanowi liczbę zwierząt w danej grupie przemnożony przez czas przebywania w niej i podzielony przez 12 miesięcy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzepisy wynikające z przeciwdziałania rozprzestrzenianiu się chorób zakaźnych muszą być przestrzegane przez kupujących.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zwierząt towarzyszących sprzedaży nie można prowadzić poza miejscem ich chowu i hodowli.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Remont stada może być konieczny, gdy sztuki przeznaczone do hodowli:",
+      "options": [
+        "mają nieodpowiednie wyniki zdrowotne.",
+        "padną.",
+        "mają nieodpowiednie wyniki produkcyjne.",
+        "osiągną wiek wykluczający z rozrodu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Plany dotyczące przyszłości tego. co zmierzamy dokonać w danym stadzie w kolejnym okresie produkcyjnym. to:",
+      "options": [
+        "obrót stada nieplanowany.",
+        "obrót stada pełny.",
+        "obrót stada niepełny.",
+        "obrót stada planowany."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStan początkowy to liczba zwierząt w gospodarstwie na początku roku z uwzględnieniem poszczególnych grup technologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzepisy wynikające z przeciwdziałania rozprzestrzenianiu się chorób zakaźnych muszą być przestrzegane przez sprzedających.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku koni numer identyfikacyjny jest jednocześnie numerem siedziby stada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStan końcowy podaję liczbę zwierząt w gospodarstwie w ostatnim dniu roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObrót sprawozdawczy umożliwia zorganizowanie prac na kolejny rok.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwiązek kynologiczny wymaga od hodowców oznakowania zwierząt przeznaczonych do hodowli.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozchody to zwiększenie liczebności grupy zwierząt w porównaniu ze stanem początkowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZgodnie z Ustawą z dnia 16 września 2011 r. o zmianie ustawy o ochronie zwierząt oraz ustawy o utrzymaniu czystości i porządku w gminach w Polsce obowiązuje zakaz prowadzenia nielegalnych hodowli.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUmieszczanie na rynku to przetrzymywanie lub prezentacja zwierząt w celu sprzedaży.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Sumę zwierząt, które w ciągu roku przebywały w danej grupie technologicznej i przeszły dalej do kolejnej, nazywamy:",
+      "options": [
+        "stanem przelotowym.",
+        "przeklasowaniem.",
+        "stanem średniorocznym.",
+        "cyklem zamkniętym."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż miejsca sprzedaży zwierząt.",
+      "options": [
+        "Konkursy.",
+        "Targowisko.",
+        "Gospodarstwo.",
+        "Targi."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDwie pierwsze cyfry kodu na kolczykach to symbol kraju, z którego pochodzi dana sztuka bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Po urodzeniu na obu małżowinach usznych cieląt umieszcza się specjalne kolczyki zawierające kod złożony z:",
+      "options": [
+        "12 cyfr.",
+        "3 cyfr.",
+        "8 cyfr.",
+        "4 cyfr."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwiązek felinologiczny to organizacja zrzeszająca hodowców i miłośników koni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

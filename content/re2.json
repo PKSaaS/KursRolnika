@@ -1,0 +1,1994 @@
+{
+  "id": "re2",
+  "course": "Rolnictwo ekologiczne",
+  "title": "Produkcja roślinna prowadzona metodami ekologicznymi",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Ekologiczna produkcja roślinna ma utrzymywać i zwiększać żyzność gleby oraz zapobiegać erozji.",
+        "Rośliny nawozi się poprzez ekosystem gleby, a nie nawozami rozpuszczalnymi dodawanymi do gleby.",
+        "Podstawowe elementy zarządzania produkcją: wybór gatunków i odmian, wieloletni płodozmian, recykling substancji, odpowiednie techniki uprawy.",
+        "Dodatkowe nawozy, środki poprawiające żyzność i środki ochrony roślin – tylko gdy są zgodne z celami i zasadami produkcji ekologicznej.",
+        "Uprawa gleby powinna ograniczać się do niezbędnego minimum i służyć stałemu podwyższaniu żyzności."
+      ]
+    },
+    {
+      "heading": "1. Płodozmian – funkcje i bilans próchnicy",
+      "points": [
+        "Płodozmian w gospodarstwie ekologicznym – minimum czteroletni; pozwala sterować populacjami patogenów, szkodników i chwastów.",
+        "Dwie podstawowe funkcje płodozmianu: nawozowa (bilans azotu i materii organicznej) i sanitarna (ogranicza choroby, szkodniki, reguluje zachwaszczenie).",
+        "Płodozmian wpływa na biologiczną aktywność gleby, zawartość składników pokarmowych i właściwości fizyczne gleby, a przez to na plonowanie.",
+        "Najbardziej niekorzystnie na bilans próchnicy działają okopowe (ziemniak, burak), warzywa korzeniowe i kukurydza – mało resztek, szybko się rozkładają.",
+        "Uprawa szerokorzędowa, późny siew i późne zakrycie międzyrzędzi zwiększają mineralizację próchnicy i erozję.",
+        "Uprawa okopowych zmniejsza zawartość próchnicy o ok. 1,1–1,4 t/ha/rok; zrównoważenie wymaga ok. 14–15 t/ha obornika.",
+        "Rośliny strączkowe mają dodatni, ale niewielki wpływ na bilans próchnicy.",
+        "Duże ilości resztek przetwarzanych na próchnicę pozostawiają tylko wieloletnie motylkowate (bobowate), ich mieszanki z trawami i pastwiska przemienne.",
+        "Udział motylkowatych: 20–25% w plonie głównym, 15–30% w międzyplonach.",
+        "Nie należy spieszyć się z likwidacją plantacji motylkowatych i zostawiać gleby latem bez okrywy – prowadzi to do mineralizacji i strat azotu; słońce zabija mikroorganizmy i przesusza glebę.",
+        "Poszczególne grupy roślin zostawiają różne ilości resztek pożniwnych o różnej wartości dla powstawania próchnicy – stąd różny wpływ na bilans próchnicy.",
+        "Tak samo ważna jak konstrukcja płodozmianu jest umiejętność wykorzystania potencjału żyzności gleby po wieloletnich motylkowatych i ich mieszankach z trawami – zwłaszcza właściwa pora likwidacji plantacji.",
+        "Gleba pozbawiona okrywy roślinnej podlega degradacji."
+      ],
+      "images": [
+        {
+          "src": "img/re2/plodozmian-plonowanie.jpg",
+          "caption": "Wpływ płodozmianu na plonowanie (rys. 2.1): płodozmian → biologiczna aktywność gleby, zawartość substancji i składników pokarmowych w glebie, właściwości fizyczne gleby → plonowanie roślin rolniczych."
+        }
+      ]
+    },
+    {
+      "heading": "1. Zasady układania płodozmianu",
+      "points": [
+        "Rotacja co najmniej czteroletnia.",
+        "Pod rośliny jednoroczne obornik co najmniej co 3–4 lata, uzupełniany nawozami zielonymi i kompostem.",
+        "W płodozmian polowy włącza się mieszanki motylkowo-trawiaste.",
+        "Po roślinach intensywnie nawożonych (ziemniaki, marchew, kukurydza) – rośliny o mniejszych wymaganiach, wykorzystujące resztki składników.",
+        "Po roślinach wzbogacających glebę w azot – rośliny o dużym zapotrzebowaniu na azot: zboża, słonecznik, gryka.",
+        "Po motylkowych i strączkowych nie wysiewa się roślin z tej samej grupy; po zbożach nie uprawia się innych zbóż.",
+        "Po roślinach silnie zachwaszczających – rośliny odchwaszczające (wieloletnie motylkowe z trawami, mieszanki pastewne) i odwrotnie.",
+        "Po roślinach niszczących strukturę (zboża – słabe ocienienie) – rośliny obficie ulistnione i odwrotnie.",
+        "Po roślinach zakażających glebę chorobami/szkodnikami – rośliny z innych grup botanicznych, niebędące żywicielami.",
+        "Po motylkowych i strączkowych nie wysiewa się gatunków z tego samego elementu zmianowania; zboża po zbożach powodują jednostronne wyczerpanie składników oraz masowe pojawianie się chorób, chwastów i szkodników.",
+        "Rośliny odchwaszczające działają przez zabiegi pielęgnacyjne oraz silne zwarcie i zacienienie.",
+        "Zboża niszczą strukturę roli z powodu niedostatecznego ocienienia; rośliny obficie ulistnione to np. wieloletnie motylkowe i mieszanki pastewne."
+      ]
+    },
+    {
+      "heading": "1. Dobór odmian",
+      "points": [
+        "Zasada: odmiany przystosowane do lokalnych warunków glebowo-klimatycznych, odporne na choroby grzybowe, bakteryjne i szkodniki, konkurencyjne wobec chwastów.",
+        "Powinny to być odmiany ustalone genetycznie, ukształtowane przez wiele lat w danym gospodarstwie lub regionie.",
+        "W gospodarstwie ekologicznym zabrania się uprawy odmian GMO.",
+        "Największą konkurencyjność wobec chwastów mają rośliny o dynamicznym wzroście początkowym, dużej wysokości, rozkrzewieniu i powierzchni liści (np. mieszanki motylkowych z trawami, mieszanki pastewne).",
+        "Najszerzej wykorzystuje się odporność na nicienie – odmiany ziemniaka i buraka odporne na guzaka i mątwika.",
+        "Próby tworzenia odmian odpornych na owady były mniej skuteczne; istnieją drzewa owocowe odporne na nasionnicę trześniówkę i owocówkę śliwkóweczkę.",
+        "Pszenżyto ma bardzo wysoką odporność na głownię pylącą, śnieć cuchnącą, mączniaka prawdziwego i rdzę brunatną – lepiej nadaje się do uprawy ekologicznej niż inne zboża.",
+        "Stosowanie odmian odpornych na szkodniki obniża ogólną liczebność szkodników w środowisku.",
+        "Producenci nasion i sadzonek bardzo rzadko informują o odporności odmian na najważniejsze szkodniki."
+      ]
+    },
+    {
+      "heading": "1. Materiał siewny i regulatory wzrostu",
+      "points": [
+        "Materiał siewny powinien być wytwarzany w regionie i musi pochodzić z gospodarstwa ekologicznego.",
+        "Zakaz zaprawiania nasion środkami syntetycznymi; dozwolone środki wg Rozporządzenia Rady 2092/91/EWG (preparaty biodynamiczne, nadmanganian potasu, wyciągi ze skrzypu, rumianku, czosnku, chrzanu).",
+        "Dozwolone zaprawianie wapnem hydratyzowanym w ilości 2 kg/100 kg nasion.",
+        "Dopuszczalne zabiegi fizyczne przyspieszające kiełkowanie: moczenie i skaryfikacja nasion.",
+        "Preparaty biodynamiczne – 9 preparatów oznaczonych 500–508; stymulują humifikację w kompoście i chronią rośliny.",
+        "Preparat 500 z krowieńca – 2–3 g w 1 l wody na 1 ar, oprysk gleby przed zasiewami; preparat 501 – zmielona krzemionka; 502–507 – ziołowe (krwawnik, rumianek, pokrzywa, kora dębowa, mniszek, waleriana, skrzyp).",
+        "Wyciągi kompostowe (najlepiej ze świeżego kompostu z obornikiem) – przeciw szarej pleśni, zgniliznom, mączniakom.",
+        "Ekstrakty roślinne zawierają garbniki, flawonoidy, saponiny, olejki eteryczne, śluzy, witaminy; silnie biostymulujący jest ekstrakt z alg.",
+        "Zakazane syntetyczne hormony roślinne: antywylegacze, stymulatory rozkrzewiania, zapłodnienia i partenokarpii, substancje przyspieszające/opóźniające dojrzewanie, hamujące kiełkowanie bulw i cebul, ukorzeniacze.",
+        "Nasiona można przedsiewnie traktować preparatami biodynamicznymi i dojrzałym kompostem.",
+        "Preparaty biodynamiczne służą do stymulowania humifikacji w pryzmie kompostowej oraz do opryskiwania roślin przeciw chorobom i szkodnikom; mają międzynarodowe oznaczenia.",
+        "Krowieńca od jednej krowy może wystarczyć nawet na kilka gospodarstw wielohektarowych; ilość wszystkich preparatów biodynamicznych oblicza się w gramach i stosuje w dużym rozcieńczeniu wodnym.",
+        "Wyciągi kompostowe dodatkowo pozytywnie wpływają na rozwój pożytecznej mikroflory glebowej.",
+        "Ekstrakty roślinne – wyciągi z kwiatów, liści, kory, owoców lub korzeni roślin; są regulatorami wzrostu i rozwoju.",
+        "Zakazane są też syntetyczne substancje stymulujące zapłodnienie i inicjujące partenokarpiczne zawiązywanie owoców."
+      ]
+    },
+    {
+      "heading": "1. Nawozy i nawożenie",
+      "points": [
+        "Istota: utrzymanie/podwyższenie żyzności i aktywności biologicznej gleby; nawozi się glebę (mikroorganizmy), a nie bezpośrednio roślinę.",
+        "Podstawą nawożenia jest próchnica z kompostowania obornika i innych materiałów organicznych.",
+        "Humifikacja nawozów organicznych odbywa się poza glebą – nierozłożona materia organiczna powoduje wstrząsy biologiczne, a korzenie unikają jej sąsiedztwa.",
+        "Nawozy organiczne z własnego gospodarstwa; ograniczony zakup z gospodarstw ekstensywnych pod warunkiem przekompostowania.",
+        "Samowystarczalność paszowo-nawozowa przy obsadzie 0,5–1,5 DJP/ha; dopuszczalna obsada 2 DJP/ha = 170 kg N rocznie w odchodach.",
+        "Nawozy podstawowe: obornik pod pług, kompost powierzchniowo płytko mieszany kultywatorem lub broną, nawozy zielone.",
+        "Nawozy uzupełniające mineralne: mielone skały (bazalt, bentonit, gips, kizeryt, dolomit, wapno magnezowe i węglanowe, kreda nawozowa), boraks, kainit, kalimagnezja, siarczan potasu, mączki fosforytowe, popiół drzewny.",
+        "Inne uzupełniające: muł i osady z naturalnych zbiorników, torf do 20% w podłożach do rozsad, mączki z kości, krwi, rogów, pierza, rybna, makuchy, kora, trociny, nawozy z glonów, EM (Efektywne Mikroorganizmy).",
+        "Niedozwolone: syntetyczne nawozy azotowe, guano, nawozy przemysłowe (chelatowe, mikroelementowe, dolistne), nawozy o spowolnionym działaniu.",
+        "Niedozwolone: gnojowica, komposty z odpadów komunalnych, osady ściekowe spoza gospodarstwa, nieprzekompostowane fekalia, odchody z ferm zwierząt futerkowych, podłoże z konwencjonalnych pieczarkarni.",
+        "Niedozwolone: przemysłowe nawozy organiczno-mineralne (np. na bazie węgla brunatnego), popioły węgla z elektrociepłowni i kotłowni.",
+        "Istota nawożenia obejmuje gospodarowanie składnikami pokarmowymi w obiegu zamkniętym.",
+        "Wideokast wymienia wśród podstawowych nawozów gospodarstwa ekologicznego także gnojówkę i wodę gnojową (obok obornika, kompostu i nawozów zielonych).",
+        "Niedozwolone są także komposty z udziałem fekaliów w uprawie warzyw.",
+        "Dopiero mikroorganizmy glebowe udostępniają korzeniom składniki pokarmowe w odpowiedniej formie, ilości i proporcjach.",
+        "Rośliny bobowate (motylkowate) wzbogacają glebę w azot – uprawiane w plonie głównym, w mieszankach i poplonach.",
+        "Nawozy z własnej obsady zwierząt nie wyrównają poziomu wszystkich składników mineralnych, jeśli obsada jest zbyt mała – dlatego stosuje się odpowiednie (naturalne) nawożenie mineralne.",
+        "Kreda nawozowa w rolnictwie ekologicznym: pojezierna, łąkowa, margiel.",
+        "Dozwolone nawozy organiczne obejmują też mączkę ze skorupy jaj, odpady z własnego gospodarstwa i humus."
+      ],
+      "images": [
+        {
+          "src": "img/re2/nawozy-podstawowe.jpg",
+          "caption": "Podstawowe nawozy w gospodarstwach ekologicznych (wideokast): obornik, kompost, gnojówka i woda gnojowa, nawozy zielone."
+        },
+        {
+          "src": "img/re2/prochnica-profil.jpg",
+          "caption": "Próchnica – wierzchnia, ciemna warstwa gleby. Podstawą nawożenia w rolnictwie ekologicznym jest próchnica uzyskiwana w procesie kompostowania obornika lub innych materiałów organicznych pochodzenia roślinnego i zwierzęcego."
+        },
+        {
+          "src": "img/re2/nawozy-uzupelniajace.jpg",
+          "caption": "Nawozy uzupełniające w gospodarstwie ekologicznym: mineralne (mielone skały, boraks, nawozy potasowe, mączki fosforytowe, popiół drzewny), muł i osady z naturalnych zbiorników, torf do 20% w podłożach do rozsad, nawozy organiczne (mączka z kości, rybna, makuchy, kora, trociny, humus), nawozy z suszonych glonów morskich, EM – Efektywne Mikroorganizmy (preparat z „uśpionymi” pożytecznymi mikroorganizmami glebowymi)."
+        },
+        {
+          "src": "img/re2/nawozy-niedozwolone.jpg",
+          "caption": "Nawozy niedozwolone w gospodarstwie ekologicznym: syntetyczne nawozy azotowe, guano, nawozy o spowolnionym działaniu; gnojowica, komposty z odpadów komunalnych, osady ściekowe spoza gospodarstwa, nieprzekompostowane fekalia, odchody z ferm zwierząt futerkowych, podłoże z konwencjonalnych pieczarkarni; przemysłowe nawozy organiczno-mineralne (np. na bazie węgla brunatnego), popioły węgla z elektrociepłowni i kotłowni."
+        }
+      ]
+    },
+    {
+      "heading": "1. Ochrona roślin",
+      "points": [
+        "Chwasty ogranicza się metodami pośrednimi (płodozmian, uprawa roli, dobór odmian, materiał siewny, termin i gęstość siewu, mulczowanie) i bezpośrednimi.",
+        "Herbicydów nie stosuje się ani na polach, ani na miedzach, brzegach pól, rowach, przy drogach i zadrzewieniach.",
+        "Bezpośrednie zwalczanie chwastów: brony, obsypniki, pielniki, herbicydy biologiczne, wyrywanie, narzędzia ręczne, odchwaszczanie termiczne.",
+        "Odchwaszczanie termiczne szczególnie przed wschodami wolno kiełkujących warzyw – marchwi i cebuli.",
+        "Ochrona przed chorobami i szkodnikami: sprzyjanie naturalnym wrogom, odporne odmiany, terminy siewu, osłony (folia, siatki, włóknina), substancje odstraszające/zwabiające, pułapki, bariery, emitery dźwięku i światła.",
+        "Dozwolone środki: preparaty wirusowe, bakteryjne (np. Bacillus thuringiensis) i grzybowe, feromony (bez bezpośredniego traktowania roślin), emulsje z oleju parafinowego i tłuszczów.",
+        "Preparaty roślinne m.in. z pokrzywy, skrzypu, bylicy, wrotyczu, miodli indyjskiej, gorzkli, złocienia dalmatyńskiego, derysa; także szare mydło, ziemia okrzemkowa, sproszkowane skały, mleko.",
+        "Podstawy ochrony roślin: zapobieganie chwastom metodami pośrednimi i ich bezpośrednie zwalczanie, zabiegi odchwaszczające, ochrona przed nadmiernym rozwojem chorób i szkodników, środki zawierające wyłącznie substancje biologicznie czynne, mikroorganizmy i organizmy żywe.",
+        "Metody pośrednie ograniczania chwastów obejmują też jakość materiału siewnego oraz ściółkowanie.",
+        "Ochrona przed chorobami i szkodnikami: także dobór terminów zabiegów pielęgnacyjnych oraz wprowadzanie do uprawy roślin odstraszających lub zwabiających szkodniki; osłony stosuje się w okresie nasilenia chorób lub inwazji szkodników."
+      ]
+    },
+    {
+      "heading": "2. Sady ekologiczne – cechy owoców i stanowisko",
+      "points": [
+        "Owoce z sadów ekologicznych: lepszy smak i zapach, lepsza przechowalność, mniej azotanów i azotynów, brak pozostałości pestycydów.",
+        "Więcej witaminy C, witamin B, aminokwasów, cukrów, żelaza, magnezu, fosforu i suchej masy.",
+        "Podstawą prowadzenia sadu ekologicznego jest utrzymanie bioróżnorodności; szkodniki dopuszcza się w ilości niewpływającej na plon i jakość.",
+        "Najważniejsze elementy: stanowisko, gleba, dobór odmian, ekologiczna ochrona i nawożenie.",
+        "Podstawowy czynnik wyboru stanowiska – klimat (opady, wilgotność, temperatura, wiatr); drzewa potrzebują wody głównie w okresie wegetacji.",
+        "Wysoka wilgotność powietrza sprzyja chorobom grzybowym, zwłaszcza parchowi.",
+        "Brzoskwinie i morele – wysokie temperatury, osłonięte i nasłonecznione stanowiska; jabłonie, grusze, śliwy – umiarkowanie ciepłe; wiśnie i czereśnie – pośrednie.",
+        "Na stanowiskach wietrznych sadzi się osłony przeciwwiatrowe, np. z drzew iglastych; stanowiska na zboczach są korzystniejsze niż płaskie.",
+        "Ekologiczna uprawa sadu wiąże się głównie z przygotowaniem stanowiska i wyborem odpornych odmian, a w sezonie – z cięciem redukcyjnym.",
+        "Przy ocenie stanowiska uwzględnia się przeciętną ilość opadów i ich rozkład w roku i w okresie wegetacyjnym.",
+        "Jeśli nie można uniknąć stanowiska o dużej wilgotności, należy wykonać wszystkie zabiegi wzmacniające siły obronne roślin.",
+        "Jabłoń w okresie wzrostu owoców wymaga dużo światła i wysokich temperatur (fotosynteza, wybarwienie, smak owoców).",
+        "Wiatr zmniejsza wilgotność powietrza i ryzyko infekcji grzybowych, ale porywiste wiatry wiosną przechylają drzewa na słabo rosnących podkładkach i uszkadzają liście.",
+        "Przy wyborze stanowiska uwzględnia się też wysokość n.p.m., osłonowe działanie pagórków, położenie na dnie doliny lub na wzgórzu; dobre stanowisko pozwala założyć sad nawet w niekorzystnym klimatycznie regionie."
+      ]
+    },
+    {
+      "heading": "2. Sady ekologiczne – sadzenie, gleba, odmiany",
+      "points": [
+        "Drzewa szczepione na podkładkach karłowych i półkarłowych, w większej rozstawie niż w sadzie tradycyjnym; korony nie mogą zachodzić na siebie w rzędzie.",
+        "Podkładki karłowe: 4–4,5 m między rzędami × 1,5 m w rzędzie.",
+        "Podkładki półkarłowe: 4–4,5 m między rzędami × 2,5 m w rzędzie.",
+        "Sadzenie wiosną lub jesienią; miejsce szczepienia co najmniej 10 cm nad powierzchnią gleby; drzewka na karłowych podkładkach wymagają palików.",
+        "Gleba w sadzie powinna być stale porośnięta; skoszona trawa w rzędach dostarcza składników; w latach suchych częste koszenie.",
+        "Najgroźniejsza choroba sadów jabłoniowych – parch; wiśnie – brunatna zgnilizna drzew pestkowych; śliwy – ospowatość śliw (szarka).",
+        "Po roku dużego urodzaju plon słabnie – w roku silnego urodzaju przerzedza się zawiązki (głównie jabłka).",
+        "Owoce ekologiczne zwykle mają gorszy wygląd i są mniejsze niż konwencjonalne.",
+        "Luźna rozstawa w sadzie ekologicznym ma zapewnić swobodny ruch powietrza i obfite nasłonecznienie.",
+        "Drzewka na karłowych podkładkach zaraz po posadzeniu wymagają palików lub drutów z tyczkami; wiosną po posadzeniu wykonuje się cięcie formujące koronę.",
+        "W rzędach zostawia się skoszoną trawę, mieszankę traw z koniczyną lub wsiewkę ziół; ściółkowanie (mulczowanie) może regulować dopływ wody; częste koszenie w latach suchych sprzyja pobieraniu wody przez drzewa.",
+        "W sadach ekologicznych nie sadzi się odmian jabłoni wrażliwych na parch; materiał szkółkarski – dobrej jakości, z licencjonowanych szkółek ekologicznych.",
+        "Przerzedzanie zawiązków zapewnia regularność owocowania i wysoką jakość owoców; odmiany wcześnie wchodzące w owocowanie wybiera się do czasowego zagęszczenia sadu.",
+        "Gorszy wygląd i mniejsze owoce ekologiczne wynikają ze stosowania wyłącznie naturalnych środków ochrony, nawozów i regulatorów."
+      ]
+    },
+    {
+      "heading": "2. Sady ekologiczne – ochrona i nawożenie",
+      "points": [
+        "Środki olejowe – olej parafinowy, działa kontaktowo, ogranicza oddychanie owadów (przędziorki, miseczniki).",
+        "Środki miedziowe i siarkowe – głównie wczesną wiosną; miedź: parch, brunatna zgnilizna, drobna plamistość, opadzina, kędzierzawość liści, rdza wejmutkowo-porzeczkowa; siarka: mączniak prawdziwy.",
+        "Środki wirusowe i bakteryjne działają antagonistycznie lub pasożytują na patogenach.",
+        "Preparaty roślinne (gnojówki, napary, wywary z pokrzywy, cebuli, czosnku) – wadą jest mała stabilność substancji czynnej.",
+        "Podstawą nawożenia sadu jest kompost – w rzędach drzew, 10 t na rok; im więcej nawozów zwierzęcych w kompoście, tym lepsza jakość.",
+        "Obornik w rzędach w dawce nieprzekraczającej 20 t/ha/rok; w młodych sadach obłożenie drzewka w obrębie korony.",
+        "Przenawożenie azotem zwiększa ryzyko chorób, opóźnia dojrzewanie i pogarsza wybarwienie owoców.",
+        "Obornik i kompost najlepiej stosować jesienią; nawożenie zawsze poprzedza analiza gleby.",
+        "Olej parafinowy działa na roślinie powierzchniowo, a na szkodniku kontaktowo.",
+        "Środki wirusowe i bakteryjne działają antagonistycznie – wydzielają substancje antybiotyczne, konkurują o pożywienie lub miejsce.",
+        "Nawożenie sadu ekologicznego to przede wszystkim żywienie organizmów glebowych (pielęgnacja gleby).",
+        "Przy braku kompostu nawozi się obornikiem; można też stosować gnojówkę – kompost, obornik i gnojówka dostarczają głównie azotu.",
+        "Jesienne nawożenie: dostępność składników w tym okresie decyduje o plonie w roku następnym.",
+        "Aby pobudzić organizmy glebowe, mogą być konieczne nawozy zielone oraz naturalne mineralne nawozy fosforowe, potasowe lub magnezowe.",
+        "W nawożeniu sadu uwzględnia się: wiek sadu, ubiegłoroczne plony, siłę wzrostu pędów, podkładkę, odmianę, przebieg pogody, rodzaj gleby."
+      ]
+    },
+    {
+      "heading": "3. Wpływ uprawy ekologicznej na wartość odżywczą",
+      "points": [
+        "Surowce ekologiczne: więcej przeciwutleniaczy, witaminy C, magnezu i żelaza, minimalna ilość pestycydów.",
+        "Żywność ekologiczna ma mniej azotanów, azotynów, pozostałości pestycydów, regulatorów wzrostu, antybiotyków i syntetycznych dodatków.",
+        "Nawożenie mineralne zwiększa plon i ilość wody w komórkach, obniżając zawartość suchej masy – zwłaszcza w warzywach liściastych.",
+        "Wyższa sucha masa poprawia przechowalność: ogranicza aktywność enzymów, spowalnia oddychanie, gnicie i rozkład.",
+        "W surowcach ekologicznych jest średnio o 36% więcej witaminy C niż w konwencjonalnych.",
+        "Mleko ekologiczne – więcej witaminy B2; marchew ekologiczna – więcej B1; chleb ze zbóż ekologicznych – więcej B1, B2 i niacyny.",
+        "Nawożenie azotem obniża poziom polifenoli (flawonoidów, antocyjanów).",
+        "Metody ekologiczne zwiększają zawartość antyoksydantów o 30% w porównaniu z żywnością konwencjonalną.",
+        "Owoce ekologiczne mają więcej węglowodanów (lepszy smak); konsumenci preferowali mięso kurcząt karmionych paszami ekologicznymi.",
+        "Przeciwutleniacze obniżają ciśnienie krwi, zmniejszają ryzyko chorób serca i udarów mózgu, wspierają naturalne mechanizmy obronne komórek.",
+        "Jakość produktu ekologicznego zaczyna się w glebie.",
+        "Produkty ekologiczne zawierają więcej witaminy C, witamin z grupy B, związków fenolowych i związków mineralnych.",
+        "Chleb pszenny i żytni ze zbóż ekologicznych ma więcej tiaminy (B1), ryboflawiny (B2) i niacyny (kwasu nikotynowego).",
+        "Fenolowe metabolity roślin chronią rośliny przed chorobami i są naturalnymi antyoksydantami w żywieniu człowieka.",
+        "Wyższa sucha masa w produktach ekologicznych daje lepszy smak, aromat i konsystencję; preferencję mięsa kurcząt z pasz ekologicznych potwierdziły badania mięśni piersiowych."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Podstawowe elementy zarządzania ekologiczną produkcją roślinną (4)",
+      "back": "Wybór gatunków i odmian, wieloletni płodozmian, recykling substancji, odpowiednie techniki uprawy."
+    },
+    {
+      "front": "Jak nawozi się rośliny w rolnictwie ekologicznym?",
+      "back": "Poprzez ekosystem gleby (mikroorganizmy), a nie nawozami rozpuszczalnymi."
+    },
+    {
+      "front": "Minimalna długość płodozmianu ekologicznego",
+      "back": "4 lata."
+    },
+    {
+      "front": "Dwie podstawowe funkcje płodozmianu w gospodarstwie ekologicznym",
+      "back": "Nawozowa i sanitarna."
+    },
+    {
+      "front": "Funkcja nawozowa płodozmianu",
+      "back": "Kształtuje bilans azotu i materii organicznej w glebie."
+    },
+    {
+      "front": "Funkcja sanitarna płodozmianu",
+      "back": "Ogranicza rozwój chorób i szkodników oraz reguluje zachwaszczenie."
+    },
+    {
+      "front": "Które rośliny najbardziej niekorzystnie wpływają na bilans próchnicy?",
+      "back": "Okopowe (ziemniak, burak), warzywa korzeniowe i kukurydza."
+    },
+    {
+      "front": "O ile uprawa okopowych zmniejsza zawartość próchnicy?",
+      "back": "O ok. 1,1–1,4 t/ha/rok."
+    },
+    {
+      "front": "Ile obornika równoważy ubytek próchnicy po okopowych?",
+      "back": "Ok. 14–15 t/ha."
+    },
+    {
+      "front": "Które rośliny pozostawiają najwięcej resztek przetwarzanych na próchnicę?",
+      "back": "Wieloletnie motylkowate i ich mieszanki z trawami oraz pastwiska przemienne."
+    },
+    {
+      "front": "Udział roślin motylkowatych w plonie głównym (moduł II)",
+      "back": "20–25%."
+    },
+    {
+      "front": "Udział roślin motylkowatych w międzyplonach",
+      "back": "15–30%."
+    },
+    {
+      "front": "Dlaczego nie zostawiać gleby latem bez okrywy po likwidacji motylkowatych?",
+      "back": "Mineralizacja związków organicznych i straty azotu; słońce zabija mikroorganizmy i przesusza glebę."
+    },
+    {
+      "front": "Jak często stosować obornik pod rośliny jednoroczne?",
+      "back": "Przynajmniej co 3–4 lata (uzupełniany nawozami zielonymi i kompostem)."
+    },
+    {
+      "front": "Co uprawiać po roślinach wzbogacających glebę w azot?",
+      "back": "Rośliny o dużym zapotrzebowaniu na azot: zboża, słonecznik, grykę."
+    },
+    {
+      "front": "Co uprawiać po ziemniakach, marchwi, kukurydzy?",
+      "back": "Rośliny o mniejszych wymaganiach pokarmowych, wykorzystujące resztki składników."
+    },
+    {
+      "front": "Czy po zbożach można uprawiać inne zboża?",
+      "back": "Nie – jednostronne wyczerpanie składników, choroby, chwasty, szkodniki."
+    },
+    {
+      "front": "Co uprawiać po roślinach silnie zachwaszczających?",
+      "back": "Rośliny odchwaszczające, np. wieloletnie motylkowe z trawami, mieszanki pastewne."
+    },
+    {
+      "front": "Co uprawiać po roślinach zakażających glebę chorobami?",
+      "back": "Rośliny z innych grup botanicznych, niebędące żywicielami."
+    },
+    {
+      "front": "Podstawowa zasada doboru odmian w gospodarstwie ekologicznym",
+      "back": "Odmiany przystosowane do lokalnych warunków, odporne na choroby i szkodniki, konkurencyjne wobec chwastów."
+    },
+    {
+      "front": "Czy wolno uprawiać odmiany GMO w gospodarstwie ekologicznym?",
+      "back": "Nie, jest to zabronione."
+    },
+    {
+      "front": "Cechy roślin najbardziej konkurencyjnych wobec chwastów",
+      "back": "Dynamiczny wzrost początkowy, duża wysokość, rozkrzewienie i powierzchnia liści."
+    },
+    {
+      "front": "Na jakie nicienie odporne są odmiany ziemniaka i buraka?",
+      "back": "Guzak i mątwik (nicienie korzeniowe)."
+    },
+    {
+      "front": "Które zboże najlepiej nadaje się do uprawy ekologicznej ze względu na odporność?",
+      "back": "Pszenżyto."
+    },
+    {
+      "front": "Na jakie choroby pszenżyto jest bardzo odporne?",
+      "back": "Głownia pyląca, śnieć cuchnąca, mączniak prawdziwy, rdza brunatna."
+    },
+    {
+      "front": "Skąd musi pochodzić materiał siewny w rolnictwie ekologicznym?",
+      "back": "Z gospodarstwa ekologicznego, najlepiej z danego regionu."
+    },
+    {
+      "front": "Dawka wapna hydratyzowanego do zaprawiania nasion",
+      "back": "2 kg/100 kg nasion."
+    },
+    {
+      "front": "Dozwolone naturalne zaprawy nasion (przykłady)",
+      "back": "Preparaty biodynamiczne, nadmanganian potasu, wyciągi ze skrzypu, rumianku, czosnku, chrzanu."
+    },
+    {
+      "front": "Dozwolone zabiegi fizyczne przyspieszające kiełkowanie",
+      "back": "Moczenie i skaryfikacja nasion."
+    },
+    {
+      "front": "Ile jest preparatów biodynamicznych i jak są oznaczane?",
+      "back": "9 preparatów, oznaczenia 500–508."
+    },
+    {
+      "front": "Preparat biodynamiczny 500",
+      "back": "Z krowieńca; 2–3 g w 1 l wody na 1 ar, oprysk gleby przed zasiewami."
+    },
+    {
+      "front": "Preparat biodynamiczny 501",
+      "back": "Zmielona drobno krzemionka."
+    },
+    {
+      "front": "Preparaty biodynamiczne 502–507",
+      "back": "Ziołowe: krwawnik, rumianek, pokrzywa, kora dębowa, mniszek, waleriana (i skrzyp polny)."
+    },
+    {
+      "front": "Przeciw czemu stosuje się wyciągi kompostowe?",
+      "back": "Szarej pleśni, zgniliznom, mączniakom."
+    },
+    {
+      "front": "Ekstrakt roślinny o bardzo silnym działaniu biostymulującym",
+      "back": "Ekstrakt z alg."
+    },
+    {
+      "front": "Przykłady zakazanych syntetycznych regulatorów wzrostu",
+      "back": "Antywylegacze, stymulatory rozkrzewiania, substancje hamujące kiełkowanie bulw, ukorzeniacze, regulatory dojrzewania."
+    },
+    {
+      "front": "Podstawa nawożenia w rolnictwie ekologicznym",
+      "back": "Próchnica z kompostowania obornika i innych materiałów organicznych."
+    },
+    {
+      "front": "Dlaczego humifikacja nawozów odbywa się poza glebą?",
+      "back": "Nierozłożona materia organiczna powoduje wstrząsy biologiczne, a korzenie unikają jej sąsiedztwa."
+    },
+    {
+      "front": "Obsada zapewniająca samowystarczalność paszowo-nawozową (moduł II)",
+      "back": "0,5–1,5 DJP/ha."
+    },
+    {
+      "front": "Podstawowe nawozy w gospodarstwie ekologicznym",
+      "back": "Obornik pod pług, kompost (powierzchniowo, płytko mieszany), nawozy zielone."
+    },
+    {
+      "front": "Jak wprowadza się kompost w gospodarstwie ekologicznym?",
+      "back": "Powierzchniowo, płytko mieszając z glebą kultywatorem lub broną."
+    },
+    {
+      "front": "Maksymalny udział torfu w podłożach do produkcji rozsad",
+      "back": "Do 20%."
+    },
+    {
+      "front": "EM",
+      "back": "Efektywne Mikroorganizmy – preparat z „uśpionymi” pożytecznymi mikroorganizmami glebowymi."
+    },
+    {
+      "front": "Dozwolone nawozy potasowe w rolnictwie ekologicznym",
+      "back": "Kainit, kalimagnezja, siarczan potasu."
+    },
+    {
+      "front": "Czy gnojowica jest dozwolona w gospodarstwie ekologicznym (wg modułu II)?",
+      "back": "Nie – jest na liście nawozów niedozwolonych."
+    },
+    {
+      "front": "Czy guano jest dozwolone w gospodarstwie ekologicznym (wg modułu)?",
+      "back": "Nie."
+    },
+    {
+      "front": "Przykłady nawozów niedozwolonych z odpadów",
+      "back": "Komposty z odpadów komunalnych, osady ściekowe spoza gospodarstwa, odchody zwierząt futerkowych, podłoże z konwencjonalnych pieczarkarni."
+    },
+    {
+      "front": "Gdzie nie wolno stosować herbicydów w gospodarstwie ekologicznym?",
+      "back": "Nigdzie – ani na polach, ani na miedzach, rowach, przy drogach i zadrzewieniach."
+    },
+    {
+      "front": "Przed wschodami jakich warzyw stosuje się odchwaszczanie termiczne?",
+      "back": "Wolno kiełkujących, np. marchwi i cebuli."
+    },
+    {
+      "front": "Bakteria stosowana w biologicznych preparatach owadobójczych",
+      "back": "Bacillus thuringiensis."
+    },
+    {
+      "front": "Warunek stosowania feromonów w ekologicznej ochronie roślin",
+      "back": "Nie mogą być nimi traktowane bezpośrednio rośliny uprawne."
+    },
+    {
+      "front": "Cechy owoców z sadów ekologicznych",
+      "back": "Lepszy smak i zapach, przechowalność, mniej azotanów, brak pestycydów, więcej witamin, sucha masa."
+    },
+    {
+      "front": "Podstawa prowadzenia sadu ekologicznego",
+      "back": "Utrzymanie bioróżnorodności."
+    },
+    {
+      "front": "Podstawowy czynnik wyboru stanowiska pod sad",
+      "back": "Klimat (opady, wilgotność, temperatura, wiatr)."
+    },
+    {
+      "front": "Czemu sprzyja wysoka wilgotność powietrza w sadzie?",
+      "back": "Chorobom grzybowym, zwłaszcza parchowi."
+    },
+    {
+      "front": "Które drzewa wymagają najcieplejszych, osłoniętych stanowisk?",
+      "back": "Brzoskwinie i morele."
+    },
+    {
+      "front": "Rozstawa drzew na podkładkach karłowych w sadzie ekologicznym",
+      "back": "4–4,5 m między rzędami × 1,5 m w rzędzie."
+    },
+    {
+      "front": "Rozstawa drzew na podkładkach półkarłowych w sadzie ekologicznym",
+      "back": "4–4,5 m między rzędami × 2,5 m w rzędzie."
+    },
+    {
+      "front": "Jak wysoko nad glebą powinno być miejsce szczepienia?",
+      "back": "Co najmniej 10 cm."
+    },
+    {
+      "front": "Najgroźniejsza choroba sadów jabłoniowych",
+      "back": "Parch."
+    },
+    {
+      "front": "Główna choroba wiśni ważna przy doborze odmian",
+      "back": "Brunatna zgnilizna drzew pestkowych."
+    },
+    {
+      "front": "Największe zagrożenie w uprawie śliw",
+      "back": "Ospowatość śliw (szarka)."
+    },
+    {
+      "front": "Substancja czynna środków olejowych i jej działanie",
+      "back": "Olej parafinowy – kontaktowo, ogranicza oddychanie przędziorków i miseczników."
+    },
+    {
+      "front": "Przeciw jakiej chorobie stosuje się siarkę w sadzie?",
+      "back": "Mączniakowi prawdziwemu."
+    },
+    {
+      "front": "Wada preparatów roślinnych (gnojówki, napary)",
+      "back": "Mała stabilność substancji czynnej – krótki czas działania."
+    },
+    {
+      "front": "Dawka kompostu w sadzie ekologicznym",
+      "back": "10 t na rok, w rzędach drzew."
+    },
+    {
+      "front": "Maksymalna dawka obornika w sadzie ekologicznym",
+      "back": "20 t/ha/rok."
+    },
+    {
+      "front": "Najlepsza pora stosowania obornika i kompostu w sadzie",
+      "back": "Jesień."
+    },
+    {
+      "front": "Skutki przenawożenia sadu azotem",
+      "back": "Więcej chorób, późniejsze dojrzewanie, słabe wybarwienie owoców."
+    },
+    {
+      "front": "O ile więcej witaminy C mają średnio surowce ekologiczne?",
+      "back": "O 36%."
+    },
+    {
+      "front": "O ile metody ekologiczne zwiększają zawartość antyoksydantów?",
+      "back": "O 30%."
+    },
+    {
+      "front": "Jak nawożenie azotem wpływa na polifenole?",
+      "back": "Obniża poziom flawonoidów i antocyjanów."
+    },
+    {
+      "front": "Dlaczego produkty ekologiczne lepiej się przechowują?",
+      "back": "Wyższa sucha masa ogranicza aktywność enzymów i spowalnia oddychanie, gnicie i rozkład."
+    },
+    {
+      "front": "Której witaminy więcej ma mleko ekologiczne, a której marchew ekologiczna?",
+      "back": "Mleko – B2; marchew – B1."
+    },
+    {
+      "front": "Podstawowe nawozy gospodarstwa ekologicznego wg wideokastu",
+      "back": "Obornik, kompost, gnojówka i woda gnojowa, nawozy zielone."
+    },
+    {
+      "front": "Czy w uprawie warzyw ekologicznych wolno stosować komposty z udziałem fekaliów?",
+      "back": "Nie – są na liście nawozów niedozwolonych."
+    },
+    {
+      "front": "Jak nazywa się zaznaczona, wierzchnia warstwa gleby i skąd się ją uzyskuje w rolnictwie ekologicznym?",
+      "back": "Próchnica – uzyskiwana przez kompostowanie obornika lub innych materiałów organicznych; jest podstawą nawożenia ekologicznego.",
+      "img": "img/re2/prochnica-profil.jpg"
+    },
+    {
+      "front": "Po czym poznać rośliny odchwaszczające w płodozmianie?",
+      "back": "Zabiegi pielęgnacyjne, silne zwarcie i zacienienie – np. wieloletnie motylkowe z trawami, mieszanki pastewne."
+    },
+    {
+      "front": "Dlaczego zboża niszczą strukturę roli?",
+      "back": "Z powodu niedostatecznego ocienienia gleby; po nich uprawia się rośliny obficie ulistnione."
+    },
+    {
+      "front": "Czym można przedsiewnie traktować nasiona w rolnictwie ekologicznym?",
+      "back": "Preparatami biodynamicznymi i dojrzałym kompostem (oraz zaprawiać wapnem hydratyzowanym 2 kg/100 kg)."
+    },
+    {
+      "front": "Do czego służą preparaty biodynamiczne?",
+      "back": "Do stymulowania humifikacji w pryzmie kompostowej oraz opryskiwania roślin przeciw chorobom i szkodnikom."
+    },
+    {
+      "front": "Na ile gospodarstw może wystarczyć krowieniec od jednej krowy?",
+      "back": "Nawet na kilka gospodarstw wielohektarowych."
+    },
+    {
+      "front": "Rodzaje kredy nawozowej dozwolonej w rolnictwie ekologicznym",
+      "back": "Pojezierna, łąkowa, margiel."
+    },
+    {
+      "front": "Jaki dodatkowy wpływ mają wyciągi kompostowe na glebę?",
+      "back": "Wyciągi kompostowe wpływają pozytywnie na rozwój pożytecznej mikroflory glebowej."
+    },
+    {
+      "front": "Kto udostępnia roślinom składniki pokarmowe w rolnictwie ekologicznym?",
+      "back": "Mikroorganizmy glebowe – w odpowiedniej formie, ilości i proporcjach."
+    },
+    {
+      "front": "Z jakimi zabiegami w sezonie wiąże się ekologiczna uprawa sadu?",
+      "back": "Z cięciem redukcyjnym (oraz wcześniej przygotowaniem stanowiska i wyborem odpornych odmian)."
+    },
+    {
+      "front": "Jak wiatr wpływa na sad?",
+      "back": "Zmniejsza wilgotność i ryzyko infekcji grzybowych, ale porywisty przechyla drzewa na słabych podkładkach i uszkadza liście."
+    },
+    {
+      "front": "Czemu służy luźna rozstawa drzew w sadzie ekologicznym?",
+      "back": "Swobodnemu ruchowi powietrza i obfitemu nasłonecznieniu."
+    },
+    {
+      "front": "Czym nawozić sad przy braku kompostu?",
+      "back": "Obornikiem (w rzędach, do 20 t/ha/rok); można też gnojówką."
+    },
+    {
+      "front": "Jaki składnik głównie dostarczają kompost, obornik i gnojówka w sadzie?",
+      "back": "Azot."
+    },
+    {
+      "front": "Czynniki uwzględniane przy nawożeniu sadu",
+      "back": "Wiek sadu, ubiegłoroczne plony, siła wzrostu pędów, podkładka, odmiana, przebieg pogody, rodzaj gleby."
+    },
+    {
+      "front": "Jak działają środki wirusowe i bakteryjne w ochronie sadu?",
+      "back": "Antagonistycznie (substancje antybiotyczne, konkurencja o pożywienie lub miejsce) lub pasożytują na patogenach."
+    },
+    {
+      "front": "Do czego służą odmiany wcześnie wchodzące w okres owocowania?",
+      "back": "Do czasowego zagęszczenia sadu."
+    },
+    {
+      "front": "Dlaczego owoce ekologiczne mają gorszy wygląd i są mniejsze?",
+      "back": "Bo stosuje się wyłącznie naturalne środki ochrony, nawozy i regulatory wzrostu."
+    },
+    {
+      "front": "Działanie prozdrowotne przeciwutleniaczy",
+      "back": "Obniżają ciśnienie krwi, zmniejszają ryzyko chorób serca i udarów, wspierają mechanizmy obronne komórek."
+    },
+    {
+      "front": "Których witamin więcej ma chleb ze zbóż ekologicznych?",
+      "back": "Tiaminy (B1), ryboflawiny (B2) i niacyny."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Płodozmian w gospodarstwie ekologicznym powinien trwać co najmniej:",
+      "options": [
+        "4 lata",
+        "2 lata",
+        "3 lata",
+        "8 lat"
+      ],
+      "answer": 0,
+      "explain": "Prawidłowo ułożony płodozmian ekologiczny jest minimum czteroletni."
+    },
+    {
+      "q": "Dwie podstawowe funkcje płodozmianu w gospodarstwie ekologicznym to:",
+      "options": [
+        "ekonomiczna i społeczna",
+        "sanitarna i energetyczna",
+        "nawozowa i melioracyjna",
+        "nawozowa i sanitarna"
+      ],
+      "answer": 3,
+      "explain": "Płodozmian spełnia funkcję nawozową i sanitarną."
+    },
+    {
+      "q": "Najbardziej niekorzystnie na bilans próchnicy wpływa uprawa:",
+      "options": [
+        "koniczyny z trawami",
+        "lucerny",
+        "ziemniaka i buraka",
+        "pastwisk przemiennych"
+      ],
+      "answer": 2,
+      "explain": "Okopowe, warzywa korzeniowe i kukurydza pozostawiają mało szybko rozkładających się resztek."
+    },
+    {
+      "q": "Uprawa roślin okopowych zmniejsza zawartość próchnicy w glebie o około:",
+      "options": [
+        "0,1–0,2 t/ha/rok",
+        "1,1–1,4 t/ha/rok",
+        "5–6 t/ha/rok",
+        "10–12 t/ha/rok"
+      ],
+      "answer": 1,
+      "explain": "Uprawa tych roślin zmniejsza zawartość próchnicy o ok. 1,1–1,4 t/ha/rok."
+    },
+    {
+      "q": "Aby zrównoważyć ubytek próchnicy po roślinach okopowych, trzeba zastosować około:",
+      "options": [
+        "3–4 t/ha obornika",
+        "14–15 t/ha obornika",
+        "40–50 t/ha obornika",
+        "1 t/ha kompostu"
+      ],
+      "answer": 1,
+      "explain": "Zrównoważenie ubytku wymaga ok. 14–15 t/ha obornika."
+    },
+    {
+      "q": "Udział roślin motylkowatych w plonie głównym powinien wynosić:",
+      "options": [
+        "20–25%",
+        "5–10%",
+        "40–50%",
+        "60–70%"
+      ],
+      "answer": 0,
+      "explain": "Udział motylkowatych: 20–25% w plonie głównym, 15–30% w międzyplonach."
+    },
+    {
+      "q": "Po uprawie roślin wzbogacających glebę w azot należy uprawiać:",
+      "options": [
+        "inne rośliny strączkowe",
+        "rośliny motylkowate wieloletnie",
+        "wyłącznie ugór",
+        "zboża, słonecznik lub grykę"
+      ],
+      "answer": 3,
+      "explain": "Po roślinach wzbogacających w azot uprawia się rośliny o dużym zapotrzebowaniu na azot: zboża, słonecznik, grykę."
+    },
+    {
+      "q": "Pod rośliny jednoroczne w płodozmianie ekologicznym obornik stosuje się co najmniej:",
+      "options": [
+        "co roku dwukrotnie",
+        "co 8–10 lat",
+        "co 3–4 lata",
+        "nigdy"
+      ],
+      "answer": 2,
+      "explain": "Pod rośliny jednoroczne należy stosować obornik przynajmniej co 3–4 lata."
+    },
+    {
+      "q": "Zboże o bardzo wysokiej odporności genetycznej na choroby, szczególnie przydatne do uprawy ekologicznej, to:",
+      "options": [
+        "pszenica",
+        "jęczmień",
+        "pszenżyto",
+        "owies"
+      ],
+      "answer": 2,
+      "explain": "Pszenżyto jest bardzo odporne na głownię, śnieć, mączniaka i rdzę brunatną."
+    },
+    {
+      "q": "Odmiany ziemniaka i buraka odporne na nicienie korzeniowe chronią przed:",
+      "options": [
+        "stonką i mszycą",
+        "guzakiem i mątwikiem",
+        "drutowcem i pędrakiem",
+        "śmietką i połyśnicą"
+      ],
+      "answer": 1,
+      "explain": "Stosuje się odmiany odporne na nicienie z rodzajów guzak i mątwik."
+    },
+    {
+      "q": "Dozwolona dawka wapna hydratyzowanego do zaprawiania nasion wynosi:",
+      "options": [
+        "2 kg/100 kg",
+        "0,2 kg/100 kg",
+        "10 kg/100 kg",
+        "20 kg/100 kg"
+      ],
+      "answer": 0,
+      "explain": "Dozwolone jest zaprawianie wapnem hydratyzowanym w ilości 2 kg/100 kg."
+    },
+    {
+      "q": "Który zabieg przyspieszający kiełkowanie nasion jest dozwolony w rolnictwie ekologicznym?",
+      "options": [
+        "Zaprawianie fungicydem syntetycznym",
+        "Traktowanie syntetyczną giberyliną",
+        "Otoczkowanie nawozem chelatowym",
+        "Skaryfikacja"
+      ],
+      "answer": 3,
+      "explain": "Dopuszczalne są zabiegi fizyczne: moczenie i skaryfikacja nasion."
+    },
+    {
+      "q": "Preparat biodynamiczny 500 sporządza się z:",
+      "options": [
+        "krzemionki",
+        "krwawnika",
+        "kory dębowej",
+        "krowieńca"
+      ],
+      "answer": 3,
+      "explain": "Preparat 500 sporządzony jest z krowieńca, a 501 to zmielona krzemionka."
+    },
+    {
+      "q": "Preparaty biodynamiczne mają międzynarodowe oznaczenia:",
+      "options": [
+        "100–108",
+        "200–209",
+        "500–508",
+        "800–808"
+      ],
+      "answer": 2,
+      "explain": "Istnieje dziewięć preparatów o oznaczeniach od 500 do 508."
+    },
+    {
+      "q": "Preparat biodynamiczny 501 to:",
+      "options": [
+        "preparat z krowieńca",
+        "zmielona krzemionka",
+        "wyciąg z pokrzywy",
+        "wyciąg z waleriany"
+      ],
+      "answer": 1,
+      "explain": "Preparat 501 to zmielona drobno krzemionka."
+    },
+    {
+      "q": "Wyciągi kompostowe stosuje się głównie przeciwko:",
+      "options": [
+        "szarej pleśni i mączniakom",
+        "mszycom",
+        "nicieniom",
+        "chwastom jednoliściennym"
+      ],
+      "answer": 0,
+      "explain": "Wyciągi kompostowe stosowane są przeciwko szarej pleśni, zgniliznom, mączniakom."
+    },
+    {
+      "q": "Który środek jest niedozwolony w rolnictwie ekologicznym?",
+      "options": [
+        "Antywylegacz syntetyczny",
+        "Ekstrakt z alg",
+        "Wyciąg kompostowy",
+        "Preparat biodynamiczny"
+      ],
+      "answer": 0,
+      "explain": "Niedozwolone są syntetyczne substancje o charakterze hormonów roślinnych, m.in. antywylegacze."
+    },
+    {
+      "q": "Humifikacja nawozów organicznych w rolnictwie ekologicznym powinna odbywać się:",
+      "options": [
+        "wyłącznie w glebie",
+        "w zbiorniku na gnojowicę",
+        "na powierzchni pola po zasiewie",
+        "poza glebą (w kompoście)"
+      ],
+      "answer": 3,
+      "explain": "Humifikacja odbywa się poza glebą, bo nierozłożona materia powoduje wstrząsy biologiczne."
+    },
+    {
+      "q": "Kompost w gospodarstwie ekologicznym wprowadza się do gleby:",
+      "options": [
+        "głęboko pod pług zimowy",
+        "wyłącznie dolistnie",
+        "powierzchniowo i płytko mieszając kultywatorem lub broną",
+        "przez deszczownię"
+      ],
+      "answer": 2,
+      "explain": "Kompost wprowadza się powierzchniowo i płytko miesza kultywatorem lub broną."
+    },
+    {
+      "q": "Który nawóz jest niedozwolony w gospodarstwie ekologicznym?",
+      "options": [
+        "Kainit",
+        "Gnojowica",
+        "Mączka z kości",
+        "Popiół drzewny"
+      ],
+      "answer": 1,
+      "explain": "Gnojowica znajduje się na liście nawozów niedozwolonych."
+    },
+    {
+      "q": "Który nawóz mineralny jest dopuszczony w rolnictwie ekologicznym jako uzupełniający?",
+      "options": [
+        "Mocznik",
+        "Kizeryt",
+        "Saletra amonowa",
+        "Superfosfat potrójny"
+      ],
+      "answer": 1,
+      "explain": "Wśród dozwolonych mielonych skał wymieniono m.in. bazalt, bentonit, gips, kizeryt, dolomit."
+    },
+    {
+      "q": "Torf może stanowić w podłożach do produkcji rozsad maksymalnie:",
+      "options": [
+        "20%",
+        "5%",
+        "50%",
+        "80%"
+      ],
+      "answer": 0,
+      "explain": "Torf jest dozwolony w ilości do 20% w podłożach do produkcji rozsad."
+    },
+    {
+      "q": "Preparat EM to:",
+      "options": [
+        "Ekstrakt Mineralny",
+        "Emulsja Mleczna",
+        "Enzym Mineralizujący",
+        "Efektywne Mikroorganizmy"
+      ],
+      "answer": 3,
+      "explain": "„EM” to Efektywne Mikroorganizmy – uśpione pożyteczne mikroorganizmy glebowe."
+    },
+    {
+      "q": "Odchwaszczanie termiczne stosuje się zwłaszcza przed wschodami:",
+      "options": [
+        "kukurydzy i ziemniaka",
+        "pszenicy i żyta",
+        "marchwi i cebuli",
+        "lucerny i koniczyny"
+      ],
+      "answer": 2,
+      "explain": "Odchwaszczanie termiczne stosuje się zwłaszcza przed wschodami wolno kiełkujących warzyw, np. marchwi i cebuli."
+    },
+    {
+      "q": "Biologiczny preparat owadobójczy oparty na bakteriach to preparat na bazie:",
+      "options": [
+        "Rhizobium",
+        "Penicillium",
+        "Bacillus thuringiensis",
+        "Lactobacillus"
+      ],
+      "answer": 2,
+      "explain": "Dozwolone są preparaty bakteryjne, np. na bazie Bacillus thuringiensis."
+    },
+    {
+      "q": "Najgroźniejszą chorobą sadów jabłoniowych jest:",
+      "options": [
+        "szarka",
+        "parch",
+        "brunatna zgnilizna",
+        "rdza brunatna"
+      ],
+      "answer": 1,
+      "explain": "Najgroźniejszą chorobą sadów jabłoniowych jest parch."
+    },
+    {
+      "q": "Największym zagrożeniem w uprawie śliw jest:",
+      "options": [
+        "ospowatość śliw (szarka)",
+        "parch jabłoni",
+        "mączniak rzekomy",
+        "zaraza ziemniaka"
+      ],
+      "answer": 0,
+      "explain": "W uprawie śliw największym zagrożeniem jest ospowatość śliw (szarka)."
+    },
+    {
+      "q": "Minimalna rozstawa drzew na podkładkach karłowych w sadzie ekologicznym to:",
+      "options": [
+        "3 m × 0,5 m",
+        "4–4,5 m × 2,5 m",
+        "6 m × 4 m",
+        "4–4,5 m × 1,5 m"
+      ],
+      "answer": 3,
+      "explain": "Drzewka na podkładkach karłowych – 4–4,5 m między rzędami × 1,5 m w rzędzie."
+    },
+    {
+      "q": "Minimalna rozstawa drzew na podkładkach półkarłowych w sadzie ekologicznym to:",
+      "options": [
+        "4–4,5 m × 1,5 m",
+        "2 m × 1 m",
+        "8 m × 6 m",
+        "4–4,5 m × 2,5 m"
+      ],
+      "answer": 3,
+      "explain": "Drzewka na podkładkach półkarłowych – 4–4,5 m między rzędami × 2,5 m w rzędzie."
+    },
+    {
+      "q": "Miejsce szczepienia drzewka po posadzeniu powinno znajdować się nad powierzchnią gleby co najmniej:",
+      "options": [
+        "1 cm",
+        "30 cm",
+        "10 cm",
+        "50 cm"
+      ],
+      "answer": 2,
+      "explain": "Miejsce szczepienia powinno znaleźć się przynajmniej 10 cm nad powierzchnią gleby."
+    },
+    {
+      "q": "Siarkę w ekologicznej ochronie sadów stosuje się przeciwko:",
+      "options": [
+        "parchowi jabłoni",
+        "mączniakowi prawdziwemu",
+        "przędziorkom",
+        "mszycom"
+      ],
+      "answer": 1,
+      "explain": "Środki siarkowe stosuje się przeciw mączniakowi prawdziwemu."
+    },
+    {
+      "q": "Substancją czynną środków olejowych stosowanych w sadach ekologicznych jest:",
+      "options": [
+        "olej parafinowy",
+        "olej rzepakowy",
+        "olej napędowy",
+        "olejek eteryczny"
+      ],
+      "answer": 0,
+      "explain": "Substancją czynną środków olejowych jest olej parafinowy."
+    },
+    {
+      "q": "Dawka obornika w sadzie ekologicznym nie powinna przekraczać:",
+      "options": [
+        "20 t/ha/rok",
+        "5 t/ha/rok",
+        "40 t/ha/rok",
+        "60 t/ha/rok"
+      ],
+      "answer": 0,
+      "explain": "Obornik stosuje się w rzędach drzew w dawkach nieprzekraczających 20 t/ha/rok."
+    },
+    {
+      "q": "W surowcach ekologicznych zawartość witaminy C jest średnio wyższa o:",
+      "options": [
+        "5%",
+        "15%",
+        "100%",
+        "36%"
+      ],
+      "answer": 3,
+      "explain": "W surowcach ekologicznych występuje średnio o 36% więcej witaminy C."
+    },
+    {
+      "q": "Metody rolnictwa ekologicznego zwiększają zawartość antyoksydantów w żywności o około:",
+      "options": [
+        "3%",
+        "60%",
+        "30%",
+        "90%"
+      ],
+      "answer": 2,
+      "explain": "Metody ekologiczne powodują wzrost antyoksydantów o 30%."
+    },
+    {
+      "q": "Nawożenie mineralne w uprawach konwencjonalnych powoduje:",
+      "options": [
+        "wzrost zawartości suchej masy",
+        "spadek zawartości suchej masy w plonie",
+        "wzrost zawartości polifenoli",
+        "lepszą przechowalność"
+      ],
+      "answer": 1,
+      "explain": "Nawożenie mineralne zwiększa ilość wody w komórkach, co obniża zawartość suchej masy."
+    },
+    {
+      "q": "Który z nawozów płynnych wideokast wymienia wśród podstawowych nawozów gospodarstwa ekologicznego?",
+      "options": [
+        "gnojowicę",
+        "gnojówkę",
+        "płynne nawozy dolistne",
+        "roztwór saletrzano-mocznikowy"
+      ],
+      "answer": 1,
+      "explain": "Gnojówka i woda gnojowa są nawozami podstawowymi, a gnojowica jest w gospodarstwie ekologicznym niedozwolona."
+    },
+    {
+      "q": "Które czynniki uwzględnia się przy wyborze stanowiska pod sad ekologiczny poza klimatem?",
+      "options": [
+        "Tylko zasobność gleby w fosfor",
+        "Wysokość n.p.m., osłonę pagórków, położenie w dolinie lub na wzgórzu",
+        "Odległość od drogi powiatowej",
+        "Liczbę uli w okolicy"
+      ],
+      "answer": 1,
+      "explain": "Moduł wymienia wysokość nad poziomem morza, działanie osłonowe pagórków oraz położenie na dnie doliny lub na wzgórzu; zbocza są korzystniejsze niż teren płaski."
+    },
+    {
+      "q": "Jakie rozcieńczenie preparatu biodynamicznego 500 stosuje się do opryskiwania gleby?",
+      "options": [
+        "20–30 g w 1 l wody na 1 ha",
+        "2–3 g w 1 l wody na 1 ar",
+        "2–3 kg w 100 l wody na 1 ha",
+        "200 g w 10 l wody na 1 ar"
+      ],
+      "answer": 1,
+      "explain": "Preparat 500 z krowieńca: 2–3 g w 1 l wody na 1 ar, oprysk gleby przed zasiewami."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Prawidłowo ułożony płodozmian w rolnictwie ekologicznym pozwala sterować populacjami:",
+      "options": [
+        "szkodników.",
+        "patogenów.",
+        "zwierząt i owadów chronionych.",
+        "chwastów."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUprawa roślin okopowych zmniejsza zawartość próchnicy w glebie o ok. … t/ha/rok.",
+      "options": [
+        "2,1–2,4",
+        "1,1–1,4"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawowe zasady uprawy roślin w rolnictwie ekologicznym dotyczą stosowania nawozów i nawożenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiej ilości powinien być zastosowany obornik, aby zrównoważyć ubytki próchnicy po uprawie roślin okopowych?",
+      "options": [
+        "24–25 t/ha.",
+        "14–15 t/ha.",
+        "4–5 t/ha."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPod roślinami jednorocznymi należy stosować przynajmniej co … lata nawożenie obornikiem.",
+      "options": [
+        "3-4",
+        "1-2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Szczególnie niekorzystnie na bilans próchnicy w glebie działa uprawa takich roślin, jak:",
+      "options": [
+        "buraki.",
+        "ziemniaki.",
+        "warzywa korzeniowe.",
+        "zboża."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoszczególne grupy roślin uprawnych zostawiają różne ilości resztek pożniwnych, które mają różną wartość z punktu widzenia powstawania próchnicy, a zatem odmiennie wpływają na bilans próchnicy w glebie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUdział roślin motylkowatych w międzyplonach powinien wynosić ….",
+      "options": [
+        "15–30%",
+        "35–50%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRośliny strączkowe mają ujemny wpływ na bilans próchnicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie substancje są dozwolone w uprawie ekologicznej do zaprawy nasion?",
+      "options": [
+        "Preparaty biodynamiczne.",
+        "Dojrzały kompost.",
+        "Wapno hydratyzowane.",
+        "Syntetyczne, jak Marshal, Funaben, Baytan."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUdział roślin motylkowatych powinien wynosić … w plonie głównym.",
+      "options": [
+        "30-35%",
+        "20-25%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRośliny motylkowate wieloletnie i ich mieszanki z trawami oraz pastwiska przemienne pozostawiają duże ilości resztek pożniwnych w dużym stopniu przetwarzanych na próchnicę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka obsada zwierząt na 1 ha gospodarstwa zapewnia zbilansowanie wszystkich składników mineralnych poprzez nawożenie organiczne?",
+      "options": [
+        "1,5–3,0 DJP.",
+        "1,0–2,5 DJP.",
+        "3,0–4,5 DJP.",
+        "0,5–1,5 DJP."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUprawa ekologiczna powoduje zwiększenie w produktach rolnych zawartość ….",
+      "options": [
+        "suchej masy",
+        "wody"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW płodozmian polowy nie należy włączać upraw mieszanek motylkowo-trawiastych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W uprawie ekologicznej niedozwolone jest stosowanie substancji syntetycznych o charakterze hormonów roślinnych takich, jak:",
+      "options": [
+        "preparaty przyspieszające lub opóźniające dojrzewanie.",
+        "substancje stymulujące rozkrzewianie.",
+        "związki stymulujące zapłodnienie.",
+        "antywylegacze."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNawożenie azotem powoduje w roślinach … poziomu związków polifenolowych (flawonoidów, antocyjanów).",
+      "options": [
+        "zwiększenie",
+        "zmniejszenie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwoce z upraw ekologicznych mają mniej węglowodanów niż owoce z upraw konwencjonalnych, co znacznie obniża ich walory smakowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie nawozy stanowią podstawę nawożenia w gospodarstwie ekologicznym?",
+      "options": [
+        "Obornik.",
+        "Kompost.",
+        "Nawozy zielone.",
+        "Syntetyczne nawozy azotowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW sadownictwie ekologicznym nawozy w postaci obornika lub kompostu najlepiej stosować ….",
+      "options": [
+        "jesienią",
+        "wiosną"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProdukty ekologiczne w porównaniu z konwencjonalnymi wykazują gorsze właściwości przechowalnicze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie nawozy są uzupełniającymi w gospodarstwie ekologicznym?",
+      "options": [
+        "Nawozy wytwarzane na bazie suszonych glonów morskich.",
+        "Komposty z odpadów komunalnych.",
+        "Muł i osady z naturalnych zbiorników wodnych.",
+        "Nawozy mineralne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… zawartość suchej masy w warzywach i owocach ekologicznych wpływa na lepszą ich jakość przechowalniczą.",
+      "options": [
+        "Mniejsza",
+        "Większa"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW uprawach konwencjonalnych, w wyniku nawożenia mineralnego wzrasta ilość plonów, przekładając się na zwiększenie ilości wody w komórkach roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie nawozy są niedozwolone w gospodarstwie ekologicznym?",
+      "options": [
+        "Nawozy wytwarzane na bazie suszonych glonów morskich.",
+        "Produkowane przemysłowo nawozy organiczno-mineralne.",
+        "Gnojowica, komposty z odpadów komunalnych.",
+        "Syntetyczne nawozy azotowe."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku nawożenia sadu kompostem należy stosować go w rzędach drzew w ilości … t na rok.",
+      "options": [
+        "1",
+        "10"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na czym polega zwalczanie chwastów w gospodarstwie ekologicznym?",
+      "options": [
+        "Na odchwaszczaniu termicznym.",
+        "Na opryskach chwastobójczych z rygorystycznym zastosowaniem przepisów unijnych.",
+        "Na stosowaniu uprawek mechanicznych.",
+        "Na stosowaniu herbicydów biologicznych."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProdukty z upraw ekologicznych zawierają mniej substancji odżywczych niż te produkowane w sposób konwencjonalny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku nawożenia sadu obornikiem należy stosować go w rzędach drzew w dawkach nieprzekraczających … t na rok.",
+      "options": [
+        "10",
+        "20"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOwoce rolnictwa ekologicznego zazwyczaj mają … wygląd zewnętrzny niż owoce rolnictwa konwencjonalnego.",
+      "options": [
+        "gorszy",
+        "lepszy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie substancje są dozwolone w rolnictwie ekologicznym?",
+      "options": [
+        "Preparaty biodynamiczne.",
+        "Wyciągi kompostowe.",
+        "Ekstrakty roślinne.",
+        "Substancje hamujące kiełkowanie bulw i cebul."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW gospodarstwach ekologicznych … na miedzach, brzegach pól, w rowach, przy drogach oraz pasach zadrzewień śródpolnych.",
+      "options": [
+        "nie stosuje się herbicydów",
+        "stosuje się herbicydy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Podstawą ochrony roślin w gospodarstwie ekologicznym są … zabiegi odchwaszczające.",
+      "options": [
+        "mechaniczne",
+        "chemiczne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W roślinach uprawianych ekologicznie w porównaniu do konwencjonalnych, występuje większa ilość:",
+      "options": [
+        "przeciwutleniaczy.",
+        "pestycydów.",
+        "azotynów.",
+        "witaminy C.",
+        "magnezu i żelaza."
+      ],
+      "answers": [
+        0,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nGłównym składnikiem olejowych środków ochrony sadów jest ….",
+      "options": [
+        "olej roślinny",
+        "olej parafinowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W ekologicznej ochronie roślin dozwolone jest stosowanie preparatów olejowych, siarkowych, miedziowych i triazynowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z wymienionych nawozów jest dopuszczalny w gospodarstwie ekologicznym?",
+      "options": [
+        "Mączka z kości, krwi, rogów, pierza.",
+        "Odchody z ferm zwierząt futerkowych.",
+        "Gnojowica.",
+        "Popioły węgla z elektrociepłowni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie cechy należy uwzględnić przy doborze odmian do uprawy w sadzie ekologicznym?",
+      "options": [
+        "Jakość i wygląd owoców.",
+        "Plenność.",
+        "Odporność na herbicydy.",
+        "Regularność owocowania.",
+        "Odporność na choroby."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW ekologicznym gospodarstwie rolnym uprawa odmian roślin zmodyfikowanych genetycznie (GMO) jest dozwolona tylko po spełnieniu restrykcyjnych norm i ustaleń Komisji Europejskiej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosując w sadownictwie kompost, obornik, gnojówkę dostarczamy roślinom głównie azotu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo sadów ekologicznych polecane są drzewa szczepione na podkładkach … oraz ….",
+      "options": [
+        "superkarłowych, silnie rosnących",
+        "karłowych, półkarłowych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWłaściwy wybór stanowiska jest bardzo ważny przy sadzeniu drzew owocowych, umożliwia założenie sadu nawet w regionach, w których byłoby to niewskazane ze względu na przeciwskazania klimatyczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wymienionych nawozów jest niedopuszczalny w gospodarstwie ekologicznym?",
+      "options": [
+        "Efektywne mikroorganizmy.",
+        "Popiół drzewny.",
+        "Odchody z ferm zwierząt futerkowych.",
+        "Mączka z kości, krwi, rogów, pierza."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSkrót EM oznacza ….",
+      "options": [
+        "Emulsje Mikrobiologiczne",
+        "Efektywne Mikroorganizmy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawową zasadą w ekologicznym gospodarstwie rolnym jest stosowanie odmian przystosowanych do lokalnych warunków glebowo-klimatycznych, odznaczających się dużą odpornością na choroby grzybowe, bakteryjne i szkodniki oraz konkurencyjnych wobec chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż sposoby uprawy zwiększające mineralizację próchnicy i nasilające erozję.",
+      "options": [
+        "Nawożenie obornikiem.",
+        "Późne zakrycie międzyrzędzi.",
+        "Późny siew.",
+        "Uprawa w szerokie rzędy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIstotą nawożenia w rolnictwie ekologicznym jest utrzymanie lub podwyższenie żyzności i biologicznej aktywności gleby oraz stworzenie optymalnych warunków rozwoju roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które zboże charakteryzuje się bardzo wysoką genetyczną odpornością na porażenie przez takie choroby, jak np.: głownia pyląca, śnieć cuchnąca, mączniak prawdziwy czy rdza brunatna?",
+      "options": [
+        "Pszenżyto.",
+        "Pszenica.",
+        "Żyto.",
+        "Jęczmień."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wymienionych nawozów jest niedozwolony w gospodarstwie ekologicznym?",
+      "options": [
+        "Nawóz popieczarkowy z konwencjonalnych pieczarkarni.",
+        "Wapno magnezowe.",
+        "Nawozy wytwarzane na bazie suszonych glonów morskich.",
+        "Boraks."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawą ochrony roślin w gospodarstwie ekologicznym jest stosowanie środków ochrony roślin zawierających wyłącznie substancje biologicznie czynne, mikroorganizmy oraz organizmy żywe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są sanitarne skutki stosowania właściwie dobranego płodozmianu?",
+      "options": [
+        "Ograniczenie ilości mikroorganizmów glebowych.",
+        "Regulacja zachwaszczenia.",
+        "Ograniczenie ilości szkodników.",
+        "Ograniczenie występowania chorób."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGleba pozbawiona okrywy roślinnej podlega degradacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady środków dozwolonych do zaprawy w uprawie ekologicznej.",
+      "options": [
+        "Preparaty biodynamiczne.",
+        "Wyciągi ze skrzypu.",
+        "Zaprawy syntetyczne.",
+        "Nadmanganian potasu."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jaki sposób można pozyskiwać nawozy do gospodarstwa ekologicznego.",
+      "options": [
+        "Kupować komposty z odpadów komunalnych.",
+        "We własnym gospodarstwie wytwarzać nawozy organiczne.",
+        "Kupować syntetyczne nawozy azotowe.",
+        "Kupować przekompostowane nawozy organiczne z gospodarstw konwencjonalnych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawą nawożenia w rolnictwie ekologicznym jest próchnica uzyskiwana w procesie kompostowania obornika lub innych materiałów organicznych pochodzenia roślinnego i zwierzęcego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rośliny wymagają intensywnego nawożenia organicznego i mineralnego?",
+      "options": [
+        "Kukurydza.",
+        "Marchew.",
+        "Zboża.",
+        "Ziemniaki."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Która z wymienionych metod zwalczania chwastów jest niedopuszczalna w gospodarstwie ekologicznym?",
+      "options": [
+        "Wyrywanie chwastów.",
+        "Odchwaszczanie termiczne.",
+        "Stosowaniu uprawek mechanicznych.",
+        "Stosowanie herbicydów syntetycznych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczna uprawa sadu owocowego wiąże się głównie z przygotowaniem odpowiedniego stanowiska i wyboru odpornych odmian roślin, a w czasie sezonu z cięciem redukcyjnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW sadzie ekologicznym korony drzew nie mogą zachodzić na siebie w rzędzie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do sadów ekologicznych polecane są drzewa szczepione na podkładkach:",
+      "options": [
+        "karłowych.",
+        "superkarłowych.",
+        "półkarłowych.",
+        "silnie rosnących."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUdział roślin motylkowatych w gospodarstwie ekologicznym powinien wynosić: 15–35% w plonie głównym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie są skutki szybkiej likwidacji uprawy i pozostawienie gleby w okresie letnim bez okrywy?",
+      "options": [
+        "Nadmierne gromadzenie wody w glebie.",
+        "Straty azotu.",
+        "Nadmierne przesuszenie gleby.",
+        "Mineralizacja związków organicznych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Preparaty biodynamiczne mogą zawierać:",
+      "options": [
+        "krowieniec.",
+        "antywylegacze.",
+        "wyciągi ziołowe.",
+        "krzemionkę."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych nawozów są dozwolone w gospodarstwie ekologicznym?",
+      "options": [
+        "Nawozy o spowolnionym działaniu.",
+        "Guano.",
+        "Nieprzekompostowane fekalia.",
+        "Mączka rybna."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż rośliny o dużym zapotrzebowaniu na azot, wskazane jako płodozmian po roślinach wzbogacających glebę w azot.",
+      "options": [
+        "Groszek.",
+        "Słonecznik.",
+        "Gryka.",
+        "Zboża."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW płodozmian polowy nie należy włączać upraw mieszanek motylkowo-trawiastych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Gleba w sadzie ekologicznym nie powinna być porośnięta roślinnością.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na jakiej wysokości nad powierzchnią powinno się znaleźć miejsce szczepienia podczas sadzenia?",
+      "options": [
+        "Przynajmniej 20 cm nad powierzchnią gleby.",
+        "Przynajmniej 10 cm nad powierzchnią gleby.",
+        "Nie wyżej niż 10 cm nad powierzchnią gleby.",
+        "Na dowolnej wysokości."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie działania powinno się podejmować w gospodarstwie ekologicznym, aby ograniczyć pojawianie się chorób i szkodników?",
+      "options": [
+        "Stosować preparaty na bazie Bacillus thuringiensis.",
+        "Używać preparatów odstraszających lub zwabiających.",
+        "Wykorzystywać emulsje na bazie oleju parafinowego.",
+        "Stosować pestycydy w momencie zaobserwowania pierwszych oznak porażenia."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPo uprawie roślin motylkowych i strączkowych nie należy wysiewać innych gatunków należących do tego samego elementu zmianowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakimi cechami charakteryzują się rośliny uprawne pomocne w odchwaszczaniu gleby?",
+      "options": [
+        "Dynamiczny wzrost początkowy.",
+        "Duża wysokość.",
+        "Głęboki system korzeniowy.",
+        "Duża powierzchnia liści i rozkrzewienia."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStanowiska na zboczach są korzystniejsze dla roślin sadowniczych niż położone na całkowicie płaskim terenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrzewa w sadach ekologicznych należy sadzić w mniejszej rozstawie niż w sadzie tradycyjnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Kiedy dokonujemy cięcia nadającego odpowiedni kształt koronom drzew posadzonych jesienią lub wiosną?",
+      "options": [
+        "Wiosną.",
+        "Latem.",
+        "Zimą.",
+        "Jesienią."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdmiany pszenżyta mniej nadają się do uprawy ekologicznej niż inne gatunki zbóż, ze względu na większą podatność na choroby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, które z wymienionych upraw sprzyjają odchwaszczaniu gleby?",
+      "options": [
+        "Wieloletnie motylkowe z trawami.",
+        "Mieszanki pastewne.",
+        "Zboża.",
+        "Kukurydza."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie zalety można przypisać roślinom uprawianym ekologicznie w stosunku do uprawianych tradycyjnie?",
+      "options": [
+        "Większą zawartość magnezu i żelaza.",
+        "Mniejszą zawartość azotanów.",
+        "Większą ilość witaminy C.",
+        "Większą ilość przeciwutleniaczy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMateriał siewny użyty w gospodarstwie ekologicznym powinien być wytwarzany w danym regionie i musi pochodzić z gospodarstwa ekologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie jest działanie przeciwutleniaczy, których zwiększona ilość występuje w produktach ekologicznych?",
+      "options": [
+        "Zmniejszają ryzyko chorób serca.",
+        "Zmniejszają ryzyko udarów mózgu.",
+        "Wspierają naturalne mechanizmy obronne komórek.",
+        "Obniżają ciśnienie krwi."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczna uprawa roślin ma pozytywny wpływ na wartość odżywczą surowców i produktów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

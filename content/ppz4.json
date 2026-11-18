@@ -1,0 +1,1834 @@
+{
+  "id": "ppz4",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Podstawy żywienia zwierząt gospodarskich",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – znaczenie żywienia",
+      "points": [
+        "Żywienie zwierząt gospodarskich jest czynnikiem środowiskowym zależnym w dużym stopniu od człowieka.",
+        "Proces domestykacji (udomowienia zwierząt) zalicza się do wysokich osiągnięć człowieka – pozwolił na rozwój cywilizacji.",
+        "Ludzie karmili udomowione zwierzęta roślinami uprawianymi przez siebie – zwierzęta stały się zależne od człowieka.",
+        "Spośród wszystkich czynników wpływających na efektywność i opłacalność produkcji żywienie działa najszybciej, a efekty są widoczne w najkrótszym czasie.",
+        "Prawidłowa dawka żywieniowa pozwala wykorzystać materiał genetyczny zdolny do wysokich wyników produkcyjnych.",
+        "Żywienie decyduje o wielkości produkcji, wpływa na jej jakość, wartościowość produktów odzwierzęcych, kondycję i zdrowie zwierząt.",
+        "Niedobór składników mineralnych lub witamin może powodować zaburzenia procesów rozrodczych (np. obniżenie płodności) lub inne schorzenia.",
+        "Koszty żywienia stanowią ok. 70% kosztów produkcji zwierzęcej – dobór pasz w dużym stopniu decyduje o wyniku ekonomicznym.",
+        "Dzikie przodki zwierząt gospodarskich żywiły się tym, co upolowały lub znalazły, i rozmnażały się bez ingerencji człowieka; dopiero człowiek stopniowo zmienił sposób ich bytowania."
+      ]
+    },
+    {
+      "heading": "Pasza – definicja i podział",
+      "points": [
+        "Pasza – produkt pochodzenia roślinnego, zwierzęcego, mineralnego bądź syntetycznego wykorzystywany w żywieniu zwierząt w celu uzyskania określonych produktów, efektów.",
+        "Kryteria podziału pasz: koncentracja składników pokarmowych, pochodzenie, dominacja składnika pokarmowego, działanie, dodatki paszowe.",
+        "Wg koncentracji składników: treściwe, objętościowe soczyste, objętościowe suche.",
+        "Pasze treściwe: duża zawartość białka i skrobi, ok. 4 MJ energii w 1 kg – np. ziarna zbóż, nasiona strączkowe, śruty poekstrakcyjne, otręby.",
+        "Pasze objętościowe soczyste: wartość energetyczna poniżej 4 MJ, wysoka (ponad 40%) zawartość wody – np. zielonki, kiszonki, okopowe, uboczne produkty przemysłu rolno-spożywczego.",
+        "Pasze objętościowe suche: wartość energetyczna 1 kg poniżej 4 MJ, wysoka (ponad 18%) zawartość włókna surowego – np. siano, słoma, plewy.",
+        "Wg pochodzenia: roślinne (zielonki, kiszonki, słoma, siano, nasiona zbóż, okopowe, nasiona strączkowych) i zwierzęce (mleko, drożdże, serwatka).",
+        "Wg dominacji składnika: średniobiałkowe – 10–20% białka (ziarna zbóż, mieszanki przemysłowe); wysokobiałkowe – 25–80% białka (śruty poekstrakcyjne, koncentraty, superkoncentraty, drożdże, mleko).",
+        "Żywienie zwierząt, ze względu na szeroki zakres zagadnień, omawia się jako oddzielny dział produkcji zwierzęcej; opiera się na paszach o bardzo zróżnicowanej strukturze, wartości odżywczej i pochodzeniu."
+      ]
+    },
+    {
+      "heading": "Podział pasz wg działania i dodatki paszowe",
+      "points": [
+        "Lecznicze: zioła, siemię lniane, otręby, kreda.",
+        "Mlekopędne: otręby pszenne.",
+        "Zatwardzające: siano, susze, kreda.",
+        "Rozwalniające: okopowe (ziemniaki, buraki) oraz wywar.",
+        "Wzdymające: bobik, lucerna, groch, koniczyna.",
+        "Smakowe: zioła, mięta, cukier, sól.",
+        "Dodatki paszowe mineralno-witaminowe: sól pastewna, probiotyki, prefiksy, zioła, mieszanki mineralne."
+      ]
+    },
+    {
+      "heading": "Wartość pokarmowa pasz",
+      "points": [
+        "Wartość pokarmowa pasz – zdolność pokrycia zapotrzebowania organizmu na poszczególne składniki poprzez ich skarmianie.",
+        "Znając wartość pokarmową komponentów, hodowca może manewrować przy sporządzaniu mieszanek, oszczędzając.",
+        "Czynniki wpływające na wartość pokarmową: środowisko (temperatura, ilość i rozkład opadów, nasłonecznienie, wilgotność powietrza), gleba (sposób uprawy, intensywność nawożenia), gatunek i odmiana rośliny, faza rozwoju, sposób przygotowania, konserwowania i przechowywania, zanieczyszczenia."
+      ]
+    },
+    {
+      "heading": "Charakterystyka grup pasz",
+      "points": [
+        "Pasze treściwe – wysoka zawartość energii i pozostałych składników; znaczenie dla praktycznie wszystkich gatunków (pszenica, pszenżyto, żyto, owies, jęczmień, mieszanki zbożowe, kukurydza).",
+        "Nasiona roślin strączkowych mają wysoką zawartość białka – łubin żółty 45%.",
+        "Wadą strączkowych jest stosunkowo wysoka zawartość substancji antyżywieniowych (obniżających wartość odżywczą i strawność pasz).",
+        "Siano otrzymuje się przez suszenie naturalne; susze – rozdrobniona zielonka suszona w suszarniach.",
+        "Wartość pokarmowa siana zależy od składu botanicznego runi, fazy i techniki zbioru oraz sposobu suszenia; wartość słomy – od gatunku i odmiany rośliny.",
+        "Pasze objętościowe soczyste – wysoka zawartość wody, stąd trudności z przechowywaniem i konieczność konserwacji.",
+        "Zielonki (z łąk lub pastwisk) – chętnie pobierane, dostarczają białka, dużo witamin i minerałów; wartość zależy głównie od składu gatunkowego i fazy rozwoju.",
+        "Kiszonki – pasze po procesie konserwacji (fermentacji); doskonałe w żywieniu bydła.",
+        "Rośliny okopowe – pasze typowo zimowe, działanie rozwalniające i mlekopędne; największa wada: w czasie przechowywania tracą właściwości odżywcze i masę."
+      ]
+    },
+    {
+      "heading": "Przygotowanie pasz do skarmiania",
+      "points": [
+        "Ilość paszy dla stada na cały rok bądź cykl produkcyjny planuje się w preliminarzu pasz.",
+        "Pasze nienadające się do długotrwałego przechowywania należy poddać konserwacji.",
+        "Cele przygotowania pasz: poprawa strawności, polepszenie smakowitości, zmiana struktury, ułatwienie pobierania, ograniczenie ilości i działania substancji antyżywieniowych, zwiększenie wartości pokarmowej.",
+        "Procesy przygotowania: zwilżanie, moczenie, gotowanie, parowanie, mieszanie, granulowanie.",
+        "Znajomość zasad przyrządzania pasz i ich racjonalne stosowanie pozwala produkować pasze wysokiej jakości i prawidłowo je skarmiać."
+      ]
+    },
+    {
+      "heading": "Kiszenie pasz objętościowych soczystych",
+      "points": [
+        "Kiszenie – jeden z najczęstszych sposobów przedłużania trwałości paszy; fermentacja paszy przy udziale mikroorganizmów.",
+        "Za trwałość kiszonki odpowiada kwas mlekowy wytwarzany przez bakterie.",
+        "W zakiszaniu biorą udział: bakterie kwasu mlekowego, octowego, masłowego, pałeczki okrężnicy, bakterie gnilne, pleśnie.",
+        "Optymalne pH kiszonki – 4,2.",
+        "Główny warunek zakiszania: warunki beztlenowe – pasza musi być odpowiednio rozdrobniona i dokładnie ugnieciona.",
+        "Kiszonki najczęściej z traw, roślin motylkowych, kukurydzy, ziemniaków.",
+        "Przechowywanie kiszonek: w rękawach, silosach (np. przejazdowych), na pryzmach.",
+        "Miejsce kiszonki: wyrównany spód wyłożony słomą lub folią – ogranicza wyciek soków kiszonkarskich do wód gruntowych.",
+        "Jakość kiszonki ocenia się analizą chemiczną, mikrobiologiczną i organoleptyczną.",
+        "Składowanie okopowych w kopcach – straty mogą sięgać nawet 50%.",
+        "Kiszonki przeznacza się głównie dla bydła (opasy i krowy mleczne); kiszone ziemniaki dla świń dziś praktycznie nie są stosowane.",
+        "Jakość i wartościowość kiszonki zależy w dużej mierze od rodzaju zakiszanej paszy i prawidłowości przebiegu procesu zakiszania.",
+        "Kiszone ziemniaki dla świń stosuje się dziś tylko wyjątkowo – gdy taki wymóg stawiają zakłady przetwórcze w umowach kontraktacyjnych."
+      ]
+    },
+    {
+      "heading": "Konserwacja i przechowywanie siana i pasz treściwych",
+      "points": [
+        "Siano – pasze z łąk, pastwisk lub uprawy polowej poddane wysuszeniu.",
+        "Zielonka zawiera nawet 90% wody; siano powinno zawierać nie więcej niż 15% wody.",
+        "Metody: suszenie naturalne (na ziemi, na rusztowaniach), dosuszanie sztuczne (zimnym lub ciepłym powietrzem), suszenie w wysokiej temperaturze w suszarniach.",
+        "Suszenie na ziemi – wysokie straty składników, siano gorszej jakości.",
+        "Suszenie na rusztowaniach – mniejsze straty, ale bardziej pracochłonne.",
+        "Dosuszanie sztuczne – wysokie koszty (prąd).",
+        "Suszenie wysoką temperaturą – najdroższa metoda (budowa suszarni, materiał grzewczy).",
+        "Siano przechowuje się w magazynach pasz objętościowych suchych (wiaty, spichrze, stodoły).",
+        "Pasze treściwe – niska zawartość wody, nie wymagają szczególnych zabiegów; przechowywane w silosach zbożowych lub magazynach na pryzmach; ryzyko strat niskie.",
+        "Zbiór ziarna w suchej pogodzie i właściwa temperatura w magazynie ograniczają straty; wilgoć sprzyja drobnoustrojom i szkodnikom magazynowym.",
+        "Budynki magazynowe na siano chronią je przed niekorzystnym działaniem czynników atmosferycznych – cel: ograniczenie strat ilościowych i jakościowych.",
+        "W warunkach wilgotnych przechowywane pasze treściwe tracą jakość, a rozwój drobnoustrojów i szkodników magazynowych powoduje psucie się pasz i straty ilościowe."
+      ]
+    },
+    {
+      "heading": "Skład chemiczny paszy – woda i sucha masa",
+      "points": [
+        "Pasza = woda + sucha masa; sucha masa = związki organiczne + związki nieorganiczne (popiół surowy).",
+        "Związki organiczne: azotowe (białko ogólne = białko właściwe + związki azotowe niebiałkowe) i bezazotowe (tłuszcz surowy + węglowodany).",
+        "Węglowodany = włókno surowe + bezazotowe związki wyciągowe.",
+        "Zawartość wody w paszach: od 5% do ponad 90%; najwięcej w objętościowych soczystych, najmniej w treściwych.",
+        "Im pasza bardziej wodnista, tym trudniejsza do przechowania i konserwacji.",
+        "Zwierzęta muszą mieć stały dostęp do wody.",
+        "Suchą masę oznacza się, susząc próbkę i obliczając różnicę wagi przed i po suszeniu."
+      ],
+      "images": [
+        {
+          "src": "img/ppz4/sklad-chemiczny-paszy.jpg",
+          "caption": "Rysunek 4.1. Skład chemiczny paszy: woda i sucha masa; sucha masa = związki nieorganiczne (popiół surowy) + organiczne; organiczne = azotowe (białko ogólne: białko właściwe i związki azotowe niebiałkowe) oraz bezazotowe (tłuszcz surowy i węglowodany: włókno surowe i bezazotowe związki wyciągowe)."
+        }
+      ]
+    },
+    {
+      "heading": "Związki organiczne paszy",
+      "points": [
+        "Białko – najważniejszy składnik, pełni funkcje budulcowe we wszystkich komórkach.",
+        "Białka zbudowane są z aminokwasów, które łączą się w peptydy.",
+        "Białka proste (proteiny): albuminy, globuliny, protaminy; złożone (proteidy): fosfoproteidy, glikoproteidy, nukleoproteidy.",
+        "Związki azotowe niebiałkowe (amidy): amidy kwasów, aminokwasy, peptydy, kwasy nukleinowe.",
+        "Tłuszcz – najbardziej energetyczny składnik: przy spalaniu daje dwa razy więcej energii niż białka czy węglowodany.",
+        "Tłuszcze ułatwiają wchłanianie rozpuszczalnych witamin i tworzą izolację cieplną w skórze.",
+        "Włókno surowe: celuloza (błonnik), hemiceluloza, pektyny; najwięcej w łodygach, najmniej w korzeniach i bulwach.",
+        "Zawartość włókna w dawce trzeba ściśle kontrolować ze względu na jego trudną strawność.",
+        "Bezazotowe związki wyciągowe – łatwiej rozpuszczalne węglowodany: skrobia, inulina, glikogen.",
+        "Do związków organicznych należą też witaminy, enzymy i hormony.",
+        "Składniki paszy trafiające do przewodu pokarmowego są wykorzystywane do budowy struktury organizmu i prowadzenia różnorodnych procesów życiowych (wideokast).",
+        "Zawartość wody w paszy zależy od gatunku rośliny, z której pasza pochodzi; zawartość włókna surowego w dawce ustala się na optymalnym poziomie dla danego gatunku lub grupy zwierząt.",
+        "Składniki odżywcze paszy podlegają w organizmie przemianom chemicznym i biochemicznym."
+      ]
+    },
+    {
+      "heading": "Związki nieorganiczne (popiół surowy)",
+      "points": [
+        "Popiół surowy zawiera: wapń, fosfor, potas, sód, magnez, siarkę, żelazo, miedź, chlor, krzem, mangan, kobalt.",
+        "Pasze roślinne zawierają niewiele popiołu; pasze zwierzęce są bogate w składniki mineralne.",
+        "Makro- i mikroelementy są szczególnie ważne dla młodzieży, zwierząt wysokoprodukcyjnych i samic ciężarnych.",
+        "Związki mineralne wchodzą w skład enzymów, hormonów, witamin, regulują ciśnienie osmotyczne, utrzymują stałe pH.",
+        "Szkodliwy jest zarówno nadmiar, jak i niedobór składników mineralnych – należy je bilansować w dawkach.",
+        "Skład paszy mineralnej i jej ilość dostosowuje się do grupy wiekowej lub produkcyjnej; młodzież potrzebuje dużo składników mineralnych ze względu na intensywny wzrost i rozwój.",
+        "Związki mineralne zawarte w paszach są składnikiem niezbędnym do prawidłowego rozwoju i przemian fizjologicznych."
+      ]
+    },
+    {
+      "heading": "Znaczenie racjonalnego żywienia",
+      "points": [
+        "Prawidłowe żywienie – dostarczanie wszystkich niezbędnych składników zapewniających wysoką produkcję przy niewielkich kosztach.",
+        "Niedożywienie młodych hamuje wzrost i rozwój, czasem nieodwracalnie – skutkuje nieprawidłowym pokrojem (eksterierem).",
+        "Zwierzęta niedożywione są bardziej podatne na choroby i gorzej znoszą niekorzystne warunki środowiskowe.",
+        "Żywienie wpływa na ilość i jakość produktów (mleko, mięso) i powinno być ukierunkowane na cel produkcyjny.",
+        "Zwierzęta rozpłodowe: cel – dobra kondycja, wysoka jakość nasienia i wyniki rozpłodowe.",
+        "Bydło opasowe: pasze wysokobiałkowe i energetyczne, kontrola przyrostów, nie dopuścić do przewagi tkanki tłuszczowej nad mięśniową w tuszy.",
+        "Niedopuszczalne jest skarmianie pasz nadpsutych, spleśniałych lub zmarzniętych – powodują zaburzenia pokarmowe i spadek produkcyjności.",
+        "Ważna jest systematyczność zadawania pasz – zwierzęta przyzwyczajają się do pory karmienia.",
+        "Wsparcie: doradztwo żywieniowe (normowanie, ustalanie dawek) oraz mechaniczne systemy zadawania pasz z elektronicznym sterowaniem.",
+        "Dostarczanie składników pokarmowych młodym zwierzętom musi być dostosowane do potrzeb, bo poszczególne tkanki i narządy rozwijają się w różnym czasie.",
+        "Zdrowie i kondycja zwierząt są skorelowane z ich produkcyjnością – racjonalne żywienie wpływa na skalę i opłacalność produkcji."
+      ]
+    },
+    {
+      "heading": "Preliminarz i bilans pasz",
+      "points": [
+        "Preliminarz pasz – zaplanowanie ilości pasz potrzebnych stadu/grupie na dany okres (rok lub cykl produkcyjny) z uwzględnieniem rezerwy i możliwych strat.",
+        "Bilans pasz – różnica między zasobnością gospodarstwa w określone pasze a zapotrzebowaniem na nie w stadzie.",
+        "Bilans pasz ułatwia planowanie żywienia i podejmowanie decyzji żywieniowych."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Jaki udział w kosztach produkcji zwierzęcej stanowią koszty żywienia?",
+      "back": "Ok. 70%."
+    },
+    {
+      "front": "Który czynnik produkcji działa najszybciej i daje efekty w najkrótszym czasie?",
+      "back": "Żywienie."
+    },
+    {
+      "front": "Domestykacja",
+      "back": "Udomowienie zwierząt – zaliczane do wysokich osiągnięć człowieka, pozwoliło na rozwój cywilizacji."
+    },
+    {
+      "front": "Skutek niedoboru składników mineralnych lub witamin dla rozrodu",
+      "back": "Zaburzenia procesów rozrodczych, np. obniżenie płodności."
+    },
+    {
+      "front": "Pasza – definicja",
+      "back": "Produkt pochodzenia roślinnego, zwierzęcego, mineralnego bądź syntetycznego wykorzystywany w żywieniu zwierząt w celu uzyskania określonych produktów, efektów."
+    },
+    {
+      "front": "Podział pasz wg koncentracji składników pokarmowych",
+      "back": "Treściwe, objętościowe soczyste, objętościowe suche."
+    },
+    {
+      "front": "Pasze treściwe – cechy",
+      "back": "Duża zawartość białka i skrobi, ok. 4 MJ energii w 1 kg."
+    },
+    {
+      "front": "Przykłady pasz treściwych",
+      "back": "Ziarna zbóż, nasiona strączkowe, śruty poekstrakcyjne, otręby."
+    },
+    {
+      "front": "Pasze objętościowe soczyste – cechy",
+      "back": "Wartość energetyczna poniżej 4 MJ, ponad 40% wody."
+    },
+    {
+      "front": "Przykłady pasz objętościowych soczystych",
+      "back": "Zielonki, kiszonki, okopowe, uboczne produkty przemysłu rolno-spożywczego."
+    },
+    {
+      "front": "Pasze objętościowe suche – cechy",
+      "back": "Poniżej 4 MJ w 1 kg, ponad 18% włókna surowego."
+    },
+    {
+      "front": "Przykłady pasz objętościowych suchych",
+      "back": "Siano, słoma, plewy."
+    },
+    {
+      "front": "Przykłady pasz pochodzenia zwierzęcego (wg tabeli)",
+      "back": "Mleko, drożdże, serwatka."
+    },
+    {
+      "front": "Ile białka zawierają pasze średniobiałkowe?",
+      "back": "10–20% (np. ziarna zbóż, mieszanki przemysłowe)."
+    },
+    {
+      "front": "Ile białka zawierają pasze wysokobiałkowe?",
+      "back": "25–80%."
+    },
+    {
+      "front": "Przykłady pasz wysokobiałkowych",
+      "back": "Śruty poekstrakcyjne, koncentraty, superkoncentraty, drożdże, mleko."
+    },
+    {
+      "front": "Pasze o działaniu leczniczym",
+      "back": "Zioła, siemię lniane, otręby, kreda."
+    },
+    {
+      "front": "Pasza mlekopędna (wg tabeli podziału)",
+      "back": "Otręby pszenne."
+    },
+    {
+      "front": "Pasze zatwardzające",
+      "back": "Siano, susze, kreda."
+    },
+    {
+      "front": "Pasze rozwalniające",
+      "back": "Okopowe (ziemniaki, buraki) oraz wywar."
+    },
+    {
+      "front": "Pasze wzdymające",
+      "back": "Bobik, lucerna, groch, koniczyna."
+    },
+    {
+      "front": "Pasze smakowe",
+      "back": "Zioła, mięta, cukier, sól."
+    },
+    {
+      "front": "Dodatki paszowe mineralno-witaminowe",
+      "back": "Sól pastewna, probiotyki, prefiksy, zioła, mieszanki mineralne."
+    },
+    {
+      "front": "Wartość pokarmowa pasz – definicja",
+      "back": "Zdolność pokrycia zapotrzebowania organizmu na poszczególne składniki poprzez ich skarmianie."
+    },
+    {
+      "front": "Czynniki wpływające na wartość pokarmową pasz",
+      "back": "Środowisko, gleba (uprawa, nawożenie), gatunek i odmiana rośliny, faza rozwoju, sposób przygotowania/konserwowania/przechowywania, zanieczyszczenia."
+    },
+    {
+      "front": "Zawartość białka w nasionach łubinu żółtego",
+      "back": "45%."
+    },
+    {
+      "front": "Substancje antyżywieniowe",
+      "back": "Substancje obniżające wartość odżywczą i strawność pasz (wysoka zawartość w strączkowych)."
+    },
+    {
+      "front": "Susze – co to jest?",
+      "back": "Rozdrobniona zielonka suszona w suszarniach."
+    },
+    {
+      "front": "Od czego zależy wartość pokarmowa siana?",
+      "back": "Od składu botanicznego runi, fazy i techniki zbioru oraz sposobu suszenia."
+    },
+    {
+      "front": "Od czego głównie zależy wartość zielonki?",
+      "back": "Od składu gatunkowego i fazy rozwoju."
+    },
+    {
+      "front": "Rośliny okopowe – działanie i pora skarmiania",
+      "back": "Pasze typowo zimowe; działanie rozwalniające i mlekopędne."
+    },
+    {
+      "front": "Największa wada roślin okopowych",
+      "back": "W czasie przechowywania tracą właściwości odżywcze oraz masę."
+    },
+    {
+      "front": "Preliminarz pasz",
+      "back": "Plan ilości pasz dla stada na rok lub cykl produkcyjny, z uwzględnieniem rezerwy i możliwych strat."
+    },
+    {
+      "front": "Bilans pasz",
+      "back": "Różnica między zasobnością gospodarstwa w określone pasze a zapotrzebowaniem na nie w stadzie."
+    },
+    {
+      "front": "Cele przygotowania pasz do skarmiania",
+      "back": "Poprawa strawności i smakowitości, zmiana struktury, ułatwienie pobierania, ograniczenie substancji antyżywieniowych, zwiększenie wartości pokarmowej."
+    },
+    {
+      "front": "Procesy przygotowania pasz",
+      "back": "Zwilżanie, moczenie, gotowanie, parowanie, mieszanie, granulowanie."
+    },
+    {
+      "front": "Kiszenie – na czym polega?",
+      "back": "Na fermentacji paszy objętościowej soczystej przy udziale mikroorganizmów."
+    },
+    {
+      "front": "Który kwas odpowiada za trwałość kiszonki?",
+      "back": "Kwas mlekowy wytwarzany przez bakterie."
+    },
+    {
+      "front": "Mikroorganizmy biorące udział w zakiszaniu",
+      "back": "Bakterie kwasu mlekowego, octowego, masłowego, pałeczki okrężnicy, bakterie gnilne, pleśnie."
+    },
+    {
+      "front": "Optymalne pH kiszonki",
+      "back": "4,2."
+    },
+    {
+      "front": "Główny warunek prawidłowego zakiszania",
+      "back": "Warunki beztlenowe – pasza odpowiednio rozdrobniona i dokładnie ugnieciona."
+    },
+    {
+      "front": "Z czego najczęściej sporządza się kiszonki?",
+      "back": "Z traw, roślin motylkowych, kukurydzy, ziemniaków."
+    },
+    {
+      "front": "Sposoby przechowywania kiszonek",
+      "back": "W rękawach, w silosach (np. przejazdowych), na pryzmach."
+    },
+    {
+      "front": "Po co wykłada się spód pod kiszonkę słomą lub folią?",
+      "back": "Aby ograniczyć wyciek soków kiszonkarskich do wód gruntowych."
+    },
+    {
+      "front": "Metody oceny jakości kiszonki",
+      "back": "Analiza chemiczna, mikrobiologiczna i organoleptyczna."
+    },
+    {
+      "front": "Straty przy składowaniu okopowych w kopcach",
+      "back": "Mogą sięgać nawet 50%."
+    },
+    {
+      "front": "Dla jakich zwierząt przeznacza się głównie kiszonki?",
+      "back": "Dla bydła – opasów i krów mlecznych."
+    },
+    {
+      "front": "Maksymalna zawartość wody w sianie",
+      "back": "Nie więcej niż 15% (zielonka zawiera nawet 90%)."
+    },
+    {
+      "front": "Metody suszenia siana",
+      "back": "Naturalne (na ziemi, na rusztowaniach), dosuszanie sztuczne (zimnym/ciepłym powietrzem), suszenie w wysokiej temperaturze w suszarniach."
+    },
+    {
+      "front": "Wada suszenia siana na ziemi",
+      "back": "Wysokie straty składników pokarmowych – siano gorszej jakości."
+    },
+    {
+      "front": "Suszenie na rusztowaniach – zalety i wady",
+      "back": "Mniejsze straty jakościowe, ale bardziej pracochłonne."
+    },
+    {
+      "front": "Najdroższa metoda suszenia siana",
+      "back": "Suszenie wysoką temperaturą w suszarniach (budowa suszarni, materiał grzewczy)."
+    },
+    {
+      "front": "Gdzie przechowuje się siano?",
+      "back": "W magazynach pasz objętościowych suchych: wiaty, spichrze, stodoły."
+    },
+    {
+      "front": "Jak przechowuje się pasze treściwe?",
+      "back": "W silosach zbożowych lub w magazynach na pryzmach."
+    },
+    {
+      "front": "Zawartość wody w paszach – zakres",
+      "back": "Od 5% do ponad 90%."
+    },
+    {
+      "front": "Które pasze zawierają najwięcej, a które najmniej wody?",
+      "back": "Najwięcej objętościowe soczyste, najmniej treściwe."
+    },
+    {
+      "front": "Jak oznacza się suchą masę paszy?",
+      "back": "Suszy się próbkę i oblicza różnicę wagi przed i po suszeniu."
+    },
+    {
+      "front": "Składniki suchej masy",
+      "back": "Związki organiczne (białko, tłuszcze, węglowodany) i nieorganiczne (popiół surowy)."
+    },
+    {
+      "front": "Białko ogólne – składniki",
+      "back": "Białko właściwe i związki azotowe niebiałkowe (amidy)."
+    },
+    {
+      "front": "Najważniejszy składnik paszy (funkcja budulcowa)",
+      "back": "Białko."
+    },
+    {
+      "front": "Białka proste (proteiny) – przykłady",
+      "back": "Albuminy, globuliny, protaminy."
+    },
+    {
+      "front": "Białka złożone (proteidy) – przykłady",
+      "back": "Fosfoproteidy, glikoproteidy, nukleoproteidy."
+    },
+    {
+      "front": "Najbardziej energetyczny składnik paszy",
+      "back": "Tłuszcz – daje dwa razy więcej energii niż białka czy węglowodany."
+    },
+    {
+      "front": "Podział węglowodanów w paszy",
+      "back": "Włókno surowe i bezazotowe związki wyciągowe."
+    },
+    {
+      "front": "Składniki włókna surowego",
+      "back": "Celuloza (błonnik), hemiceluloza, pektyny i inne."
+    },
+    {
+      "front": "Gdzie w roślinie jest najwięcej, a gdzie najmniej włókna?",
+      "back": "Najwięcej w łodygach, najmniej w korzeniach i bulwach."
+    },
+    {
+      "front": "Bezazotowe związki wyciągowe – przykłady",
+      "back": "Skrobia, inulina, glikogen."
+    },
+    {
+      "front": "Popiół surowy – co oznacza?",
+      "back": "Związki nieorganiczne (mineralne) paszy."
+    },
+    {
+      "front": "Które pasze są bogate w składniki mineralne?",
+      "back": "Pasze zwierzęce (roślinne zawierają niewiele popiołu)."
+    },
+    {
+      "front": "Dla jakich grup zwierząt składniki mineralne są szczególnie ważne?",
+      "back": "Młodzież, zwierzęta wysokoprodukcyjne, samice ciężarne."
+    },
+    {
+      "front": "Funkcje związków mineralnych",
+      "back": "Wchodzą w skład enzymów, hormonów, witamin; regulują ciśnienie osmotyczne; utrzymują stałe pH."
+    },
+    {
+      "front": "Skutek niedożywienia młodych zwierząt dla pokroju",
+      "back": "Nieprawidłowość pokroju (eksterieru), czasem nieodwracalna."
+    },
+    {
+      "front": "Zasady żywienia bydła opasowego",
+      "back": "Pasze wysokobiałkowe i energetyczne, kontrola przyrostów, unikanie przewagi tkanki tłuszczowej nad mięśniową."
+    },
+    {
+      "front": "Jakich pasz nie wolno skarmiać?",
+      "back": "Nadpsutych, spleśniałych, zmarzniętych."
+    },
+    {
+      "front": "Cel żywienia zwierząt rozpłodowych",
+      "back": "Dobra kondycja, wysoka jakość nasienia i dobre wyniki rozpłodowe."
+    },
+    {
+      "front": "Od czego zależy jakość i wartościowość kiszonki?",
+      "back": "Od rodzaju zakiszanej paszy oraz prawidłowości przebiegu procesu zakiszania; ocenia się ją analizą chemiczną, mikrobiologiczną i organoleptyczną."
+    },
+    {
+      "front": "Skutki przechowywania pasz treściwych w warunkach wilgotnych",
+      "back": "Straty jakościowe oraz rozwój drobnoustrojów i szkodników magazynowych – psucie się pasz i straty ilościowe."
+    },
+    {
+      "front": "Pierwiastki wchodzące w skład popiołu surowego (12)",
+      "back": "Wapń, fosfor, potas, sód, magnez, siarka, żelazo, miedź, chlor, krzem, mangan, kobalt."
+    },
+    {
+      "front": "Związki azotowe niebiałkowe (amidy) – co do nich należy?",
+      "back": "Amidy kwasów, aminokwasy, peptydy, kwasy nukleinowe."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Jaki udział w kosztach produkcji zwierzęcej stanowią koszty żywienia?",
+      "options": [
+        "Ok. 30%",
+        "Ok. 50%",
+        "Ok. 70%",
+        "Ok. 90%"
+      ],
+      "answer": 2,
+      "explain": "Koszty żywienia stanowią ok. 70% kosztów produkcji zwierzęcej."
+    },
+    {
+      "q": "Pasze objętościowe soczyste zawierają ponad:",
+      "options": [
+        "40% wody",
+        "18% wody",
+        "15% wody",
+        "90% białka"
+      ],
+      "answer": 0,
+      "explain": "Pasze objętościowe soczyste mają wysoką, ponad 40% zawartość wody."
+    },
+    {
+      "q": "Pasze objętościowe suche charakteryzują się zawartością włókna surowego powyżej:",
+      "options": [
+        "5%",
+        "10%",
+        "40%",
+        "18%"
+      ],
+      "answer": 3,
+      "explain": "Pasze objętościowe suche zawierają ponad 18% włókna surowego."
+    },
+    {
+      "q": "Do pasz objętościowych suchych należą:",
+      "options": [
+        "zielonki i kiszonki",
+        "siano, słoma, plewy",
+        "ziarna zbóż i otręby",
+        "buraki i ziemniaki"
+      ],
+      "answer": 1,
+      "explain": "Przykładami pasz objętościowych suchych są siano, słoma i plewy."
+    },
+    {
+      "q": "Pasze wysokobiałkowe zawierają:",
+      "options": [
+        "5–10% białka",
+        "10–20% białka",
+        "25–80% białka",
+        "80–95% białka"
+      ],
+      "answer": 2,
+      "explain": "Pasze wysokobiałkowe zawierają 25–80% białka."
+    },
+    {
+      "q": "Do pasz średniobiałkowych (10–20% białka) zalicza się:",
+      "options": [
+        "ziarna zbóż",
+        "śruty poekstrakcyjne",
+        "superkoncentraty",
+        "drożdże"
+      ],
+      "answer": 0,
+      "explain": "Ziarna zbóż i mieszanki przemysłowe to pasze średniobiałkowe."
+    },
+    {
+      "q": "Paszą o działaniu mlekopędnym wymienioną w podziale pasz są:",
+      "options": [
+        "kreda",
+        "otręby pszenne",
+        "siano",
+        "bobik"
+      ],
+      "answer": 1,
+      "explain": "Wśród pasz mlekopędnych wymieniono otręby pszenne."
+    },
+    {
+      "q": "Działanie wzdymające mają:",
+      "options": [
+        "siano, susze, kreda",
+        "zioła, mięta, cukier",
+        "ziemniaki, buraki, wywar",
+        "bobik, lucerna, groch, koniczyna"
+      ],
+      "answer": 3,
+      "explain": "Do pasz wzdymających należą bobik, lucerna, groch i koniczyna."
+    },
+    {
+      "q": "Działanie zatwardzające mają:",
+      "options": [
+        "siano, susze, kreda",
+        "okopowe i wywar",
+        "otręby pszenne",
+        "lucerna i koniczyna"
+      ],
+      "answer": 0,
+      "explain": "Pasze zatwardzające to siano, susze i kreda."
+    },
+    {
+      "q": "Działanie rozwalniające mają:",
+      "options": [
+        "siano i słoma",
+        "kreda i siemię lniane",
+        "okopowe (ziemniaki, buraki) oraz wywar",
+        "ziarna zbóż"
+      ],
+      "answer": 2,
+      "explain": "Okopowe i wywar działają rozwalniająco."
+    },
+    {
+      "q": "Do pasz pochodzenia zwierzęcego zalicza się:",
+      "options": [
+        "kiszonki",
+        "mleko, drożdże, serwatkę",
+        "plewy",
+        "otręby"
+      ],
+      "answer": 1,
+      "explain": "Paszami pochodzenia zwierzęcego są mleko, drożdże, serwatka."
+    },
+    {
+      "q": "Zawartość białka w nasionach łubinu żółtego wynosi ok.:",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "45%"
+      ],
+      "answer": 3,
+      "explain": "Łubin żółty zawiera 45% białka."
+    },
+    {
+      "q": "Substancje antyżywieniowe to substancje, które:",
+      "options": [
+        "zwiększają strawność paszy",
+        "obniżają wartość odżywczą i strawność pasz",
+        "poprawiają smakowitość paszy",
+        "konserwują paszę"
+      ],
+      "answer": 1,
+      "explain": "Substancje antyżywieniowe obniżają wartość odżywczą i strawność pasz."
+    },
+    {
+      "q": "Susze to:",
+      "options": [
+        "siano suszone na ziemi",
+        "słoma zbożowa",
+        "rozdrobniona zielonka suszona w suszarniach",
+        "wysłodki buraczane"
+      ],
+      "answer": 2,
+      "explain": "Susze to rozdrobniona zielonka suszona w suszarniach."
+    },
+    {
+      "q": "Największą wadą roślin okopowych jest:",
+      "options": [
+        "utrata właściwości odżywczych i masy podczas przechowywania",
+        "działanie zatwardzające",
+        "wysoka zawartość włókna",
+        "niska smakowitość"
+      ],
+      "answer": 0,
+      "explain": "Okopowe w czasie przechowywania tracą właściwości odżywcze i masę."
+    },
+    {
+      "q": "Za trwałość kiszonki odpowiada przede wszystkim kwas:",
+      "options": [
+        "masłowy",
+        "octowy",
+        "mlekowy",
+        "mrówkowy"
+      ],
+      "answer": 2,
+      "explain": "Trwałość kiszonki zapewnia kwas mlekowy wytwarzany przez bakterie."
+    },
+    {
+      "q": "Optymalne pH zapewniające trwałość kiszonki wynosi:",
+      "options": [
+        "6,5",
+        "5,6",
+        "7,0",
+        "4,2"
+      ],
+      "answer": 3,
+      "explain": "Trwałość kiszonki utrzymuje się przy pH 4,2."
+    },
+    {
+      "q": "Głównym warunkiem prawidłowego zakiszania jest:",
+      "options": [
+        "zapewnienie warunków beztlenowych",
+        "dostęp powietrza",
+        "wysoka temperatura",
+        "duża wilgotność magazynu"
+      ],
+      "answer": 0,
+      "explain": "Przy zakiszaniu trzeba stworzyć warunki beztlenowe przez rozdrobnienie i ugniecenie paszy."
+    },
+    {
+      "q": "Spód miejsca składowania kiszonki wykłada się słomą lub folią, aby:",
+      "options": [
+        "przyspieszyć fermentację",
+        "ograniczyć wyciek soków kiszonkarskich do wód gruntowych",
+        "podnieść pH kiszonki",
+        "ułatwić dostęp tlenu"
+      ],
+      "answer": 1,
+      "explain": "Wyłożenie spodu ogranicza wyciek soków kiszonkarskich do wód gruntowych."
+    },
+    {
+      "q": "Straty składników przy składowaniu okopowych w kopcach mogą sięgać:",
+      "options": [
+        "5%",
+        "15%",
+        "25%",
+        "50%"
+      ],
+      "answer": 3,
+      "explain": "Straty przy przechowywaniu okopowych w kopcach mogą sięgać nawet 50%."
+    },
+    {
+      "q": "Jakości kiszonki nie ocenia się na podstawie analizy:",
+      "options": [
+        "chemicznej",
+        "mikrobiologicznej",
+        "organoleptycznej",
+        "genetycznej"
+      ],
+      "answer": 3,
+      "explain": "Jakość kiszonki określa się analizą chemiczną, mikrobiologiczną i organoleptyczną."
+    },
+    {
+      "q": "Siano powinno zawierać nie więcej niż:",
+      "options": [
+        "15% wody",
+        "25% wody",
+        "40% wody",
+        "5% wody"
+      ],
+      "answer": 0,
+      "explain": "Siano powinno zawierać nie więcej niż 15% wody."
+    },
+    {
+      "q": "Najdroższą metodą suszenia siana jest:",
+      "options": [
+        "suszenie na ziemi",
+        "suszenie na rusztowaniach",
+        "suszenie wysoką temperaturą w suszarniach",
+        "dosuszanie zimnym powietrzem"
+      ],
+      "answer": 2,
+      "explain": "Suszenie wysoką temperaturą jest najdroższe ze względu na koszt suszarni i materiału grzewczego."
+    },
+    {
+      "q": "Suszenie siana na rusztowaniach w porównaniu z suszeniem na ziemi:",
+      "options": [
+        "daje większe straty",
+        "daje mniejsze straty, ale jest bardziej pracochłonne",
+        "jest najdroższą metodą",
+        "wymaga suszarni"
+      ],
+      "answer": 1,
+      "explain": "Suszenie na rusztowaniach daje mniejsze straty jakościowe, ale jest bardziej pracochłonne."
+    },
+    {
+      "q": "Pasze treściwe najczęściej przechowuje się:",
+      "options": [
+        "w kopcach",
+        "w rękawach foliowych",
+        "w silosach zbożowych lub magazynach na pryzmach",
+        "na pastwisku"
+      ],
+      "answer": 2,
+      "explain": "Pasze treściwe gromadzi się w silosach zbożowych bądź w magazynach na pryzmach."
+    },
+    {
+      "q": "Zawartość wody w paszach waha się od:",
+      "options": [
+        "5% do ponad 90%",
+        "20% do 60%",
+        "1% do 10%",
+        "40% do 50%"
+      ],
+      "answer": 0,
+      "explain": "Zawartość wody w paszy wynosi od 5% do ponad 90%."
+    },
+    {
+      "q": "Białko ogólne obejmuje:",
+      "options": [
+        "tłuszcz surowy i włókno",
+        "białko właściwe i związki azotowe niebiałkowe",
+        "skrobię i glikogen",
+        "popiół surowy"
+      ],
+      "answer": 1,
+      "explain": "Białko ogólne obejmuje białko właściwe i związki azotowe niebiałkowe (amidy)."
+    },
+    {
+      "q": "Do białek prostych (protein) należą:",
+      "options": [
+        "fosfoproteidy",
+        "glikoproteidy",
+        "nukleoproteidy",
+        "albuminy"
+      ],
+      "answer": 3,
+      "explain": "Białka proste to np. albuminy, globuliny, protaminy."
+    },
+    {
+      "q": "Najbardziej energetycznym składnikiem paszy jest:",
+      "options": [
+        "białko",
+        "włókno surowe",
+        "tłuszcz",
+        "skrobia"
+      ],
+      "answer": 2,
+      "explain": "Tłuszcz przy spalaniu daje dwa razy więcej energii niż białka czy węglowodany."
+    },
+    {
+      "q": "Węglowodany paszy dzieli się na:",
+      "options": [
+        "włókno surowe i bezazotowe związki wyciągowe",
+        "białko właściwe i amidy",
+        "makro- i mikroelementy",
+        "albuminy i globuliny"
+      ],
+      "answer": 0,
+      "explain": "Węglowodany dzieli się na włókno surowe i bezazotowe związki wyciągowe."
+    },
+    {
+      "q": "Najwięcej włókna surowego w roślinie występuje w:",
+      "options": [
+        "korzeniach",
+        "bulwach",
+        "nasionach",
+        "łodygach"
+      ],
+      "answer": 3,
+      "explain": "Najwięcej włókna jest w łodygach, najmniej w korzeniach i bulwach."
+    },
+    {
+      "q": "Do bezazotowych związków wyciągowych należą:",
+      "options": [
+        "celuloza i pektyny",
+        "skrobia, inulina, glikogen",
+        "albuminy i globuliny",
+        "wapń i fosfor"
+      ],
+      "answer": 1,
+      "explain": "BAW to łatwo rozpuszczalne węglowodany: skrobia, inulina, glikogen."
+    },
+    {
+      "q": "Popiół surowy to:",
+      "options": [
+        "związki nieorganiczne paszy",
+        "włókno surowe",
+        "tłuszcz surowy",
+        "białko właściwe"
+      ],
+      "answer": 0,
+      "explain": "Związki nieorganiczne paszy stanowią tzw. popiół surowy."
+    },
+    {
+      "q": "Bogate w składniki mineralne są przede wszystkim pasze:",
+      "options": [
+        "roślinne objętościowe",
+        "zbożowe",
+        "zwierzęce",
+        "okopowe"
+      ],
+      "answer": 2,
+      "explain": "Pasze roślinne zawierają mało popiołu, a pasze zwierzęce są bogate w składniki mineralne."
+    },
+    {
+      "q": "Plan ilości pasz potrzebnych stadu na rok lub cykl produkcyjny, z rezerwą na straty, to:",
+      "options": [
+        "bilans pasz",
+        "dawka pokarmowa",
+        "norma żywieniowa",
+        "preliminarz pasz"
+      ],
+      "answer": 3,
+      "explain": "Preliminarz pasz to zaplanowanie ilości pasz na dany okres z uwzględnieniem rezerwy i strat."
+    },
+    {
+      "q": "Bilans pasz określa:",
+      "options": [
+        "skład chemiczny paszy",
+        "różnicę między zasobnością gospodarstwa w pasze a zapotrzebowaniem stada",
+        "zawartość suchej masy",
+        "koszt jednostki paszy"
+      ],
+      "answer": 1,
+      "explain": "Bilans pasz to różnica między zasobnością gospodarstwa w pasze a zapotrzebowaniem na nie w stadzie."
+    },
+    {
+      "q": "W żywieniu bydła opasowego należy:",
+      "options": [
+        "stosować głównie słomę",
+        "dopuszczać przewagę tkanki tłuszczowej",
+        "dostarczać pasze wysokobiałkowe i energetyczne",
+        "ograniczać przyrosty"
+      ],
+      "answer": 2,
+      "explain": "Bydłu opasowemu należy dostarczać pasze wysokobiałkowe i energetyczne i nie dopuścić do przewagi tłuszczu nad mięśniami."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Która z wymienionych pasz ma walory lecznicze?",
+      "options": [
+        "Siemię lniane.",
+        "Ziemniaki.",
+        "Kreda.",
+        "Groch."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSiano jest przykładem paszy ….",
+      "options": [
+        "objętościowej suchej",
+        "objętościowej soczystej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta przyzwyczajają się do pory zadawania pasz, stanowi to element ich cyklu produkcyjnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pasza to produkt pochodzenia:",
+      "options": [
+        "roślinnego.",
+        "zwierzęcego.",
+        "syntetycznego.",
+        "mineralnego."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są przykładem paszy treściwej.",
+      "options": [
+        "Kiszonki",
+        "Ziarna zbóż"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTłuszcze ułatwiają wchłanianie rozpuszczalnych witamin i tworzą izolację cieplną w skórze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywamy pasze o dużej zawartości białka i skrobi, które dostarczają ok. 4 MJ energii w 1 kg?",
+      "options": [
+        "Wysokobiałkowe.",
+        "Objętościowe.",
+        "Lecznicze.",
+        "Treściwe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPasze objętościowe … to pasze zawierające ponad 40% wody.",
+      "options": [
+        "suche",
+        "soczyste"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano, słoma i plewy zaliczane są do pasz objętościowych soczystych",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z podanych przykładów są paszami pochodzenia zwierzęcego?",
+      "options": [
+        "Serwatka.",
+        "Mleko.",
+        "Plewy.",
+        "Drożdże."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPasze … zawierają od 10% do 20% białka.",
+      "options": [
+        "niskobiałkowe",
+        "średniobiałkowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrożdże to przykład paszy wysokobiałkowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które pasze mają charakter wzdymający?",
+      "options": [
+        "Lucerna.",
+        "Buraki.",
+        "Otręby pszenne.",
+        "Groch."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzez … pasz należy rozumieć zdolność pokrycia zapotrzebowania organizmu na poszczególne składniki poprzez ich skarmianie.",
+      "options": [
+        "wartość pokarmową",
+        "wartość energetyczną"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOtręby pszenne mają działanie mlekopędne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z podanych pasz wyróżnia się przede wszystkim walorami smakowymi?",
+      "options": [
+        "Lucerna.",
+        "Koniczyna.",
+        "Kreda.",
+        "Mięta."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest mineralno-witaminowym dodatkiem paszowym.",
+      "options": [
+        "Sól pastewna",
+        "Cukier"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa wartość pokarmową pasz wpływa tylko czynnik środowiskowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie czynniki wpływają na wartość pokarmową pasz?",
+      "options": [
+        "Faza rozwoju.",
+        "Ciśnienie atmosferyczne.",
+        "Gleba.",
+        "Występowanie zanieczyszczeń."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… cechują się wysoką zawartością energii, białka i skrobi.",
+      "options": [
+        "Pasze treściwe",
+        "Pasze objętościowe suche"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu zwierząt pasze treściwe mają znaczenie praktycznie dla jednego gatunku – bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie rośliny stosuje się w przygotowaniu pasz treściwych?",
+      "options": [
+        "Pszenica.",
+        "Ziemniaki.",
+        "Owies.",
+        "Kukurydza."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSłoma, podobnie jak siano, należy do pasz objętościowych ….",
+      "options": [
+        "suchych",
+        "treściwych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWartość pokarmowa siana zależy od składu botanicznego runi, fazy i techniki zbioru, a także sposobu suszenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Rośliny okopowe to pasze typowo:",
+      "options": [
+        "wiosenne.",
+        "zimowe.",
+        "letnie.",
+        "jesienne."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nIstotną wadą pasz objętościowych soczystych jest fakt, że w czasie przechowywania tracą swoje właściwości odżywcze oraz ….",
+      "options": [
+        "masę",
+        "smak"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z elementów prawidłowego żywienia zwierząt gospodarskich jest odpowiednie przygotowanie pasz do bezpośredniego skarmiania bądź też do ich konserwacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie efekty przynoszą procesy, którym poddaje się paszę przez skarmieniem?",
+      "options": [
+        "Zwiększenie wartości pokarmowej.",
+        "Poprawienie strawności.",
+        "Polepszenie smakowitości.",
+        "Zmiana struktury."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZaplanowanie ilości paszy dla stada na cały rok bądź cykl produkcyjny to ….",
+      "options": [
+        "preliminarz pasz",
+        "kalendarz żywieniowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z najczęstszych sposobów skracania trwałości danej paszy jest jej kiszenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Podczas jakiego procesu, któremu poddawane są pasze, powstaje kwas mlekowy?",
+      "options": [
+        "Moczenia.",
+        "Kiszenia.",
+        "Zwilżania.",
+        "Granulowania."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKiszonki przeznaczane są przeważnie dla ….",
+      "options": [
+        "bydła",
+        "trzody"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano powinno zawierać nie więcej niż 15% wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiszonki z jakich roślin najczęściej stosuje się w żywieniu zwierząt?",
+      "options": [
+        "Ziemniaki.",
+        "Rośliny motylkowe.",
+        "Otręby pszenne.",
+        "Trawa."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDosuszanie sztuczne zielonki jest rozwiązaniem ….",
+      "options": [
+        "tanim",
+        "drogim"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli chodzi o konserwację pasz treściwych nie potrzeba ich poddawać szczególnym zabiegom.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZawartość suchej masy mierzy się równolegle z zawartością ….",
+      "options": [
+        "białka",
+        "wody"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW skład związków organicznych wchodzą związki azotowe i bezazotowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych należą do związków azotowych niebiałkowych?",
+      "options": [
+        "Albuminy.",
+        "Amidy kwasów.",
+        "Peptydy.",
+        "Wolne aminokwasy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest najbardziej energetycznym składnikiem paszy, ponieważ w trakcie jego spalania powstaje dwa razy więcej energii niż przy spalaniu białek.",
+      "options": [
+        "Cukier",
+        "Tłuszcz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwiązki mineralne zawarte w paszach stanowią składnik niezbędny do prawidłowego rozwoju i przemian fizjologicznych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak inaczej nazywa się związki nieorganiczne zawarte w paszach?",
+      "options": [
+        "Kurz surowy.",
+        "Węgiel surowy.",
+        "Popiół surowy.",
+        "Krzyształy surowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPasze pochodzenia roślinnego zawierają niewielkie ilości ….",
+      "options": [
+        "białka",
+        "popiołu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWęglowodany dzieli się na włókno surowe i związki bezazotowe wyciągowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki sposób suszenia zielonki powoduje wysoką stratę składników pokarmowych?",
+      "options": [
+        "Suszenie naturalne na ziemi.",
+        "Suszenie w suszarniach w wysokich temperaturach.",
+        "Suszenie zimnym powietrzem.",
+        "Suszenie naturalne na rusztowaniach."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jak się nazywa pasza, która uległa już procesowi fermentacji?",
+      "options": [
+        "Treściwa.",
+        "Siano.",
+        "Susza.",
+        "Kiszonka."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTłuszcz jest najbardziej energetycznym składnikiem paszy, ponieważ w trakcie jego spalania powstaje dwa razy więcej energii niż przy spalaniu białek czy węglowodanów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych pasz zaliczamy do treściwych?",
+      "options": [
+        "Otręby.",
+        "Nasiona roślin strączkowych.",
+        "Śruty poekstrakcyjne.",
+        "Siano."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie kryterium dzieli pasze na treściwe, objętościowe soczyste i objętościowe suche?",
+      "options": [
+        "Dominacja składnika pokarmowego.",
+        "Koncentracja składników pokarmowych.",
+        "Działanie.",
+        "Pochodzenie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZielonki i kiszonki zaliczane są do pasz objętościowych suchych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych pasz zaliczamy do pasz objętościowych suchych?",
+      "options": [
+        "Słoma.",
+        "Serwatka.",
+        "Nasiona zbóż.",
+        "Siano."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do jakich pasz zaliczamy ziarna zbóż i mieszanki przemysłowe o zawartości białka na poziomie 10–20%?",
+      "options": [
+        "Wysokobiałkowych.",
+        "Objętościowych suchych.",
+        "Średniobiałkowych.",
+        "Niskobiałkowych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrożdże i mleko zaliczane są do pasz średniobiałkowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest zawartość białka w paszach wysokobiałkowych?",
+      "options": [
+        "20–40%",
+        "25–80%",
+        "40–60%",
+        "60–90%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrwałość kiszonki można utrzymać poprzez zapewnienie optymalnego poziomu pH – 5,2.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKreda w diecie zwierząt ma działanie lecznicze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie działanie w diecie zwierząt mają rośliny okopowe?",
+      "options": [
+        "Zatwardzające.",
+        "Rozwalniające.",
+        "Wzdymające.",
+        "Mlekopędne."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z pasz stosowanych w żywieniu zwierząt gospodarskich ma działanie wzdymające?",
+      "options": [
+        "Siemię lniane.",
+        "Lucerna.",
+        "Koniczyna.",
+        "Bobik."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNasiona roślin strączkowych i otręby to pasze objętościowe suche.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano w diecie zwierząt ma działanie zatwardzające.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest zawartość białka w nasionach łubinu żółtego?",
+      "options": [
+        "25%",
+        "35%",
+        "45%",
+        "15%"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSól pastewna jest mineralno-witaminowym dodatkiem paszowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych pasz charakteryzuje się wysoką zawartością substancji antyżywieniowych?",
+      "options": [
+        "Pszenica.",
+        "Siemię lniane.",
+        "Rośliny strączkowe.",
+        "Otręby pszenne."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProces kiszenia polega w głównej mierze na fermentacji paszy objętościowej soczystej przy udziale mikroorganizmów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych mikroorganizmów biorą udział w procesie kiszenia pasz?",
+      "options": [
+        "Bakterie kwasu octowego.",
+        "Pałeczki okrężnicy.",
+        "Bakterie kwasu masłowego.",
+        "Niesporczaki."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile wynosi optymalny poziom pH zapewniający trwałość kiszonki?",
+      "options": [
+        "6,0",
+        "2,1",
+        "4,2",
+        "3,3"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłównym warunkiem, jaki należy spełnić przy zakiszaniu pasz, jest zapewnienie dopływu tlenu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Których z wymienionych roślin nie stosuje się w przygotowaniu pasz treściwych?",
+      "options": [
+        "Buraki.",
+        "Kukurydza.",
+        "Pszenica.",
+        "Ziemniaki."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMiejsce, na którym będzie znajdowała się kiszonka, musi być odpowiednio przygotowane: spód powinien być wcześniej wyrównany i wyłożony folią, żeby ograniczyć wyciek soków kiszonkarskich do wód gruntowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano stanowią wszystkie pasze pochodzące z łąk i pastwisk, bądź też uprawy polowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych pasz działa mlekopędnie?",
+      "options": [
+        "Siemię lniane.",
+        "Siano.",
+        "Otręby pszenne.",
+        "Lucerna."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuszenie zielonek na ziemi przy niesprzyjającej pogodzie wiąże się z wysokimi stratami składników pokarmowych, stąd siano nie jest najlepszej jakości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasza objętościowa soczysta to pasza zawierająca ponad 40% wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż które z podanych związków zalicza się do związków bezazotowych wyciągowych?",
+      "options": [
+        "Inulina.",
+        "Skrobia.",
+        "Glikogen.",
+        "Pektyny."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZawartość włókna surowego w dawce pokarmowej powinna być ściśle kontrolowana i ustalana na optymalnym poziomie dla danego gatunku czy grupy zwierząt ze względu na jego trudną strawność.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które ze związków mogą być zawarte w popiele surowym?",
+      "options": [
+        "Potas.",
+        "Miedź.",
+        "Fosfor.",
+        "Wapń."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W której części rośliny występuje najwięcej włókna surowego?",
+      "options": [
+        "Korzeń.",
+        "Liście.",
+        "Łodyga.",
+        "Bulwa."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze pochodzenia zwierzęcego zawierają niewielkie ilości popiołu, za to pasze roślinne są bogate w składniki mineralne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Węglowodany dzieli się na dwie grupy. Jakie?",
+      "options": [
+        "Włókno surowe.",
+        "Związki azotowe.",
+        "Związki bezazotowe.",
+        "Związki bezazotowe wyciągowe."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWśród pasz buraki mają działanie wzdymające.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

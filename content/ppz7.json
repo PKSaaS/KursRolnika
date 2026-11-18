@@ -1,0 +1,1417 @@
+{
+  "id": "ppz7",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "System Identyfikacji i Rejestracji Zwierząt Gospodarskich, zasady obrotu",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "1. SIRZ – podstawa prawna i cele",
+      "points": [
+        "System Identyfikacji i Rejestracji Zwierząt (SIRZ) funkcjonuje od kwietnia 2004 r. na mocy Ustawy z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt.",
+        "Główny cel: zapewnienie bezpieczeństwa żywności zgodnie z wymogami UE oraz pełny dostęp do rynku produktów pochodzenia zwierzęcego z innych państw UE.",
+        "Zadanie dodatkowe: wsparcie służb hodowlanych przez umożliwienie pracy hodowlanej.",
+        "SIRZ obejmuje bydło, owce, kozy i świnie.",
+        "Ustawa z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt – Dz.U. Nr 19, poz. 872; Rozporządzenie MRiRW z 6 czerwca 2007 r. w sprawie wzoru paszportu bydła – Dz.U. Nr 112, poz. 772."
+      ]
+    },
+    {
+      "heading": "Elementy Systemu IRZ",
+      "points": [
+        "Rejestr zwierząt gospodarskich oznakowanych i siedzib stad (centralna baza danych).",
+        "Znaki identyfikacyjne (kolczyki lub tatuaż, mikrochipy).",
+        "Paszporty bydła.",
+        "Księgi rejestracji.",
+        "Dokumenty przewozowe."
+      ]
+    },
+    {
+      "heading": "Centralna Baza Danych SIRZ",
+      "points": [
+        "Tworzy ją skomputeryzowany, sieciowy system informatyczny, na którym pracuje ARiMR, jej Oddziały Regionalne i Biura Powiatowe.",
+        "Pozwala rejestrować zdarzenia i przemieszczenia zwierząt.",
+        "Przechowuje informacje o: posiadaczach zwierząt (rejestr producentów), zwierzętach i ich miejscach przebywania (rejestr siedzib stad), przemieszczeniach zwierząt (rejestr zgłoszeń zdarzeń)."
+      ]
+    },
+    {
+      "heading": "2. Obowiązki posiadacza zwierząt",
+      "points": [
+        "Uzyskanie z ARiMR numeru producenta.",
+        "Rejestracja siedziby stada.",
+        "Rejestracja zwierząt i ich prawidłowe oznakowanie.",
+        "Terminowe zgłaszanie zdarzeń związanych z oznakowanymi zwierzętami.",
+        "Systematyczne prowadzenie ksiąg rejestracji w siedzibie stada – dla każdego gatunku odrębna księga.",
+        "Przy chowie owiec i kóz – prowadzenie spisu (przynajmniej raz na rok)."
+      ]
+    },
+    {
+      "heading": "Numer producenta i druki zgłoszeniowe",
+      "points": [
+        "Obowiązek uzyskania numeru producenta wynika z Ustawy z 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.",
+        "Po numer producenta posiadacz zgłasza się do oddziału ARiMR; tam składa też wniosek o nadanie numeru siedziby stada.",
+        "Zgłoszeń dokonuje się na drukach dostępnych w biurach powiatowych i oddziałach regionalnych ARiMR.",
+        "Druki dotyczą rejestracji zwierząt: urodzenie, przywóz z państwa UE, przywóz z państwa spoza UE, zwierzęta dotychczas nierejestrowane, kupno z państwa UE.",
+        "Druki dotyczą przemieszczenia: kupno/sprzedaż, sprzedaż do państwa UE, wywóz do państwa spoza UE i do państwa UE.",
+        "Osobne druki: zgłoszenie padnięcia, zabicia i uboju w gospodarstwie (bydło, owce, kozy) oraz zgłoszenie zmiany stanu stada świń.",
+        "Strona wspólna druków zgłoszeniowych (rys. 7.1): przy zgłoszeniu dotyczącym bydła (np. padnięcia, uboju) należy zwrócić paszport do Biura Powiatowego ARiMR; dopuszcza się ubój w gospodarstwie cieląt do 6. miesiąca życia w warunkach określonych przepisami.",
+        "Druk zgłoszenia świń do rejestru (ZŚ-R, rys. 7.3): numer siedziby stada, liczba sztuk oznakowanych tatuażem i kolczykiem, typ zdarzenia (urodzenie, przywóz z państwa UE lub spoza UE – z nazwą kraju i numerem nadanym poza Polską), data zdarzenia i wystawienia, podpis.",
+        "Druk zgłoszenia bydła do rejestru (ZB-R, rys. 7.4): numer siedziby stada (zaczyna się od PL), numer identyfikacyjny zwierzęcia, matki, dawczyni zarodka/komórki jajowej, ojca/dawcy nasienia; data urodzenia i data przybycia do stada; typ użytkowy – mleczny, mięsny lub kombinowany; płeć; kod rasy; liczba cieląt przy porodzie mnogim; typ zdarzenia – urodzenie, przywóz z państwa UE lub spoza UE (nazwa kraju, numer nadany w kraju spoza UE); data wystawienia i czytelny podpis.",
+        "Druk zgłoszenia owiec albo kóz do rejestru (Zo/k-R, rys. 7.2) wypełnia się tylko dla jednego gatunku; zawiera m.in. typ użytkowy (mleczny, mięsny, kombinowany), płeć – samiec (XY) lub samica (XX), kod rasy, liczbę jagniąt/koźląt przy porodzie mnogim oraz typ zdarzenia: urodzenie, dotychczas nierejestrowane, kupno z państwa UE, przywóz z państwa niebędącego członkiem UE."
+      ],
+      "images": [
+        {
+          "src": "img/ppz7/zgloszenie-bydla.jpg",
+          "caption": "Rysunek 7.4. Druk zgłoszenia bydła do rejestru (ZB-R) – nr siedziby stada, nr zwierzęcia, matki, dawczyni zarodka, ojca; data urodzenia, typ użytkowy, płeć, kod rasy, rodzaj zdarzenia (urodzenie, przywóz)."
+        },
+        {
+          "src": "img/ppz7/zgloszenie-owiec-koz.jpg",
+          "caption": "Rysunek 7.2. Druk zgłoszenia owiec albo kóz do rejestru (Zo/k-R) – płeć oznacza się: samiec (XY), samica (XX)."
+        },
+        {
+          "src": "img/ppz7/zgloszenie-przemieszczenia.jpg",
+          "caption": "Rysunek 7.5. Zgłoszenie przemieszczenia bydła, owiec albo kóz (ZPBOK) – z siedziby stada / do siedziby stada, kupno, sprzedaż, wywóz do państwa UE lub spoza UE; podpis nabywającego i zbywającego."
+        },
+        {
+          "src": "img/ppz7/zgloszenie-padniecia-uboju.jpg",
+          "caption": "Rysunek 7.6. Zgłoszenie padnięcia, zabicia, uboju w gospodarstwie bydła, owiec albo kóz (ZPZUBOK) – podaje się też numer zakładu przetwórczego lub spalarni."
+        },
+        {
+          "src": "img/ppz7/druk-strona-wspolna.jpg",
+          "caption": "Rysunek 7.1. Strona druku zgłoszeniowego wspólna dla wszystkich zgłoszeń – adresowana do Biura Powiatowego ARiMR; uwaga o zwrocie paszportu bydła i o dopuszczalnym uboju w gospodarstwie cieląt do 6. miesiąca życia."
+        },
+        {
+          "src": "img/ppz7/zgloszenie-swin.jpg",
+          "caption": "Rysunek 7.3. Druk zgłoszenia świń do rejestru (ZŚ-R) – liczba sztuk oznakowanych tatuażem i kolczykiem, urodzenie lub przywóz."
+        }
+      ]
+    },
+    {
+      "heading": "Terminy zgłoszeń i duplikaty kolczyków",
+      "points": [
+        "Przemieszczenie bydła, owiec albo kóz zgłasza się w Biurze Powiatowym ARiMR w ciągu 7 dni od zdarzenia.",
+        "Zmianę stanu stada świń zgłasza się w ciągu 30 dni.",
+        "Przy utracie lub uszkodzeniu kolczyka posiadacz składa w Biurze ARiMR wniosek o przyznanie puli numerów duplikatów kolczyków.",
+        "Po otrzymaniu odpowiedzi składa zamówienie u dostawcy (z listy dostawców).",
+        "Wniosek o przydzielenie puli numerów duplikatów kolczyków (WPNDBOK, rys. 7.8) dotyczy bydła, owiec albo kóz – wypełnia się go tylko dla jednego gatunku; podaje się nr siedziby stada, nr kolczyka utraconego/uszkodzonego, liczbę kolczyków (jeden/dwa lub kolczyk z identyfikatorem elektronicznym dla owiec i kóz) i przyczynę (uszkodzenie/utrata)."
+      ],
+      "images": [
+        {
+          "src": "img/ppz7/zgloszenie-zmiany-stanu-swin.jpg",
+          "caption": "Rysunek 7.7. Zgłoszenie zmiany stanu stada świń (ZZSŚ) – liczba sztuk oznakowanych tatuażem i kolczykiem; kupno, sprzedaż, wywóz, padnięcie, zabicie, ubój w gospodarstwie; termin 30 dni."
+        },
+        {
+          "src": "img/ppz7/wniosek-duplikaty-kolczykow.jpg",
+          "caption": "Rysunek 7.8. Wniosek o przydzielenie puli numerów duplikatów kolczyków dla bydła, owiec albo kóz (WPNDBOK) – wypełniany tylko dla jednego gatunku; przyczyna: uszkodzenie lub utrata."
+        }
+      ]
+    },
+    {
+      "heading": "3. Oznakowanie wg gatunków",
+      "points": [
+        "Bydło – kolczyki (lub duplikaty) z numerem identyfikacyjnym na obu uszach, co pozwala na dokładną indywidualną identyfikację.",
+        "Owce i kozy nieprzeznaczone do handlu wewnątrzwspólnotowego – kolczyki lub duplikaty z numerem identyfikacyjnym.",
+        "Owce i kozy urodzone po 31 grudnia 2009 r. przeznaczone do handlu wewnątrzwspólnotowego – kolczyk z numerem na lewej małżowinie, a na prawym uchu kolczyk z elektronicznym identyfikatorem.",
+        "Świnie – tatuaż numeru na grzbiecie lub na uszach bądź kolczyk (duplikat) z numerem na lewym uchu."
+      ]
+    },
+    {
+      "heading": "Numer identyfikacyjny",
+      "points": [
+        "Numer bydła, owiec i kóz umożliwia indywidualną identyfikację osobnika oraz ustalenie miejsca urodzenia (siedziby stada).",
+        "Numer identyfikacyjny świni to numer siedziby stada, w której zwierzę się urodziło lub po raz pierwszy zostało zgłoszone do rejestru."
+      ]
+    },
+    {
+      "heading": "Kolczyki",
+      "points": [
+        "Kolczyk składa się z części żeńskiej i męskiej, zakładanych odpowiednio z przodu i z tyłu ucha.",
+        "Wykonane z giętkiego tworzywa: barwy żółtej – bydło; łososiowej – owce, kozy i świnie.",
+        "Konstrukcja ma uniemożliwiać samookaleczenie się oznakowanego zwierzęcia.",
+        "Kolczyk bydła zawiera: znak graficzny ARiMR, symbol kraju, numer serii, kod kreskowy, numer zwierzęcia i cyfrę kontrolną.",
+        "Kolczyk świni zawiera: numer siedziby stada (gospodarstwa), w którym zwierzę się urodziło, oraz znak graficzny.",
+        "Kolczyk owcy i kozy zawiera: znak graficzny, symbol kraju, numer serii, numer zwierzęcia i cyfrę kontrolną.",
+        "Zwierzęta oznacza się znakami identyfikacyjnymi: kolczykami, tatuażami lub mikrochipami (wideokast)."
+      ],
+      "images": [
+        {
+          "src": "img/ppz7/wzory-kolczykow.jpg",
+          "caption": "Rysunek 7.9. Wzory kolczyków. Bydło: znak ARiMR, symbol kraju (PL), 2 cyfry – nr serii, kod kreskowy (tylko część żeńska), 9 cyfr – nr zwierzęcia, 1 cyfra kontrolna. Świnie (okrągły): 9 cyfr – nr gospodarstwa (ostatnia to cyfra kontrolna), 3 cyfry – nr stada, w którym urodziło się zwierzę, znak ARiMR. Owce i kozy: nr serii 10 – owce, 20 – kozy. Duplikat oznacza cyfra rzymska."
+        },
+        {
+          "src": "img/ppz7/kolczyki-zenski-meski-foto.jpg",
+          "caption": "Kolczyk składa się z części żeńskiej (z numerem) i męskiej, łączonych przez ucho zwierzęcia."
+        }
+      ]
+    },
+    {
+      "heading": "Paszporty bydła",
+      "points": [
+        "Wystawia je ARiMR na podstawie poprawnego i kompletnego zgłoszenia zwierzęcia do rejestru; każda sztuka bydła ma paszport.",
+        "Wzór paszportu: Rozporządzenie MRiRW z 6 czerwca 2007 r. w sprawie wzoru paszportu bydła.",
+        "Paszport zabezpieczony jest hologramem z logo ARiMR i unikatowym numerem; hologram nakleja się w Biurze Powiatowym przed wydaniem paszportu.",
+        "Paszporty według poprzedniego wzoru zachowują ważność i nie podlegają wymianie.",
+        "Duplikat wydaje się przy uszkodzeniu lub utracie, na podstawie „Wniosku o wydanie duplikatu paszportu bydła”, w terminie 14 dni od otrzymania wniosku.",
+        "Duplikaty wydaje się tylko dla zwierząt ze spójną historią w Centralnej Bazie Danych Systemu IRZ."
+      ],
+      "images": [
+        {
+          "src": "img/ppz7/wniosek-duplikat-paszportu.jpg",
+          "caption": "Rysunek 7.10. Wniosek o wydanie duplikatu paszportu bydła – nr producenta, nr zwierzęcia, przyczyna: uszkodzenie lub utrata; paszport uszkodzony lub odzyskany po utracie trzeba zwrócić do Biura Powiatowego ARiMR."
+        }
+      ]
+    },
+    {
+      "heading": "Identyfikacja i paszporty koni",
+      "points": [
+        "Identyfikacją i rejestracją koni zajmuje się Polski Związek Hodowców Koni (PZHK), a nie ARiMR.",
+        "Zasady reguluje m.in. Ustawa z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt.",
+        "Paszport konia zawiera informacje o: posiadaczach, nazwie i numerze przyżyciowym (identyfikacyjnym), pochodzeniu, zdrowiu, szczepieniach, badaniach laboratoryjnych.",
+        "Wszystkie konie powinny mieć paszporty; dla koni ras hodowlanych – po wpisie do księgi stadnej, dla pozostałych – na zgłoszenie właściciela z numerami identyfikacyjnymi rodziców.",
+        "PZHK prowadzi księgi stadne i rejestry koni nieznanego pochodzenia.",
+        "Źrebięta urodzone po 31.12.2005 r. powinny być oznakowane elektronicznym identyfikatorem.",
+        "Konie identyfikuje się m.in. po: maści, odmianach, znakach szczególnych, wieku (wg wyglądu zębów), słownym i graficznym opisie."
+      ]
+    },
+    {
+      "heading": "4. Zasady obrotu zwierzętami",
+      "points": [
+        "Reguluje je Rozporządzenie MRiRW z 25 czerwca 2008 r. w sprawie szczegółowych wymagań weterynaryjnych dla obrotu zwierzętami, pośrednictwa w tym obrocie lub skupu zwierząt.",
+        "Przedmiotem obrotu mogą być wyłącznie zwierzęta: oznakowane zgodnie z SIRZ; zdrowe, o określonym pochodzeniu i przeznaczeniu; nieobjęte zakazem wyprowadzenia z gospodarstwa; posiadające świadectwo zdrowia.",
+        "Odstępstwo dla owiec i kóz objętych zakazem wyprowadzenia: dostarczenie bezpośrednio do krajowej rzeźni wskazanej przez Powiatowego Lekarza Weterynarii i niezwłoczny ubój, brak kontaktu z innymi zwierzętami w transporcie, zgoda powiatowego lekarza weterynarii.",
+        "Rozporządzenie określa też wymagania dla wyposażenia budynków, w których odbywa się obrót.",
+        "Pośrednictwo w obrocie może prowadzić osoba fizyczna, prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej.",
+        "Transport zwierząt w obrocie: Rozporządzenie Rady (WE) nr 1/2005 z 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu.",
+        "Zakaz wyprowadzenia zwierząt z gospodarstwa wydaje się w związku ze zwalczaniem chorób zakaźnych zwierząt."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "SIRZ – rozwinięcie skrótu",
+      "back": "System Identyfikacji i Rejestracji Zwierząt."
+    },
+    {
+      "front": "Od kiedy funkcjonuje SIRZ?",
+      "back": "Od kwietnia 2004 r."
+    },
+    {
+      "front": "Podstawa prawna SIRZ",
+      "back": "Ustawa z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt."
+    },
+    {
+      "front": "Główny cel SIRZ",
+      "back": "Bezpieczeństwo żywności zgodnie z wymogami UE i pełny dostęp do rynku produktów zwierzęcych innych państw UE."
+    },
+    {
+      "front": "Dodatkowe zadanie SIRZ wobec hodowli",
+      "back": "Wsparcie służb hodowlanych przez umożliwienie pracy hodowlanej."
+    },
+    {
+      "front": "Jakie gatunki obejmuje SIRZ?",
+      "back": "Bydło, owce, kozy i świnie."
+    },
+    {
+      "front": "Elementy SIRZ (5)",
+      "back": "Rejestr zwierząt i siedzib stad (centralna baza), znaki identyfikacyjne, paszporty bydła, księgi rejestracji, dokumenty przewozowe."
+    },
+    {
+      "front": "Rodzaje znaków identyfikacyjnych w SIRZ",
+      "back": "Kolczyki lub tatuaż, mikrochipy."
+    },
+    {
+      "front": "Kto pracuje na Centralnej Bazie Danych SIRZ?",
+      "back": "ARiMR, jej Oddziały Regionalne i Biura Powiatowe."
+    },
+    {
+      "front": "Czym jest Centralna Baza Danych SIRZ?",
+      "back": "Skomputeryzowanym, sieciowym systemem informatycznym."
+    },
+    {
+      "front": "Trzy rejestry w bazie danych SIRZ",
+      "back": "Rejestr producentów, rejestr siedzib stad, rejestr zgłoszeń zdarzeń dotyczących zwierząt."
+    },
+    {
+      "front": "Rejestr producentów zawiera dane o…",
+      "back": "Posiadaczach zwierząt."
+    },
+    {
+      "front": "Rejestr siedzib stad zawiera dane o…",
+      "back": "Zwierzętach i ich miejscach przebywania."
+    },
+    {
+      "front": "Rejestr zgłoszeń zdarzeń zawiera dane o…",
+      "back": "Przemieszczeniach zwierząt."
+    },
+    {
+      "front": "Pierwszy obowiązek posiadacza zwierząt w SIRZ",
+      "back": "Uzyskanie z ARiMR numeru producenta."
+    },
+    {
+      "front": "Obowiązki posiadacza zwierząt w SIRZ (6)",
+      "back": "Numer producenta, rejestracja siedziby stada, rejestracja i oznakowanie zwierząt, terminowe zgłoszenia zdarzeń, księgi rejestracji, spis owiec i kóz."
+    },
+    {
+      "front": "Ile ksiąg rejestracji prowadzi posiadacz kilku gatunków?",
+      "back": "Odrębną księgę dla każdego gatunku."
+    },
+    {
+      "front": "Gdzie prowadzi się księgę rejestracji?",
+      "back": "W siedzibie stada."
+    },
+    {
+      "front": "Jak często prowadzi się spis owiec i kóz?",
+      "back": "Przynajmniej raz na rok."
+    },
+    {
+      "front": "Ustawa nakładająca obowiązek uzyskania numeru producenta – data",
+      "back": "Ustawa z 18 grudnia 2003 r. o krajowym systemie ewidencji producentów…"
+    },
+    {
+      "front": "Gdzie składa się wniosek o nadanie numeru siedziby stada?",
+      "back": "W oddziale ARiMR."
+    },
+    {
+      "front": "Gdzie dostępne są druki zgłoszeniowe SIRZ?",
+      "back": "W biurach powiatowych i oddziałach regionalnych ARiMR."
+    },
+    {
+      "front": "Rodzaje zgłoszeń rejestracji zwierząt",
+      "back": "Urodzenie, przywóz z UE, przywóz spoza UE, zwierzęta dotychczas nierejestrowane, kupno z państwa UE."
+    },
+    {
+      "front": "Rodzaje zgłoszeń przemieszczenia zwierząt",
+      "back": "Kupno/sprzedaż, sprzedaż do państwa UE, wywóz do państwa spoza UE, wywóz do państwa UE."
+    },
+    {
+      "front": "Termin zgłoszenia przemieszczenia bydła, owiec i kóz",
+      "back": "7 dni od zdarzenia (Biuro Powiatowe ARiMR)."
+    },
+    {
+      "front": "Termin zgłoszenia zmiany stanu stada świń",
+      "back": "30 dni."
+    },
+    {
+      "front": "Gdzie zgłasza się przemieszczenie bydła?",
+      "back": "W Biurze Powiatowym ARiMR."
+    },
+    {
+      "front": "Co robi posiadacz po utracie lub uszkodzeniu kolczyka?",
+      "back": "Składa w Biurze ARiMR wniosek o przyznanie puli numerów duplikatów kolczyków."
+    },
+    {
+      "front": "U kogo zamawia się duplikaty kolczyków?",
+      "back": "U dostawcy z listy dostawców – po otrzymaniu odpowiedzi z ARiMR."
+    },
+    {
+      "front": "Oznakowanie bydła",
+      "back": "Kolczyki (lub duplikaty) z numerem identyfikacyjnym na obu uszach."
+    },
+    {
+      "front": "Oznakowanie owiec i kóz nieprzeznaczonych do handlu wewnątrzwspólnotowego",
+      "back": "Kolczyki lub duplikaty z numerem identyfikacyjnym."
+    },
+    {
+      "front": "Oznakowanie owiec i kóz urodzonych po 31.12.2009 r. przeznaczonych do handlu wewnątrzwspólnotowego",
+      "back": "Lewa małżowina – kolczyk z numerem; prawe ucho – kolczyk z elektronicznym identyfikatorem."
+    },
+    {
+      "front": "Na którym uchu owcy (handel wewnątrzwspólnotowy) zakłada się kolczyk elektroniczny?",
+      "back": "Na prawym."
+    },
+    {
+      "front": "Data graniczna urodzenia owiec i kóz wymagających identyfikatora elektronicznego (handel wewnątrzwspólnotowy)",
+      "back": "Urodzone po 31 grudnia 2009 r."
+    },
+    {
+      "front": "Oznakowanie świń",
+      "back": "Tatuaż numeru na grzbiecie lub na uszach albo kolczyk (duplikat) na lewym uchu."
+    },
+    {
+      "front": "Na którym uchu świni zakłada się kolczyk?",
+      "back": "Na lewym."
+    },
+    {
+      "front": "Co umożliwia numer identyfikacyjny bydła, owiec i kóz?",
+      "back": "Indywidualną identyfikację osobnika i ustalenie miejsca urodzenia (siedziby stada)."
+    },
+    {
+      "front": "Numer identyfikacyjny świni to…",
+      "back": "Numer siedziby stada, w której się urodziła lub po raz pierwszy została zgłoszona do rejestru."
+    },
+    {
+      "front": "Z jakich części składa się kolczyk?",
+      "back": "Z części żeńskiej i męskiej."
+    },
+    {
+      "front": "Jak zakłada się części kolczyka?",
+      "back": "Część żeńską z przodu ucha, męską z tyłu."
+    },
+    {
+      "front": "Kolor kolczyków dla bydła",
+      "back": "Żółty."
+    },
+    {
+      "front": "Kolor kolczyków dla owiec, kóz i świń",
+      "back": "Łososiowy."
+    },
+    {
+      "front": "Z czego wykonane są kolczyki i jaki mają wymóg konstrukcyjny?",
+      "back": "Z giętkiego tworzywa; nie mogą umożliwiać samookaleczenia zwierzęcia."
+    },
+    {
+      "front": "Kto wystawia paszporty bydła?",
+      "back": "ARiMR."
+    },
+    {
+      "front": "Na jakiej podstawie wystawia się paszport bydła?",
+      "back": "Poprawnego i kompletnego zgłoszenia zwierzęcia do rejestru."
+    },
+    {
+      "front": "Akt określający wzór paszportu bydła",
+      "back": "Rozporządzenie MRiRW z 6 czerwca 2007 r. w sprawie wzoru paszportu bydła."
+    },
+    {
+      "front": "Zabezpieczenie paszportu bydła",
+      "back": "Hologram z logo ARiMR i unikatowy numer."
+    },
+    {
+      "front": "Gdzie nakleja się hologram na paszport bydła?",
+      "back": "W Biurze Powiatowym ARiMR, przed wydaniem paszportu."
+    },
+    {
+      "front": "Czy paszporty bydła wg starego wzoru trzeba wymienić?",
+      "back": "Nie – zachowują ważność i nie podlegają wymianie."
+    },
+    {
+      "front": "W jakim terminie wydaje się duplikat paszportu bydła?",
+      "back": "14 dni od otrzymania wniosku."
+    },
+    {
+      "front": "Kiedy wydaje się duplikat paszportu bydła?",
+      "back": "Przy uszkodzeniu lub utracie paszportu, na wniosek, tylko dla zwierząt ze spójną historią w bazie IRZ."
+    },
+    {
+      "front": "Kto zajmuje się identyfikacją i rejestracją koni?",
+      "back": "Polski Związek Hodowców Koni (PZHK)."
+    },
+    {
+      "front": "Informacje w paszporcie konia",
+      "back": "Posiadacze, nazwa i numer przyżyciowy, pochodzenie, zdrowie, szczepienia, badania laboratoryjne."
+    },
+    {
+      "front": "Warunek wystawienia paszportu dla konia rasy hodowlanej",
+      "back": "Wcześniejszy wpis do księgi stadnej."
+    },
+    {
+      "front": "Jak uzyskuje się paszport dla konia spoza ras hodowlanych?",
+      "back": "Przez zgłoszenie właściciela z numerami identyfikacyjnymi rodziców konia."
+    },
+    {
+      "front": "Co prowadzi PZHK?",
+      "back": "Księgi stadne i rejestry koni nieznanego pochodzenia."
+    },
+    {
+      "front": "Które źrebięta muszą mieć elektroniczny identyfikator?",
+      "back": "Urodzone po 31.12.2005 r."
+    },
+    {
+      "front": "Cechy, po których identyfikuje się konie",
+      "back": "Maść, odmiany, znaki szczególne, wiek wg zębów, opis słowny i graficzny."
+    },
+    {
+      "front": "Jak określa się wiek konia przy identyfikacji?",
+      "back": "Na podstawie wyglądu zębów."
+    },
+    {
+      "front": "Akt regulujący zasady obrotu zwierzętami",
+      "back": "Rozporządzenie MRiRW z 25 czerwca 2008 r. (wymagania weterynaryjne dla obrotu, pośrednictwa, skupu)."
+    },
+    {
+      "front": "Jakie zwierzęta mogą być przedmiotem obrotu?",
+      "back": "Oznakowane wg SIRZ; zdrowe, o określonym pochodzeniu i przeznaczeniu; bez zakazu wyprowadzenia; ze świadectwem zdrowia."
+    },
+    {
+      "front": "Dla jakich gatunków są odstępstwa od zakazu wyprowadzenia z gospodarstwa?",
+      "back": "Dla owiec i kóz."
+    },
+    {
+      "front": "Warunki odstępstwa od zakazu wyprowadzenia owiec i kóz",
+      "back": "Bezpośrednio do krajowej rzeźni wskazanej przez PLW i niezwłoczny ubój; brak kontaktu z innymi zwierzętami w transporcie; zgoda PLW."
+    },
+    {
+      "front": "Kto wskazuje rzeźnię przy odstępstwie od zakazu wyprowadzenia?",
+      "back": "Powiatowy Lekarz Weterynarii."
+    },
+    {
+      "front": "Kto może prowadzić pośrednictwo w obrocie zwierzętami?",
+      "back": "Osoba fizyczna, osoba prawna lub jednostka organizacyjna bez osobowości prawnej."
+    },
+    {
+      "front": "Akt UE regulujący transport zwierząt w obrocie",
+      "back": "Rozporządzenie Rady (WE) nr 1/2005 z 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu."
+    },
+    {
+      "front": "Informacje na kolczyku bydła",
+      "back": "Znak graficzny ARiMR, symbol kraju, numer serii, kod kreskowy, numer zwierzęcia, cyfra kontrolna."
+    },
+    {
+      "front": "Informacje na kolczyku świni",
+      "back": "Numer siedziby stada (gospodarstwa), w którym zwierzę się urodziło, i znak graficzny."
+    },
+    {
+      "front": "Informacje na kolczyku owcy i kozy",
+      "back": "Znak graficzny, symbol kraju, numer serii, numer zwierzęcia, cyfra kontrolna."
+    },
+    {
+      "front": "Dla jakiego gatunku jest ten wzór kolczyka?",
+      "back": "Bydło – kolczyk żółty, na obu uszach; część żeńska z kodem kreskowym; 2 cyfry nr serii, 9 cyfr nr zwierzęcia, 1 cyfra kontrolna.",
+      "img": "img/ppz7/kolczyk-bydlo.jpg"
+    },
+    {
+      "front": "Dla jakiego gatunku jest ten wzór kolczyka?",
+      "back": "Świnie – kolczyk okrągły z numerem siedziby stada (9 cyfr gospodarstwa, ostatnia kontrolna + 3 cyfry nr stada, w którym urodziło się zwierzę).",
+      "img": "img/ppz7/kolczyk-swinie.jpg"
+    },
+    {
+      "front": "Dla jakiego gatunku jest ten wzór kolczyka?",
+      "back": "Owce i kozy – nr serii 10 dla owiec, 20 dla kóz; 9 cyfr nr zwierzęcia, 1 cyfra kontrolna.",
+      "img": "img/ppz7/kolczyk-owce-kozy.jpg"
+    },
+    {
+      "front": "Do jakiego wieku dopuszcza się ubój cieląt w gospodarstwie (wg druku ARiMR)?",
+      "back": "Do 6. miesiąca życia – w warunkach określonych odpowiednimi przepisami."
+    },
+    {
+      "front": "Co należy zwrócić do Biura Powiatowego ARiMR przy zgłoszeniu padnięcia/uboju bydła?",
+      "back": "Paszport bydła."
+    },
+    {
+      "front": "Wniosek o pulę numerów duplikatów kolczyków – dla ilu gatunków wypełnia się jeden druk?",
+      "back": "Tylko dla jednego gatunku (bydło, owce albo kozy); podaje się nr kolczyka utraconego/uszkodzonego i przyczynę: uszkodzenie lub utrata.",
+      "img": "img/ppz7/wniosek-duplikaty-kolczykow.jpg"
+    },
+    {
+      "front": "Typy użytkowe zaznaczane na druku zgłoszenia bydła lub owiec/kóz do rejestru",
+      "back": "Mleczny, mięsny, kombinowany."
+    },
+    {
+      "front": "Typy zdarzeń na druku zgłoszenia owiec albo kóz do rejestru (Zo/k-R)",
+      "back": "Urodzenie, dotychczas nierejestrowane, kupno z państwa UE, przywóz z państwa niebędącego członkiem UE (druk wypełnia się tylko dla jednego gatunku)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "System Identyfikacji i Rejestracji Zwierząt funkcjonuje w Polsce od:",
+      "options": [
+        "kwietnia 2004 r.",
+        "stycznia 2003 r.",
+        "stycznia 2009 r.",
+        "czerwca 2007 r."
+      ],
+      "answer": 0,
+      "explain": "SIRZ zaczął funkcjonować od kwietnia 2004 r."
+    },
+    {
+      "q": "Podstawą prawną SIRZ jest ustawa z dnia:",
+      "options": [
+        "21 sierpnia 1997 r.",
+        "10 lipca 2007 r.",
+        "2 kwietnia 2004 r.",
+        "11 marca 2004 r."
+      ],
+      "answer": 2,
+      "explain": "SIRZ działa na mocy Ustawy z 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt."
+    },
+    {
+      "q": "Głównym celem SIRZ jest:",
+      "options": [
+        "ustalanie cen skupu zwierząt",
+        "zapewnienie bezpieczeństwa żywności zgodnie z wymogami UE",
+        "kontrola dobrostanu w transporcie",
+        "naliczanie płatności bezpośrednich"
+      ],
+      "answer": 1,
+      "explain": "Głównym celem SIRZ jest bezpieczeństwo żywności zgodne z wymogami UE."
+    },
+    {
+      "q": "Systemem IRZ prowadzonym przez ARiMR NIE są objęte:",
+      "options": [
+        "bydło",
+        "owce",
+        "świnie",
+        "konie"
+      ],
+      "answer": 3,
+      "explain": "SIRZ obejmuje bydło, owce, kozy i świnie; konie rejestruje PZHK."
+    },
+    {
+      "q": "Elementem SIRZ NIE jest:",
+      "options": [
+        "paszport bydła",
+        "księga rejestracji",
+        "dokument przewozowy",
+        "świadectwo użytkowości mlecznej"
+      ],
+      "answer": 3,
+      "explain": "Elementy SIRZ: rejestr, znaki identyfikacyjne, paszporty bydła, księgi rejestracji, dokumenty przewozowe."
+    },
+    {
+      "q": "Na Centralnej Bazie Danych SIRZ pracuje:",
+      "options": [
+        "Inspekcja Weterynaryjna",
+        "ARiMR",
+        "Polski Związek Hodowców Koni",
+        "Ośrodek Doradztwa Rolniczego"
+      ],
+      "answer": 1,
+      "explain": "Na bazie pracuje ARiMR, jej Oddziały Regionalne i Biura Powiatowe."
+    },
+    {
+      "q": "Informacje o przemieszczeniach zwierząt przechowuje:",
+      "options": [
+        "rejestr producentów",
+        "rejestr siedzib stad",
+        "rejestr zgłoszeń zdarzeń dotyczących zwierząt",
+        "księga stadna"
+      ],
+      "answer": 2,
+      "explain": "Przemieszczenia – rejestr zgłoszeń zdarzeń dotyczących zwierząt."
+    },
+    {
+      "q": "Informacje o posiadaczach zwierząt zawiera:",
+      "options": [
+        "rejestr producentów",
+        "rejestr siedzib stad",
+        "rejestr zgłoszeń zdarzeń",
+        "księga rejestracji"
+      ],
+      "answer": 0,
+      "explain": "Posiadacze zwierząt – rejestr producentów."
+    },
+    {
+      "q": "Numer producenta posiadacz zwierząt uzyskuje w:",
+      "options": [
+        "ARiMR",
+        "Inspekcji Weterynaryjnej",
+        "urzędzie gminy",
+        "izbie rolniczej"
+      ],
+      "answer": 0,
+      "explain": "Pierwszy obowiązek to uzyskanie z ARiMR numeru producenta."
+    },
+    {
+      "q": "Księgi rejestracji zwierząt prowadzi się:",
+      "options": [
+        "jedną wspólną dla wszystkich gatunków",
+        "wyłącznie w biurze ARiMR",
+        "odrębnie dla każdego gatunku, w siedzibie stada",
+        "tylko dla bydła"
+      ],
+      "answer": 2,
+      "explain": "Księgi prowadzi się w siedzibie stada – dla każdego gatunku odrębna księga."
+    },
+    {
+      "q": "Spis owiec i kóz należy prowadzić:",
+      "options": [
+        "raz na 3 lata",
+        "przynajmniej raz na rok",
+        "co miesiąc",
+        "tylko przy sprzedaży"
+      ],
+      "answer": 1,
+      "explain": "Przy chowie owiec i kóz prowadzi się spis przynajmniej raz na rok."
+    },
+    {
+      "q": "Obowiązek uzyskania numeru producenta wynika z ustawy z:",
+      "options": [
+        "2 kwietnia 2004 r.",
+        "21 sierpnia 1997 r.",
+        "25 czerwca 2008 r.",
+        "18 grudnia 2003 r."
+      ],
+      "answer": 3,
+      "explain": "Ustawa z 18 grudnia 2003 r. o krajowym systemie ewidencji producentów…"
+    },
+    {
+      "q": "Przemieszczenie bydła, owiec albo kóz należy zgłosić w ARiMR w ciągu:",
+      "options": [
+        "3 dni",
+        "14 dni",
+        "30 dni",
+        "7 dni"
+      ],
+      "answer": 3,
+      "explain": "Przemieszczenie bydła, owiec albo kóz zgłasza się w ciągu siedmiu dni."
+    },
+    {
+      "q": "Zmianę stanu stada świń zgłasza się w ciągu:",
+      "options": [
+        "7 dni",
+        "30 dni",
+        "14 dni",
+        "48 godzin"
+      ],
+      "answer": 1,
+      "explain": "Posiadacz świń zgłasza zmianę stanu stada w ciągu 30 dni."
+    },
+    {
+      "q": "W razie utraty kolczyka posiadacz zwierzęcia składa w ARiMR:",
+      "options": [
+        "wniosek o duplikat paszportu",
+        "zgłoszenie padnięcia",
+        "wniosek o przyznanie puli numerów duplikatów kolczyków",
+        "wniosek o nowy numer siedziby stada"
+      ],
+      "answer": 2,
+      "explain": "Przy utracie kolczyka składa się wniosek o przyznanie puli numerów duplikatów kolczyków."
+    },
+    {
+      "q": "Bydło znakuje się:",
+      "options": [
+        "kolczykami na obu uszach",
+        "kolczykiem na lewym uchu",
+        "tatuażem na grzbiecie",
+        "wyłącznie mikrochipem"
+      ],
+      "answer": 0,
+      "explain": "Bydłu zakłada się kolczyki na obu uszach."
+    },
+    {
+      "q": "Owce urodzone po 31.12.2009 r. przeznaczone do handlu wewnątrzwspólnotowego mają kolczyk elektroniczny na:",
+      "options": [
+        "prawym uchu",
+        "lewym uchu",
+        "obu uszach",
+        "grzbiecie"
+      ],
+      "answer": 0,
+      "explain": "Lewa małżowina – kolczyk z numerem, prawe ucho – kolczyk z elektronicznym identyfikatorem."
+    },
+    {
+      "q": "Świnię można oznakować kolczykiem na:",
+      "options": [
+        "prawym uchu",
+        "obu uszach jednocześnie",
+        "lewym uchu",
+        "ogonie"
+      ],
+      "answer": 2,
+      "explain": "Świnie – tatuaż na grzbiecie lub uszach albo kolczyk na lewym uchu."
+    },
+    {
+      "q": "Numerem identyfikacyjnym świni jest:",
+      "options": [
+        "indywidualny numer osobnika",
+        "numer siedziby stada, w której się urodziła lub pierwszy raz została zgłoszona",
+        "numer producenta",
+        "numer paszportu"
+      ],
+      "answer": 1,
+      "explain": "Numer identyfikacyjny świni to numer siedziby stada urodzenia lub pierwszego zgłoszenia."
+    },
+    {
+      "q": "Numer identyfikacyjny bydła, owiec i kóz pozwala dodatkowo ustalić:",
+      "options": [
+        "rasę zwierzęcia",
+        "wartość hodowlaną",
+        "datę uboju",
+        "miejsce urodzenia (siedzibę stada)"
+      ],
+      "answer": 3,
+      "explain": "Numer pozwala na identyfikację osobnika oraz ustalenie miejsca urodzenia."
+    },
+    {
+      "q": "Kolczyki dla bydła mają barwę:",
+      "options": [
+        "łososiową",
+        "zieloną",
+        "niebieską",
+        "żółtą"
+      ],
+      "answer": 3,
+      "explain": "Barwa żółta – bydło."
+    },
+    {
+      "q": "Kolczyki dla owiec, kóz i świń mają barwę:",
+      "options": [
+        "żółtą",
+        "łososiową",
+        "białą",
+        "czerwoną"
+      ],
+      "answer": 1,
+      "explain": "Barwa łososiowa – owce, kozy i świnie."
+    },
+    {
+      "q": "Część żeńską kolczyka zakłada się:",
+      "options": [
+        "z tyłu ucha",
+        "na grzbiecie",
+        "z przodu ucha",
+        "na ogonie"
+      ],
+      "answer": 2,
+      "explain": "Części żeńska i męska zakładane są odpowiednio z przodu i z tyłu ucha."
+    },
+    {
+      "q": "Paszporty bydła wystawia:",
+      "options": [
+        "ARiMR",
+        "Powiatowy Lekarz Weterynarii",
+        "PZHK",
+        "starosta powiatowy"
+      ],
+      "answer": 0,
+      "explain": "Paszporty bydła wystawia ARiMR."
+    },
+    {
+      "q": "Paszport bydła zabezpieczony jest:",
+      "options": [
+        "hologramem z logo ARiMR i unikatowym numerem",
+        "pieczęcią lekarza weterynarii",
+        "znakiem wodnym MRiRW",
+        "chipem RFID"
+      ],
+      "answer": 0,
+      "explain": "Każdy paszport zabezpieczony jest hologramem z logo ARiMR oraz unikatowym numerem."
+    },
+    {
+      "q": "Duplikat paszportu bydła wydaje się w terminie:",
+      "options": [
+        "7 dni",
+        "30 dni",
+        "14 dni od otrzymania wniosku",
+        "3 miesięcy"
+      ],
+      "answer": 2,
+      "explain": "Duplikat wydawany jest w terminie 14 dni od dnia otrzymania wniosku."
+    },
+    {
+      "q": "Duplikat paszportu bydła wydaje się tylko dla zwierząt:",
+      "options": [
+        "młodszych niż 6 miesięcy",
+        "ze spójną historią w Centralnej Bazie Danych",
+        "przeznaczonych na eksport",
+        "ras hodowlanych"
+      ],
+      "answer": 1,
+      "explain": "Duplikaty wydawane są tylko dla zwierząt ze spójną historią w bazie IRZ."
+    },
+    {
+      "q": "Paszporty bydła wydrukowane wg poprzedniego wzoru:",
+      "options": [
+        "trzeba wymienić w ciągu roku",
+        "tracą ważność",
+        "wymagają ponownej rejestracji",
+        "zachowują ważność i nie podlegają wymianie"
+      ],
+      "answer": 3,
+      "explain": "Paszporty wg poprzedniego wzoru zachowują ważność i nie podlegają wymianie."
+    },
+    {
+      "q": "Identyfikacją i rejestracją koni zajmuje się:",
+      "options": [
+        "ARiMR",
+        "Inspekcja Weterynaryjna",
+        "Krajowe Centrum Hodowli Zwierząt",
+        "Polski Związek Hodowców Koni"
+      ],
+      "answer": 3,
+      "explain": "Obowiązki w zakresie koni należą do Polskiego Związku Hodowców Koni."
+    },
+    {
+      "q": "Elektronicznym identyfikatorem powinny być oznakowane źrebięta urodzone po:",
+      "options": [
+        "31.12.2009 r.",
+        "31.12.2005 r.",
+        "1.05.2004 r.",
+        "31.12.2013 r."
+      ],
+      "answer": 1,
+      "explain": "Źrebięta urodzone po 31.12.2005 r. powinny mieć elektroniczny identyfikator."
+    },
+    {
+      "q": "Paszport dla konia rasy hodowlanej wystawia się po:",
+      "options": [
+        "zgłoszeniu w ARiMR",
+        "oznakowaniu kolczykiem",
+        "wpisaniu konia do księgi stadnej",
+        "badaniu krwi"
+      ],
+      "answer": 2,
+      "explain": "Paszport dla koni ras hodowlanych – po wpisaniu do księgi stadnej."
+    },
+    {
+      "q": "Wiek konia przy identyfikacji określa się na podstawie:",
+      "options": [
+        "wyglądu zębów",
+        "maści",
+        "wysokości w kłębie",
+        "długości grzywy"
+      ],
+      "answer": 0,
+      "explain": "Konie identyfikuje się m.in. po wieku określanym na podstawie wyglądu zębów."
+    },
+    {
+      "q": "Paszport konia NIE zawiera informacji o:",
+      "options": [
+        "wydajności mlecznej matki",
+        "szczepieniach",
+        "pochodzeniu",
+        "badaniach laboratoryjnych"
+      ],
+      "answer": 0,
+      "explain": "Paszport konia zawiera dane o posiadaczach, nazwie i numerze, pochodzeniu, zdrowiu, szczepieniach i badaniach."
+    },
+    {
+      "q": "Zasady obrotu zwierzętami określa Rozporządzenie MRiRW z dnia:",
+      "options": [
+        "6 czerwca 2007 r.",
+        "28 czerwca 2010 r.",
+        "25 czerwca 2008 r.",
+        "2 września 2003 r."
+      ],
+      "answer": 2,
+      "explain": "Zasady obrotu określa Rozporządzenie MRiRW z 25 czerwca 2008 r."
+    },
+    {
+      "q": "Przedmiotem obrotu mogą być zwierzęta, które m.in.:",
+      "options": [
+        "mają co najmniej 2 lata",
+        "posiadają świadectwo zdrowia",
+        "nie mają kolczyków",
+        "są objęte zakazem wyprowadzenia"
+      ],
+      "answer": 1,
+      "explain": "Zwierzęta w obrocie muszą m.in. posiadać świadectwo zdrowia."
+    },
+    {
+      "q": "Odstępstwo od zakazu wyprowadzenia z gospodarstwa dotyczy:",
+      "options": [
+        "bydła i świń",
+        "koni",
+        "drobiu",
+        "owiec i kóz"
+      ],
+      "answer": 3,
+      "explain": "Odstępstwa od zakazu wyprowadzenia dotyczą owiec i kóz."
+    },
+    {
+      "q": "Rzeźnię dla owiec i kóz objętych zakazem wyprowadzenia wskazuje:",
+      "options": [
+        "ARiMR",
+        "wójt gminy",
+        "właściciel zwierząt",
+        "Powiatowy Lekarz Weterynarii"
+      ],
+      "answer": 3,
+      "explain": "Zwierzęta trafiają do rzeźni wskazanej przez Powiatowego Lekarza Weterynarii."
+    },
+    {
+      "q": "Transport zwierząt w obrocie odbywa się zgodnie z:",
+      "options": [
+        "Ustawą o nawozach i nawożeniu",
+        "Rozporządzeniem Rady (WE) nr 1/2005",
+        "Kodeksem Dobrej Praktyki Rolniczej",
+        "Rozporządzeniem o wzorze paszportu bydła"
+      ],
+      "answer": 1,
+      "explain": "Transport reguluje Rozporządzenie Rady (WE) nr 1/2005 z 22 grudnia 2004 r."
+    },
+    {
+      "q": "Kod kreskowy, oprócz znaku graficznego ARiMR, symbolu kraju, numeru serii, numeru zwierzęcia i cyfry kontrolnej, zawiera kolczyk:",
+      "options": [
+        "świni",
+        "bydła",
+        "konia",
+        "kury"
+      ],
+      "answer": 1,
+      "explain": "Według wideokastu kod kreskowy wymieniono wśród informacji na kolczyku bydła."
+    },
+    {
+      "q": "Okrągły kolczyk z 9-cyfrowym numerem gospodarstwa i 3-cyfrowym numerem stada stosuje się u:",
+      "options": [
+        "świń",
+        "bydła",
+        "owiec i kóz",
+        "koni"
+      ],
+      "answer": 0,
+      "explain": "Kolczyk świni zawiera numer siedziby stada, w którym zwierzę się urodziło.",
+      "img": "img/ppz7/kolczyk-swinie.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Kiedy został wprowadzony w życie System Identyfikacji i Rejestracji Zwierząt?",
+      "options": [
+        "Od czerwca 2007 r.",
+        "Od marca 2010 r.",
+        "Od kwietnia 2004 r.",
+        "Od września 2012 r."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPosiadacz bydła, owiec albo kóz musi zgłosić przemieszczenie zwierzęcia w Biurze Powiatowym ARiMR w ciągu … dni od zajścia tego zdarzenia.",
+      "options": [
+        "30",
+        "7"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW ramach Systemu IRZ posiadacz zwierząt jest zobowiązany systematyczne prowadzić księgi rejestracji w siedzibie stada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki jest główny cel SIRZ?",
+      "options": [
+        "Dążenie do zapewnienia bezpieczeństwa żywności zgodnie z wymogami Unii Europejskiej.",
+        "Udostępnienie towarów z krajów spoza krajów UE.",
+        "Uzyskanie pełnego dostępu do rynku produktów pochodzenia zwierzęcego z innych państw UE."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKolczyki do oznakowania bydła wykonane są z giętkiego tworzywa barwy ….",
+      "options": [
+        "łososiowej.",
+        "żółtej."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOznakowanie zwierząt gospodarskich różni się nieco w zależności od gatunku oraz przeznaczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie posiadacz zwierząt składa wniosek o nadanie numeru siedziby stada?",
+      "options": [
+        "W Agencji Rynku Rolnego.",
+        "W Agencji Restrukturyzacji i Modernizacji Rolnictwa.",
+        "W Agencji Nieruchomości Rolnych.",
+        "W rolniczych spółdzielniach produkcyjnych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku chowu owiec i kóz obowiązkiem posiadacza zwierząt jest prowadzenie spisu ….",
+      "options": [
+        "przynajmniej co drugi kwartał",
+        "przynajmniej raz na rok"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku bydła na grzbiecie lub na uszach tatuuje się numer identyfikacyjny danego osobnika bądź na lewe ucho zakłada się kolczyk lub duplikat z numerem identyfikacyjnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie gatunki obejmuje System Identyfikacji i Rejestracji Zwierząt?",
+      "options": [
+        "Bydło.",
+        "Owce.",
+        "Kozy.",
+        "Drób.",
+        "Trzodę chlewną."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPaszporty bydła są wystawiane przez … na podstawie poprawnego i kompletnego zgłoszenia zwierzęcia do rejestru.",
+      "options": [
+        "Agencję Restrukturyzacji i Modernizacji Rolnictwa",
+        "Agencję Rynku Rolnego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKolczyki do oznakowania zwierząt składają się z dwóch części:męskiej i żeńskiej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka organizacja/agencja zajmuje się identyfikacją i rejestracją koni?",
+      "options": [
+        "Agencja Restrukturyzacji i Modernizacji Rolnictwa.",
+        "Agencja Rynku Rolnego.",
+        "Polski Związek Hodowców Koni.",
+        "Agencja Nieruchomości Rolnych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDuplikat paszportu wydawany jest posiadaczowi bydła w przypadku uszkodzenia lub utraty paszportu, na podstawie Wniosku o wydanie duplikatu paszportu bydła w terminie … dni od dnia otrzymania wniosku.",
+      "options": [
+        "30",
+        "14"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDuplikaty paszportów wydawane są tylko dla zwierząt posiadających spójną historię w Centralnej Bazie Danych Systemu IRZ.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rejestry przechowywane są w bazie danych SIRZ?",
+      "options": [
+        "Rejestr gospodarstw rolnych.",
+        "Rejestr siedzib stad.",
+        "Rejestr producentów.",
+        "Rejestr zgłoszeń zdarzeń dotyczących zwierząt."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPaszporty wydrukowane zgodnie z uprzednio obowiązującym wzorem formularza … wymianie.",
+      "options": [
+        "podlegają",
+        "nie podlegają"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonie są znakowane i identyfikowane w taki sam sposób, jak bydło, owce, czy kozy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Gdzie w przypadku utraty, bądź uszkodzenia kolczyka należy złożyć wniosek o wydanie duplikatu?",
+      "options": [
+        "W biurze Agencji Nieruchomości Rolnych.",
+        "W biurze Agencji Restrukturyzacji i Modernizacji Rolnictwa.",
+        "W biurze Agencji Rynku Rolnego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź z listy rozwijanej.\n… konie powinny posiadać paszporty.",
+      "options": [
+        "Wszystkie",
+        "Rasowe"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Czyim obowiązkiem jest prawidłowe oznakowanie zwierząt?",
+      "options": [
+        "Agencji Rynku Rolnego.",
+        "Posiadacza zwierząt.",
+        "Agencji Restrukturyzacji i Modernizacji Rolnictwa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z zadań Systemu IRZ jest wsparcie służb hodowlanych poprzez umożliwienie pracy hodowlanej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie informacje należy przekazać ARiMR wypełniając druk dotyczący rejestracji zwierząt?",
+      "options": [
+        "Datę urodzenia.",
+        "Numer identyfikacyjny matki.",
+        "Informacje dotyczące przywozu z państwa niebędącego członkiem UE.",
+        "Informacje dotyczące przywozu z państwa będącego członkiem UE.",
+        "Datę przybycia do stada."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Paszporty bydła, księgi rejestracji, dokumenty przewozowe to elementy składające się na:",
+      "options": [
+        "System Identyfikacji i Rejestracji Zwierząt.",
+        "System Identyfikacji Agencji Rynku Rolnego.",
+        "rejestr producentów."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIdentyfikacją i rejestracją koni zajmuje się Agencja Restrukturyzacji i Modernizacji Rolnictwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co jest pomocne w identyfikacji koni?",
+      "options": [
+        "Opis słowny.",
+        "Odmiany.",
+        "Opis graficzny.",
+        "Wiek.",
+        "Maść.",
+        "Znaki szczególne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Kto prowadzi księgi stadne i rejestry koni nieznanego pochodzenia?",
+      "options": [
+        "Polski Związek Hodowców Koni.",
+        "Agencja Restrukturyzacji i Modernizacji Rolnictwa.",
+        "Agencja Rynku Rolnego.",
+        "Agencja Nieruchomości Rolnych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Centralna Baza Danych Systemu Identyfikacji i Rejestracji Zwierząt tworzy skomputeryzowany, sieciowy system informatyczny, na którym pracuje Agencja Restrukturyzacji i Modernizacji Rolnictwa, jej Oddziały Regionalne i Biura Powiatowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakiej barwy są kolczyki do oznakowania owiec i kóz?",
+      "options": [
+        "Czerwonej.",
+        "Żółtej.",
+        "Łososiowej.",
+        "Pomarańczowej."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Kto może być podmiotem prowadzącym działalność w zakresie pośrednictwa w obrocie zwierzętami?",
+      "options": [
+        "Jednostka organizacyjna nieposiadająca osobowości prawnej.",
+        "Osoba fizyczna.",
+        "Osoba prawna."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBaza danych Systemu Identyfikacji i Rejestracji Zwierząt nie przechowuje danych na temat miejsc przebywania zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPosiadacz zwierząt nie jest zobowiązany powiadamiać ARiMR o zdarzeniach związanych z oznakowanymi zwierzętami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W ciągu ilu dni w przypadku zmiany stanu stada trzody chlewnej ich posiadacz jest zobowiązany dokonać zgłoszenia w biurze powiatowym ARiMR?",
+      "options": [
+        "21",
+        "7",
+        "14",
+        "30"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUzyskanie z Agencji Restrukturyzacji i Modernizacji Rolnictwa numeru producenta to obowiązek posiadacza zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo obrotu zwierząt mogą być dopuszczone wyłącznie zwierzęta oznakowane zgodnie z przepisami o SIRZ.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co oznacza numer identyfikacyjny bydła, owiec i kóz?",
+      "options": [
+        "Umożliwia ustalenie miejsca siedziby stada.",
+        "Umożliwia dokonanie indywidualnej identyfikacji danego osobnika.",
+        "Zawiera informacje dotyczące posiadacza zwierząt."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIstnieje odstępstwo od zakazu wyprowadzenia z gospodarstwa kóz i owiec, wydanego w związku ze zwalczaniem chorób zakaźnych zwierząt, jeżeli zwierzęta zostaną dostarczone bezpośrednio do rzeźni funkcjonującej na terenie kraju, wskazanej przez Powiatowego Lekarza Weterynarii i tam niezwłocznie ubite.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wymogi powinny być spełnione przy prowadzeniu działalności w zakresie obrotu zwierzętami?",
+      "options": [
+        "Zwierzęta nie powinny być objęte zakazem wyprowadzenia z gospodarstwa.",
+        "Zwierzęta powinny być oznakowane zgodnie z przepisami o SIRZ.",
+        "Zwierzęta powinny posiadać świadectwo zdrowia.",
+        "Zwierzęta powinny być zdrowe, o określonym pochodzeniu i przeznaczeniu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹrebięta, które urodziły się po 31.12.2005 r. powinny być oznakowane elektronicznym identyfikatorem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych informacji powinien zawierać paszport dla konia?",
+      "options": [
+        "Numer identyfikacyjny.",
+        "Informacje dotyczące posiadacza konia.",
+        "Pochodzenie.",
+        "Badania laboratoryjne.",
+        "Szczepienia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    }
+  ]
+}

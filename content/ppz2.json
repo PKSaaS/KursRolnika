@@ -1,0 +1,2121 @@
+{
+  "id": "ppz2",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Gatunki, typy użytkowe i rasy zwierząt gospodarskich",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Hodowca musi określić kierunek hodowli – nie wystarczy wybór gatunku, istotne jest nastawienie na produkcję określonych towarów.",
+        "Opłacalność chowu i hodowli zależy m.in. od doboru gatunku, typu użytkowego i rasy zwierząt.",
+        "Utrzymując zwierzęta o dobrych założeniach genetycznych, rolnik odnosi już połowę sukcesu.",
+        "Pozostałe wymogi racjonalnej produkcji: odpowiednie warunki dobrostanu i właściwe żywienie.",
+        "Warunki utrzymania i żywienia dostosowuje się do grupy wiekowej, produkcyjnej i gatunku."
+      ]
+    },
+    {
+      "heading": "Podstawowe pojęcia: chów, hodowla, gatunek, typ użytkowy",
+      "points": [
+        "Chów – zespół czynności zapewniających zwierzętom niezbędne warunki żywieniowe i środowiskowe; cel: uzyskanie produktów (mięso, mleko, jaja).",
+        "Hodowla – zespół czynności związanych z doskonaleniem wartości genetycznej pod względem określonej cechy, przy zapewnieniu podstawowych warunków chowu (żywienie i dobrostan).",
+        "Gatunek – grupa osobników o zbliżonych cechach zewnętrznych (pokroju), pochodzących od wspólnego przodka.",
+        "Gatunki zwierząt gospodarskich: bydło, trzoda chlewna, owce, kozy, konie, drób (kury, kaczki, gęsi, indyki, perlice, przepiórki).",
+        "Typ użytkowy – zespół cech użytkowych, produkcyjnych i pokrojowych kwalifikujących zwierzę do określonego kierunku użytkowania.",
+        "Typy jednokierunkowe: mleczny, mięsny, wełnisty.",
+        "Typy dwukierunkowe: mleczno-mięsny, mięsno-wełnisty.",
+        "Typy wielokierunkowe (kombinowane, wszechstronne): mleczno-mięsno-roboczy.",
+        "Profesjonalna terminologia ułatwia kontakty z innymi rolnikami, firmami otoczenia rolnictwa i instytucjami wspierającymi rolnictwo oraz rozumienie czasopism i materiałów branżowych.",
+        "W obrębie gatunku wyróżnia się mniejsze grupy, np. rasę czy ród; rozpoznawanie zwierząt zaczyna się od cech służących do identyfikacji gatunku."
+      ]
+    },
+    {
+      "heading": "Rasa, linia hodowlana, ród, rodzina, odmiana",
+      "points": [
+        "Rasa – grupa zwierząt jednego gatunku o cechach rasowych wyróżniających ją spośród innych ras; powstaje w wyniku ingerencji człowieka, cechy rasowe przekazywane są potomstwu.",
+        "Podział ras wg ukształtowania terenu: nizinne i górskie.",
+        "Podział ras wg kraju pochodzenia: rodzime i zagraniczne.",
+        "Podział ras wg poziomu uszlachetnienia: prymitywne, przejściowe, kulturalne.",
+        "Podział ras wg typu użytkowego: mięsne, mleczne, wszechstronnie użytkowe itd.",
+        "Linia hodowlana – grupa osobników wyodrębniona z rasy na podstawie rodu lub rodziny; zwierzęta pochodzące od wybitnego przodka.",
+        "Ród – potomkowie wybitnie wartościowego przodka męskiego.",
+        "Rodzina – potomkowie wybitnie wartościowego przodka żeńskiego.",
+        "Odmiana – grupa zwierząt danej rasy różniąca się jakąś cechą od pozostałych zwierząt tej rasy."
+      ]
+    },
+    {
+      "heading": "Praca hodowlana, postęp hodowlany, selekcja i dobór",
+      "points": [
+        "Praca hodowlana – działania człowieka zmierzające do udoskonalenia cech genetycznych gatunku lub rasy, przy pokryciu potrzeb żywieniowych i zapewnieniu warunków utrzymania.",
+        "Główny cel pracy hodowlanej: uzyskanie postępu hodowlanego.",
+        "Podstawą pracy hodowlanej są selekcja i dobór.",
+        "Postęp hodowlany – różnica genetyczna między wartością cechy u potomka a wartością tej cechy w stadzie, z którego pochodzą rodzice.",
+        "Selekcja – wybór zwierząt będących najbardziej wartościowym materiałem hodowlanym z przeznaczeniem do rozrodu.",
+        "Dobór – przeznaczenie do rozrodu osobników (samców i samic) wybranych w selekcji, aby uzyskać równie lub bardziej wartościowe potomstwo."
+      ]
+    },
+    {
+      "heading": "Nazewnictwo grup wiekowych/produkcyjnych: bydło, owce, kozy",
+      "points": [
+        "Krowa – dorosła samica po pierwszym wycieleniu i kolejnych.",
+        "Buhaj – dorosły samiec użytkowany rozpłodowo; byk – dorosły samiec użytkowany opasowo.",
+        "Cielę – młody osobnik do 6. miesiąca życia; byczek, jałóweczka – cielęta męskie i żeńskie.",
+        "Jałówka – młoda samica przed pierwszym wycieleniem.",
+        "Owce: maciorka – dorosła samica; tryk – dorosły samiec; jarka/jarlica – młoda samica przed pierwszym wykotem; jagnię – potomstwo.",
+        "Szukarek/próbnik – samiec wykorzystywany do wyszukiwania owiec grzejących się.",
+        "Kozy: koza – dorosła samica; cap – samiec; koźlę – młoda koza."
+      ],
+      "images": [
+        {
+          "src": "img/ppz2/grupy-wiekowe-bydla.jpg",
+          "caption": "Grupy wiekowe/produkcyjne bydła: krowa (samica po pierwszym wycieleniu), jałówka (młoda samica przed pierwszym wycieleniem), cielę (do 6. miesiąca życia; byczek, jałóweczka), buhaj (samiec rozpłodowy), byk (samiec opasowy)."
+        }
+      ]
+    },
+    {
+      "heading": "Nazewnictwo: trzoda chlewna, konie, drób",
+      "points": [
+        "Maciora/locha – dorosła samica świni; knur – samiec; prosię – potomstwo lochy.",
+        "Warchlak – młody osobnik po odsadzeniu; tucznik – osobnik przeznaczony na tucz (40–120 kg).",
+        "Konie: klacz – dorosła samica; ogier – dorosły samiec; źrebię – potomek; wałach – wykastrowany ogier.",
+        "Roczniak – młody koń w wieku 1 roku; dwulatek – w wieku 2 lat.",
+        "Drób: kura – samica, kogut – samiec; pisklę – potomstwo kury, kaczki, gęsi, indyka.",
+        "Brojler (kurzy, indyczy, gęsi) – osobnik przeznaczony na tucz.",
+        "Indor/indyk – samiec, indyczka – samica; kaczor – samiec kaczki; gęsior (gąsior) – samiec gęsi.",
+        "Kaczka – samica, gęś – samica (kaczor, gęsior – samce)."
+      ]
+    },
+    {
+      "heading": "Typy użytkowe bydła",
+      "points": [
+        "Jednokierunkowe: mleczny, mięsny; dwukierunkowe: mięsno-mleczny, mleczno-mięsny; wszechstronny: mięsno-mleczno-roboczy.",
+        "Typ mleczny: długa szyja, stosunkowo mała głowa, dobrze rozwinięte wymię, sylwetka wpisana w trójkąt, długie suche kończyny, mocny kościec, delikatna budowa, płaskie ożebrowanie.",
+        "Typ mleczny – zad od tyłu przypomina owal; przedstawiciele: jersey, holsztyńsko-fryzyjska, czarno-biała, czerwono-biała.",
+        "Typ mięsny: krótka masywna szyja, beczkowata (dobrze wysklepiona) klatka piersiowa, krótkie mocne kończyny, słabo rozwinięte wymię, silnie rozbudowany mostek.",
+        "Typ mięsny – sylwetka wpisana w prostokąt, zad od tyłu przypomina koło; przedstawiciele: Limousin, Simental, Charolaise, Piemontese.",
+        "Typy dwukierunkowe i mieszane mają cechy pokroju pośrednie między mlecznym a mięsnym."
+      ],
+      "images": [
+        {
+          "src": "img/ppz2/krowa-typ-mleczny.jpg",
+          "caption": "Rysunek 2.1. Krowa w typie mlecznym – sylwetka wpisana w trójkąt, długa szyja, mała głowa, dobrze rozwinięte wymię."
+        },
+        {
+          "src": "img/ppz2/krowa-typ-miesny.jpg",
+          "caption": "Rysunek 2.2. Krowa typu mięsnego – sylwetka wpisana w prostokąt, krótka masywna szyja, beczkowata klatka piersiowa, słabo rozwinięte wymię."
+        },
+        {
+          "src": "img/ppz2/krowa-typ-mleczno-miesny.jpg",
+          "caption": "Rysunek 2.3. Krowa typu mleczno-mięsnego – cechy pokroju pośrednie między typem mlecznym a mięsnym."
+        },
+        {
+          "src": "img/ppz2/typy-uzytkowe-bydla-schemat.jpg",
+          "caption": "Typy użytkowe bydła (schemat z wideokastu): jednokierunkowy – mleczny lub mięsny; dwukierunkowy – mięsno-mleczny lub mleczno-mięsny; wszechstronny – mięsno-mleczno-roboczy (np. krowy rasy simentalskiej)."
+        }
+      ]
+    },
+    {
+      "heading": "Typy użytkowe owiec",
+      "points": [
+        "Owce mają 5 podstawowych typów użytkowych; dzieli się je na jednokierunkowe, dwukierunkowe i wszechstronnie użytkowy.",
+        "Jednokierunkowe: wełnisty, mięsny, mleczny, kożuchowy, smuszkowy (tzw. futerkowy).",
+        "Dwukierunkowe: wełnisto-mięsny, mleczno-wełnisty.",
+        "Typ wełnisty: długa głowa, cienka szyja z wyraźnymi fałdami skórnymi, rogi szeroko rozstawione, głęboka klatka piersiowa, długie suche kończyny, pofałdowanie wokół ogona.",
+        "Typ mięsny: bezrożna, krótka, masywna głowa, szyja bez fałdów skórnych, tułów beczkowaty, mostek wysunięty ku przodowi, prosta linia grzbietu, szerokie lędźwie, szeroki zaokrąglony zad, brak pofałdowania skóry.",
+        "Typ mleczny: wąska długa głowa, cienka długa szyja, ścięty zad, długie cienkie nogi, dobrze rozwinięte wymię, mało tłuszczu podskórnego, cienka niepofałdowana skóra.",
+        "Typ kożuchowy: niewielkie rozmiary, żywy temperament, u tryków rogi ślimakowatego kształtu, ciemno zabarwione.",
+        "Typ smuszkowy – przedstawiciele: karakuły.",
+        "Typ wełnisto-mięsny: lekka bezrożna głowa, krótka zaokrąglona szyja, tułów długi i głęboki, obfite umięśnienie.",
+        "Typ wszechstronny: odporny na niekorzystne warunki środowiska, niewielkie rozmiary ciała.",
+        "Typ mięsny owiec – także masywna i ciężka głowa, zagłębienie grzbietu wzdłuż kręgosłupa, masywne kończyny.",
+        "Typ mleczny owiec – także wąski tułów i lędźwie, typowy ścięty zad.",
+        "Typ kożuchowy owiec – słabo umięśnione, tułów krępy, szyja cienka, zad ścięty i słabo umięśniony, skóra na ciele niepofałdowana, krótki ogon zwisający powyżej stawów skokowych.",
+        "Typ smuszkowy owiec (karakuły): cienka, długa szyja z tendencją do garbonosości, u tryków rogi rozchodzące się na boki, opuszczone uszy, wąski tułów, mostek cofnięty ku tyłowi, lędźwie słabo umięśnione, ścięty zad, u nasady ogona poduszka tłuszczowa, dolna część ogona lekko skręcona, nogi długie, suche.",
+        "Typ wełnisto-mięsny owiec – także dobrze umięśniony, szeroki zad, nogi średnio długie, pofałdowana skóra szyi.",
+        "Typ mleczno-wełnisty owiec: osobniki duże, tryki rogate, głowa długa, u tryków garbonosa, szyja długa, dobrze umięśnione lędźwie, ścięty zad, długie nogi.",
+        "Typ wszechstronny owiec – także lekka głowa (u tryków rogata), szyja długa i płaska, głęboki tułów, mostek skierowany ku tyłowi, cienkie nogi, żywy temperament."
+      ],
+      "images": [
+        {
+          "src": "img/ppz2/tabela-typy-owiec-1.jpg",
+          "caption": "Tabela 2.1 (cz. 1). Charakterystyka typów użytkowych owiec – typ wełnisty i mięsny."
+        },
+        {
+          "src": "img/ppz2/tabela-typy-owiec-2.jpg",
+          "caption": "Tabela 2.1 (cz. 2). Typ mięsny (cd.), mleczny, kożuchowy, smuszkowy, wełnisto-mięsny, mleczno-wełnisty i wszechstronny."
+        }
+      ]
+    },
+    {
+      "heading": "Typy użytkowe kóz",
+      "points": [
+        "Typ mleczny: duży wzrost (samce do 100 cm w kłębie i 120 kg), żywy temperament, dobrze rozwinięte wymię, wysoka wydajność mleczna; rasy saaneńska, alpejska.",
+        "Typ mięsny: wysoka plenność (ok. 200%), dobowe przyrosty do 200 g, wydajność rzeźna ok. 60%; rasa burska.",
+        "Typ wszechstronnie użytkowy: doskonale przystosowuje się do warunków utrzymania i żywienia, daje mięso, mleko, skóry; rasy biała uszlachetniona, barwna uszlachetniona, kozy bezrasowe.",
+        "Kozy mają nieco skromniejszy niż owce wachlarz możliwości użytkowania."
+      ]
+    },
+    {
+      "heading": "Typy użytkowe świń i koni",
+      "points": [
+        "Typ użytkowy świń zależy głównie od tempa wzrostu (dzienne przyrosty masy) i wczesności dojrzewania (wiek osiągnięcia dojrzałości fizycznej).",
+        "Typ mięsny (A) – świnie szybko rosnące i późno dojrzewające; wielka biała polska, polska biała zwisłoucha.",
+        "Typ tłuszczowo-mięsny (B) – szybko rosnące, ale wcześniej dojrzewające (2–2,5 roku); np. rasa puławska starego typu.",
+        "Typ słoninowy (C) – rosną wolno i późno dojrzewają; prymitywne rasy europejskie, prawie całkowicie przestał istnieć (podobnie jak typ smalcowy).",
+        "Konie – typ wierzchowy: rasy gorącokrwiste (czysta krew arabska, pełna krew angielska, szlachetne półkrwi, małopolskie, wielkopolskie), lekka budowa, żywy temperament.",
+        "Konie – typ pociągowy: konie zimnokrwiste w podtypie pociągowo-ciężkim (stępaki) i pośpieszno-roboczym, masywna budowa, spokojny temperament.",
+        "Typ wierzchowo-zaprzęgowy: konie małopolskie, wielkopolskie i śląskie; cechy pośrednie.",
+        "Wysokość w kłębie: 160–170 cm i 150–160 cm; masa ciała: 500–600 kg (wierzchowy) i 600–800 kg (pociągowy).",
+        "Tabela 2.2 – typ wierzchowy: sylwetka wpisana w prostokąt, praca w szybkim tempie; typ pociągowy: praca w wolnym tempie, dobre tempo wzrostu, zastosowanie w użytkowaniu mięsnym.",
+        "Przy dzisiejszym poziomie rozwoju rolnictwa sposób wykorzystania koni jest ograniczony.",
+        "Tabela 2.2 – wysokość w kłębie: typ wierzchowy 160–170 cm, typ pociągowy 150–160 cm; masa ciała: wierzchowy 500–600 kg, pociągowy 600–800 kg; typ wierzchowo-zaprzęgowy – cechy pośrednie."
+      ],
+      "images": [
+        {
+          "src": "img/ppz2/typy-uzytkowe-swin.jpg",
+          "caption": "Rysunek 2.4. Typy użytkowe świń: A – mięsny, B – tłuszczowo-mięsny, C – słoninowy."
+        },
+        {
+          "src": "img/ppz2/typy-uzytkowe-koni.jpg",
+          "caption": "Rysunek 2.5. Typy użytkowe koni: A – wierzchowy (lekka budowa), B – pociągowy (masywna budowa), C – wierzchowo-zaprzęgowy (cechy pośrednie)."
+        }
+      ]
+    },
+    {
+      "heading": "Typy użytkowe drobiu",
+      "points": [
+        "Kury – typ nieśny: lekkie, sylwetka zbliżona do trójkąta, silnie rozwinięte przydatki głowowe (dzwonki, grzebień), bardzo dobre wyniki zapłodnienia i wylęgu, nie kwoczą; Leghorn (białe upierzenie).",
+        "Kury – typ mięsny: szeroka umięśniona klatka piersiowa, mocne uda, szeroko rozstawione skoki, ciało wpisane w kwadrat; Dominant White Cornish.",
+        "Kury – typ ogólnoużytkowy: sylwetka zbliżona do prostokąta, dobre umięśnienie, dobra nieśność; Rhode Island Red, New Hampshire, Sussex, Plymouth Rock, White Rock.",
+        "Mieszańce użytkowe utrzymywane na fermach dla jaj spożywczych i mięsa, np. ISA Brown, Hubard.",
+        "Indyki – typ lekki: indyczki 5 kg, indory 8–12 kg; średniociężki: indyczki 9 kg, indory 12–16 kg; ciężki: indyczki 15 kg, indory 25 kg (bronz szerokopierśny).",
+        "Kaczki – typ nieśny: spionowana wysmukła sylwetka, szybko biegają, nie utrzymywane w Polsce; biegusy indyjskie, Khaki Campbell, White Campbell.",
+        "Kaczki – typ ogólnoużytkowy: wykorzystywany bardziej do produkcji mięsa; Pekin.",
+        "Kaczki – typ mięsny: pozioma postawa, długi szeroki tułów, szeroko rozstawione nogi; kaczory 4–5 kg, kaczki 3–3,5 kg; Rouen, Aylesbury.",
+        "Gęsi – masa samców: typ lekki ok. 4–6 kg, średniociężki 7–8 kg, ciężki 9–11 kg.",
+        "Oznaczenia w tabeli 2.3 (kury): typ nieśny (A), typ mięsny (C), typ ogólnoużytkowy (B).",
+        "Indyki – przedstawiciele: typ lekki – bronz i białe szerokopierśne, bronz standard; typ średniociężki – białe szerokopierśne, bronz szerokopierśny; typ ciężki – bronz szerokopierśny."
+      ]
+    },
+    {
+      "heading": "Rasy bydła",
+      "points": [
+        "Jersey (mleczna, Wielka Brytania): umaszczenie sarnie z jasną obwódką wokół śluzawicy, łatwe wycielenia, mleko bogate w sole mineralne, tłuszcz i białko, 80% kazeiny, długowieczność, 350–650 kg, 4500 l mleka.",
+        "Holsztyńsko-fryzyjska (wybrzeże Morza Północnego): czarno-biała, bardzo dobra przydatność do doju mechanicznego i budowa wymienia, stosowana w krzyżowaniu uszlachetniającym, 700–1000 kg, 8000 l.",
+        "Polska czerwona (Polska): czerwona, dobre przystosowanie do środowiska, długowieczność, odporność na choroby, 500–900 kg, 3500 l; objęta Programem Ochrony Zasobów Genetycznych Bydła.",
+        "Czerwono-biała (Niemcy, Holandia): uszlachetniana h-f, 650–1100 kg.",
+        "Czarno-biała (Niemcy, Holandia): dobra przydatność opasowa, 600–1000 kg, 6000 l.",
+        "Charolaise (mięsna, Francja): mlecznobiała z odcieniem żółtego, 800–1200 kg, wydajność rzeźna 79%.",
+        "Limousine (Francja): czerwona jednolita z przejaśnieniami, krzyżowanie towarowe z bydłem czarno-białym, łatwa aklimatyzacja, 700–1100 kg, wydajność rzeźna 70%.",
+        "Blonde d’Aquitaine (Francja): jasnoczerwona, duże zdolności opasowe, łatwość wycieleń, 700–1100 kg, wydajność rzeźna 66%.",
+        "Aberdeen Angus (Szkocja): czarna, bezrożna, wczesne dojrzewanie, mięso marmurkowate, łatwe porody, 650–1000 kg, wydajność rzeźna 70%.",
+        "Hereford (Wielka Brytania): czerwono-biała z białym pasem od głowy przez mostek, do użytkowania ekstensywnego i pastwiskowego, 600–900 kg, wydajność rzeźna 66%.",
+        "Piemontese (Włochy): jasnoszara, mieszańce mają podwójne umięśnienie zadu i trudne porody, 600–900 kg, wydajność rzeźna 70%.",
+        "Belgijska białobłękitna (Belgia): jasnokremowa, obfita muskulatura, podwójna pośladkowość, 600–900 kg, wydajność rzeźna 70%.",
+        "Simentalska (kombinowana, Szwajcaria): mleczno-mięsna, biała głowa, reszta ciała ciemna, wybitne cechy rozrodcze, wysoka wartość opasowa, 750–1300 kg, 4000 l.",
+        "Aberdeen Angus cechują też wysokie przyrosty masy ciała i wysoka odporność na choroby; simentalską – mocna, zwarta budowa, gruby kościec, dobre umięśnienie, bardzo dobre tempo wzrostu i dobra płodność.",
+        "Jersey – także dobre parametry doju; HF – także bardzo dobra zdolność wydojowa; polska czerwona – także dobra płodność.",
+        "Czerwono-biała – głęboka, dobrze wysklepiona klatka piersiowa, dobrze umięśniony grzbiet i zad, krótkie mocne kończyny.",
+        "Czarno-biała – używana do doskonalenia bydła holenderskiego, dobre umięśnienie.",
+        "Charolaise – śluzawica, rogi i racice jaśniejsze; wysoka wydajność rzeźna, dobre wykorzystanie paszy, popularna rasa.",
+        "Limousine – przejaśnienia koło oczu, śluzawicy, rogów i racic.",
+        "Blonde d’Aquitaine – mięso dobrej jakości.",
+        "Hereford – dobre mięśnie wszystkich partii ciała, wysoka naturalna odporność, dobre wykorzystanie porostu pastwiskowego, łatwość wycieleń.",
+        "Piemontese – śluzawica, nogi i racice ciemno pigmentowane; wysoki udział mięsa w tuszy."
+      ],
+      "images": [
+        {
+          "src": "img/ppz2/rasa-hf.jpg",
+          "caption": "Holsztyńsko-fryzyjska (HF) – typ mleczny, umaszczenie czarno-białe."
+        },
+        {
+          "src": "img/ppz2/rasa-jersey.jpg",
+          "caption": "Jersey – typ mleczny, umaszczenie sarnie (płowe)."
+        },
+        {
+          "src": "img/ppz2/rasa-charolaise.jpg",
+          "caption": "Charolaise – typ mięsny, umaszczenie mlecznobiałe z odcieniem żółtego."
+        },
+        {
+          "src": "img/ppz2/rasa-limousine.jpg",
+          "caption": "Limousine – typ mięsny, umaszczenie czerwone jednolite z przejaśnieniami."
+        },
+        {
+          "src": "img/ppz2/rasa-aberdeen-angus.jpg",
+          "caption": "Aberdeen Angus – typ mięsny, umaszczenie czarne, bydło bezrożne."
+        },
+        {
+          "src": "img/ppz2/rasa-simentalska.jpg",
+          "caption": "Simentalska – typ kombinowany (mleczno-mięsny), biała głowa, reszta ciała ciemna."
+        }
+      ]
+    },
+    {
+      "heading": "Rasy owiec i kóz",
+      "points": [
+        "Merynos polski – wełnisto-mięsny, przeważają cechy mięsne, wczesne dojrzewanie, asezonalny, silny instynkt stadny.",
+        "Polska owca nizinna (wielkopolska, corriedale) – mięsno-wełnista, wytworzona z udziałem merynosa polskiego; wielkopolska asezonalna, plenność 150%; corriedale do produkcji jagniąt rzeźnych, plenność 140%.",
+        "Polska owca długowełnista (pomorska, kamieniecka) – mięsno-wełnista, wytworzona bez udziału merynosa; pomorska odporna na warunki nadmorskie, wymaga systemu pastwiskowego; kamieniecka głównie w woj. warmińsko-mazurskim.",
+        "Polska owca górska odmiany barwnej – Podhale i Karpaty, użytkowana głównie mlecznie; wrzosówka – prymitywna, kierunek kożuchowy, plenność 180%, asezonalna, bardzo wytrzymałe skóry.",
+        "Rasy mięsne owiec: czarnogłówka, Berrichon du Cher, Ile de France (tryki w krzyżowaniu towarowym, asezonalna), Suffolk (rasa ojcowska).",
+        "Rasy plenne: romanowska (plenność 300%), olkuska (wczesne dojrzewanie, wysoka mleczność).",
+        "Programem Ochrony Zasobów Genetycznych Owiec (POZGO) objęte są m.in. wielkopolska, corriedale, pomorska, kamieniecka, polska owca górska odm. barwnej, wrzosówka, olkuska.",
+        "Koza saaneńska – ze Szwajcarii, najwybitniejsza rasa mleczna, białe umaszczenie, używana do uszlachetniania innych ras.",
+        "Koza alpejska – z Francji, mleczna, charakterystyczne ubarwienie, doskonała aklimatyzacja, duże ilości mleka.",
+        "Koza burska – mięsna, wyhodowana w Afryce, rogata, bardzo plenna, asezonalna, wysoka wydajność rzeźna.",
+        "Biała uszlachetniona – białe umaszczenie, kozły z brodą, uszy stojące, wysoka wydajność mleczna; barwna uszlachetniona – sarnio-brązowa, bezrożna; kozy bezrasowe – bardzo wysoka odporność.",
+        "Pomorska – żyje w małych stadach, dobre umięśnienie; kamieniecka – dobra zdrowotność, dobre wykorzystanie pasz gospodarskich.",
+        "Polska owca górska odm. barwnej – odporna na warunki górskie, cenne mięso jagnięce, wełna chętnie pozyskiwana; owce o okrywie mieszanej (górska barwna, wrzosówka) – typ mieszany.",
+        "Czarnogłówka – wysokie przyrosty jagniąt, wcześnie dojrzewa.",
+        "Berrichon du Cher – szybko rośnie i dojrzewa, mięso smaczne o wysokiej wartości odżywczej, duża żywotność, mała głowa, dobrze rozbudowany zad.",
+        "Ile de France – wcześnie dojrzewa, szybkie tempo wzrostu, asezonalna, wysokie walory smakowe mięsa, tryki w krzyżowaniu towarowym.",
+        "Suffolk – bardzo dobre cechy mięsne, rasa ojcowska, wysoko plenne, wczesne dojrzewanie.",
+        "Romanowska – dobre wskaźniki rozrodu (plenność 300%).",
+        "Koza alpejska – ma wpływ na pogłowie krajowe; koza burska – bardzo dobre umięśnienie, wysokie przyrosty dzienne, stosowana do poprawiania wydajności mięsnej.",
+        "Biała uszlachetniona – harmonijna budowa, rogate lub bezrożne, dobrze zbudowane wymię; barwna uszlachetniona – uszy stojące, produkcja mleka na poziomie białej uszlachetnionej; kozy bezrasowe – wygląd i sposób użytkowania bardzo różny."
+      ]
+    },
+    {
+      "heading": "Rasy świń, koni i drobiu",
+      "points": [
+        "U świń rozróżnia się rasy komponentu ojcowskiego i matecznego.",
+        "Komponent ojcowski: Duroc (rude umaszczenie, duża odporność na stres), Hampshire (czarna z białym pasem przez kończyny przednie, gen „kwaśnego mięsa” RN-), Pietrain (biała z ciemnymi plamami, gen podatności na stres RYR1), belgijska zwisłoucha, linia syntetyczna 990.",
+        "Komponent mateczny: wielka biała polska (ostrouche, bardzo dobre cechy mateczne), polska biała zwisłoucha (najliczniejsza w hodowli zarodowej), puławska, złotnicka biała, złotnicka pstra.",
+        "Hodowlą zachowawczą objęte: puławska, złotnicka biała, złotnicka pstra.",
+        "Puławska – umaszczenie łaciate, stojące uszy, typ pośredni między mięsnym a mięsno-tłuszczowym.",
+        "Konie gorącokrwiste: czysta krew arabska, pełna krew angielska, małopolskie, wielkopolskie, polskie konie szlachetne półkrwi.",
+        "Konie zimnokrwiste: śląskie, sztumskie, sokolskie; rasy prymitywne: huculskie, konie polskie, kuce.",
+        "Rasy kur: Leghorn (nieśny), Rhode Island Red, New Hampshire, Sussex, Plymouth Rock (ogólnoużytkowe), Dominant White Cornish (mięsny).",
+        "Rasy indyków: bronz szerokopierśny, biały szerokopierśny; kaczek: biegusy indyjskie, Khaki Campbell, White Campbell, Pekin, kaczka piżmowa.",
+        "Rasy gęsi: zatorska, pomorska, biała włoska, suwalska, garbonosa, biłgorajska.",
+        "Duroc – średnie wymiary ciała, dobra płodność, szybkie tempo wzrostu, dobre wykorzystanie paszy.",
+        "Hampshire – stojące uszy, mocna konstytucja, średnia wielkość, biały pas biegnie wokół klatki piersiowej przez kończyny przednie, cienka słonina.",
+        "Pietrain – rasa belgijska, średniej wielkości, uszy krótkie stojące, grzbiet długi i szeroki, szynki silnie umięśnione, wybitnie mięsna, wysoka wydajność rzeźna.",
+        "Belgijska zwisłoucha – pokrojem zbliżona do pietrain, duża podatność na stres, białe umaszczenie, dobrze umięśniona szynka, dobra płodność.",
+        "Linia syntetyczna 990 – umaszczenie różne z przewagą pstrych, stosowana do krzyżowań towarowych.",
+        "Wbp – białe umaszczenie, wysoki udział w hodowli zarodowej; pbz – zwisające uszy, skóra biała bez pigmentu, szczecina jasna, użytkowość rozpłodowa podobna do wbp.",
+        "Złotnicka biała – wyglądem przypomina pbz, typ mięsny, wykorzystywana do krzyżowania towarowego; złotnicka pstra – pstra, zwisające uszy, małe wymagania środowiskowe, odporna na stres, mięso dobrej jakości.",
+        "Polska biała zwisłoucha (pbz) – także dobre właściwości mateczne (Tabela 2.7)."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Chów – definicja",
+      "back": "Zespół czynności zapewniających zwierzętom niezbędne warunki żywieniowe i środowiskowe w celu uzyskania produktów (mięso, mleko, jaja)."
+    },
+    {
+      "front": "Hodowla – definicja",
+      "back": "Zespół czynności związanych z doskonaleniem wartości genetycznej pod względem określonej cechy, przy zapewnieniu podstawowych warunków chowu."
+    },
+    {
+      "front": "Gatunek – definicja",
+      "back": "Grupa osobników o zbliżonych cechach zewnętrznych (pokroju), pochodzących od wspólnego przodka."
+    },
+    {
+      "front": "Gatunki zwierząt gospodarskich (6)",
+      "back": "Bydło, trzoda chlewna, owce, kozy, konie, drób."
+    },
+    {
+      "front": "Jakie ptaki zalicza się do drobiu?",
+      "back": "Kury, kaczki, gęsi, indyki, perlice i przepiórki."
+    },
+    {
+      "front": "Typ użytkowy – definicja",
+      "back": "Zespół cech użytkowych, produkcyjnych i pokrojowych kwalifikujących zwierzę do określonego kierunku użytkowania."
+    },
+    {
+      "front": "Typy użytkowe jednokierunkowe",
+      "back": "Mleczny, mięsny, wełnisty."
+    },
+    {
+      "front": "Typy użytkowe dwukierunkowe",
+      "back": "Mleczno-mięsny, mięsno-wełnisty."
+    },
+    {
+      "front": "Przykład typu wielokierunkowego (wszechstronnego)",
+      "back": "Mleczno-mięsno-roboczy."
+    },
+    {
+      "front": "Rasa – definicja",
+      "back": "Grupa zwierząt jednego gatunku z cechami rasowymi wyróżniającymi ją spośród innych ras; powstaje w wyniku ingerencji człowieka."
+    },
+    {
+      "front": "Podział ras wg poziomu uszlachetnienia",
+      "back": "Prymitywne, przejściowe, kulturalne."
+    },
+    {
+      "front": "Podział ras wg ukształtowania terenu",
+      "back": "Nizinne i górskie."
+    },
+    {
+      "front": "Podział ras wg kraju pochodzenia",
+      "back": "Rodzime i zagraniczne."
+    },
+    {
+      "front": "Linia hodowlana",
+      "back": "Grupa osobników wyodrębniona z rasy na podstawie rodu lub rodziny – zwierzęta od wybitnego przodka."
+    },
+    {
+      "front": "Ród",
+      "back": "Potomkowie wybitnie wartościowego przodka męskiego."
+    },
+    {
+      "front": "Rodzina",
+      "back": "Potomkowie wybitnie wartościowego przodka żeńskiego."
+    },
+    {
+      "front": "Odmiana",
+      "back": "Grupa zwierząt danej rasy różniąca się jakąś cechą od pozostałych zwierząt tej rasy."
+    },
+    {
+      "front": "Główny cel pracy hodowlanej",
+      "back": "Uzyskanie postępu hodowlanego."
+    },
+    {
+      "front": "Podstawa pracy hodowlanej",
+      "back": "Selekcja i dobór."
+    },
+    {
+      "front": "Postęp hodowlany",
+      "back": "Różnica genetyczna między wartością cechy u potomka a jej wartością w stadzie, z którego pochodzą rodzice."
+    },
+    {
+      "front": "Selekcja",
+      "back": "Wybór zwierząt będących najbardziej wartościowym materiałem hodowlanym do rozrodu."
+    },
+    {
+      "front": "Dobór",
+      "back": "Przeznaczenie do rozrodu samców i samic wybranych w selekcji, by uzyskać równie lub bardziej wartościowe potomstwo."
+    },
+    {
+      "front": "Buhaj a byk",
+      "back": "Buhaj – dorosły samiec użytkowany rozpłodowo; byk – dorosły samiec użytkowany opasowo."
+    },
+    {
+      "front": "Jałówka",
+      "back": "Młoda samica bydła przed pierwszym wycieleniem."
+    },
+    {
+      "front": "Do jakiego wieku zwierzę bydła nazywa się cielęciem?",
+      "back": "Do 6. miesiąca życia."
+    },
+    {
+      "front": "Jarka (jarlica)",
+      "back": "Młoda samica owcy przed pierwszym wykotem."
+    },
+    {
+      "front": "Szukarek (próbnik)",
+      "back": "Samiec owcy wykorzystywany do wyszukiwania owiec grzejących się."
+    },
+    {
+      "front": "Tryk / maciorka",
+      "back": "Dorosły samiec / dorosła samica owcy."
+    },
+    {
+      "front": "Cap / koźlę",
+      "back": "Samiec kozy / młoda koza."
+    },
+    {
+      "front": "Warchlak",
+      "back": "Młody osobnik świni po odsadzeniu."
+    },
+    {
+      "front": "Tucznik – zakres masy",
+      "back": "Osobnik przeznaczony na tucz, 40–120 kg."
+    },
+    {
+      "front": "Knur",
+      "back": "Samiec świni (samiec lochy)."
+    },
+    {
+      "front": "Wałach",
+      "back": "Wykastrowany ogier."
+    },
+    {
+      "front": "Roczniak / dwulatek",
+      "back": "Młody koń w wieku 1 roku / 2 lat."
+    },
+    {
+      "front": "Gęsior (gąsior), kaczor, indor",
+      "back": "Samce gęsi, kaczki i indyka."
+    },
+    {
+      "front": "Brojler",
+      "back": "Osobnik drobiu (kurzy, indyczy, gęsi) przeznaczony na tucz."
+    },
+    {
+      "front": "W jaką figurę wpisuje się sylwetka krowy typu mlecznego?",
+      "back": "W trójkąt."
+    },
+    {
+      "front": "Kształt zadu od tyłu: typ mleczny vs mięsny bydła",
+      "back": "Mleczny – owal; mięsny – koło."
+    },
+    {
+      "front": "W jaką figurę wpisuje się sylwetka bydła typu mięsnego?",
+      "back": "W prostokąt."
+    },
+    {
+      "front": "Przedstawiciele bydła typu mlecznego",
+      "back": "Jersey, holsztyńsko-fryzyjska, czarno-biała, czerwono-biała."
+    },
+    {
+      "front": "Przedstawiciele bydła typu mięsnego",
+      "back": "Limousin, Simental, Charolaise, Piemontese."
+    },
+    {
+      "front": "Ile podstawowych typów użytkowych wyróżnia się u owiec?",
+      "back": "5."
+    },
+    {
+      "front": "Typ smuszkowy owiec – przedstawiciel",
+      "back": "Karakuły."
+    },
+    {
+      "front": "Typy dwukierunkowe owiec",
+      "back": "Wełnisto-mięsny, mleczno-wełnisty."
+    },
+    {
+      "front": "Kozy typu mlecznego – wielkość samców",
+      "back": "Do 100 cm w kłębie i 120 kg."
+    },
+    {
+      "front": "Kozy typu mięsnego – plenność, przyrosty, wydajność rzeźna",
+      "back": "Plenność ok. 200%, przyrosty do 200 g/dobę, wydajność rzeźna ok. 60%."
+    },
+    {
+      "front": "Od czego głównie zależy typ użytkowy świń?",
+      "back": "Od tempa wzrostu i wczesności dojrzewania."
+    },
+    {
+      "front": "Świnie typu mięsnego (A)",
+      "back": "Szybko rosnące i późno dojrzewające; wbp, pbz."
+    },
+    {
+      "front": "Świnie typu tłuszczowo-mięsnego (B)",
+      "back": "Szybko rosnące, wcześniej dojrzewające (2–2,5 roku); np. puławska starego typu."
+    },
+    {
+      "front": "Świnie typu słoninowego (C)",
+      "back": "Rosną wolno i późno dojrzewają; prawie całkowicie przestał istnieć."
+    },
+    {
+      "front": "Konie typu wierzchowego",
+      "back": "Rasy gorącokrwiste: czysta krew arabska, pełna krew angielska, szlachetne półkrwi, małopolskie, wielkopolskie."
+    },
+    {
+      "front": "Konie typu pociągowego",
+      "back": "Konie zimnokrwiste (podtypy pociągowo-ciężki – stępaki – i pośpieszno-roboczy)."
+    },
+    {
+      "front": "Typ wierzchowo-zaprzęgowy koni – rasy",
+      "back": "Małopolskie, wielkopolskie i śląskie."
+    },
+    {
+      "front": "Kury typu nieśnego – cechy",
+      "back": "Lekkie, sylwetka trójkątna, silnie rozwinięte przydatki głowowe, nie kwoczą; Leghorn."
+    },
+    {
+      "front": "Kury typu mięsnego – przedstawiciel",
+      "back": "Dominant White Cornish."
+    },
+    {
+      "front": "Kury ogólnoużytkowe – przedstawiciele",
+      "back": "Rhode Island Red, New Hampshire, Sussex, Plymouth Rock, White Rock."
+    },
+    {
+      "front": "Masa indorów typu ciężkiego",
+      "back": "25 kg (indyczki 15 kg)."
+    },
+    {
+      "front": "Kaczki typu nieśnego – przedstawiciele",
+      "back": "Biegusy indyjskie, Khaki Campbell, White Campbell (nie utrzymywane w Polsce)."
+    },
+    {
+      "front": "Kaczki typu mięsnego – masa",
+      "back": "Kaczory 4–5 kg, kaczki 3–3,5 kg."
+    },
+    {
+      "front": "Masa samców gęsi typu ciężkiego",
+      "back": "9–11 kg."
+    },
+    {
+      "front": "Jersey – wydajność mleczna i masa",
+      "back": "4500 l; 350–650 kg."
+    },
+    {
+      "front": "Jersey – udział kazeiny w białku mleka",
+      "back": "80%."
+    },
+    {
+      "front": "Holsztyńsko-fryzyjska – wydajność mleczna",
+      "back": "8000 l."
+    },
+    {
+      "front": "Polska czerwona – wydajność i program ochrony",
+      "back": "3500 l; objęta Programem Ochrony Zasobów Genetycznych Bydła."
+    },
+    {
+      "front": "Rasa bydła o najwyższej wydajności rzeźnej (79%)",
+      "back": "Charolaise."
+    },
+    {
+      "front": "Aberdeen Angus – cechy",
+      "back": "Szkocja, czarna, bezrożna, wczesne dojrzewanie, mięso marmurkowate."
+    },
+    {
+      "front": "Hereford – umaszczenie",
+      "back": "Czerwono-białe z białym pasem od głowy przez mostek."
+    },
+    {
+      "front": "Rasy bydła z podwójnym umięśnieniem / podwójną pośladkowością",
+      "back": "Piemontese (mieszańce) i belgijska białobłękitna."
+    },
+    {
+      "front": "Simentalska – kraj, typ, wydajność",
+      "back": "Szwajcaria, mleczno-mięsna (kombinowana), 4000 l."
+    },
+    {
+      "front": "Plenność rasy romanowskiej",
+      "back": "300%."
+    },
+    {
+      "front": "Wrzosówka – kierunek i plenność",
+      "back": "Kożuchowy; 180%."
+    },
+    {
+      "front": "POZGO",
+      "back": "Program Ochrony Zasobów Genetycznych Owiec."
+    },
+    {
+      "front": "Polska owca długowełnista – odmiany i pochodzenie",
+      "back": "Pomorska i kamieniecka; wytworzona bez udziału merynosa."
+    },
+    {
+      "front": "Najwybitniejsza mleczna rasa kóz",
+      "back": "Saaneńska (Szwajcaria)."
+    },
+    {
+      "front": "Koza burska – pochodzenie i typ",
+      "back": "Afryka; mięsny."
+    },
+    {
+      "front": "Rasy świń komponentu ojcowskiego",
+      "back": "Duroc, Hampshire, Pietrain, belgijska zwisłoucha, linia syntetyczna 990."
+    },
+    {
+      "front": "Rasy świń komponentu matecznego",
+      "back": "Wielka biała polska, polska biała zwisłoucha, puławska, złotnicka biała, złotnicka pstra."
+    },
+    {
+      "front": "Gen „kwaśnego mięsa” (RN-) – rasa",
+      "back": "Hampshire."
+    },
+    {
+      "front": "Gen podatności na stres RYR1 – rasa",
+      "back": "Pietrain."
+    },
+    {
+      "front": "Najliczniejsza rasa świń w hodowli zarodowej",
+      "back": "Polska biała zwisłoucha."
+    },
+    {
+      "front": "Rasy świń objęte hodowlą zachowawczą",
+      "back": "Puławska, złotnicka biała, złotnicka pstra."
+    },
+    {
+      "front": "Konie zimnokrwiste – rasy",
+      "back": "Śląskie, sztumskie, sokolskie."
+    },
+    {
+      "front": "Konie ras prymitywnych",
+      "back": "Huculskie, konie polskie, kuce."
+    },
+    {
+      "front": "Polskie rasy gęsi (przykłady)",
+      "back": "Zatorska, pomorska, suwalska, garbonosa, biłgorajska (oraz biała włoska)."
+    },
+    {
+      "front": "Aberdeen Angus – cechy użytkowe (poza wyglądem)",
+      "back": "Wysokie przyrosty masy ciała, wczesne dojrzewanie, łatwość porodów, wysoka odporność na choroby, mięso marmurkowate."
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Holsztyńsko-fryzyjska (HF) – mleczna, czarno-biała, 700–1000 kg, ok. 8000 l mleka; bardzo dobra przydatność do doju mechanicznego.",
+      "img": "img/ppz2/rasa-hf.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Jersey – mleczna (Wielka Brytania), umaszczenie sarnie z jasną obwódką wokół śluzawicy, mleko bogate w tłuszcz i białko, 350–650 kg.",
+      "img": "img/ppz2/rasa-jersey.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Charolaise – mięsna (Francja), mlecznobiała z odcieniem żółtego, 800–1200 kg, wydajność rzeźna 79%.",
+      "img": "img/ppz2/rasa-charolaise.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Limousine – mięsna (Francja), czerwona jednolita z przejaśnieniami, 700–1100 kg, wydajność rzeźna 70%.",
+      "img": "img/ppz2/rasa-limousine.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Aberdeen Angus – mięsna (Szkocja), czarna, bezrożna, mięso marmurkowate, łatwe porody, wydajność rzeźna 70%.",
+      "img": "img/ppz2/rasa-aberdeen-angus.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Simentalska – kombinowana (mleczno-mięsna, Szwajcaria), biała głowa, reszta ciała ciemna, 750–1300 kg, ok. 4000 l mleka.",
+      "img": "img/ppz2/rasa-simentalska.jpg"
+    },
+    {
+      "front": "Jakie typy użytkowe świń przedstawiono jako A, B i C?",
+      "back": "A – mięsny (szybko rosnące, późno dojrzewające), B – tłuszczowo-mięsny (szybko rosnące, wcześniej dojrzewające), C – słoninowy (rosną wolno, późno dojrzewają).",
+      "img": "img/ppz2/typy-uzytkowe-swin.jpg"
+    },
+    {
+      "front": "Jakie typy użytkowe koni przedstawiono jako A, B i C?",
+      "back": "A – wierzchowy (gorącokrwiste, lekka budowa), B – pociągowy (zimnokrwiste, masywna budowa), C – wierzchowo-zaprzęgowy (cechy pośrednie).",
+      "img": "img/ppz2/typy-uzytkowe-koni.jpg"
+    },
+    {
+      "front": "Typ mleczno-wełnisty owiec – cechy",
+      "back": "Osobniki duże, tryki rogate, głowa długa (u tryków garbonosa), szyja długa, dobrze umięśnione lędźwie, ścięty zad, długie nogi."
+    },
+    {
+      "front": "Typ smuszkowy owiec – charakterystyczne cechy",
+      "back": "Karakuły; cienka długa szyja z tendencją do garbonosości, u tryków rogi rozchodzące się na boki, opuszczone uszy, wąski tułów, mostek cofnięty, ścięty zad, poduszka tłuszczowa u nasady ogona, dolna część ogona lekko skręcona, nogi długie, suche."
+    },
+    {
+      "front": "Typ kożuchowy owiec – cechy",
+      "back": "Niewielkie rozmiary, żywy temperament, u tryków rogi ślimakowate ciemne, słabo umięśnione, tułów krępy, szyja cienka, zad ścięty, skóra niepofałdowana, krótki ogon zwisający powyżej stawów skokowych."
+    },
+    {
+      "front": "Indyki – przedstawiciele typu lekkiego i średniociężkiego",
+      "back": "Lekki – bronz i białe szerokopierśne, bronz standard; średniociężki – białe szerokopierśne, bronz szerokopierśny."
+    },
+    {
+      "front": "Konie typu pociągowego – inne cechy (tab. 2.2)",
+      "back": "Spokojny temperament, praca w wolnym tempie, dobre tempo wzrostu, zastosowanie w użytkowaniu mięsnym."
+    },
+    {
+      "front": "Hampshire – wygląd",
+      "back": "Stojące uszy, mocna konstytucja, czarna z białym pasem wokół klatki piersiowej przez kończyny przednie, cienka słonina."
+    },
+    {
+      "front": "Pietrain – cechy",
+      "back": "Rasa belgijska, biała z ciemnymi plamami, uszy krótkie stojące, szynki silnie umięśnione, wybitnie mięsna, wysoka wydajność rzeźna, gen podatności na stres RYR1."
+    },
+    {
+      "front": "Złotnicka pstra – cechy",
+      "back": "Pstre umaszczenie, zwisające uszy, małe wymagania środowiskowe, odporna na stres, mięso dobrej jakości; objęta hodowlą zachowawczą."
+    },
+    {
+      "front": "Suffolk – rola w krzyżowaniu",
+      "back": "Rasa ojcowska – bardzo dobre cechy mięsne, wysoko plenna, wcześnie dojrzewa."
+    },
+    {
+      "front": "Hereford – cechy użytkowe",
+      "back": "Dobre mięśnie wszystkich partii ciała, wysoka naturalna odporność, dobre wykorzystanie porostu pastwiskowego, łatwość wycieleń, użytkowanie ekstensywne; 600–900 kg, wydajność rzeźna 66%."
+    },
+    {
+      "front": "Wysokość w kłębie i masa ciała koni typu wierzchowego i pociągowego (Tabela 2.2)",
+      "back": "Wierzchowy: 160–170 cm, 500–600 kg (lekka budowa, żywy temperament); pociągowy: 150–160 cm, 600–800 kg (masywna budowa, spokojny temperament)."
+    },
+    {
+      "front": "Wymień rasy owiec objęte POZGO",
+      "back": "Wielkopolska i corriedale (polska owca nizinna), pomorska i kamieniecka (polska owca długowełnista), polska owca górska odmiany barwnej i wrzosówka (okrywa mieszana) oraz olkuska (rasy plenne)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Zespół czynności zapewniających zwierzętom warunki żywieniowe i środowiskowe w celu uzyskania produktów to:",
+      "options": [
+        "chów",
+        "hodowla",
+        "selekcja",
+        "dobór"
+      ],
+      "answer": 0,
+      "explain": "Chów to zespół czynności zapewniających zwierzętom niezbędne warunki żywieniowe i środowiskowe."
+    },
+    {
+      "q": "Potomkowie wybitnie wartościowego przodka męskiego to:",
+      "options": [
+        "rodzina",
+        "odmiana",
+        "ród",
+        "linia syntetyczna"
+      ],
+      "answer": 2,
+      "explain": "Ród to potomkowie wybitnie wartościowego przodka męskiego."
+    },
+    {
+      "q": "Potomkowie wybitnie wartościowego przodka żeńskiego to:",
+      "options": [
+        "ród",
+        "rasa",
+        "typ użytkowy",
+        "rodzina"
+      ],
+      "answer": 3,
+      "explain": "Rodzina to potomkowie wybitnie wartościowego przodka żeńskiego."
+    },
+    {
+      "q": "Podstawą pracy hodowlanej są:",
+      "options": [
+        "selekcja i dobór",
+        "żywienie i pielęgnacja",
+        "chów i tucz",
+        "dój i odchów"
+      ],
+      "answer": 0,
+      "explain": "Podstawą pracy hodowlanej jest selekcja i dobór."
+    },
+    {
+      "q": "Głównym celem pracy hodowlanej jest uzyskanie:",
+      "options": [
+        "większego pogłowia",
+        "niższych kosztów pasz",
+        "postępu hodowlanego",
+        "wyższych cen skupu"
+      ],
+      "answer": 2,
+      "explain": "Głównym celem pracy hodowlanej jest uzyskanie postępu hodowlanego."
+    },
+    {
+      "q": "Według poziomu uszlachetnienia rasy dzieli się na:",
+      "options": [
+        "nizinne i górskie",
+        "rodzime i zagraniczne",
+        "prymitywne, przejściowe, kulturalne",
+        "mięsne, mleczne, wszechstronne"
+      ],
+      "answer": 2,
+      "explain": "Ze względu na poziom uszlachetnienia rasy dzieli się na prymitywne, przejściowe i kulturalne."
+    },
+    {
+      "q": "Typ mleczno-mięsno-roboczy jest typem:",
+      "options": [
+        "wielokierunkowym",
+        "jednokierunkowym",
+        "dwukierunkowym",
+        "prymitywnym"
+      ],
+      "answer": 0,
+      "explain": "Typy wielokierunkowe (kombinowane, wszechstronne) to np. mleczno-mięsno-roboczy."
+    },
+    {
+      "q": "Jałówka to:",
+      "options": [
+        "samica po pierwszym wycieleniu",
+        "cielę żeńskie do 6. miesiąca",
+        "młoda samica przed pierwszym wycieleniem",
+        "samica przeznaczona na opas po wycieleniu"
+      ],
+      "answer": 2,
+      "explain": "Jałówka to młoda samica przed pierwszym wycieleniem."
+    },
+    {
+      "q": "Dorosły samiec bydła użytkowany rozpłodowo to:",
+      "options": [
+        "byk",
+        "byczek",
+        "wałach",
+        "buhaj"
+      ],
+      "answer": 3,
+      "explain": "Buhaj to dorosły samiec użytkowany rozpłodowo, byk – opasowo."
+    },
+    {
+      "q": "Cielęciem nazywa się młody osobnik bydła do:",
+      "options": [
+        "3. miesiąca życia",
+        "12. miesiąca życia",
+        "pierwszego wycielenia",
+        "6. miesiąca życia"
+      ],
+      "answer": 3,
+      "explain": "Cielę to młody osobnik do 6 miesiąca życia."
+    },
+    {
+      "q": "Samiec owcy wykorzystywany do wyszukiwania owiec grzejących się to:",
+      "options": [
+        "tryk rozpłodowy",
+        "szukarek (próbnik)",
+        "cap",
+        "jarlak"
+      ],
+      "answer": 1,
+      "explain": "Szukarek/próbnik to samiec wykorzystywany do wyszukiwania owiec grzejących się."
+    },
+    {
+      "q": "Jarka (jarlica) to:",
+      "options": [
+        "młoda samica owcy przed pierwszym wykotem",
+        "dorosła samica kozy",
+        "jagnię męskie",
+        "samica owcy po wykocie"
+      ],
+      "answer": 0,
+      "explain": "Jarka/jarlica to młoda samica przed pierwszym wykotem."
+    },
+    {
+      "q": "Samiec kozy to:",
+      "options": [
+        "cap",
+        "tryk",
+        "knur",
+        "kozioł próbnik"
+      ],
+      "answer": 0,
+      "explain": "Cap to samiec kozy."
+    },
+    {
+      "q": "Tucznik to osobnik przeznaczony na tucz o masie:",
+      "options": [
+        "10–30 kg",
+        "120–200 kg",
+        "40–120 kg",
+        "20–40 kg"
+      ],
+      "answer": 2,
+      "explain": "Tucznik to osobnik przeznaczony na tucz (40–120 kg)."
+    },
+    {
+      "q": "Warchlak to:",
+      "options": [
+        "prosię ssące",
+        "samiec świni",
+        "tucznik powyżej 100 kg",
+        "młoda świnia po odsadzeniu"
+      ],
+      "answer": 3,
+      "explain": "Warchlak to młody osobnik po odsadzeniu."
+    },
+    {
+      "q": "Wykastrowany ogier to:",
+      "options": [
+        "roczniak",
+        "wałach",
+        "klacz",
+        "źrebię"
+      ],
+      "answer": 1,
+      "explain": "Wałach to wykastrowany ogier."
+    },
+    {
+      "q": "Sylwetka krowy typu mlecznego jest wpisana w:",
+      "options": [
+        "prostokąt",
+        "trójkąt",
+        "kwadrat",
+        "koło"
+      ],
+      "answer": 1,
+      "explain": "Typ mleczny bydła ma sylwetkę wpisaną w trójkąt."
+    },
+    {
+      "q": "Widok zadu od tyłu u bydła typu mięsnego przypomina:",
+      "options": [
+        "owal",
+        "trójkąt",
+        "koło",
+        "trapez"
+      ],
+      "answer": 2,
+      "explain": "U typu mięsnego widok zadu od tyłu przypomina koło."
+    },
+    {
+      "q": "Słabo rozwinięte wymię i beczkowata klatka piersiowa to cechy bydła typu:",
+      "options": [
+        "mięsnego",
+        "mlecznego",
+        "mleczno-mięsnego",
+        "roboczego"
+      ],
+      "answer": 0,
+      "explain": "Typ mięsny ma beczkowatą klatkę piersiową i słabo rozwinięte wymię."
+    },
+    {
+      "q": "Przedstawicielem owiec typu smuszkowego są:",
+      "options": [
+        "karakuły",
+        "merynosy",
+        "romanowskie",
+        "suffolki"
+      ],
+      "answer": 0,
+      "explain": "Przedstawiciele typu smuszkowego to karakuły."
+    },
+    {
+      "q": "Wysoka plenność (ok. 200%), przyrosty do 200 g i wydajność rzeźna ok. 60% charakteryzują kozy typu:",
+      "options": [
+        "mlecznego",
+        "wszechstronnego",
+        "mięsnego",
+        "puchowego"
+      ],
+      "answer": 2,
+      "explain": "Typ mięsny kóz: plenność ok. 200%, przyrosty do 200 g, wydajność rzeźna ok. 60%."
+    },
+    {
+      "q": "Świnie szybko rosnące i późno dojrzewające należą do typu:",
+      "options": [
+        "tłuszczowo-mięsnego",
+        "mięsnego",
+        "słoninowego",
+        "smalcowego"
+      ],
+      "answer": 1,
+      "explain": "Do typu mięsnego zalicza się świnie szybko rosnące i późno dojrzewające."
+    },
+    {
+      "q": "Typ użytkowy świń, który prawie całkowicie przestał istnieć, to typ:",
+      "options": [
+        "mięsny",
+        "słoninowy",
+        "tłuszczowo-mięsny",
+        "bekonowy mieszany"
+      ],
+      "answer": 1,
+      "explain": "Typ słoninowy prawie całkowicie przestał istnieć."
+    },
+    {
+      "q": "Do typu wierzchowego koni należą rasy:",
+      "options": [
+        "zimnokrwiste",
+        "prymitywne",
+        "kuce",
+        "gorącokrwiste"
+      ],
+      "answer": 3,
+      "explain": "Typ wierzchowy reprezentują rasy gorącokrwiste."
+    },
+    {
+      "q": "Kury, które nie kwoczą, mają silnie rozwinięte przydatki głowowe i sylwetkę zbliżoną do trójkąta, należą do typu:",
+      "options": [
+        "mięsnego",
+        "nieśnego",
+        "ogólnoużytkowego",
+        "ozdobnego"
+      ],
+      "answer": 1,
+      "explain": "Typ nieśny kur: sylwetka trójkątna, silne przydatki głowowe, nie kwoczą."
+    },
+    {
+      "q": "Przedstawicielem kur typu mięsnego jest:",
+      "options": [
+        "Leghorn",
+        "Dominant White Cornish",
+        "Rhode Island Red",
+        "Sussex"
+      ],
+      "answer": 1,
+      "explain": "Przedstawiciel typu mięsnego kur to Dominant White Cornish."
+    },
+    {
+      "q": "Masa ciała indorów typu ciężkiego wynosi:",
+      "options": [
+        "25 kg",
+        "8–12 kg",
+        "12–16 kg",
+        "15 kg"
+      ],
+      "answer": 0,
+      "explain": "Indory typu ciężkiego osiągają 25 kg."
+    },
+    {
+      "q": "Kaczki typu nieśnego (biegusy indyjskie, Khaki Campbell):",
+      "options": [
+        "są najliczniejsze w Polsce",
+        "mają poziomą postawę ciała",
+        "osiągają 4–5 kg",
+        "nie są utrzymywane w Polsce"
+      ],
+      "answer": 3,
+      "explain": "Kaczki typu nieśnego nie są utrzymywane w Polsce."
+    },
+    {
+      "q": "Masa samców gęsi typu ciężkiego wynosi:",
+      "options": [
+        "4–6 kg",
+        "7–8 kg",
+        "9–11 kg",
+        "12–14 kg"
+      ],
+      "answer": 2,
+      "explain": "Samce gęsi typu ciężkiego ważą 9–11 kg."
+    },
+    {
+      "q": "Rasa bydła o umaszczeniu sarnim z jasną obwódką wokół śluzawicy to:",
+      "options": [
+        "polska czerwona",
+        "jersey",
+        "limousine",
+        "blonde d’Aquitaine"
+      ],
+      "answer": 1,
+      "explain": "Jersey ma umaszczenie sarnie z jasną obwódką wokół śluzawicy."
+    },
+    {
+      "q": "Wydajność mleczna rasy holsztyńsko-fryzyjskiej podana w materiale wynosi:",
+      "options": [
+        "4500 l",
+        "3500 l",
+        "6000 l",
+        "8000 l"
+      ],
+      "answer": 3,
+      "explain": "Rasa h-f – wydajność mleczna 8000 l."
+    },
+    {
+      "q": "Programem Ochrony Zasobów Genetycznych Bydła objęta jest rasa:",
+      "options": [
+        "holsztyńsko-fryzyjska",
+        "charolaise",
+        "polska czerwona",
+        "jersey"
+      ],
+      "answer": 2,
+      "explain": "Polska czerwona jest objęta Programem Ochrony Zasobów Genetycznych Bydła."
+    },
+    {
+      "q": "Najwyższą wydajność rzeźną (79%) wśród opisanych ras ma rasa:",
+      "options": [
+        "hereford",
+        "charolaise",
+        "blonde d’Aquitaine",
+        "limousine"
+      ],
+      "answer": 1,
+      "explain": "Charolaise – wydajność rzeźna 79%."
+    },
+    {
+      "q": "Bezrożna, czarna rasa ze Szkocji o mięsie marmurkowatym to:",
+      "options": [
+        "hereford",
+        "piemontese",
+        "aberdeen angus",
+        "simentalska"
+      ],
+      "answer": 2,
+      "explain": "Aberdeen Angus: Szkocja, czarne umaszczenie, bezrożność, mięso marmurkowate."
+    },
+    {
+      "q": "Rasa simentalska pochodzi z:",
+      "options": [
+        "Francji",
+        "Belgii",
+        "Wielkiej Brytanii",
+        "Szwajcarii"
+      ],
+      "answer": 3,
+      "explain": "Rasa simentalska pochodzi ze Szwajcarii."
+    },
+    {
+      "q": "Rasa owiec o bardzo wysokiej plenności (300%) to:",
+      "options": [
+        "merynos polski",
+        "pomorska",
+        "czarnogłówka",
+        "romanowska"
+      ],
+      "answer": 3,
+      "explain": "Romanowska ma bardzo wysoką plenność (300%)."
+    },
+    {
+      "q": "Polska owca długowełnista została wytworzona:",
+      "options": [
+        "bez udziału merynosa",
+        "z udziałem merynosa polskiego",
+        "z udziałem karakułów",
+        "z udziałem romanowskiej"
+      ],
+      "answer": 0,
+      "explain": "Polska owca długowełnista (pomorska, kamieniecka) wytworzona bez udziału merynosa."
+    },
+    {
+      "q": "Najwybitniejsza mleczna rasa kóz, używana do uszlachetniania innych ras, to:",
+      "options": [
+        "burska",
+        "saaneńska",
+        "alpejska",
+        "barwna uszlachetniona"
+      ],
+      "answer": 1,
+      "explain": "Saaneńska to najwybitniejsza rasa mleczna kóz, używana do uszlachetniania."
+    },
+    {
+      "q": "Gen podatności na stres RYR1 występuje u świń rasy:",
+      "options": [
+        "duroc",
+        "wielkiej białej polskiej",
+        "złotnickiej pstrej",
+        "pietrain"
+      ],
+      "answer": 3,
+      "explain": "Pietrain posiada gen podatności na stres RYR1."
+    },
+    {
+      "q": "Do ras komponentu matecznego świń należy:",
+      "options": [
+        "polska biała zwisłoucha",
+        "duroc",
+        "hampshire",
+        "pietrain"
+      ],
+      "answer": 0,
+      "explain": "Pbz należy do ras komponentu matecznego."
+    },
+    {
+      "q": "Jaka rasa bydła jest na zdjęciu?",
+      "options": [
+        "Jersey",
+        "Limousine",
+        "Charolaise",
+        "Simentalska"
+      ],
+      "answer": 0,
+      "explain": "Jersey – mleczna rasa o sarnim umaszczeniu z jasną obwódką wokół śluzawicy.",
+      "img": "img/ppz2/rasa-jersey.jpg"
+    },
+    {
+      "q": "Jaka rasa bydła jest na zdjęciu (czarna, bezrożna, mięsna)?",
+      "options": [
+        "Aberdeen Angus",
+        "Hereford",
+        "Holsztyńsko-fryzyjska",
+        "Polska czerwona"
+      ],
+      "answer": 0,
+      "explain": "Aberdeen Angus – czarna, bezrożna rasa mięsna ze Szkocji.",
+      "img": "img/ppz2/rasa-aberdeen-angus.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jak nazywa się młoda samica bydła przed pierwszym wycieleniem?",
+      "options": [
+        "Byczek.",
+        "Krowa.",
+        "Jałówka.",
+        "Cielę."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… – zespół czynności, dzięki którym zwierzęta mają zapewnione niezbędne warunki żywieniowe i środowiskowe.",
+      "options": [
+        "Hodowla",
+        "Chów"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJarka to jedno z określeń odnoszących się do młodej samicy owcy przed pierwszym wykotem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych nazw odnoszą się do kóz w różnych grupach wiekowych?",
+      "options": [
+        "Koźlę.",
+        "Jagnię.",
+        "Koza.",
+        "Cap."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to zespół cech użytkowych, produkcyjnych i pokrojowych kwalifikujących zwierzę do określonego kierunku użytkowania.",
+      "options": [
+        "Typ użytkowy",
+        "Gatunek"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBrojler to określenie stosowane przy klasyfikacji drobiu, a odnoszące się do osobnika przeznaczonego na tucz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych nazw nie odnosi się do trzody chlewnej w różnych grupach wiekowych?",
+      "options": [
+        "Knur.",
+        "Prosię.",
+        "Maciorka.",
+        "Locha."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… – grupa osobników o zbliżonych cechach zewnętrznych (pokroju) pochodzących od wspólnego przodka.",
+      "options": [
+        "Rasa",
+        "Gatunek"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Świnie typu mięsnego należą do szybko rosnących, jednak dojrzewają wcześniej niż świnie typu tłuszczowo-mięsnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych nazw odnoszą się do koni w różnych grupach wiekowych?",
+      "options": [
+        "Warchlak.",
+        "Źrebię.",
+        "Ogier.",
+        "Klacz."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… polega na wyborze zwierząt będących najbardziej wartościowym materiałem hodowlanym z przeznaczeniem do rozrodu.",
+      "options": [
+        "Selekcja",
+        "Dobór"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMaciorka to samica trzody chlewnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie grupy ras wyróżnia się, jeżeli chodzi o poziom (stopień) uszlachetnienia?",
+      "options": [
+        "Przejściowe.",
+        "Mięsne.",
+        "Prymitywne.",
+        "Kulturalne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to różnica genetyczna między wartością danej cechy u określonego osobnika (potomka) a wartością tej cechy w stadzie, z którego pochodzą rodzice.",
+      "options": [
+        "Odmiana",
+        "Postęp hodowlany"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW obrębie gatunku wyróżnia się mniejsze grupy, takie jak rasa czy ród.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z typów użytkowych nie dotyczy trzody chlewnej?",
+      "options": [
+        "Mleczny.",
+        "Mięsny.",
+        "Tłuszczowo-mięsny.",
+        "Słoninowy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy dzisiejszym poziomie rozwoju rolnictwa sposób wykorzystania … jest ograniczony.",
+      "options": [
+        "koni",
+        "owiec"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLinia hodowlana to grupa osobników wyodrębniona z rasy na podstawie rodu lub rodziny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie typy użytkowe kóz możemy wyróżnić?",
+      "options": [
+        "Mleczny.",
+        "Wszechstronnie użytkowy.",
+        "Mięsny.",
+        "Tłuszczowo-mięsny."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to grupa zwierząt danej rasy różniąca się jakąś cechą od pozostałych zwierząt tej rasy.",
+      "options": [
+        "Odmiana.",
+        "Rasa."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPosługiwanie się profesjonalną terminologią nie ma żadnego wpływu na pracę rolnika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które typy użytkowe odnoszą się do koni?",
+      "options": [
+        "Typ pociągowy.",
+        "Typ mięsny.",
+        "Typ wierzchowo-pociągowy.",
+        "Typ wierzchowy."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPotomkowie wybitnie wartościowego przodka męskiego to ….",
+      "options": [
+        "rodzina",
+        "ród"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMieszańce użytkowe kur utrzymywane są na fermach w celu uzyskania jaj spożywczych oraz dla mięsa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z typów użytkowych nie dotyczy indyków?",
+      "options": [
+        "Typ średniociężki.",
+        "Typ nieśny.",
+        "Typ lekki.",
+        "Typ ciężki."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDziałania człowieka zmierzające do udoskonalenia cech genetycznych danego gatunku lub rasy przy równoczesnym pokryciu potrzeb żywieniowych i zapewnieniu warunków utrzymania to ….",
+      "options": [
+        "praca hodowlana",
+        "postęp hodowlany"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonie małopolskie, wielkopolskie i śląskie są przykładami typu wierzchowo-zaprzęgowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które typy użytkowe odnoszą się do kaczek?",
+      "options": [
+        "Typ średniociężki.",
+        "Typ ogólnoużytkowy.",
+        "Typ nieśny.",
+        "Typ mięsny."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzeznaczenie do rozrodu osobników (samców i samic) wybranych na drodze selekcji w celu uzyskania równie lub bardziej wartościowego potomstwa to ….",
+      "options": [
+        "dobór",
+        "selekcja"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKozy reprezentują nieco szerszy niż owce wachlarz możliwości użytkowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z wymienionych ras odnosi się do kur?",
+      "options": [
+        "Sussex.",
+        "Khaki Campbell.",
+        "Bronz Szerokopierśny.",
+        "Suwalska."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMłoda samica bydła przed pierwszym wycieleniem to ….",
+      "options": [
+        "jałówka",
+        "jałóweczka"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOsobniki typu wszechstronnie użytkowego bydła wykazują cechy pokroju pośrednie pomiędzy typami mlecznym a mięsnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych nazw odnoszą się do trzody chlewnej w różnych grupach wiekowych?",
+      "options": [
+        "Warchlak.",
+        "Tryk.",
+        "Maciora.",
+        "Tucznik."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDorosła samica trzody chlewnej to ….",
+      "options": [
+        "maciorka",
+        "maciora"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzykładem przedstawicieli typu mięsnego wśród bydła jest rasa holsztyńsko-fryzyjska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z ras kur jest typem nieśnym?",
+      "options": [
+        "Dominant White Cornish.",
+        "Plymouth Rock.",
+        "Leghorn.",
+        "Rhode Island Red."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to dorosły samiec użytkowany rozpłodowo.",
+      "options": [
+        "Byk",
+        "Buhaj"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLinię hodowlaną stanowią zwierzęta pochodzące od wybitnego przodka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych nazw odnoszą się do owiec w różnych grupach wiekowych?",
+      "options": [
+        "Tryk.",
+        "Szukarek.",
+        "Maciorka.",
+        "Jagnię."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzez … rozumie się wielkość dziennych przyrostów masy ciała.",
+      "options": [
+        "tempo wzrostu",
+        "wczesność dojrzewania"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłównym celem pracy hodowlanej jest uzyskanie określonych produktów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z wymienionych ras nie dotyczy kaczek?",
+      "options": [
+        "New Hampshire.",
+        "Biegusy indyjskie.",
+        "Pekin.",
+        "White Campbell."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nGłównym celem … jest uzyskanie określonych produktów, np. mięsa, mleka i jaj.",
+      "options": [
+        "chowu",
+        "hodowli"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRasa powstaje w wyniku ingerencji człowieka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakiego określenia używamy, mówiąc o potomkach wybitnie wartościowego przodka męskiego?",
+      "options": [
+        "Odmiana.",
+        "Ród.",
+        "Rodzina.",
+        "Rasa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHodowla to zespół czynności, dzięki którym zwierzęta mają zapewnione niezbędne warunki żywieniowe i środowiskowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przy podziale ras według typu użytkowego wyróżniamy:",
+      "options": [
+        "rasy mleczne.",
+        "rasy rodzime.",
+        "rasy wszechstronnie użytkowe.",
+        "rasy mięsne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Który termin nie odnosi się do trzody chlewnej?",
+      "options": [
+        "Warchlak.",
+        "Maciora.",
+        "Próbnik.",
+        "Locha."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTyp użytkowy to zespół cech użytkowych, produkcyjnych i pokrojowych kwalifikujących zwierzę do określonego kierunku użytkowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na jakie rasy możemy dokonać podziału ze względu na ukształtowanie terenu?",
+      "options": [
+        "Rasy przejściowe.",
+        "Rasy górskie.",
+        "Rasy nizinne.",
+        "Rasy prymitywne."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak nazywa się dorosły samiec użytkowany opasowo?",
+      "options": [
+        "Tryk.",
+        "Cielę.",
+        "Byczek.",
+        "Byk."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRodzina to grupa zwierząt danej rasy różniąca się jakąś cechą od pozostałych zwierząt tej rasy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywa się dorosła samica owcy?",
+      "options": [
+        "Maciorka.",
+        "Jarka.",
+        "Jagnię.",
+        "Maciora."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych nazw odnoszą się do owiec w zależności od grupy wiekowo-produkcyjnej?",
+      "options": [
+        "Koźlę.",
+        "Próbnik.",
+        "Cielę.",
+        "Maciorka."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Selekcja polega na wyborze zwierząt będących najbardziej wartościowym materiałem hodowlanym z przeznaczeniem do rozrodu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie określenie pasuje do dorosłego samca kozy?",
+      "options": [
+        "Tryk.",
+        "Cap.",
+        "Szukarek.",
+        "Koza."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które określenia odnoszą się do owiec w zależności od grupy wiekowej?",
+      "options": [
+        "Jarka.",
+        "Szukarek.",
+        "Jagnię.",
+        "Maciora."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJarlica to młoda samica owcy przed pierwszym wykotem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJarka to młoda samica kozy przed pierwszym wykotem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z nazw nie odnosi się do koni?",
+      "options": [
+        "Roczniak.",
+        "Szukarek.",
+        "Ogier.",
+        "Klacz."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPisklę to potomstwo kury, kaczki, gęsi, indyka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras krów są przedstawicielami typu mlecznego?",
+      "options": [
+        "Aberdeen Angus.",
+        "Holsztyńsko-fryzyjska.",
+        "Piemotese.",
+        "Jersey."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRasa krów limousin to przedstawiciel typu mięsnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras krów są przedstawicielami typu mięsnego?",
+      "options": [
+        "Piemontese.",
+        "Jersey.",
+        "Simental.",
+        "Charolaise."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych określeń odnosi się do drobiu, nie identyfikując równocześnie gatunku?",
+      "options": [
+        "Pisklę.",
+        "Gąsior.",
+        "Jarlica.",
+        "Roczniak."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBydło typu dwukierunkowego i mieszanego wykazuje cechy pokroju pośredniego pomiędzy mlecznym a mięsnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rasy kóz będące przedstawicielami typu mlecznego.",
+      "options": [
+        "Rasa burska.",
+        "Rasa saaneńska.",
+        "Rasa alpejska.",
+        "Rasa biała uszlachetniona."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwce jako gatunek zwierząt gospodarskich posiadają węższy wachlarz wykorzystania niż kozy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZatorska, pomorska, biała włoska i suwalska to rasy gęsi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż typy użytkowe, jakie wyróżnia się przy podziale trzody chlewnej.",
+      "options": [
+        "Typ mleczny.",
+        "Typ tłuszczowo-mięsny.",
+        "Typ słoninowy.",
+        "Typ mięsny."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPosługiwanie się profesjonalną terminologią ułatwia rozumienie branżowych czasopism, książek, materiałów szkoleniowych, filmów i informacji pochodzących z innych źródeł.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGatunek to grupa osobników o zbliżonych cechach zewnętrznych (pokroju) pochodzących od wspólnego przodka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rasy koni typu wierzchowo-zaprzęgowego.",
+      "options": [
+        "Konie zimnokrwiste.",
+        "Konie śląskie.",
+        "Konie gorącokrwiste.",
+        "Konie małopolskie."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGrupa osobników wyodrębniona z rasy na podstawie rodu lub rodziny to linia hodowlana.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż typy użytkowe podziału drobiu odnoszące się do indyków.",
+      "options": [
+        "Typ lekki.",
+        "Typ średniociężki.",
+        "Typ mięsny.",
+        "Typ nieśny."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Która z wymienionych ras nie dotyczy kur?",
+      "options": [
+        "New Hampshire.",
+        "Leghorn.",
+        "Dominant White Cornish.",
+        "White Campbell."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTerminologia obejmująca nazwy zwierząt gospodarskich nie zależy od grupy wiekowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras są rasami trzody chlewnej?",
+      "options": [
+        "Hampshire.",
+        "Piemotese.",
+        "Duroc.",
+        "Saaneńska."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBrojler (kurzy, indyczy, gęsi) to osobnik przeznaczony na tucz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

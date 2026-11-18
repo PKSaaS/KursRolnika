@@ -1,0 +1,2178 @@
+{
+  "id": "ur7",
+  "course": "Uprawa roślin",
+  "title": "Rośliny specjalne",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Rośliny specjalne – rośliny przemysłowe specjalnego przeznaczenia, uprawiane na plantacjach.",
+        "Główni przedstawiciele w Polsce: tytoń, chmiel, wiklina."
+      ]
+    },
+    {
+      "heading": "1. Znaczenie gospodarcze – tytoń",
+      "points": [
+        "Tytoń należy do rodziny psiankowatych (Solanaceae); pochodzi z Ameryki Południowej.",
+        "Do Europy dotarł w XVI w. dzięki Jeanowi Nicotowi – od jego nazwiska pochodzi nazwa łacińska.",
+        "Polska jest najbardziej wysuniętym na północ krajem produkującym tytoń na znaczną skalę; czołowy producent – Chiny (ok. 40% produkcji).",
+        "Formy konsumpcji: tytoń do żucia, tabaka, tytoń do palenia; ok. 90% w postaci papierosów.",
+        "Tytoń jest rośliną jednoroczną; najważniejsze gatunki: Nicotiana tabacum – tytoń szlachetny, Nicotiana rustica – machorka.",
+        "Papierosowy jasny – jasne liście, nikotyna 0,5–1,5%, gleby lekkie, umiarkowane nawożenie.",
+        "Papierosowy ciężki – ciemne liście, nikotyna 1,5–3,0%, gleby żyzne, intensywne nawożenie.",
+        "Cygarowy – liście duże, elastyczne, ciemne, nikotyna ok. 1%; duża wilgotność, wysoka temperatura, światło rozproszone.",
+        "Orientalny – liście jasne, drobne, najwyższej jakości (bogaty aromat); typy Virginia, Burley, Kentucky, Maryland – wielkolistne.",
+        "Machorkowy – liście brunatne, nikotyna 2,5–3,0%; z powodu niskiej jakości niemal zaniechany.",
+        "W Polsce uprawia się tytoń papierosowy ciemny typu Puławski i Mocny Skroniowski (szerokolistne).",
+        "Tytoń należy do najbardziej pracochłonnych upraw.",
+        "W Ameryce Południowej tytoń służył do żucia, palenia oraz celów leczniczych i obrzędowych; w Europie początkowo traktowano go jako roślinę ozdobną i leczniczą, z czasem stał się używką prowadzącą do uzależnień.",
+        "Ze względu na wysokie wymagania cieplne tytoń najlepiej udaje się w klimacie gorącym i tropikalnym.",
+        "Formy konsumpcji obejmują też tytoń wąchany (tabaka – sproszkowany tytoń), fajkowy i cygara; typy i odmiany różnią się cechami morfologicznymi i właściwościami degustacyjnymi.",
+        "Indianie nazywali zwinięte w rulonik suszone liście tytoniu „tobacco”.",
+        "Tytoń przywiózł do Europy francuski poseł Jean Nicot de Villemain; sproszkowany tytoń stosowano np. jako środek na ból głowy.",
+        "Początkowo tytoń uprawiano na dużą skalę na plantacjach w Ameryce Północnej i Południowej oraz na Kubie i Haiti (kolonie Hiszpanii); z czasem w większości krajów świata.",
+        "Papierosowy jasny – rośliny klimatu umiarkowanego lub ciepłego; cygarowy – wysokie wymagania glebowe i klimatyczne; orientalny – tytoń obszaru śródziemnomorskiego; typy Virginia, Burley, Kentucky, Maryland – klimatu umiarkowanego.",
+        "Machorka wymaga gleb żyznych, intensywnego nawożenia i obfitych opadów.",
+        "Uprawa tytoniu daje zatrudnienie milionom ludzi (uprawa, przerób, obrót), napędza inne gałęzie przemysłu (materiały budowlane, nawozy, środki ochrony, maszyny), a surowiec i wyroby są ważnym eksportem wielu krajów."
+      ],
+      "images": [
+        {
+          "src": "img/ur7/tyton.jpg",
+          "caption": "Tytoń (Nicotina) na plantacji – roślina jednoroczna o bardzo dużych liściach."
+        },
+        {
+          "src": "img/ur7/kwiaty-tytoniu.jpg",
+          "caption": "Kwiatostan tytoniu – różowe, rurkowate kwiaty."
+        },
+        {
+          "src": "img/ur7/formy-konsumpcji-tytoniu.jpg",
+          "caption": "Formy konsumpcji tytoniu: tytoń do palenia (fajkowy, cygara, papierosy), tytoń do żucia i tabaka (wąchany, sproszkowany tytoń). Około 90% tytoniu konsumuje się w postaci papierosów."
+        },
+        {
+          "src": "img/ur7/gatunki-tytoniu-schemat.jpg",
+          "caption": "Najpopularniejsze gatunki tytoniu: Nicotiana tabacum – tytoń szlachetny oraz Nicotiana rustica – tytoń machorka. Tytoń uprawiany jest w wielu typach i odmianach, zależnych od warunków klimatycznych; różnią się cechami morfologicznymi i właściwościami degustacyjnymi."
+        }
+      ]
+    },
+    {
+      "heading": "1. Znaczenie gospodarcze – chmiel i wiklina",
+      "points": [
+        "Chmiel – rodzina konopiowatych (Cannabaceae), roślina wieloletnia (uprawa przeciętnie 20 lat), pochodzi z Azji (Kaukaz).",
+        "Uprawiany głównie między 35 a 60° szerokości geograficznej północnej; głównie surowiec do piwa.",
+        "Skupiska upraw w Polsce: Lubelszczyzna (ok. 81%), Wielkopolska – okolice Nowego Tomyśla (ok. 9%), Opolszczyzna – okolice Nysy (ok. 5%).",
+        "Rozporządzenie MRiRW z 6 lipca 2001 r.: rejony uprawy chmielu – lubelski (83%), wielkopolski (10,4%), dolnośląski (6,6%).",
+        "Od 1 stycznia 2014 r. nowe plantacje tylko w wyznaczonych rejonach – do obrotu wyłącznie chmiel certyfikowany (ustawa z 19 grudnia 2003 r.).",
+        "Polska – 3. producent chmielu w Europie, 5. na świecie (za Niemcami, USA, Czechami i Chinami).",
+        "Chmiel aromatyczny – Lubelski; goryczkowy – Marynka i Magnum; najbardziej poszukiwany przez browary – Magnum.",
+        "Szyszki: piwo, kosmetyki, farmacja (lupulina, olejek, gorycze – działanie uspokajające, bakteriostatyczne, moczopędne); młode pędy jadalne.",
+        "Odmiana ozdobna Aureus – złocisty chmiel.",
+        "Wiklina (wierzba koszykarska) – pierwsze plantacje w Polsce w XIX w. koło Rudnika nad Sanem (dziś największy ośrodek) i w Wielkopolsce.",
+        "Wiklina – roślina wieloletnia (użytkowanie przeciętnie 15 lat), bez specjalnych wymagań, także na glebach zanieczyszczonych.",
+        "Zastosowanie wikliny: kosze, meble, umacnianie brzegów rzek i rowów, kora w farmacji (kwas salicylowy), opał, przemysł celulozowo-papierniczy, roślina miododajna.",
+        "Polska jest wiodącym światowym producentem i eksporterem wyrobów wikliniarskich.",
+        "Gatunki: wierzba amerykańska – amerykanka (Salix cordata) ok. 80% upraw; wierzba wiciowa – konopianka (Salix viminalis) ok. 20%; także biała, migdałolistna, iwa, purpurowa.",
+        "Chmiel dotarł do Europy najprawdopodobniej w czasie wielkiej wędrówki ludów; uprawiany głównie między 35 a 60°N (USA, Europa, Chiny), w dużo mniejszym stopniu między 35 a 60°S (Tasmania, Nowa Zelandia, Afryka, Ameryka Płd.).",
+        "Najwięcej chmielu produkują kraje o dużej produkcji i spożyciu piwa (np. Czechy, Niemcy, USA); w Polsce na Lubelszczyźnie uprawy skupiają się w pasie nadwiślańskim.",
+        "Rozporządzenie MRiRW z 6 lipca 2001 r. określa rejony uprawy chmielu i minimalne wymagania jakości chmielu (wilgotność, zanieczyszczenia organiczne, zawartość nasion); ustawa z 19 grudnia 2003 r. dotyczy organizacji rynków owoców i warzyw, chmielu, tytoniu i suszu paszowego.",
+        "Podział na chmiel aromatyczny i goryczkowy opiera się na zawartości i proporcjach żywic i olejków eterycznych.",
+        "Wyciąg z szyszek chmielu opóźnia starzenie się skóry (kosmetyki).",
+        "Chmiel w żywieniu: młode pędy do surówek i zup (ugotowane przypominają szparagi), liście do zup lub jako potrawa, wywar z szyszek może zastąpić drożdże w zaczynie chlebowym.",
+        "Chmiel zwyczajny bywa rośliną ozdobną (osłanianie ścian, słupów, altan) dzięki ciemnozielonym liściom i szyszkom.",
+        "Wiklina była znana już w starożytności (wykopaliska w Egipcie, Grecji, Chinach); naturalnie rośnie w dolinach rzek; dawniej także materiał opałowy i budowlany (ogrodzenia).",
+        "Plantacje wikliny można zakładać na terenach i glebach nieprzydatnych do innych upraw.",
+        "Wyroby z wikliny: kosze, obręcze, meble (fotele, leżaki, krzesła, łóżeczka dziecięce), wyroby ozdobne.",
+        "Kora wikliny działa przeciwbólowo, przeciwgorączkowo, przeciwzapalnie i przeciwzakrzepowo; w przemyśle celulozowo-papierniczym wiklina służy do produkcji tektury, kartonów, płyt pilśniowych i izolacyjnych.",
+        "Pozostałe gatunki wierzb na wiklinę: biała (Salix alba), migdałolistna (Salix amygdalina), iwa (Salix caprea), purpurowa (Salix purpurea).",
+        "Większymi od Polski producentami chmielu na świecie są: Niemcy, USA, Czechy i Chiny.",
+        "Produkcja i obróbka wikliny dają zatrudnienie bardzo wielu osobom; wiklinę wykorzystuje się też w pszczelarstwie jako roślinę miododajną."
+      ],
+      "images": [
+        {
+          "src": "img/ur7/chmielnik.jpg",
+          "caption": "Chmielnik – chmiel zwyczajny (Humulus lupulus) wspina się po przewodnikach rozpiętych na słupach i drutach."
+        },
+        {
+          "src": "img/ur7/szyszki-chmielu.jpg",
+          "caption": "Szyszki chmielu zwyczajnego – surowiec dla browarów (lupulina), przemysłu kosmetycznego i farmaceutycznego."
+        },
+        {
+          "src": "img/ur7/wiklina.jpg",
+          "caption": "Wiklina (Salix) – ogłowione wierzby i ścięte pędy wikliny; surowiec do koszykarstwa i plecionkarstwa."
+        }
+      ]
+    },
+    {
+      "heading": "2. Wymagania klimatyczno-glebowe",
+      "points": [
+        "Tytoń lubi ciepło, jest bardzo wrażliwy na przymrozki (majowe uszkadzają rozsadę, wrześniowe niszczą zbiór) i na różnice temperatur powietrze–gleba.",
+        "Tytoniowi wystarczają przeciętne opady w Polsce; groźne są grad i silny wiatr (kurz i piasek zanieczyszczają liście).",
+        "Papierosowe jasne – najmniejsze wymagania: piaski gliniaste, spiaszczone lessy, lekkie mady.",
+        "Papierosowe ciemne – gleby średnio zwięzłe, urodzajne, głębokie: czarnoziemy, lessy, lekkie i średnie mady próchniczne.",
+        "Cygarowe – gleby głębokie, przewiewne, silnie próchniczne.",
+        "Chmielowi szkodzą mróz poniżej –20°C, późne przymrozki i upały w lipcu.",
+        "Optimum chmielu: średnia roczna 7,5–8,5°C (w sezonie 15–18°C); jest światłolubny, zwłaszcza w kwitnieniu i dojrzewaniu szyszek.",
+        "Chmiel zużywa ok. 600 l wody na 1 kg suchej masy; dobre rejony – opady 450–600 mm rocznie.",
+        "Gleby pod chmiel: żyzne, głębokie, zasobne w wodę, przewiewne, pH 6,5–7 – czarnoziemy, czarne ziemie, mady pyłowe średnie.",
+        "Wiklina jest mało wymagająca; dużo wody potrzebuje w lipcu i sierpniu (intensywny wzrost pędów); groźny grad i wczesnowiosenne przymrozki.",
+        "Wiklina nie udaje się na glebach wapiennych, mocno zakwaszonych, ciężkich madach i iłach.",
+        "Niskie temperatury w okresie dojrzewania liści obniżają jakość surowca tytoniu; tytoń lubi znaczne ilości wody.",
+        "Tytonie papierosowe jasne: gleby średnio urodzajne, piaszczyste, mało i średnio próchniczne, umiarkowanie wilgotne.",
+        "Tytonie cygarowe – np. lekkie próchniczne mady lub głębokie piaski gliniaste, zapewniające wodę i składniki pokarmowe.",
+        "Chmiel – roślina klimatu umiarkowanego o dość dużych wymaganiach cieplnych; spadki temperatur w kwietniu i maju hamują wzrost, skracają kwitnienie i zmniejszają plon szyszek.",
+        "Chmiel pobiera wodę z opadów, z zimowych zapasów w glebie i z porannej rosy; grad i silne wiatry obniżają plon i mogą niszczyć konstrukcje nośne.",
+        "Gleby pod chmiel muszą być strukturalne, o dużej miąższości warstwy ornej.",
+        "Susza w lipcu–sierpniu zmniejsza plon wikliny; grad we wczesnym okresie wzrostu uszkadza pędy; wiklina nie wymaga wysokich temperatur.",
+        "Wiklina nie udaje się na ciężkich madach i iłach z powodu złych warunków powietrznych."
+      ]
+    },
+    {
+      "heading": "3. Stanowisko w zmianowaniu",
+      "points": [
+        "Tytoń najlepiej po zbożach; niewskazany przedplon i sąsiedztwo ziemniaków i pomidorów (choroby wirusowe).",
+        "Chmiel – najlepsze stanowisko po motylkowatych (koniczyna, lucerna); także po rzepaku i zbożach.",
+        "Pod chmiel: podorywka, bronowanie, przeoranie obornika, a jesienią regulówka – głęboka orka na 40–50 cm.",
+        "Wiklina na odłogach: usunięcie darni i roślin rozłogowych, wysiew motylkowatych przeoranych pod koniec sezonu.",
+        "Na polach uprawnych przedplon pod wiklinę – okopowe lub motylkowate; przed zimą głęboka orka 30–40 cm, wiosną tylko włókowanie i bronowanie.",
+        "Pod tytoń unikać stanowisk sprzyjających chorobom grzybowym.",
+        "Motylkowate są najlepszym przedplonem chmielu, bo mają głęboki system korzeniowy i zostawiają glebę zasobną w azot; po zbożach/rzepaku w razie potrzeby niszczy się chwasty rozłogowe.",
+        "Regulówka pozwala na rozrost systemu korzeniowego chmielu i poprawia magazynowanie wody w glebie; chmiel jako roślina wieloletnia wymaga bardzo starannego przygotowania gleby.",
+        "Głęboka orka przed zimą pod wiklinę poprawia właściwości fizyczne gleby."
+      ]
+    },
+    {
+      "heading": "4. Nawożenie – tytoń",
+      "points": [
+        "Ilość i jakość nawożenia decyduje o jakości surowca tytoniu.",
+        "Obornik przyoruje się jesienią: pod papierosowe jasne (tylko na słabszych glebach) 15–20 t/ha, pod ciemne i Burley 30–40 t/ha.",
+        "Kluczowe składniki: azot, potas, fosfor, bor.",
+        "Azot (amonowy) – jasne 20–30 kg/ha przed wysadzeniem; ciemne Puławski 80–120 kg/ha, Mocny Skroniowski 120–140 kg/ha (½ przed sadzeniem, ½ pogłównie w 4. tygodniu).",
+        "Burley – 80–100 kg N/ha jednorazowo lub 2/3 przed sadzeniem i 1/3 pogłównie.",
+        "Fosfor 80–100 kg/ha (Mocny Skroniowski do 140 kg/ha) – zwiększa odporność na przymrozki, przyspiesza dojrzewanie liści.",
+        "Potas 140–220 kg/ha – elastyczność liści, węglowodany, dłuższe żarzenie.",
+        "Boraks 8–10 kg/ha – poprawa jakości surowca.",
+        "Tytoń szybko wyczerpuje składniki z gleby.",
+        "Obornik pod tytoń działa nawozowo, ale przede wszystkim korzystnie wpływa na właściwości fizyczne gleby; dawki mineralne (zwłaszcza dla jasnych) ustala się wg analiz chemicznych gleby.",
+        "Azot wpływa na wzrost tytoniu i cechy liści, zwłaszcza zawartość białka i nikotyny; fosfor korzystnie wpływa też na skład chemiczny liści.",
+        "Nawożenie decyduje o jakości surowca, a w konsekwencji o opłacalności uprawy tytoniu; tytoń trzeba nawozić dość często."
+      ]
+    },
+    {
+      "heading": "4. Nawożenie – chmiel i wiklina",
+      "points": [
+        "Chmiel: coroczna analiza gleby; obornik ok. 25 t/ha po przedplonie, 10–15 kg do dołka przy sadzeniu, potem co 3 lata 25 t/ha w międzyrzędzia.",
+        "Chmiel: P 80–240 kg/ha, K 160–270 kg/ha, N 150–200 kg/ha; magnez, gdy w glebie poniżej 7 mg/100 g.",
+        "Nadmiar fosforu – przedwczesne dojrzewanie szyszek i utrata barwy; nadmiar azotu pogarsza jakość szyszek.",
+        "Wapnowanie chmielu: 1,5–2 t/ha wapna węglanowego (palone tylko na glebach bardzo zwięzłych); nie w latach stosowania obornika.",
+        "Wiklina: gleby żyzne nie wymagają nawożenia przed założeniem plantacji.",
+        "Gleby kwaśne pod wiklinę wapnuje się 1,5–3,0 t/ha; optymalne pH 5,5–6,5.",
+        "Gleby piaszczyste, ubogie – torf lub obornik 30–40 t/ha, nawożenie organiczne co 4 lata.",
+        "Jesienią pod głęboką orkę: do 20 kg/ha P i do 40 kg/ha K; w 1. roku azot ok. 20 kg/ha (amonowy lub amidowy).",
+        "W kolejnych latach: N 30–50, P 20–40, K 40–80 kg/ha – połowa w połowie kwietnia (N, P, K), druga połowa N na początku czerwca.",
+        "Fosfor zwiększa plon i poprawia jakość chmielu, azot zwiększa plony; kwasowość gleby pod chmielem trzeba okresowo sprawdzać.",
+        "Nawożenie wikliny w kolejnych latach zależy od warunków glebowych i wielkości plonów."
+      ]
+    },
+    {
+      "heading": "5. Materiał siewny i rozsada",
+      "points": [
+        "Rozsadę tytoniu produkuje się w ciepłych inspektach lub tunelach foliowych; gleba lekko kwaśna pH 6,0–6,3.",
+        "Nasiona moczy się do skiełkowania (2–3 dni), potem wysiewa; tytoń szlachetny sieje się na początku marca, rośnie w inspekcie 6–8 tygodni.",
+        "Najlepszy siew rzędowy co 3 cm; w fazie krzyżaka (liścienie + 1. para liści) rozsadę się przerywa.",
+        "Dobra rozsada: 5–6 liści, niewyciągnięta łodyga, intensywnie zielona, dobrze ukorzeniona.",
+        "Chmiel i wiklina rozmnażają się wegetatywnie; chmiel z nasion możliwy tylko przy dużym nakładzie pracy.",
+        "Gęstość i równomierność wysiewu nasion tytoniu mają ogromny wpływ na wielkość liści; przerywanie rozsady zapobiega nadmiernemu zagęszczeniu.",
+        "Chmiel z nasion: nasiona zbiera się jesienią z dojrzałych szyszek, przechowuje sucho do wiosny i wysiewa na zagony lub do skrzynek."
+      ]
+    },
+    {
+      "heading": "6. Sadzenie – tytoń",
+      "points": [
+        "Tytoń wysadza się na przełomie kwietnia i maja (ok. 25 kwietnia – 10 maja).",
+        "Rozstawa: jasny 80–90 × 40–50 cm, ciemny 90–100 × 40–50 cm.",
+        "Tytoń jest wrażliwy na ograniczony dostęp powietrza do korzeni – ważne spulchnianie międzyrzędzi.",
+        "Redlenie (obsypywanie dolnej części łodyg) na glebach zwięzłych – korzenie przybyszowe, mniej strat wody, mniej chwastów i zgnilizny; pierwsze 2 tygodnie po posadzeniu.",
+        "Ogławianie – usuwanie kwiatostanu: treściwsze liście, silniejsze korzenie, mniej wyłamań.",
+        "Pasynkowanie – usuwanie bocznych odrostów po ogłowieniu, chemicznie (n-dekanol lub hydrazyd kwasu maleinowego), np. 10–20 ml cieczy na roślinę lub ok. 4,5 kg/ha preparatu.",
+        "Rozstawa sadzenia tytoniu: 80–90 cm × 40–50 cm (papierosowy jasny), 90–100 cm × 40–50 cm (papierosowy ciemny).",
+        "Rozstawa tytoniu zależy od odmiany i rodzaju gleby.",
+        "Spulchnianie międzyrzędzi tytoniu poprawia warunki cieplne i wilgotnościowe gleby i ma znaczenie odchwaszczające.",
+        "Redlenie chroni też tytoń przed wyłamaniem; ogławianie – roślina kieruje składniki do liści, zapobiega przechylaniu i wyłamywaniu w czasie burz.",
+        "Środki do pasynkowania: Stomp 330 EC – emulsja do zalewania roślin bezpośrednio po ogłowieniu, 10–20 ml cieczy roboczej na roślinę; Fazor 80 G – oprysk bezpośrednio po ogłowieniu, ok. 4,5 kg/ha."
+      ]
+    },
+    {
+      "heading": "6. Sadzenie – chmiel i wiklina",
+      "points": [
+        "Chmiel – sadzonki nieukorzenione: wiosną lub jesienią, pełny plon po 3 latach, ryzyko przeniesienia patogenów karpy.",
+        "Sadzonki ukorzenione ze sztobrów (ścięte części pędu): wiosną lub jesienią, duża przyjmowalność, pełny plon po 2 latach.",
+        "Sadzonki ukorzenione wolne od patogenów: z niezdrewniałych pędów roślin matecznych, sadzone cały sezon, ok. 100 sadzonek z rośliny; wymagają szklarni i diagnostyki.",
+        "Przed sadzeniem chmielu buduje się konstrukcję nośną; rozstawa 1,5 × 3,0.",
+        "Sadzonkę sztobrową sadzi się kołkiem tak, by wierzchołek wystawał 12 cm; kopczyk 3–5 cm.",
+        "Wiklina – zrzezy (sadzonki, sztobry) długości 20–30 cm i grubości 0,5–1,2 cm, z plantacji matecznych lub kwalifikowanych.",
+        "Wiklinę sadzi się wiosną (dopuszczalnie jesienią); amerykanka (cięta corocznie) 40 × 12,5 cm, konopianka (cięta co 2–3 lata) 50 × 20 cm.",
+        "Sadzonka wystaje ok. 2 cm nad glebę; na glebach zlewnych sadzi się żelaznym prętem.",
+        "Po posadzeniu wikliny oprysk herbicydem (np. Bladex 50 WP), od połowy maja spulchnianie międzyrzędzi.",
+        "Przyjęcie sadzonek nieukorzenionych chmielu zależy od pogody i wymaga starannej pielęgnacji; sadzonki sztobrowe są mało wydajne, ale dobrze się przyjmują; przy obu ryzyko przeniesienia patogenów karpy chmielowej.",
+        "Sadzonki wolne od patogenów – najwyższej jakości materiał szkółkarski; wymagają szklarni, filtronu i aparatury do diagnostyki; rozprzestrzenianie patogenów bardzo ograniczone.",
+        "Konstrukcję nośną dostosowuje się do powierzchni i nierówności pola; przy sadzeniu ziemię trzeba dokładnie docisnąć. W materiale rozstawę chmielu zapisano „1,5 × 3,0 cm” (chodzi o metry).",
+        "Zrzezy wikliny muszą być czyste odmianowo i wolne od chorób i szkodników; amerykanka – odmiany drobnoprętowe, konopianka – gruboprętowe.",
+        "Na glebach piaszczystych i próchnicznych zrzezy wciska się pionowo w oznaczone miejsca; w 1. roku wiklina jest wrażliwa na zaskorupienie i zachwaszczenie – w rzędach odchwaszcza się ręcznie."
+      ]
+    },
+    {
+      "heading": "7. Ochrona – tytoń",
+      "points": [
+        "Najczęstsze choroby tytoniu: zgnilizny podstawy łodyg, twardzikowa i czarna oraz mączniak rzekomy.",
+        "Zgnilizna podstawy łodyg – mokra (Botrytis cinerea), sucha (Rhizoctonia solani); np. Topsin M 70 WP.",
+        "Zgnilizna twardzikowa (Sclerotinia sclerotiorum) – brunatne plamy, biała pleśń z czarnymi sklerotami; najgroźniejsza w produkcji nasiennej; atakuje też w suszarniach.",
+        "Czarna zgnilizna korzeni – z gleby; sterylizacja gleby parą lub chemicznie, zmianowanie (3-letni odstęp między uprawami 2-letnimi).",
+        "Mączniak rzekomy (Peronospora tabacina, przenoszony wiatrem) – żółte plamy na górze, niebieskoszary nalot pod spodem liści; opryski w inspekcie co 4 dni, w polu co 7–10 dni.",
+        "Choroby wirusowe (np. choroba lubelska) – odmiany odporne, usuwanie chorych roślin, zwalczanie mszycy brzoskwiniowo-ziemniaczanej i wciornastka tytoniowca.",
+        "Chwasty w tytoniu ogranicza się spulchnianiem, w ostateczności herbicydami z chlomazonem.",
+        "Środek musi być dopuszczony do uprawy tytoniu – wykaz na stronie MRiRW.",
+        "Botrytis cinerea i Rhizoctonia solani powodują też gnicie łodygi w miejscu obłamanego liścia, gnicie i dziurawienie blaszek oraz gnicie nerwów; środki: Topsin M 70 WP, Sarfun 500 SC – na rozsadniku, przy wysadzaniu i po posadzeniu.",
+        "Zgnilizna twardzikowa w suszarniach poraża grube nerwy liści (liście opadają), atakuje też kwiatostany i nasienniki; zwykle ogranicza się do odcinka łodygi tuż nad ziemią; środki: Manconex 80 WP, Dithane NeoTec 75 WG.",
+        "Czarna zgnilizna korzeni powoduje gnicie korzeni, żółknięcie liści i obumieranie roślin.",
+        "Mączniak rzekomy tytoniu rozwija się na dolnych liściach (nalot to skupienia zarodników); środki: Dithane M-45, Cynkotox (inspekt co 4 dni, pole co 7–10 dni), Ridomil Gold MZ 68 WG/WP lub Acrobat MZ 69 WP w fazie rozety (2.–3. dekada czerwca).",
+        "Choroby wirusowe tytoniu uszkadzają liście, powodują więdnięcie i zamieranie roślin; na wektory: Decis 2,5 EC, Marshal 250 SC, Furadan 5 GR, Fury 100 EW (rozsadnik i plantacja).",
+        "Chwasty w tytoniu ograniczają dostęp do wody i składników, są siedliskiem szkodników i nosicielami patogenów."
+      ]
+    },
+    {
+      "heading": "7. Ochrona – chmiel i wiklina",
+      "points": [
+        "Choroby chmielu: mączniak rzekomy i właściwy, rdza, werticilioza, choroby wirusowe.",
+        "Mączniak rzekomy – najgroźniejsza choroba chmielu: pędy „kłosowate”, skrócone międzywęźla, szarofioletowy nalot pod liśćmi, brunatne plamy na szyszkach.",
+        "Mączniak właściwy – biały nalot na górnej stronie liści, w suchą i ciepłą wiosnę.",
+        "Rdza chmielu – najczęściej w czerwcu, rdzawe plamki; usuwanie i palenie liści, fungicydy.",
+        "Werticilioza – z gleby, przez młode korzenie; żółknięcie, więdnięcie; zapobieganie: mniej azotu, głęboka orka; brak metody bezpośredniego zwalczania.",
+        "Wirusy chmielu przenoszą mszyce – usuwanie chorych roślin i zwalczanie mszyc.",
+        "Szkodniki chmielu: mszyca chmielowo-śliwowa, przędziorek chmielowiec (żółtawe plamy, mączysty nalot pod liśćmi).",
+        "Choroby wikliny: zamieranie pędów (brązowe plamy – usuwanie i palenie pędów), parch wierzbowy (czernienie liści, brodawki na gałęziach, wiosną), rdza (latem).",
+        "Szkodniki wikliny: przędziorek wierzbowiec, rynnica wierzbowa, pienik wierzbowy (larwy w pianie, przełom maja i czerwca), krytoryjek olchowiec (larwy w drewnie).",
+        "Chwasty w wiklinie: komosa biała, ostrożeń polny, mlecz polny, perz właściwy, chwastnica jednostronna.",
+        "Mączniak rzekomy chmielu zwalcza się opryskami (np. Aliette 80 WP) i usuwaniem porażonych części; mączniak właściwy – np. Tiotar 800 SC, Siarkol Extra 80 WP.",
+        "Rdza chmielu: zapobieganie – usuwanie i palenie opadłych liści; zwalczanie – kilkukrotne fungicydy. Werticilioza kończy się obumarciem nadziemnej części; głęboka orka przewietrza głębsze warstwy gleby.",
+        "Wirusy chmielu zniekształcają liście i młode pędy; mszyce zwalcza się np. Confidor 200 LS.",
+        "Mszyca chmielowo-śliwowa atakuje młode liście, kwiaty i szyszki – preparaty fosforoorganiczne, karbaminiany, insektycydy (np. Lannate 25 WP); przędziorek chmielowiec – np. Roztoczol Extra 050 CS.",
+        "Chwasty w chmielniku są siedliskiem szkodników (np. przędziorka) i nosicielami patogenów (np. werticiliozy); ogranicza się je przygotowaniem pola, orką zimową pod przedplony, współrzędną uprawą roślin na zielony nawóz w międzyrzędziach, w ostateczności herbicydami.",
+        "Zamieranie pędów wikliny – brązowawe plamy z zarodnikami; oprysk np. Topsin M 70. Parch wierzbowy – zwłaszcza przy obfitych opadach, liście czernieją i opadają; kilkukrotnie naprzemiennie fungicydy (np. Bravo 500 SC, Baycor 300 EC).",
+        "Rdza wikliny – rdzawe plamki z zarodnikami na liściach i młodych pędach; zapobieganie – usuwanie i palenie opadłych liści; zwalczanie – np. Baycor 300 EC, Saprol.",
+        "Przędziorek wierzbowiec – mozaikowe żółte plamy, opadanie liści; rynnica wierzbowa – żer na liściach, które opadają; na oba np. Talstar 100 EC. Pienik wierzbowy żywi się sokiem roślinnym.",
+        "Krytoryjek olchowiec – larwy żerujące w drewnie powodują usychanie i obłamywanie gałęzi; na larwy środki działające wgłębnie, na chrząszcze – kontaktowe.",
+        "Herbicydy w wiklinie: np. Lintur 70 WG, Guardian 840 EC, Sencor 70 WG."
+      ]
+    },
+    {
+      "heading": "8. Zbiór i przechowywanie",
+      "points": [
+        "Liście tytoniu zbiera się w 6–8 etapach, po osiągnięciu dojrzałości.",
+        "Oznaki dojrzałości liści: seledynowe lub żółte, pofałdowane, matowe, lepkie, odchylone, łamią się z trzaskiem.",
+        "Liście dolne zbiera się lekko niedojrzałe, środkowe w pełni dojrzałe, górne lekko przejrzałe; w etapie – jednakowy stopień dojrzałości.",
+        "Suszenie naturalne: powietrzne (pod dachem) lub słoneczne; sztuczne: ogniowo-rurowe lub płomieniowe.",
+        "Zbiór chmielu od końca sierpnia: szyszka sztywna, żółtozielona, szeleści, aromatyczna, widoczne złocistobursztynowe kuleczki lupuliny.",
+        "Najwięcej lupuliny mają szyszki bez zawiązków nasion.",
+        "Szyszki dzieli się na 3 gatunki: I – najlepsze, średnie; II – mniejsze, niedomknięte, przerośnięte; III – blade, źle zamknięte, rdzewiejące.",
+        "Szyszki od razu suszy się, prasuje i szczelnie pakuje (ochrona lupuliny przed utlenianiem).",
+        "Zbiór wikliny od listopada do marca (stan spoczynku); snopki w 3 długościach: do 120 cm, 120–180 cm, ponad 180 cm.",
+        "Przygotowanie do korowania: moczarkowanie (3–6 tygodni w wodzie – biała wiklina), gotowanie (ok. 4 h – czerwona wiklina), parzenie (pod ciśnieniem 2–3 atmosfer).",
+        "Zbierane liście tytoniu powinny być suche i niezwiędłe; w większości krajów zbiór jest ręczny.",
+        "Liście jak najszybciej trafiają do suszarni, gdzie nawleka się je (ręcznie lub mechanicznie) na druty, sznury lub wieszaki igłowe i zawiesza na ramach; dalsza obróbka zależy od przeznaczenia.",
+        "Suszenie powietrzne – w pomieszczeniach chroniących przed deszczem i bezpośrednim słońcem; ogniowo-rurowe – pomieszczenie ogrzewane systemem rur grzejnych; płomieniowe – powietrze i dym z palącego się drewna docierają bezpośrednio do liści.",
+        "Szyszki chmielu zbiera się ręcznie (bardzo pracochłonne, coraz rzadsze) lub kombajnami i niezwłocznie wiezie do suszarni; po prasowaniu i pakowaniu trafiają do browarów.",
+        "Gatunek I szyszek – średniej wielkości, dobrze rozwinięte; II – także zbyt duże.",
+        "Wiklinę po zbiorze przechowuje się w snopkach; po sortowaniu poddaje się ją korowaniu; okorowaną suszy się, ponownie wiąże w snopki i sprzedaje do skupu lub wykorzystuje jako materiał wikliniarski.",
+        "Gotowanie wikliny – w żelaznych kotłach z własnym paleniskiem; parzenie – w specjalnych kotłach pod ciśnieniem 2–3 atmosfer."
+      ],
+      "images": [
+        {
+          "src": "img/ur7/liscie-tytoniu.jpg",
+          "caption": "Wysuszone liście tytoniu."
+        },
+        {
+          "src": "img/ur7/suszenie-tytoniu.jpg",
+          "caption": "Suszenie liści tytoniu nawleczonych na sznury (druty) i zawieszonych na ramach."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Gatunki tytoniu o największym znaczeniu gospodarczym – Nicotiana tabacum – tytoń szlachetny i Nicotiana rustica – tytoń machorka (rodzina psiankowate).",
+        "Wymagania glebowe tytoni papierosowych jasnych, ciemnych i cygarowych – Jasne – najmniejsze (piaski gliniaste, spiaszczone lessy, lekkie mady); ciemne – gleby średnio zwięzłe, urodzajne (czarnoziemy, lessy, mady próchniczne); cygarowe – głębokie, przewiewne, silnie próchniczne.",
+        "Produkcja rozsady tytoniu – W ciepłych inspektach/tunelach, gleba pH 6,0–6,3; nasiona moczy się do skiełkowania (2–3 dni); siew na początku marca, rzędy co 3 cm; rozsada rośnie 6–8 tygodni, przerywa się ją w fazie krzyżaka; gotowa ma 5–6 liści.",
+        "Oznaki dojrzałości liści tytoniu – Seledynowy lub żółty kolor, pofałdowanie, matowienie, lepkość, odchylanie od łodygi i łatwe odłamywanie z trzaskiem; zbiór w 6–8 etapach.",
+        "Metody suszenia tytoniu – Naturalne – powietrzne (pod dachem) lub słoneczne; sztuczne – ogniowo-rurowe lub płomieniowe.",
+        "Wiklina – pochodzenie i użytkowanie – Wierzba koszykarska; pierwsze plantacje w Polsce w XIX w. (Rudnik nad Sanem, Wielkopolska); plecionkarstwo, koszykarstwo, opał, materiał budowlany."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rośliny specjalne – definicja",
+      "back": "Rośliny przemysłowe specjalnego przeznaczenia, uprawiane na plantacjach."
+    },
+    {
+      "front": "Główne rośliny specjalne w Polsce",
+      "back": "Tytoń, chmiel, wiklina."
+    },
+    {
+      "front": "Rodzina botaniczna tytoniu",
+      "back": "Psiankowate (Solanaceae)."
+    },
+    {
+      "front": "Skąd pochodzi tytoń?",
+      "back": "Z Ameryki Południowej."
+    },
+    {
+      "front": "Kto sprowadził tytoń do Europy i kiedy?",
+      "back": "Jean Nicot, XVI w."
+    },
+    {
+      "front": "Czołowy światowy producent tytoniu",
+      "back": "Chiny (ok. 40% produkcji)."
+    },
+    {
+      "front": "Jaki odsetek tytoniu konsumuje się w papierosach?",
+      "back": "Ok. 90%."
+    },
+    {
+      "front": "Tytoń szlachetny / machorka – nazwy łacińskie",
+      "back": "Nicotiana tabacum / Nicotiana rustica."
+    },
+    {
+      "front": "Zawartość nikotyny – tytoń papierosowy jasny",
+      "back": "0,5–1,5%."
+    },
+    {
+      "front": "Zawartość nikotyny – tytoń papierosowy ciężki",
+      "back": "1,5–3,0%."
+    },
+    {
+      "front": "Zawartość nikotyny – tytoń cygarowy",
+      "back": "Ok. 1%."
+    },
+    {
+      "front": "Zawartość nikotyny – machorka",
+      "back": "2,5–3,0%."
+    },
+    {
+      "front": "Tytoń o najwyższej jakości (bogaty aromat)",
+      "back": "Orientalny – liście jasne, drobne."
+    },
+    {
+      "front": "Typy tytoniu uprawiane w Polsce",
+      "back": "Papierosowy ciemny – Puławski i Mocny Skroniowski."
+    },
+    {
+      "front": "Rodzina botaniczna chmielu",
+      "back": "Konopiowate (Cannabaceae)."
+    },
+    {
+      "front": "Przeciętny okres użytkowania plantacji chmielu / wikliny",
+      "back": "20 lat / 15 lat."
+    },
+    {
+      "front": "Udział Lubelszczyzny w uprawie chmielu",
+      "back": "Ok. 81% (rejon lubelski wg rozporządzenia – 83%)."
+    },
+    {
+      "front": "Rejony uprawy chmielu wg rozporządzenia z 6 lipca 2001 r.",
+      "back": "Lubelski (83%), wielkopolski (10,4%), dolnośląski (6,6%)."
+    },
+    {
+      "front": "Od kiedy nowe plantacje chmielu tylko w wyznaczonych rejonach?",
+      "back": "Od 1 stycznia 2014 r. (tylko chmiel certyfikowany)."
+    },
+    {
+      "front": "Pozycja Polski w produkcji chmielu",
+      "back": "3. w Europie, 5. na świecie."
+    },
+    {
+      "front": "Chmiel aromatyczny uprawiany w Polsce",
+      "back": "Lubelski."
+    },
+    {
+      "front": "Chmiel goryczkowy uprawiany w Polsce",
+      "back": "Marynka i Magnum (najbardziej poszukiwany – Magnum)."
+    },
+    {
+      "front": "Lupulina",
+      "back": "Aromatyczna żywica szyszek chmielu (złocistobursztynowe kuleczki)."
+    },
+    {
+      "front": "Złocisty chmiel",
+      "back": "Odmiana ozdobna Aureus o złotawych liściach."
+    },
+    {
+      "front": "Największy ośrodek uprawy wikliny w Polsce",
+      "back": "Okolice Rudnika nad Sanem."
+    },
+    {
+      "front": "Wierzba amerykańska – udział w uprawach",
+      "back": "Amerykanka (Salix cordata) – ok. 80%."
+    },
+    {
+      "front": "Wierzba wiciowa – udział w uprawach",
+      "back": "Konopianka (Salix viminalis) – ok. 20%."
+    },
+    {
+      "front": "Substancje lecznicze kory wikliny",
+      "back": "Garbniki, flawonoidy, kwas salicylowy."
+    },
+    {
+      "front": "Przymrozki groźne dla tytoniu",
+      "back": "Majowe (uszkadzają rozsadę) i wrześniowe (niszczą zbiór)."
+    },
+    {
+      "front": "Gleby dla tytoni papierosowych jasnych",
+      "back": "Piaski gliniaste, spiaszczone lessy, lekkie mady – najmniejsze wymagania."
+    },
+    {
+      "front": "Mróz szkodliwy dla chmielu",
+      "back": "Poniżej –20°C."
+    },
+    {
+      "front": "Optymalna średnia roczna temperatura dla chmielu",
+      "back": "7,5–8,5°C (w sezonie 15–18°C)."
+    },
+    {
+      "front": "Zużycie wody przez chmiel",
+      "back": "Ok. 600 l na 1 kg suchej masy."
+    },
+    {
+      "front": "Optymalne opady roczne dla chmielu",
+      "back": "450–600 mm."
+    },
+    {
+      "front": "Odczyn gleby pod chmiel",
+      "back": "Obojętny, pH 6,5–7."
+    },
+    {
+      "front": "Najlepsze gleby pod chmiel",
+      "back": "Czarnoziemy, czarne ziemie, mady pyłowe średnie."
+    },
+    {
+      "front": "Okres największego zapotrzebowania wikliny na wodę",
+      "back": "Lipiec i sierpień."
+    },
+    {
+      "front": "Gleby nieodpowiednie dla wikliny",
+      "back": "Wapienne, mocno zakwaszone, ciężkie mady i iły."
+    },
+    {
+      "front": "Najlepszy przedplon tytoniu",
+      "back": "Zboża."
+    },
+    {
+      "front": "Dlaczego tytoń nie po ziemniakach i pomidorach?",
+      "back": "Ryzyko chorób wirusowych."
+    },
+    {
+      "front": "Najlepsze stanowisko pod chmiel",
+      "back": "Po motylkowatych (koniczyna, lucerna)."
+    },
+    {
+      "front": "Regulówka",
+      "back": "Głęboka orka na 40–50 cm jesienią przed założeniem plantacji chmielu."
+    },
+    {
+      "front": "Głębokość orki przedzimowej pod wiklinę",
+      "back": "30–40 cm."
+    },
+    {
+      "front": "Obornik pod tytoń papierosowy jasny / ciemny i Burley",
+      "back": "15–20 t/ha (tylko słabsze gleby) / 30–40 t/ha."
+    },
+    {
+      "front": "Dawka N dla tytoni papierosowych jasnych",
+      "back": "20–30 kg/ha (amonowy), przed wysadzeniem."
+    },
+    {
+      "front": "Dawka N dla tytoniu Mocny Skroniowski",
+      "back": "120–140 kg/ha (½ przed sadzeniem, ½ pogłównie w 4. tygodniu)."
+    },
+    {
+      "front": "Dawka fosforu dla tytoniu",
+      "back": "80–100 kg/ha (Mocny Skroniowski do 140 kg/ha)."
+    },
+    {
+      "front": "Dawka potasu dla tytoniu i jego rola",
+      "back": "140–220 kg/ha; elastyczność liści, węglowodany, dłuższe żarzenie."
+    },
+    {
+      "front": "Dawka boraksu dla tytoniu",
+      "back": "8–10 kg/ha."
+    },
+    {
+      "front": "Obornik do dołka przy sadzeniu chmielu",
+      "back": "10–15 kg; potem co 3 lata 25 t/ha w międzyrzędzia."
+    },
+    {
+      "front": "Dawka N dla chmielu",
+      "back": "150–200 kg/ha."
+    },
+    {
+      "front": "Kiedy nawozić chmiel magnezem?",
+      "back": "Gdy Mg w glebie poniżej 7 mg/100 g."
+    },
+    {
+      "front": "Skutek nadmiaru fosforu w chmielu",
+      "back": "Przedwczesne dojrzewanie szyszek, szybka utrata barwy po zbiorze."
+    },
+    {
+      "front": "Wapnowanie chmielnika",
+      "back": "1,5–2 t/ha wapna węglanowego; nie w latach z obornikiem."
+    },
+    {
+      "front": "Optymalne pH gleby dla wikliny",
+      "back": "5,5–6,5."
+    },
+    {
+      "front": "Wapnowanie gleb kwaśnych pod wiklinę",
+      "back": "1,5–3,0 t/ha."
+    },
+    {
+      "front": "Obornik/torf na ubogich piaskach pod wiklinę",
+      "back": "30–40 t/ha, co 4 lata."
+    },
+    {
+      "front": "Azot w 1. roku uprawy wikliny",
+      "back": "Ok. 20 kg/ha (amonowy lub amidowy)."
+    },
+    {
+      "front": "Odczyn gleby w rozsadniku tytoniu",
+      "back": "pH 6,0–6,3 (lekko kwaśny)."
+    },
+    {
+      "front": "Termin siewu tytoniu szlachetnego i czas w inspekcie",
+      "back": "Początek marca; 6–8 tygodni."
+    },
+    {
+      "front": "Faza krzyżaka",
+      "back": "Liścienie i pierwsza para liści – wtedy przerywa się rozsadę tytoniu."
+    },
+    {
+      "front": "Cechy dobrej rozsady tytoniu",
+      "back": "5–6 liści, niewyciągnięta łodyga, intensywnie zielona, dobre korzenie."
+    },
+    {
+      "front": "Termin wysadzania tytoniu",
+      "back": "Przełom kwietnia i maja (ok. 25 IV – 10 V)."
+    },
+    {
+      "front": "Rozstawa tytoniu jasnego / ciemnego",
+      "back": "80–90 × 40–50 cm / 90–100 × 40–50 cm."
+    },
+    {
+      "front": "Redlenie tytoniu",
+      "back": "Obsypywanie dolnej części łodyg; pierwsze 2 tygodnie po posadzeniu."
+    },
+    {
+      "front": "Ogławianie",
+      "back": "Usuwanie kwiatostanu tytoniu."
+    },
+    {
+      "front": "Pasynkowanie",
+      "back": "Usuwanie bocznych odrostów po ogłowieniu (n-dekanol, hydrazyd kwasu maleinowego)."
+    },
+    {
+      "front": "Pełny plon chmielu z sadzonek nieukorzenionych / sztobrowych",
+      "back": "Po 3 latach / po 2 latach."
+    },
+    {
+      "front": "Wydajność sadzonek chmielu wolnych od patogenów",
+      "back": "Ok. 100 sadzonek z jednej rośliny."
+    },
+    {
+      "front": "Sadzenie sztobra chmielu",
+      "back": "Wierzchołek 12 cm nad ziemią, kopczyk 3–5 cm."
+    },
+    {
+      "front": "Wymiary zrzezów wikliny",
+      "back": "Długość 20–30 cm, grubość 0,5–1,2 cm."
+    },
+    {
+      "front": "Rozstawa amerykanki / konopianki",
+      "back": "40 × 12,5 cm / 50 × 20 cm."
+    },
+    {
+      "front": "Jak wysoko wystaje zrzez wikliny?",
+      "back": "Ok. 2 cm nad glebę."
+    },
+    {
+      "front": "Sprawcy zgnilizny podstawy łodyg tytoniu",
+      "back": "Mokra – Botrytis cinerea; sucha – Rhizoctonia solani."
+    },
+    {
+      "front": "Najgroźniejsza choroba w produkcji nasiennej tytoniu",
+      "back": "Zgnilizna twardzikowa (Sclerotinia sclerotiorum)."
+    },
+    {
+      "front": "Objawy mączniaka rzekomego tytoniu",
+      "back": "Żółte plamy na górze, niebieskoszary nalot pod spodem liści."
+    },
+    {
+      "front": "Wektory wirusów tytoniu",
+      "back": "Mszyca brzoskwiniowo-ziemniaczana i wciornastek tytoniowiec."
+    },
+    {
+      "front": "Najgroźniejsza choroba chmielu",
+      "back": "Mączniak rzekomy (pędy „kłosowate”, szarofioletowy nalot)."
+    },
+    {
+      "front": "Werticilioza chmielu – zapobieganie",
+      "back": "Mniej azotu, głęboka orka; brak bezpośredniego zwalczania."
+    },
+    {
+      "front": "Szkodniki chmielu",
+      "back": "Mszyca chmielowo-śliwowa, przędziorek chmielowiec."
+    },
+    {
+      "front": "Choroby wikliny",
+      "back": "Zamieranie pędów, parch wierzbowy, rdza."
+    },
+    {
+      "front": "Pienik wierzbowy",
+      "back": "Szkodnik wikliny; larwy w pianie na przełomie maja i czerwca."
+    },
+    {
+      "front": "Liczba etapów zbioru liści tytoniu",
+      "back": "6–8."
+    },
+    {
+      "front": "Oznaki dojrzałości liści tytoniu",
+      "back": "Seledynowe/żółte, pofałdowane, matowe, lepkie, łamią się z trzaskiem."
+    },
+    {
+      "front": "Metody sztucznego suszenia tytoniu",
+      "back": "Ogniowo-rurowe i płomieniowe."
+    },
+    {
+      "front": "Początek zbioru chmielu",
+      "back": "Koniec sierpnia."
+    },
+    {
+      "front": "Gatunki szyszek chmielu",
+      "back": "I – najlepsze; II – mniejsze, niedomknięte, przerośnięte; III – blade, źle zamknięte, rdzewiejące."
+    },
+    {
+      "front": "Termin zbioru wikliny",
+      "back": "Listopad–marzec (stan spoczynku)."
+    },
+    {
+      "front": "Moczarkowanie wikliny",
+      "back": "Moczenie 3–6 tygodni – biała wiklina."
+    },
+    {
+      "front": "Gotowanie wikliny",
+      "back": "Ok. 4 h w kotłach – czerwona wiklina."
+    },
+    {
+      "front": "Pierwotne zastosowania tytoniu",
+      "back": "W Ameryce Południowej – żucie, palenie, cele lecznicze i obrzędowe; w Europie (od XVI w.) początkowo roślina ozdobna i lecznicza, potem używka."
+    },
+    {
+      "front": "Jaka roślina specjalna jest na zdjęciu (plantacja)?",
+      "back": "Tytoń.",
+      "img": "img/ur7/tyton.jpg"
+    },
+    {
+      "front": "Kwiaty jakiej rośliny specjalnej są na zdjęciu?",
+      "back": "Tytoniu.",
+      "img": "img/ur7/kwiaty-tytoniu.jpg"
+    },
+    {
+      "front": "Plantacja jakiej rośliny jest na zdjęciu (konstrukcja ze słupów i drutów)?",
+      "back": "Chmielu – chmielnik.",
+      "img": "img/ur7/chmielnik.jpg"
+    },
+    {
+      "front": "Co przedstawia zdjęcie?",
+      "back": "Szyszki chmielu zwyczajnego (Humulus lupulus).",
+      "img": "img/ur7/szyszki-chmielu.jpg"
+    },
+    {
+      "front": "Jaka roślina specjalna jest na zdjęciu (pędy przy ogłowionych drzewach)?",
+      "back": "Wiklina (wierzba koszykarska, Salix).",
+      "img": "img/ur7/wiklina.jpg"
+    },
+    {
+      "front": "Co przedstawia zdjęcie?",
+      "back": "Suszenie liści tytoniu nawleczonych na sznury/druty.",
+      "img": "img/ur7/suszenie-tytoniu.jpg"
+    },
+    {
+      "front": "W jakiej rozstawie sadzi się tytoń papierosowy jasny, a w jakiej ciemny?",
+      "back": "Jasny: 80–90 cm × 40–50 cm; ciemny: 90–100 cm × 40–50 cm."
+    },
+    {
+      "front": "Gatunki tytoniu o największym znaczeniu gospodarczym",
+      "back": "Nicotiana tabacum – tytoń szlachetny i Nicotiana rustica – tytoń machorka (rodzina psiankowate)."
+    },
+    {
+      "front": "Wymagania glebowe tytoni papierosowych jasnych, ciemnych i cygarowych",
+      "back": "Jasne – najmniejsze (piaski gliniaste, spiaszczone lessy, lekkie mady); ciemne – gleby średnio zwięzłe, urodzajne (czarnoziemy, lessy, mady próchniczne); cygarowe – głębokie, przewiewne, silnie próchniczne."
+    },
+    {
+      "front": "Produkcja rozsady tytoniu",
+      "back": "W ciepłych inspektach/tunelach, gleba pH 6,0–6,3; nasiona moczy się do skiełkowania (2–3 dni); siew na początku marca, rzędy co 3 cm; rozsada rośnie 6–8 tygodni, przerywa się ją w fazie krzyżaka; gotowa ma 5–6 liści."
+    },
+    {
+      "front": "Metody suszenia tytoniu",
+      "back": "Naturalne – powietrzne (pod dachem) lub słoneczne; sztuczne – ogniowo-rurowe lub płomieniowe."
+    },
+    {
+      "front": "Wiklina – pochodzenie i użytkowanie",
+      "back": "Wierzba koszykarska; pierwsze plantacje w Polsce w XIX w. (Rudnik nad Sanem, Wielkopolska); plecionkarstwo, koszykarstwo, opał, materiał budowlany."
+    },
+    {
+      "front": "Środki do pasynkowania tytoniu i ich dawki",
+      "back": "Stomp 330 EC – zalewanie roślin po ogłowieniu, 10–20 ml cieczy roboczej na roślinę; Fazor 80 G – oprysk, ok. 4,5 kg/ha."
+    },
+    {
+      "front": "Środki na zgniliznę podstawy łodyg tytoniu",
+      "back": "Topsin M 70 WP, Sarfun 500 SC – na rozsadniku, przy wysadzaniu i po posadzeniu."
+    },
+    {
+      "front": "Środki na zgniliznę twardzikową tytoniu",
+      "back": "Manconex 80 WP, Dithane NeoTec 75 WG."
+    },
+    {
+      "front": "Środki na mączniaka rzekomego tytoniu",
+      "back": "Dithane M-45, Cynkotox (inspekt co 4 dni, pole co 7–10 dni); Ridomil Gold MZ 68 lub Acrobat MZ 69 WP w fazie rozety."
+    },
+    {
+      "front": "Środek na mączniaka rzekomego chmielu",
+      "back": "Aliette 80 WP + usuwanie porażonych części roślin."
+    },
+    {
+      "front": "Środki na mączniaka właściwego chmielu",
+      "back": "Tiotar 800 SC, Siarkol Extra 80 WP."
+    },
+    {
+      "front": "Środek na przędziorka chmielowca",
+      "back": "Roztoczol Extra 050 CS."
+    },
+    {
+      "front": "Środek na przędziorka wierzbowca i rynnicę wierzbową",
+      "back": "Talstar 100 EC."
+    },
+    {
+      "front": "Herbicydy w uprawie wikliny (przykłady)",
+      "back": "Lintur 70 WG, Guardian 840 EC, Sencor 70 WG."
+    },
+    {
+      "front": "Na czym opiera się podział chmielu na aromatyczny i goryczkowy?",
+      "back": "Na zawartości i proporcjach żywic i olejków eterycznych."
+    },
+    {
+      "front": "Zastosowania chmielu w żywieniu człowieka",
+      "back": "Młode pędy do surówek i zup (jak szparagi), liście do zup, wywar z szyszek zamiast drożdży w zaczynie chlebowym."
+    },
+    {
+      "front": "Działanie lecznicze kory wikliny",
+      "back": "Przeciwbólowe, przeciwgorączkowe, przeciwzapalne, przeciwzakrzepowe (garbniki, flawonoidy, kwas salicylowy)."
+    },
+    {
+      "front": "Dlaczego motylkowate są najlepszym przedplonem chmielu?",
+      "back": "Mają głęboki system korzeniowy i pozostawiają glebę zasobną w azot."
+    },
+    {
+      "front": "Suszenie ogniowo-rurowe a płomieniowe (tytoń)",
+      "back": "Ogniowo-rurowe – ogrzewanie systemem rur grzejnych; płomieniowe – powietrze i dym z palącego się drewna docierają bezpośrednio do liści."
+    },
+    {
+      "front": "Jak uzyskać chmiel z nasion?",
+      "back": "Zebrać nasiona jesienią z dojrzałych szyszek, sucho przechować do wiosny, wysiać na zagony lub do skrzynek (duży nakład pracy)."
+    },
+    {
+      "front": "Krytoryjek olchowiec – szkodliwość i zwalczanie",
+      "back": "Larwy żerują w drewnie wikliny – usychanie i obłamywanie gałęzi; na larwy środki wgłębne, na chrząszcze kontaktowe."
+    },
+    {
+      "front": "Kraje wyprzedzające Polskę w światowej produkcji chmielu",
+      "back": "Niemcy, USA, Czechy i Chiny (Polska – 5. na świecie, 3. w Europie)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Głównymi roślinami specjalnymi uprawianymi w Polsce są:",
+      "options": [
+        "len, konopie i rzepak",
+        "mak, gorczyca i słonecznik",
+        "tytoń, chmiel i wiklina",
+        "ziemniak, burak i marchew"
+      ],
+      "answer": 2,
+      "explain": "Głównymi przedstawicielami roślin specjalnych w Polsce są tytoń, chmiel i wiklina."
+    },
+    {
+      "q": "Tytoń należy do rodziny:",
+      "options": [
+        "psiankowatych",
+        "konopiowatych",
+        "wierzbowatych",
+        "kapustowatych"
+      ],
+      "answer": 0,
+      "explain": "Tytoń należy do rodziny psiankowatych (Solanaceae)."
+    },
+    {
+      "q": "Chmiel należy do rodziny:",
+      "options": [
+        "psiankowatych",
+        "bobowatych",
+        "wiechlinowatych",
+        "konopiowatych"
+      ],
+      "answer": 3,
+      "explain": "Chmiel należy do rodziny konopiowatych (Cannabaceae)."
+    },
+    {
+      "q": "Tytoń papierosowy jasny zawiera nikotyny:",
+      "options": [
+        "1,5–3,0%",
+        "0,5–1,5%",
+        "2,5–3,0%",
+        "5–8%"
+      ],
+      "answer": 1,
+      "explain": "Tytoń papierosowy jasny ma niską zawartość nikotyny (0,5–1,5%)."
+    },
+    {
+      "q": "W Polsce uprawia się tytoń papierosowy ciemny typu:",
+      "options": [
+        "Virginia i Kentucky",
+        "Puławski i Mocny Skroniowski",
+        "Maryland i orientalny",
+        "Burley i Havana"
+      ],
+      "answer": 1,
+      "explain": "W Polsce uprawiany jest tytoń papierosowy ciemny typu Puławski i Mocny Skroniowski."
+    },
+    {
+      "q": "Największy udział w krajowej uprawie chmielu ma rejon:",
+      "options": [
+        "wielkopolski",
+        "dolnośląski",
+        "pomorski",
+        "lubelski"
+      ],
+      "answer": 3,
+      "explain": "Rejon lubelski obejmuje 83% krajowej powierzchni chmielu."
+    },
+    {
+      "q": "Do chmieli goryczkowych uprawianych w Polsce należą:",
+      "options": [
+        "Marynka i Magnum",
+        "Lubelski i Aureus",
+        "Puławski i Lubelski",
+        "Amerykanka i Konopianka"
+      ],
+      "answer": 0,
+      "explain": "Chmiel goryczkowy to Marynka i Magnum, aromatyczny – Lubelski."
+    },
+    {
+      "q": "Przeciętny okres uprawy plantacji chmielu wynosi:",
+      "options": [
+        "3 lata",
+        "8 lat",
+        "20 lat",
+        "50 lat"
+      ],
+      "answer": 2,
+      "explain": "Chmiel jest rośliną wieloletnią – przeciętna uprawa wynosi 20 lat."
+    },
+    {
+      "q": "Największy w Polsce ośrodek uprawy i obróbki wikliny znajduje się w okolicach:",
+      "options": [
+        "Nowego Tomyśla",
+        "Nysy",
+        "Puław",
+        "Rudnika nad Sanem"
+      ],
+      "answer": 3,
+      "explain": "Rudnik nad Sanem to dziś największy ośrodek wikliniarski w Polsce."
+    },
+    {
+      "q": "Około 80% powierzchni upraw wikliny w Polsce zajmuje:",
+      "options": [
+        "wierzba wiciowa (konopianka)",
+        "wierzba biała",
+        "wierzba amerykańska (amerykanka)",
+        "wierzba iwa"
+      ],
+      "answer": 2,
+      "explain": "Wierzba amerykańska (Salix cordata) zajmuje ok. 80% upraw."
+    },
+    {
+      "q": "Chmielowi szkodzi mróz poniżej:",
+      "options": [
+        "–2°C",
+        "–20°C",
+        "–5°C",
+        "–40°C"
+      ],
+      "answer": 1,
+      "explain": "Niekorzystny dla chmielu jest mróz poniżej –20°C."
+    },
+    {
+      "q": "Do wyprodukowania 1 kg suchej masy chmiel potrzebuje około:",
+      "options": [
+        "600 l wody",
+        "60 l wody",
+        "150 l wody",
+        "3000 l wody"
+      ],
+      "answer": 0,
+      "explain": "Na 1 kg suchej masy chmiel potrzebuje ok. 600 l wody."
+    },
+    {
+      "q": "Chmiel wymaga gleb o odczynie:",
+      "options": [
+        "pH 4,0–4,5",
+        "pH 5,0–5,5",
+        "pH 6,5–7",
+        "pH 8,0–8,5"
+      ],
+      "answer": 2,
+      "explain": "Odczyn gleby pod chmiel powinien być obojętny (pH 6,5–7)."
+    },
+    {
+      "q": "Wiklina nie udaje się na glebach:",
+      "options": [
+        "wapiennych i ciężkich iłach",
+        "piaszczystych",
+        "próchnicznych",
+        "zanieczyszczonych"
+      ],
+      "answer": 0,
+      "explain": "Wyjątkiem są gleby wapienne, mocno zakwaszone, ciężkie mady i iły."
+    },
+    {
+      "q": "Tytoniu nie należy uprawiać po ziemniakach ze względu na:",
+      "options": [
+        "mątwika burakowego",
+        "niedobór boru",
+        "zbyt niskie pH",
+        "choroby wirusowe"
+      ],
+      "answer": 3,
+      "explain": "Przedplon i sąsiedztwo ziemniaków i pomidorów grozi chorobami wirusowymi."
+    },
+    {
+      "q": "Regulówka przed założeniem chmielnika to orka na głębokość:",
+      "options": [
+        "5–8 cm",
+        "40–50 cm",
+        "15–18 cm",
+        "20–25 cm"
+      ],
+      "answer": 1,
+      "explain": "Regulówka to głęboka orka na 40–50 cm."
+    },
+    {
+      "q": "Dawka obornika pod tytonie papierosowe ciemne i Burley wynosi:",
+      "options": [
+        "5–10 t/ha",
+        "30–40 t/ha",
+        "15–20 t/ha",
+        "60–80 t/ha"
+      ],
+      "answer": 1,
+      "explain": "Pod tytonie ciemne i Burley stosuje się 30–40 t/ha obornika."
+    },
+    {
+      "q": "Dla tytoni papierosowych jasnych zaleca się azot w ilości:",
+      "options": [
+        "80–120 kg/ha",
+        "120–140 kg/ha",
+        "200 kg/ha",
+        "20–30 kg/ha"
+      ],
+      "answer": 3,
+      "explain": "Dla tytoni jasnych zaleca się 20–30 kg/ha azotu amonowego przed wysadzeniem."
+    },
+    {
+      "q": "Potas w uprawie tytoniu:",
+      "options": [
+        "wydłuża czas żarzenia się tytoniu",
+        "zwiększa zawartość nikotyny",
+        "przyspiesza przerywanie rozsady",
+        "obniża elastyczność liści"
+      ],
+      "answer": 0,
+      "explain": "Potas zwiększa elastyczność liści, ich zasobność w węglowodany i wydłuża żarzenie."
+    },
+    {
+      "q": "Boraks pod tytoń stosuje się w dawce:",
+      "options": [
+        "0,5 kg/ha",
+        "50 kg/ha",
+        "8–10 kg/ha",
+        "100 kg/ha"
+      ],
+      "answer": 2,
+      "explain": "Zaleca się nawożenie boraksem w ilości 8–10 kg/ha."
+    },
+    {
+      "q": "Dawka azotu pod chmiel wynosi:",
+      "options": [
+        "20–30 kg/ha",
+        "50–60 kg/ha",
+        "400 kg/ha",
+        "150–200 kg/ha"
+      ],
+      "answer": 3,
+      "explain": "Glebę pod chmiel uzupełnia się azotem w dawce 150–200 kg/ha."
+    },
+    {
+      "q": "Nadmiar fosforu w uprawie chmielu powoduje:",
+      "options": [
+        "werticiliozę",
+        "wymarzanie karp",
+        "przedwczesne dojrzewanie szyszek",
+        "zahamowanie kwitnienia"
+      ],
+      "answer": 2,
+      "explain": "Fosfor w nadmiarze może spowodować przedwczesne dojrzewanie szyszek i utratę barwy."
+    },
+    {
+      "q": "Wapnowanie chmielnika można przeprowadzać:",
+      "options": [
+        "razem z obornikiem",
+        "w latach bez nawożenia obornikiem",
+        "tylko wapnem palonym na glebach lekkich",
+        "co roku latem"
+      ],
+      "answer": 1,
+      "explain": "Wapnem można nawozić tylko w latach, w których nie stosuje się obornika."
+    },
+    {
+      "q": "Optymalny odczyn gleby dla wikliny to:",
+      "options": [
+        "pH 5,5–6,5",
+        "pH 3,5–4,5",
+        "pH 7,5–8,0",
+        "pH 8,5–9,0"
+      ],
+      "answer": 0,
+      "explain": "Optymalny odczyn gleby dla wikliny to 5,5–6,5."
+    },
+    {
+      "q": "Rozsada tytoniu wymaga gleby o odczynie:",
+      "options": [
+        "pH 4,0–4,5",
+        "pH 7,5–8,0",
+        "pH 6,0–6,3",
+        "pH 5,0–5,3"
+      ],
+      "answer": 2,
+      "explain": "W rozsadniku wymagana jest gleba lekko kwaśna (pH 6,0–6,3)."
+    },
+    {
+      "q": "Faza krzyżaka u tytoniu to:",
+      "options": [
+        "liścienie i pierwsza para liści",
+        "kwitnienie",
+        "5–6 liści właściwych",
+        "dojrzałość techniczna liści"
+      ],
+      "answer": 0,
+      "explain": "Po wykształceniu liścieni i pierwszej pary liści (faza krzyżaka) rozsadę się przerywa."
+    },
+    {
+      "q": "Tytoń wysadza się w Polsce w terminie:",
+      "options": [
+        "1–15 marca",
+        "1–15 czerwca",
+        "koniec lipca",
+        "25 kwietnia – 10 maja"
+      ],
+      "answer": 3,
+      "explain": "Tytoń wysadza się na przełomie kwietnia i maja (25 IV – 10 V)."
+    },
+    {
+      "q": "Usuwanie bocznych odrostów tytoniu po ogłowieniu to:",
+      "options": [
+        "ogławianie",
+        "pasynkowanie",
+        "redlenie",
+        "przerywanie"
+      ],
+      "answer": 1,
+      "explain": "Pasynkowanie to usuwanie bocznych odrostów po ogłowieniu."
+    },
+    {
+      "q": "Pełny plon chmielu z sadzonek ukorzenionych ze sztobrów uzyskuje się po:",
+      "options": [
+        "roku",
+        "2 latach",
+        "5 latach",
+        "10 latach"
+      ],
+      "answer": 1,
+      "explain": "Z sadzonek sztobrowych pełny plon uzyskuje się po 2 latach."
+    },
+    {
+      "q": "Zrzezy wikliny mają długość:",
+      "options": [
+        "5–10 cm",
+        "50–60 cm",
+        "100–120 cm",
+        "20–30 cm"
+      ],
+      "answer": 3,
+      "explain": "Sadzonki wikliny to odcinki prętów długości 20–30 cm."
+    },
+    {
+      "q": "Konopiankę (wiklinę gruboprętową) sadzi się w rozstawie:",
+      "options": [
+        "50 × 20 cm",
+        "40 × 12,5 cm",
+        "90 × 40 cm",
+        "150 × 300 cm"
+      ],
+      "answer": 0,
+      "explain": "Odmiany gruboprętowe (konopianka) sadzi się w rozstawie 50 × 20 cm."
+    },
+    {
+      "q": "Niebieskoszary nalot na dolnej stronie liści tytoniu jest objawem:",
+      "options": [
+        "zgnilizny twardzikowej",
+        "czarnej zgnilizny korzeni",
+        "mączniaka rzekomego",
+        "choroby lubelskiej"
+      ],
+      "answer": 2,
+      "explain": "Mączniak rzekomy (Peronospora tabacina) daje żółte plamy i niebieskoszary nalot pod liśćmi."
+    },
+    {
+      "q": "Najgroźniejszą chorobą chmielu jest:",
+      "options": [
+        "rdza",
+        "mączniak właściwy",
+        "parch wierzbowy",
+        "mączniak rzekomy"
+      ],
+      "answer": 3,
+      "explain": "Rzekomy mączniak to najgroźniejsza choroba chmielu."
+    },
+    {
+      "q": "Przy werticiliozie chmielu zaleca się:",
+      "options": [
+        "zwiększenie dawek azotu",
+        "płytką uprawę",
+        "zmniejszenie nawożenia azotem i głęboką orkę",
+        "oprysk Aliette co tydzień jako zwalczanie bezpośrednie"
+      ],
+      "answer": 2,
+      "explain": "Zapobieganie werticiliozie polega na zmniejszeniu nawożenia azotem i głębokim przeorywaniu."
+    },
+    {
+      "q": "Liście tytoniu zbiera się w:",
+      "options": [
+        "jednym etapie",
+        "6–8 etapach",
+        "2 etapach",
+        "15–20 etapach"
+      ],
+      "answer": 1,
+      "explain": "Zbiór liści tytoniu następuje w 6–8 etapach."
+    },
+    {
+      "q": "Zbiór chmielu rozpoczyna się:",
+      "options": [
+        "pod koniec sierpnia",
+        "w maju",
+        "w czerwcu",
+        "w listopadzie"
+      ],
+      "answer": 0,
+      "explain": "Początek zbioru chmielu następuje pod koniec sierpnia."
+    },
+    {
+      "q": "Wiklinę zbiera się w okresie:",
+      "options": [
+        "od kwietnia do maja",
+        "od czerwca do sierpnia",
+        "od listopada do marca",
+        "we wrześniu"
+      ],
+      "answer": 2,
+      "explain": "Zbiór wikliny odbywa się od listopada do marca, w stanie spoczynku."
+    },
+    {
+      "q": "Białą wiklinę uzyskuje się przez:",
+      "options": [
+        "moczarkowanie",
+        "gotowanie",
+        "parzenie",
+        "suszenie płomieniowe"
+      ],
+      "answer": 0,
+      "explain": "Moczarkowanie (3–6 tygodni w wodzie) daje białą wiklinę."
+    },
+    {
+      "q": "Na zdjęciu widoczne są szyszki:",
+      "options": [
+        "chmielu",
+        "tytoniu",
+        "wikliny",
+        "konopi"
+      ],
+      "answer": 0,
+      "explain": "Szyszki chmielu zawierają lupulinę – surowiec dla browarów.",
+      "img": "img/ur7/szyszki-chmielu.jpg"
+    },
+    {
+      "q": "Roślina wieloletnia na zdjęciu, używana w koszykarstwie, to:",
+      "options": [
+        "chmiel",
+        "wiklina",
+        "tytoń",
+        "len"
+      ],
+      "answer": 1,
+      "explain": "Wiklina (wierzba koszykarska) – plantacja użytkowana przeciętnie 15 lat.",
+      "img": "img/ur7/wiklina.jpg"
+    },
+    {
+      "q": "Którym środkiem zwalcza się parcha wierzbowego na wiklinie?",
+      "options": [
+        "Talstar 100 EC",
+        "Bravo 500 SC",
+        "Lintur 70 WG",
+        "Roztoczol Extra 050 CS"
+      ],
+      "answer": 1,
+      "explain": "Parch wierzbowy – kilkukrotne naprzemienne fungicydy, np. Bravo 500 SC, Baycor 300 EC; Talstar – przędziorek, Lintur – herbicyd."
+    },
+    {
+      "q": "Kto sprowadził tytoń do Europy?",
+      "options": [
+        "Krzysztof Kolumb",
+        "Jean Nicot de Villemain",
+        "Walter Raleigh",
+        "Hernán Cortés"
+      ],
+      "answer": 1,
+      "explain": "Francuski poseł Jean Nicot de Villemain (XVI w.) – od jego nazwiska pochodzi łacińska nazwa Nicotiana."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Tytoń dotarł do Europy w:",
+      "options": [
+        "XVIII wieku.",
+        "XIII wieku.",
+        "XVI wieku.",
+        "XV wieku."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nObecnie czołowym producentem tytoniu na świecie są ….",
+      "options": [
+        "Stany Zjednoczone",
+        "Chiny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPolska jest trzecim w Europie, a piątym na świecie producentem chmielu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które składniki nawozowe są istotne w uprawie tytoniu?",
+      "options": [
+        "Azot.",
+        "Fosfor.",
+        "Potas.",
+        "Siarka.",
+        "Bor."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW Polsce pierwsze plantacje wikliny powstały w … wieku w okolicach Rudnika nad Sanem oraz w Wielkopolsce.",
+      "options": [
+        "XVI",
+        "XIX"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń machorkowy ma liście jasne, drobne, najwyższej jakości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakich miesiącach odbywa się zbiór wikliny?",
+      "options": [
+        "Od listopada do marca.",
+        "Od maja do lipca.",
+        "Od kwietnia do maja.",
+        "Od września do listopada."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNiskie temperatury powietrza w okresie dojrzewania liści tytoniu … na obniżenie jakości surowca.",
+      "options": [
+        "nie wpływają",
+        "wpływają"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzyszki chmielu wykorzystywane są nie tylko do produkcji piwa, ale również w przemyśle kosmetycznym i farmaceutycznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż pozytywne oddziaływania fosforu na tytoń.",
+      "options": [
+        "Przyspiesza rozwój i dojrzewanie liści.",
+        "Wydłuża czas żarzenia się tytoniu.",
+        "Zwiększa odporność tytoniu na przymrozki.",
+        "Wpływa na skład chemiczny rośliny."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTytonie papierosowe jasne są … wymagające niż tytonie papierosowe ciemne.",
+      "options": [
+        "mniej",
+        "więcej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń lubi ciepło, ale dobrze znosi przymrozki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Dlaczego dla tytoniu nie jest wskazany przedplon oraz sąsiedztwo ziemniaków i pomidorów?",
+      "options": [
+        "Może spowalniać rozrost systemu korzeniowego tytoniu.",
+        "Ze względu na zagrożenie zanieczyszczenia surowca.",
+        "Ze względu na zagrożenie zarażenia chorobami wirusowymi.",
+        "Ze względu na zagrożenie zahamowania wzrostu tytoniu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBardzo wysokie temperatury w lipcu są … dla chmielu.",
+      "options": [
+        "niekorzystne",
+        "korzystne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlantacje wikliny mogą być zakładane na terenach i glebach nieprzydatnych do innych upraw, oraz na terenach o dużym zanieczyszczeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż choroby najczęściej atakujące tytoń.",
+      "options": [
+        "Mączniak rzekomy.",
+        "Zgnilizna twardzikowa.",
+        "Werticilioza.",
+        "Zgnilizna czarna korzeni."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOdczyn gleby pod uprawę chmielu powinien być ….",
+      "options": [
+        "kwaśny",
+        "obojętny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKora z wikliny, z uwagi na zawarte w niej znaczne ilości garbników, flawonoidów i kwasu salicylowego, wykorzystywana jest w przemyśle farmaceutycznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czym jest pasynkowanie?",
+      "options": [
+        "Usuwaniem bocznych odrostów tytoniu po ogłowieniu.",
+        "Usuwaniem kwiatostanu.",
+        "Obsypywaniem glebą dolnej części łodyg.",
+        "Odchwaszczaniem."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWiklina jest … wymagająca pod względem klimatycznym i glebowym.",
+      "options": [
+        "bardzo",
+        "mało"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo wyprodukowanie 1 kg suchej masy chmiel potrzebuje około 100 l wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych szkodników stanowią największe zagrożenie dla chmielu?",
+      "options": [
+        "Mszyce chmielowo-śliwowe.",
+        "Krytoryjek.",
+        "Szpeciel pilśniowiec.",
+        "Przędziorek chmielowiec."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWiklina wymaga znacznych ilości wody jedynie w …, czyli w okresie intensywnego wzrostu pędów.",
+      "options": [
+        "kwietniu i maju",
+        "lipcu i sierpniu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajlepsze warunki pod uprawę tytoniu są na stanowiskach po uprawach zbóż.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiedy zaczynają się zbiory chmielu?",
+      "options": [
+        "Na przełomie września i października.",
+        "Pod koniec października.",
+        "Pod koniec lipca.",
+        "Pod koniec sierpnia."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… w nadmiarze może spowodować przedwczesne dojrzewanie szyszek chmielu i szybką utratę ich właściwego zabarwienia po zbiorze.",
+      "options": [
+        "Wapno",
+        "Fosfor"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajlepszym przedplonem pod chmiel są rośliny motylkowate, które mają głęboki system korzeniowy i pozostawiają po sobie glebę zasobną w azot.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż metody przygotowujące wiklinę do koronowania.",
+      "options": [
+        "Pasynkowanie.",
+        "Redlenie.",
+        "Moczarkowanie.",
+        "Gotowanie.",
+        "Parzenie."
+      ],
+      "answers": [
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW Polsce tytoń wysadza się na przełomie ….",
+      "options": [
+        "kwietnia i maja",
+        "czerwca i lipca"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń jest rośliną, która bardzo szybko wyczerpuje zasoby mineralne gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czym jest redlenie?",
+      "options": [
+        "Odchwaszczaniem.",
+        "Usuwaniem bocznych odrostów tytoniu po ogłowieniu.",
+        "Usuwaniem kwiatostanu.",
+        "Obsypywaniem glebą dolnej części łodyg."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest wiodącym na świecie producentem i eksporterem wyrobów wikliniarskich.",
+      "options": [
+        "Szwecja",
+        "Polska"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawożenie pod wiklinę uzależnione jest od rodzaju gleby na jakiej rośnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie choroby najczęściej atakują wiklinę?",
+      "options": [
+        "Zgnilizna czarna korzeni.",
+        "Zamieranie pędów.",
+        "Parch wierzbowy.",
+        "Rdza.",
+        "Werticilioza."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBor ma … wpływ na jakość tytoniu.",
+      "options": [
+        "niekorzystny",
+        "korzystny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGęstość wysiewu tytoniu nie wpływa na wielkość liści rośliny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Po ilu latach uzyskuje się pełny plon chmielu z sadzonek nieukorzenionych?",
+      "options": [
+        "Po 2 latach.",
+        "Po 3 latach.",
+        "Po 4 latach.",
+        "Po roku."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nChmiel jest rośliną ….",
+      "options": [
+        "światłolubną",
+        "cieniolubną"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklinę zaleca się sadzić wiosną, choć dopuszcza się również sadzenie latem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie sadzonki stosuje się do zakładania plantacji chmielu?",
+      "options": [
+        "Sadzonki nieukorzenione.",
+        "Sadzonki pasynkowane.",
+        "Sadzonki ukorzenione ze sztobrów.",
+        "Sadzonki ukorzenione wolne od patogenów."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… powoduje powstawanie na liściach wikliny mozaikowanych żółtych plam i opadanie liści.",
+      "options": [
+        "Krytoryjek olchowiec",
+        "Przędziorek wierzbowiec"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZbiór szyszek chmielu wykonywany jest wyłącznie ręcznie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Podczas zbioru tytoniu liście górne są:",
+      "options": [
+        "lekko przejrzałe.",
+        "w pełni dojrzałe.",
+        "lekko niedojrzałe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo rozerwaniu szyszki chmielu widoczne są złocistobursztynowe kuleczki...",
+      "options": [
+        "humulenu",
+        "lupuliny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChmiel wymaga gleb żyznych, strukturalnych, o dużej miąższości warstwy ornej, zasobnych w wodę, ale przewiewnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Która odmiana tytoniu może być uprawiana na glebach piaszczystych?",
+      "options": [
+        "Tytonie papierosowe jasne.",
+        "Tytonie papierosowe ciemne.",
+        "Tytonie cygarowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń należy do grupy najbardziej pracochłonnych upraw.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie warunki powinny być spełnione przy uprawie tytoniu cygarowego?",
+      "options": [
+        "Niska temperatura.",
+        "Rozproszone światło.",
+        "Wysoka temperatura.",
+        "Duża wilgotność powietrza.",
+        "Mała wilgotność powietrza."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChmiel dobrze funkcjonuje w rejonach, gdzie średnioroczne opady wynoszą 450–600 mm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń jest jedną z najbardziej popularnych używek i należy do rodziny konopiowatych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile procent nikotyny zawierają w przybliżeniu liście tytoniu cygarowego?",
+      "options": [
+        "0,5%.",
+        "6%.",
+        "3%.",
+        "1%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jakie pozytywne skutki przynosi ogławianie tytoniu?",
+      "options": [
+        "Zapobiega przechylaniu bądź wyłamywaniu roślin w czasie burz lub intensywnych opadów.",
+        "Pozytywnie wpływa na skład chemiczny rośliny.",
+        "Wzmacnia się system korzeniowy rośliny.",
+        "Roślina przekierowuje treści odżywcze do liści.",
+        "Wydłuża czas żarzenia się tytoniu."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiektóre gatunki chmielu są uprawiane jako rośliny ozdobne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Gdzie w Polsce występują największe skupiska producentów chmielu?",
+      "options": [
+        "Na Opolszczyźnie.",
+        "Na Lubelszczyźnie.",
+        "W Wielkopolsce.",
+        "Na Pomorzu."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką część tytoniu atakuje mączniak rzekomy?",
+      "options": [
+        "Liście.",
+        "Korzeń.",
+        "Kwiatostany.",
+        "Podstawę łodygi."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzyszki chmielu mogą zastępować drożdże, gdyż występując jako dodatek do zaczynu chlebowego, powodują rośnięcie ciasta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Po ilu latach uzyskuje się pełny plon chmielu z sadzonek ukorzenionych ze sztorbów?",
+      "options": [
+        "Po czterech.",
+        "Po dwóch.",
+        "Po roku.",
+        "Po trzech."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które państwa wyprzedzają Polskę w produkcji chmielu?",
+      "options": [
+        "Chiny.",
+        "Francja.",
+        "Niemcy.",
+        "Wielka Brytania.",
+        "Czechy.",
+        "Stany Zjednoczone."
+      ],
+      "answers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń początkowo traktowany był jako roślina ozdobna i środek leczniczy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina wymaga specjalnych warunków uprawy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile procent powierzchni upraw w Polsce zajmuje wierzba amerykańska, z której pozyskuje się wiklinę?",
+      "options": [
+        "80%.",
+        "0%.",
+        "50%.",
+        "20%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina nazywana jest potocznie wierzbą koszykarską i znana była człowiekowi już w czasach starożytnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki wpływ na chmiel ma azot?",
+      "options": [
+        "Negatywnie wpływa na skład chemiczny rośliny.",
+        "Jego nadmiar pogarsza jakość szyszek chmielu.",
+        "Może spowodować przedwczesne dojrzewane szyszek.",
+        "Zwiększa plony."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina wymaga wysokich temperatur w sezonie wegetacyjnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRegulówka, czyli głęboka na 40–50 cm orka prowadzona jesienią, pozwala na rozrost systemu korzeniowego chmielu i poprawia możliwości magazynowania wody przez glebę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest orientacyjna zawartość nikotyny w liściach tytoniu machorkowego.",
+      "options": [
+        "6%.",
+        "2,5–3%.",
+        "1%.",
+        "0,5–1,5%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOd 1 stycznia 2014 r. do obrotu można będzie wprowadzać tylko chmiel certyfikowany i wyprodukowany w wyznaczonych regionach kraju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki pozytywny wpływ na tytoń ma potas?",
+      "options": [
+        "Zwiększa zasobność rośliny w węglowodany.",
+        "Zwiększa odporność tytoniu na przymrozki.",
+        "Wydłuża czas żarzenia się tytoniu.",
+        "Zwiększa elastyczność liści."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina jako roślina miododajna może być wykorzystywana w pszczelarstwie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawa wikliny udaje się na każdym rodzaju gleb.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak często wycinane są drobnoprętowe odmiany wikliny?",
+      "options": [
+        "Co 4 lata.",
+        "Corocznie.",
+        "Co 2-3 lata."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzymrozki majowe mogą uszkodzić rozsadę, a przymrozki wrześniowe zniszczyć zbiór tytoniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChmiel jest rośliną klimatu umiarkowanego o stosunkowo dużych wymaganiach cieplnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak często należy wapnować glebę kwaśną, aby utrzymać pożądany dla chmielu odczyn obojętny gleby?",
+      "options": [
+        "Co 3–4 lata.",
+        "Co 2 lata.",
+        "Co pół roku.",
+        "Co 5 lat."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina bardzo dobrze znosi wczesnowiosenne przymrozki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki wpływ na chmiel mogą mieć kwietniowe i majowe spadki temperatur?",
+      "options": [
+        "Wpływają na zmniejszenie plonów szyszek.",
+        "Hamują wzrost rośliny.",
+        "Wpływają na skład chemiczny rośliny.",
+        "Skracają okres kwitnienia."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTytoń należy do roślin wrażliwych na ograniczony dostęp powietrza do korzeni, dlatego ważną rolę spełniają międzyrzędowe uprawki spulchniające.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiklina, szczególnie w pierwszym roku po posadzeniu, jest wrażliwa na zaskorupienie i zachwaszczenie gleby, nie zaleca się jednak opryskiwania gleby herbicydami bezpośrednio po sadzeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką część wikliny atakuje parch wierzbowy?",
+      "options": [
+        "Podstawę łodygi.",
+        "Korzeń.",
+        "Liście.",
+        "Młode pędy.",
+        "Kwiatostany."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak często wycinane są gruboprętowe odmiany wikliny?",
+      "options": [
+        "Co 4 lata.",
+        "Co 2-3 lata",
+        "Corocznie."
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

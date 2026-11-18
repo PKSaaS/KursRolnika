@@ -1,0 +1,2337 @@
+{
+  "id": "bpc3",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Różnice w budowie układów i narządów zwierząt gospodarskich i zwierząt towarzyszących",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Układ – zespół narządów pełniących podobne funkcje, mających ten sam cel lub działających na podobnej zasadzie.",
+        "Układ rozrodczy wykazuje największe różnice płciowe i gatunkowe.",
+        "Procesy rozrodcze i wzrostu regulowane są hormonalnie – przez układ wydzielniczy.",
+        "Wszystkie funkcje życiowe kontroluje układ nerwowy – część zależna od świadomości, część niezależna od woli.",
+        "Różnice w budowie, a nawet obecności narządów, wynikają często z fizjologii i trybu życia gatunku.",
+        "Układ oddechowy dostarcza tlen potrzebny do procesów metabolicznych; układ krążenia (naczynia + serce jako pompa) rozprowadza tlen i składniki odżywcze i odbiera zbędne substancje do narządów neutralizujących i wydalających.",
+        "Układ pokarmowy – narządy połączone w przewód, w którym zachodzi rozdrabnianie, trawienie, wchłanianie i wydalenie zbędnych pozostałości; układ wydalniczy – krew filtrowana przez nerki oddaje nadmiar wody i zbędne substancje usuwane drogami moczowymi.",
+        "Zadanie układu rozrodczego: podtrzymanie gatunku przez prawidłowy przebieg zapłodnienia, utrzymanie i donoszenie ciąży oraz poród zdrowego, żywego potomstwa; układ wydzielniczy jest systemem regulacyjnym metabolizmu."
+      ]
+    },
+    {
+      "heading": "1. Układ oddechowy",
+      "points": [
+        "Narządy układu oddechowego: jama nosowa i gębowa, gardło, krtań, tchawica, oskrzela, płuca.",
+        "Tchawica zbudowana jest z chrząstek połączonych tkanką łączną (pierścienie tchawicze); liczba pierścieni i kształt przekroju (od okrągłego do prostokątnego) zależą od gatunku.",
+        "Oskrzela nie wykazują większych różnic gatunkowych.",
+        "Każdy ssak ma płuco prawe i lewe, podzielone na płaty nazwane od położenia.",
+        "Płat środkowy płuca prawego = płat sercowy; płat przedni (doczaszkowy) = wierzchołkowy; płat doogonowy = przeponowy.",
+        "Koń – płuco prawe: płat przedni, doogonowy, dodatkowy (bez środkowego).",
+        "Mięsożerne, bydło i świnie – płuco prawe: płat przedni, środkowy, doogonowy i dodatkowy; płat przedni płuca lewego ma część doczaszkową i doogonową."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tabela-tchawica.jpg",
+          "caption": "Tchawica – kształt przekroju chrząstek i liczba pierścieni: pies – prostokątny zaokrąglony, 42–46; świnia – prostokątny wydłużony pionowo, 29–36; krowa – owalny pionowy, 48–60; koń – owalny poziomy (spłaszczony), 48–60."
+        },
+        {
+          "src": "img/bpc3/podzial-pluc-kon-miesozerne.jpg",
+          "caption": "Podział płuc: koń – płuco lewe: płat przedni i tylny; płuco prawe: płat przedni, doogonowy, dodatkowy. Mięsożerne – płuco lewe: płat przedni (część doczaszkowa i doogonowa) i tylny; płuco prawe: płat przedni, środkowy, doogonowy, dodatkowy."
+        },
+        {
+          "src": "img/bpc3/podzial-pluc-bydlo-swinia.jpg",
+          "caption": "Podział płuc: bydło – płuco lewe: płat przedni (część doczaszkowa i doogonowa) i tylny; płuco prawe: płat przedni (część doogonowa i doczaszkowa), środkowy, doogonowy, dodatkowy. Świnia – płuco lewe: płat przedni (część doczaszkowa i doogonowa) i tylny; płuco prawe: płat przedni, środkowy, doogonowy, dodatkowy."
+        }
+      ]
+    },
+    {
+      "heading": "2. Układ krążenia – zadania i budowa",
+      "points": [
+        "Wyróżnia się krążenie krwi i krążenie chłonne; płyny ustrojowe: krew, chłonka, płyn tkankowy.",
+        "Układ krwionośny jest zamknięty – przedostanie się krwi poza naczynia to stan patologiczny.",
+        "Zadania: transport składników odżywczych, wody, tlenu i hormonów; odbiór zbędnych produktów przemiany materii i CO2; regulacja homeostazy, temperatury i odporności (przeciwciała, krzepnięcie).",
+        "Elementy: serce, tętnice, żyły, naczynia włosowate.",
+        "Serce ssaków: dwa przedsionki i dwie komory; cofaniu się krwi zapobiegają zastawki; strony serca oddziela przegroda.",
+        "Z prawej komory krew płynie do płuc; natlenowana wraca do lewego przedsionka i jest wypychana z lewej komory do organizmu.",
+        "System bodźcoprzewodzący warunkuje prawidłowe kurczenie się mięśnia sercowego; serce odżywiają naczynia wieńcowe.",
+        "Tętnice mają ściany grubsze i bardziej elastyczne niż żyły (wyższe ciśnienie).",
+        "Żyły mają cieńsze ściany i zastawki zapobiegające cofaniu się krwi (niskie ciśnienie).",
+        "Naczynia włosowate – cienkie ściany ze śródbłonka umożliwiają wymianę substancji z płynem tkankowym.",
+        "Przepływ krwi: 6% – naczynia wieńcowe, 20% – narządy tworzące żyłę wrotną (śledziona, trzustka, żołądek, jelita), 30% – nerki, 44% – inne narządy.",
+        "Łożysko krwionośne jest wypełnione krwią dzięki sercu (zapewnia różnicę ciśnień między zbiornikami krwionośnymi) i układowi naczyń.",
+        "Kierunki transportu: składniki odżywcze i woda – m.in. z jelit; tlen – z płuc; hormony – z narządów wydzielania; zbędne produkty – do układu wydalniczego; CO2 – do płuc; substancje regulujące – transport międzynarządowy.",
+        "Naczynia wieńcowe mają swoiste połączenia z prawym przedsionkiem i lewą komorą.",
+        "Elementy mięśniowe i sprężyste w ścianach tętnic utrzymują napięcie i pozwalają na aktywne kurczenie i rozkurczanie naczyń – ciągły, jednolity przepływ krwi; ściany żył mają te same warstwy, ale są znacznie cieńsze.",
+        "Żyłę wrotną tworzą naczynia śledziony, trzustki, żołądka, jelit cienkich i początku jelit grubych (20% przepływu krwi)."
+      ]
+    },
+    {
+      "heading": "2. Tętno",
+      "points": [
+        "Tętno – ruch naczyń spowodowany rytmicznym przepływem krwi w wyniku skurczów serca; jest cechą gatunkową.",
+        "Im mniejsze zwierzę, tym większa powierzchnia ciała względem serca – szybsze tętno i metabolizm.",
+        "Wolniejsze tętno i lepsze proporcje ciała ułatwiają utrzymanie stałej temperatury.",
+        "Tętno (uderzeń/min): człowiek 70, koń 26–36, krowa 60–70, owca 70–80, świnia 60–80, pies 80–110.",
+        "Słoń 30, mysz 600, kura 200–400.",
+        "Cielę: 2 tyg. 105–115, 12 tyg. 90–105, 24 tyg. 80–100."
+      ]
+    },
+    {
+      "heading": "2. Układ limfatyczny (immunologiczny)",
+      "points": [
+        "Układ limfatyczny jest otwarty – limfa przedostaje się do krwiobiegu i do przestrzeni pozakomórkowej.",
+        "Rola: odpornościowa (wytwarza niektóre białe krwinki), neutralizująca czynniki szkodliwe, odprowadzanie limfy do krwi.",
+        "Tworzą go naczynia limfatyczne i tkanka limfatyczna: węzły chłonne, grudki chłonne, grasica, migdałki, śledziona.",
+        "Naczynia limfatyczne łączą się w główny przewód piersiowy.",
+        "Węzły chłonne filtrują limfę i wytwarzają przeciwciała; grudki chłonne leżą w błonie śluzowej jelita cienkiego.",
+        "Grasica powiększa się do 2. roku życia i zanika z wiekiem; kontroluje rozwój wtórnych tkanek limfatycznych; produkuje też hormony.",
+        "Migdałki – skupiska tkanki limfatycznej we wgłębieniu gardzieli.",
+        "Śledziona leży na żołądku po lewej stronie; krwiotwórcza w okresie prenatalnym, po urodzeniu rozkłada stare krwinki, magazynuje krew, produkuje limfocyty i monocyty.",
+        "Śledziona – ciężar: koń ok. 1 kg, bydło 1 kg, świnia 150–350 g; krawędzie zaokrąglone u bydła, ostre u konia, psa i świni.",
+        "Drobne limfatyczne naczynia włosowate zbierają płyn z tkanek; limfa z naczyń miesza się z krwią i jest przesączana do przestrzeni pozakomórkowej.",
+        "Głównymi komórkami grasicy są limfocyty i komórki nabłonkowe; grasica kontroluje rozwój wtórnych tkanek limfatycznych w życiu zarodkowym i okresie dojrzewania.",
+        "Śledziona psa: długość 5–10 cm, szerokość i grubość zależne od rasy, ciężar ok. 0,5 kg, krawędzie ostre; konia: 40–50 cm długości, 17–25 cm szerokości; bydła: do 50 cm długości, 15 cm szerokości, 3 cm grubości; świni: 40 cm długości, 5–8 cm szerokości."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tabela-sledziona.jpg",
+          "caption": "Parametry śledziony (koń / bydło / pies / świnia): długość 40–50 cm / do 50 cm / 5–10 cm / 40 cm; grubość – / 3 cm / zależy od rasy / –; szerokość 17–25 cm / 15 cm / zależy od rasy / 5–8 cm; ciężar ok. 1 kg / 1 kg / 0,5 kg (różnice rasowe) / 150–350 g; krawędzie ostre / zaokrąglone / ostre / ostre."
+        }
+      ]
+    },
+    {
+      "heading": "3. Układ wydzielniczy – podwzgórze i przysadka",
+      "points": [
+        "Narządy wydzielania wewnętrznego: podwzgórze, przysadka mózgowa, nadnercza, tarczyca i przytarczyce, trzustka, gonady.",
+        "Podwzgórze – podkorowa część mózgowia, produkuje neurohormony, reguluje wydzielanie przysadki.",
+        "Przysadka leży w siodle tureckim (sella turcica); ma część przednią, środkową i tylną.",
+        "Część przednia: hormon wzrostu, prolaktyna (laktacja, u karmiących blokuje owulację), ACTH (nadnercza), hormon tyreotropowy (tarczyca), FSH, LH, endorfiny.",
+        "FSH – dojrzewanie pęcherzyków jajnikowych (u samców spermatogeneza); LH – podtrzymuje jajeczkowanie i produkcję progesteronu, u samców pobudza produkcję testosteronu.",
+        "Część środkowa: melanotropina – wybarwienie skóry.",
+        "Część tylna nie wytwarza hormonów – magazynuje i uwalnia oksytocynę i wazopresynę.",
+        "Podwzgórze dzięki neurohormonom w sposób pośredni łączy działanie układu nerwowego i wydzielniczego.",
+        "Hormon wzrostu – wzrost organizmu i procesy metaboliczne; hormon tyreotropowy – warunkuje hormonalną aktywność tarczycy."
+      ]
+    },
+    {
+      "heading": "3. Nadnercza, tarczyca, przytarczyce, trzustka, gonady",
+      "points": [
+        "Nadnercza: kora (80–90% masy) i rdzeń; hormony utrzymują równowagę wodno-mineralną, warunkują reakcję na stres, podnoszą poziom glukozy.",
+        "Kora nadnerczy: kortykosteroidy (m.in. kortyzol), mineralokortykoidy (np. aldosteron), androgeny.",
+        "Rdzeń nadnerczy: katecholaminy – adrenalina i niewielkie ilości noradrenaliny.",
+        "Tarczyca – w przednio-dolnej części szyi, dwa płaty połączone cieśnią; wytwarza T3 (trójjodotyroninę), T4 (tyroksynę) i kalcytoninę.",
+        "Przytarczyce – pod biegunami tarczycy; parathormon reguluje poziom wapnia.",
+        "Trzustka – narząd wydzielania zewnętrznego (enzymy do dwunastnicy) i wewnętrznego (hormony do krwi).",
+        "Część wewnątrzwydzielnicza trzustki to wyspy trzustkowe (Langerhansa); komórki δ (10%) – somatostatyna, komórki F (5%) – polipeptyd trzustkowy; wyspy wytwarzają też insulinę i glukagon.",
+        "Jajniki: estrogeny, progesteron, relaksyna; jądra: androgeny (głównie testosteron).",
+        "Hormony tarczycy wpływają na metabolizm i gospodarkę wapniowo-fosforową organizmu.",
+        "Przytarczyce – małe gruczoły pod biegunami tarczycy po jej szyjnej stronie, otoczone tkanką łączną.",
+        "Wyspy trzustkowe nazwano tak, bo ich komórki są rozproszone wśród komórek gruczołowych wydzielania zewnętrznego.",
+        "Komórki wysp wg materiału: komórki α (25%) – insulina, proinsulina, amylina, peptyd C; komórki β (60%) – glukagon (uwaga: w standardowych podręcznikach fizjologii odwrotnie – insulinę wytwarzają komórki β, glukagon komórki α)."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tarczyca.jpg",
+          "caption": "Tarczyca na tchawicy poniżej krtani: płat tarczycowy prawy i lewy połączone cieśnią, płat piramidowy; powyżej kość gnykowa i krtań."
+        }
+      ]
+    },
+    {
+      "heading": "4. Układ rozrodczy – jajniki i cykl",
+      "points": [
+        "Narządy wewnętrzne samic: jajniki, jajowody, macica, pochwa; zewnętrzne: wargi sromowe z łechtaczką.",
+        "Narządy wewnętrzne samców: jądra, najądrza, nasieniowody, gruczoły płciowe; zewnętrzne: prącie.",
+        "Cykl jajnikowy: faza pęcherzykowa (wzrost pęcherzyka regulowany przez FSH) → owulacja → faza lutealna (ciałko żółte).",
+        "Ciałko żółte utrzymuje się przez całą ciążę lub część cyklu, do działania hormonów luteolitycznych.",
+        "Zwierzęta monoestralne – ruja raz w roku; diestralne – dwa razy; poliestralne – kilka razy w roku.",
+        "Suka: jajniki przy pierwszych kręgach lędźwiowych, 1,5 × 2 cm; długi cykl (6–7 miesięcy); ciąża mnoga.",
+        "Świnia: jajnik przy 5–6 kręgu lędźwiowym, 5 × 2 × 2 cm, kształt maliny/morwy; cykl 21 dni; wielorodność.",
+        "Krowa: jajnik przy guzie krzyżowym kości biodrowej, 3,5–4 × 2,5 × 3–4 cm, kształt owalny/śliwki; cykl 21 dni; zwykle 1 komórka jajowa – ciąże bliźniacze trudne do donoszenia.",
+        "Klacz: jajnik za nerkami, 7–8 × 3–4 × 3–4 cm, kształt fasoli; cykl 21–28 dni; odwrócenie warstwy rdzennej i korowej; ciąże bliźniacze wymagają interwencji weterynaryjnej.",
+        "Jajniki produkują żeńskie komórki rozrodcze i hormony płciowe (estrogen, progesteron).",
+        "Po owulacji w miejsce pęknięcia pęcherzyka wylewa się krew, która krzepnie, tworzą się komórki lutealne i powstaje ciałko żółte; po rozłożeniu ciałka żółtego przez hormony luteolityczne ponownie zachodzi wzrost pęcherzyków.",
+        "U niektórych gatunków aktywność rozrodcza jest sezonowa – owulacja (jedno- lub wielokrotna) zachodzi w określonej porze roku.",
+        "Świnia – jajnik przy wpuście do jamy miednicy; dojrzewa wiele pęcherzyków w jednym cyklu, ciąża mnoga.",
+        "Krowa i klacz – uwalnianie jednej lub rzadziej dwóch komórek jajowych.",
+        "Klacz – jajnik za nerkami, na wysokości pierwszych kręgów lędźwiowych; krezka pokrywa prawie cały jajnik; ciąże bliźniacze mają znikome szanse donoszenia i stanowią znaczne ryzyko dla zdrowia i życia klaczy."
+      ]
+    },
+    {
+      "heading": "4. Jajowód, macica, łożysko, srom",
+      "points": [
+        "Jajowód: lejek → bańka → cieśń → część maciczna.",
+        "Zadania jajowodu: wychwycenie komórki jajowej, umożliwienie zapłodnienia, transport komórki jajowej/zarodka do macicy.",
+        "Krezki tworzą kieszonkę zapobiegającą ucieczce komórki jajowej; u mięsożernych ciasna, u suk dużo tłuszczu; u klaczy bardzo płytka.",
+        "Jajowód klaczy ok. 30 cm; krowy 20–30 cm.",
+        "Macica: rogi, trzon i szyjka; zamknięta szyjka ogranicza zakażenia, ale bakterie wniknięte podczas porodu i połogu mogą wywołać zapalenie wymagające interwencji lekarskiej.",
+        "Macica klaczy: dwurożna niepodzielona, bez przegrody, rogi krótkie (dłuższe od trzonu), kształt płóz sań, brak więzadła międzyrożnego.",
+        "Rogi macicy krowy mają kształt rogów baranich; u świni przypominają pętle jelit.",
+        "Łożyska wg sposobu połączenia: prawdziwe i rzekome.",
+        "Łożysko liścieniowe – bydło; popręgowe – mięsożerne; tarczkowe – człowiek; rozproszone – świnie, klacze.",
+        "Srom – twór mięśniowo-skórny; spojenie górne u klaczy ostre (u innych zaokrąglone), dolne u klaczy zaokrąglone (u innych ostre).",
+        "Łechtaczka: suka – dobrze wykształcony trzon; świnia – wężykowata ze stożkowym wierzchołkiem; bydło – trzon świderkowato skręcony; klacz – wydatna żołądź.",
+        "Jajowód łączy jajnik z macicą; utrzymuje położenie dzięki krezkom.",
+        "U suk tłuszcz w kieszonce jajnikowej sprawia, że jajnik może być trudno dostępny podczas zabiegów chirurgicznych; u klaczy ujście jajowodu jest dobrze widoczne.",
+        "Macica jest zawieszona na więzadłach i łączy się z pochwą za pośrednictwem szyjki; przy zapaleniu macicy konieczne jest farmakologiczne otwarcie szyjki i wydalenie zawartości macicy.",
+        "W ciąży w macicy dochodzi do implantacji i rozwoju zarodka oraz wytworzenia błon płodowych i łożyska.",
+        "Srom tworzy dwie wargi otaczające wejście do pochwy; spojenie górne graniczy z kroczem (przestrzeń między odbytem a sromem); wargi pokryte są skórą z licznymi gruczołami łojowymi i potowymi.",
+        "Łechtaczka leży w okolicy dolnego spojenia warg sromowych; składa się z trzonu i żołędzi; u suk żołądź jest rozległa.",
+        "Tabela 3.7 – macica krowy: dwurożna przegrodowa (przegroda częściowo dzieląca trzon, 1 ujście domaciczne, 1 dopochwowe), rogi 35–45 cm w kształcie rogów baranich, trzon ok. 30 cm, szyjka 6–15 cm.",
+        "Tabela 3.7 – macica świni: dwurożna przegrodowa; rogi u nieciężarnej kilkadziesiąt cm, u ciężarnej do 1,5 m (przypominają pętle jelit); trzon krótki – ok. 15 cm; szyjka 30 cm – najdłuższa w stosunku do długości ciała.",
+        "Tabela 3.7 – macica klaczy: trzon ok. 20 cm, szyjka 10–15 cm."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tabela-macica.jpg",
+          "caption": "Różnice w budowie macicy (krowa / świnia / klacz): rodzaj – krowa i świnia: dwurożna przegrodowa (przegroda częściowo dzieląca trzon, 1 ujście domaciczne, 1 dopochwowe), klacz: dwurożna niepodzielona, brak przegrody; rogi – 35–45 cm, kształt rogów baranich / nieciężarna kilkadziesiąt cm, ciężarna 1,5 m, przypominają pętle jelit / krótkie, dłuższe od trzonu, kształt płóz sań, brak więzadła międzyrożnego; trzon – ok. 30 cm / krótki, ok. 15 cm / ok. 20 cm; szyjka – 6–15 cm / 30 cm (najdłuższa w stosunku do długości ciała) / 10–15 cm."
+        }
+      ]
+    },
+    {
+      "heading": "4. Narządy płciowe męskie",
+      "points": [
+        "Najądrze: głowa, trzon i ogon łączący się z nasieniowodem.",
+        "Prącie: ciała jamiste i ciało gąbczaste (żołądź, opuszka, otacza cewkę); napletek – fałd skóry nad żołędzią.",
+        "Typy prącia: włóknisto-sprężyste i mięśniowo-jamiste; części: korzeń, trzon, żołądź.",
+        "Pies: kość prącia (skostnienie ciał jamistych żołędzi); żołądź = 1/2 długości prącia.",
+        "Buhaj: typ włóknisto-sprężysty, 80–100 cm, bardzo wąskie ujście cewki, zgięcie esowate.",
+        "Knur: typ włóknisto-sprężysty, do 60 cm we wzwodzie, zgięcie esowate, zakończenie w formie haczyka, uchyłek napletka.",
+        "Ogier: w spoczynku 50 cm, wyrostek cewki moczowej, szerokie ujście cewki w dole żołędzi, napletek wewnętrzny i zewnętrzny.",
+        "Gruczoł pęcherzykowy buhaja – kształt V, 10 × 5 × 3 cm; ogiera – gruszkowaty woreczek 15 × 5 cm; knura – 15 × 7 × 4 cm, wykracza do jamy brzusznej; pies – brak.",
+        "Gruczoł opuszkowo-cewkowy buhaja – parzysty, kulisty 3 × 2 cm; knura – walcowaty 18 × 8 cm; pies – brak.",
+        "Prostata psa wystaje do jamy brzusznej i „rośnie” z wiekiem; ogier – płat lewy i prawy, brak części rozsianej.",
+        "Jądra – gonady męskie, magazyn męskich komórek rozrodczych; najądrze to przewód wyprowadzający dojrzewające plemniki; nasieniowód transportuje plemniki, które z wydzieliną gruczołów dodatkowych są wydzielane na zewnątrz.",
+        "Prącie jest tworem analogicznym do żeńskiej łechtaczki.",
+        "Pies – trzon prącia ma dwa odcinki: przedni na podłożu kostnym i tylny jamisty.",
+        "Knur – prawie 1/3 długości prącia leży wewnątrz napletka; zgięcie esowate umożliwia wydłużenie w erekcji.",
+        "Ogier – erekcja 30–50 cm na zewnątrz; napletek wewnętrzny i zewnętrzny wynika z fałdu dodatkowego.",
+        "Położenie gruczołów: pęcherzykowy buhaja leży na górnej powierzchni trzonu i szyjki pęcherza moczowego, przykrywa końcowe odcinki moczowodu i bańki nasieniowodu (u knura dodatkowo przykrywa gruczoł krokowy).",
+        "Prostata buhaja (4 × 1,5 cm) od góry obejmuje odcinek dróg moczowych, część rozsiana otacza miedniczną część cewki moczowej i jest otoczona mięśniem cewkowym; prostata knura – trzon 3 × 2 cm nakryty gruczołem pęcherzykowym, większa część rozsiana; pies – mała część rozsiana.",
+        "Gruczoł opuszkowo-cewkowy buhaja leży w końcowym odcinku cewki moczowej (miednica), okryty mięśniem opuszkowo-gąbczastym; ogiera – dwa kolbowate płaty w kształcie V; knura – walcowaty 18 × 8 cm, wzdłuż miednicznej części cewki do tylnego otworu jamy miednicznej."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tabela-gruczoly-plciowe-meskie.jpg",
+          "caption": "Gruczoły płciowe męskie (pęcherzykowy – położenie i kształt, krokowy, opuszkowo-cewkowy) u buhaja, ogiera, knura i psa – m.in. buhaj: pęcherzykowy kształt V 10×5×3 cm, krokowy 4×1,5 cm z częścią rozsianą, opuszkowo-cewkowy parzysty, kulisty 3×2 cm; ogier: gruszkowaty woreczek 15×5 cm, krokowy – płat lewy i prawy, brak części rozsianej, opuszkowo-cewkowy – dwa kolbowate płaty; knur: 15×7×4 cm, wykracza do jamy brzusznej, krokowy 3×2 cm, opuszkowo-cewkowy walcowaty 18×8 cm; pies: brak pęcherzykowego i opuszkowo-cewkowego, prostata wystaje do jamy brzusznej i „rośnie” z wiekiem."
+        }
+      ]
+    },
+    {
+      "heading": "5. Układ pokarmowy – jama ustna, zęby, przełyk",
+      "points": [
+        "Części: jama ustna, przełyk, żołądek, jelita cienkie (dwunastnica, czcze, biodrowe), jelita grube (ślepe, okrężnica, prostnica), wątroba, trzustka.",
+        "Jama ustna: przedsionek (wargi, policzki) i jama ustna właściwa (zęby, język, podniebienie).",
+        "Zęby długokoronowe stale rosną, mają szkliwo na koronie i korzeniu: siekacze koni, kły świni, przedtrzonowe i trzonowce bydła.",
+        "Zęby krótkokoronowe – ograniczony wzrost, szkliwo tylko na koronie.",
+        "Siekacze (I) – chwytanie i odcinanie; kły (C) – chwytanie, przytrzymywanie, rozrywanie; przedtrzonowe (P); trzonowce (M) – miażdżenie i rozgniatanie.",
+        "Wzór zębowy: licznik – połowa uzębienia górnego, mianownik – połowa żuchwy.",
+        "Przełyk: część szyjna, piersiowa i brzuszna; pokarm przesuwają ruchy perystaltyczne.",
+        "Zęby długokoronowe ścierają się w miarę wysuwania z zębodołu.",
+        "Siekacze leżą w przedniej części szczęki lub żuchwy, kły – za siekaczami w łuku zębowym, przedtrzonowe – za kłami, trzonowce – najbardziej z tyłu.",
+        "We wzorze zębowym podaje się połowę uzębienia, bo prawa i lewa połowa są identyczne; różnice występują między uzębieniem górnym i dolnym.",
+        "Przełyk – długi przewód łączący jamę ustną z żołądkiem."
+      ]
+    },
+    {
+      "heading": "5. Żołądek",
+      "points": [
+        "Żołądek jednokomorowy prosty (gruczoły w całej śluzówce) lub złożony (strefy gruczołów i część bezgruczołowa).",
+        "Części: wpustowa, trzon, odźwiernikowa; krzywizna większa (wypukła) i mniejsza (wklęsła).",
+        "Świnia: część bezgruczołowa przy ujściu przełyku, strefa gruczołów wpustowych zajmuje prawie połowę śluzówki, worek ślepy przy wpuście.",
+        "Koń: 7,5–15 litrów, rozbudowana część bezgruczołowa (obszerny worek ślepy), ujście przełyku pod kątem.",
+        "Worek ślepy nad ujściem przełyku i zwieracz wpustu – konie nie wymiotują.",
+        "Przeżuwacze: trzy przedżołądki (żwacz, czepiec, księgi) i trawieniec – żołądek właściwy.",
+        "Żołądek jednokomorowy prosty – nabłonek jednowarstwowy walcowaty; u większości ssaków żołądek jest jednokomorowy gruczołowy; część odźwiernikowa łączy się z dwunastnicą.",
+        "Świnia: strefa gruczołów wpustowych biegnie wzdłuż krzywizny większej; druga połowa śluzówki zawiera gruczoły właściwe i odźwiernikowe w osobnych strefach.",
+        "Koń: bliskie ustawienie wpustu przełyku i ujścia odźwiernika."
+      ]
+    },
+    {
+      "heading": "5. Wątroba, woreczek żółciowy, trzustka",
+      "points": [
+        "Wątroba leży w przodobrzuszu za przeponą; odpowiada za detoksykację; we wrotach wątroby uchodzi żyła wrotna.",
+        "Woreczek żółciowy magazynuje żółć, która wspomaga trawienie i wchłanianie tłuszczów i witamin w nich rozpuszczalnych.",
+        "Koń nie ma woreczka żółciowego – je 12–16 godzin dziennie, trawienie trwa niemal bez przerwy.",
+        "Świnia: wątroba – dwa płaty, sięga do 12. żebra; przewody uchodzą kilka cm za odźwiernikiem.",
+        "Pies: przewód żółciowy z głównym przewodem trzustki uchodzi 3 cm za odźwiernikiem; wątroba do 7 płatów.",
+        "Bydło: 4 płaty wątroby; przewód żółciowy uchodzi pojedynczo w zagięciu esowatym.",
+        "Koń: płat lewy podzielony na boczny i przyśrodkowy, prawy niepodzielny; przewód wątrobowy uchodzi z trzustkowym.",
+        "Trzustka: świnia – trójkątna, 1 przewód dodatkowy; pies – kształt V, 2 przewody (dodatkowy większy od głównego).",
+        "Trzustka: bydło – nieregularny czworobok, ok. 350 g, jeden przewód (dodatkowy); koń – wydłużona, trójkątna, ok. 350 g, 2 przewody.",
+        "Wątroba jest składowiskiem związków pobranych m.in. w jelitach; część szkodliwych produktów wydziela do żółci; we wrotach wątroby łączą się wszystkie płaty, a żyła wrotna doprowadza krew z narządów jamy brzusznej do detoksykacji.",
+        "Żółć jest uwalniana do dwunastnicy przewodami żółciowymi pod wpływem bodźców powstałych w trakcie jedzenia – zapobiega to jej utracie, gdy zwierzę nie je.",
+        "Świnia: wątroba grubości 2 żeber; woreczek żółciowy i więzadło obłe blisko siebie – płat czworoboczny mały; przewody żółciowy i trzustkowe tworzą brodawki w dwunastnicy.",
+        "Koń: płat pośrodkowy wątroby podzielony na ogoniasty i czworoboczny; charakterystyczne wyciski jelita ślepego i okrężnicy; przewód wątrobowy uchodzi z trzustkowym w zachyłku dwunastnicy.",
+        "Pies: płat lewy i prawy trzustki łączą się za odźwiernikiem; koń: główny przewód trzustkowy powstaje z 2 mniejszych przewodów lewego i prawego płata."
+      ]
+    },
+    {
+      "heading": "5. Jelita bydła i koni",
+      "points": [
+        "Dwunastnica: koń do 1 m (kształt S, bańka dwunastnicy, brodawka większa i mniejsza); bydło ok. 40 cm – tworzy „pętlę esowatą”.",
+        "Jelito czcze: koń ponad 20 m, między pokładami okrężnicy; bydło ok. 40 m, rozpięte jak girlanda wokół dysku okrężnicy.",
+        "Jelito biodrowe konia 20–40 cm; ujście biodrowo-ślepo-okrężnicze pod prawą nerką.",
+        "Jelito ślepe konia: do 1 m, 30–40 litrów – kadź fermentacyjna; głowa, trzon, ogon sięgający wyrostka mieczykowatego; 4 taśmy i 4 rzędy kieszonek.",
+        "Bakterie jelita ślepego konia trawią celulozę, wytwarzając ciepło – jesienią i zimą zaleca się większe porcje siana niż paszy treściwej.",
+        "Jelito ślepe bydła ok. 30 cm, początek przy prawej nerce.",
+        "Okrężnica wstępująca konia: pokłady prawy i lewy dobrzuszny oraz dogrzbietowy, zagięcia mostkowe, miedniczne, przeponowe.",
+        "Okrężnica bydła: pętla początkowa, dysk okrężnicy (zawoje dośrodkowe, pętla centralna, zawoje odśrodkowe), pętla końcowa.",
+        "Prostnica konia 20–30 cm z bańką; u bydła brak taśm i kieszonek, obecny mięsień unosiciel odbytu.",
+        "Dwunastnica konia: część doczaszkowa (kształt S, bańka), zgięcie doczaszkowe z brodawkami – większą (przewód trzustkowy i żółciowy) i mniejszą (przewód trzustkowy dodatkowy), część zstępująca, zgięcie doogonowe, część wstępująca.",
+        "Dwunastnica bydła biegnie od odźwiernika ku przodowi do wątroby (przyjmuje przewody żółciowe), część poprzeczna mała (mało miejsca w jamie brzusznej).",
+        "Jelito czcze konia leży między pokładami okrężnicy wstępującej; jelito biodrowe konia kończy się ujściem biodrowo-ślepym.",
+        "Jelito ślepe konia leży na dnie brzucha; kończy się ujściem ślepo-okrężniczym w okolicy głowy jelita ślepego, z zastawką ślepo-okrężniczą.",
+        "Okrężnica wstępująca konia – kolejno: pokład prawy dobrzuszny, zagięcie mostkowe, pokład lewy dobrzuszny, zagięcie miedniczne, pokład lewy dogrzbietowy, zagięcie przeponowe, pokład prawy dogrzbietowy (3 taśmy i 3 rzędy kieszonek); okrężnica poprzeczna – 1 taśma, 1 rząd kieszonek; dalej okrężnica zstępująca.",
+        "Okrężnica bydła: pętla początkowa (kształt S) zwęża światło jelita ślepego; po części wstępującej – część poprzeczna i zstępująca.",
+        "Odbyt konia ma zwieracz wewnętrzny i zewnętrzny; u bydła również zwieracz odbytu zewnętrzny i wewnętrzny.",
+        "Jelito biodrowe konia kończy się ujściem biodrowo-ślepym; ujście biodrowo-ślepo-okrężnicze leży pod prawą nerką."
+      ]
+    },
+    {
+      "heading": "6. Układ wydalniczy",
+      "points": [
+        "Elementy: nerki, moczowody, pęcherz moczowy, cewka moczowa.",
+        "Nerki: warstwa korowa i rdzenna; filtrują krew, regulują gospodarkę jonową.",
+        "Mocz zbiera się w kielichach nerkowych tworzących miedniczki, potem moczowodami do pęcherza.",
+        "Pęcherz ma dwa zwieracze (wewnętrzny i zewnętrzny) oraz mięsień wypieracz moczu.",
+        "Cewka moczowa jest krótsza u samic – predysponuje do stanów zapalnych.",
+        "Duże przeżuwacze: nerka pobrużdżona wielobrodawkowa, brak miedniczki – kielichy łączą się w moczowód.",
+        "Świnia (i człowiek): nerka gładka wielobrodawkowa.",
+        "Mięsożerne, małe przeżuwacze, koń: nerka gładka jednobrodawkowa, jeden kielich; u koni gruczoły śluzowe w miedniczce.",
+        "Świnia – nerki przy 1–4 kręgu lędźwiowym, nie dotykają wątroby.",
+        "Krowa – prawa nerka przy 2. kręgu lędźwiowym za ostatnim żebrem; lewa przemieszcza się od 2–3 do 5 kręgu lędźwiowego.",
+        "Koń – prawa nerka sercowata (14. żebro, 1. kręg lędźwiowy), lewa przy 17. żebrze, 2–3 kręgu lędźwiowym.",
+        "Kot – nerki na jednakowej wysokości, prawa styka się z wątrobą.",
+        "Warstwa korowa i rdzenna nerki są połączone warstwą podkorową; nerki wpływają na zawartość soli mineralnych w organizmie.",
+        "Oddawanie moczu: zwieracze rozluźniają się pod świadomym wpływem organizmu, a skurcz mięśnia wypieracza wypycha mocz do cewki.",
+        "Różnice gatunkowe w układzie wydalniczym dotyczą głównie nerek – pozostałe narządy zbudowane są podobnie.",
+        "Zrosty: duże przeżuwacze – zrosty warstwy podkorowej; świnia – zrosty na poziomie części korowej i podkorowej; mięsożerne, małe przeżuwacze, koń – zrosty wszystkich warstw nerki.",
+        "Świnia – prawa nerka może się wysuwać do przodu; krowa – lewa nerka przylega do dysku okrężnicy; koń – prawa nerka uciska wątrobę i jelito ślepe."
+      ]
+    },
+    {
+      "heading": "7. Układ nerwowy",
+      "points": [
+        "Elementy: mózgowie, rdzeń kręgowy, nerwy obwodowe z receptorami, zwojami i efektorami.",
+        "Część centralna – mózgowie i rdzeń kręgowy; obwodowa – nerwy czaszkowe i rdzeniowe.",
+        "Część autonomiczna – niezależna od woli (praca serca, sok żołądkowy, perystaltyka); somatyczna – zależna od woli (mięśnie).",
+        "Neurony otoczone są komórkami glejowymi.",
+        "Dendryt doprowadza bodziec do komórki, neuryt przekazuje go odkomórkowo.",
+        "Łuk odruchowy: receptor → ośrodek w części centralnej → efektor → reakcja (np. pocenie, wydzielanie soku żołądkowego).",
+        "Układ nerwowy – zbiór wyspecjalizowanych komórek (neuronów) pozostających w złożonych relacjach funkcjonalnych i strukturalnych, odpowiadający za sterowanie aktywnością organizmu.",
+        "Komórki glejowe (łącznotkankowe) otaczające neurony zapewniają warunki do pełnienia złożonych czynności.",
+        "Bodziec przekazywany jest dalej dzięki różnicy potencjałów i uwalnianym za jej pomocą przekaźnikom.",
+        "Przebieg odruchu: bodziec (np. ciepło) pobudza receptory → pobudzenie trafia do ośrodków w części centralnej (mózgowie, rdzeń) → sygnał jest przetwarzany w zwojach nerwowych → efektory → reakcja organizmu (np. pocenie).",
+        "Część somatyczna jest w większości zależna od woli; część obwodową tworzą nerwy czaszkowe i nerwy mające korzenie w rdzeniu kręgowym."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/uklad-nerwowy-kota.jpg",
+          "caption": "Schemat układu nerwowego kota: mózg, rdzeń kręgowy, nerwy obwodowe."
+        },
+        {
+          "src": "img/bpc3/budowa-neuronu.jpg",
+          "caption": "Schemat budowy neuronu: dendryty (doprowadzają bodziec do komórki) i neuryt – akson (przewodzi bodziec odkomórkowo)."
+        },
+        {
+          "src": "img/bpc3/rodzaje-neuronow.jpg",
+          "caption": "Rodzaje neuronów: jednobiegunowy, dwubiegunowy, pseudojednobiegunowy, wielobiegunowy; elementy: jądro, dendryty, akson, osłonka mielinowa, receptor."
+        },
+        {
+          "src": "img/bpc3/luk-odruchowy.jpg",
+          "caption": "Rdzeniowy łuk odruchowy: receptor → neuron czuciowy → interneuron w substancji szarej rdzenia kręgowego → włókno neuronu ruchowego → efektor (mięsień); dookoła substancja biała."
+        }
+      ]
+    },
+    {
+      "heading": "Gruczoły skórne – różnice gatunkowe",
+      "points": [
+        "Gruczoły odbytowe (potowe i łojowe) – świnia i pies.",
+        "Gruczoły okołoodbytowe (łojowe) – pies.",
+        "Gruczoły zatoki przyodbytniczej (potowe i łojowe) – pies i kot.",
+        "Gruczoły ogonowe (łojowe) – kot.",
+        "Uwaga: spis treści materiału zapowiada rozdziały 8. Skóra i jej wytwory, 9. Szkielet, 10. Układ mięśniowy, ale tekst kończy się na rozdziale 7 – w materiale jest tylko tabela 3.10 o gruczołach skórnych."
+      ],
+      "images": [
+        {
+          "src": "img/bpc3/tabela-gruczoly-skorne.jpg",
+          "caption": "Tabela 3.10. Różnice w wybranych gruczołach skórnych: odbytowe – świnia, pies; okołoodbytowe – pies; zatoki przyodbytniczej – pies, kot; ogonowe – kot."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Który układ wykazuje największe różnice płciowe i gatunkowe?",
+      "back": "Układ rozrodczy."
+    },
+    {
+      "front": "Narządy układu oddechowego",
+      "back": "Jama nosowa i gębowa, gardło, krtań, tchawica, oskrzela, płuca."
+    },
+    {
+      "front": "Pierścienie tchawicze",
+      "back": "Chrząstki tchawicy połączone tkanką łączną."
+    },
+    {
+      "front": "Inna nazwa płata środkowego płuca prawego",
+      "back": "Płat sercowy."
+    },
+    {
+      "front": "Inna nazwa płata doczaszkowego (przedniego)",
+      "back": "Płat wierzchołkowy."
+    },
+    {
+      "front": "Inna nazwa płata doogonowego",
+      "back": "Płat przeponowy."
+    },
+    {
+      "front": "Płaty płuca prawego konia",
+      "back": "Przedni, doogonowy i dodatkowy (brak środkowego)."
+    },
+    {
+      "front": "Płyny ustrojowe",
+      "back": "Krew, chłonka, płyn tkankowy."
+    },
+    {
+      "front": "Układ krwionośny – otwarty czy zamknięty?",
+      "back": "Zamknięty."
+    },
+    {
+      "front": "Układ limfatyczny – otwarty czy zamknięty?",
+      "back": "Otwarty."
+    },
+    {
+      "front": "Elementy układu krwionośnego",
+      "back": "Serce, tętnice, żyły, naczynia włosowate."
+    },
+    {
+      "front": "Budowa serca ssaków",
+      "back": "Dwa przedsionki i dwie komory; zastawki, przegroda."
+    },
+    {
+      "front": "System bodźcoprzewodzący",
+      "back": "Własny system pobudzający serca – warunkuje prawidłowe kurczenie mięśnia sercowego."
+    },
+    {
+      "front": "Czym różnią się żyły od tętnic?",
+      "back": "Cieńsze ściany, zastawki, niższe ciśnienie krwi."
+    },
+    {
+      "front": "Ile krwi przepływa przez nerki?",
+      "back": "30%."
+    },
+    {
+      "front": "Ile krwi przepływa przez naczynia wieńcowe serca?",
+      "back": "6%."
+    },
+    {
+      "front": "Tętno konia",
+      "back": "26–36/min."
+    },
+    {
+      "front": "Tętno krowy",
+      "back": "60–70/min."
+    },
+    {
+      "front": "Tętno owcy",
+      "back": "70–80/min."
+    },
+    {
+      "front": "Tętno świni",
+      "back": "60–80/min."
+    },
+    {
+      "front": "Tętno psa",
+      "back": "80–110/min."
+    },
+    {
+      "front": "Tętno kury",
+      "back": "200–400/min."
+    },
+    {
+      "front": "Tętno cielęcia 2-tygodniowego",
+      "back": "105–115/min."
+    },
+    {
+      "front": "Dlaczego małe zwierzęta mają szybsze tętno?",
+      "back": "Mają większą powierzchnię ciała względem serca – potrzebny szybszy obieg krwi i metabolizm."
+    },
+    {
+      "front": "Tkanka limfatyczna – składowe",
+      "back": "Węzły chłonne, grudki chłonne, grasica, migdałki, śledziona."
+    },
+    {
+      "front": "Funkcja węzłów chłonnych",
+      "back": "Filtracja limfy i wytwarzanie przeciwciał."
+    },
+    {
+      "front": "Do kiedy powiększa się grasica?",
+      "back": "Do 2. roku życia; potem zanika."
+    },
+    {
+      "front": "Migdałki",
+      "back": "Skupiska tkanki limfatycznej we wgłębieniu gardzieli."
+    },
+    {
+      "front": "Funkcje śledziony po urodzeniu",
+      "back": "Rozkład starych krwinek, magazynowanie krwi, produkcja limfocytów i monocytów."
+    },
+    {
+      "front": "Gdzie leży przysadka mózgowa?",
+      "back": "W siodle tureckim (sella turcica)."
+    },
+    {
+      "front": "Hormony przedniego płata przysadki",
+      "back": "GH, prolaktyna, ACTH, TSH, FSH, LH, endorfiny."
+    },
+    {
+      "front": "Prolaktyna",
+      "back": "Odpowiada za laktację; u karmiących samic blokuje cykl owulacyjny."
+    },
+    {
+      "front": "ACTH",
+      "back": "Hormon adrenokortykotropowy – reguluje pracę nadnerczy."
+    },
+    {
+      "front": "LH",
+      "back": "Podtrzymuje jajeczkowanie i produkcję progesteronu; u samców pobudza produkcję testosteronu."
+    },
+    {
+      "front": "Melanotropina",
+      "back": "Hormon części środkowej przysadki – wybarwienie skóry."
+    },
+    {
+      "front": "Tylny płat przysadki",
+      "back": "Nie wytwarza hormonów; magazynuje i uwalnia oksytocynę i wazopresynę."
+    },
+    {
+      "front": "Udział kory w masie nadnerczy",
+      "back": "80–90%."
+    },
+    {
+      "front": "Hormony kory nadnerczy",
+      "back": "Kortykosteroidy (kortyzol), mineralokortykoidy (aldosteron), androgeny."
+    },
+    {
+      "front": "Hormony rdzenia nadnerczy",
+      "back": "Katecholaminy: adrenalina i niewielkie ilości noradrenaliny."
+    },
+    {
+      "front": "Hormony tarczycy",
+      "back": "Trójjodotyronina (T3), tyroksyna (T4), kalcytonina."
+    },
+    {
+      "front": "Parathormon",
+      "back": "Hormon przytarczyc – reguluje poziom wapnia."
+    },
+    {
+      "front": "Wyspy Langerhansa",
+      "back": "Wewnątrzwydzielnicza część trzustki."
+    },
+    {
+      "front": "Somatostatyna – które komórki trzustki?",
+      "back": "Komórki δ (10%)."
+    },
+    {
+      "front": "Monoestralne / diestralne / poliestralne",
+      "back": "Ruja raz / dwa razy / kilka razy w roku."
+    },
+    {
+      "front": "Co reguluje wzrost pęcherzyka jajnikowego?",
+      "back": "Hormon folikulotropowy FSH."
+    },
+    {
+      "front": "Ciałko żółte",
+      "back": "Powstaje w miejscu pękniętego pęcherzyka po owulacji; utrzymuje się do działania hormonów luteolitycznych."
+    },
+    {
+      "front": "Długość cyklu u świni i krowy",
+      "back": "21 dni."
+    },
+    {
+      "front": "Długość cyklu u klaczy",
+      "back": "21–28 dni."
+    },
+    {
+      "front": "Cykl jajnikowy suki",
+      "back": "Długi – 6–7 miesięcy."
+    },
+    {
+      "front": "Kształt jajnika świni / krowy / klaczy",
+      "back": "Malina-morwa / owal-śliwka / fasola."
+    },
+    {
+      "front": "Wymiary jajnika klaczy",
+      "back": "7–8 × 3–4 × 3–4 cm."
+    },
+    {
+      "front": "Części jajowodu",
+      "back": "Lejek, bańka, cieśń, część maciczna."
+    },
+    {
+      "front": "Zadania jajowodu",
+      "back": "Wychwycenie komórki jajowej, umożliwienie zapłodnienia, transport do macicy."
+    },
+    {
+      "front": "Długość jajowodu krowy",
+      "back": "20–30 cm."
+    },
+    {
+      "front": "Macica klaczy – cechy",
+      "back": "Dwurożna niepodzielona, bez przegrody, kształt płóz sań, brak więzadła międzyrożnego."
+    },
+    {
+      "front": "Łożysko liścieniowe",
+      "back": "Bydło."
+    },
+    {
+      "front": "Łożysko popręgowe",
+      "back": "Mięsożerne."
+    },
+    {
+      "front": "Łożysko rozproszone",
+      "back": "Świnie i klacze."
+    },
+    {
+      "front": "Łożysko tarczkowe",
+      "back": "Człowiek."
+    },
+    {
+      "front": "Łechtaczka świni",
+      "back": "Wężykowata ze stożkowym wierzchołkiem."
+    },
+    {
+      "front": "Typy prącia",
+      "back": "Włóknisto-sprężyste i mięśniowo-jamiste."
+    },
+    {
+      "front": "U którego gatunku występuje kość prącia?",
+      "back": "U psa."
+    },
+    {
+      "front": "Prącie buhaja – długość i typ",
+      "back": "80–100 cm; włóknisto-sprężyste, zgięcie esowate."
+    },
+    {
+      "front": "Prącie knura – cechy",
+      "back": "Włóknisto-sprężyste, do 60 cm we wzwodzie, zakończenie w formie haczyka, uchyłek napletka."
+    },
+    {
+      "front": "Gruczoł pęcherzykowy buhaja",
+      "back": "Kształt V, 10 × 5 × 3 cm."
+    },
+    {
+      "front": "Zęby długokoronowe – przykłady",
+      "back": "Siekacze koni, kły świni, przedtrzonowe i trzonowce bydła."
+    },
+    {
+      "front": "Zęby krótkokoronowe",
+      "back": "Ograniczony wzrost, szkliwo tylko na koronie."
+    },
+    {
+      "front": "Oznaczenia zębów I, C, P, M",
+      "back": "Siekacze, kły, przedtrzonowe, trzonowce."
+    },
+    {
+      "front": "Wzór zębowy – licznik i mianownik",
+      "back": "Licznik – połowa uzębienia górnego; mianownik – połowa żuchwy."
+    },
+    {
+      "front": "Części przełyku",
+      "back": "Szyjna, piersiowa, brzuszna."
+    },
+    {
+      "front": "Dlaczego konie nie wymiotują?",
+      "back": "Worek ślepy nad ujściem przełyku i zwieracz wpustu."
+    },
+    {
+      "front": "Pojemność żołądka konia",
+      "back": "7,5–15 litrów."
+    },
+    {
+      "front": "Którego narządu nie ma koń w układzie pokarmowym?",
+      "back": "Woreczka żółciowego."
+    },
+    {
+      "front": "Ile godzin dziennie je koń?",
+      "back": "12–16 godzin."
+    },
+    {
+      "front": "Ile płatów ma wątroba bydła?",
+      "back": "4."
+    },
+    {
+      "front": "Ile płatów może mieć wątroba psa?",
+      "back": "Maksymalnie 7."
+    },
+    {
+      "front": "Trzustka psa – kształt",
+      "back": "Litera V; 2 przewody, dodatkowy większy od głównego."
+    },
+    {
+      "front": "Masa trzustki bydła i konia",
+      "back": "Ok. 350 g."
+    },
+    {
+      "front": "Jelito ślepe konia – długość i pojemność",
+      "back": "Do 1 m, 30–40 litrów."
+    },
+    {
+      "front": "Dlaczego jesienią i zimą koniom daje się więcej siana?",
+      "back": "Trawienie celulozy w jelicie ślepym wytwarza ciepło ogrzewające organizm."
+    },
+    {
+      "front": "Dysk okrężnicy",
+      "back": "Część okrężnicy wstępującej bydła (zawoje dośrodkowe, pętla centralna, zawoje odśrodkowe)."
+    },
+    {
+      "front": "Typ nerki dużych przeżuwaczy",
+      "back": "Pobrużdżona wielobrodawkowa, bez miedniczki."
+    },
+    {
+      "front": "Typ nerki świni",
+      "back": "Gładka wielobrodawkowa."
+    },
+    {
+      "front": "Typ nerki konia, mięsożernych i małych przeżuwaczy",
+      "back": "Gładka jednobrodawkowa."
+    },
+    {
+      "front": "Dlaczego samice są bardziej podatne na zapalenia dróg moczowych?",
+      "back": "Mają krótszą cewkę moczową."
+    },
+    {
+      "front": "Prawa nerka konia – kształt",
+      "back": "Sercowaty."
+    },
+    {
+      "front": "Część autonomiczna układu nerwowego",
+      "back": "Niezależna od woli – praca serca, wydzielanie soku żołądkowego, perystaltyka jelit."
+    },
+    {
+      "front": "Dendryt / neuryt",
+      "back": "Doprowadza bodziec do komórki / przekazuje bodziec odkomórkowo."
+    },
+    {
+      "front": "Łuk odruchowy",
+      "back": "Droga bodziec → receptor → ośrodek centralny → efektor → reakcja."
+    },
+    {
+      "front": "Układ nerwowy – definicja",
+      "back": "Zbiór wyspecjalizowanych komórek w złożonych relacjach funkcjonalnych i strukturalnych, odpowiadający za sterowanie aktywnością organizmu."
+    },
+    {
+      "front": "Jak bodziec jest przekazywany w komórce nerwowej?",
+      "back": "Za pomocą różnicy potencjałów i uwalnianych za jej pomocą przekaźników."
+    },
+    {
+      "front": "Rola komórek glejowych",
+      "back": "Otaczają neurony i zapewniają warunki do pełnienia złożonych czynności."
+    },
+    {
+      "front": "Jaki gruczoł dokrewny przedstawia ilustracja (czerwony narząd na tchawicy)?",
+      "back": "Tarczyca – dwa płaty boczne połączone cieśnią, w przednio-dolnej części szyi; wytwarza T3, T4 (tyroksynę) i kalcytoninę.",
+      "img": "img/bpc3/tarczyca-bez-opisu.jpg"
+    },
+    {
+      "front": "Wymień kolejno elementy rdzeniowego łuku odruchowego.",
+      "back": "Receptor → neuron czuciowy → interneuron (substancja szara rdzenia kręgowego) → włókno neuronu ruchowego → efektor (mięsień).",
+      "img": "img/bpc3/luk-odruchowy.jpg"
+    },
+    {
+      "front": "Który wypustek neuronu doprowadza bodziec do komórki, a który go odprowadza?",
+      "back": "Dendryty doprowadzają bodziec do komórki, neuryt (akson) przekazuje go odkomórkowo.",
+      "img": "img/bpc3/budowa-neuronu.jpg"
+    },
+    {
+      "front": "Ile pierścieni ma tchawica psa, świni, krowy i konia?",
+      "back": "Pies 42–46, świnia 29–36, krowa 48–60, koń 48–60.",
+      "img": "img/bpc3/tabela-tchawica.jpg"
+    },
+    {
+      "front": "Gruczoły zatoki przyodbytniczej – u których gatunków i jakie?",
+      "back": "U psa i kota – potowe i łojowe."
+    },
+    {
+      "front": "Gruczoły ogonowe – u którego gatunku (tab. 3.10)?",
+      "back": "U kota – łojowe."
+    },
+    {
+      "front": "Gruczoły okołoodbytowe – u którego gatunku?",
+      "back": "U psa – łojowe."
+    },
+    {
+      "front": "Główne komórki grasicy",
+      "back": "Limfocyty i komórki nabłonkowe."
+    },
+    {
+      "front": "Na co wpływają hormony tarczycy?",
+      "back": "Na metabolizm i gospodarkę wapniowo-fosforową organizmu."
+    },
+    {
+      "front": "Jak powstaje ciałko żółte?",
+      "back": "W miejsce pękniętego pęcherzyka wylewa się krew, która krzepnie; tworzą się komórki lutealne i powstaje ciałko żółte."
+    },
+    {
+      "front": "Dlaczego ciąża bliźniacza u klaczy wymaga interwencji weterynaryjnej?",
+      "back": "Ma znikome szanse donoszenia i stanowi znaczne ryzyko dla zdrowia i życia klaczy."
+    },
+    {
+      "front": "Kiedy żółć jest uwalniana do dwunastnicy i dlaczego?",
+      "back": "Pod wpływem bodźców powstałych w trakcie jedzenia – zapobiega to utracie żółci, gdy zwierzę nie pobiera pokarmu."
+    },
+    {
+      "front": "Brodawki dwunastnicy konia – co do nich uchodzi?",
+      "back": "Brodawka większa – przewód trzustkowy i żółciowy; mniejsza – przewód trzustkowy dodatkowy."
+    },
+    {
+      "front": "Kolejność odcinków okrężnicy wstępującej konia",
+      "back": "Pokład prawy dobrzuszny → zagięcie mostkowe → pokład lewy dobrzuszny → zagięcie miedniczne → pokład lewy dogrzbietowy → zagięcie przeponowe → pokład prawy dogrzbietowy."
+    },
+    {
+      "front": "Jaka część prącia knura leży wewnątrz napletka?",
+      "back": "Prawie 1/3 długości."
+    },
+    {
+      "front": "Prącie psa – budowa trzonu",
+      "back": "Dwa odcinki: przedni na podłożu kostnym (kość prącia) i tylny jamisty; żołądź stanowi 1/2 długości prącia."
+    },
+    {
+      "front": "Jak przebiega oddawanie moczu?",
+      "back": "Zwieracze (wewnętrzny i zewnętrzny) rozluźniają się pod świadomym wpływem organizmu, a mięsień wypieracz moczu kurczy się i wypycha mocz do cewki."
+    },
+    {
+      "front": "Postępowanie przy zapaleniu macicy po zamknięciu szyjki",
+      "back": "Konieczna interwencja lekarska: farmakologiczne otwarcie szyjki i wydalenie zawartości macicy."
+    },
+    {
+      "front": "Rogi i szyjka macicy krowy – długość",
+      "back": "Rogi 35–45 cm (kształt rogów baranich), trzon ok. 30 cm, szyjka 6–15 cm."
+    },
+    {
+      "front": "Który gatunek ma najdłuższą szyjkę macicy w stosunku do długości ciała?",
+      "back": "Świnia – szyjka ok. 30 cm (trzon krótki, ok. 15 cm; rogi ciężarnej do 1,5 m)."
+    },
+    {
+      "front": "Macica krowy i świni – typ",
+      "back": "Dwurożna przegrodowa: przegroda częściowo dzieli trzon, 1 ujście domaciczne i 1 dopochwowe."
+    },
+    {
+      "front": "Rodzaje łożysk ze względu na sposób połączenia",
+      "back": "Prawdziwe i rzekome."
+    },
+    {
+      "front": "Wymiary i położenie jajnika krowy",
+      "back": "Na wysokości guza krzyżowego kości biodrowej; 3,5–4 × 2,5 × 3–4 cm; kształt owalny/śliwki."
+    },
+    {
+      "front": "Położenie i wymiary jajnika świni",
+      "back": "Na wysokości 5–6 kręgu lędźwiowego, przy wpuście do jamy miednicy; 5 × 2 × 2 cm."
+    },
+    {
+      "front": "Jajnik suki – położenie i wymiary",
+      "back": "Na wysokości pierwszych kręgów lędźwiowych; 1,5 × 2 cm (różnice rasowe)."
+    },
+    {
+      "front": "Części żołądka i krzywizny",
+      "back": "Część wpustowa, trzon i część odźwiernikowa (łączy się z dwunastnicą); krzywizna większa (wypukła) i mniejsza (wklęsła)."
+    },
+    {
+      "front": "Żołądek jednokomorowy prosty a złożony",
+      "back": "Prosty – nabłonek jednowarstwowy walcowaty, gruczoły w całej śluzówce; złożony – podział gruczołów na strefy i część bezgruczołowa."
+    },
+    {
+      "front": "Dwunastnica bydła – długość i cecha",
+      "back": "Ok. 40 cm; biegnie od odźwiernika ku przodowi do wątroby, tworząc „pętlę esowatą”; część poprzeczna mała."
+    },
+    {
+      "front": "Jelito czcze konia i bydła – długość i położenie",
+      "back": "Koń – ponad 20 m, między pokładami okrężnicy wstępującej; bydło – ok. 40 m, rozpięte jak girlanda na krezce wokół dysku okrężnicy."
+    },
+    {
+      "front": "Jelito ślepe bydła",
+      "back": "Ok. 30 cm; początek w okolicy prawej nerki."
+    },
+    {
+      "front": "Prostnica konia i bydła – cechy",
+      "back": "Koń – 20–30 cm, bańka prostnicy, odbyt ze zwieraczem wewnętrznym i zewnętrznym; bydło – brak taśm i kieszonek, zwieracz odbytu zewnętrzny i wewnętrzny, mięsień unosiciel odbytu."
+    },
+    {
+      "front": "Taśmy i kieszonki jelita ślepego konia",
+      "back": "4 taśmy i 4 rzędy kieszonek (okrężnica wstępująca – 3 taśmy i 3 rzędy, poprzeczna – 1 taśma i 1 rząd)."
+    },
+    {
+      "front": "Położenie nerek świni",
+      "back": "Na wysokości 1–4 kręgu lędźwiowego; nie dotykają wątroby; prawa nerka może się wysuwać do przodu."
+    },
+    {
+      "front": "Położenie nerek krowy",
+      "back": "Prawa – na wysokości 2. kręgu lędźwiowego, za ostatnim żebrem; lewa przemieszcza się od 2–3 do 5 kręgu lędźwiowego i przylega do dysku okrężnicy."
+    },
+    {
+      "front": "Położenie nerek konia",
+      "back": "Prawa (sercowata) – na wysokości 14. żebra i 1. kręgu lędźwiowego, uciska wątrobę i jelito ślepe; lewa – przy 17. żebrze, 2–3 kręgu lędźwiowym."
+    },
+    {
+      "front": "Nerki kota – położenie",
+      "back": "Na jednakowej wysokości; prawa nerka styka się z wątrobą."
+    },
+    {
+      "front": "Wątroba świni – cechy",
+      "back": "2 płaty, grubość 2 żeber, sięga do 12. żebra; płat czworoboczny mały; przewody żółciowy i trzustkowe tworzą brodawki kilka cm za odźwiernikiem."
+    },
+    {
+      "front": "Wątroba konia – podział płatów",
+      "back": "Płat lewy – boczny i przyśrodkowy; prawy niepodzielny; pośrodkowy – ogoniasty i czworoboczny; wyciski jelita ślepego i okrężnicy; brak woreczka żółciowego."
+    },
+    {
+      "front": "Trzustka świni – kształt i przewody",
+      "back": "Trójkątna; 1 przewód trzustkowy dodatkowy."
+    },
+    {
+      "front": "Trzustka konia – kształt i przewody",
+      "back": "Wydłużona, trójkątna, ok. 350 g; 2 przewody: główny (z 2 mniejszych przewodów lewego i prawego płata) i dodatkowy."
+    },
+    {
+      "front": "Prącie ogiera – cechy",
+      "back": "W spoczynku 50 cm, erekcja 30–50 cm na zewnątrz; wyrostek cewki moczowej; szerokie ujście cewki w dole żołędzi; napletek wewnętrzny i zewnętrzny (fałd dodatkowy)."
+    },
+    {
+      "front": "Części prącia",
+      "back": "Korzeń, trzon i żołądź."
+    },
+    {
+      "front": "Łechtaczka suki / bydła / klaczy",
+      "back": "Suka – dobrze wykształcony trzon, rozległa żołądź; bydło – trzon świderkowato skręcony; klacz – wydatna żołądź."
+    },
+    {
+      "front": "Spojenia sromu u klaczy a u innych gatunków",
+      "back": "Spojenie górne: u klaczy ostre, u innych zaokrąglone; spojenie dolne: u klaczy zaokrąglone, u innych ostre."
+    },
+    {
+      "front": "Kieszonka jajnikowa – rola i różnice gatunkowe",
+      "back": "Tworzą ją krezki; zapobiega „ucieczce” komórki jajowej po owulacji; u mięsożernych dobrze rozwinięta i ciasna (u suk dużo tłuszczu), u klaczy bardzo płytka."
+    },
+    {
+      "front": "Grudki chłonne – gdzie występują?",
+      "back": "Kuliste skupiska tkanki limfatycznej w błonie śluzowej jelita cienkiego."
+    },
+    {
+      "front": "Śledziona – położenie i funkcja prenatalna",
+      "back": "Leży na żołądku po lewej stronie; w okresie prenatalnym jest ważnym narządem krwiotwórczym."
+    },
+    {
+      "front": "Rola układu limfatycznego (3)",
+      "back": "Odpornościowa (tkanka limfatyczna wytwarza niektóre białe krwinki), neutralizująca substancje szkodliwe, odprowadzanie limfy do krwi."
+    },
+    {
+      "front": "Podwzgórze – rola",
+      "back": "Podkorowa część mózgowia; produkuje neurohormony – pośrednio łączy układ nerwowy i wydzielniczy; reguluje wytwarzanie hormonów przysadki."
+    },
+    {
+      "front": "Narządy wydzielania wewnętrznego (wg modułu III)",
+      "back": "Podwzgórze, przysadka mózgowa, nadnercza, tarczyca i przytarczyce, trzustka, gonady."
+    },
+    {
+      "front": "Rola hormonów nadnerczy",
+      "back": "Utrzymują równowagę wodno-mineralną, warunkują reakcje w sytuacjach stresowych, podnoszą stężenie glukozy we krwi."
+    },
+    {
+      "front": "Komórki F trzustki",
+      "back": "5% komórek wysp – wytwarzają polipeptyd trzustkowy."
+    },
+    {
+      "front": "Hormony gonad",
+      "back": "Jajniki – estrogeny, progesteron, relaksyna; jądra – androgeny (głównie testosteron)."
+    },
+    {
+      "front": "Przepływ krwi przez narządy tworzące żyłę wrotną",
+      "back": "20% – śledziona, trzustka, żołądek, jelita cienkie i początek jelit grubych (inne narządy – 44%)."
+    },
+    {
+      "front": "Tętno: człowiek / słoń / mysz",
+      "back": "70 / 30 / 600 uderzeń na minutę."
+    },
+    {
+      "front": "Tętno cielęcia 12- i 24-tygodniowego",
+      "back": "12 tyg. – 90–105/min; 24 tyg. – 80–100/min."
+    },
+    {
+      "front": "Kształt przekroju chrząstek tchawicy: pies / świnia / krowa / koń",
+      "back": "Pies – prostokątny zaokrąglony; świnia – prostokątny wydłużony pionowo; krowa – owalny pionowy; koń – owalny poziomy (spłaszczony)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Płat środkowy płuca prawego nazywany jest także płatem:",
+      "options": [
+        "wierzchołkowym",
+        "przeponowym",
+        "sercowym",
+        "dodatkowym"
+      ],
+      "answer": 2,
+      "explain": "Środkowy płat prawego płuca nazywany jest też płatem sercowym."
+    },
+    {
+      "q": "Płat doogonowy płuca nazywany jest inaczej płatem:",
+      "options": [
+        "przeponowym",
+        "sercowym",
+        "wierzchołkowym",
+        "środkowym"
+      ],
+      "answer": 0,
+      "explain": "Płat doogonowy nazywany jest płatem przeponowym."
+    },
+    {
+      "q": "Układ krwionośny jest układem:",
+      "options": [
+        "otwartym",
+        "półotwartym",
+        "przerywanym",
+        "zamkniętym"
+      ],
+      "answer": 3,
+      "explain": "Układ krwionośny jest układem zamkniętym; układ limfatyczny – otwartym."
+    },
+    {
+      "q": "Zastawki zapobiegające cofaniu się krwi występują na przebiegu:",
+      "options": [
+        "tętnic",
+        "żył",
+        "naczyń włosowatych",
+        "naczyń wieńcowych"
+      ],
+      "answer": 1,
+      "explain": "Na przebiegu żył znajdują się zastawki, ponieważ ciśnienie w żyłach jest dużo niższe."
+    },
+    {
+      "q": "Przez nerki przepływa około:",
+      "options": [
+        "6% krwi",
+        "30% krwi",
+        "20% krwi",
+        "44% krwi"
+      ],
+      "answer": 1,
+      "explain": "Unaczynienie nerek – 30% przepływu krwi."
+    },
+    {
+      "q": "Prawidłowe tętno dorosłego konia wynosi:",
+      "options": [
+        "60–70/min",
+        "80–110/min",
+        "105–115/min",
+        "26–36/min"
+      ],
+      "answer": 3,
+      "explain": "Tętno konia wynosi 26–36 uderzeń na minutę."
+    },
+    {
+      "q": "Prawidłowe tętno krowy wynosi:",
+      "options": [
+        "60–70/min",
+        "26–36/min",
+        "80–110/min",
+        "200–400/min"
+      ],
+      "answer": 0,
+      "explain": "Tętno krowy wynosi 60–70 uderzeń na minutę."
+    },
+    {
+      "q": "Najwyższe tętno spośród wymienionych zwierząt ma:",
+      "options": [
+        "pies",
+        "owca",
+        "kura",
+        "cielę 2-tygodniowe"
+      ],
+      "answer": 2,
+      "explain": "Tętno kury wynosi 200–400/min."
+    },
+    {
+      "q": "Grasica powiększa się do:",
+      "options": [
+        "6. miesiąca życia",
+        "5. roku życia",
+        "końca życia",
+        "2. roku życia"
+      ],
+      "answer": 3,
+      "explain": "Grasica powiększa się do 2 roku życia i zanika z wiekiem."
+    },
+    {
+      "q": "Filtracja limfy i wytwarzanie przeciwciał to zadanie:",
+      "options": [
+        "grudek chłonnych",
+        "migdałków",
+        "węzłów chłonnych",
+        "naczyń włosowatych"
+      ],
+      "answer": 2,
+      "explain": "Zadaniem węzłów chłonnych jest filtracja limfy oraz wytwarzanie przeciwciał."
+    },
+    {
+      "q": "Przysadka mózgowa położona jest w okolicy:",
+      "options": [
+        "rynienki szyjnej",
+        "siodła tureckiego",
+        "śródpiersia",
+        "wrót wątroby"
+      ],
+      "answer": 1,
+      "explain": "Przysadka znajduje się wewnątrzczaszkowo w okolicy siodła tureckiego."
+    },
+    {
+      "q": "Tylny płat przysadki:",
+      "options": [
+        "magazynuje i uwalnia oksytocynę i wazopresynę",
+        "wytwarza prolaktynę",
+        "wytwarza melanotropinę",
+        "wytwarza ACTH"
+      ],
+      "answer": 0,
+      "explain": "Część tylna nie wytwarza własnych hormonów, magazynuje i uwalnia oksytocynę i wazopresynę."
+    },
+    {
+      "q": "Hormonem blokującym cykl owulacyjny u karmiących samic jest:",
+      "options": [
+        "prolaktyna",
+        "LH",
+        "FSH",
+        "oksytocyna"
+      ],
+      "answer": 0,
+      "explain": "Prolaktyna odpowiada za laktację i u karmiących samic blokuje cykl owulacyjny."
+    },
+    {
+      "q": "Aldosteron wytwarzany jest w:",
+      "options": [
+        "rdzeniu nadnerczy",
+        "korze nadnerczy",
+        "tarczycy",
+        "przysadce"
+      ],
+      "answer": 1,
+      "explain": "Kora nadnerczy wytwarza mineralokortykoidy, np. aldosteron."
+    },
+    {
+      "q": "Rdzeń nadnerczy wydziela:",
+      "options": [
+        "kortyzol",
+        "aldosteron",
+        "adrenalinę",
+        "androgeny"
+      ],
+      "answer": 2,
+      "explain": "Rdzeń nadnerczy wydziela katecholaminy – adrenalinę i niewielkie ilości noradrenaliny."
+    },
+    {
+      "q": "Parathormon wydzielany przez przytarczyce reguluje poziom:",
+      "options": [
+        "glukozy",
+        "sodu",
+        "jodu",
+        "wapnia"
+      ],
+      "answer": 3,
+      "explain": "Parathormon odpowiada za regulację poziomu wapnia w organizmie."
+    },
+    {
+      "q": "Tarczyca wytwarza:",
+      "options": [
+        "parathormon i kalcytoninę",
+        "insulinę i glukagon",
+        "tyroksynę, trójjodotyroninę i kalcytoninę",
+        "kortyzol i aldosteron"
+      ],
+      "answer": 2,
+      "explain": "Tarczyca wytwarza T3, T4 i kalcytoninę."
+    },
+    {
+      "q": "Zwierzęta, u których ruja występuje kilka razy w roku, to zwierzęta:",
+      "options": [
+        "poliestralne",
+        "monoestralne",
+        "diestralne",
+        "anestralne"
+      ],
+      "answer": 0,
+      "explain": "Poliestralne – ruja kilka razy w roku."
+    },
+    {
+      "q": "Długość cyklu płciowego krowy wynosi:",
+      "options": [
+        "6–7 miesięcy",
+        "14 dni",
+        "35 dni",
+        "21 dni"
+      ],
+      "answer": 3,
+      "explain": "U krowy krótki cykl: 21 dni."
+    },
+    {
+      "q": "Jajnik w kształcie fasoli z odwróconą warstwą rdzenną i korową ma:",
+      "options": [
+        "krowa",
+        "klacz",
+        "locha",
+        "suka"
+      ],
+      "answer": 1,
+      "explain": "Jajnik klaczy ma kształt fasoli i odwrócenie warstwy rdzennej i korowej."
+    },
+    {
+      "q": "Ciąże bliźniacze wymagają interwencji weterynaryjnej ze względu na znikome szanse donoszenia u:",
+      "options": [
+        "lochy",
+        "klaczy",
+        "suki",
+        "owcy"
+      ],
+      "answer": 1,
+      "explain": "U klaczy ciąże bliźniacze wymagają interwencji z uwagi na znikome szanse donoszenia."
+    },
+    {
+      "q": "Łożysko liścieniowe występuje u:",
+      "options": [
+        "mięsożernych",
+        "świń",
+        "klaczy",
+        "bydła"
+      ],
+      "answer": 3,
+      "explain": "Łożysko liścieniowe – bydło."
+    },
+    {
+      "q": "Łożysko rozproszone występuje u:",
+      "options": [
+        "świń i klaczy",
+        "bydła",
+        "mięsożernych",
+        "owiec i kóz"
+      ],
+      "answer": 0,
+      "explain": "Łożysko rozproszone – świnie, klacze."
+    },
+    {
+      "q": "Macicę w kształcie płóz sań, bez przegrody i więzadła międzyrożnego, ma:",
+      "options": [
+        "krowa",
+        "locha",
+        "klacz",
+        "suka"
+      ],
+      "answer": 2,
+      "explain": "Macica klaczy jest dwurożna niepodzielona, w kształcie płóz sań, bez więzadła międzyrożnego."
+    },
+    {
+      "q": "Kość prącia występuje u:",
+      "options": [
+        "buhaja",
+        "knura",
+        "ogiera",
+        "psa"
+      ],
+      "answer": 3,
+      "explain": "U psa występuje kość prącia wskutek kostnienia ciał jamistych żołędzi."
+    },
+    {
+      "q": "Prącie zakończone w formie haczyka, z uchyłkiem napletka, ma:",
+      "options": [
+        "buhaj",
+        "ogier",
+        "knur",
+        "pies"
+      ],
+      "answer": 2,
+      "explain": "U knura prącie ma „ostre” zakończenie w formie haczyka i występuje uchyłek napletka."
+    },
+    {
+      "q": "Do zębów długokoronowych należą:",
+      "options": [
+        "kły psa",
+        "siekacze koni",
+        "siekacze świni",
+        "trzonowce kota"
+      ],
+      "answer": 1,
+      "explain": "Do zębów długokoronowych należą siekacze koni, kły świni, przedtrzonowe i trzonowce bydła."
+    },
+    {
+      "q": "We wzorze zębowym licznik oznacza:",
+      "options": [
+        "połowę uzębienia górnego",
+        "połowę uzębienia żuchwy",
+        "liczbę zębów mlecznych",
+        "liczbę trzonowców"
+      ],
+      "answer": 0,
+      "explain": "Licznik oznacza połowę górnego uzębienia, a mianownik zęby połowy żuchwy."
+    },
+    {
+      "q": "Konie nie wymiotują, ponieważ:",
+      "options": [
+        "mają worek ślepy nad ujściem przełyku i zwieracz wpustu",
+        "nie mają woreczka żółciowego",
+        "mają jednokomorowy żołądek prosty",
+        "mają krótki przełyk"
+      ],
+      "answer": 0,
+      "explain": "Worek ślepy nad ujściem przełyku i zwieracz wpustu powodują, że konie nie wymiotują."
+    },
+    {
+      "q": "Woreczka żółciowego nie ma:",
+      "options": [
+        "pies",
+        "koń",
+        "świnia",
+        "krowa"
+      ],
+      "answer": 1,
+      "explain": "U koni nie występuje woreczek żółciowy."
+    },
+    {
+      "q": "Koń spędza na jedzeniu dziennie:",
+      "options": [
+        "4–6 godzin",
+        "2–3 godziny",
+        "12–16 godzin",
+        "20–24 godziny"
+      ],
+      "answer": 2,
+      "explain": "Koń spędza na jedzeniu 12–16 godzin dziennie."
+    },
+    {
+      "q": "Trzustka w kształcie litery V, z przewodem dodatkowym większym od głównego, występuje u:",
+      "options": [
+        "bydła",
+        "konia",
+        "świni",
+        "psa"
+      ],
+      "answer": 3,
+      "explain": "Trzustka psa ma kształt litery V i 2 przewody, dodatkowy większy niż główny."
+    },
+    {
+      "q": "Jelito ślepe konia ma pojemność:",
+      "options": [
+        "5–10 litrów",
+        "100–150 litrów",
+        "30–40 litrów",
+        "250 litrów"
+      ],
+      "answer": 2,
+      "explain": "Jelito ślepe konia: do 1 m długości, 30–40 litrów pojemności."
+    },
+    {
+      "q": "Jesienią i zimą zaleca się żywić konie większymi porcjami siana, ponieważ:",
+      "options": [
+        "trawienie celulozy w jelicie ślepym wytwarza ciepło",
+        "siano zawiera więcej białka niż pasza treściwa",
+        "siano zapobiega wymiotom",
+        "siano zastępuje wodę"
+      ],
+      "answer": 0,
+      "explain": "Bakterie jelita ślepego trawiące celulozę wytwarzają ciepło ogrzewające organizm."
+    },
+    {
+      "q": "Nerkę pobrużdżoną wielobrodawkową bez miedniczki mają:",
+      "options": [
+        "świnie",
+        "konie",
+        "mięsożerne",
+        "duże przeżuwacze"
+      ],
+      "answer": 3,
+      "explain": "Duże przeżuwacze mają nerkę pobrużdżoną wielobrodawkową, bez miedniczki nerkowej."
+    },
+    {
+      "q": "Nerka gładka jednobrodawkowa występuje u:",
+      "options": [
+        "krowy",
+        "konia",
+        "świni",
+        "człowieka"
+      ],
+      "answer": 1,
+      "explain": "Mięsożerne, małe przeżuwacze i koń mają nerkę gładką jednobrodawkową."
+    },
+    {
+      "q": "Samice są bardziej podatne na stany zapalne dróg moczowych, ponieważ:",
+      "options": [
+        "nie mają zwieracza wewnętrznego",
+        "mają krótszą cewkę moczową",
+        "mają nerki jednobrodawkowe",
+        "mają dłuższe moczowody"
+      ],
+      "answer": 1,
+      "explain": "Krótsza cewka moczowa u samic predysponuje do stanów zapalnych."
+    },
+    {
+      "q": "Część układu nerwowego niezależna od woli, kontrolująca m.in. pracę serca, to część:",
+      "options": [
+        "somatyczna",
+        "obwodowa czuciowa",
+        "korowa",
+        "autonomiczna"
+      ],
+      "answer": 3,
+      "explain": "Część autonomiczna jest niezależna od woli i kontroluje m.in. pracę serca."
+    },
+    {
+      "q": "Element neuronu doprowadzający bodziec do komórki to:",
+      "options": [
+        "dendryt",
+        "neuryt",
+        "synapsa",
+        "efektor"
+      ],
+      "answer": 0,
+      "explain": "Dendryt doprowadza bodziec do komórki, neuryt przekazuje go odkomórkowo."
+    },
+    {
+      "q": "Bodziec w komórce nerwowej przekazywany jest dalej za pomocą:",
+      "options": [
+        "hormonów wydzielanych do krwi",
+        "chłonki",
+        "różnicy potencjałów i uwalnianych przekaźników",
+        "skurczów mięśni gładkich"
+      ],
+      "answer": 2,
+      "explain": "Bodziec w neuronie przekazywany jest dzięki różnicy potencjałów i uwalnianym za jej pomocą przekaźnikom."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Podział płuc jakich zwierząt przedstawia poniższy schemat?",
+      "options": [
+        "Bydła.",
+        "Koni.",
+        "Zwierząt mięsożernych.",
+        "Świń."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true,
+      "img": "img/bpc3/samoewaluacja_1.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUkład krwionośny jest układem …, w którym krew płynie naczyniami w łożysku.",
+      "options": [
+        "zamkniętym",
+        "otwartym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOskrzela nie wykazują większych różnic w budowie u różnych gatunków zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka ilość pierścieni tchawicznych jest charakterystyczna dla świni?",
+      "options": [
+        "42–46",
+        "48–60",
+        "29–36",
+        "36–42"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrawa i lewa strona serca oddzielone są od siebie ….",
+      "options": [
+        "przedsionkiem",
+        "przegrodą"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSerce ssaków zbudowane jest ze swoistej tkanki mięśniowej, która tworzy dwa przedsionki i dwie komory.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz narządy wydzielania wewnętrznego.",
+      "options": [
+        "Gonady.",
+        "Przysadka mózgowa.",
+        "Trzustka.",
+        "Nadnercza.",
+        "Podwzgórze.",
+        "Śledziona."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… znajduje się wewnątrzczaszkowo w okolicy tzw. siodła tureckiego.",
+      "options": [
+        "Przysadka",
+        "Podwzgórze"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzytarczyce to małe gruczoły układające się pod biegunami tarczycy po jej szyjnej stronie, otoczone są tkanką łączną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakiego gatunku zwierząt właściwe jest tętno w granicach 60–70 uderzeń na minutę?",
+      "options": [
+        "Koni.",
+        "Owiec.",
+        "Psów.",
+        "Krów."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrącie jest męskim narządem kopulacyjnym, jest tworem analogicznym do ….",
+      "options": [
+        "żeńskiej łechtaczki",
+        "żeńskiego sromu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie hormony wydziela kora nadnercza?",
+      "options": [
+        "Katecholaminy.",
+        "Adrenalinę.",
+        "Kortykosteroidy.",
+        "Mineralokortykoidy."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLimfa z naczyń przedostaje się do krwiobiegu i miesza się z krwią, jest również przesączana do przestrzeni pozakomórkowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… chłonne występują na przebiegu naczyń i ich zadaniem jest filtracja przepływającej limfy oraz wytwarzanie przeciwciał.",
+      "options": [
+        "Grudki",
+        "Węzły"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przebiegu ciąży w macicy dochodzi do implantacji i rozwoju zarodka, do wytworzenia błon płodowych i łożyska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "U jakiego gatunku zwierząt nerki położone są na jednakowej wysokości, a prawa nerka styka się z wątrobą?",
+      "options": [
+        "U krów.",
+        "U koni.",
+        "U świń.",
+        "U kotów."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… rozwija się do drugiego roku życia, a potem zanika z wiekiem.",
+      "options": [
+        "Śledziona",
+        "Grasica"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW układzie nerwowym wyróżnić możemy część centralną, którą stanowi mózgowie i rdzeń kręgowy, oraz część obwodową, czyli nerwy czaszkowe i nerwy mające korzenie w rdzeniu kręgowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rodzaje prącia można rozróżnić u samców?",
+      "options": [
+        "Rzekome.",
+        "Mięśniowo-jamiste.",
+        "Prawdziwe.",
+        "Włóknisto-sprężyste."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… zbudowana jest z chrząstek połączonych tkanką łączną, zwanych pierścieniami.",
+      "options": [
+        "Tchawica",
+        "Dwunastnica"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNeuryt doprowadza bodziec do komórki, dendryt przekazuje bodziec odkomórkowo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na jakie części można podzielić przełyk?",
+      "options": [
+        "Brzuszną.",
+        "Ustną.",
+        "Piersiową.",
+        "Szyjną."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… leży w przodobrzuszu zaraz za przeponą, stanowi narząd odpowiadający za procesy detoksykacji substancji pobranych, m.in. w jelitach, stanowi składowisko tych związków.",
+      "options": [
+        "Wątroba",
+        "Woreczek żółciowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrawędzie żołądka tworzą dwie krzywizny: większą wypukłą i mniejszą wklęsłą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz części jelita cienkiego.",
+      "options": [
+        "Jelito ślepe.",
+        "Jelito biodrowe.",
+        "Jelito czcze.",
+        "Dwunastnica."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU świni nie występuje woreczek żółciowy, co wynika ze specyfiki odżywiania – zwierzę to spędza na jedzeniu 12–16 h dziennie, przez co trawienie zachodzi niemal bez przerwy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… krew trafia do lewego przedsionka i z lewej komory wypychana jest do naczyń zaopatrujących organizm.",
+      "options": [
+        "Natlenowana",
+        "Odtlenowana"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką długość ma śledziona bydła?",
+      "options": [
+        "Do 50 cm.",
+        "Do 40 cm.",
+        "5–10 cm.",
+        "40–50 cm."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa przebiegu … znajdują się zastawki, które zapobiegają cofaniu się krwi, ponieważ ciśnienie w żyłach jest dużo niższe.",
+      "options": [
+        "żył",
+        "tętnic"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNie u każdego ssaka występuje prawe i lewe płuco.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGrudki chłonne są kulistymi skupiskami tkanki limfatycznej na błonie śluzowej jelita cienkiego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Trzustka jakich zwierząt ma kształt nieregularnego czworoboku, wagę ok. 350 g, oraz jeden dodatkowy przewód trzustkowy?",
+      "options": [
+        "Bydła.",
+        "Psów.",
+        "Koni.",
+        "Świni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź… posiada budowę dwuwarstwową składająca się z kory (80–90% masy narządu) i rdzenia.",
+      "options": [
+        "Nadnercza",
+        "Przytarczyce"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak dzielimy zęby ze względu na cechy morfologiczne i przystosowanie?",
+      "options": [
+        "Siekacze.",
+        "Trzonowce.",
+        "Przedtrzonowe.",
+        "Kły."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… położone są za siekaczami w łuku zębowym, służą do chwytania, przytrzymywania i rozrywania pokarmu.",
+      "options": [
+        "Kły.",
+        "Przedtrzonowce."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIm mniejsze zwierzę, tym większa jest powierzchnia ciała względem wielkości serca, w związku z czym, u mniejszych zwierząt konieczny jest szybszy obieg krwi, szybsze tętno, a tym samym szybszy metabolizm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która część wewnątrzwydzielnicza trzustki (nazywana wyspami trzustkowymi lub wyspami Langerhansa) wydziela somatostatynę?",
+      "options": [
+        "Komórki α.",
+        "Komórki δ.",
+        "Komórki F.",
+        "Komórki β."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodczas cyklu płciowego, który może mieć różny czas trwania u różnych gatunków zwierząt, zachodzi w … szereg procesów prowadzących do wytworzenia gamet.",
+      "options": [
+        "macicy",
+        "jajniku"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMacica wykazuje duże zróżnicowanie w zależności od gatunku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co produkują jądra?",
+      "options": [
+        "Androgeny.",
+        "Relaksynę.",
+        "Progesteron.",
+        "Estrogeny."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż płyny ustrojowe.",
+      "options": [
+        "Hormony.",
+        "Chłonka.",
+        "Płyn tkankowy.",
+        "Krew."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest tworem mięśniowo-skórnym, tworzy dwie wargi otaczające wejście do pochwy.",
+      "options": [
+        "Srom.",
+        "Łechtaczka."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Podział płuc jakich zwierząt przedstawia poniższy schemat?",
+      "options": [
+        "Koni.",
+        "Zwierząt mięsożernych.",
+        "Świń.",
+        "Bydła."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/bpc3/samoewaluacja_43.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedźU … występują 4 płaty wątroby, przewód żółciowy uchodzi pojedynczo (bez trzustkowego) w zagięciu esowatym.",
+      "options": [
+        "bydła.",
+        "świń."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNerki zbudowane są z warstwy korowej i rdzennej połączonych dzięki warstwie podkorowej, a ich zadaniem jest filtracja krwi w celu usunięcia szkodliwych lub zbędnych produktów przemiany materii i nadmiaru wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jaki przekrój tchawicy jest charakterystyczny dla psa?",
+      "options": [
+        "A.",
+        "D.",
+        "C.",
+        "B."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/bpc3/testwiedzy_1.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przedostawanie się krwi poza naczynia krwionośne jest stanem patologicznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ściany naczyń tętniczych w porównaniu ze ścianami żył są:",
+      "options": [
+        "cieńsze ale mniej elastyczne.",
+        "grubsze i mniej elastyczne.",
+        "cieńsze i bardziej elastyczne.",
+        "grubsze ale bardziej elastyczne."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBudowa naczyń włosowatych opiera się o delikatne komórki śródbłonka, ściany są cienkie, dzięki temu możliwa jest wymiana substancji pomiędzy krwią i płynem tkankowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrew docierająca do prawego przedsionka serca jest krwią odtlenowaną z naczyń organizmu, która następnie z lewej komory przepychana jest do naczyń idących do płuc.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co zabiera krew z tkanek i narządów?",
+      "options": [
+        "Dwutlenek węgla.",
+        "Substancje regulujące w transporcie międzynarządowym.",
+        "Zbędne substancje i szkodliwe produkty przemiany materii.",
+        "Tlen."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki procent krwi przepływa przez unaczynienie nerek?",
+      "options": [
+        "30%.",
+        "20%.",
+        "44%.",
+        "6%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTętno jest ruchem naczyń krwionośnych spowodowanym rytmicznym przepływem krwi przez naczynia krwionośne w wyniku skurczów serca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką wartość przyjmuje tętno u owiec?",
+      "options": [
+        "60-70",
+        "26-36",
+        "70-80",
+        "80-110"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jaką rolę pełni układ limfatyczny?",
+      "options": [
+        "Odprowadzającą limfę do krwi.",
+        "Transportową – dostarcza tlen i czynniki odżywcze do komórek.",
+        "Neutralizującą substancje i czynniki szkodliwe dla organizmu.",
+        "Odpornościową – tkanka limfatyczna wytwarza niektóre białe ciałka krwi."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDrobne limfatyczne naczynia włosowate zbierają płyn z tkanek, a następnie łączą w większe naczynia, które tworzą dalej główny przewód piersiowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co składa się na układ wydalniczy?",
+      "options": [
+        "Nerki.",
+        "Moczowody.",
+        "Cewka moczowa.",
+        "Pęcherz moczowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż funkcje węzłów chłonnych.",
+      "options": [
+        "Regulacja temperatury organizmu.",
+        "Absorbowanie składników odżywczych.",
+        "Wytwarzanie przeciwciał.",
+        "Filtracja limfy."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGrasica powiększa się do 2 roku życia i zanika z wiekiem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych narządów są wewnętrznymi narządami płciowymi samic?",
+      "options": [
+        "Jajniki.",
+        "Macica.",
+        "Wargi sromowe.",
+        "Jajowody."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie zwierzę ma nerki na wysokości 1–4 kręgu lędźwiowego, nie dotykające wątroby, prawa nerka może się wysuwać do przodu?",
+      "options": [
+        "Kot.",
+        "Krowa.",
+        "Koń.",
+        "Świnia."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzęść trzustki produkuje enzymy trawienne do światła dwunastnicy, część natomiast wydziela hormony do krwi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU krów nie występuje przegroda w macicy, mamy tu do czynienia z macicą dwurożną niepodzieloną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJądra to gonady męskie stanowiące swoisty magazyn męskich komórek rozrodczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz nazwę żołądka właściwego przeżuwaczy.",
+      "options": [
+        "Żwacz.",
+        "Czepiec.",
+        "Trawieniec.",
+        "Księgi."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jakie hormony płciowe wydzielają jajniki?",
+      "options": [
+        "Endorfiny.",
+        "Progesteron.",
+        "Estrogen.",
+        "Testosteron."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW warunkach fizjologicznych zwieracze ulegają rozluźnieniu pod wpływem świadomego wpływu organizmu i dochodzi do skurczu wypieracza moczu, który wypycha ciecz do cewki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU psów występuje kość prącia wskutek kostnienia ciał jamistych żołędzi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie narządy wyróżniamy w budowie prącia?",
+      "options": [
+        "Trzon prącia.",
+        "Żołądź.",
+        "Korzeń prącia.",
+        "Jądra."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW jamie ustnej wyróżnić możemy przedsionek jamy ustnej, ograniczony z zewnątrz przez wargi i policzki, oraz jamę ustną właściwą wydzieloną przez zęby, język, podniebienie miękkie i twarde.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz części jelita grubego.",
+      "options": [
+        "Jelito biodrowe.",
+        "Okrężnica.",
+        "Prostnica.",
+        "Jelito ślepe."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU większości gatunków ssaków występuje dwukomorowy żołądek gruczołowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz cechy prostnicy u bydła.",
+      "options": [
+        "Bańka prostnicy.",
+        "Brak taśm i kieszonek.",
+        "Zwieracz odbytu zewnętrzny i wewnętrzny.",
+        "Mięsień unosiciel odbytu."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWoreczek żółciowy stanowi magazyn żółci, która uwolniona zostaje do dwunastnicy dzięki przewodom żółciowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNerki odgrywają istotną rolę w gospodarce jonowej poprzez wpływ na zawartość soli mineralnych w organizmie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż elementy wchodzące w skład układu krwionośnego.",
+      "options": [
+        "Serce.",
+        "Żyły.",
+        "Tętnice.",
+        "Naczynia włosowate."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie zęby długokoronowe występują u koni?",
+      "options": [
+        "Kły.",
+        "Przedtrzonowe.",
+        "Trzonowce.",
+        "Siekacze."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUkład nerwowy jest zbudowany z wyspecjalizowanych komórek nerwowych zwanych neuronami, komórki te są położone w otoczeniu glejowych łącznotkankowych komórek zapewniających warunki do pełnienia złożonych czynności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakiego typu łożysko występuje u klaczy?",
+      "options": [
+        "Liścieniowe.",
+        "Popręgowe.",
+        "Rozproszone.",
+        "Tarczkowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrzustka stanowi narząd wydzielania wewnętrznego i zewnętrznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "id": "exam_2017_06",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz czerwiec 2017",
+  "number": "2017/06",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Największe zapotrzebowanie na wodę w uprawie ziemniaków występuje w fazie",
+      "back": "zawiązywania bulw."
+    },
+    {
+      "front": "Rolnik zamierza wprowadzić do płodozmianu rośliny motylkowe grubonasienne na gleby lekkie o odczynie lekko kwaśnym. Najbardziej odpowiednią rośliną do uprawy na takich glebach będzie",
+      "back": "łubin żółty."
+    },
+    {
+      "front": "W celu przeciwdziałania zamuleniom sieci drenarskiej, studzienki należy czyścić",
+      "back": "raz w roku."
+    },
+    {
+      "front": "Ile mocznika (46%) należy zastosować na 5 ha powierzchni uprawy, aby dostarczyć do gleby 92 kg N/ha?",
+      "back": "1000 kg"
+    },
+    {
+      "front": "Widoczne na ilustracji kiełki świetlne na bulwach ziemniaków o długości 1-2 mm są efektem",
+      "back": "pobudzania.",
+      "img": "img/exam_2017_06/zad5.jpg"
+    },
+    {
+      "front": "W celu zniszczenia skorupy glebowej powstałej po siewie buraków należy zastosować wał",
+      "back": "kolczatkę."
+    },
+    {
+      "front": "W celu zlikwidowania podeszwy płużnej, powstałej na polu przeznaczonym pod uprawę buraków, należy wykonać zabieg",
+      "back": "głęboszowania."
+    },
+    {
+      "front": "Rośliną ozimą wysiewaną najwcześniej jest",
+      "back": "rzepak."
+    },
+    {
+      "front": "W uprawie ziemniaków ciepła i wilgotna pogoda sprzyja rozwojowi",
+      "back": "zarazy ziemniaka."
+    },
+    {
+      "front": "Miotła zbożowa występuje najczęściej w uprawach",
+      "back": "żyta ozimego."
+    },
+    {
+      "front": "Do zwalczania mszyc w uprawach roślin wskazane jest użycie środków owadobójczych o działaniu",
+      "back": "układowym."
+    },
+    {
+      "front": "Podorywkę w uprawie pożniwnej można zastąpić",
+      "back": "gruberowaniem."
+    },
+    {
+      "front": "Do siewu buraków cukrowych należy zastosować siewnik",
+      "back": "punktowy."
+    },
+    {
+      "front": "Płynnych nawozów naturalnych nie wolno stosować na glebach bez okrywy roślinnej, położonych na stokach o nachyleniu większym niż",
+      "back": "10%"
+    },
+    {
+      "front": "Rolnik nie stosuje w uprawach żadnych środków chemicznych i nawozów mineralnych. Do żywienia zwierząt stosuje tylko pasze wytworzone we własnym gospodarstwie. Gospodarstwo jest prowadzone metodą",
+      "back": "ekologiczną."
+    },
+    {
+      "front": "Wilgotność ziarna zbóż przechowywanego do 6 miesięcy nie powinna być większa niż",
+      "back": "14%"
+    },
+    {
+      "front": "Na schemacie układu pokarmowego kaczki numerem 2 oznaczono",
+      "back": "wole.",
+      "img": "img/exam_2017_06/zad17.jpg"
+    },
+    {
+      "front": "W układzie pokarmowym pomiędzy żołądkiem i jelitem czczym znajduje się",
+      "back": "dwunastnica."
+    },
+    {
+      "front": "Filtrowanie krwi w celu usunięcia z niej zbędnych produktów przemiany materii odbywa się",
+      "back": "w nerkach."
+    },
+    {
+      "front": "Rysunek przedstawia sylwetkę krowy w typie użytkowym",
+      "back": "mięsnym.",
+      "img": "img/exam_2017_06/zad20.jpg"
+    },
+    {
+      "front": "Typ tłuszczowo-mięsny reprezentują świnie rasy",
+      "back": "puławska."
+    },
+    {
+      "front": "Śrutę sojową poekstrakcyjną wykorzystuje się w żywieniu zwierząt ze względu na dużą zawartość",
+      "back": "białka."
+    },
+    {
+      "front": "Zawartość suchej masy w zielonce przeznaczonej na sianokiszonkę powinna wynosić",
+      "back": "30-34%"
+    },
+    {
+      "front": "Korzystając z danych w tabeli oblicz objętość silosu potrzebnego do przechowania 140 ton ziarna kukurydzy. (Masa 1 m³: kiszonka z kukurydzy 650 kg, kiszonka z trawy świeżej 750 kg, ziarno jęczmienia 600 kg, ziarno kukurydzy 700 kg, siano łąkowe luzem 70 kg)",
+      "back": "200 m3"
+    },
+    {
+      "front": "Które narzędzie służy do usuwania kiełków prosiętom?",
+      "back": "[zdjęcie: małe szczypce tnące – obcinaczki]",
+      "img": "img/exam_2017_06/zad25.jpg"
+    },
+    {
+      "front": "Ilustracja przedstawia element dojarki służący do",
+      "back": "regulacji podciśnienia.",
+      "img": "img/exam_2017_06/zad26.jpg"
+    },
+    {
+      "front": "Szczepienie prosiąt preparatem zawierającym żelazo należy wykonać",
+      "back": "w 2.-3. dniu po porodzie."
+    },
+    {
+      "front": "Przed każdorazowym zasiedleniem kojca dla cieląt dezynfekcję pomieszczenia wykonuje się w celu",
+      "back": "zniszczenia mikroorganizmów chorobotwórczych."
+    },
+    {
+      "front": "Korzystając z danych z tabeli oblicz minimalną powierzchnię kojców, którą należy przygotować do odchowu 200 tuczników o masie od 85 kg do 110 kg. (Minimalna powierzchnia kojca na 1 sztukę: tuczniki 30-50 kg – 0,4 m²; 50-85 kg – 0,55 m²; 85-110 kg – 0,65 m²; powyżej 110 kg – 1,0 m²)",
+      "back": "130 m2"
+    },
+    {
+      "front": "Oblicz, ile powinna wynosić powierzchnia płyty gnojowej dla 10 DJP bydła w gospodarstwie położonym poza strefą OSN. (Powierzchnia płyt obornikowych dla bydła, trzody, owiec, koni: 3,5 m²/DJP w strefach OSN, 2,5 m²/DJP na pozostałych obszarach)",
+      "back": "25 m2"
+    },
+    {
+      "front": "„Widoczne powiększenie objętości brzucha, wypełnienie dołów głodowych (szczególnie lewego), osowienie, brak apetytu, zwierzę niechętnie porusza się, stoi z rozstawionymi kończynami. W cięższych przypadkach napięte powłoki brzucha, nieuginające się pod uciskiem doły głodowe, stękanie, porykiwanie, wyciągnięcie szyi i wysunięcie języka, zasinienie błon śluzowych, duszność, bezwolne oddawanie kału.” Opisane objawy świadczą o wystąpieniu u krowy",
+      "back": "wzdęcia."
+    },
+    {
+      "front": "Ilustracja przedstawia kolczyk przeznaczony dla",
+      "back": "świń.",
+      "img": "img/exam_2017_06/zad32.jpg"
+    },
+    {
+      "front": "W rolnictwie ekologicznym, jako środki profilaktyczne przeciwko chorobom, należy preferować",
+      "back": "zioła i preparaty ziołowe."
+    },
+    {
+      "front": "Na podstawie danych z tabeli określ, w jakiej temperaturze maksymalnej powinno być przechowywane mleko surowe. (Tabela: tuszki drobiowe – 4°C; tusze grubej zwierzyny łownej – 7°C; mleko surowe i surowa śmietana – 6°C; produkty rybołówstwa – 2°C)",
+      "back": "6°C"
+    },
+    {
+      "front": "Stop żelaza z węglem (powyżej 2%) wykorzystywany do odlewów to",
+      "back": "żeliwo."
+    },
+    {
+      "front": "Ilustracja przedstawia zamontowany na połaci dachowej element instalacji",
+      "back": "solarnej.",
+      "img": "img/exam_2017_06/zad36.jpg"
+    },
+    {
+      "front": "W sieci wodociągowej urządzenie przedstawione na ilustracji służy do",
+      "back": "utrzymania stałego ciśnienia wody.",
+      "img": "img/exam_2017_06/zad37.jpg"
+    },
+    {
+      "front": "Urządzenie na ilustracji służy do",
+      "back": "wycinania bloków kiszonki i sianokiszonki.",
+      "img": "img/exam_2017_06/zad38.jpg"
+    },
+    {
+      "front": "Przegląd i odkażanie instalacji klimatyzacyjnej w ciągniku rolniczym należy przeprowadzać co najmniej",
+      "back": "raz w roku."
+    },
+    {
+      "front": "Naklejka potwierdza pozytywny wynik wykonania przeglądu technicznego",
+      "back": "opryskiwacza.",
+      "img": "img/exam_2017_06/zad40.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Największe zapotrzebowanie na wodę w uprawie ziemniaków występuje w fazie",
+      "options": [
+        "wschodów.",
+        "kiełkowania.",
+        "dojrzewania bulw.",
+        "zawiązywania bulw."
+      ],
+      "answer": 3,
+      "explain": "Krytycznym okresem zapotrzebowania ziemniaka na wodę jest zawiązywanie bulw (od kwitnienia).",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Rolnik zamierza wprowadzić do płodozmianu rośliny motylkowe grubonasienne na gleby lekkie o odczynie lekko kwaśnym. Najbardziej odpowiednią rośliną do uprawy na takich glebach będzie",
+      "options": [
+        "soja.",
+        "bobik.",
+        "łubin biały.",
+        "łubin żółty."
+      ],
+      "answer": 3,
+      "explain": "Łubin żółty ma najmniejsze wymagania – rośnie na glebach lekkich, piaszczystych i lekko kwaśnych.",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "W celu przeciwdziałania zamuleniom sieci drenarskiej, studzienki należy czyścić",
+      "options": [
+        "raz w roku.",
+        "co drugi rok.",
+        "raz na pięć lat.",
+        "dwa razy w roku."
+      ],
+      "answer": 0,
+      "explain": "Studzienki drenarskie czyści się z namułu raz w roku, zwykle wiosną.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Ile mocznika (46%) należy zastosować na 5 ha powierzchni uprawy, aby dostarczyć do gleby 92 kg N/ha?",
+      "options": [
+        "500 kg",
+        "1000 kg",
+        "1500 kg",
+        "2000 kg"
+      ],
+      "answer": 1,
+      "explain": "92 kg N : 0,46 = 200 kg mocznika/ha; 200 kg × 5 ha = 1000 kg.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Widoczne na ilustracji kiełki świetlne na bulwach ziemniaków o długości 1-2 mm są efektem",
+      "options": [
+        "sortowania.",
+        "pobudzania.",
+        "kalibrowania.",
+        "podkiełkowywania."
+      ],
+      "answer": 1,
+      "explain": "Pobudzanie bulw w świetle daje krótkie kiełki 1-2 mm; przy podkiełkowywaniu kiełki są dłuższe (ok. 1-2 cm).",
+      "src": "Zad. 5",
+      "img": "img/exam_2017_06/zad5.jpg"
+    },
+    {
+      "q": "W celu zniszczenia skorupy glebowej powstałej po siewie buraków należy zastosować wał",
+      "options": [
+        "gładki.",
+        "wgłębny.",
+        "strunowy.",
+        "kolczatkę."
+      ],
+      "answer": 3,
+      "explain": "Kolczatka kruszy skorupę glebową po siewie, nie uszkadzając kiełkujących roślin.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "W celu zlikwidowania podeszwy płużnej, powstałej na polu przeznaczonym pod uprawę buraków, należy wykonać zabieg",
+      "options": [
+        "wałowania.",
+        "bronowania.",
+        "głęboszowania.",
+        "kultywatorowania."
+      ],
+      "answer": 2,
+      "explain": "Głębosz rozbija zbitą warstwę podeszwy płużnej poniżej głębokości orki.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Rośliną ozimą wysiewaną najwcześniej jest",
+      "options": [
+        "żyto.",
+        "rzepak.",
+        "pszenica.",
+        "jęczmień."
+      ],
+      "answer": 1,
+      "explain": "Rzepak ozimy sieje się najwcześniej – w drugiej połowie sierpnia.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "W uprawie ziemniaków ciepła i wilgotna pogoda sprzyja rozwojowi",
+      "options": [
+        "alternariozy.",
+        "rizoktoniozy.",
+        "raka ziemniaka.",
+        "zarazy ziemniaka."
+      ],
+      "answer": 3,
+      "explain": "Zaraza ziemniaka rozwija się gwałtownie przy ciepłej i wilgotnej pogodzie.",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Miotła zbożowa występuje najczęściej w uprawach",
+      "options": [
+        "owsa.",
+        "żyta ozimego.",
+        "pszenicy jarej.",
+        "jęczmienia jarego."
+      ],
+      "answer": 1,
+      "explain": "Miotła zbożowa to chwast ozimy, typowy dla żyta ozimego na glebach lekkich i kwaśnych.",
+      "src": "Zad. 10"
+    },
+    {
+      "q": "Do zwalczania mszyc w uprawach roślin wskazane jest użycie środków owadobójczych o działaniu",
+      "options": [
+        "wgłębnym.",
+        "układowym.",
+        "doglebowym.",
+        "oddechowym."
+      ],
+      "answer": 1,
+      "explain": "Mszyce ssą soki roślin, więc najskuteczniejsze są insektycydy układowe, rozprowadzane z sokami.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Podorywkę w uprawie pożniwnej można zastąpić",
+      "options": [
+        "wałowaniem.",
+        "bronowaniem.",
+        "włókowaniem.",
+        "gruberowaniem."
+      ],
+      "answer": 3,
+      "explain": "Gruber (kultywator ścierniskowy) może zastąpić podorywkę w uprawie pożniwnej.",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Do siewu buraków cukrowych należy zastosować siewnik",
+      "options": [
+        "rzutowy.",
+        "rzędowy.",
+        "punktowy.",
+        "kombinowany."
+      ],
+      "answer": 2,
+      "explain": "Buraki wysiewa się punktowo – nasiona w równych odstępach w rzędzie.",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "Płynnych nawozów naturalnych nie wolno stosować na glebach bez okrywy roślinnej, położonych na stokach o nachyleniu większym niż",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": 1,
+      "explain": "Zgodnie z przepisami nawozów płynnych nie stosuje się na glebach bez okrywy na stokach powyżej 10%.",
+      "src": "Zad. 14"
+    },
+    {
+      "q": "Rolnik nie stosuje w uprawach żadnych środków chemicznych i nawozów mineralnych. Do żywienia zwierząt stosuje tylko pasze wytworzone we własnym gospodarstwie. Gospodarstwo jest prowadzone metodą",
+      "options": [
+        "tradycyjną.",
+        "intensywną.",
+        "ekologiczną.",
+        "integrowaną."
+      ],
+      "answer": 2,
+      "explain": "Rezygnacja z chemii i nawozów mineralnych oraz własne pasze to cechy rolnictwa ekologicznego.",
+      "src": "Zad. 15"
+    },
+    {
+      "q": "Wilgotność ziarna zbóż przechowywanego do 6 miesięcy nie powinna być większa niż",
+      "options": [
+        "10%",
+        "12%",
+        "14%",
+        "16%"
+      ],
+      "answer": 2,
+      "explain": "Ziarno przechowywane do pół roku powinno mieć wilgotność nie większą niż 14%.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Na schemacie układu pokarmowego kaczki numerem 2 oznaczono",
+      "options": [
+        "wole.",
+        "kloakę.",
+        "przełyk.",
+        "żołądek."
+      ],
+      "answer": 0,
+      "explain": "Wole to rozszerzenie przełyku u nasady szyi, gdzie pokarm jest gromadzony i rozmiękczany.",
+      "src": "Zad. 17",
+      "img": "img/exam_2017_06/zad17.jpg"
+    },
+    {
+      "q": "W układzie pokarmowym pomiędzy żołądkiem i jelitem czczym znajduje się",
+      "options": [
+        "przełyk.",
+        "trzustka.",
+        "okrężnica.",
+        "dwunastnica."
+      ],
+      "answer": 3,
+      "explain": "Dwunastnica to pierwszy odcinek jelita cienkiego, zaraz za żołądkiem, przed jelitem czczym.",
+      "src": "Zad. 18"
+    },
+    {
+      "q": "Filtrowanie krwi w celu usunięcia z niej zbędnych produktów przemiany materii odbywa się",
+      "options": [
+        "w sercu.",
+        "w nerkach.",
+        "w trzustce.",
+        "w wątrobie."
+      ],
+      "answer": 1,
+      "explain": "Nerki filtrują krew i usuwają zbędne produkty przemiany materii z moczem.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Rysunek przedstawia sylwetkę krowy w typie użytkowym",
+      "options": [
+        "mięsnym.",
+        "mlecznym.",
+        "uniwersalnym.",
+        "kombinowanym."
+      ],
+      "answer": 0,
+      "explain": "Prostokątna, masywna sylwetka z krótkimi nogami jest typowa dla bydła mięsnego (mleczne ma sylwetkę klinowatą).",
+      "src": "Zad. 20",
+      "img": "img/exam_2017_06/zad20.jpg"
+    },
+    {
+      "q": "Typ tłuszczowo-mięsny reprezentują świnie rasy",
+      "options": [
+        "duroc.",
+        "puławska.",
+        "hampshire.",
+        "wielka biała polska."
+      ],
+      "answer": 1,
+      "explain": "Rasa puławska to polska rasa rodzima w typie tłuszczowo-mięsnym.",
+      "src": "Zad. 21"
+    },
+    {
+      "q": "Śrutę sojową poekstrakcyjną wykorzystuje się w żywieniu zwierząt ze względu na dużą zawartość",
+      "options": [
+        "białka.",
+        "włókna.",
+        "tłuszczu.",
+        "węglowodanów."
+      ],
+      "answer": 0,
+      "explain": "Śruta sojowa zawiera ok. 44-48% białka – to główna pasza wysokobiałkowa.",
+      "src": "Zad. 22"
+    },
+    {
+      "q": "Zawartość suchej masy w zielonce przeznaczonej na sianokiszonkę powinna wynosić",
+      "options": [
+        "15-19%",
+        "20-24%",
+        "25-29%",
+        "30-34%"
+      ],
+      "answer": 3,
+      "explain": "Na sianokiszonkę zielonkę podsusza się do ok. 30-35% suchej masy (według klucza 30-34%).",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Korzystając z danych w tabeli oblicz objętość silosu potrzebnego do przechowania 140 ton ziarna kukurydzy. (Masa 1 m³: kiszonka z kukurydzy 650 kg, kiszonka z trawy świeżej 750 kg, ziarno jęczmienia 600 kg, ziarno kukurydzy 700 kg, siano łąkowe luzem 70 kg)",
+      "options": [
+        "100 m3",
+        "150 m3",
+        "200 m3",
+        "250 m3"
+      ],
+      "answer": 2,
+      "explain": "140 000 kg : 700 kg/m³ = 200 m³.",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Które narzędzie służy do usuwania kiełków prosiętom?",
+      "options": [
+        "[zdjęcie: kleszcze z ciężkimi, płaskimi szczękami]",
+        "[zdjęcie: nożyce z długimi ostrzami]",
+        "[zdjęcie: małe szczypce tnące – obcinaczki]",
+        "[zdjęcie: kleszcze z półokrągłą szczęką]"
+      ],
+      "answer": 2,
+      "explain": "Kiełki prosiąt skraca się małymi szczypcami tnącymi (obcinaczkami).",
+      "src": "Zad. 25",
+      "img": "img/exam_2017_06/zad25.jpg"
+    },
+    {
+      "q": "Ilustracja przedstawia element dojarki służący do",
+      "options": [
+        "regulacji podciśnienia.",
+        "regulacji przepływu mleka.",
+        "osuszania instalacji dojarki.",
+        "odcięcia dopływu podciśnienia."
+      ],
+      "answer": 0,
+      "explain": "To regulator (zawór) podciśnienia – utrzymuje stałe podciśnienie w instalacji dojarki.",
+      "src": "Zad. 26",
+      "img": "img/exam_2017_06/zad26.jpg"
+    },
+    {
+      "q": "Szczepienie prosiąt preparatem zawierającym żelazo należy wykonać",
+      "options": [
+        "w 2 tygodniu życia.",
+        "po odsadzeniu od lochy.",
+        "w 2.-3. dniu po porodzie.",
+        "bezpośrednio po porodzie."
+      ],
+      "answer": 2,
+      "explain": "Żelazo podaje się prosiętom w 2.-3. dniu życia, by zapobiec anemii.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Przed każdorazowym zasiedleniem kojca dla cieląt dezynfekcję pomieszczenia wykonuje się w celu",
+      "options": [
+        "zwalczania gryzoni.",
+        "tępienia szkodliwych owadów.",
+        "zmniejszenia stężenia szkodliwych gazów.",
+        "zniszczenia mikroorganizmów chorobotwórczych."
+      ],
+      "answer": 3,
+      "explain": "Dezynfekcja niszczy drobnoustroje chorobotwórcze (deratyzacja – gryzonie, dezynsekcja – owady).",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "Korzystając z danych z tabeli oblicz minimalną powierzchnię kojców, którą należy przygotować do odchowu 200 tuczników o masie od 85 kg do 110 kg. (Minimalna powierzchnia kojca na 1 sztukę: tuczniki 30-50 kg – 0,4 m²; 50-85 kg – 0,55 m²; 85-110 kg – 0,65 m²; powyżej 110 kg – 1,0 m²)",
+      "options": [
+        "100 m2",
+        "120 m2",
+        "130 m2",
+        "140 m2"
+      ],
+      "answer": 2,
+      "explain": "200 szt. × 0,65 m² = 130 m².",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Oblicz, ile powinna wynosić powierzchnia płyty gnojowej dla 10 DJP bydła w gospodarstwie położonym poza strefą OSN. (Powierzchnia płyt obornikowych dla bydła, trzody, owiec, koni: 3,5 m²/DJP w strefach OSN, 2,5 m²/DJP na pozostałych obszarach)",
+      "options": [
+        "11 m2",
+        "16 m2",
+        "25 m2",
+        "35 m2"
+      ],
+      "answer": 2,
+      "explain": "Poza OSN: 10 DJP × 2,5 m²/DJP = 25 m².",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "„Widoczne powiększenie objętości brzucha, wypełnienie dołów głodowych (szczególnie lewego), osowienie, brak apetytu, zwierzę niechętnie porusza się, stoi z rozstawionymi kończynami. W cięższych przypadkach napięte powłoki brzucha, nieuginające się pod uciskiem doły głodowe, stękanie, porykiwanie, wyciągnięcie szyi i wysunięcie języka, zasinienie błon śluzowych, duszność, bezwolne oddawanie kału.” Opisane objawy świadczą o wystąpieniu u krowy",
+      "options": [
+        "zatrucia.",
+        "brucelozy.",
+        "wzdęcia.",
+        "tężyczki pastwiskowej."
+      ],
+      "answer": 2,
+      "explain": "Wypełniony lewy dół głodowy i powiększony brzuch to objawy wzdęcia żwacza (gazy w żwaczu po lewej stronie).",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Ilustracja przedstawia kolczyk przeznaczony dla",
+      "options": [
+        "kóz.",
+        "świń.",
+        "bydła.",
+        "owiec."
+      ],
+      "answer": 1,
+      "explain": "Mały okrągły kolczyk z numerem siedziby stada stosuje się do znakowania świń.",
+      "src": "Zad. 32",
+      "img": "img/exam_2017_06/zad32.jpg"
+    },
+    {
+      "q": "W rolnictwie ekologicznym, jako środki profilaktyczne przeciwko chorobom, należy preferować",
+      "options": [
+        "antybiotyki.",
+        "zioła i preparaty ziołowe.",
+        "preparaty weterynaryjne ogólnie dostępne.",
+        "środki farmaceutyczne przepisane przez lekarza weterynarii."
+      ],
+      "answer": 1,
+      "explain": "W rolnictwie ekologicznym w profilaktyce preferuje się preparaty ziołowe i homeopatyczne zamiast chemicznych leków.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "Na podstawie danych z tabeli określ, w jakiej temperaturze maksymalnej powinno być przechowywane mleko surowe. (Tabela: tuszki drobiowe – 4°C; tusze grubej zwierzyny łownej – 7°C; mleko surowe i surowa śmietana – 6°C; produkty rybołówstwa – 2°C)",
+      "options": [
+        "2°C",
+        "4°C",
+        "6°C",
+        "8°C"
+      ],
+      "answer": 2,
+      "explain": "Według tabeli mleko surowe i surowa śmietana – maksymalnie 6°C.",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Stop żelaza z węglem (powyżej 2%) wykorzystywany do odlewów to",
+      "options": [
+        "stal.",
+        "znal.",
+        "brąz.",
+        "żeliwo."
+      ],
+      "answer": 3,
+      "explain": "Żeliwo to stop żelaza z węglem powyżej 2%, stosowany do odlewów; stal ma do ok. 2% węgla.",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "Ilustracja przedstawia zamontowany na połaci dachowej element instalacji",
+      "options": [
+        "wodnej.",
+        "solarnej.",
+        "energetycznej.",
+        "fotowoltaicznej."
+      ],
+      "answer": 1,
+      "explain": "Rury próżniowe na dachu to kolektor słoneczny instalacji solarnej (podgrzewa wodę).",
+      "src": "Zad. 36",
+      "img": "img/exam_2017_06/zad36.jpg"
+    },
+    {
+      "q": "W sieci wodociągowej urządzenie przedstawione na ilustracji służy do",
+      "options": [
+        "filtracji wody.",
+        "odcięcia dopływu wody.",
+        "obliczenia zużycia wody.",
+        "utrzymania stałego ciśnienia wody."
+      ],
+      "answer": 3,
+      "explain": "Zawór z manometrem i pokrętłem nastawy to reduktor ciśnienia – utrzymuje stałe ciśnienie wody.",
+      "src": "Zad. 37",
+      "img": "img/exam_2017_06/zad37.jpg"
+    },
+    {
+      "q": "Urządzenie na ilustracji służy do",
+      "options": [
+        "rozwijania bel słomy lub siana.",
+        "wycinania bloków kiszonki i sianokiszonki.",
+        "mieszania i zadawania pasz objętościowych.",
+        "usuwania obornika z chlewni na głębokiej ściółce."
+      ],
+      "answer": 1,
+      "explain": "To wycinak (krokodyl) do kiszonki – wycina z pryzmy bloki kiszonki i sianokiszonki.",
+      "src": "Zad. 38",
+      "img": "img/exam_2017_06/zad38.jpg"
+    },
+    {
+      "q": "Przegląd i odkażanie instalacji klimatyzacyjnej w ciągniku rolniczym należy przeprowadzać co najmniej",
+      "options": [
+        "co 2 lata.",
+        "raz w roku.",
+        "raz na 5 lat.",
+        "dwa razy w roku."
+      ],
+      "answer": 1,
+      "explain": "Klimatyzację odgrzybia się i przegląda co najmniej raz w roku.",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "Naklejka potwierdza pozytywny wynik wykonania przeglądu technicznego",
+      "options": [
+        "ciągnika.",
+        "kombajnu.",
+        "ładowarki.",
+        "opryskiwacza."
+      ],
+      "answer": 3,
+      "explain": "Naklejkę PIORiN „Sprzęt sprawny technicznie” otrzymuje opryskiwacz po pozytywnym badaniu technicznym.",
+      "src": "Zad. 40",
+      "img": "img/exam_2017_06/zad40.jpg"
+    }
+  ]
+}

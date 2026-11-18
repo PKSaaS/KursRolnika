@@ -1,0 +1,2143 @@
+{
+  "id": "tr3",
+  "course": "Technika w rolnictwie",
+  "title": "Części maszyn – połączenia i napędy",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – części, zespoły, mechanizmy",
+      "points": [
+        "Łopata składa się z trzech części (część robocza, trzonek, gwóźdź), pług – z kilkudziesięciu.",
+        "Części proste (konstrukcyjne) – z jednego kawałka materiału: śruba, nakrętka, kołek, nit, koło pasowe, nóż.",
+        "Części złożone – z kilku części prostych: łożysko toczne, pompa, sprzęgło.",
+        "Zespół – części połączone do wykonywania ściśle określonego zadania: skrzynia przekładniowa, zespół młócący lub czyszczący kombajnu, silnik.",
+        "Podzespoły – wyodrębnione części zespołów złożonych, np. podsiewacz i kosz sitowy w zespole czyszczącym kombajnu.",
+        "Mechanizm – części połączone tak, że poruszenie jednej wywołuje ściśle określony ruch pozostałych: mechanizm korbowy, przekładnie, mechanizmy napędowe."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/czesci-maszyn-podzial.jpg",
+          "caption": "Zestawienie ważniejszych grup części maszyn: połączenia rozłączne (gwintowe, klinowe, wpustowe, wielowypustowe, sworzniowe, sprężyste, rurowe, kołkowe), połączenia nierozłączne (spawane, zgrzewane, nitowe, wciskane, osadzane na gorąco, lutowane, klejone) oraz napędy (wały i osie, łożyska, sprzęgła, przekładnie, hamulce)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Połączenia nierozłączne – spawane i zgrzewane",
+      "points": [
+        "Połączenia nierozłączne – przy rozłączeniu elementy łączone lub łączniki ulegają zniszczeniu lub uszkodzeniu.",
+        "Połączenia spawane – w maszynach rolniczych głównie przy wykonywaniu ram; zalety: dobra wytrzymałość, szczelność, dobry układ naprężeń, swoboda kształtów.",
+        "Spawanie – łączenie części metalowych przez miejscowe stopienie z dodatkiem lub bez spoiwa (pręt spawalniczy, elektroda); powstaje spoina.",
+        "Rodzaje spoin: czołowe, pachwinowe, otworowe, grzbietowe.",
+        "Spawanie gazowe – stopienie w płomieniu gazowym z palnika (np. acetylen + tlen).",
+        "Spawanie elektryczne (łukowe) – źródłem ciepła jest łuk elektryczny między elektrodą a przedmiotem.",
+        "Zgrzewanie – miejscowe nagrzanie do stanu ciągliwości i mocne dociśnięcie; cząsteczki materiałów wzajemnie się przenikają.",
+        "Zgrzewanie łatwo zmechanizować i zautomatyzować – powszechne w produkcji wielkoseryjnej; połączenia zakładkowe, nakładkowe, kątowe, stykowe.",
+        "Przy spawaniu metal stopiony na obu brzegach spawanych części zlewa się i po skrzepnięciu wiąże je w całość."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/rodzaje-spoin.jpg",
+          "caption": "Rodzaje spoin: a) czołowe, b) pachwinowe, c) otworowe, d) grzbietowe."
+        },
+        {
+          "src": "img/tr3/polaczenia-zgrzewane.jpg",
+          "caption": "Przykłady połączeń zgrzewanych: stykowe (pręty i rury), kątowe, stykowe (pręty i rury); po lewej połączenie zakładkowe z przekrojem A–A."
+        }
+      ]
+    },
+    {
+      "heading": "Połączenia lutowane, wciskowe, klejone i nitowe",
+      "points": [
+        "Lutowanie – łączenie metali lutem z metalu bardziej topliwego niż łączone części (najczęściej cyna); stosowane w elektronice i elektrotechnice (mały opór elektryczny, łatwość wykonania).",
+        "Połączenia wciskowe – wykorzystują nacisk i wzajemne odkształcenie części.",
+        "Połączenia wtłaczane – wtłoczenie jednej części w drugą prasą lub młotkiem, np. tuleja w piaście koła jezdnego.",
+        "Połączenia skurczowe – ogrzewa się część zewnętrzną lub schładza wewnętrzną; trwałe połączenie po wyrównaniu temperatur.",
+        "Połączenia klejone – głównie elementy z różnych tworzyw (drewno, szkło); utwardzony klej tworzy skleinę.",
+        "Zalety klejenia: właściwości izolacyjne, tłumienie drgań, odporność na korozję, możliwość łączenia niemetali z metalami.",
+        "Nit – łeb (fabryczny) i trzon; wymiary znormalizowane; zakuwka – drugi łeb powstały przez spęczanie końca trzonu.",
+        "Elementy przy nitowaniu: łeb nitu, trzon, zakuwka, zakuwnik, wspornik.",
+        "Nitowanie stosuje się w konstrukcjach stalowych, do mocowania blach i płyt do ram, nożyków do płaskownika listwy tnącej.",
+        "W połączeniu wtłaczanym wymiary otworu i części wtłaczanej są ściśle dopasowane; przy połączeniu skurczowym ogrzanie zwiększa wymiary części zewnętrznej, a schłodzenie zmniejsza wymiary wewnętrznej.",
+        "Przed klejeniem powierzchnie łączonych części trzeba dokładnie oczyścić; stopiony lut ściśle przywiera do łączonych powierzchni."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/nit-wykonanie.jpg",
+          "caption": "Wykonanie połączenia nitowego: a) nit wsparty na wsporniku, b) wstępne rozklepanie trzonu nitu, c) formowanie zakuwki. 1 – łeb nitu, 2 – trzon nitu, 3 – zakuwka, 4 – zakuwnik, 5 – wspornik."
+        }
+      ]
+    },
+    {
+      "heading": "Połączenia rozłączne – gwintowe",
+      "points": [
+        "Połączenia rozłączne – demontowane bez uszkodzenia elementów, możliwe do ponownego użycia.",
+        "W rolnictwie: gwintowe (śrubowe), kształtowe (klinowe, wpustowe, wielowypustowe, sworzniowe, kołkowe), sprężyste, rurowe.",
+        "Połączenie śrubowe (za pomocą śrub) jest pośrednie; bezpośrednie gwintowe – wkręcenie elementu z gwintem zewnętrznym w element z gwintem wewnętrznym.",
+        "Linia śrubowa powstaje przez owinięcie wokół walca równi pochyłej o wysokości równej skokowi.",
+        "Gwint prawy (wznosi się od lewej do prawej) jest najczęstszy; odwrotnie – gwint lewy.",
+        "Śruby i wkręty mają gwint zewnętrzny, nakrętki – wewnętrzny; śruba dwustronna – bez łba, gwintowana na całej długości lub na końcach.",
+        "Wkręt – śruba z łbem z rowkiem do wkrętaka.",
+        "Najczęstsze łby: sześciokątne; spotyka się też torx, zamkowe, imbus.",
+        "Wymiar śruby – średnica zewnętrzna gwintu w mm, np. M10 = gwint metryczny o średnicy 10 mm.",
+        "Klucze: widlaste płaskie, oczkowe, nasadowe; dokręcanie określonym momentem – klucz dynamometryczny (wskazówkowy, na „klik”, elektroniczny).",
+        "Śruba – nagwintowany trzpień, z jednej strony często zgrubienie zwane łbem (ułatwia dokręcenie); nakrętka ma nagwintowany otwór odpowiadający gwintowi śruby.",
+        "Gwinty śrub są znormalizowane – znając wymiar, łatwo dobrać nakrętkę.",
+        "Klucze dynamometryczne: starsze – z przyrządem pomiarowym (wskazówką) pokazującym przyłożony moment; obecne – głównie na „klik” lub z wyświetlaczem elektronicznym."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/linia-srubowa.jpg",
+          "caption": "Linia śrubowa – droga punktu M na obracającym się walcu: 1 – obracający się walec (średnica d), 2 – linia śrubowa; rozwinięcie to równia pochyła o długości πd i wysokości równej skokowi h."
+        },
+        {
+          "src": "img/tr3/sruby-torx.jpg",
+          "caption": "Śruby typu torx – łeb z gniazdem w kształcie gwiazdki."
+        },
+        {
+          "src": "img/tr3/klucz-dynamometryczny.jpg",
+          "caption": "Klucz dynamometryczny z nasadkami – do dokręcania śrub i nakrętek ściśle określonym momentem."
+        }
+      ]
+    },
+    {
+      "heading": "Zabezpieczenia nakrętek",
+      "points": [
+        "Cel – niedopuszczenie do samoodkręcenia się śrub.",
+        "Zabezpieczenia cierne: przeciwnakrętka, podkładka sprężysta i podatna.",
+        "Zabezpieczenia kształtowe: podkładki odginane, zawleczka z nakrętką koronową, podkładka z wkrętem ustalającym."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/zabezpieczenia-nakretek.jpg",
+          "caption": "Zabezpieczenia nakrętek przed samoczynnym odkręcaniem: a) przeciwnakrętka, b) podkładka sprężysta, c) zawleczka, d) zawleczka i nakrętka koronowa, e) podkładka odginana, f) podkładka i wkręt ustalający."
+        }
+      ]
+    },
+    {
+      "heading": "Połączenia kształtowe",
+      "points": [
+        "Połączenie klinowe – docisk części klinem; klin poprzeczny (prostopadle do osi) lub wzdłużny (równolegle do osi).",
+        "Połączenie wpustowe – element o przekroju prostokątnym lub czółenkowym zagłębiony w obu częściach.",
+        "Klinowe i wpustowe łączą wał z piastą dla przeniesienia momentu obrotowego.",
+        "W klinowym wzdłużnym moment przenosi docisk od wbitego klina; we wpustowym – naciski na ściankach bocznych wpustu (wpust ciasno w rowku, luźno w piaście).",
+        "Wpust nie zabezpiecza piasty przed przesuwem wzdłuż wału – potrzebne dodatkowe zabezpieczenie, zwykle pierścień oporowy.",
+        "Połączenia wielowypustowe – wytrzymalsze od wpustowych; wypusty wykonane na czopie wału; skrzynie przekładniowe, połączenie WOM z maszyną.",
+        "Połączenie sworzniowe – sworzeń w przelotowym otworze; np. trzypunktowy układ zawieszenia ciągnika (połączenie przegubowe).",
+        "Połączenia kołkowe – odmiana sworzniowych; kołki walcowe lub stożkowe; do dokładnego ustalenia wzajemnego położenia części."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/polaczenie-klinowe.jpg",
+          "caption": "Połączenie klinowe wzdłużne (u góry – klin równoległy do osi połączenia) i poprzeczne (u dołu – klin prostopadły do osi)."
+        },
+        {
+          "src": "img/tr3/polaczenie-wpustowe.jpg",
+          "caption": "Połączenie wpustowe (wpust w rowku wałka i piasty) oraz wpust i wałek z rowkiem."
+        },
+        {
+          "src": "img/tr3/polaczenie-sworzniowe.jpg",
+          "caption": "Połączenie sworzniowe – części połączone sworzniem umieszczonym w przelotowym otworze (np. trzypunktowy układ zawieszenia ciągnika)."
+        }
+      ]
+    },
+    {
+      "heading": "Połączenia sprężyste i rurowe",
+      "points": [
+        "Połączenia sprężyste – łącznikami są sprężyny lub elementy z gumy lub tworzywa; dają znaczną swobodę ruchów.",
+        "Sprężyny zawdzięczają sprężystość głównie kształtowi, elementy gumowe i z tworzyw – właściwościom materiału.",
+        "Rodzaje sprężyn w połączeniach: śrubowe, spiralne, płaskie, talerzowe, pierścieniowe; resor = sprężyna wielopłytowa.",
+        "Połączenia rurowe – przewody łączone złączkami, kolankami, łukami, trójnikami i zaworami.",
+        "Rury łączy się rozłącznie gwintami, kołnierzami, kielichami lub taśmami."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/polaczenia-sprezyste.jpg",
+          "caption": "Połączenia sprężyste: a) sprężyna płaska płytowa, b) sprężyna wielopłytowa (resor), c) sprężyna naciskowa, d) sprężyna naciągowa, e) sprężyna spiralna, f) element gumowy."
+        }
+      ]
+    },
+    {
+      "heading": "2. Napędy – osie i wały",
+      "points": [
+        "Rodzaje napędów wg źródła energii: elektryczny, pneumatyczny, hydrauliczny, mechaniczny, jądrowy.",
+        "Elementy uniwersalne napędów mechanicznych: osie, wały, łożyska; zespoły: hamulce, sprzęgła; pośredniczą też przekładnie.",
+        "Oś – na niej obracają się inne elementy; nie przenosi momentu obrotowego, nie jest skręcana – narażona głównie na zginanie; nieruchoma lub obrotowa.",
+        "Wał – przenosi moment obrotowy; narażony na skręcanie i zginanie.",
+        "Wały proste: WOM ciągnika, wał bębna młocarni, wał przekładni; wykorbione: wał korbowy silnika, wał wytrząsaczy.",
+        "Wały napędzające i napędzane – zależnie od roli w mechanizmie.",
+        "Elementy osi i wałów: czopy (osadzenie łożysk i kół), odcinki swobodne, odsadzenia, pierścienie i kołnierze.",
+        "Na osiach obracają się np. koła jezdne i koła zębate. Oś nieruchoma – element wirujący obraca się względem osi; oś obrotowa – element obraca się razem z osią względem ramy.",
+        "Wał – ruchoma część maszyny, na której osadzone elementy wykonują wraz z nią ruchy obrotowe lub wahadłowe.",
+        "Pierścienie i kołnierze stanowią z wałem jedną całość lub są z nim na stałe związane."
+      ]
+    },
+    {
+      "heading": "Łożyska ślizgowe i rodzaje tarcia",
+      "points": [
+        "Łożyska podtrzymują wały i osie i ustalają ich położenie; dwie grupy: ślizgowe i toczne.",
+        "Łożysko ślizgowe – czop i panew stykają się bezpośrednio; wymaga właściwych materiałów i dobrego smarowania (inaczej zagrzewa się i szybko zużywa).",
+        "Ślizgowe niedzielone – na końcach wałów wielopodporowych; dzielone – na środku wału i elementach wykorbionych.",
+        "Tarcie suche – brak smaru; półsuche (graniczne) – minimalna ilość smaru.",
+        "Tarcie półpłynne – stykają się tylko szczyty nierówności, wgłębienia wypełnia smar.",
+        "Tarcie płynne – powierzchnie całkowicie oddzielone warstwą smaru."
+      ]
+    },
+    {
+      "heading": "Łożyska toczne",
+      "points": [
+        "Czop i gniazdo stykają się za pośrednictwem elementów tocznych (kulki, wałeczki, stożki).",
+        "Budowa: pierścień zewnętrzny i wewnętrzny z bieżniami, elementy toczne, koszyczek (zapobiega skupianiu się elementów).",
+        "Pierścień wewnętrzny nieruchomo na czopie wału, zewnętrzny nieruchomo w kadłubie łożyska.",
+        "Zalety wobec ślizgowych: mniejszy współczynnik tarcia, lżejsze konstrukcje, mało smaru, proste smarowanie, nie wymagają docierania.",
+        "Wady: drgania i hałas przy bardzo dużych obciążeniach; słabsze przy dużych średnicach czopów.",
+        "Podział wg rzędów: jednorzędowe, dwurzędowe, wielorzędowe.",
+        "Wg kierunku obciążenia: poprzeczne (promieniowe), wzdłużne (osiowe), poprzeczno-wzdłużne (skośne – siły promieniowe i osiowe).",
+        "Łożyska toczne są częściej stosowane niż ślizgowe – pozwalają na konstrukcje bardziej zwarte i lżejsze, wymagają prostych układów smarowania."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/lozysko-toczne-elementy.jpg",
+          "caption": "Budowa łożyska tocznego: 1 – pierścień zewnętrzny, 2 – bieżnia zewnętrzna, 3 – element toczny, 4 – koszyk, 5 – bieżnia wewnętrzna, 6 – pierścień wewnętrzny. Elementy toczne: kulka, wałeczek walcowy, igiełka, wałeczek stożkowy, baryłka."
+        }
+      ]
+    },
+    {
+      "heading": "Sprzęgła",
+      "points": [
+        "Sprzęgło łączy dwa wały i przenosi moment obrotowy; także łagodzi uderzenia, wyrównuje zmiany długości wału, chroni przed przeciążeniem.",
+        "Nierozłączne – rozłączenie tylko przez demontaż: sztywne (tulejowe, łubkowe, tarczowe – wały współosiowe), podatne (z elementem elastycznym), samonastawne (Oldhama), przegubowe (Cardana – duży kąt między osiami).",
+        "Sterowane – łączone/rozłączane przez obsługę: przełączalne synchronicznie (przy małych prędkościach, np. zębate), asynchronicznie (przy różnych prędkościach, np. cierne).",
+        "Samoczynne – działają wskutek zmian parametrów pracy: jednokierunkowe (zapadkowe, kołowe), odśrodkowe (rozruchowe, np. w kosiarkach trawnikowych), bezpieczeństwa/przeciążeniowe (kulkowe, hydrokinetyczne).",
+        "Sprzęgło bezpieczeństwa ogranicza moment do bezpiecznej wartości lub całkowicie rozłącza część napędzaną.",
+        "Sprzęgła z podatnym łącznikiem amortyzują drgania i kompensują błędy współosiowości i przesunięcia kątowe.",
+        "Sprzęgło wyrównuje zmiany długości wału wskutek zmian temperatury.",
+        "Sprzęgła sztywne nie pozwalają na wzajemne ruchy wałów; podatne (np. tarczowe z elementem elastycznym) pozwalają na niewielkie przesunięcie współosiowe lub odchylenie kątowe.",
+        "Sprzęgło jednokierunkowe – przy ruchu wału napędzającego w przeciwnym kierunku obraca się on swobodnie względem napędzanego.",
+        "Sprzęgło przełączalne synchronicznie zawdzięcza działanie odpowiedniemu ukształtowaniu powierzchni czołowych; sprzęgło bezpieczeństwa chroni przed przeciążeniem od strony wału napędzającego."
+      ]
+    },
+    {
+      "heading": "Przekładnie pasowe i łańcuchowe",
+      "points": [
+        "Przekładnia przekazuje energię mechaniczną, zwykle ze zmianą prędkości i momentu; prosta – dwa wały, złożona – więcej wałów (składa się z prostych).",
+        "Przekładnie pasowe – przenoszą moment na dłuższe odległości (np. z silnika na koła jezdne kombajnu Bizon Z056); pas płaski lub klinowy.",
+        "Przyczepność pasa zależy od kąta opasania i naciągu; większy kąt opasania – mniejszy poślizg; stosuje się napinacze.",
+        "Przekładnia otwarta – koła w jednej płaszczyźnie, ten sam kierunek obrotu; skrzyżowana – przeciwne kierunki; półskrzyżowana – wały nierównoległe.",
+        "Przekładnie łańcuchowe – napęd między równoległymi wałami; sworznie ogniw wchodzą między zęby kół.",
+        "Łańcuchy: rolkowe (sworzniowe Galla) – kombajny ziemniaczane, kopaczki, sadzarki; przegubowe (Everta) – przyczepy samowyładowcze; ogniwowe – przenośniki roztrząsaczy obornika.",
+        "Łańcuchy przegubowe Everta stosuje się np. w przyczepach samowyładowczych firmy Brochard; łańcuchy ogniwowe – w przenośnikach łańcuchowo-listwowych roztrząsaczy obornika."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/przekladnie-pasowe-podzial.jpg",
+          "caption": "Przekładnie pasowe – z pasem płaskim lub klinowym; przenoszą moment obrotowy na dłuższe odległości (np. z silnika na koła jezdne kombajnu Bizon Z056). Przyczepność pasa rośnie z kątem opasania – zwiększają go napinacze."
+        },
+        {
+          "src": "img/tr3/przekladnie-pasowe-uklady.jpg",
+          "caption": "Układy przekładni pasowych: otwarte – oba koła w jednej płaszczyźnie, ten sam kierunek obrotu; skrzyżowane – koła obracają się w przeciwnych kierunkach, pas się krzyżuje; półskrzyżowane – wały nie są równoległe."
+        }
+      ]
+    },
+    {
+      "heading": "Przekładnie zębate i hydrokinetyczne",
+      "points": [
+        "Przekładnie zębate przenoszą moment między wałami lub zamieniają ruch obrotowy na posuwisty.",
+        "Równoległe (czołowe) – wały równoległe; zazębienie zewnętrzne – przeciwne kierunki obrotu, wewnętrzne – ten sam kierunek.",
+        "Stożkowe – osie wałów przecinają się pod kątem (np. mechanizmy różnicowe).",
+        "Ślimakowe – wały pod kątem prostym, osie się nie przecinają; ślimak + ślimacznica; duża redukcja obrotów, napęd tylko od ślimaka do ślimacznicy (układy kierownicze i regulacyjne).",
+        "Zębatkowe – zamiana ruchu obrotowego na postępowy i odwrotnie (np. przesuwanie bram).",
+        "Przekładnia hydrokinetyczna – napęd przez wirującą ciecz; w obudowie dwa wirniki (pompa na wale napędzającym, turbina na napędzanym) i nieruchoma kierownica związana z obudową.",
+        "Wirniki i kierownica mają promieniście rozłożone łopatki, tworzące razem jak gdyby linię śrubową nawiniętą wokół środkowego pierścienia przekładni.",
+        "Działanie: pompa napędzana przez silnik wprawia ciecz w ruch, strumień cieczy siłą odśrodkową trafia na łopatki turbiny i jego napór obraca turbinę.",
+        "Wirująca ciecz napotyka opór łopatek nieruchomej kierownicy – zmniejsza to prędkość obrotową turbiny, a tym samym stosunek jej prędkości do stałej prędkości pompy.",
+        "Ślimak ma kształt śruby, ślimacznica – kształt koła zębatego o zębach skośnych."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/przekladnie-zebate.jpg",
+          "caption": "Przekładnie zębate: a) czołowa o zazębieniu zewnętrznym (koła obracają się w przeciwnych kierunkach; z1, z2 – liczby zębów), b) czołowa o zazębieniu wewnętrznym (ten sam kierunek), c) stożkowa o zębach prostych, d) ślimakowa, e) zębatkowa."
+        },
+        {
+          "src": "img/tr3/przekladnie-zebate-podzial.jpg",
+          "caption": "Rodzaje przekładni zębatych: równoległe (czołowe) – zazębienie zewnętrzne daje przeciwne kierunki obrotu, wewnętrzne – ten sam; stożkowe – osie wałów przecinają się pod kątem; ślimakowe – wały pod kątem prostym, osie się nie przecinają, duża redukcja obrotów, napęd tylko od ślimaka do ślimacznicy; zębatkowe – zamiana ruchu obrotowego na postępowy (np. przesuwanie bram)."
+        },
+        {
+          "src": "img/tr3/przekladnia-hydrokinetyczna.jpg",
+          "caption": "Przekładnia hydrokinetyczna: w szczelnej obudowie wirnik pompy (na wale napędzającym, od wału korbowego), wirnik turbiny (na wale napędzanym) i nieruchoma kierownica połączona z obudową. Pompa wprawia ciecz w ruch, strumień cieczy obraca turbinę; opór łopatek kierownicy zmniejsza prędkość turbiny względem stałej prędkości pompy."
+        }
+      ]
+    },
+    {
+      "heading": "Przełożenie, moment i sprawność",
+      "points": [
+        "Przełożenie – stosunek prędkości obrotowej wału napędzającego (n1) do prędkości wału napędzanego (n2): i = n1/n2.",
+        "We wzorze na przełożenie występują też średnice kół (D1, D2 w mm) i liczby zębów (z1, z2).",
+        "Przełożenie przekładni wielostopniowej = iloczyn przełożeń przekładni prostych.",
+        "Zmiana prędkości obrotowej powoduje odwrotnie proporcjonalną zmianę momentu obrotowego (M1, M2 w N·m).",
+        "Straty mocy: tarcie między kołami, między czopami a łożyskami, poślizg.",
+        "Sprawność przekładni η = P2/P1 (moc odebrana z wału napędzanego / moc dostarczona do napędzającego, w W); zawsze mniejsza od 1, ok. 0,95."
+      ],
+      "images": [
+        {
+          "src": "img/tr3/wzor-przelozenie.jpg",
+          "caption": "Wzór na przełożenie przekładni pojedynczej: i = n1/n2 = D2/D1 = z2/z1 (n – prędkości obrotowe wałów [obr./min], D – średnice kół [mm], z – liczby zębów; 1 – napędzające, 2 – napędzane)."
+        },
+        {
+          "src": "img/tr3/wzor-moment-wielostopniowa.jpg",
+          "caption": "Przełożenie przekładni wielostopniowej: ic = i1 · i2 · … · in. Momenty: M1/M2 = n2/n1 (M1 – moment na kole napędzającym, M2 – na kole napędzanym [N·m])."
+        },
+        {
+          "src": "img/tr3/wzor-sprawnosc.jpg",
+          "caption": "Sprawność przekładni: η = P2/P1 (P2 – moc odebrana z wału napędzanego [W], P1 – moc dostarczona do wału napędzającego [W]); η < 1, zwykle ok. 0,95."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Części proste (konstrukcyjne)",
+      "back": "Wykonane z jednego kawałka materiału, np. śruba, nakrętka, kołek, nit, nóż."
+    },
+    {
+      "front": "Części złożone – przykłady",
+      "back": "Łożysko toczne, pompa, sprzęgło."
+    },
+    {
+      "front": "Zespół – definicja",
+      "back": "Części połączone w celu wykonywania ściśle określonego zadania, np. skrzynia przekładniowa, silnik."
+    },
+    {
+      "front": "Podzespoły zespołu czyszczącego kombajnu zbożowego",
+      "back": "Podsiewacz i kosz sitowy."
+    },
+    {
+      "front": "Mechanizm – definicja",
+      "back": "Części połączone tak, że poruszenie jednej wywołuje ściśle określony ruch pozostałych."
+    },
+    {
+      "front": "Z ilu części składa się łopata?",
+      "back": "Z trzech: część robocza, trzonek, gwóźdź."
+    },
+    {
+      "front": "Połączenia nierozłączne",
+      "back": "Takie, w których przy rozłączeniu elementy lub łączniki ulegają zniszczeniu lub uszkodzeniu."
+    },
+    {
+      "front": "Gdzie w maszynach rolniczych stosuje się głównie spawanie?",
+      "back": "Przy wykonywaniu ram."
+    },
+    {
+      "front": "Zalety połączeń spawanych",
+      "back": "Dobra wytrzymałość, szczelność, dobry układ naprężeń, swoboda kształtów."
+    },
+    {
+      "front": "Rodzaje spoin",
+      "back": "Czołowe, pachwinowe, otworowe, grzbietowe."
+    },
+    {
+      "front": "Spawanie gazowe",
+      "back": "Stopienie metali w płomieniu gazowym z palnika (np. acetylen + tlen)."
+    },
+    {
+      "front": "Źródło ciepła w spawaniu elektrycznym",
+      "back": "Łuk elektryczny między elektrodą a przedmiotem."
+    },
+    {
+      "front": "Zgrzewanie",
+      "back": "Miejscowe nagrzanie do stanu ciągliwości i mocne dociśnięcie części."
+    },
+    {
+      "front": "Dlaczego zgrzewanie stosuje się w produkcji wielkoseryjnej?",
+      "back": "Bo łatwo je zmechanizować i zautomatyzować."
+    },
+    {
+      "front": "Lut – najczęstszy materiał",
+      "back": "Cyna (metal bardziej topliwy niż łączone części)."
+    },
+    {
+      "front": "Gdzie stosuje się lutowanie i dlaczego?",
+      "back": "W elektronice i elektrotechnice – mały opór elektryczny i łatwość wykonania."
+    },
+    {
+      "front": "Połączenie wtłaczane – przykład",
+      "back": "Tuleja osadzona nieruchomo w piaście koła jezdnego."
+    },
+    {
+      "front": "Połączenie skurczowe – zasada",
+      "back": "Ogrzanie części zewnętrznej lub schłodzenie wewnętrznej; trwałe połączenie po wyrównaniu temperatur."
+    },
+    {
+      "front": "Skleina",
+      "back": "Spoina klejowa powstała po stwardnieniu kleju."
+    },
+    {
+      "front": "Zalety połączeń klejonych",
+      "back": "Izolacyjność, tłumienie drgań, odporność na korozję, łączenie niemetali z metalami."
+    },
+    {
+      "front": "Zakuwka",
+      "back": "Drugi łeb nitu utworzony przez spęczanie końca trzonu."
+    },
+    {
+      "front": "Z czego składa się nit?",
+      "back": "Z łba (wykonanego fabrycznie) i trzonu."
+    },
+    {
+      "front": "Przykład nitowania w maszynach rolniczych",
+      "back": "Nożyki z płaskownikiem listwy tnącej; blachy i płyty do ram."
+    },
+    {
+      "front": "Połączenia rozłączne",
+      "back": "Można je demontować bez uszkodzenia elementów i użyć ponownie."
+    },
+    {
+      "front": "Rodzaje połączeń kształtowych",
+      "back": "Klinowe, wpustowe, wielowypustowe, sworzniowe, kołkowe."
+    },
+    {
+      "front": "Połączenie śrubowe a bezpośrednie gwintowe",
+      "back": "Śrubowe – pośrednie (za pomocą śrub); bezpośrednie – wkręcenie elementu z gwintem zewnętrznym w wewnętrzny."
+    },
+    {
+      "front": "Jak powstaje linia śrubowa?",
+      "back": "Przez owinięcie wokół walca równi pochyłej o wysokości równej skokowi."
+    },
+    {
+      "front": "Najczęściej spotykany kierunek gwintu",
+      "back": "Gwint prawy."
+    },
+    {
+      "front": "Śruba dwustronna",
+      "back": "Śruba bez łba, gwintowana na całej długości lub na obu końcach."
+    },
+    {
+      "front": "Wkręt",
+      "back": "Śruba z łbem z rowkiem do wkręcania wkrętakiem."
+    },
+    {
+      "front": "Najczęstszy kształt łba śruby",
+      "back": "Sześciokątny (spotyka się też torx, zamkowe, imbus)."
+    },
+    {
+      "front": "Co oznacza M10?",
+      "back": "Gwint metryczny o średnicy zewnętrznej 10 mm."
+    },
+    {
+      "front": "Do czego służy klucz dynamometryczny?",
+      "back": "Do dokręcania śrub ściśle określonym momentem."
+    },
+    {
+      "front": "Zabezpieczenia cierne nakrętek",
+      "back": "Przeciwnakrętka, podkładka sprężysta i podatna."
+    },
+    {
+      "front": "Zabezpieczenia kształtowe nakrętek",
+      "back": "Podkładka odginana, zawleczka z nakrętką koronową, podkładka z wkrętem ustalającym."
+    },
+    {
+      "front": "Klin poprzeczny vs wzdłużny",
+      "back": "Poprzeczny – prostopadle do osi połączenia; wzdłużny – równolegle do osi."
+    },
+    {
+      "front": "Wpust – kształt przekroju",
+      "back": "Prostokątny lub czółenkowy."
+    },
+    {
+      "front": "Do czego służą połączenia klinowe i wpustowe?",
+      "back": "Do łączenia wału z piastą w celu przeniesienia momentu obrotowego."
+    },
+    {
+      "front": "Jak wpust przenosi moment obrotowy?",
+      "back": "Przez naciski na ściankach bocznych wpustu."
+    },
+    {
+      "front": "Czym zabezpiecza się piastę przed przesuwem na wale przy połączeniu wpustowym?",
+      "back": "Najczęściej pierścieniem oporowym."
+    },
+    {
+      "front": "Połączenia wielowypustowe – zastosowanie",
+      "back": "Skrzynie przekładniowe, połączenie WOM ciągnika z maszyną."
+    },
+    {
+      "front": "Przykład połączenia sworzniowego w rolnictwie",
+      "back": "Trzypunktowy układ zawieszenia ciągnika (połączenie przegubowe)."
+    },
+    {
+      "front": "Do czego służą połączenia kołkowe?",
+      "back": "Do dokładnego ustalenia wzajemnego położenia łączonych części."
+    },
+    {
+      "front": "Kształty kołków",
+      "back": "Walcowy lub stożkowy."
+    },
+    {
+      "front": "Czemu sprężyny zawdzięczają sprężystość?",
+      "back": "Głównie kształtowi (guma i tworzywa – właściwościom materiału)."
+    },
+    {
+      "front": "Resor",
+      "back": "Sprężyna wielopłytowa."
+    },
+    {
+      "front": "Czym łączy się rury rozłącznie?",
+      "back": "Gwintami, kołnierzami, kielichami lub taśmami."
+    },
+    {
+      "front": "Oś – na jakie siły jest narażona?",
+      "back": "Głównie na zginanie; nie przenosi momentu obrotowego."
+    },
+    {
+      "front": "Wał – na jakie siły jest narażony?",
+      "back": "Na skręcanie i zginanie; przenosi moment obrotowy."
+    },
+    {
+      "front": "Przykłady wałów wykorbionych",
+      "back": "Wał korbowy silnika, wał wytrząsaczy młocarni."
+    },
+    {
+      "front": "Przykłady wałów prostych",
+      "back": "WOM ciągnika, wał bębna młocarni, wał przekładni zębatej."
+    },
+    {
+      "front": "Czop",
+      "back": "Odcinek osi lub wału, na którym osadzone są łożyska lub inne części."
+    },
+    {
+      "front": "Dwie grupy łożysk",
+      "back": "Ślizgowe i toczne."
+    },
+    {
+      "front": "Panew",
+      "back": "Gniazdo łożyska ślizgowego, po którym ślizga się czop."
+    },
+    {
+      "front": "Skutek niedostatecznego smarowania łożyska ślizgowego",
+      "back": "Zagrzewa się i szybko zużywa."
+    },
+    {
+      "front": "Gdzie stosuje się łożyska ślizgowe dzielone?",
+      "back": "Na środku wału i na elementach wykorbionych."
+    },
+    {
+      "front": "Tarcie półsuche",
+      "back": "Inaczej graniczne – przy minimalnej ilości smaru."
+    },
+    {
+      "front": "Tarcie płynne",
+      "back": "Powierzchnie całkowicie oddzielone warstwą smaru."
+    },
+    {
+      "front": "Tarcie półpłynne",
+      "back": "Stykają się tylko szczyty nierówności, wgłębienia wypełnia smar."
+    },
+    {
+      "front": "Rola koszyczka w łożysku tocznym",
+      "back": "Zapobiega skupianiu się i nadbieganiu na siebie elementów tocznych."
+    },
+    {
+      "front": "Zalety łożysk tocznych",
+      "back": "Mniejszy współczynnik tarcia, lżejsze konstrukcje, mało smaru, nie wymagają docierania."
+    },
+    {
+      "front": "Wady łożysk tocznych",
+      "back": "Drgania i hałas przy bardzo dużych obciążeniach, słabsze przy dużych średnicach czopów."
+    },
+    {
+      "front": "Łożysko poprzeczne (promieniowe)",
+      "back": "Przenosi siły skierowane promieniowo."
+    },
+    {
+      "front": "Łożysko wzdłużne (osiowe)",
+      "back": "Przenosi siły skierowane osiowo."
+    },
+    {
+      "front": "Łożysko skośne",
+      "back": "Poprzeczno-wzdłużne – przenosi siły promieniowe i osiowe."
+    },
+    {
+      "front": "Funkcje sprzęgieł (poza przenoszeniem momentu)",
+      "back": "Łagodzenie uderzeń, wyrównanie zmian długości wału, ochrona przed przeciążeniem."
+    },
+    {
+      "front": "Sprzęgła sztywne – przykłady",
+      "back": "Tulejowe, łubkowe, tarczowe."
+    },
+    {
+      "front": "Sprzęgło Oldhama",
+      "back": "Sprzęgło samonastawne – przy niedokładnym ustawieniu osi wałów."
+    },
+    {
+      "front": "Sprzęgło Cardana",
+      "back": "Sprzęgło przegubowe – wały o dużym kącie odchylenia osi."
+    },
+    {
+      "front": "Sprzęgło przełączalne asynchronicznie – przykład",
+      "back": "Sprzęgło cierne."
+    },
+    {
+      "front": "Sprzęgło przełączalne synchronicznie – przykład",
+      "back": "Sprzęgło zębate."
+    },
+    {
+      "front": "Sprzęgło odśrodkowe – zastosowanie",
+      "back": "Sprzęgło rozruchowe, np. w kosiarkach trawnikowych."
+    },
+    {
+      "front": "Sprzęgła bezpieczeństwa – przykłady",
+      "back": "Kulkowe, hydrokinetyczne."
+    },
+    {
+      "front": "Sprzęgła jednokierunkowe – przykłady",
+      "back": "Zapadkowe, kołowe jednokierunkowe."
+    },
+    {
+      "front": "Przekładnia prosta vs złożona",
+      "back": "Prosta – dwa wały; złożona – więcej wałów, składa się z przekładni prostych."
+    },
+    {
+      "front": "Od czego zależy przyczepność pasa?",
+      "back": "Od kąta opasania koła i naciągu pasa."
+    },
+    {
+      "front": "Po co stosuje się napinacze w przekładni pasowej?",
+      "back": "Aby zwiększyć kąt opasania i przyczepność pasa."
+    },
+    {
+      "front": "Przekładnia pasowa skrzyżowana",
+      "back": "Koła obracają się w przeciwnych kierunkach, pas się krzyżuje."
+    },
+    {
+      "front": "Łańcuch Galla – zastosowanie",
+      "back": "Rolkowy (sworzniowy) – kombajny ziemniaczane, kopaczki, sadzarki."
+    },
+    {
+      "front": "Łańcuch Everta",
+      "back": "Łańcuch przegubowy, np. w przyczepach samowyładowczych."
+    },
+    {
+      "front": "Kierunek obrotu kół przy zazębieniu zewnętrznym",
+      "back": "Przeciwny (przy wewnętrznym – ten sam)."
+    },
+    {
+      "front": "Przekładnia stożkowa – kiedy?",
+      "back": "Gdy osie wałów przecinają się pod kątem, np. mechanizmy różnicowe."
+    },
+    {
+      "front": "Przekładnia ślimakowa – cechy",
+      "back": "Wały pod kątem prostym, osie się nie przecinają; duża redukcja obrotów, napęd tylko od ślimaka."
+    },
+    {
+      "front": "Przekładnia zębatkowa",
+      "back": "Zamienia ruch obrotowy na postępowy i odwrotnie."
+    },
+    {
+      "front": "Elementy przekładni hydrokinetycznej",
+      "back": "Pompa (wirnik na wale napędzającym), turbina (na wale napędzanym), nieruchoma kierownica."
+    },
+    {
+      "front": "Przełożenie – definicja",
+      "back": "Stosunek prędkości obrotowej wału napędzającego do prędkości wału napędzanego (i = n1/n2)."
+    },
+    {
+      "front": "Przełożenie przekładni wielostopniowej",
+      "back": "Iloczyn przełożeń przekładni prostych."
+    },
+    {
+      "front": "Zależność momentu od prędkości obrotowej w przekładni",
+      "back": "Odwrotnie proporcjonalna."
+    },
+    {
+      "front": "Sprawność przekładni prostej",
+      "back": "η = P2/P1; zawsze mniejsza od 1, ok. 0,95."
+    },
+    {
+      "front": "Łańcuch ogniwowy – zastosowanie",
+      "back": "Przenośniki łańcuchowo-listwowe roztrząsaczy obornika."
+    },
+    {
+      "front": "Co wprawia w ruch turbinę przekładni hydrokinetycznej?",
+      "back": "Napór strumienia cieczy kierowanego siłą odśrodkową przez pompę na łopatki turbiny."
+    },
+    {
+      "front": "Rola kierownicy w przekładni hydrokinetycznej",
+      "back": "Jej nieruchome łopatki stawiają opór wirującej cieczy, zmniejszając prędkość obrotową turbiny względem stałej prędkości pompy."
+    },
+    {
+      "front": "Jakie rodzaje przekładni zębatych pokazano na rysunkach a)–e)?",
+      "back": "a) czołowa o zazębieniu zewnętrznym, b) czołowa o zazębieniu wewnętrznym, c) stożkowa o zębach prostych, d) ślimakowa, e) zębatkowa.",
+      "img": "img/tr3/przekladnie-zebate.jpg"
+    },
+    {
+      "front": "Jakie zabezpieczenia nakrętek pokazano na rysunkach a)–f)?",
+      "back": "a) przeciwnakrętka, b) podkładka sprężysta, c) zawleczka, d) zawleczka i nakrętka koronowa, e) podkładka odginana, f) podkładka i wkręt ustalający.",
+      "img": "img/tr3/zabezpieczenia-nakretek.jpg"
+    },
+    {
+      "front": "Nazwij części łożyska tocznego 1–6 i rodzaje elementów tocznych.",
+      "back": "1 – pierścień zewnętrzny, 2 – bieżnia zewnętrzna, 3 – element toczny, 4 – koszyk, 5 – bieżnia wewnętrzna, 6 – pierścień wewnętrzny. Elementy toczne: kulka, wałeczek walcowy, igiełka, wałeczek stożkowy, baryłka.",
+      "img": "img/tr3/lozysko-toczne-elementy.jpg"
+    },
+    {
+      "front": "Jakie rodzaje spoin pokazano na rysunkach a)–d)?",
+      "back": "a) czołowe, b) pachwinowe, c) otworowe, d) grzbietowe.",
+      "img": "img/tr3/rodzaje-spoin.jpg"
+    },
+    {
+      "front": "Etapy wykonania połączenia nitowego – co oznaczają cyfry 1–5?",
+      "back": "a) nit wsparty na wsporniku, b) wstępne rozklepanie trzonu, c) formowanie zakuwki. 1 – łeb nitu, 2 – trzon nitu, 3 – zakuwka, 4 – zakuwnik, 5 – wspornik.",
+      "img": "img/tr3/nit-wykonanie.jpg"
+    },
+    {
+      "front": "Jakie połączenia sprężyste pokazano na rysunkach a)–f)?",
+      "back": "a) sprężyna płaska płytowa, b) wielopłytowa (resor), c) naciskowa, d) naciągowa, e) spiralna, f) element gumowy.",
+      "img": "img/tr3/polaczenia-sprezyste.jpg"
+    },
+    {
+      "front": "Jak oblicza się przełożenie przekładni pojedynczej?",
+      "back": "i = n1/n2 = D2/D1 = z2/z1 – stosunek prędkości obrotowej wału napędzającego do napędzanego; równy odwrotnemu stosunkowi średnic kół lub liczb zębów.",
+      "img": "img/tr3/wzor-przelozenie.jpg"
+    },
+    {
+      "front": "Jakie połączenie przedstawia rysunek?",
+      "back": "Połączenie sworzniowe – części połączone sworzniem w przelotowym otworze (np. trzypunktowy układ zawieszenia ciągnika).",
+      "img": "img/tr3/polaczenie-sworzniowe.jpg"
+    },
+    {
+      "front": "Jaką przekładnię przedstawia schemat (wirnik pompy, wirnik turbiny, kierownica)?",
+      "back": "Przekładnię hydrokinetyczną – napęd z wału napędzającego na napędzany przekazuje ciecz wirująca w obudowie: pompa wprawia ciecz w ruch, a jej strumień obraca turbinę.",
+      "img": "img/tr3/przekladnia-hydrokinetyczna.jpg"
+    },
+    {
+      "front": "Jakie są trzy układy przekładni pasowych?",
+      "back": "Otwarte (koła w jednej płaszczyźnie, ten sam kierunek obrotu), skrzyżowane (przeciwne kierunki, pas skrzyżowany), półskrzyżowane (wały nierównoległe).",
+      "img": "img/tr3/przekladnie-pasowe-uklady.jpg"
+    },
+    {
+      "front": "Co przedstawia rysunek (walec, punkty M i M1, skok h, πd)?",
+      "back": "Powstawanie linii śrubowej – drogę punktu M na obracającym się walcu: rozwinięcie to równia pochyła o podstawie πd i wysokości równej skokowi h; 1 – walec, 2 – linia śrubowa.",
+      "img": "img/tr3/linia-srubowa.jpg"
+    },
+    {
+      "front": "Oś nieruchoma a oś obrotowa – różnica",
+      "back": "Przy osi nieruchomej element wirujący obraca się względem osi; przy obrotowej obraca się razem z osią względem ramy."
+    },
+    {
+      "front": "Sprzęgło podatne – co umożliwia?",
+      "back": "Dzięki podatnym łącznikom – niewielkie przesunięcie współosiowe lub odchylenie kątowe wałów (np. tarczowe z elementem elastycznym)."
+    },
+    {
+      "front": "Sprzęgło jednokierunkowe – zasada",
+      "back": "Przenosi moment tylko w jednym kierunku; przy ruchu wału napędzającego w przeciwnym kierunku obraca się on swobodnie względem napędzanego (np. zapadkowe)."
+    },
+    {
+      "front": "Kształt ślimaka i ślimacznicy",
+      "back": "Ślimak – kształt śruby; ślimacznica – koło zębate o zębach skośnych."
+    },
+    {
+      "front": "Rodzaje kluczy dynamometrycznych",
+      "back": "Starsze – z przyrządem pomiarowym wskazującym przyłożony moment; obecne – głównie na „klik” lub z wyświetlaczem elektronicznym.",
+      "img": "img/tr3/klucz-dynamometryczny.jpg"
+    },
+    {
+      "front": "Najczęściej stosowane połączenia zgrzewane",
+      "back": "Zakładkowe, nakładkowe, kątowe i stykowe."
+    },
+    {
+      "front": "Połączenia rozłączne najczęściej spotykane w rolnictwie",
+      "back": "Gwintowe (śrubowe), kształtowe (klinowe, wpustowe, wielowypustowe, sworzniowe, kołkowe), sprężyste, rurowe."
+    },
+    {
+      "front": "Elementy składowe osi i wałów",
+      "back": "Czopy, odcinki swobodne, odsadzenia oraz pierścienie i kołnierze."
+    },
+    {
+      "front": "Rodzaje napędów wg źródła energii",
+      "back": "Elektryczny, pneumatyczny, hydrauliczny, mechaniczny, jądrowy."
+    },
+    {
+      "front": "Podział sprzęgieł mechanicznych",
+      "back": "Nierozłączne (sztywne, podatne, samonastawne, przegubowe), sterowane (przełączalne synchronicznie i asynchronicznie), samoczynne (jednokierunkowe, odśrodkowe, bezpieczeństwa)."
+    },
+    {
+      "front": "Podział łożysk tocznych wg liczby rzędów elementów tocznych",
+      "back": "Jednorzędowe, dwurzędowe, wielorzędowe."
+    },
+    {
+      "front": "Rodzaje tarcia ślizgowego",
+      "back": "Suche, półsuche (graniczne), półpłynne, płynne."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Część prosta (konstrukcyjna) to:",
+      "options": [
+        "nit",
+        "łożysko toczne",
+        "pompa",
+        "sprzęgło"
+      ],
+      "answer": 0,
+      "explain": "Części proste wykonane są z jednego kawałka materiału, np. śruba, nakrętka, nit."
+    },
+    {
+      "q": "Podsiewacz i kosz sitowy to podzespoły zespołu:",
+      "options": [
+        "młócącego kombajnu",
+        "żniwnego kombajnu",
+        "napędowego ciągnika",
+        "czyszczącego kombajnu zbożowego"
+      ],
+      "answer": 3,
+      "explain": "W zespole czyszczącym kombajnu podzespołami są podsiewacz i kosz sitowy."
+    },
+    {
+      "q": "Ramy maszyn rolniczych wykonuje się głównie z połączeń:",
+      "options": [
+        "klejonych",
+        "lutowanych",
+        "spawanych",
+        "kołkowych"
+      ],
+      "answer": 2,
+      "explain": "Połączenia spawane w budowie maszyn rolniczych wykorzystuje się głównie przy wykonywaniu ram."
+    },
+    {
+      "q": "Źródłem ciepła w spawaniu elektrycznym jest:",
+      "options": [
+        "płomień acetylenowo-tlenowy",
+        "łuk elektryczny",
+        "prąd indukcyjny",
+        "tarcie"
+      ],
+      "answer": 1,
+      "explain": "W spawaniu łukowym źródłem ciepła jest łuk elektryczny."
+    },
+    {
+      "q": "Połączenie powstałe przez nagrzanie części do stanu ciągliwości i mocne dociśnięcie to połączenie:",
+      "options": [
+        "spawane",
+        "zgrzewane",
+        "lutowane",
+        "nitowe"
+      ],
+      "answer": 1,
+      "explain": "Zgrzewanie polega na miejscowym nagrzaniu do stanu ciągliwości i dociśnięciu."
+    },
+    {
+      "q": "Lutowanie jest szczególnie często stosowane w:",
+      "options": [
+        "elektronice i elektrotechnice",
+        "budowie ram maszyn",
+        "połączeniach wał–piasta",
+        "konstrukcjach mostowych"
+      ],
+      "answer": 0,
+      "explain": "Lutowanie stosuje się w elektronice ze względu na mały opór elektryczny."
+    },
+    {
+      "q": "Połączenie, w którym przed montażem ogrzewa się część zewnętrzną lub schładza wewnętrzną, to połączenie:",
+      "options": [
+        "wtłaczane",
+        "klinowe",
+        "zgrzewane",
+        "skurczowe"
+      ],
+      "answer": 3,
+      "explain": "W połączeniach skurczowych ogrzewa się część zewnętrzną lub schładza wewnętrzną."
+    },
+    {
+      "q": "Skleina to:",
+      "options": [
+        "drugi łeb nitu",
+        "rodzaj spoiny spawanej",
+        "spoina klejowa",
+        "zabezpieczenie nakrętki"
+      ],
+      "answer": 2,
+      "explain": "Klej po stwardnieniu tworzy spoinę klejową zwaną skleiną."
+    },
+    {
+      "q": "Zakuwka w połączeniu nitowym to:",
+      "options": [
+        "łeb wykonany fabrycznie",
+        "narzędzie do zakuwania",
+        "drugi łeb nitu powstały przez spęczanie trzonu",
+        "podkładka pod nit"
+      ],
+      "answer": 2,
+      "explain": "Przez spęczanie końca trzonu tworzy się drugi łeb – zakuwka."
+    },
+    {
+      "q": "Przykładem połączenia nitowego w maszynach rolniczych jest połączenie:",
+      "options": [
+        "WOM z maszyną",
+        "nożyków z płaskownikiem listwy tnącej",
+        "koła zębatego z wałem wielowypustowym",
+        "przewodów hydraulicznych"
+      ],
+      "answer": 1,
+      "explain": "Nitami łączy się m.in. nożyki z płaskownikiem listwy tnącej."
+    },
+    {
+      "q": "Najczęściej spotykanym gwintem jest gwint:",
+      "options": [
+        "prawy",
+        "lewy",
+        "trapezowy niesymetryczny",
+        "rurowy stożkowy"
+      ],
+      "answer": 0,
+      "explain": "Najczęściej spotykany jest gwint prawy."
+    },
+    {
+      "q": "Śruba z łbem z rowkiem do wkrętaka to:",
+      "options": [
+        "śruba dwustronna",
+        "sworzeń",
+        "kołek",
+        "wkręt"
+      ],
+      "answer": 3,
+      "explain": "Śrubę z łbem z rowkiem umożliwiającym wkręcenie wkrętakiem nazywamy wkrętem."
+    },
+    {
+      "q": "Do dokręcania śrub ściśle określonym momentem stosuje się klucz:",
+      "options": [
+        "oczkowy",
+        "widlasty płaski",
+        "nasadowy zwykły",
+        "dynamometryczny"
+      ],
+      "answer": 3,
+      "explain": "Do dokręcania z określonym momentem stosuje się klucze dynamometryczne."
+    },
+    {
+      "q": "Zabezpieczeniem ciernym nakrętki jest:",
+      "options": [
+        "zawleczka z nakrętką koronową",
+        "podkładka odginana",
+        "przeciwnakrętka",
+        "podkładka z wkrętem ustalającym"
+      ],
+      "answer": 2,
+      "explain": "Zabezpieczenia cierne to przeciwnakrętka oraz podkładka sprężysta i podatna."
+    },
+    {
+      "q": "Zawleczka z nakrętką koronową to zabezpieczenie nakrętki:",
+      "options": [
+        "cierne",
+        "kształtowe",
+        "sprężyste",
+        "klejone"
+      ],
+      "answer": 1,
+      "explain": "Zawleczka z nakrętką koronową należy do zabezpieczeń kształtowych."
+    },
+    {
+      "q": "W połączeniu wpustowym moment obrotowy przenoszony jest dzięki:",
+      "options": [
+        "naciskom na ściankach bocznych wpustu",
+        "dociskowi wbitego klina",
+        "tarciu czołowemu piasty",
+        "sile odśrodkowej"
+      ],
+      "answer": 0,
+      "explain": "Moment przenoszą naciski powstające na ściankach bocznych wpustu."
+    },
+    {
+      "q": "Piastę w połączeniu wpustowym zabezpiecza się przed przesuwem wzdłuż wału najczęściej:",
+      "options": [
+        "pierścieniem oporowym",
+        "drugim wpustem",
+        "klinem poprzecznym",
+        "spawem"
+      ],
+      "answer": 0,
+      "explain": "Połączenia wpustowe nie zabezpieczają piasty przed przesuwem – zwykle wystarcza pierścień oporowy."
+    },
+    {
+      "q": "Połączenie WOM ciągnika z maszyną jest przykładem połączenia:",
+      "options": [
+        "klinowego poprzecznego",
+        "nitowego",
+        "skurczowego",
+        "wielowypustowego"
+      ],
+      "answer": 3,
+      "explain": "Połączenia wielowypustowe stosuje się m.in. przy łączeniu WOM ciągnika z maszyną."
+    },
+    {
+      "q": "Połączenia sworzniowe stosuje się w:",
+      "options": [
+        "listwie tnącej",
+        "łożyskach tocznych",
+        "trzypunktowym układzie zawieszenia ciągnika",
+        "przekładniach ślimakowych"
+      ],
+      "answer": 2,
+      "explain": "Sworznie w TUZ umożliwiają przegubowe łączenie narzędzi z ciągnikiem."
+    },
+    {
+      "q": "Połączenia kołkowe stosuje się najczęściej do:",
+      "options": [
+        "przenoszenia dużych momentów",
+        "dokładnego ustalenia wzajemnego położenia części",
+        "uszczelniania rur",
+        "tłumienia drgań"
+      ],
+      "answer": 1,
+      "explain": "Połączenia kołkowe służą głównie do dokładnego ustawienia położenia części."
+    },
+    {
+      "q": "Oś w odróżnieniu od wału:",
+      "options": [
+        "jest narażona na skręcanie",
+        "nie przenosi momentu obrotowego",
+        "zawsze się obraca",
+        "przenosi moment obrotowy"
+      ],
+      "answer": 1,
+      "explain": "Osie nie przenoszą momentów obrotowych i są narażone głównie na zginanie."
+    },
+    {
+      "q": "Wałem wykorbionym jest:",
+      "options": [
+        "wał korbowy silnika",
+        "wał odbioru mocy",
+        "wał bębna młocarni",
+        "wał przekładni zębatej"
+      ],
+      "answer": 0,
+      "explain": "Wały wykorbione to np. wał korbowy silnika i wał wytrząsaczy."
+    },
+    {
+      "q": "Tarcie, przy którym powierzchnie trące są całkowicie oddzielone warstwą smaru, to tarcie:",
+      "options": [
+        "suche",
+        "półsuche",
+        "półpłynne",
+        "płynne"
+      ],
+      "answer": 3,
+      "explain": "Tarcie płynne zachodzi przy całkowitym oddzieleniu powierzchni warstwą smaru."
+    },
+    {
+      "q": "Tarcie graniczne to inaczej tarcie:",
+      "options": [
+        "płynne",
+        "półpłynne",
+        "półsuche",
+        "toczne"
+      ],
+      "answer": 2,
+      "explain": "Tarcie półsuche zwane jest również granicznym."
+    },
+    {
+      "q": "W łożysku tocznym koszyczek:",
+      "options": [
+        "jest osadzony na czopie wału",
+        "stanowi bieżnię zewnętrzną",
+        "zapobiega skupianiu się elementów tocznych",
+        "uszczelnia łożysko"
+      ],
+      "answer": 2,
+      "explain": "Koszyczek zapobiega skupianiu się lub nadbieganiu na siebie elementów tocznych."
+    },
+    {
+      "q": "Wadą łożysk tocznych w porównaniu ze ślizgowymi jest:",
+      "options": [
+        "większy współczynnik tarcia",
+        "skłonność do drgań i hałasu przy bardzo dużych obciążeniach",
+        "konieczność docierania",
+        "duże zużycie smaru"
+      ],
+      "answer": 1,
+      "explain": "Łożyska toczne mają skłonność do generowania drgań i hałasu przy bardzo dużych obciążeniach."
+    },
+    {
+      "q": "Łożysko przenoszące siły promieniowe i osiowe to łożysko:",
+      "options": [
+        "skośne (poprzeczno-wzdłużne)",
+        "poprzeczne",
+        "wzdłużne",
+        "ślizgowe niedzielone"
+      ],
+      "answer": 0,
+      "explain": "Łożyska poprzeczno-wzdłużne (skośne) przenoszą siły promieniowe i osiowe."
+    },
+    {
+      "q": "Sprzęgło Cardana jest sprzęgłem:",
+      "options": [
+        "sztywnym",
+        "samonastawnym",
+        "odśrodkowym",
+        "przegubowym"
+      ],
+      "answer": 3,
+      "explain": "Sprzęgła przegubowe, np. Cardana, łączą wały o dużym kącie odchylenia osi."
+    },
+    {
+      "q": "Sprzęgło cierne jest sprzęgłem:",
+      "options": [
+        "nierozłącznym sztywnym",
+        "jednokierunkowym",
+        "przełączalnym synchronicznie",
+        "przełączalnym asynchronicznie"
+      ],
+      "answer": 3,
+      "explain": "Sprzęgła cierne umożliwiają łączenie wałów przy różnych prędkościach – przełączalne asynchronicznie."
+    },
+    {
+      "q": "Sprzęgło odśrodkowe stosuje się np.:",
+      "options": [
+        "w mechanizmach różnicowych",
+        "do łączenia wałów współosiowych na stałe",
+        "jako sprzęgło rozruchowe w kosiarkach trawnikowych",
+        "w układach kierowniczych"
+      ],
+      "answer": 2,
+      "explain": "Sprzęgła odśrodkowe stosowane są jako rozruchowe, np. w kosiarkach trawnikowych."
+    },
+    {
+      "q": "Przyczepność pasa do koła pasowego zależy od:",
+      "options": [
+        "liczby zębów koła",
+        "kąta opasania i naciągu pasa",
+        "średnicy wału",
+        "kierunku obrotu"
+      ],
+      "answer": 1,
+      "explain": "Przyczepność pasa zależy od kąta opasania koła pasowego i naciągu pasa."
+    },
+    {
+      "q": "Jeżeli koła pasowe mają obracać się w przeciwnych kierunkach, stosuje się przekładnię:",
+      "options": [
+        "skrzyżowaną",
+        "otwartą",
+        "półskrzyżowaną",
+        "łańcuchową"
+      ],
+      "answer": 0,
+      "explain": "Przy przeciwnych kierunkach obrotu pas musi się skrzyżować – przekładnia skrzyżowana."
+    },
+    {
+      "q": "Łańcuchy rolkowe Galla stosuje się np. w:",
+      "options": [
+        "kopaczkach i sadzarkach ziemniaków",
+        "przekładniach ślimakowych",
+        "sprzęgłach kulkowych",
+        "przenośnikach pneumatycznych"
+      ],
+      "answer": 0,
+      "explain": "Przekładnie rolkowe Galla stosuje się w kombajnach ziemniaczanych, kopaczkach i sadzarkach."
+    },
+    {
+      "q": "Przekładnię stożkową stosuje się, gdy osie wałów:",
+      "options": [
+        "są równoległe",
+        "są pod kątem prostym i się nie przecinają",
+        "pokrywają się",
+        "przecinają się pod kątem"
+      ],
+      "answer": 3,
+      "explain": "Przekładnie stożkowe stosuje się, gdy osie wałów przecinają się pod kątem."
+    },
+    {
+      "q": "Przekładnia, która przenosi ruch tylko w jednym kierunku i daje dużą redukcję obrotów, to przekładnia:",
+      "options": [
+        "czołowa",
+        "stożkowa",
+        "ślimakowa",
+        "zębatkowa"
+      ],
+      "answer": 2,
+      "explain": "Przekładnia ślimakowa pozwala na znaczną redukcję obrotów i napęd tylko od ślimaka do ślimacznicy."
+    },
+    {
+      "q": "Przełożenie przekładni to stosunek prędkości obrotowej:",
+      "options": [
+        "wału napędzanego do prędkości wału napędzającego",
+        "wału napędzającego do prędkości wału napędzanego",
+        "koła większego do mniejszego",
+        "silnika do prędkości jazdy"
+      ],
+      "answer": 1,
+      "explain": "Przełożenie to stosunek prędkości obrotowej wału napędzającego do napędzanego."
+    },
+    {
+      "q": "Współczynnik sprawności przekładni prostej wynosi ok.:",
+      "options": [
+        "0,50",
+        "0,95",
+        "1,00",
+        "1,25"
+      ],
+      "answer": 1,
+      "explain": "Sprawność przekładni prostej jest zawsze mniejsza od jedności i wynosi ok. 0,95."
+    },
+    {
+      "q": "W przekładni hydrokinetycznej wirnik osadzony na wale napędzającym nazywa się:",
+      "options": [
+        "pompą",
+        "turbiną",
+        "kierownicą",
+        "ślimacznicą"
+      ],
+      "answer": 0,
+      "explain": "Wirnik na wale napędzającym to pompa, a na wale napędzanym – turbina."
+    },
+    {
+      "q": "W przekładni hydrokinetycznej element połączony na stałe z obudową, którego łopatki stawiają opór wirującej cieczy, to:",
+      "options": [
+        "pompa",
+        "turbina",
+        "ślimacznica",
+        "kierownica"
+      ],
+      "answer": 3,
+      "explain": "Kierownica jest nieruchoma (związana z obudową), a jej łopatki hamują wirującą ciecz, zmniejszając prędkość turbiny."
+    },
+    {
+      "q": "Którą literą oznaczono na rysunku przekładnię ślimakową?",
+      "options": [
+        "d)",
+        "c)",
+        "b)",
+        "e)"
+      ],
+      "answer": 0,
+      "explain": "a) czołowa zewnętrzna, b) czołowa wewnętrzna, c) stożkowa, d) ślimakowa, e) zębatkowa.",
+      "img": "img/tr3/przekladnie-zebate.jpg"
+    },
+    {
+      "q": "Koło napędzające ma 20 zębów, a napędzane 60 zębów. Ile wynosi przełożenie przekładni?",
+      "options": [
+        "3",
+        "0,33",
+        "40",
+        "1200"
+      ],
+      "answer": 0,
+      "explain": "i = z2/z1 = 60/20 = 3 – wał napędzany obraca się 3 razy wolniej (i przenosi 3 razy większy moment).",
+      "img": "img/tr3/wzor-przelozenie.jpg"
+    },
+    {
+      "q": "Przekładnia dwustopniowa ma przełożenia i1 = 2 oraz i2 = 3. Ile wynosi przełożenie całkowite?",
+      "options": [
+        "6",
+        "5",
+        "1,5",
+        "0,67"
+      ],
+      "answer": 0,
+      "explain": "Przełożenie przekładni wielostopniowej to iloczyn przełożeń: ic = i1 · i2 = 2 · 3 = 6.",
+      "img": "img/tr3/wzor-moment-wielostopniowa.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jak nazywamy części, które są ze sobą połączone w celu wykonywania ściśle określonego zadania?",
+      "options": [
+        "Moduł.",
+        "Części złożone.",
+        "Zespół.",
+        "Grupa."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Na jakie rodzaje dzielimy części maszyn?",
+      "options": [
+        "Geometryczne i hierarchiczne.",
+        "Proste i złożone.",
+        "Stałe i ruchome.",
+        "Asymetryczne i symetryczne."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSprzęgło jest częścią ... maszyny.",
+      "options": [
+        "prostą",
+        "złożoną"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Połączenia powstałe poprzez wykorzystanie niezbędnego nacisku w celu połączenia ze sobą części, poprzez ich wzajemne odkształcenie, to:",
+      "options": [
+        "połączenia wyciskowe.",
+        "połączenia spawane.",
+        "połączenia zgrzewane.",
+        "połączenia wciskowe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje połączeń wciskowych.",
+      "options": [
+        "Rozkurczowe.",
+        "Wtłaczane.",
+        "Wytłaczane.",
+        "Skurczowe."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... nazywamy kilka części połączonych z sobą w taki sposób, że poprzez poruszenie jednej części pozostałe wykonują ściśle określony ruch.",
+      "options": [
+        "Mechanizmami",
+        "Zespołami"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż elementy, które wykorzystuje się do połączeń gwintowych.",
+      "options": [
+        "Gwoździe.",
+        "Śruby.",
+        "Wkręty.",
+        "Nakrętki."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTarcie ślizgowe półpłynne zwane również granicznym, zachodzi przy minimalnej ilości smaru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŁożyska toczne są zbudowane w taki sposób, że powierzchnie robocze czopa i gniazda nie stykają się bezpośrednio, lecz za pośrednictwem elementów tocznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż najczęściej spotykane w rolnictwie połączenia rozłączne.",
+      "options": [
+        "Sprężyste.",
+        "Gwintowe.",
+        "Rurowe.",
+        "Kształtowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki rodzaj spawania polega na łączeniu metali poprzez miejscowe ich stopienie w płomieniu gazowym uzyskiwanym z palnika?",
+      "options": [
+        "Mieszane.",
+        "Elektryczne.",
+        "Gazowe.",
+        "Łukowe."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpawanie elektryczne polega na wytworzeniu łuku elektrycznego między elektrodami a przedmiotem spawanym, gdzie łuk elektryczny stanowi źródło ciepła potrzebnego do stopienia metali.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTarcie ślizgowe płynne zachodzi w przypadku całkowitego oddzielenia powierzchni trących warstwą smaru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPołączenia ... to takie, w których elementy łączone lub łączniki ulegają zniszczeniu lub uszkodzeniu przy rozłączeniu.",
+      "options": [
+        "rozłączne",
+        "nierozłączne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywa się łączenie dwóch części metalowych poprzez ich miejscowe stopienie z dodawaniem lub bez dodawania tzw. spoiwa?",
+      "options": [
+        "Spawanie.",
+        "Zgrzewanie.",
+        "Łączenie za pomocą gwoździa.",
+        "Dociskanie."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPołączenia rozłączne to takie, które można rozłączyć bez uszkodzenia elementów łączonych i łączących.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżniamy rodzaje spoin?",
+      "options": [
+        "Otworowe.",
+        "Czołowe.",
+        "Grzbietowe.",
+        "Pachwinowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW miejscu łączenia podczas spawania powstaje ....",
+      "options": [
+        "spoiwo",
+        "spoina"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSpoiwem w spawaniu mogą być ....",
+      "options": [
+        "elektrody",
+        "gwoździe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPołączenia ... wykonuje się poprzez miejscowe nagrzanie łączonych części do stanu ciągliwości i mocnym dociśnięciu ich do siebie.",
+      "options": [
+        "spawane",
+        "zgrzewane"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż, jakie napędy wyróżnia się w zależności od rodzaju źródła energii.",
+      "options": [
+        "Hydrauliczny.",
+        "Pneumatyczny.",
+        "Elektryczny.",
+        "Mechaniczny."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie elementy maszyn są odpowiedzialne za podtrzymywanie osadzonych na nich wałów i osi oraz ustalają ich położenie względem nieruchomej podstawy?",
+      "options": [
+        "Przekładnie.",
+        "Łożyska.",
+        "Czopy.",
+        "Wałki."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak dzielimy tarcie ślizgowe?",
+      "options": [
+        "Suche.",
+        "Półsuche.",
+        "Półpłynne.",
+        "Płynne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPołączenia... polegają na łączeniu dwóch części metalowych za pomocą lutu (spoiwa) z metalu bardziej topliwego niż łączone części – najczęściej jest to cyna. Stopiony lut ściśle przywiera do łączonych powierzchni.",
+      "options": [
+        "zgrzewane",
+        "lutowane"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOś jest to ruchoma lub nieruchoma część maszyny, na której osadzone są inne elementy wykonujące wraz z nią ruchy obrotowe lub wahadłowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady zabezpieczenia nakrętek.",
+      "options": [
+        "Przeciwnakrętka.",
+        "Podkładki odginane.",
+        "Zawleczki.",
+        "Podkładka sprężysta."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie połączenia wykorzystują element o przekroju prostokątnym lub czółenkowym zagłębionym częściowo w obu łączonych elementach?",
+      "options": [
+        "Połączenia klinowe.",
+        "Połączenia wpustowe.",
+        "Połączenia klejone.",
+        "Połączenia wypustowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWadą łożysk tocznych w porównaniu do ślizgowych jest skłonność do generowania drgań i hałasu, również przy bardzo dużych obciążeniach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW nakrętkach wykonany jest gwint ....",
+      "options": [
+        "wewnętrzny",
+        "zewnętrzny"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSprzęgła służą do połączenia dwóch wałów w sposób umożliwiający przenoszenie momentu obrotowego z jednego wału na drugi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Za pomocą czego mogą być połączone rury w połączeniu rurowym?",
+      "options": [
+        "Gwintów.",
+        "Kielichów.",
+        "Kołnierzy.",
+        "Taśm."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzewody połączone ze sobą łącznikami, np. złączkami, kolankami, łukami, trójnikami oraz zaworami, przez które przeprowadzany jest czynnik roboczy to połączenia ....",
+      "options": [
+        "sworzniowe",
+        "rurowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSprzęgła nie mają wpływu na łagodzenie uderzeń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSprzęgła mechaniczne ... są to sprzęgła łączące człon bierny z członem czynnym w sposób trwały, a ich rozłączenie jest możliwe wyłącznie poprzez demontaż sprzęgła.",
+      "options": [
+        "nierozłączne",
+        "samoczynne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzekładnie służą do przekazywania energii mechanicznej od elementu napędzającego do elementu napędzanego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSprzęgła mechaniczne ... mają możliwość złączania lub rozłączania członów składowych sprzęgła przez osoby obsługujące.",
+      "options": [
+        "sterowane",
+        "samoczynne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosunek mocy przenoszonej przez wał napędzany przekładni do mocy przenoszonej przez wał napędzający nazywamy sprawnością przekładni prostej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzełożenie przekładni wielostopniowej jest równe iloczynowi przełożeń przekładni prostych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZmiana prędkości obrotowej powoduje proporcjonalną zmianę przenoszenia momentu obrotowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeżeli w przekładni są tylko ... wały, nazywamy ją przekładnią prostą.",
+      "options": [
+        "dwa",
+        "trzy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzełożenie jest wielkością charakteryzującą każdą przekładnię i jest to stosunek prędkości obrotowej wału napędzającego do prędkości wału napędzanego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Każda przekładnia złożona składa się z ....",
+      "options": [
+        "przekładni prostych",
+        "łożysk prostych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJeżeli koła mają obracać się w przeciwnych kierunkach, pas opasujący je musi się skrzyżować – taką przekładnię nazywamy przekładnią ....",
+      "options": [
+        "krzyżową",
+        "skrzyżowaną"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli obydwa koła pasowe znajdują się w jednej płaszczyźnie i mają taki sam kierunek obrotu, to przekładnię nazywamy przekładnią pasową otwartą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzekładnie... służą do przekazywania napędu między dwoma równoległymi wałami za pomocą kół łańcuchowych i łańcuchów.",
+      "options": [
+        "zębate",
+        "łańcuchowe"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jak inaczej nazywają się części proste maszyn?",
+      "options": [
+        "Konstrukcyjne.",
+        "Budowlane.",
+        "Złożeniowe.",
+        "Montażowe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady części złożonych maszyn.",
+      "options": [
+        "Pompa.",
+        "Koło pasowe.",
+        "Sprzęgło.",
+        "Nit."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż przykłady części prostych maszyn.",
+      "options": [
+        "Nóż.",
+        "Gwóźdź.",
+        "Śruba.",
+        "Pompa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jakich połączeniach elementy łączone lub łączniki ulegają zniszczeniu lub uszkodzeniu przy rozłączeniu?",
+      "options": [
+        "Nierozłącznych.",
+        "Ruchomych.",
+        "Nieruchomych.",
+        "Rozłącznych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMechanizmami nazywamy kilka części połączonych z sobą w taki sposób, że poprzez poruszenie jednej części pozostałe wykonują ściśle określony ruch.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZgrzewanie jest to łączenie dwóch części metalowych poprzez ich miejscowe stopienie z dodawaniem lub bez dodawania tzw. spoiwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Spoiny mogą być wykonane jako tylne, pachwinowe, otworowe i brzuszne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Części, które połączone są ze sobą w celu wykonywania ściśle określonego zadania nazywamy zespołem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW miejscu łączenia spawania powstaje spoiwo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co może być spoiwem?",
+      "options": [
+        "Śruby.",
+        "Drewno.",
+        "Elektrody.",
+        "Materiał pręta spawalniczego."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki rodzaj spawania polega na wytworzeniu łuku elektrycznego między elektrodami a przedmiotem spawanym, gdzie łuk elektryczny stanowi źródło ciepła potrzebnego do stopienia metali.",
+      "options": [
+        "Mieszane.",
+        "Elektryczne.",
+        "Gazowe.",
+        "Łukowe."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpawanie gazowe polega na łączeniu metali poprzez miejscowe ich stopienie w płomieniu gazowym uzyskiwanym z palnika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPołączenia zgrzewane wykonuje się poprzez miejscowe nagrzanie łączonych części do stanu ciągliwości i mocnym dociśnięciu ich do siebie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPołączenia lutowane polegają na łączeniu dwóch części metalowych za pomocą lutu (spoiwa) z metalu bardziej topliwego niż łączone części – najczęściej jest to cyna. Stopiony lut ściśle przywiera do łączonych powierzchni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWśród połączeń wciskowych wyróżniamy wtłaczane i skurczowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPołączenia wyciskowe są połączeniami powstałymi poprzez wykorzystanie niezbędnego nacisku w celu połączenia ze sobą części, poprzez ich wzajemne odkształcenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie połączenie można rozłączyć bez uszkodzenia elementów łączonych i łączących?",
+      "options": [
+        "Połączenie łączeniowe.",
+        "Połączenia rozdzielne.",
+        "Połączenia rozłączne.",
+        "Połączenia łączne."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie najczęściej spotyka się następujące połączenia rozłączne: gwintowe, kształtowe, sprężyste i rurowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo połączeń gwintowych wykorzystuje się śruby, nakrętki i wkręty.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAby nie dopuścić do tego, by śruby same się odkręciły, stosuje się rozmaite zabezpieczenia nakrętek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa śrubach i wkrętach wykonany jest gwint zewnętrzny a w nakrętkach gwint wewnętrzny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRury w połączeniu rurowym są ze sobą połączone w sposób rozłączny za pomocą gwintów, kołnierzy, kielichów lub taśm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady zabezpieczenia nakrętek.",
+      "options": [
+        "Podkładka podatna.",
+        "Koronowa podkładka i wkręt ustalający.",
+        "Przeciwnakrętka.",
+        "Zawleczka i nakrętka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPołączenia wpustowe wykorzystują element o przekroju prostokątnym lub czółenkowym zagłębionym częściowo w obu łączonych elementach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są zalety łożysk tocznych w porównaniu ze ślizgowymi?",
+      "options": [
+        "Nie muszą też być docierane.",
+        "Mają one mniejszy współczynnik tarcia.",
+        "Umożliwiają uzyskanie konstrukcji bardziej zwartych i lżejszych.",
+        "Wymagają małej ilości smarów oraz prostych układów smarowania."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od rodzaju źródła energii wyróżnia się m.in. napęd elektryczny, pneumatyczny, hydrauliczny, mechaniczny, jądrowy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przewody połączone ze sobą łącznikami, np. złączkami, kolankami, łukami, trójnikami oraz zaworami, przez które przeprowadzany jest czynnik roboczy, to połączenia:",
+      "options": [
+        "sprężyste.",
+        "rurowe.",
+        "sworzniowe.",
+        "kołkowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOsie są to części maszyn, na których obracają się inne elementy, np. koła jezdne, koła zębate itp.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŁożyska są elementami maszyn odpowiedzialnymi za podtrzymywanie osadzonych na nich wałów i osi oraz ustalającymi ich położenie względem nieruchomej podstawy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTarcie ślizgowe suche jest wtedy gdy między powierzchniami trącymi nie ma smaru.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSprzęgła mechaniczne nierozłączne są to sprzęgła łączące człon bierny z członem czynnym w sposób trwały, a ich rozłączenie jest możliwe wyłącznie poprzez demontaż sprzęgła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie funkcje pełni sprzęgło?",
+      "options": [
+        "Służą do połączenia dwóch wałów w sposób umożliwiający przenoszenie momentu obrotowego z jednego wału na drugi.",
+        "Wyrównanie zmiany długości wału wskutek zmian temperatury.",
+        "Łagodzenie uderzeń.",
+        "Zabezpieczanie mechanizmów napędowych przed przeciążeniami."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSprzęgła służą do przekazywania energii mechanicznej od elementu napędzającego do napędzanego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli w przekładni są tylko dwa wały, nazywamy ją przekładnią prostą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKażda przekładnia złożona składa się z przekładni prostych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

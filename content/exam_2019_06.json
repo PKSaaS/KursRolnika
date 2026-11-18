@@ -1,0 +1,673 @@
+{
+  "id": "exam_2019_06",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz czerwiec 2019",
+  "number": "2019/06",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Wysiew ziarna zbóż na glebach ciężkich, przy zbyt dużej wilgotności gleby, może powodować",
+      "back": "rozwój zgorzeli siewek."
+    },
+    {
+      "front": "Przyczyną nierównomiernego uziarnienia kolb kukurydzy przedstawionych na ilustracji może być",
+      "back": "brak opadów i wysokie temperatury w okresie kwitnienia.",
+      "img": "img/exam_2019_06/zad2.jpg"
+    },
+    {
+      "front": "W gospodarstwach położonych na glebach lekkich i lekko kwaśnych, w których prowadzona jest produkcja miodu, rośliną odpowiednią do uprawy jest",
+      "back": "gryka."
+    },
+    {
+      "front": "Która roślina jest najlepszym przedplonem w uprawie rzepaku? (Przedplony dla rzepaku: dobre – motylkowate drobnonasienne i strączkowe, ziemniaki na wczesny zbiór; zadowalające – jęczmień ozimy, żyto, rzepak ozimy; niedopuszczalne – gorczyca, słonecznik, buraki)",
+      "back": "Koniczyna czerwona."
+    },
+    {
+      "front": "Optymalnym terminem stosowania wapna nawozowego w uprawie bobiku po pszenicy jarej jest wykonanie zabiegu w okresie zespołu uprawek",
+      "back": "pożniwnych."
+    },
+    {
+      "front": "Stosowanie do siewu nasion bobiku samokończącego ma na celu",
+      "back": "osiągnięcie wcześniejszego dojrzewania roślin."
+    },
+    {
+      "front": "W przypadku opóźnionego terminu siewu pszenicy ozimej należy",
+      "back": "zwiększyć normę wysiewu nasion."
+    },
+    {
+      "front": "Przy planowaniu ścieżek technologicznych podczas siewu zbóż należy wziąć pod uwagę",
+      "back": "szerokość roboczą siewnika i opryskiwacza."
+    },
+    {
+      "front": "Orka głęboka jest zabiegiem wykonywanym w zespole uprawek",
+      "back": "przedzimowych."
+    },
+    {
+      "front": "Chwast przedstawiony na ilustracji to",
+      "back": "fiołek polny.",
+      "img": "img/exam_2019_06/zad10.jpg"
+    },
+    {
+      "front": "Do chemicznej ochrony roślin przed mszycami stosuje się",
+      "back": "insektycydy."
+    },
+    {
+      "front": "Który pług stosuje się do orki gleb zadarnionych, zakorzenionych i z dużą ilością kamieni?",
+      "back": "[A: pług talerzowy]",
+      "img": "img/exam_2019_06/zad12.jpg"
+    },
+    {
+      "front": "W kosiarkach rotacyjnych bębnowych zmianę wysokości koszenia, z mniejszej na większą, można uzyskać poprzez",
+      "back": "założenie dodatkowych pierścieni dystansowych."
+    },
+    {
+      "front": "W gospodarstwie rolnym, w którym ilość wyprodukowanego obornika przekroczy dawkę 170 kg N/ha użytków rolnych, rolnik powinien",
+      "back": "zmniejszyć obsadę zwierząt."
+    },
+    {
+      "front": "Zaświadczenie dla rolnika uprawniające do stosowania środków ochrony roślin, wydane w dniu 20.02.2018 roku, zachowuje ważność do dnia",
+      "back": "20.02.2023 r."
+    },
+    {
+      "front": "Najniższe straty jakościowe podczas produkcji i przechowywania kiszonki powstają w silosach (Straty białka / skrobi: wieżowy gazoszczelny 2,0/3,0%; wieżowy otwarty 9,6/8,2%; przejazdowy 9,7/8,6%; komorowy 7,8/7,3%)",
+      "back": "wieżowych gazoszczelnych."
+    },
+    {
+      "front": "Rolnik ryczałtowy przy sprzedaży podatnikowi VAT wytworzonych produktów pochodzenia roślinnego ma obowiązek",
+      "back": "żądania faktury VAT RR od nabywcy jego produktów."
+    },
+    {
+      "front": "Na schemacie rozmieszczenia narządów wewnętrznych w budowie krowy strzałką oznaczono",
+      "back": "żołądek.",
+      "img": "img/exam_2019_06/zad18.jpg"
+    },
+    {
+      "front": "W organizmach zwierząt funkcje przedstawione na schemacie (utrzymanie stałej temperatury organizmu, transport substancji potrzebnych komórkom – dwutlenku węgla, tlenu, składników pokarmowych – oraz obrona organizmu przed wirusami i bakteriami) spełnia układ",
+      "back": "krwionośny.",
+      "img": "img/exam_2019_06/zad19.jpg"
+    },
+    {
+      "front": "W okresie 305-dniowej laktacji najwyższą wydajność mleczną krowy osiągają",
+      "back": "w drugim miesiącu po wycieleniu."
+    },
+    {
+      "front": "Ilustracja przedstawia kozę w typie użytkowym",
+      "back": "mięsnym.",
+      "img": "img/exam_2019_06/zad21.jpg"
+    },
+    {
+      "front": "Ilustracja przedstawia krowę rasy",
+      "back": "Hereford.",
+      "img": "img/exam_2019_06/zad22.jpg"
+    },
+    {
+      "front": "Do produkcji wełny mieszanej odpowiednią rasą owiec jest",
+      "back": "wrzosówka."
+    },
+    {
+      "front": "Ziarno przedstawione na ilustracji należy do pasz",
+      "back": "treściwych energetycznych.",
+      "img": "img/exam_2019_06/zad24.jpg"
+    },
+    {
+      "front": "Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy maksymalnie można podać krowie ważącej 600 kg, jeżeli dzienne zapotrzebowanie na suchą masę wynosi 3,5% jej masy ciała.",
+      "back": "70 kg"
+    },
+    {
+      "front": "W gospodarstwie prowadzona jest produkcja tuczników w cyklu otwartym od 30 kg do 110 kg. Średnie zużycie paszy przez jednego tucznika w okresie tuczu wynosi 245 kg. Oceń efektywność tuczu. (Zużycie paszy na 1 kg masy ciała (przyrostu): do 3,0 kg – bardzo dobra; 3,0-3,5 kg – dobra; 3,6-4,0 kg – dostateczna; 4,1-4,5 kg – dopuszczająca)",
+      "back": "Dobra."
+    },
+    {
+      "front": "W gospodarstwach o dużym udziale trwałych użytków zielonych podstawową paszą stosowaną w opasie bydła jest",
+      "back": "sianokiszonka z traw."
+    },
+    {
+      "front": "Pokazany na ilustracji sprzęt potrzebny jest w chowie bydła do",
+      "back": "korekcji racic.",
+      "img": "img/exam_2019_06/zad28.jpg"
+    },
+    {
+      "front": "Na podstawie kalendarza pokryć i wyproszeń ustal datę przeprowadzenia lochy inseminowanej 22 lutego do kojca porodowego, w terminie siedmiu dni przed spodziewanym porodem. (Kalendarz: inseminacja 21 lutego – wyproszenie 16.06; 22 lutego – 17.06; 23 lutego – 28.06)",
+      "back": "10 czerwca"
+    },
+    {
+      "front": "Oblicz ilość potrzebnego preparatu do wykonania suchej dezynfekcji ściółki w kojcu porodowym o powierzchni 3,5 m² dla lochy, jeżeli optymalna dawka preparatu wynosi 100 g/1 m² podłogi.",
+      "back": "350 g"
+    },
+    {
+      "front": "W celu ograniczenia kanibalizmu i pterofagii w hodowli drobiu zaleca się pomalowanie szyb w oknach i stosowanie żarówek do oświetlenia pomieszczeń w kolorze",
+      "back": "czerwonym."
+    },
+    {
+      "front": "Minimalne warunki utrzymywania kóz: powierzchnia wybiegu na jedną kozę powinna wynosić co najmniej 4 m², a w przypadku kozłów co najmniej 6 m². Oblicz minimalną powierzchnię wybiegu dla stada 20 szt. kóz i dwóch kozłów zapewniającą dobrostan zwierząt.",
+      "back": "92 m²"
+    },
+    {
+      "front": "Znakowanie kolczykami nowonarodzonych cieląt należy wykonać najpóźniej",
+      "back": "do 7 dni po urodzeniu cielęcia."
+    },
+    {
+      "front": "W gospodarstwie ekologicznym dozwolone jest w żywieniu trzody chlewnej stosowanie",
+      "back": "mączek rybnych."
+    },
+    {
+      "front": "Skutecznym sposobem ograniczenia liczby komórek somatycznych w mleku krów jest",
+      "back": "wykonywanie bezpośrednio po doju dezynfekcji strzyków."
+    },
+    {
+      "front": "Przy sprzedaży jałówki hodowlanej dokumentem potwierdzającym pochodzenie zwierzęcia jest",
+      "back": "świadectwo rodowodowe."
+    },
+    {
+      "front": "Poidło przedstawione na ilustracji przeznaczone jest do pojenia",
+      "back": "piskląt.",
+      "img": "img/exam_2019_06/zad37.jpg"
+    },
+    {
+      "front": "Przenośnik przedstawiony na ilustracji ma zastosowanie w gospodarstwie rolnym do",
+      "back": "transportu ziarna zbóż w silosach.",
+      "img": "img/exam_2019_06/zad38.jpg"
+    },
+    {
+      "front": "Na podstawie podanych założeń oblicz wydatek cieczy z jednego rozpylacza: Q – zaplanowany wydatek cieczy = 200 l/ha, V – prędkość jazdy = 6 km/h, s – rozstaw rozpylaczy na belce = 0,5 m; q = Q × V × s / 600.",
+      "back": "1,0 l/min"
+    },
+    {
+      "front": "W celu przygotowania pługa do przechowywania, po zakończonym sezonie roboczym, należy powierzchnie robocze oczyścić i zabezpieczyć",
+      "back": "smarem konserwacyjnym."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wysiew ziarna zbóż na glebach ciężkich, przy zbyt dużej wilgotności gleby, może powodować",
+      "options": [
+        "rozwój zgorzeli siewek.",
+        "zwiększenie obsady roślin.",
+        "skrócenie okresu wschodów.",
+        "wykształcenie zbyt dużej liczby korzeni zarodkowych."
+      ],
+      "answer": 0,
+      "explain": "W zimnej, mokrej i zbitej glebie kiełki rosną wolno i łatwo są atakowane przez grzyby powodujące zgorzel siewek.",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Przyczyną nierównomiernego uziarnienia kolb kukurydzy przedstawionych na ilustracji może być",
+      "options": [
+        "zwiększenie ilości wysiewu i obsady roślin.",
+        "brak opadów i wysokie temperatury w okresie kwitnienia.",
+        "stosowanie systemu dzielonych dawek nawozów azotowych.",
+        "nadmiar boru przy jednoczesnym niedoborze fosforu oraz potasu."
+      ],
+      "answer": 1,
+      "explain": "Susza i upał w czasie kwitnienia zaburzają zapylenie, więc kolby są słabo i nierówno zaziarnione.",
+      "src": "Zad. 2",
+      "img": "img/exam_2019_06/zad2.jpg"
+    },
+    {
+      "q": "W gospodarstwach położonych na glebach lekkich i lekko kwaśnych, w których prowadzona jest produkcja miodu, rośliną odpowiednią do uprawy jest",
+      "options": [
+        "gryka.",
+        "bobik.",
+        "rzepak.",
+        "lucerna."
+      ],
+      "answer": 0,
+      "explain": "Gryka jest rośliną miododajną o małych wymaganiach, dobrze znoszącą gleby lekkie i kwaśne.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Która roślina jest najlepszym przedplonem w uprawie rzepaku? (Przedplony dla rzepaku: dobre – motylkowate drobnonasienne i strączkowe, ziemniaki na wczesny zbiór; zadowalające – jęczmień ozimy, żyto, rzepak ozimy; niedopuszczalne – gorczyca, słonecznik, buraki)",
+      "options": [
+        "Rzepak ozimy.",
+        "Buraki cukrowe.",
+        "Jęczmień ozimy.",
+        "Koniczyna czerwona."
+      ],
+      "answer": 3,
+      "explain": "Według tabeli dobrym przedplonem są motylkowate drobnonasienne – z podanych to koniczyna czerwona.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Optymalnym terminem stosowania wapna nawozowego w uprawie bobiku po pszenicy jarej jest wykonanie zabiegu w okresie zespołu uprawek",
+      "options": [
+        "pożniwnych.",
+        "pielęgnacyjnych.",
+        "przedsiewnych jesiennych.",
+        "przedsiewnych wiosennych."
+      ],
+      "answer": 0,
+      "explain": "Wapno najlepiej wysiać po żniwach (na ściernisko) i wymieszać z glebą w ramach uprawek pożniwnych.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Stosowanie do siewu nasion bobiku samokończącego ma na celu",
+      "options": [
+        "wydłużenie okresu wegetacji.",
+        "osiągnięcie wyższego plonu nasion.",
+        "osiągnięcie wcześniejszego dojrzewania roślin.",
+        "zmniejszenie porażenia przez choroby grzybowe."
+      ],
+      "answer": 2,
+      "explain": "Odmiany samokończące kończą wzrost wierzchołkowy, więc dojrzewają wcześniej i bardziej równomiernie.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "W przypadku opóźnionego terminu siewu pszenicy ozimej należy",
+      "options": [
+        "zmniejszyć obsadę roślin.",
+        "zwiększyć normę wysiewu nasion.",
+        "zmniejszyć ilość wysiewanych nasion na hektar.",
+        "zachować standardową normę wysiewu nasion dla terminu optymalnego."
+      ],
+      "answer": 1,
+      "explain": "Przy późnym siewie rośliny słabiej się krzewią, dlatego zwiększa się normę wysiewu.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Przy planowaniu ścieżek technologicznych podczas siewu zbóż należy wziąć pod uwagę",
+      "options": [
+        "jakość gleby na polu.",
+        "wielkość rozstawy redlic w siewniku.",
+        "szerokość roboczą siewnika i opryskiwacza.",
+        "szerokość roboczą kombajnu do zbioru roślin."
+      ],
+      "answer": 2,
+      "explain": "Rozstaw ścieżek odpowiada szerokości opryskiwacza (rozsiewacza) i musi być jej wielokrotnością względem szerokości siewnika.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Orka głęboka jest zabiegiem wykonywanym w zespole uprawek",
+      "options": [
+        "pożniwnych.",
+        "przedzimowych.",
+        "pielęgnacyjnych.",
+        "przedsiewnych jesiennych."
+      ],
+      "answer": 1,
+      "explain": "Orka głęboka (zimówka) to zabieg uprawek przedzimowych pod rośliny jare.",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Chwast przedstawiony na ilustracji to",
+      "options": [
+        "fiołek polny.",
+        "komosa biała.",
+        "tasznik pospolity.",
+        "żółtlica drobnokwiatowa."
+      ],
+      "answer": 0,
+      "explain": "Drobne kremowo-żółte kwiaty w kształcie bratka ma fiołek polny.",
+      "src": "Zad. 10",
+      "img": "img/exam_2019_06/zad10.jpg"
+    },
+    {
+      "q": "Do chemicznej ochrony roślin przed mszycami stosuje się",
+      "options": [
+        "fungicydy.",
+        "herbicydy.",
+        "insektycydy.",
+        "nematocydy."
+      ],
+      "answer": 2,
+      "explain": "Mszyce to owady, więc zwalcza się je insektycydami.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Który pług stosuje się do orki gleb zadarnionych, zakorzenionych i z dużą ilością kamieni?",
+      "options": [
+        "[A: pług talerzowy]",
+        "[B: pług lemieszowy wieloskibowy z kołem podporowym]",
+        "[C: pług obracalny]",
+        "[D: pług jednoskibowy lemieszowy]"
+      ],
+      "answer": 0,
+      "explain": "Talerze pługa talerzowego toczą się i przecinają darń i korzenie, przetaczając się po kamieniach bez uszkodzeń.",
+      "src": "Zad. 12",
+      "img": "img/exam_2019_06/zad12.jpg"
+    },
+    {
+      "q": "W kosiarkach rotacyjnych bębnowych zmianę wysokości koszenia, z mniejszej na większą, można uzyskać poprzez",
+      "options": [
+        "zmianę prędkości obrotowej bębnów.",
+        "wymontowanie pierścieni dystansowych.",
+        "regulację odległości talerzy względem siebie.",
+        "założenie dodatkowych pierścieni dystansowych."
+      ],
+      "answer": 3,
+      "explain": "Dodatkowe pierścienie dystansowe pod talerzami podnoszą bębny, więc koszenie jest wyższe.",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "W gospodarstwie rolnym, w którym ilość wyprodukowanego obornika przekroczy dawkę 170 kg N/ha użytków rolnych, rolnik powinien",
+      "options": [
+        "zmniejszyć obsadę zwierząt.",
+        "wprowadzić dodatkowy plan nawożenia.",
+        "zwiększyć dawkę nawożenia roślin obornikiem.",
+        "zmienić system utrzymania zwierząt na bezściołowy."
+      ],
+      "answer": 0,
+      "explain": "Limit 170 kg N/ha z nawozów naturalnych wynika z obsady zwierząt; przy przekroczeniu trzeba zmniejszyć obsadę (albo zbyć nadwyżkę nawozu).",
+      "src": "Zad. 14"
+    },
+    {
+      "q": "Zaświadczenie dla rolnika uprawniające do stosowania środków ochrony roślin, wydane w dniu 20.02.2018 roku, zachowuje ważność do dnia",
+      "options": [
+        "20.08.2018 r.",
+        "20.02.2019 r.",
+        "20.02.2021 r.",
+        "20.02.2023 r."
+      ],
+      "answer": 3,
+      "explain": "Zaświadczenie o ukończeniu szkolenia z ochrony roślin jest ważne 5 lat: 20.02.2018 + 5 lat = 20.02.2023.",
+      "src": "Zad. 15"
+    },
+    {
+      "q": "Najniższe straty jakościowe podczas produkcji i przechowywania kiszonki powstają w silosach (Straty białka / skrobi: wieżowy gazoszczelny 2,0/3,0%; wieżowy otwarty 9,6/8,2%; przejazdowy 9,7/8,6%; komorowy 7,8/7,3%)",
+      "options": [
+        "komorowych.",
+        "przejazdowych.",
+        "wieżowych otwartych.",
+        "wieżowych gazoszczelnych."
+      ],
+      "answer": 3,
+      "explain": "W silosie wieżowym gazoszczelnym straty białka (2,0%) i skrobi (3,0%) są najmniejsze.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Rolnik ryczałtowy przy sprzedaży podatnikowi VAT wytworzonych produktów pochodzenia roślinnego ma obowiązek",
+      "options": [
+        "wystawić fakturę VAT.",
+        "posiadać konto w banku.",
+        "prowadzić ewidencję sprzedaży i zakupów.",
+        "żądania faktury VAT RR od nabywcy jego produktów."
+      ],
+      "answer": 3,
+      "explain": "Rolnik ryczałtowy nie wystawia faktur – to nabywca wystawia fakturę VAT RR, której rolnik powinien żądać.",
+      "src": "Zad. 17"
+    },
+    {
+      "q": "Na schemacie rozmieszczenia narządów wewnętrznych w budowie krowy strzałką oznaczono",
+      "options": [
+        "serce.",
+        "nerki.",
+        "płuca.",
+        "żołądek."
+      ],
+      "answer": 3,
+      "explain": "Największą część jamy brzusznej krowy wypełnia żołądek wielokomorowy (głównie żwacz).",
+      "src": "Zad. 18",
+      "img": "img/exam_2019_06/zad18.jpg"
+    },
+    {
+      "q": "W organizmach zwierząt funkcje przedstawione na schemacie (utrzymanie stałej temperatury organizmu, transport substancji potrzebnych komórkom – dwutlenku węgla, tlenu, składników pokarmowych – oraz obrona organizmu przed wirusami i bakteriami) spełnia układ",
+      "options": [
+        "wydalniczy.",
+        "oddechowy.",
+        "krwionośny.",
+        "pokarmowy."
+      ],
+      "answer": 2,
+      "explain": "Krew transportuje gazy i składniki pokarmowe, rozprowadza ciepło i zawiera komórki odpornościowe – to układ krwionośny.",
+      "src": "Zad. 19",
+      "img": "img/exam_2019_06/zad19.jpg"
+    },
+    {
+      "q": "W okresie 305-dniowej laktacji najwyższą wydajność mleczną krowy osiągają",
+      "options": [
+        "w szóstym miesiącu laktacji.",
+        "bezpośrednio po wycieleniu.",
+        "dwa tygodnie przed zasuszeniem.",
+        "w drugim miesiącu po wycieleniu."
+      ],
+      "answer": 3,
+      "explain": "Szczyt laktacji przypada na ok. 6-8 tydzień po wycieleniu, czyli drugi miesiąc.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Ilustracja przedstawia kozę w typie użytkowym",
+      "options": [
+        "mięsnym.",
+        "mlecznym.",
+        "wełnistym.",
+        "puchowym."
+      ],
+      "answer": 0,
+      "explain": "Koza burska o zwartej, umięśnionej budowie to rasa mięsna.",
+      "src": "Zad. 21",
+      "img": "img/exam_2019_06/zad21.jpg"
+    },
+    {
+      "q": "Ilustracja przedstawia krowę rasy",
+      "options": [
+        "Hereford.",
+        "Charolaise.",
+        "Limousine.",
+        "Piemontese."
+      ],
+      "answer": 0,
+      "explain": "Czerwone umaszczenie z białą głową to cecha rasy hereford.",
+      "src": "Zad. 22",
+      "img": "img/exam_2019_06/zad22.jpg"
+    },
+    {
+      "q": "Do produkcji wełny mieszanej odpowiednią rasą owiec jest",
+      "options": [
+        "wrzosówka.",
+        "merynos polski.",
+        "polska owca nizinna.",
+        "polska owca długowełnista."
+      ],
+      "answer": 0,
+      "explain": "Wrzosówka ma wełnę mieszaną (puch z włosem rdzeniowym), cenioną na kożuchy; merynos daje wełnę cienką, jednolitą.",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Ziarno przedstawione na ilustracji należy do pasz",
+      "options": [
+        "treściwych białkowych.",
+        "objętościowych suchych.",
+        "treściwych energetycznych.",
+        "objętościowych soczystych."
+      ],
+      "answer": 2,
+      "explain": "Ziarno kukurydzy jest bogate w skrobię – to pasza treściwa energetyczna.",
+      "src": "Zad. 24",
+      "img": "img/exam_2019_06/zad24.jpg"
+    },
+    {
+      "q": "Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy maksymalnie można podać krowie ważącej 600 kg, jeżeli dzienne zapotrzebowanie na suchą masę wynosi 3,5% jej masy ciała.",
+      "options": [
+        "21 kg",
+        "30 kg",
+        "45 kg",
+        "70 kg"
+      ],
+      "answer": 3,
+      "explain": "600 kg × 3,5% = 21 kg s.m.; 21 kg : 0,30 = 70 kg kiszonki.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "W gospodarstwie prowadzona jest produkcja tuczników w cyklu otwartym od 30 kg do 110 kg. Średnie zużycie paszy przez jednego tucznika w okresie tuczu wynosi 245 kg. Oceń efektywność tuczu. (Zużycie paszy na 1 kg masy ciała (przyrostu): do 3,0 kg – bardzo dobra; 3,0-3,5 kg – dobra; 3,6-4,0 kg – dostateczna; 4,1-4,5 kg – dopuszczająca)",
+      "options": [
+        "Dobra.",
+        "Dostateczna.",
+        "Bardzo dobra.",
+        "Dopuszczająca."
+      ],
+      "answer": 0,
+      "explain": "Przyrost 110 − 30 = 80 kg; 245 kg : 80 kg ≈ 3,06 kg/kg, czyli ocena dobra.",
+      "src": "Zad. 26"
+    },
+    {
+      "q": "W gospodarstwach o dużym udziale trwałych użytków zielonych podstawową paszą stosowaną w opasie bydła jest",
+      "options": [
+        "kiszonka GPS.",
+        "sianokiszonka z traw.",
+        "kiszonka z kukurydzy.",
+        "kiszonka z prasowanych wysłodków buraczanych."
+      ],
+      "answer": 1,
+      "explain": "Z łąk i pastwisk pozyskuje się trawy, z których robi się sianokiszonkę.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Pokazany na ilustracji sprzęt potrzebny jest w chowie bydła do",
+      "options": [
+        "korekcji racic.",
+        "pomocy przy porodach krów.",
+        "pomocy przy wzdęciach żwacza.",
+        "obcinania rogów u dorosłych osobników."
+      ],
+      "answer": 0,
+      "explain": "Nóż do racic, cęgi, tarnik i tarcza do szlifierki to zestaw do korekcji racic.",
+      "src": "Zad. 28",
+      "img": "img/exam_2019_06/zad28.jpg"
+    },
+    {
+      "q": "Na podstawie kalendarza pokryć i wyproszeń ustal datę przeprowadzenia lochy inseminowanej 22 lutego do kojca porodowego, w terminie siedmiu dni przed spodziewanym porodem. (Kalendarz: inseminacja 21 lutego – wyproszenie 16.06; 22 lutego – 17.06; 23 lutego – 28.06)",
+      "options": [
+        "10 czerwca",
+        "17 czerwca",
+        "01 lipca",
+        "11 sierpnia"
+      ],
+      "answer": 0,
+      "explain": "Inseminacja 22 lutego – wyproszenie 17 czerwca; 7 dni wcześniej to 10 czerwca.",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Oblicz ilość potrzebnego preparatu do wykonania suchej dezynfekcji ściółki w kojcu porodowym o powierzchni 3,5 m² dla lochy, jeżeli optymalna dawka preparatu wynosi 100 g/1 m² podłogi.",
+      "options": [
+        "100 g",
+        "350 g",
+        "700 g",
+        "1 000 g"
+      ],
+      "answer": 1,
+      "explain": "3,5 m² × 100 g/m² = 350 g.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "W celu ograniczenia kanibalizmu i pterofagii w hodowli drobiu zaleca się pomalowanie szyb w oknach i stosowanie żarówek do oświetlenia pomieszczeń w kolorze",
+      "options": [
+        "białym.",
+        "zielonym.",
+        "niebieskim.",
+        "czerwonym."
+      ],
+      "answer": 3,
+      "explain": "W czerwonym świetle ptaki nie widzą krwi i są spokojniejsze, co ogranicza wydziobywanie piór i kanibalizm.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Minimalne warunki utrzymywania kóz: powierzchnia wybiegu na jedną kozę powinna wynosić co najmniej 4 m², a w przypadku kozłów co najmniej 6 m². Oblicz minimalną powierzchnię wybiegu dla stada 20 szt. kóz i dwóch kozłów zapewniającą dobrostan zwierząt.",
+      "options": [
+        "12 m²",
+        "68 m²",
+        "80 m²",
+        "92 m²"
+      ],
+      "answer": 3,
+      "explain": "20 × 4 m² + 2 × 6 m² = 80 + 12 = 92 m².",
+      "src": "Zad. 32"
+    },
+    {
+      "q": "Znakowanie kolczykami nowonarodzonych cieląt należy wykonać najpóźniej",
+      "options": [
+        "do 180 dni od urodzenia.",
+        "do 7 dni po urodzeniu cielęcia.",
+        "w ciągu 24 godzin po urodzeniu.",
+        "do końca drugiego tygodnia życia."
+      ],
+      "answer": 1,
+      "explain": "Cielęta oznakowuje się kolczykami najpóźniej w ciągu 7 dni od urodzenia.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "W gospodarstwie ekologicznym dozwolone jest w żywieniu trzody chlewnej stosowanie",
+      "options": [
+        "mączek rybnych.",
+        "stymulatorów wzrostu.",
+        "pasz z roślin genetycznie modyfikowanych.",
+        "syntetycznych zamienników pasz naturalnych."
+      ],
+      "answer": 0,
+      "explain": "Mączka rybna jako pasza naturalnego pochodzenia jest dopuszczona w żywieniu ekologicznym świń; stymulatory, GMO i syntetyki – nie.",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Skutecznym sposobem ograniczenia liczby komórek somatycznych w mleku krów jest",
+      "options": [
+        "wykonywanie bezpośrednio po doju dezynfekcji strzyków.",
+        "przechowywanie mleka po udoju w szczelnie zamkniętych zbiornikach.",
+        "stosowanie metody natychmiastowego zasuszania krów bez użycia antybiotyków.",
+        "po zakończeniu doju w ciągu dwóch godzin schłodzenie mleka do temperatury 3-5°C."
+      ],
+      "answer": 0,
+      "explain": "Dezynfekcja strzyków po doju chroni przed wnikaniem bakterii i zapaleniem wymienia, które podnosi liczbę komórek somatycznych.",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "Przy sprzedaży jałówki hodowlanej dokumentem potwierdzającym pochodzenie zwierzęcia jest",
+      "options": [
+        "Karta Jałówki – Krowy.",
+        "świadectwo rodowodowe.",
+        "raport z próbnego doju RW-2.",
+        "karta wsadowa księgi rejestracji bydła."
+      ],
+      "answer": 1,
+      "explain": "Pochodzenie zwierzęcia hodowlanego potwierdza świadectwo rodowodowe (świadectwo pochodzenia).",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Poidło przedstawione na ilustracji przeznaczone jest do pojenia",
+      "options": [
+        "prosiąt.",
+        "jagniąt.",
+        "piskląt.",
+        "cieląt."
+      ],
+      "answer": 2,
+      "explain": "Poidło dzwonowe (kołpakowe) zawieszane nad ściółką służy do pojenia drobiu, w tym piskląt.",
+      "src": "Zad. 37",
+      "img": "img/exam_2019_06/zad37.jpg"
+    },
+    {
+      "q": "Przenośnik przedstawiony na ilustracji ma zastosowanie w gospodarstwie rolnym do",
+      "options": [
+        "transportu pasz objętościowych suchych.",
+        "dozowania paszy w wozach paszowych.",
+        "transportu ziarna zbóż w silosach.",
+        "usuwania odchodów w oborach."
+      ],
+      "answer": 2,
+      "explain": "Przenośnik kubełkowy (elewator) transportuje ziarno pionowo, np. przy napełnianiu silosów.",
+      "src": "Zad. 38",
+      "img": "img/exam_2019_06/zad38.jpg"
+    },
+    {
+      "q": "Na podstawie podanych założeń oblicz wydatek cieczy z jednego rozpylacza: Q – zaplanowany wydatek cieczy = 200 l/ha, V – prędkość jazdy = 6 km/h, s – rozstaw rozpylaczy na belce = 0,5 m; q = Q × V × s / 600.",
+      "options": [
+        "0,5 l/min",
+        "1,0 l/min",
+        "2,0 l/min",
+        "6,0 l/min"
+      ],
+      "answer": 1,
+      "explain": "q = 200 × 6 × 0,5 / 600 = 600 / 600 = 1,0 l/min.",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "W celu przygotowania pługa do przechowywania, po zakończonym sezonie roboczym, należy powierzchnie robocze oczyścić i zabezpieczyć",
+      "options": [
+        "olejem przekładniowym.",
+        "smarem konserwacyjnym.",
+        "przepalonym olejem silnikowym.",
+        "zużytym olejem zmieszanym ze smarem."
+      ],
+      "answer": 1,
+      "explain": "Oczyszczone powierzchnie robocze pokrywa się smarem konserwacyjnym, który chroni przed korozją.",
+      "src": "Zad. 40"
+    }
+  ]
+}

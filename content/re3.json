@@ -1,0 +1,2111 @@
+{
+  "id": "re3",
+  "course": "Rolnictwo ekologiczne",
+  "title": "Produkcja zwierzęca prowadzona metodami ekologicznymi",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Chów zwierząt zapewnia równowagę paszowo-nawozową i jest ogniwem zamkniętego obiegu materii w gospodarstwie ekologicznym (produkcja obornika).",
+        "Obecność zwierząt sprzyja urozmaiceniu upraw polowych (konieczność produkcji pasz).",
+        "Zwierzęta mogą wykorzystywać tereny nienadające się pod uprawę roślin towarowych.",
+        "Elementy do przemyślenia przed rozpoczęciem chowu ekologicznego: pochodzenie zwierząt, higiena i leczenie, metody chowu, żywienie, budynki, pastwiska, obsada, zagospodarowanie nawozów naturalnych."
+      ]
+    },
+    {
+      "heading": "1. Obsada, gatunki i rasy",
+      "points": [
+        "Obsada wynika z możliwości zaopatrzenia w paszę i zapotrzebowania roślin na składniki.",
+        "Obsadę reguluje dopuszczalna zawartość azotu – nie więcej niż 170 kg N/ha w łącznej ilości obornika stosowanego w ciągu roku.",
+        "Nadwyżki obornika gospodarstwo ekologiczne może sprzedawać innym gospodarstwom i przedsiębiorstwom.",
+        "Samowystarczalność paszowo-nawozowa przy obsadzie 0,5–1,5 DJP/ha; dopuszczalna obsada 2 DJP/ha.",
+        "Chów ekologiczny opiera się na rasach krajowych (rodzimych), lepiej dostosowanych do warunków lokalnych.",
+        "Cechy ras rodzimych: przystosowanie do trudnych warunków, odporność na choroby i stres, wysoka płodność i plenność, dobre cechy mateczne, długowieczność.",
+        "Niższa użytkowość ras rodzimych jest rekompensowana mniejszymi wymaganiami pokarmowymi i dobrym wykorzystaniem pasz; giną zamykane w fermach przemysłowych.",
+        "Wskazany dobór zwierząt o zadowalającym (nie rekordowym) poziomie produkcji, zdrowych, długowiecznych, łagodnych.",
+        "Zakazane: zwierzęta z inżynierii genetycznej i transplantacja zarodków; sztuczne krycie jest dopuszczalne.",
+        "Utrzymywanie zwierząt dzikich i mieszańców (dzikie × gospodarskie, międzygatunkowe) wymaga zgody jednostki nadzorującej.",
+        "Zwierzęta gospodarskie są z natury stadne – wielkość stada dostosowuje się do wymagań gatunku (rasy) i możliwości produkcyjnych gospodarstwa.",
+        "Obsada 2 DJP/ha odpowiada rocznie 170 kg azotu zawartego w odchodach zwierząt.",
+        "Rasy rodzime są szczególnie przydatne w systemie ekstensywnym połączonym z wypasem – pozwalają zagospodarować tereny półnaturalne o ubogich zasobach paszowych; dają produkty o unikalnej jakości.",
+        "Rasy rodzime mają duże znaczenie ze względu na związek z tradycją i kulturą lokalnych społeczności i historią regionu; wymagają naturalnych warunków chowu (wybiegi, pastwiska) i naturalnej paszy.",
+        "Przy wyborze ras kieruje się też możliwością uniknięcia chorób/problemów zdrowotnych typowych dla ras i linii z produkcji intensywnej; pierwszeństwo mają rodzime rasy i linie."
+      ]
+    },
+    {
+      "heading": "1. Pochodzenie zwierząt",
+      "points": [
+        "Zwierzęta powinny pochodzić z danego gospodarstwa lub innych atestowanych gospodarstw ekologicznych; nie z targowisk, aukcji ani anonimowych źródeł.",
+        "Zakup z gospodarstw konwencjonalnych za zgodą organu kontrolnego: przy odnowie/odbudowie stada, braku zwierząt ekologicznych, wysokiej śmiertelności lub klęsce żywiołowej.",
+        "Rocznie można wprowadzić maksymalnie 10% dorosłych koni i bydła oraz 20% dorosłych świń, owiec i kóz (samice do odnowienia stada, przy braku zwierząt ekologicznych).",
+        "Limity procentowe nie dotyczą gospodarstw mających mniej niż 10 sztuk bydła i koni oraz 5 sztuk świń, owiec lub kóz – tam max 1 sztuka hodowlana na gatunek rocznie.",
+        "Szczególne warunki wprowadzania zwierząt nieekologicznych określa Rozporządzenie Komisji (WE) nr 889/2008.",
+        "Przy pierwszym tworzeniu stada można wprowadzić młode zwierzęta nieekologiczne: cielęta i źrebięta poniżej 6 miesięcy, jagnięta i koźlęta poniżej 60 dni, prosięta poniżej 35 kg."
+      ]
+    },
+    {
+      "heading": "1. Dobrostan zwierząt",
+      "points": [
+        "Dobrostan wg Światowej Organizacji Zdrowia Zwierząt: zwierzę jest zdrowe, bezpieczne, dobrze odżywione, nie cierpi niewygody, nie odczuwa bólu, strachu ani niepokoju.",
+        "Kodeks Dobrostanu opracowała angielska Rada Dobrostanu Zwierząt (Farm Animals Welfare Council) – „pięć wolności”.",
+        "Pięć wolności: od głodu i pragnienia; od dyskomfortu; od bólu, urazów i chorób; od strachu i stresu; wolność wyrażania normalnego behawioru.",
+        "Zakaz stałego utrzymywania zwierząt w pomieszczeniach zamkniętych, długotrwałego pętania i wiązania; używanie treserów niedopuszczalne.",
+        "W budynkach zakaz toksycznych materiałów budowlanych, farb, lakierów i środków konserwujących.",
+        "Budynki: wentylacja naturalna, światło dzienne, ochrona przed skrajnymi temperaturami, wiatrem i nasłonecznieniem.",
+        "Sztucznie przedłużany dzień świetlny nie może trwać dłużej niż 16 godzin.",
+        "Drób – wybiegi, grzędy, gniazda; ptactwo wodne – dostęp do zbiornika wodnego; naturalna ściółka; stały dostęp do wody i pasz.",
+        "Sposób zapewnienia pięciu wolności: 1) od głodu i pragnienia – woda i pasza odpowiedniej jakości; 2) od dyskomfortu – schronienie, wypoczynek, warunki utrzymania; 3) od bólu, urazów i chorób – prewencja, profilaktyka, szybka diagnostyka i leczenie; 4) od strachu i stresu – eliminowanie czynników stresogennych; 5) wyrażania normalnego behawioru – odpowiednia przestrzeń życiowa i właściwy skład socjalny grupy.",
+        "W sezonie pastwiskowym zwierzęta powinny mieć dostęp do pastwisk; miejsce wypoczynku dostosowane do gatunku, ze szczególnym uwzględnieniem okresu okołoporodowego."
+      ]
+    },
+    {
+      "heading": "1. Dozwolone i zakazane zabiegi na zwierzętach",
+      "points": [
+        "Okaleczanie zwierząt jest zabronione; dopuszcza się niektóre zabiegi hodowlane.",
+        "Trwałe znakowanie (kolczyki, tatuaż) – w stadach zarodowych, nie w chowie towarowym i amatorskim.",
+        "Skracanie ogonów jagniąt do 14. dnia życia; skracanie kiełków prosiąt do 3. dnia życia.",
+        "Kastracja knurków do 28 dni; buhajków, tryczków i koziołków do 3. miesiąca życia; kastracja starych wybrakowanych rozpłodników (nie dotyczy drobiu).",
+        "Dozwolone zakładanie kółek nosowych buhajkom hodowlanym.",
+        "Zabronione: bicie zwierząt, gumowe taśmy na ogony owiec, przycinanie ogonów (poza jagniętami), piłowanie zębów, kształtowanie dziobów, usuwanie rogów.",
+        "Niektóre zabiegi (np. usuwanie rogów u młodych) za zgodą jednostki kontrolującej, ze względów bezpieczeństwa lub zdrowia; wykonuje je wykwalifikowany personel.",
+        "Dobrostan obejmuje też metody przewozu i humanitarny ubój.",
+        "Kastracja dozwolona, gdy jest uzasadniona utrzymaniem jakości produktów i tradycyjnymi praktykami produkcyjnymi; zabiegi wykonuje się w najodpowiedniejszym wieku, ograniczając cierpienie do minimum."
+      ]
+    },
+    {
+      "heading": "1. Żywienie – pasze i dodatki",
+      "points": [
+        "Młode ssaki karmi się naturalnym mlekiem (najlepiej matki): bydło i koniowate co najmniej 3 miesiące, owce i kozy 45 dni, świnie 40 dni.",
+        "Chów przeżuwaczy opiera się na maksymalnym wykorzystaniu pastwisk; co najmniej 60% suchej masy dawki dziennej to pasza objętościowa (zielona, susz, kiszonka).",
+        "Pasze z okresu konwersji – średnio do 30% dawki; do 60%, gdy pochodzą z tego samego gospodarstwa.",
+        "Pasze nieekologiczne – tylko wymienione w załącznikach V i VI Rozporządzenia Komisji (WE) nr 889/2008.",
+        "Maksymalny udział paszy nieekologicznej: 5% w skali roku i 25% w dawce dziennej (% suchej masy pasz rolniczych).",
+        "Zakazane: stymulatory wzrostu i wydajności, syntetyczne zamienniki pasz, pasze z GMO, antybiotyki i hormony w paszach.",
+        "Dozwolone składniki mineralne, mikroelementy i witaminy – z załącznika 6 Rozporządzenia Rady EWG nr 2092/91.",
+        "Dodatki paszowe ogranicza się do minimum; kategorie wg Rozp. (WE) nr 1831/2003: dietetyczne (witaminy, pierwiastki śladowe), zootechniczne (enzymy, mikroorganizmy), technologiczne.",
+        "Dodatki technologiczne: krótkołańcuchowe kwasy organiczne, ekstrakty bogate w tokoferol (E 306), substancje wiążące i przeciwzbrylające; dodatki do kiszonek (enzymy, drożdże, bakterie) tylko gdy pogoda uniemożliwia właściwą fermentację.",
+        "Pasze zielarskie wspomagają trawienie i odporność; mają działanie przeciwbakteryjne, przeciwpasożytnicze, antywirusowe (np. dziurawiec, pokrzywa, jałowiec, lebioda, kora dębu; napar z czarnego bzu przy przeciążeniu przewodu pokarmowego).",
+        "Potrzeby pokarmowe zwierząt wyraża się zapotrzebowaniem na białko (w tym aminokwasy niezbędne), energię i jej koncentrację, związki mineralne i witaminy; dobór pasz uwzględnia też wymagania fizjologiczne i koszty żywienia.",
+        "Dodatki paszowe stosuje się tylko przy istotnych potrzebach technologicznych, zootechnicznych lub żywieniowych; dodatki technologiczne obejmują też koagulanty.",
+        "Pasze zielarskie podaje się szczególnie w okresach większej podatności na choroby; w lecznictwie ludowym zioła stosowano jako dodatki paszowe, odwary, napary, susz, maści i okłady."
+      ]
+    },
+    {
+      "heading": "1. Profilaktyka i leczenie",
+      "points": [
+        "Podstawą jest profilaktyka: dobór ras, warunki zgodne z gatunkiem, dostęp do powietrza, wody, paszy i światła, wysokiej jakości pasze, wybiegi i pastwiska.",
+        "Probiotyki – preparaty z mikroorganizmami naturalnie bytującymi w organizmie; obniżają pH jelit, produkują związki antybakteryjne i witaminy.",
+        "Zabronione profilaktyczne stosowanie leków alopatycznych i antybiotyków.",
+        "Nadzór sprawuje lekarz znający metody niekonwencjonalne: fitoterapię, homeopatię, akupunkturę.",
+        "Dozwolone środki lecznicze: wyciągi i wywary ziołowe (bez antybiotyków), leki homeopatyczne, mikroelementy.",
+        "Leki syntetyczne/antybiotyki – na odpowiedzialność lekarza weterynarii: dla ratowania życia, zapobieżenia cierpieniu lub gdy brak innych środków.",
+        "Karencja po lekach syntetycznych jest dwukrotnie dłuższa niż prawna; gdy nie jest określona – 48 godzin.",
+        "Prostaglandyna przy porodach – w wyjątkowych sytuacjach; odrobaczanie dopuszczalne u zwierząt wprowadzanych, ale nie stałe.",
+        "Szczepienia tylko nakazane urzędowo lub gdy choroba występuje w rejonie; tylko zwierzęta zdrowe i odrobaczone, wykonuje lekarz weterynarii.",
+        "Dokumentacja leczenia: nazwa schorzenia, czas trwania, zabiegi, leki, dawki i okres podawania.",
+        "Kwarantanna nowo zakupionych zwierząt – co najmniej 3 tygodnie.",
+        "Mikroorganizmy z probiotyków zasiedlają przewód pokarmowy, przeciwdziałają rozwojowi flory chorobotwórczej i zaburzeniom trawienia, obniżają toksyczność bakterii chorobotwórczych i wzmacniają odporność.",
+        "Nie wolno podawać leków zwierzętom zdrowym ani stosować środków regulujących ciepłotę ciała i pobudzających produkcję, wzrost czy płodność; szczepionka musi być właściwie przechowywana.",
+        "Po kwarantannie (min. 3 tygodnie), jeśli nie zaobserwowano niekorzystnych zmian zdrowia, zwierzęta można wprowadzić do stada."
+      ]
+    },
+    {
+      "heading": "2. Przestawienie zwierząt na chów ekologiczny",
+      "points": [
+        "Zwierzęta ekologiczne – utrzymywane od urodzenia w gospodarstwie ekologicznym.",
+        "Zwierzęta obecne w gospodarstwie przestawianym uzyskują status ekologicznych po 24 miesiącach konwersji całego gospodarstwa.",
+        "Drób konwencjonalny można kupić na cele produkcyjne; konwersja: 10 tygodni dla piskląt do 3. dnia życia (mięso), 6 tygodni dla drobiu nieśnego.",
+        "Ssaki konwencjonalne – tylko w celach hodowlanych.",
+        "Zakładanie stada podstawowego: bydło i koniowate do 6. miesiąca, kozy i owce do 60. dnia, trzoda do 35 kg żywej wagi.",
+        "Odnawianie stada: samice nieródki do 10% stada bydła i koniowatych i do 20% stada kóz, owiec i trzody rocznie; samce bez ograniczeń wieku i liczby.",
+        "Powiększenie stada lub zmiana rasy: samice nieródki do 40% stada, za zgodą WIJHAR-S na wniosek zaopiniowany przez jednostkę certyfikującą.",
+        "Przy rasach zagrożonych wyginięciem samice nie muszą być nieródkami."
+      ]
+    },
+    {
+      "heading": "3. Bydło",
+      "points": [
+        "Chów bydła może być mięsny, mleczny lub mieszany.",
+        "Paszą podstawową są pasze objętościowe: latem zielonki, zimą kiszonki i siano; źródło białka – strączkowe (bobik, groch, łubin).",
+        "Przy wyborze rasy liczy się m.in. zdolność adaptacji, długowieczność, wydajność życiowa, jakość mleka, płodność i łatwość wycieleń.",
+        "Rasy polecane dla mało intensywnych gospodarstw (program ochrony zasobów genetycznych): Polska czerwona, Białogrzbieta, Czarno-biała, Czerwono-biała.",
+        "Najważniejsze rasy mleczne w chowie ekologicznym: Czarno-biała, Czerwono-biała, Simentalska, Polska czerwona; polecane też Jersey i Montbeliarde.",
+        "Bydło Białogrzbiete występuje jeszcze nielicznie we wschodniej Polsce.",
+        "W chowie bydła mięsnego wykluczony system bezściółkowy.",
+        "Najważniejsze rasy mięsne w produkcji ekologicznej: Simentalska, Charolaise, Limousine.",
+        "W gospodarstwach mlecznych podaż składników pokarmowych musi pokryć całe zapotrzebowanie – pozwala to uniknąć zaburzeń metabolicznych i utrzymać płodność i zdrowie stada.",
+        "Rasy Polska czerwona, Białogrzbieta, Czarno-biała i Czerwono-biała są szczególnie polecane dla mało intensywnych gospodarstw, bo są objęte programem ochrony zasobów genetycznych; przy wyborze rasy liczy się też czas użytkowania i tempo brakowania krów."
+      ],
+      "images": [
+        {
+          "src": "img/re3/krowa-czarno-biala.jpg",
+          "caption": "Krowa rasy Czarno-białej (rys. 3.1) – jedna z najważniejszych ras mlecznych w chowie ekologicznym."
+        },
+        {
+          "src": "img/re3/krowa-jersey.jpg",
+          "caption": "Krowa rasy Jersey (rys. 3.2) – rasa mleczna polecana w chowie ekologicznym (obok Montbeliarde)."
+        },
+        {
+          "src": "img/re3/krowy-charolaise.jpg",
+          "caption": "Krowy rasy Charolaise (rys. 3.3) – rasa mięsna (biała/kremowa maść)."
+        },
+        {
+          "src": "img/re3/krowy-simentale.jpg",
+          "caption": "Krowy rasy Simentalskiej (rys. 3.4) – rasa mleczna i mięsna, ważna w produkcji ekologicznej."
+        }
+      ]
+    },
+    {
+      "heading": "3. Trzoda chlewna i konie",
+      "points": [
+        "Świnie w chowie ekologicznym mają prawie dwukrotnie większą powierzchnię niż w tradycyjnym; normy określa Rozp. Komisji (WE) nr 889/2008.",
+        "Połowa powierzchni kojca musi być lita (pełna); wymagany wybieg zewnętrzny.",
+        "Zakaz stymulatorów wzrostu i syntetycznych aminokwasów; prosięta karmione mlekiem loch do 40. dnia życia.",
+        "Świnie powinny mieć stały dostęp do pastwisk (gdy pozwala pogoda) z systemem rotacji.",
+        "Brak w kraju certyfikowanych stad zarodowych – okresowo pozyskuje się lochy spoza chowu ekologicznego i inseminuje nasieniem ekologicznym.",
+        "Rodzime rasy świń chronione: Złotnicka biała, Złotnicka pstra, Puławska.",
+        "Inne rasy w chowie ekologicznym: Linia 990, Wielka biała polska, Polska biała zwisłoucha, Belgijska zwisłoucha, Hampshire, Duroc, Pietraine.",
+        "Rasy koni w chowie ekologicznym: Konik polski, Huculska, Śląska, Małopolska, Wielkopolska – objęte Krajowym Programem Ochrony Zasobów Genetycznych.",
+        "Konie żywione głównie paszami pastwiskowymi; okopowe tylko jako uzupełnienie; konie są bardzo wrażliwe na popsutą paszę.",
+        "Większa (prawie 2×) powierzchnia dotyczy maciory z prosiętami, prosiąt odsadzonych i tuczników; normy w Rozp. Komisji (WE) nr 889/2008 z 5 września 2008 r.",
+        "Pasza dla świń: składniki rolnicze z produkcji ekologicznej i naturalne substancje nierolnicze, głównie z własnego gospodarstwa lub innych gospodarstw ekologicznych w regionie; część dawki może pochodzić z gospodarstw w konwersji.",
+        "W chowie tradycyjnym świń zaleca się proste krzyżowanie 3–4 ras.",
+        "Konie żywi się paszami z gospodarstwa lub innych gospodarstw ekologicznych; sieczkę konie otrzymują po każdorazowym odpasie; warunki utrzymania nie różnią się specjalnie od konwencjonalnych."
+      ],
+      "images": [
+        {
+          "src": "img/re3/konik-polski.jpg",
+          "caption": "Konik polski (rys. 3.5) – rasa objęta Krajowym Programem Ochrony Zasobów Genetycznych."
+        }
+      ]
+    },
+    {
+      "heading": "3. Owce, kozy i drób",
+      "points": [
+        "Owczarnia: minimum 1,5 m² na owcę i 0,3 m² na jagnię; wybieg (okólnik) 2,5 m² na owcę i 0,5 m² na jagnię; te same normy dla kóz.",
+        "Owce dla ekorolnictwa: dobrze wykorzystujące pastwisko, odporne na chłód i opady, niepodatne na kulawkę i zarobaczenia; najlepiej z wełną mieszaną, grubą.",
+        "Rasy lokalne owiec: Merynos polski, Owca wielkopolska, pomorska, olkuska, Polska owca górska, Polska owca pogórza.",
+        "Najliczniejsza z ras objętych programem ochrony: Wrzosówka; także m.in. Owca kamieniecka, Merynos odmiany barwnej, Polska owca nizinna odmiany uhruskiej.",
+        "Lepsze cechy mają mieszańce polskiej owcy górskiej z trykami rasy wschodniofryzyjskiej.",
+        "Kozy – w kojcach grupowych lub indywidualnych bez uwięzi; kozły w osobnych pomieszczeniach; popularne: kozy bezrasowe, białe uszlachetnione, barwne uszlachetnione.",
+        "Drób może pochodzić tylko z gospodarstw ekologicznych (pisklęta z jaj od kur o udokumentowanym ekologicznym chowie).",
+        "Do produkcji jaj najlepsze rodzime rasy: Zielononóżka kuropatwiana oraz pochodne Żółtonóżka kuropatwiana i Polbar.",
+        "W chowie ekologicznym drobiu przyjmuje się niższą koncentrację składników w mieszance, pasze z wolnego wybiegu, czystą i suchą ściółkę.",
+        "Budynki dla owiec i kóz: suche, dobrze wietrzone, widne, ciepłe i przestronne.",
+        "Wełna mieszana, gruba umożliwia spływanie wody i jej szybkie wysychanie.",
+        "Krajowe rasy owiec mają specyficzne cechy użytkowe (wysoka plenność, nietypowa barwa wełny), unikatowy genotyp, dają mleko i mięso o charakterystycznych walorach; ze względu na niższą produkcyjność ich populacje zanikają.",
+        "Inne rasy owiec objęte programem ochrony: Polska owca górska odmiany barwnej, Owca pomorska, Owca olkuska.",
+        "Kozy w kojcach bez uwięzi mają swobodny dostęp do pożywienia i wody.",
+        "Zielononóżka, Żółtonóżka kuropatwiana i Polbar są objęte Programem Ochrony Zasobów Genetycznych.",
+        "W chowie ekologicznym drobiu nacisk na jakość produktu, żywienie zbliżone do naturalnego/tradycyjnego, korzystne działanie świeżego powietrza i promieni słonecznych.",
+        "W restrykcyjnym chowie ekologicznym drobiu rezygnuje się z intensywnego żywienia wielkofermowego i maksymalizacji wydajności – przyjmuje się niższą zawartość składników pokarmowych w mieszance paszowej, uwzględnia pasze naturalne zebrane przez ptaki podczas żerowania na wolnym wybiegu oraz zapewnia czystą i suchą ściółkę."
+      ],
+      "images": [
+        {
+          "src": "img/re3/owca-wrzosowka.jpg",
+          "caption": "Owca rasy wrzosówka (rys. 3.6) – najliczniejsza z ras objętych programem ochrony zasobów genetycznych."
+        },
+        {
+          "src": "img/re3/zielononozka-kuropatwiana.jpg",
+          "caption": "Zielononóżka kuropatwiana (rys. 3.7) – rodzima rasa kur, najlepsza do ekologicznej produkcji jaj."
+        }
+      ]
+    },
+    {
+      "heading": "4. Środki dezynfekujące i czyszczące",
+      "points": [
+        "Higiena ma podstawowe znaczenie w zapobieganiu chorobom zwierząt.",
+        "Dozwolone: woda i para wodna (najlepiej pod ciśnieniem), mleko wapienne, mydło sodowe i potasowe, wapno i wapno palone, podchloryn sodu, soda kaustyczna, potas, nadtlenek wodoru.",
+        "Dozwolone także: naturalne esencje roślinne (wyciąg nikotyny, czosnku), alkohol, formalina, węglan sodu, kwasy cytrynowy, nadoctowy, mrówkowy, mlekowy, szczawiowy, octowy.",
+        "Dopuszczone środki do mycia i dezynfekcji dojarek; urządzenia metalowe można dezynfekować płomieniem.",
+        "Ochrona przed gryzoniami: zabezpieczenie paszy, usuwanie resztek, pułapki, wykaszanie roślinności wokół budynków.",
+        "Deratyzacja: antykoagulanty (brodifakum, difenakum, difethialon, promadiolon); najlepsza metoda – naturalni wrogowie (koty, psy, łasice, jeże).",
+        "Muchy zwalcza się lepami mechanicznymi lub lampami ultrafioletowymi.",
+        "Wymogom higieny podporządkowane są wszystkie aspekty produkcji: normy mikroklimatu, wymogi sanitarne pomieszczeń, normy żywienia i obsady, sposób zadawania pasz i nadzór nad zwierzętami.",
+        "Wysoka temperatura jest bardzo skutecznym środkiem dezynfekującym – stąd dezynfekcja płomieniem urządzeń metalowych i części klatek.",
+        "Martwe gryzonie należy niezwłocznie usuwać."
+      ]
+    },
+    {
+      "heading": "5. Żyzność gleby i bioróżnorodność",
+      "points": [
+        "Działania podnoszące kondycję gleby: wieloletni zróżnicowany płodozmian, nawozy naturalne, zakaz nawozów syntetycznych i chemicznej ochrony, zróżnicowany wypas, poplony, zadrzewienia śródpolne.",
+        "Rośliny motylkowe (np. koniczyna) wiążą azot atmosferyczny.",
+        "Mechaniczne odchwaszczanie zamiast herbicydów zachowuje bioróżnorodność na powierzchni i w glebie.",
+        "Mniej intensywny wypas zmniejsza stres zwierząt, presję szkodników, ugniatanie gleby i erozję.",
+        "Główna zasada rolnictwa ekologicznego: szacunek dla wszelkich form życia.",
+        "W Polsce ochroną objętych jest 74 rasy, odmiany, linie i rody zwierząt gospodarskich oraz ryb.",
+        "Zadrzewienia, pasy ochronne i miedze pełnią funkcję buforów biologicznych: ograniczają choroby i szkodniki, utrzymują wilgotność, zmniejszają prędkość wiatru i erozję.",
+        "Nawozy naturalne zwiększają populację mikroorganizmów, dżdżownic i bezkręgowców glebowych.",
+        "Bioróżnorodność wspiera też: lokalne odmiany i rasy, naturalni wrogowie szkodników, żywopłoty, stare łąki, naturalne cieki wodne.",
+        "Zakaz syntetycznych środków chroni cieki wodne przed spływem zanieczyszczeń i ogranicza bioakumulację.",
+        "Cele: zdrowa, żyzna gleba – dostarczanie składników, poprawa struktury gleby, wydajne gospodarowanie wodą.",
+        "Uzasadnienia działań: płodozmian ogranicza zachwaszczenie, choroby i szkodniki; nawozy naturalne poprawiają strukturę i zapobiegają erozji; zakaz syntetyków zapobiega długotrwałym zmianom chemicznego składu gleby; zróżnicowany wypas zapobiega nadmiernej eksploatacji pastwisk i utracie składników; poplony okrywają glebę po zbiorach (erozja, wymywanie); zadrzewienia śródpolne chronią przed erozją i utratą składników.",
+        "Program ochrony zagrożonych zasobów genetycznych zwierząt chroni cenne rasy, odmiany i rody zagrożone wyginięciem z powodu niskiej liczebności.",
+        "Bioróżnorodność w rolnictwie ekologicznym to nie tylko więcej gatunków upraw i ras, ale też więcej rodzimych roślin i zwierząt występujących naturalnie; rolnik kształtuje krajobraz (pola, łąki, zadrzewienia, pasy ochronne, miedze).",
+        "Właściwy płodozmian i odmiany konkurencyjne wobec chwastów i odporne zwiększają szanse upraw; rozbudowany płodozmian obejmuje gatunki towarowe, bobowate i paszowe."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rola chowu zwierząt w gospodarstwie ekologicznym",
+      "back": "Zapewnia równowagę paszowo-nawozową i zamyka obieg materii (obornik)."
+    },
+    {
+      "front": "Maksymalna ilość azotu z obornika na 1 ha rocznie w gospodarstwie ekologicznym",
+      "back": "170 kg N/ha."
+    },
+    {
+      "front": "Co robić z nadwyżką obornika w gospodarstwie ekologicznym?",
+      "back": "Sprzedać innym gospodarstwom lub przedsiębiorstwom (współpraca)."
+    },
+    {
+      "front": "Obsada zapewniająca samowystarczalność paszowo-nawozową",
+      "back": "0,5–1,5 DJP/ha."
+    },
+    {
+      "front": "Dopuszczalna obsada zwierząt w gospodarstwie ekologicznym",
+      "back": "2 DJP/ha."
+    },
+    {
+      "front": "Na jakich rasach opiera się chów ekologiczny?",
+      "back": "Na rasach krajowych (rodzimych), dostosowanych do warunków lokalnych."
+    },
+    {
+      "front": "Cechy ras rodzimych (przykłady)",
+      "back": "Przystosowanie do trudnych warunków, odporność na choroby i stres, płodność, długowieczność, małe wymagania pokarmowe."
+    },
+    {
+      "front": "Czy w chowie ekologicznym dopuszczalne jest sztuczne krycie?",
+      "back": "Tak."
+    },
+    {
+      "front": "Czy dopuszczalna jest transplantacja zarodków w chowie ekologicznym?",
+      "back": "Nie."
+    },
+    {
+      "front": "Co wymaga zgody jednostki nadzorującej w zakresie gatunków?",
+      "back": "Utrzymywanie zwierząt dzikich i mieszańców (dzikie × gospodarskie, międzygatunkowe)."
+    },
+    {
+      "front": "Skąd nie wolno kupować zwierząt do gospodarstwa ekologicznego?",
+      "back": "Z targowisk, aukcji i anonimowych źródeł."
+    },
+    {
+      "front": "Kiedy można kupić zwierzęta z gospodarstw konwencjonalnych (za zgodą organu kontrolnego)?",
+      "back": "Przy odnowie/odbudowie stada, braku zwierząt ekologicznych, wysokiej śmiertelności lub klęsce żywiołowej."
+    },
+    {
+      "front": "Roczny limit wprowadzania dorosłych samic bydła i koni z chowu nieekologicznego",
+      "back": "10%."
+    },
+    {
+      "front": "Roczny limit wprowadzania dorosłych samic świń, owiec i kóz z chowu nieekologicznego",
+      "back": "20%."
+    },
+    {
+      "front": "Ile zwierząt może wprowadzić małe gospodarstwo (<10 szt. bydła/koni, <5 szt. świń/owiec/kóz)?",
+      "back": "Max 1 sztukę hodowlaną każdego gatunku rocznie."
+    },
+    {
+      "front": "Maksymalny wiek cieląt i źrebiąt nieekologicznych przy tworzeniu stada",
+      "back": "Poniżej 6. miesiąca życia."
+    },
+    {
+      "front": "Maksymalny wiek jagniąt i koźląt nieekologicznych przy tworzeniu stada",
+      "back": "Poniżej 60 dni."
+    },
+    {
+      "front": "Maksymalna masa prosiąt nieekologicznych przy tworzeniu stada",
+      "back": "Poniżej 35 kg."
+    },
+    {
+      "front": "Kto opracował Kodeks Dobrostanu Zwierząt z „pięcioma wolnościami”?",
+      "back": "Angielska Rada Dobrostanu Zwierząt (Farm Animals Welfare Council)."
+    },
+    {
+      "front": "„Pięć wolności” zwierząt",
+      "back": "Od głodu i pragnienia; od dyskomfortu; od bólu, urazów i chorób; od strachu i stresu; wyrażania normalnego behawioru."
+    },
+    {
+      "front": "Maksymalna długość sztucznie przedłużanego dnia świetlnego",
+      "back": "16 godzin."
+    },
+    {
+      "front": "Czy wolno używać treserów elektrycznych w gospodarstwie ekologicznym?",
+      "back": "Nie – jest to niedopuszczalne."
+    },
+    {
+      "front": "Do którego dnia życia można skracać ogony jagniętom?",
+      "back": "Do 14. dnia życia."
+    },
+    {
+      "front": "Do którego dnia życia można skracać kiełki prosiętom?",
+      "back": "Do 3. dnia życia."
+    },
+    {
+      "front": "Termin kastracji knurków w chowie ekologicznym",
+      "back": "Do 28 dni."
+    },
+    {
+      "front": "Termin kastracji buhajków, tryczków i koziołków",
+      "back": "Do 3. miesiąca życia."
+    },
+    {
+      "front": "Gdzie dopuszczalne jest trwałe znakowanie (kolczyki, tatuaż)?",
+      "back": "W stadach zarodowych (nie w chowie towarowym i amatorskim)."
+    },
+    {
+      "front": "Zabiegi zabronione w chowie ekologicznym (przykłady)",
+      "back": "Bicie, taśmy na ogony owiec, przycinanie ogonów, piłowanie zębów, kształtowanie dziobów, usuwanie rogów."
+    },
+    {
+      "front": "Okres karmienia naturalnym mlekiem: bydło i koniowate",
+      "back": "Co najmniej 3 miesiące."
+    },
+    {
+      "front": "Okres karmienia naturalnym mlekiem: owce i kozy",
+      "back": "45 dni."
+    },
+    {
+      "front": "Okres karmienia naturalnym mlekiem: świnie",
+      "back": "40 dni."
+    },
+    {
+      "front": "Minimalny udział pasz objętościowych w s.m. dawki przeżuwaczy",
+      "back": "60%."
+    },
+    {
+      "front": "Udział pasz z okresu konwersji w dawce (z zakupu / z własnego gospodarstwa)",
+      "back": "Średnio do 30% / do 60%."
+    },
+    {
+      "front": "Maksymalny udział paszy nieekologicznej rocznie",
+      "back": "5% (suchej masy pasz rolniczych)."
+    },
+    {
+      "front": "Maksymalny udział paszy nieekologicznej w dawce dziennej",
+      "back": "25% suchej masy."
+    },
+    {
+      "front": "Załączniki wskazujące dozwolone pasze nieekologiczne",
+      "back": "Załączniki V i VI Rozporządzenia Komisji (WE) nr 889/2008."
+    },
+    {
+      "front": "Rozporządzenie w sprawie dodatków stosowanych w żywieniu zwierząt",
+      "back": "Rozporządzenie PE i Rady (WE) nr 1831/2003."
+    },
+    {
+      "front": "Kategorie dodatków paszowych dozwolonych w chowie ekologicznym",
+      "back": "Dietetyczne, zootechniczne, technologiczne."
+    },
+    {
+      "front": "Dodatki zootechniczne – przykłady",
+      "back": "Enzymy i mikroorganizmy."
+    },
+    {
+      "front": "Kiedy dozwolone są dodatki do kiszonek (enzymy, drożdże, bakterie)?",
+      "back": "Tylko gdy warunki pogodowe nie pozwalają na właściwą fermentację."
+    },
+    {
+      "front": "E 306",
+      "back": "Ekstrakty naturalne bogate w tokoferol – substancja antyutleniająca."
+    },
+    {
+      "front": "Zioła o działaniu leczniczym dla zwierząt (przykłady)",
+      "back": "Dziurawiec, pokrzywa, jałowiec, lebioda, kora dębu, czarny bez."
+    },
+    {
+      "front": "Probiotyki",
+      "back": "Preparaty z mikroorganizmami naturalnie bytującymi w organizmie; obniżają pH jelit, hamują florę chorobotwórczą."
+    },
+    {
+      "front": "Dozwolone weterynaryjne środki lecznicze w chowie ekologicznym",
+      "back": "Wyciągi i wywary ziołowe, leki homeopatyczne, mikroelementy."
+    },
+    {
+      "front": "Kiedy można zastosować syntetyczne leki lub antybiotyki?",
+      "back": "Dla ratowania życia, zapobieżenia cierpieniu lub gdy brak innych środków – na odpowiedzialność lekarza weterynarii."
+    },
+    {
+      "front": "Okres karencji po lekach syntetycznych w chowie ekologicznym",
+      "back": "Dwukrotnie dłuższy niż prawny; gdy nieokreślony – 48 godzin."
+    },
+    {
+      "front": "Kiedy dozwolone jest szczepienie zwierząt w gospodarstwie ekologicznym?",
+      "back": "Gdy nakazane urzędowo lub choroba występuje w rejonie gospodarstwa."
+    },
+    {
+      "front": "Które zwierzęta można szczepić?",
+      "back": "Tylko zdrowe i odrobaczone; zabieg wykonuje lekarz weterynarii."
+    },
+    {
+      "front": "Co musi zawierać dokumentacja leczenia zwierząt?",
+      "back": "Nazwę schorzenia, czas trwania choroby, zabiegi, leki, dawki i okres podawania."
+    },
+    {
+      "front": "Minimalny czas kwarantanny nowo zakupionych zwierząt",
+      "back": "3 tygodnie."
+    },
+    {
+      "front": "Po jakim czasie zwierzęta z gospodarstwa przestawianego uzyskują status ekologicznych?",
+      "back": "Po 24 miesiącach konwersji całego gospodarstwa."
+    },
+    {
+      "front": "Okres konwersji drobiu mięsnego (pisklęta do 3. dnia życia)",
+      "back": "10 tygodni."
+    },
+    {
+      "front": "Okres konwersji drobiu nieśnego",
+      "back": "6 tygodni."
+    },
+    {
+      "front": "Limit zakupu samic nieródek przy powiększaniu stada lub zmianie rasy",
+      "back": "Do 40% stada, za zgodą WIJHAR-S."
+    },
+    {
+      "front": "WIJHAR-S",
+      "back": "Wojewódzki Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych."
+    },
+    {
+      "front": "Czy samce do remontu stada podlegają limitom?",
+      "back": "Nie – bez ograniczeń wieku i liczby (wg skali hodowli)."
+    },
+    {
+      "front": "Pasza podstawowa bydła mlecznego w gospodarstwie ekologicznym",
+      "back": "Pasze objętościowe: latem zielonki, zimą kiszonki i siano."
+    },
+    {
+      "front": "Rośliny strączkowe jako źródło białka dla bydła",
+      "back": "Bobik, groch, łubin."
+    },
+    {
+      "front": "Najważniejsze rasy bydła mlecznego w chowie ekologicznym w Polsce",
+      "back": "Czarno-biała, Czerwono-biała, Simentalska, Polska czerwona."
+    },
+    {
+      "front": "Najważniejsze rasy bydła mięsnego w chowie ekologicznym",
+      "back": "Simentalska, Charolaise, Limousine."
+    },
+    {
+      "front": "Jaki system utrzymania wyklucza się w chowie bydła mięsnego?",
+      "back": "Bezściółkowy."
+    },
+    {
+      "front": "Jaka część kojca dla świń musi być lita?",
+      "back": "Połowa powierzchni."
+    },
+    {
+      "front": "Do którego dnia prosięta karmione są mlekiem loch?",
+      "back": "Do 40. dnia życia."
+    },
+    {
+      "front": "Rodzime rasy świń objęte ochroną zasobów genetycznych",
+      "back": "Złotnicka biała, Złotnicka pstra, Puławska."
+    },
+    {
+      "front": "Rasy koni polecane w chowie ekologicznym",
+      "back": "Konik polski, Huculska, Śląska, Małopolska, Wielkopolska."
+    },
+    {
+      "front": "Powierzchnia w owczarni na owcę i jagnię",
+      "back": "1,5 m² na owcę, 0,3 m² na jagnię."
+    },
+    {
+      "front": "Powierzchnia wybiegu (okólnika) na owcę i jagnię",
+      "back": "2,5 m² na owcę, 0,5 m² na jagnię."
+    },
+    {
+      "front": "Najliczniejsza rasa owiec objęta programem ochrony zasobów genetycznych",
+      "back": "Wrzosówka."
+    },
+    {
+      "front": "Choroby stadnego wypasu, na które owce ekologiczne nie powinny być podatne",
+      "back": "Kulawka i zarobaczenia."
+    },
+    {
+      "front": "Rodzime rasy kur do ekologicznej produkcji jaj",
+      "back": "Zielononóżka kuropatwiana, Żółtonóżka kuropatwiana, Polbar."
+    },
+    {
+      "front": "Skąd może pochodzić drób w gospodarstwie ekologicznym?",
+      "back": "Tylko z ekologicznych gospodarstw rolnych."
+    },
+    {
+      "front": "Przykłady dozwolonych środków dezynfekujących",
+      "back": "Mleko wapienne, wapno, podchloryn sodu, soda kaustyczna, nadtlenek wodoru, kwasy organiczne, formalina."
+    },
+    {
+      "front": "Dozwolone kwasy do mycia i dezynfekcji",
+      "back": "Cytrynowy, nadoctowy, mrówkowy, mlekowy, szczawiowy, octowy."
+    },
+    {
+      "front": "Antykoagulanty dozwolone do deratyzacji",
+      "back": "Brodifakum, difenakum, difethialon, promadiolon."
+    },
+    {
+      "front": "Najbardziej przydatna metoda walki z gryzoniami w gospodarstwie ekologicznym",
+      "back": "Naturalni wrogowie: koty, psy, łasice, jeże."
+    },
+    {
+      "front": "Jak zwalcza się muchy w gospodarstwie ekologicznym?",
+      "back": "Lepami mechanicznymi lub lampami UV."
+    },
+    {
+      "front": "Ile ras, odmian, linii i rodów zwierząt i ryb objęto ochroną w Polsce?",
+      "back": "74."
+    },
+    {
+      "front": "Główna zasada rolnictwa ekologicznego (moduł III)",
+      "back": "Szacunek dla wszelkich form życia."
+    },
+    {
+      "front": "Funkcje buforów biologicznych (zadrzewień, miedz)",
+      "back": "Ograniczają choroby i szkodniki, utrzymują wilgotność, zmniejszają wiatr i erozję."
+    },
+    {
+      "front": "Czemu podporządkowane są wymogi higieny w gospodarstwie ekologicznym?",
+      "back": "Normom mikroklimatu, wymogom sanitarnym pomieszczeń, normom żywienia i obsady, sposobowi zadawania pasz i nadzorowi nad zwierzętami."
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Czarno-biała – jedna z najważniejszych ras mlecznych w chowie ekologicznym.",
+      "img": "img/re3/krowa-czarno-biala.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Jersey – rasa mleczna polecana w chowie ekologicznym.",
+      "img": "img/re3/krowa-jersey.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Charolaise – rasa mięsna (obok Simentalskiej i Limousine).",
+      "img": "img/re3/krowy-charolaise.jpg"
+    },
+    {
+      "front": "Jaka to rasa bydła?",
+      "back": "Simentalska – ważna rasa zarówno mleczna, jak i mięsna w produkcji ekologicznej.",
+      "img": "img/re3/krowy-simentale.jpg"
+    },
+    {
+      "front": "Jaka to rasa koni?",
+      "back": "Konik polski – objęty Krajowym Programem Ochrony Zasobów Genetycznych.",
+      "img": "img/re3/konik-polski.jpg"
+    },
+    {
+      "front": "Jaka to rasa owiec?",
+      "back": "Wrzosówka – najliczniejsza z ras owiec objętych programem ochrony zasobów genetycznych.",
+      "img": "img/re3/owca-wrzosowka.jpg"
+    },
+    {
+      "front": "Jaka to rasa kur?",
+      "back": "Zielononóżka kuropatwiana – rodzima rasa najlepsza do ekologicznej produkcji jaj.",
+      "img": "img/re3/zielononozka-kuropatwiana.jpg"
+    },
+    {
+      "front": "Cechy ras rodzimych (pełna lista wg modułu III)",
+      "back": "Przystosowanie do lokalnych, trudnych warunków i klimatu; odporność na choroby i stres; wysoka płodność, plenność, dobre cechy mateczne, długowieczność; niższa użytkowość rekompensowana mniejszymi wymaganiami i dobrym wykorzystaniem pasz; przydatność do produkcji ekstensywnej z wypasem; związek z tradycją i kulturą; wymagają naturalnych warunków chowu i naturalnej paszy; giną w fermach przemysłowych."
+    },
+    {
+      "front": "Jak zapewnia się wolność od bólu, urazów i chorób?",
+      "back": "Przez prewencję, profilaktykę, szybką diagnostykę i leczenie."
+    },
+    {
+      "front": "Jak zapewnia się wolność wyrażania normalnego behawioru?",
+      "back": "Przez odpowiednią przestrzeń życiową i właściwy skład socjalny w grupie."
+    },
+    {
+      "front": "Czego nie wolno podawać zwierzętom w chowie ekologicznym (poza profilaktyką leków)?",
+      "back": "Leków zwierzętom zdrowym oraz środków regulujących ciepłotę ciała i pobudzających produkcję, wzrost czy płodność."
+    },
+    {
+      "front": "Zasady profilaktyki chorób zwierząt w chowie ekologicznym",
+      "back": "Dobór odpowiednich ras; chów zgodny z wymaganiami gatunku; dostęp do świeżego powietrza, wody, paszy i światła naturalnego; wysokiej jakości pasze z dostępem do wybiegów i pastwisk."
+    },
+    {
+      "front": "Kiedy w chowie ekologicznym dozwolona jest prostaglandyna?",
+      "back": "W wyjątkowych sytuacjach przy porodach."
+    },
+    {
+      "front": "Czy preparaty przeciwpasożytnicze można stosować stale?",
+      "back": "Nie – dopuszcza się odrobaczanie zwierząt wprowadzanych do gospodarstwa."
+    },
+    {
+      "front": "Inne rasy świń (poza rodzimymi) utrzymywane metodami ekologicznymi",
+      "back": "Linia 990, Wielka biała polska, Polska biała zwisłoucha, Belgijska zwisłoucha, Hampshire, Duroc, Pietraine."
+    },
+    {
+      "front": "Jak uzupełnia się stada świń ekologicznych przy braku stad zarodowych?",
+      "back": "Okresowo pozyskuje się wartościowe lochy spoza chowu ekologicznego i inseminuje je nasieniem z chowu ekologicznego."
+    },
+    {
+      "front": "Rasy owiec lokalnych polecane do produkcji ekstensywnej",
+      "back": "Merynos polski, Owca wielkopolska, Owca pomorska, Owca olkuska, Polska owca górska, Polska owca pogórza."
+    },
+    {
+      "front": "Mieszańce owiec o lepszych cechach produkcyjnych i reprodukcyjnych",
+      "back": "Polska owca górska × tryki rasy wschodniofryzyjskiej."
+    },
+    {
+      "front": "Najpopularniejsze odmiany kóz w rolnictwie ekologicznym",
+      "back": "Kozy bezrasowe (użytkowe), białe uszlachetnione, barwne uszlachetnione."
+    },
+    {
+      "front": "Jak utrzymuje się kozy i kozły w gospodarstwie ekologicznym?",
+      "back": "Kozy w kojcach grupowych lub indywidualnych bez uwięzi, ze swobodnym dostępem do paszy i wody; kozły w osobnych pomieszczeniach lub budynkach."
+    },
+    {
+      "front": "Jak żywi się konie w gospodarstwie ekologicznym?",
+      "back": "Głównie paszami pastwiskowymi; sieczka po każdorazowym odpasie; okopowe tylko jako uzupełnienie; konie są bardzo wrażliwe na popsutą paszę."
+    },
+    {
+      "front": "Zakazy w żywieniu świń ekologicznych",
+      "back": "Stymulatory wzrostu i syntetyczne aminokwasy."
+    },
+    {
+      "front": "Dlaczego należy wysiewać poplony w gospodarstwie ekologicznym?",
+      "back": "Okrywają glebę po zbiorach, co zapobiega erozji i wymywaniu składników pokarmowych."
+    },
+    {
+      "front": "Jak nawozy naturalne wpływają na bioróżnorodność gleby?",
+      "back": "Zwiększają populację mikroorganizmów, dżdżownic i innych bezkręgowców glebowych."
+    },
+    {
+      "front": "Środki dozwolone do mycia i dezynfekcji pomieszczeń (pełna lista)",
+      "back": "Woda i para wodna (pod ciśnieniem), mleko wapienne, mydło sodowe i potasowe, wapno i wapno palone, podchloryn sodu, soda kaustyczna, potas, nadtlenek wodoru, naturalne esencje roślinne (wyciąg nikotyny, czosnku), alkohol, formalina, węglan sodu, kwasy: cytrynowy, nadoctowy, mrówkowy, mlekowy, szczawiowy, octowy."
+    },
+    {
+      "front": "Jak zapobiegać bytowaniu gryzoni w gospodarstwie ekologicznym?",
+      "back": "Zabezpieczyć dostęp do paszy, usuwać jej resztki, stosować pułapki, wykaszać roślinność wokół budynków i magazynów, niezwłocznie usuwać martwe gryzonie."
+    },
+    {
+      "front": "Jak żywi się drób w restrykcyjnym chowie ekologicznym?",
+      "back": "Bez intensywnego żywienia wielkofermowego: niższa zawartość składników pokarmowych w mieszance, pasze naturalne zbierane podczas żerowania na wolnym wybiegu, czysta i sucha ściółka, świeże powietrze i słońce."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Łączna ilość azotu z obornika stosowanego w gospodarstwie ekologicznym nie może przekroczyć rocznie:",
+      "options": [
+        "170 kg/ha",
+        "100 kg/ha",
+        "210 kg/ha",
+        "250 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Azot w łącznej ilości obornika nie może przekroczyć 170 kg/ha w ciągu roku."
+    },
+    {
+      "q": "Które działanie hodowlane jest dopuszczalne w gospodarstwie ekologicznym?",
+      "options": [
+        "Transplantacja zarodków",
+        "Utrzymywanie zwierząt GMO",
+        "Stosowanie stymulatorów wzrostu",
+        "Sztuczne krycie"
+      ],
+      "answer": 3,
+      "explain": "Sztuczne krycie jest dopuszczalne, a transplantacja zarodków i zwierzęta GMO – nie."
+    },
+    {
+      "q": "Rocznie do gospodarstwa ekologicznego można wprowadzić z chowu nieekologicznego maksymalnie:",
+      "options": [
+        "30% dorosłych koni i bydła",
+        "50% dorosłych świń",
+        "10% dorosłych koni i bydła",
+        "5% dorosłych owiec"
+      ],
+      "answer": 2,
+      "explain": "Można wprowadzić max 10% dorosłych koni i bydła oraz 20% dorosłych świń, owiec i kóz rocznie."
+    },
+    {
+      "q": "Przy tworzeniu stada po raz pierwszy cielęta z produkcji nieekologicznej muszą być w wieku poniżej:",
+      "options": [
+        "1 miesiąca",
+        "6 miesięcy",
+        "12 miesięcy",
+        "18 miesięcy"
+      ],
+      "answer": 1,
+      "explain": "Cielęta oraz źrebięta muszą mieć mniej niż 6 miesięcy."
+    },
+    {
+      "q": "Przy tworzeniu stada prosięta z produkcji nieekologicznej muszą ważyć mniej niż:",
+      "options": [
+        "15 kg",
+        "35 kg",
+        "60 kg",
+        "100 kg"
+      ],
+      "answer": 1,
+      "explain": "Prosięta muszą ważyć mniej niż 35 kg."
+    },
+    {
+      "q": "Jagnięta i koźlęta z produkcji nieekologicznej wprowadzane przy tworzeniu stada muszą mieć mniej niż:",
+      "options": [
+        "60 dni",
+        "14 dni",
+        "6 miesięcy",
+        "1 rok"
+      ],
+      "answer": 0,
+      "explain": "Jagnięta i koźlęta muszą być w wieku poniżej sześćdziesięciu dni."
+    },
+    {
+      "q": "Kodeks Dobrostanu Zwierząt z „pięcioma wolnościami” opracowała:",
+      "options": [
+        "IFOAM",
+        "Światowa Organizacja Zdrowia",
+        "Komisja Europejska",
+        "Rada Dobrostanu Zwierząt (FAWC)"
+      ],
+      "answer": 3,
+      "explain": "Kodeks opracowali specjaliści z angielskiej Rady Dobrostanu Zwierząt (Farm Animals Welfare Council)."
+    },
+    {
+      "q": "Która z poniższych NIE należy do „pięciu wolności” zwierząt?",
+      "options": [
+        "Wolność od głodu i pragnienia",
+        "Wolność od strachu i stresu",
+        "Wolność od pracy",
+        "Wolność wyrażania normalnego behawioru"
+      ],
+      "answer": 2,
+      "explain": "Pięć wolności to: od głodu i pragnienia, dyskomfortu, bólu i chorób, strachu i stresu oraz wyrażania normalnego behawioru."
+    },
+    {
+      "q": "Sztucznie przedłużany dzień świetlny w budynkach dla zwierząt ekologicznych nie może trwać dłużej niż:",
+      "options": [
+        "12 godzin",
+        "20 godzin",
+        "16 godzin",
+        "24 godziny"
+      ],
+      "answer": 2,
+      "explain": "Sztucznie przedłużany dzień świetlny nie może trwać dłużej niż 16 godzin."
+    },
+    {
+      "q": "Skracanie ogonów jagniętom w chowie ekologicznym jest dopuszczalne do:",
+      "options": [
+        "3. dnia życia",
+        "14. dnia życia",
+        "60. dnia życia",
+        "6. miesiąca życia"
+      ],
+      "answer": 1,
+      "explain": "Dopuszczalne jest skracanie ogonów jagniąt do 14 dnia życia."
+    },
+    {
+      "q": "Skracanie kiełków prosiętom jest dopuszczalne do:",
+      "options": [
+        "3. dnia życia",
+        "14. dnia życia",
+        "28. dnia życia",
+        "40. dnia życia"
+      ],
+      "answer": 0,
+      "explain": "Skracanie kiełków prosiąt dopuszcza się do 3 dnia życia."
+    },
+    {
+      "q": "Kastrację knurków w chowie ekologicznym wykonuje się do:",
+      "options": [
+        "7 dni",
+        "3 miesięcy",
+        "6 miesięcy",
+        "28 dni"
+      ],
+      "answer": 3,
+      "explain": "Kastracja knurków dozwolona do 28 dni, a buhajków, tryczków i koziołków do 3 miesiąca."
+    },
+    {
+      "q": "Który zabieg jest zabroniony w chowie ekologicznym?",
+      "options": [
+        "Zakładanie kółek nosowych buhajkom hodowlanym",
+        "Kastracja knurków do 28 dni",
+        "Skracanie ogonów jagniąt do 14 dni",
+        "Piłowanie zębów"
+      ],
+      "answer": 3,
+      "explain": "Zabronione jest m.in. piłowanie zębów, kształtowanie dziobów i usuwanie rogów."
+    },
+    {
+      "q": "Cielęta w gospodarstwie ekologicznym karmi się naturalnym mlekiem przez co najmniej:",
+      "options": [
+        "40 dni",
+        "45 dni",
+        "3 miesiące",
+        "6 miesięcy"
+      ],
+      "answer": 2,
+      "explain": "Młode bydło i koniowate karmi się mlekiem co najmniej trzy miesiące."
+    },
+    {
+      "q": "Jagnięta i koźlęta karmi się naturalnym mlekiem przez co najmniej:",
+      "options": [
+        "14 dni",
+        "45 dni",
+        "3 miesiące",
+        "6 miesięcy"
+      ],
+      "answer": 1,
+      "explain": "Okres karmienia mlekiem wynosi 45 dni dla owiec i kóz."
+    },
+    {
+      "q": "Pasza objętościowa (zielona, susz, kiszonka) powinna stanowić w s.m. dziennej dawki przeżuwaczy co najmniej:",
+      "options": [
+        "60%",
+        "20%",
+        "40%",
+        "90%"
+      ],
+      "answer": 0,
+      "explain": "Co najmniej 60% suchej masy dziennej dawki powinna stanowić pasza objętościowa."
+    },
+    {
+      "q": "Maksymalny roczny udział paszy nieekologicznej w żywieniu zwierząt wynosi:",
+      "options": [
+        "5%",
+        "1%",
+        "25%",
+        "60%"
+      ],
+      "answer": 0,
+      "explain": "Maksymalny dozwolony procent paszy nieekologicznej wynosi w stosunku rocznym 5%."
+    },
+    {
+      "q": "Maksymalny udział paszy nieekologicznej w dziennej dawce pokarmowej (% s.m.) wynosi:",
+      "options": [
+        "5%",
+        "10%",
+        "50%",
+        "25%"
+      ],
+      "answer": 3,
+      "explain": "Maksymalny udział paszy nieekologicznej w dawce dziennej wynosi 25%."
+    },
+    {
+      "q": "Pasze z okresu konwersji pochodzące z tego samego gospodarstwa mogą stanowić do:",
+      "options": [
+        "5% dawki",
+        "30% dawki",
+        "60% dawki",
+        "100% dawki"
+      ],
+      "answer": 2,
+      "explain": "Średnio do 30%, a gdy pochodzą z tego samego gospodarstwa – do 60%."
+    },
+    {
+      "q": "Enzymy i mikroorganizmy należą do dodatków paszowych:",
+      "options": [
+        "dietetycznych",
+        "zootechnicznych",
+        "technologicznych",
+        "sensorycznych"
+      ],
+      "answer": 1,
+      "explain": "Dodatki zootechniczne to enzymy i mikroorganizmy."
+    },
+    {
+      "q": "Dodatki do kiszonek (enzymy, drożdże, bakterie) w chowie ekologicznym są dopuszczalne:",
+      "options": [
+        "zawsze",
+        "gdy pogoda uniemożliwia właściwą fermentację",
+        "nigdy",
+        "tylko w kiszonce z kukurydzy"
+      ],
+      "answer": 1,
+      "explain": "Dodatki do kiszonek stosuje się tylko wtedy, gdy warunki pogodowe nie pozwalają na właściwą fermentację."
+    },
+    {
+      "q": "Który środek leczniczy jest dozwolony w chowie ekologicznym bez ograniczeń?",
+      "options": [
+        "Leki homeopatyczne",
+        "Antybiotyki profilaktycznie",
+        "Stymulatory płodności",
+        "Sulfonamidy profilaktycznie"
+      ],
+      "answer": 0,
+      "explain": "Dozwolone są wyciągi ziołowe, leki homeopatyczne i mikroelementy."
+    },
+    {
+      "q": "Gdy dla syntetycznego leku weterynaryjnego nie określono karencji, w chowie ekologicznym wynosi ona:",
+      "options": [
+        "24 godziny",
+        "7 dni",
+        "14 dni",
+        "48 godzin"
+      ],
+      "answer": 3,
+      "explain": "Gdy nie ma określonego okresu karencji, wynosi on 48 godzin."
+    },
+    {
+      "q": "Kwarantanna nowo zakupionych zwierząt w gospodarstwie ekologicznym powinna trwać co najmniej:",
+      "options": [
+        "3 dni",
+        "1 tydzień",
+        "3 tygodnie",
+        "3 miesiące"
+      ],
+      "answer": 2,
+      "explain": "Obserwacja (kwarantanna) powinna trwać co najmniej 3 tygodnie."
+    },
+    {
+      "q": "Zwierzęta obecne w gospodarstwie przestawianym uzyskują status ekologicznych po:",
+      "options": [
+        "6 tygodniach",
+        "12 miesiącach",
+        "24 miesiącach konwersji całego gospodarstwa",
+        "36 miesiącach"
+      ],
+      "answer": 2,
+      "explain": "Po 24 miesiącach konwersji całego gospodarstwa zwierzęta mogą uzyskać status ekologicznych."
+    },
+    {
+      "q": "Okres konwersji dla drobiu na produkcję mięsną (pisklęta do 3. dnia życia) wynosi:",
+      "options": [
+        "6 tygodni",
+        "10 tygodni",
+        "12 miesięcy",
+        "2 lata"
+      ],
+      "answer": 1,
+      "explain": "Okres konwersji wynosi 10 tygodni dla drobiu mięsnego i 6 tygodni dla nieśnego."
+    },
+    {
+      "q": "Przy powiększaniu stada lub zmianie rasy można kupić samice nieródki w liczbie do:",
+      "options": [
+        "40% stada",
+        "10% stada",
+        "20% stada",
+        "100% stada"
+      ],
+      "answer": 0,
+      "explain": "Za zgodą WIJHAR-S można kupić samice nieródki w liczbie do 40% istniejącego stada."
+    },
+    {
+      "q": "Zgody na powiększenie stada lub zmianę rasy zwierzętami nieekologicznymi udziela:",
+      "options": [
+        "ARiMR",
+        "Inspekcja Weterynaryjna",
+        "wójt gminy",
+        "WIJHAR-S"
+      ],
+      "answer": 3,
+      "explain": "Zakup jest możliwy tylko za zgodą WIJHAR-S, na wniosek zaopiniowany przez jednostkę certyfikującą."
+    },
+    {
+      "q": "Do najważniejszych ras bydła mięsnego w produkcji ekologicznej należy:",
+      "options": [
+        "Jersey",
+        "Czarno-biała",
+        "Montbeliarde",
+        "Limousine"
+      ],
+      "answer": 3,
+      "explain": "Najważniejsze rasy mięsne to Simentalska, Charolaise i Limousine."
+    },
+    {
+      "q": "W chowie ekologicznym bydła mięsnego wyklucza się:",
+      "options": [
+        "wypas na pastwisku",
+        "ściółkę ze słomy",
+        "system bezściółkowy",
+        "dostęp do wybiegu"
+      ],
+      "answer": 2,
+      "explain": "W chowie bydła mięsnego metodami ekologicznymi wyklucza się bezściółkowy system utrzymania."
+    },
+    {
+      "q": "Jaka część powierzchni kojca dla świń w chowie ekologicznym musi być lita (pełna)?",
+      "options": [
+        "Jedna czwarta",
+        "Połowa",
+        "Jedna dziesiąta",
+        "Cała"
+      ],
+      "answer": 1,
+      "explain": "Połowa powierzchni kojca musi być lita – pełna."
+    },
+    {
+      "q": "Rodzimą rasą świń objętą ochroną zasobów genetycznych jest:",
+      "options": [
+        "Złotnicka pstra",
+        "Duroc",
+        "Hampshire",
+        "Pietraine"
+      ],
+      "answer": 0,
+      "explain": "Rodzime rasy chronione to Złotnicka biała, Złotnicka pstra i Puławska."
+    },
+    {
+      "q": "Minimalna powierzchnia w owczarni na jedną owcę w chowie ekologicznym wynosi:",
+      "options": [
+        "1,5 m²",
+        "0,3 m²",
+        "2,5 m²",
+        "5 m²"
+      ],
+      "answer": 0,
+      "explain": "Na owcę przeznacza się minimum 1,5 m² w owczarni, a na jagnię 0,3 m²."
+    },
+    {
+      "q": "Najliczniejszą rasą owiec objętą Programem Ochrony Zasobów Genetycznych jest:",
+      "options": [
+        "Merynos polski",
+        "Owca olkuska",
+        "Owca kamieniecka",
+        "Wrzosówka"
+      ],
+      "answer": 3,
+      "explain": "Najliczniejszą spośród ras chronionych jest owca rasy Wrzosówka."
+    },
+    {
+      "q": "Do ekologicznej produkcji jaj najlepiej nadaje się rasa kur:",
+      "options": [
+        "Leghorn",
+        "Rhode Island Red",
+        "Zielononóżka kuropatwiana",
+        "Sussex"
+      ],
+      "answer": 2,
+      "explain": "Najlepiej nadają się rodzime rasy: Zielononóżka kuropatwiana, Żółtonóżka kuropatwiana i Polbar."
+    },
+    {
+      "q": "Który środek jest dozwolony do dezynfekcji pomieszczeń w gospodarstwie ekologicznym?",
+      "options": [
+        "Chlorek rtęci",
+        "Mleko wapienne",
+        "Lindan",
+        "DDT"
+      ],
+      "answer": 1,
+      "explain": "Do mycia i dezynfekcji dozwolone są m.in. mleko wapienne, wapno, podchloryn sodu i kwasy organiczne."
+    },
+    {
+      "q": "Najbardziej przydatną metodą zwalczania gryzoni w gospodarstwie ekologicznym jest:",
+      "options": [
+        "fumigacja fosforowodorem",
+        "wykorzystanie naturalnych wrogów (koty, psy, łasice)",
+        "trutki z arszenikiem",
+        "zalewanie nor wodą z detergentem"
+      ],
+      "answer": 1,
+      "explain": "Najbardziej przydatna jest walka z gryzoniami przy pomocy naturalnych wrogów."
+    },
+    {
+      "q": "W Polsce programem ochrony objęto następującą liczbę ras, odmian, linii i rodów zwierząt gospodarskich oraz ryb:",
+      "options": [
+        "74",
+        "24",
+        "140",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "W Polsce objęte są ochroną 74 rasy, odmiany, linie i rody zwierząt gospodarskich oraz ryb."
+    },
+    {
+      "q": "Jaką rasę bydła przedstawia zdjęcie?",
+      "options": [
+        "Charolaise",
+        "Jersey",
+        "Czarno-biała",
+        "Polska czerwona"
+      ],
+      "answer": 0,
+      "explain": "Białe/kremowe bydło mięsne na zdjęciu to rasa Charolaise.",
+      "img": "img/re3/krowy-charolaise.jpg"
+    },
+    {
+      "q": "Jaką rasę bydła przedstawia zdjęcie?",
+      "options": [
+        "Jersey",
+        "Simentalska",
+        "Charolaise",
+        "Limousine"
+      ],
+      "answer": 0,
+      "explain": "Na zdjęciu krowa rasy Jersey – rasa mleczna polecana w chowie ekologicznym.",
+      "img": "img/re3/krowa-jersey.jpg"
+    },
+    {
+      "q": "Jaką rasę owiec przedstawia zdjęcie?",
+      "options": [
+        "Wrzosówka",
+        "Merynos polski",
+        "Owca wielkopolska",
+        "Polska owca górska"
+      ],
+      "answer": 0,
+      "explain": "Na zdjęciu owca rasy wrzosówka – najliczniejsza z ras objętych programem ochrony.",
+      "img": "img/re3/owca-wrzosowka.jpg"
+    },
+    {
+      "q": "Jaką rasę kur przedstawia zdjęcie?",
+      "options": [
+        "Zielononóżka kuropatwiana",
+        "Leghorn",
+        "Rhode Island Red",
+        "Sussex"
+      ],
+      "answer": 0,
+      "explain": "Na zdjęciu kogut rasy zielononóżka kuropatwiana – rodzimej rasy polecanej do ekologicznej produkcji jaj.",
+      "img": "img/re3/zielononozka-kuropatwiana.jpg"
+    },
+    {
+      "q": "Ile wynosi minimalna powierzchnia wybiegu (okólnika) na jedną owcę w chowie ekologicznym?",
+      "options": [
+        "1,5 m²",
+        "0,5 m²",
+        "2,5 m²",
+        "4 m²"
+      ],
+      "answer": 2,
+      "explain": "Owczarnia: 1,5 m² na owcę i 0,3 m² na jagnię; wybieg: 2,5 m² na owcę i 0,5 m² na jagnię."
+    },
+    {
+      "q": "Który środek NIE jest wymieniony jako dozwolony do dezynfekcji w gospodarstwie ekologicznym?",
+      "options": [
+        "Mleko wapienne",
+        "Nadtlenek wodoru",
+        "Kwas mrówkowy",
+        "Syntetyczny insektycyd fosforoorganiczny"
+      ],
+      "answer": 3,
+      "explain": "Dozwolone są m.in. mleko wapienne, nadtlenek wodoru i kwasy organiczne (cytrynowy, nadoctowy, mrówkowy, mlekowy, szczawiowy, octowy)."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaką maksymalną ilość dorosłych koni i bydła, niepochodzących z chowu ekologicznego, można wprowadzić do gospodarstwa ekologicznego (posiadającego więcej niż 10 sztuk bydła i koni) w celu odnowienia stada?",
+      "options": [
+        "5%.",
+        "10%.",
+        "1%.",
+        "2%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWyważona obsada zwierząt jest regulowana dopuszczalną zawartością …, która nie może przekroczyć 170 kg/ha w łącznej ilości obornika zastosowanego w gospodarstwie w ciągu roku.",
+      "options": [
+        "wodoru",
+        "azotu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczny chów zwierząt powinien opierać się przede wszystkim na wykorzystaniu ras krajowych i lokalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych warunków powinno zapewnić się zwierzętom utrzymywanym w gospodarstwie ekologicznym?",
+      "options": [
+        "Wentylacja naturalna.",
+        "Stały dostęp do świeżej wody pitnej i pasz.",
+        "Ściółka – niekoniecznie naturalna.",
+        "Światło dzienne.",
+        "Możliwość ruchu."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCo najmniej … suchej masy dziennej dawki pokarmowej przeżuwaczy powinna stanowić pasza objętościowa zielona, susz paszowy lub kiszonka.",
+      "options": [
+        "80%",
+        "60%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta wyhodowane na drodze inżynierii genetycznej są dopuszczone do utrzymywania w gospodarstwach ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Którego miesiąca życia nie mogą przekroczyć źrebięta z chowu konwencjonalnego wprowadzane do gospodarstwa ekologicznego?",
+      "options": [
+        "Pierwszego",
+        "Szóstego.",
+        "Trzeciego.",
+        "Dziewiątego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW ekologicznym chowie zwierząt zabronione jest stosowanie pasz zawierających ….",
+      "options": [
+        "GMO",
+        "enzymy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUtrzymywanie zwierząt dzikich, mieszańców zwierząt dzikich i gospodarskich oraz mieszańców międzygatunkowych zwierząt gospodarskich wymaga zgody jednostki nadzorującej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo należy karmić młode ssaki naturalnym mlekiem?",
+      "options": [
+        "Owce i kozy 45 dni.",
+        "Prosięta 40 dni.",
+        "Prosięta 3 miesiące.",
+        "Bydło 3 miesiące.",
+        "Owce i kozy 3 miesiące.",
+        "Bydło 45 dni."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW gospodarstwie ekologicznym … profilaktyczne stosowanie chemicznie syntetyzowanych leków weterynaryjnych (leków alopatycznych) i antybiotyków.",
+      "options": [
+        "zabronione jest",
+        "dozwolone jest"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrostan osiągany jest wtedy, jeżeli zwierzę jest zdrowe, bezpieczne i dobrze odżywione, nie cierpi niewygody i ma możliwość wyrazić swój stan wewnętrzny oraz jeżeli nie odczuwa bólu, strachu ani niepokoju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo może trwać sztuczne przedłużanie dnia świetlnego w gospodarstwach ekologicznych?",
+      "options": [
+        "Do 18 godzin.",
+        "Do 8 godzin.",
+        "Do 16 godzin.",
+        "Do 12 godzin."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku zwierząt ekologicznych okres karencji dla zastosowanych syntetycznych weterynaryjnych środków leczniczych jest dwukrotnie dłuższy niż prawnie obowiązujący okres karencji, a w przypadku gdy nie ma określonego okresu karencji wynosi ….",
+      "options": [
+        "72 godziny",
+        "48 godzin"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrwałe znakowanie zwierząt jest zabronione w gospodarstwach ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie działanie mają probiotyki stosowane w chowie ekologicznym?",
+      "options": [
+        "Mają działanie profilaktyczne.",
+        "Sprzyjają produkcji witamin.",
+        "Przeciwdziałają rozwojowi flory chorobotwórczej.",
+        "Zwiększają pH jelit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW hodowli ekologicznej skracanie ogonów jagniąt do 14 dnia życia jest ….",
+      "options": [
+        "dopuszczalne",
+        "niedopuszczalne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProwadząc ekologiczną hodowlę drobiu nie można wprowadzać osobników zakupionych z gospodarstwa konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką ilość bydła z chowu konwencjonalnego można dokupić, aby odnowić stado ekologiczne?",
+      "options": [
+        "20%.",
+        "25%.",
+        "10%.",
+        "15%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKwarantanna nowo zakupionych zwierząt przed połączeniem ze stadem powinna trwać ….",
+      "options": [
+        "3 tygodnie",
+        "48 godzin"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczepienia zwierząt ekologicznych wolno wykonywać tylko wtedy, gdy nakazane są one urzędowo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych weterynaryjnych środków leczniczych są dozwolone w rolnictwie ekologicznym?",
+      "options": [
+        "Mikroelementy.",
+        "Wyciągi i wywary ziołowe.",
+        "Leki homeopatyczne.",
+        "Antybiotyki (pod pewnymi warunkami)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWysiewanie poplonów … erozji gleby i wymywaniu składników pokarmowych.",
+      "options": [
+        "nie zapobiega",
+        "zapobiega"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nImmunizacji można poddawać tylko zwierzęta zdrowe i odrobaczone.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czym jest konwersja stada?",
+      "options": [
+        "Otrzymanie certyfikacji ekologicznej.",
+        "Przestawienie stada na hodowlę ekologiczną.",
+        "Uzupełnienie stada o osobniki z chowu ekologicznego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZwierzęta ekologiczne do takie, które od momentu … utrzymywane są w warunkach ekologicznych.",
+      "options": [
+        "urodzenia",
+        "zakupu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku powiększania stada ekologicznego lub zmiany rasy możliwy jest zakup zwierząt z gospodarstw konwencjonalnych pod pewnymi warunkami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiedy w rolnictwie ekologicznym dopuszcza się leczenie konwencjonalne?",
+      "options": [
+        "W razie konieczności ratowania życia.",
+        "W profilaktyce.",
+        "Aby zapobiec niepotrzebnym cierpieniom zwierzęcia.",
+        "Gdy nie są dostępne żadne inne środki lecznicze."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDobór gatunków i ras zwierząt gospodarskich … uzależniony od warunków lokalnych.",
+      "options": [
+        "jest",
+        "nie jest"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki udział paszy nieekologicznej jest dozwolony w gospodarstwie ekologicznym w stosunku rocznym?",
+      "options": [
+        "20%.",
+        "5%.",
+        "10%.",
+        "25%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z dziedzin rolnictwa ekologicznego jest chów bydła, który w zależności od kierunku hodowli może być mięsny, mleczny lub mieszany.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy odnowie stada w gospodarstwie ekologicznym … zwierząt z gospodarstw konwencjonalnych.",
+      "options": [
+        "dopuszcza się zakup",
+        "nie dopuszcza się zakupu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZabiegi dotyczące zdrowia zwierząt w gospodarstwach ekologicznych powinny opierać się przede wszystkim na medycynie konwencjonalnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W Polsce do najważniejszych ras bydła mlecznego utrzymywanych metodami ekologicznym zalicza się:",
+      "options": [
+        "Czarno-biała.",
+        "Polska czerwona.",
+        "Simentalska.",
+        "Charolaise."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW gospodarstwie ekologicznym usuwanie rogów u młodych zwierząt … dopuszczalne.",
+      "options": [
+        "nie jest",
+        "jest"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnicy ekologiczni stosują głównie mechaniczne metody uprawy roli w celu utrzymania optymalnej struktury gleby i jej ogólnego stanu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które środki weterynaryjne są całkowicie zabronione w hodowli ekologicznej?",
+      "options": [
+        "Antybiotyki.",
+        "Prostaglandyny przy porodach.",
+        "Preparaty przeciwpasożytnicze.",
+        "Środki regulujące ciepłotę ciała."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWykaszanie roślinności wokół budynków i magazynów paszy zaleca się w celu ….",
+      "options": [
+        "zwiększenia dostępu tlenu i światła",
+        "ograniczenia dostępu gryzoni"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwie ekologicznym niedozwolone jest przeprowadzanie zabiegów kastracyjnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras świń objęte są programem ochrony zasobów genetycznych zwierząt gospodarskich?",
+      "options": [
+        "Złotnicka pstra.",
+        "Wielka biała polska.",
+        "Puławska.",
+        "Złotnicka biała.",
+        "Polska biała zwisłoucha."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW gospodarstwach ekologicznych używanie treserów jest ….",
+      "options": [
+        "dopuszczalne",
+        "niedopuszczalne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwach ekologicznych do dezynfekcji niektórych urządzeń metalowych, części klatek itp., można używać płomieni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dlaczego rasy lokalne polecane są do gospodarstw ekologicznych?",
+      "options": [
+        "Zapewniają rekordowy poziom produkcji.",
+        "Są doskonale przystosowane do warunków lokalnych.",
+        "Cechuje je duża płodność i długowieczność."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZwierzęta znajdujące się fizycznie w gospodarstwie przystępującym do rolnictwa ekologicznego po … konwersji całego gospodarstwa mogą uzyskać status ekologicznych.",
+      "options": [
+        "24 miesiącach",
+        "12 miesiącach"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBydło rasy Jersey objęte jest programem ochrony zasobów genetycznych zwierząt gospodarskich.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie działanie mają probiotyki stosowane w chowie ekologicznym?",
+      "options": [
+        "Ograniczają wstępowanie zaburzeń układu trawiennego.",
+        "Sprzyjają produkcji witamin.",
+        "Przeciwdziałają rozwojowi flory bakteryjnej.",
+        "Zwiększają pH jelit."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta utrzymywane w gospodarstwach ekologicznych mogą być kupowane na targowiskach oraz aukcjach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras bydła objęte są programem ochrony zasobów genetycznych zwierząt gospodarskich?",
+      "options": [
+        "Czarno-biała.",
+        "Siementalska.",
+        "Charolaise.",
+        "Polska czerwona.",
+        "Czerwono-biała."
+      ],
+      "answers": [
+        0,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonwersja stada oznacza przestawienie zwierząt z chowu tradycyjnego na ekologiczny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zasady profilaktyki zdrowotnej zwierząt z chowu ekologicznego powinny być przestrzegane?",
+      "options": [
+        "Dostęp do świeżego powietrza, wody i naturalnego światła.",
+        "Dobór odpowiednich ras zwierząt.",
+        "Prowadzenie chowu w warunkach zgodnych z wymaganiami gatunku.",
+        "Stosowanie wysokiej jakości pasz."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile sztuk hodowlanych z chowu konwencjonalnego wolno wprowadzić w ciągu roku do gospodarstw ekologicznych, w których jest mniej niż 10 sztuk bydła i koni oraz 5 sztuk świń, owiec lub kóz?",
+      "options": [
+        "10% dla każdego gatunku.",
+        "Dwie dla każdego gatunku.",
+        "Jedną dla każdego gatunku.",
+        "Nie ma możliwości wprowadzenia zwierząt spoza hodowli ekologicznej."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy wyborze odpowiednich ras do hodowli ekologicznej powinny być preferowane rasy rodzime.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które środki są zabronione w profilaktyce zwierząt chowu ekologicznego?",
+      "options": [
+        "Wyciągi i wywary ziołowe.",
+        "Leki alopatyczne.",
+        "Mikroelementy.",
+        "Leki homeopatyczne."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakich przypadkach możliwe jest wprowadzenie zwierząt z chowu konwencjonalnego do ekologicznego?",
+      "options": [
+        "Gdy zwierzęta z chowu ekologicznego nie są dostępne.",
+        "W przypadku wysokiej śmiertelności zwierząt z powodu klęski żywiołowej.",
+        "W celu odnowy lub odbudowy stada."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPo 24 miesiącach konwersji zwierzęta przebywające w danym gospodarstwie mogą otrzymać status ekologicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka powinna być obsada zwierząt na 1 ha przeliczeniowy gospodarstwa ekologicznego?",
+      "options": [
+        "1,5–2,5 DJP.",
+        "2,5–3,5 DJP.",
+        "0,5–1,5 DJP."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Które z niekonwencjonalnych metod leczenia mogą być stosowane na zwierzętach z chowu ekologicznego?",
+      "options": [
+        "Radioterapia.",
+        "Homeopatia.",
+        "Akupunktura.",
+        "Fitoterapia."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTworząc po raz pierwszy stado ekologiczne, istnieje możliwość wprowadzenia do gospodarstwa młodych zwierząt z produkcji nieekologicznej i chowania ich zgodnie z zasadami ekologii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które zabiegi są zabronione w gospodarstwie prowadzonym metodami ekologicznymi?",
+      "options": [
+        "Kształtowanie dziobów.",
+        "Systematyczne piłowanie zębów.",
+        "Usuwanie rogów u młodych zwierząt.",
+        "Systematyczne mocowanie elastycznej taśmy do ogonów owiec."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaka jest dopuszczalna zawartość azotu w łącznej ilości obornika zastosowanego w gospodarstwie w ciągu roku?",
+      "options": [
+        "180 kg/ha.",
+        "250 kg/ha.",
+        "200 kg/ha.",
+        "170 kg/ha."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku sztucznego przedłużania dnia świetlnego w gospodarstwach ekologicznych nie może on trwać dłużej niż 12 godzin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku wysokiej śmiertelności zwierząt gospodarstwie ekologicznym, wynikającej z warunków zdrowotnych lub klęski żywiołowej, dopuszcza się zakup zwierząt z gospodarstw konwencjonalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rasy kur polecane są do chowu ekologicznego?",
+      "options": [
+        "Kura domowa.",
+        "Polbar.",
+        "Żółtonóżka kuropatwiana.",
+        "Sussasex.",
+        "Zielononóżka kuropatwiana."
+      ],
+      "answers": [
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwach ekologicznych nie dopuszcza się zabiegów związanych z naruszaniem powłok ciała zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki jest maksymalny dozwolony udział paszy nieekologicznej w dziennej dawce pokarmowej zwierząt z chowu ekologicznego?",
+      "options": [
+        "5%.",
+        "25%.",
+        "50%.",
+        "10%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwach ekologicznych zabronione jest stosowanie pasz zawierających antybiotyki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co powinno znaleźć się w dokumentacji leczniczej prowadzonej w gospodarstwie ekologicznym?",
+      "options": [
+        "Zastosowane leki oraz ich dawki.",
+        "Okres trwania choroby.",
+        "Okres podawania leków.",
+        "Zastosowane zabiegi lecznicze.",
+        "Nazwa schorzenia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRasy koni: konik polski, huculska oraz wielkopolska są przykładami ras objętych programem ochrony zasobów genetycznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie ekologicznym nie ma ograniczeń co do stosowania dodatków paszowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych ras bydła można zaliczyć w Polsce do najważniejszych ras bydła mięsnego utrzymywanych metodami ekologicznymi?",
+      "options": [
+        "Charolaise.",
+        "Limousine.",
+        "Polska czerwona.",
+        "Simentalska."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwach ekologicznych zabrania się stosowania w żywieniu zwierząt substancji stymulujących wzrost i wydajność.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonserwanty można dodawać do żywności zwierząt z chowu ekologicznego, aby ustrzec ją przed pleśnieniem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do czego wykorzystywane jest mleko wapienne w gospodarstwach ekologicznych?",
+      "options": [
+        "Do zabiegów leczniczych.",
+        "Do zmiękczania gleby.",
+        "Do dezynfekcji pomieszczeń gospodarskich.",
+        "Jako składnik nawozów naturalnych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDziałalność profilaktyczna prowadzona w gospodarstwach ekologicznych nie musi być dokumentowana.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW chowie bydła mięsnego metodami ekologicznymi dopuszcza się stosowanie bezściółkowego systemu utrzymania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cechy, jakimi charakteryzują się rodzime rasy zwierząt gospodarskich.",
+      "options": [
+        "Niższa użytkowość.",
+        "Niska odporność na stres.",
+        "Wymaganie naturalnych warunków chowu.",
+        "Przystosowanie do lokalnych warunków."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Która z wymienionych metod w sposób naturalny podwyższa kondycję gleby?",
+      "options": [
+        "Płodozmian.",
+        "Zakładanie zadrzewień śródpolnych.",
+        "Wysiewanie poplonów.",
+        "Stosowanie syntetycznych nawozów mineralnych."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku ekologicznego chowu drobiu możliwy jest zakup zwierząt ze źródeł konwencjonalnych na cele produkcyjne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW gospodarstwie ekologicznym w celach bezpieczeństwa można przeprowadzać niektóre zabiegi związane z naruszeniem powłok ciała zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wrzosówka to rasa:",
+      "options": [
+        "owiec.",
+        "kur.",
+        "bydła.",
+        "kóz."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

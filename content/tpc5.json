@@ -1,0 +1,1852 @@
+{
+  "id": "tpc5",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Produkcja zwierzęca",
+  "number": "V",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Produkcja zwierzęca to wyzwanie ze względu na ogrom prac, nieprzewidywalność pracy z żywymi organizmami oraz względy organizacyjne.",
+        "Zagrożenia wynikają z chowu wielkostadnego i prowadzenia działań rolniczych i hodowlanych w tym samym gospodarstwie.",
+        "Aby zachęcić rolników do przestrzegania przepisów ochrony środowiska, powstał system dopłat i programy wsparcia, obwarowane specjalnymi wymogami.",
+        "Zasady Dobrej Praktyki Rolniczej określają maksymalne limity wytwarzanych nawozów i zasady produkcji chroniące wody, gleby i powietrze.",
+        "Zasady Wzajemnej Zgodności określają konkretne wymagania dotyczące obszarów produkcji i ujednolicają system dopłat.",
+        "Ekologiczna produkcja zwierzęca ma dawać produkty lepszej jakości przy minimalnym negatywnym wpływie na środowisko.",
+        "Coraz większa skala produkcji prowadzi do zagarniania coraz większych terenów; ustanowienie Zasad Dobrej Praktyki Rolniczej wyrównuje standardy gospodarstw i zmniejsza zagrożenie dla otoczenia."
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia",
+      "points": [
+        "Zwykła dobra praktyka rolnicza – podstawowe standardy gospodarowania z uwzględnieniem ochrony środowiska: racjonalna gospodarka nawozami, ochrona gleb i wód, ochrona krajobrazu rolniczego, zachowanie siedlisk oraz gatunków roślin i zwierząt.",
+        "Zasady wzajemnej zgodności – warunkiem płatności jest utrzymanie gruntów w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i spełnienie podstawowych wymogów z zakresu zarządzania; podzielone na obszary A, B i C.",
+        "Obszary OSN – obszary szczególnie narażone na działanie azotanów ze źródeł rolniczych (głównie z nawożenia); obowiązuje tam program ochrony wód, a naruszenia grożą kontrolą i sankcjami.",
+        "Na OSN konieczne są m.in.: bilans azotu w gospodarstwie, plan nawozowy, płyty obornikowe i zbiorniki na gnojowicę; kiszonki powinny być produkowane w rękawach zabezpieczających przed wyciekami do gruntu.",
+        "Produkcja podstawowa (pierwotna) – produkcja roślinna, zwierzęca, produkty pochodzenia zwierzęcego (jaja, mleko), rybołówstwo, produkcja ryb i mięczaków, pozyskiwanie zwierząt łownych, grzybów, jagód (art. 3 ust. 17 Rozporządzenia (WE) nr 178/2002).",
+        "Produkty podstawowe (pierwotne) – pochodzenia roślinnego (zboża, owoce, warzywa, zioła, grzyby), zwierzęcego (jaja, surowe mleko, miód, produkty rybołówstwa) oraz surowce zbierane w naturalnym środowisku (grzyby, jagody, ślimaki).",
+        "Działania powiązane w produkcji podstawowej: transport, magazynowanie i obsługa produktów w miejscu produkcji bez znaczącej zmiany ich charakteru; transport żywych zwierząt; transport produktów roślinnych, rybołówstwa i zwierząt łownych z miejsca produkcji do zakładu.",
+        "Ekologiczne metody chowu: dostęp do swobodnego wypasu i wybiegów, ograniczona liczba sztuk na jednostkę powierzchni, pasze ekologiczne, zakaz niektórych leków weterynaryjnych w profilaktyce, integracja produkcji roślinnej i zwierzęcej.",
+        "Okres konwersji – czas przestawienia gospodarstwa na metody ekologiczne; składa się Zgłoszenie podjęcia działalności w rolnictwie ekologicznym w jednostce certyfikującej i podpisuje umowę.",
+        "Okres konwersji wynosi: 2 lata przed wysiewem (dla łąk i roślin wieloletnich – co najmniej 2 lata przed wykorzystaniem jako paszy ekologicznej); dla roślin wieloletnich innych niż łąkowe – co najmniej 3 lata przed pierwszym zbiorem.",
+        "Jednostki certyfikujące – niezależne placówki/firmy z pozwoleniem Ministerstwa Rolnictwa i Rozwoju Wsi; przyjmują wnioski, kontrolują, przyznają i cofają certyfikaty zgodności.",
+        "W ekologicznym chowie zanieczyszczenia ograniczone są do minimum.",
+        "W okresie konwersji stosuje się już wszystkie zasady rolnictwa ekologicznego."
+      ]
+    },
+    {
+      "heading": "2. Źródła informacji o ZZDPR i ZWZ",
+      "points": [
+        "Najważniejsze podstawy prawne Zwykłej Dobrej Praktyki Rolniczej: Załącznik nr 1 do Rozporządzenia Rady Ministrów z 14 kwietnia 2004 r. (ONW), Rozporządzenie MRiRW z 30 marca 2004 r. (wzory wniosków o płatności), Rozporządzenie RM z 9 marca i 25 kwietnia 2006 r.",
+        "Zasady wzajemnej zgodności dotyczą wysokości płatności bezpośrednich pod warunkiem spełnienia przez beneficjentów określonych wymogów.",
+        "Przepisy przyporządkowane do obszarów ZWZ znajdują się m.in. na stronie Ministerstwa Rolnictwa (minrol.gov.pl).",
+        "Informacje o obowiązujących przepisach i zmianach – strona ARiMR (arimr.gov.pl), oddziały regionalne i biura powiatowe ARiMR.",
+        "Informacji udzielają także Izby Rolnicze i jednostki certyfikujące; wydawane są biuletyny i poradniki."
+      ]
+    },
+    {
+      "heading": "3. Obszary wymogów ZWZ – A, B, C",
+      "points": [
+        "Obszar A: ochrona środowiska naturalnego oraz identyfikacja i rejestracja zwierząt.",
+        "Obszar B: zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin.",
+        "Obszar C: dobrostan zwierząt.",
+        "Obszar A – ochrona środowiska obejmuje: ochronę dzikiego ptactwa, siedlisk przyrodniczych i dzikiej fauny i flory, wód gruntowych przed substancjami niebezpiecznymi, środowiska i gleby przy stosowaniu komunalnych osadów ściekowych, wód przed azotanami pochodzenia rolniczego.",
+        "Identyfikacja i rejestracja zwierząt – osobne wymogi dla utrzymujących bydło, owce lub kozy oraz świnie."
+      ],
+      "images": [
+        {
+          "src": "img/tpc5/obszary-zwz.jpg",
+          "caption": "Rysunek 5.1. Obszary wymogów Zasad Wzajemnej Zgodności: A – ochrona środowiska naturalnego oraz identyfikacja i rejestracja zwierząt; B – zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin; C – dobrostan zwierząt."
+        }
+      ]
+    },
+    {
+      "heading": "Identyfikacja i rejestracja – bydło",
+      "points": [
+        "Posiada numer siedziby stada.",
+        "Prowadzi aktualną księgę rejestracji; każde zdarzenie wpisuje w ciągu 7 dni.",
+        "Księgę (papierową lub elektroniczną) przechowuje 3 lata od dnia utraty zwierzęcia.",
+        "Urodzenia, śmierć i przemieszczenia zwierząt zgłasza do powiatowego biura ARiMR w terminie 7 dni.",
+        "Bydło znakuje kolczykami w obu uszach w ciągu 7 dni od urodzenia (lub wcześniej – przed opuszczeniem siedziby stada); zwierzęta z państw trzecich – od kontroli granicznej (chyba że ubój nastąpi 20 dni po kontroli).",
+        "Wszystkie zwierzęta mają paszporty zgodne ze wzorem.",
+        "Na żądanie ARiMR lub Inspekcji Weterynaryjnej przedstawia informacje o pochodzeniu, identyfikacji i przeznaczeniu bydła z ostatnich 3 lat.",
+        "Księgę rejestracji w formie papierowej prowadzi się zgodnie z określonym wzorem (rozporządzenie); paszporty bydła też są zgodne ze wzorem z rozporządzenia."
+      ]
+    },
+    {
+      "heading": "Identyfikacja i rejestracja – owce, kozy i świnie",
+      "points": [
+        "Owce/kozy: numer siedziby stada, księga rejestracji (wpis w ciągu 7 dni, przechowywanie 3 lata), udostępnianie księgi na żądanie kontrolującego.",
+        "Owce i kozy znakuje się kolczykami w ciągu 6 miesięcy od urodzenia, ale przed opuszczeniem siedziby stada.",
+        "Owce i kozy z państw trzecich – oznakowanie w ciągu 14 dni od kontroli granicznej, jeśli nie idą do uboju w ciągu 5 dni roboczych; zwierzę z państwa członkowskiego zachowuje oryginalne oznakowanie.",
+        "Przewozowi owiec i kóz w kraju towarzyszą dokumenty przewozowe; ich kopie rolnik dostarcza na żądanie ARiMR lub Inspekcji Weterynaryjnej.",
+        "Spis owiec lub kóz w stadzie – raz na 12 miesięcy, nie później niż w dniu jesiennego przeglądu stada.",
+        "Świnie: numer siedziby stada, księga rejestracji (wpis w 7 dni, przechowywanie 3 lata), udostępnianie księgi kontrolującym.",
+        "Świnie znakuje się bezzwłocznie; żadna świnia nie może opuścić siedziby stada nieoznakowana.",
+        "Oznakowanie świni: kolczyk na lewej małżowinie usznej, widoczny tatuaż na obu małżowinach lub tatuaż na grzbiecie.",
+        "Utrzymujący owce lub kozy na żądanie ARiMR lub Inspekcji Weterynaryjnej przedstawia informacje o pochodzeniu, identyfikacji i przeznaczeniu zwierząt z ostatnich 3 lat.",
+        "Oznakowanie świni zawiera numer identyfikacyjny."
+      ]
+    },
+    {
+      "heading": "Obszar B – zdrowie zwierząt",
+      "points": [
+        "Obszar B obejmuje: zdrowie zwierząt, zdrowie publiczne (zgłaszanie chorób, TSE), bezpieczeństwo żywności i pasz (higiena pasz, żywności, produkcji roślinnej, zwierzęcej, jaj, mleka i siary), zdrowotność roślin.",
+        "Dokumentację leczenia zwierząt gospodarskich przechowuje się 5 lat od ostatniego wpisu.",
+        "Zakaz podawania preparatów hormonalnych, tyreostatycznych i β-agonistycznych w celach innych niż lecznicze.",
+        "Zakaz posiadania w gospodarstwie leków zawierających substancje β-agonistyczne (mogące przyspieszać poród) oraz estradiol 17β i jego pochodne.",
+        "Zakaz wprowadzania na rynek i uboju zwierząt, w których wykryto substancje zabronione podane w celach nieleczniczych.",
+        "Przy nieprzestrzeganiu okresu karencji nie wolno sprzedawać mięsa ani produktów od zwierząt leczonych substancjami estrogennymi, androgennymi lub gestagennymi.",
+        "Zakaz zabiegów zootechnicznych (np. synchronizacji rui) u zwierząt, które nie będą wykorzystywane do rozpłodu.",
+        "Hodowca ryb: zakaz utrzymywania zwierząt z substancjami zabronionymi; zakaz zmiany płci u ryb starszych niż 3 miesiące.",
+        "Zakaz podawania preparatów hormonalnych, tyreostatycznych i β-agonistycznych dotyczy też zwierząt dzikich utrzymywanych jako gospodarskie.",
+        "Substancji β-agonistycznych nie wolno też podawać iniekcyjnie zwierzętom hodowlanym (także reprodukcyjnym), które nie będą dalej wykorzystywane do rozrodu.",
+        "Zakaz obejmuje też przetwarzanie mięsa zwierząt, w których wykryto substancje zabronione podane w celach nieleczniczych.",
+        "Wymogi bezpieczeństwa żywności i pasz w obszarze B: higiena pasz, bezpieczeństwo żywności, higiena produkcji produktów roślinnych i zwierzęcych, higiena produkcji jaj, wymogi dla gospodarstw produkujących mleko i siarę do obrotu; wymogi bezpieczeństwa są określone osobno dla poszczególnych gałęzi produkcji."
+      ]
+    },
+    {
+      "heading": "Obszar B – zgłaszanie chorób i TSE",
+      "points": [
+        "Podejrzenie choroby zakaźnej trzeba niezwłocznie zgłosić Inspekcji Weterynaryjnej, najbliższemu lekarzowi weterynarii albo wójtowi (burmistrzowi, prezydentowi miasta).",
+        "Choroby podlegające zgłoszeniu m.in.: księgosusz, pomór małych przeżuwaczy, choroba pęcherzykowa świń, choroba niebieskiego języka, krwotoczna choroba zwierzyny płowej, ospa owiec i kóz, pęcherzykowe zapalenie jamy ustnej, afrykański pomór świń, choroba guzowatej skóry bydła, gorączka doliny Rift, pryszczyca.",
+        "Przy podejrzeniu pryszczycy – nakaz pozostawienia zwierząt w miejscu przebywania i niewprowadzania innych zwierząt.",
+        "TSE – przenośne gąbczaste encefalopatie.",
+        "Gdy w gospodarstwie są przeżuwacze i nieprzeżuwacze karmione białkiem zwierzęcym, przechowywanie i transport tego białka muszą wykluczać zanieczyszczenie pasz dla przeżuwaczy.",
+        "Przeżuwaczy nie wolno karmić białkiem zwierzęcym; odstępstwa: mleko i produkty mleczne, siara, jaja i produkty jajeczne, żelatyna i hydrolizaty od nieprzeżuwaczy, mączka rybna w preparatach mlekozastępczych dla nieodsadzonych przeżuwaczy.",
+        "Przy podejrzeniu TSE zakazane jest wywożenie zwierząt gatunków wrażliwych do czasu decyzji powiatowego lekarza weterynarii.",
+        "Zakaz wprowadzania na rynek potomstwa pierwszego pokolenia, nasienia, zarodków i komórek jajowych zwierząt podejrzanych lub z TSE w okresie 2 lat poprzedzających lub od pierwszego objawu.",
+        "Świadectwo zdrowia od urzędowego lekarza weterynarii jest obowiązkowe przy wprowadzaniu na rynek lub przywozie do Polski bydła, owiec, kóz oraz ich zarodków, nasienia i komórek jajowych.",
+        "Wymogi TSE są określone osobno dla wszystkich posiadaczy zwierząt, posiadaczy przeżuwaczy i nieprzeżuwaczy.",
+        "Zakazane jest też karmienie zwierząt gospodarskich innych niż przeżuwacze białkiem pochodzenia zwierzęcego (z odstępstwami).",
+        "Dopuszczone hydrolizaty białkowe pochodzą od zwierząt innych niż przeżuwacze lub ze skór i skórek przeżuwaczy.",
+        "Każde podejrzenie TSE rolnik niezwłocznie zgłasza Inspekcji Weterynaryjnej, lekarzowi weterynarii albo wójtowi (burmistrzowi, prezydentowi miasta); musi przestrzegać nakazów i zakazów powiatowego lekarza weterynarii i współdziałać przy zwalczaniu TSE.",
+        "Ospa owiec i ospa kóz to choroby wywoływane przez wirusy z rodzaju Capripox (nazwa podana w wykazie chorób zgłaszanych)."
+      ]
+    },
+    {
+      "heading": "Obszar C – dobrostan zwierząt",
+      "points": [
+        "Obszar C dotyczy: ochrony wszystkich zwierząt gospodarskich, dobrostanu cieląt i dobrostanu świń.",
+        "Dobrostan – warunki środowiskowe umożliwiające zwierzętom spełnianie potrzeb biologicznych i behawioralnych; zwierzę to żywy organizm zdolny do odczuwania cierpienia.",
+        "Wymogi dobrostanu określają: obchodzenie się ze zwierzętami, warunki utrzymania, obsadę na jednostkę powierzchni, przystosowanie zwierząt do warunków.",
+        "Dotyczą: bydła, owiec, kóz, świń, koniowatych, jeleniowatych, zwierząt futerkowych i drobiu.",
+        "Akty prawne: Dyrektywa 98/58/WE (ochrona zwierząt hodowlanych), Dyrektywa 2008/119/WE (minimalne normy ochrony cieląt), Dyrektywa 2008/120/WE (minimalne normy ochrony świń), rozporządzenia MRiRW z 28 czerwca 2010 r. i 15 lutego 2010 r.",
+        "Dobrostan uwzględnia aspekty etyczne – zwierzę nie jest przedmiotem produkcji, lecz żywym organizmem zdolnym do odczuwania cierpienia.",
+        "Daty aktów: Dyrektywa 98/58/WE – 20 lipca 1998 r.; Dyrektywy 2008/119/WE i 2008/120/WE – 18 grudnia 2008 r.",
+        "Rozporządzenie MRiRW z 28 czerwca 2010 r. – minimalne warunki utrzymywania gatunków, dla których normy ochrony nie zostały określone w przepisach UE; z 15 lutego 2010 r. – wymagania przy utrzymywaniu gatunków, dla których normy określono w przepisach UE."
+      ]
+    },
+    {
+      "heading": "4. Ekologiczna produkcja zwierzęca – podstawy",
+      "points": [
+        "Akty prawne: Rozporządzenie Rady 2092/91/EWG, Rozporządzenie Rady (WE) 834/2007 (uchyla 2092/91), Rozporządzenie (WE) 889/2008 (zasady wdrażania), Ustawa z 25 czerwca 2009 r. o rolnictwie ekologicznym.",
+        "Chów ekologiczny ma zapewnić równowagę paszowo-nawozową i zamknięty obieg materii w gospodarstwie.",
+        "Obecność zwierząt wymusza uprawę roślin pastewnych (większa bioróżnorodność) i daje własne nawozy organiczne.",
+        "Obsada zwierząt wynika z możliwości produkcji własnych pasz i zapotrzebowania roślin na składniki.",
+        "Dawka azotu z obornika nie może przekroczyć 170 kg N/ha rocznie – to wyznacza liczbę zwierząt; nadwyżki obornika można sprzedawać innym gospodarstwom.",
+        "Zasady (schemat obiegu): pasze i nawozy gospodarskie, wydłużone płodozmiany, odrzucenie syntetycznych dodatków paszowych, biologiczna ochrona roślin, mechaniczne zwalczanie chwastów, chów zgodny z wymogami gatunku, naturalne metody leczenia.",
+        "Rozporządzenie Rady 2092/91/EWG z 24 czerwca 1991 r. (Dz.U. L 198 z 22.7.1991) dotyczy: ogólnych zasad produkcji, przekształcania gospodarstw na produkcję ekologiczną, pochodzenia zwierząt, karmienia, zapobiegania chorobom i leczenia, praktyk gospodarskich, warunków w pomieszczeniach i na wybiegach oraz warunków transportu.",
+        "Rozporządzenie (WE) 834/2007 – z 28 czerwca 2007 r.; Rozporządzenie (WE) 889/2008 – z 5 września 2008 r. (szczegółowe zasady produkcji, znakowania i kontroli); Ustawa z 25 czerwca 2009 r. reguluje system organizacyjny rolnictwa ekologicznego w Polsce."
+      ],
+      "images": [
+        {
+          "src": "img/tpc5/obieg-materii-rolnictwo-ekologiczne.jpg",
+          "caption": "Rysunek 5.2. Obieg materii i zasady rolnictwa ekologicznego: pasze gospodarskie, odrzucenie syntetycznych dodatków paszowych, chów zgodny z wymogami gatunku, naturalne metody leczenia, nawozy gospodarskie, mechaniczne ograniczanie zachwaszczenia, biologiczna ochrona roślin, wydłużone płodozmiany."
+        }
+      ]
+    },
+    {
+      "heading": "Ekologiczna produkcja zwierzęca – okresy, zdrowie, żywienie",
+      "points": [
+        "Minimalny okres utrzymania według zasad ekologicznych: koniowate i bydło mięsne – 12 miesięcy; małe przeżuwacze i świnie – 6 miesięcy; zwierzęta mleczne – 6 miesięcy; drób mięsny – 10 tygodni; drób nieśny – 6 tygodni.",
+        "Zwierzęta muszą pochodzić z jednostek ekologicznych; w pierwszej kolejności wybiera się rasy rodzime (przystosowanie, żywotność, odporność).",
+        "Profilaktyka: dobór ras, praktyki wzmacniające odporność, unikanie nadmiernego zagęszczenia, dobre pasze, pastwisko i ruch.",
+        "Leczenie: leki roślinne (wyciągi, esencje), homeopatyczne, pierwiastki śladowe; syntetyczne leki i antybiotyki dopiero gdy te zawiodą – w profilaktyce zakazane.",
+        "Zakazy: trzymanie na uwięzi, przycinanie ogonów, piłowanie zębów, kształtowanie dziobów, usuwanie rogów, wymuszone karmienie (np. tuczenie gęsi rurą).",
+        "Pasze ekologiczne z własnego gospodarstwa lub innych jednostek ekologicznych; zakaz GMO, antybiotyków, stymulatorów wzrostu i produkcji.",
+        "Młode ssaki karmi się naturalnym mlekiem, najlepiej matki.",
+        "Roślinożercy: pasze objętościowe (zielonka, susz, kiszonka) – co najmniej 60% suchej masy dziennej dawki.",
+        "Przy sprzedaży bezpośrednio u producenta oznakowanie nie jest konieczne; na anonimowym rynku wymagana certyfikacja przez niezależną stronę trzecią (jednostkę certyfikującą).",
+        "Oprócz leków roślinnych, homeopatycznych i pierwiastków śladowych w leczeniu można stosować substancje dopuszczone w rozporządzeniu 2092/91.",
+        "Podczas przekształcania gospodarstwa cała powierzchnia wykorzystywana do żywienia zwierząt musi spełniać zasady rolnictwa ekologicznego.",
+        "Wymuszone karmienie jest zakazane, bo celem metod ekologicznych jest wysoka jakość, a nie maksymalizacja produkcji (np. zakaz tuczenia gęsi rurą wkładaną do przełyku).",
+        "Pozytywny wpływ metod ekologicznych nie jest widoczny w produkcie – dlatego potrzebny jest jednoznaczny system identyfikacji (certyfikacji) produktów ekologicznych."
+      ],
+      "images": [
+        {
+          "src": "img/tpc5/okresy-konwersji.jpg",
+          "caption": "Minimalny okres utrzymywania zwierząt metodą ekologiczną przed sprzedażą produktów jako ekologicznych: 12 miesięcy – koniowate i bydło mięsne; 6 miesięcy – małe przeżuwacze i świnie; 6 miesięcy – zwierzęta mleczne; 10 tygodni – drób mięsny; 6 tygodni – drób nieśny (jaja)."
+        }
+      ]
+    },
+    {
+      "heading": "5. Wpływ rolnictwa i chowu zwierząt na środowisko",
+      "points": [
+        "Utrata bioróżnorodności – zajmowanie terenu pod pastwiska i zasiewy.",
+        "Wylesianie – wycinka drzew pod uprawy i pastwiska.",
+        "Pustynnienie – erozja gleb, wypalanie traw, nieprawidłowa gospodarka.",
+        "Choroby – źle prowadzony chów sprzyja chorobom i zoonozom; nadużywanie antybiotyków powoduje antybiotykooporność.",
+        "Emisja gazów cieplarnianych – praca maszyn, chów zwierząt, magazynowanie nawozów.",
+        "Zanieczyszczenie wód – eutrofizacja, spadek tlenu, zakwity glonów, martwe strefy; amoniak przyczyną kwaśnych deszczy.",
+        "Nadużywanie zasobów – energia (programy świetlne dla drobiu, ogrzewanie, paliwo) i duże zużycie wody.",
+        "Grunty zajęte pod chów zwierząt i uprawy ograniczają tereny dla dzikiej fauny i flory; nawozy zagrażają też wodom gruntowym.",
+        "Przepisy o racjonalnym prowadzeniu działalności chronią środowisko i konsumenta oraz zwiększają jakość produkcji; skutki lokalnych działań mogą mieć wymiar ogólnoświatowy."
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Produkcja podstawowa (pierwotna) – Uprawa roślin lub chów zwierząt w celu pozyskania produktów pierwotnych (także jaja, mleko, ryby, zwierzęta łowne, grzyby, jagody); definicja – art. 3 rozporządzenia (WE) nr 178/2002.",
+        "Zasady wzajemnej zgodności – Warunek płatności dla rolników: utrzymanie gruntów w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i spełnianie podstawowych wymogów zarządzania; obszary A, B i C."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Zwykła dobra praktyka rolnicza",
+      "back": "Podstawowe standardy gospodarowania z uwzględnieniem ochrony środowiska (nawozy, gleby, wody, krajobraz, siedliska)."
+    },
+    {
+      "front": "Zasady wzajemnej zgodności – warunek płatności",
+      "back": "Utrzymanie gruntów w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i spełnienie podstawowych wymogów zarządzania."
+    },
+    {
+      "front": "Na ile obszarów podzielono wymogi ZWZ?",
+      "back": "Na trzy: A, B i C."
+    },
+    {
+      "front": "Obszary OSN",
+      "back": "Obszary szczególnie narażone na azotany ze źródeł rolniczych (głównie z nawożenia)."
+    },
+    {
+      "front": "Obowiązki na obszarach OSN",
+      "back": "Bilans azotu, plan nawozowy, płyty obornikowe, zbiorniki na gnojowicę, kiszonki w rękawach."
+    },
+    {
+      "front": "W czym produkować kiszonki na OSN?",
+      "back": "W rękawach zabezpieczających przed wyciekami do gruntu."
+    },
+    {
+      "front": "Definicja produkcji podstawowej – akt prawny",
+      "back": "Art. 3 ust. 17 Rozporządzenia (WE) nr 178/2002."
+    },
+    {
+      "front": "Produkty podstawowe pochodzenia zwierzęcego – przykłady",
+      "back": "Jaja, surowe mleko, miód, produkty rybołówstwa."
+    },
+    {
+      "front": "Działania powiązane w produkcji podstawowej",
+      "back": "Transport, magazynowanie i obsługa produktów w miejscu produkcji bez zmiany charakteru; transport żywych zwierząt; transport do zakładu."
+    },
+    {
+      "front": "Okres konwersji",
+      "back": "Czas niezbędny do przestawienia gospodarstwa na ekologiczne metody produkcji."
+    },
+    {
+      "front": "Okres konwersji dla upraw (przed wysiewem)",
+      "back": "2 lata."
+    },
+    {
+      "front": "Okres konwersji – łąki jako pasza ekologiczna",
+      "back": "Co najmniej 2 lata przed wykorzystaniem jako paszy."
+    },
+    {
+      "front": "Okres konwersji – rośliny wieloletnie (nie łąkowe)",
+      "back": "Co najmniej 3 lata przed pierwszym zbiorem."
+    },
+    {
+      "front": "Gdzie składa się zgłoszenie podjęcia działalności ekologicznej?",
+      "back": "W wybranej jednostce certyfikującej."
+    },
+    {
+      "front": "Kto daje pozwolenie jednostkom certyfikującym?",
+      "back": "Ministerstwo Rolnictwa i Rozwoju Wsi."
+    },
+    {
+      "front": "Gdzie szukać informacji o przepisach ZWZ?",
+      "back": "Strony MRiRW i ARiMR, biura powiatowe ARiMR, Izby Rolnicze, jednostki certyfikujące."
+    },
+    {
+      "front": "Obszar A ZWZ",
+      "back": "Ochrona środowiska naturalnego oraz identyfikacja i rejestracja zwierząt."
+    },
+    {
+      "front": "Obszar B ZWZ",
+      "back": "Zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin."
+    },
+    {
+      "front": "Obszar C ZWZ",
+      "back": "Dobrostan zwierząt."
+    },
+    {
+      "front": "Ochrona środowiska w obszarze A – zakres",
+      "back": "Dzikie ptactwo, siedliska i fauna/flora, wody gruntowe, osady ściekowe, azotany."
+    },
+    {
+      "front": "Termin wpisu zdarzenia do księgi rejestracji",
+      "back": "7 dni."
+    },
+    {
+      "front": "Jak długo przechowuje się księgę rejestracji?",
+      "back": "3 lata od dnia utraty zwierzęcia."
+    },
+    {
+      "front": "Termin zgłoszenia urodzenia/śmierci/przemieszczenia bydła do ARiMR",
+      "back": "7 dni."
+    },
+    {
+      "front": "Gdzie zgłasza się zdarzenia dotyczące bydła?",
+      "back": "W powiatowym biurze ARiMR."
+    },
+    {
+      "front": "Kolczykowanie bydła – gdzie i kiedy?",
+      "back": "W obu uszach, w ciągu 7 dni od urodzenia (lub wcześniej, przed opuszczeniem stada)."
+    },
+    {
+      "front": "Wyjątek od kolczykowania bydła z państw trzecich",
+      "back": "Gdy zwierzę trafia bezpośrednio do rzeźni, a ubój następuje 20 dni po kontroli granicznej."
+    },
+    {
+      "front": "Dokument towarzyszący każdej sztuce bydła",
+      "back": "Paszport."
+    },
+    {
+      "front": "Za jaki okres rolnik udziela informacji o bydle ARiMR/IW?",
+      "back": "Za ostatnie 3 lata."
+    },
+    {
+      "front": "Termin kolczykowania owiec i kóz",
+      "back": "6 miesięcy od urodzenia, ale przed opuszczeniem siedziby stada."
+    },
+    {
+      "front": "Owce/kozy z państw trzecich – termin znakowania",
+      "back": "14 dni od kontroli granicznej (jeśli nie idą do uboju w ciągu 5 dni roboczych)."
+    },
+    {
+      "front": "Spis owiec i kóz – jak często?",
+      "back": "Raz na 12 miesięcy, nie później niż w dniu jesiennego przeglądu stada."
+    },
+    {
+      "front": "Dokument przy przewozie owiec i kóz w kraju",
+      "back": "Dokument przewozowy zgodny ze wzorem."
+    },
+    {
+      "front": "Termin oznakowania świń",
+      "back": "Bezzwłocznie; żadna świnia nie opuszcza stada nieoznakowana."
+    },
+    {
+      "front": "Sposoby oznakowania świń",
+      "back": "Kolczyk na lewej małżowinie, tatuaż na obu małżowinach lub tatuaż na grzbiecie."
+    },
+    {
+      "front": "Przechowywanie dokumentacji leczenia zwierząt",
+      "back": "5 lat od ostatniego wpisu."
+    },
+    {
+      "front": "Preparaty zakazane w celach nieleczniczych",
+      "back": "Hormonalne, tyreostatyczne, β-agonistyczne."
+    },
+    {
+      "front": "Leki, których nie wolno posiadać w gospodarstwie",
+      "back": "Zawierające β-agonistów (przyspieszanie porodu) oraz estradiol 17β i jego pochodne."
+    },
+    {
+      "front": "Substancje, przy których obowiązuje okres karencji przed sprzedażą produktów",
+      "back": "O działaniu estrogennym, androgennym, gestagennym."
+    },
+    {
+      "front": "Synchronizacja rui – zakaz",
+      "back": "U zwierząt, które nie będą dalej wykorzystywane do rozpłodu."
+    },
+    {
+      "front": "Zmiana płci u ryb – zakaz",
+      "back": "U ryb starszych niż 3 miesiące."
+    },
+    {
+      "front": "Komu zgłasza się podejrzenie choroby zakaźnej?",
+      "back": "Inspekcji Weterynaryjnej, najbliższemu lekarzowi weterynarii albo wójtowi/burmistrzowi/prezydentowi miasta."
+    },
+    {
+      "front": "Choroby świń podlegające zgłoszeniu (przykłady)",
+      "back": "Afrykański pomór świń, choroba pęcherzykowa świń."
+    },
+    {
+      "front": "Postępowanie przy podejrzeniu pryszczycy",
+      "back": "Pozostawić zwierzęta na miejscu i nie wprowadzać innych zwierząt."
+    },
+    {
+      "front": "TSE",
+      "back": "Przenośne gąbczaste encefalopatie."
+    },
+    {
+      "front": "Białko zwierzęce dopuszczone dla przeżuwaczy (odstępstwa)",
+      "back": "Mleko i produkty mleczne, siara, jaja, żelatyna i hydrolizaty od nieprzeżuwaczy, mączka rybna w preparatach mlekozastępczych dla nieodsadzonych."
+    },
+    {
+      "front": "Kto decyduje o wywozie zwierząt przy podejrzeniu TSE?",
+      "back": "Powiatowy lekarz weterynarii."
+    },
+    {
+      "front": "Okres wstecz objęty zakazem obrotu potomstwem/nasieniem przy TSE",
+      "back": "2 lata poprzedzające (lub od pierwszego objawu klinicznego)."
+    },
+    {
+      "front": "Kiedy wymagane jest świadectwo zdrowia?",
+      "back": "Przy wprowadzaniu na rynek lub przywozie do Polski bydła, owiec, kóz, ich zarodków, nasienia, komórek jajowych."
+    },
+    {
+      "front": "Dobrostan – definicja",
+      "back": "Warunki środowiskowe umożliwiające zwierzętom spełnianie potrzeb biologicznych i behawioralnych."
+    },
+    {
+      "front": "Obszar C – trzy zakresy",
+      "back": "Ochrona wszystkich zwierząt gospodarskich, dobrostan cieląt, dobrostan świń."
+    },
+    {
+      "front": "Dyrektywa 2008/119/WE",
+      "back": "Minimalne normy ochrony cieląt."
+    },
+    {
+      "front": "Dyrektywa 2008/120/WE",
+      "back": "Minimalne normy ochrony świń."
+    },
+    {
+      "front": "Dyrektywa 98/58/WE",
+      "back": "Ochrona zwierząt hodowlanych."
+    },
+    {
+      "front": "Ustawa o rolnictwie ekologicznym – data",
+      "back": "25 czerwca 2009 r."
+    },
+    {
+      "front": "Rozporządzenie Rady (WE) nr 834/2007",
+      "back": "Produkcja ekologiczna i znakowanie produktów ekologicznych; uchyla rozporządzenie 2092/91."
+    },
+    {
+      "front": "Limit azotu z obornika w gospodarstwie ekologicznym",
+      "back": "170 kg N/ha rocznie."
+    },
+    {
+      "front": "Co robić z nadwyżką obornika w gospodarstwie ekologicznym?",
+      "back": "Sprzedać innym gospodarstwom/przedsiębiorstwom."
+    },
+    {
+      "front": "Okres ekologiczny – bydło i koniowate mięsne",
+      "back": "12 miesięcy."
+    },
+    {
+      "front": "Okres ekologiczny – małe przeżuwacze i świnie",
+      "back": "6 miesięcy."
+    },
+    {
+      "front": "Okres ekologiczny – zwierzęta mleczne",
+      "back": "6 miesięcy."
+    },
+    {
+      "front": "Okres ekologiczny – drób mięsny",
+      "back": "10 tygodni."
+    },
+    {
+      "front": "Okres ekologiczny – drób nieśny",
+      "back": "6 tygodni."
+    },
+    {
+      "front": "Jakie rasy preferuje się w chowie ekologicznym?",
+      "back": "Rodzime – przystosowane, żywotne i odporne na choroby."
+    },
+    {
+      "front": "Leczenie w rolnictwie ekologicznym – pierwszy wybór",
+      "back": "Leki roślinne, homeopatyczne, pierwiastki śladowe."
+    },
+    {
+      "front": "Antybiotyki w rolnictwie ekologicznym",
+      "back": "Dopuszczalne do leczenia, gdy inne środki zawiodą; w profilaktyce zakazane."
+    },
+    {
+      "front": "Zabiegi zakazane w rolnictwie ekologicznym",
+      "back": "Uwięź, przycinanie ogonów, piłowanie zębów, kształtowanie dziobów, usuwanie rogów, wymuszone karmienie."
+    },
+    {
+      "front": "Udział pasz objętościowych u roślinożerców ekologicznych",
+      "back": "Co najmniej 60% suchej masy dziennej dawki."
+    },
+    {
+      "front": "Żywienie młodych ssaków w chowie ekologicznym",
+      "back": "Naturalne mleko, najlepiej matki."
+    },
+    {
+      "front": "Kiedy produkt ekologiczny nie musi być oznakowany?",
+      "back": "Przy zakupie bezpośrednio u producenta."
+    },
+    {
+      "front": "Kto certyfikuje produkty ekologiczne?",
+      "back": "Niezależna strona trzecia – upoważniona jednostka kontrolna/certyfikująca."
+    },
+    {
+      "front": "Eutrofizacja – skutki",
+      "back": "Spadek tlenu w wodzie, nadmierny wzrost glonów, zamieranie ryb, martwe strefy."
+    },
+    {
+      "front": "Który gaz z rolnictwa powoduje kwaśne deszcze?",
+      "back": "Amoniak."
+    },
+    {
+      "front": "Skutek nadużywania antybiotyków u zwierząt",
+      "back": "Antybiotykooporność drobnoustrojów."
+    },
+    {
+      "front": "Data rozporządzenia Rady 2092/91/EWG",
+      "back": "24 czerwca 1991 r."
+    },
+    {
+      "front": "Zagadnienia chowu zwierząt regulowane rozporządzeniem 2092/91",
+      "back": "Przekształcanie gospodarstw, pochodzenie zwierząt, karmienie, zapobieganie chorobom i leczenie, praktyki gospodarskie, warunki w pomieszczeniach i na wybiegach, transport."
+    },
+    {
+      "front": "Produkcja podstawowa (pierwotna)",
+      "back": "Uprawa roślin lub chów zwierząt w celu pozyskania produktów pierwotnych (także jaja, mleko, ryby, zwierzęta łowne, grzyby, jagody); definicja – art. 3 rozporządzenia (WE) nr 178/2002."
+    },
+    {
+      "front": "Zasady wzajemnej zgodności",
+      "back": "Warunek płatności dla rolników: utrzymanie gruntów w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i spełnianie podstawowych wymogów zarządzania; obszary A, B i C."
+    },
+    {
+      "front": "Czy zwierzęta inne niż przeżuwacze można karmić białkiem zwierzęcym?",
+      "back": "Co do zasady zakazane (istnieją odstępstwa); gdy w gospodarstwie są przeżuwacze i nieprzeżuwacze karmione takim białkiem, jego przechowywanie i transport muszą wykluczać zanieczyszczenie pasz dla przeżuwaczy."
+    },
+    {
+      "front": "Dlaczego w rolnictwie ekologicznym zakazane jest wymuszone karmienie?",
+      "back": "Celem jest wysoka jakość, a nie maksymalizacja produkcji (np. zakaz tuczenia gęsi rurą)."
+    },
+    {
+      "front": "Rozporządzenie (WE) nr 889/2008 – czego dotyczy?",
+      "back": "Szczegółowych zasad wdrażania rozporządzenia 834/2007 – produkcja ekologiczna, znakowanie i kontrola (z 5 września 2008 r.)."
+    },
+    {
+      "front": "Czy w okresie konwersji obowiązują zasady rolnictwa ekologicznego?",
+      "back": "Tak – w okresie konwersji stosuje się wszystkie zasady rolnictwa ekologicznego (po zgłoszeniu w jednostce certyfikującej i podpisaniu umowy)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Zasady wzajemnej zgodności podzielono na obszary:",
+      "options": [
+        "A, B i C",
+        "I, II i III",
+        "A i B",
+        "A, B, C i D"
+      ],
+      "answer": 0,
+      "explain": "Wymogi ZWZ podzielono na trzy obszary oznaczone literami A, B i C."
+    },
+    {
+      "q": "Dobrostan zwierząt należy do obszaru ZWZ:",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "answer": 3,
+      "explain": "Obszar C obejmuje dobrostan zwierząt."
+    },
+    {
+      "q": "Identyfikacja i rejestracja zwierząt należy do obszaru ZWZ:",
+      "options": [
+        "B",
+        "C",
+        "A",
+        "D"
+      ],
+      "answer": 2,
+      "explain": "Obszar A obejmuje ochronę środowiska oraz identyfikację i rejestrację zwierząt."
+    },
+    {
+      "q": "Zgłaszanie chorób zwierząt należy do obszaru ZWZ:",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explain": "Obszar B obejmuje zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób."
+    },
+    {
+      "q": "Skrót OSN oznacza obszary szczególnie narażone na:",
+      "options": [
+        "erozję wietrzną",
+        "azotany ze źródeł rolniczych",
+        "powodzie",
+        "zakwaszenie gleb"
+      ],
+      "answer": 1,
+      "explain": "OSN to obszary szczególnie narażone na azotany pochodzące ze źródeł rolniczych."
+    },
+    {
+      "q": "W ciągu ilu dni należy wpisać zdarzenie do księgi rejestracji bydła?",
+      "options": [
+        "7 dni",
+        "3 dni",
+        "14 dni",
+        "30 dni"
+      ],
+      "answer": 0,
+      "explain": "Każde zdarzenie wpisuje się do księgi w ciągu 7 dni."
+    },
+    {
+      "q": "Księgę rejestracji zwierząt przechowuje się przez:",
+      "options": [
+        "1 rok",
+        "5 lat od ostatniego wpisu",
+        "10 lat",
+        "3 lata od dnia utraty zwierzęcia"
+      ],
+      "answer": 3,
+      "explain": "Księgę przechowuje się 3 lata od dnia utraty zwierzęcia."
+    },
+    {
+      "q": "Cielę należy oznakować kolczykami:",
+      "options": [
+        "w lewym uchu w ciągu 30 dni",
+        "w prawym uchu w ciągu 14 dni",
+        "w obu uszach w ciągu 7 dni od urodzenia",
+        "w obu uszach w ciągu 6 miesięcy"
+      ],
+      "answer": 2,
+      "explain": "Bydło znakuje się kolczykami w obu uszach w ciągu 7 dni od urodzenia."
+    },
+    {
+      "q": "Owce i kozy należy oznakować w ciągu:",
+      "options": [
+        "7 dni od urodzenia",
+        "14 dni od urodzenia",
+        "6 miesięcy od urodzenia, ale przed opuszczeniem siedziby stada",
+        "12 miesięcy od urodzenia"
+      ],
+      "answer": 2,
+      "explain": "Owce i kozy znakuje się w ciągu 6 miesięcy od urodzenia, ale przed opuszczeniem siedziby stada."
+    },
+    {
+      "q": "Spisu owiec i kóz w stadzie dokonuje się:",
+      "options": [
+        "co miesiąc",
+        "raz na 12 miesięcy, nie później niż w dniu jesiennego przeglądu stada",
+        "raz na 6 miesięcy",
+        "raz na 3 lata"
+      ],
+      "answer": 1,
+      "explain": "Spis wykonuje się raz na 12 miesięcy, nie później niż w dniu jesiennego przeglądu."
+    },
+    {
+      "q": "Kolczyk identyfikacyjny u świni umieszcza się:",
+      "options": [
+        "na lewej małżowinie usznej",
+        "na prawej małżowinie usznej",
+        "w obu uszach",
+        "na ogonie"
+      ],
+      "answer": 0,
+      "explain": "Oznakowanie świni w formie kolczyka znajduje się na lewej małżowinie usznej."
+    },
+    {
+      "q": "Dokumentację leczenia zwierząt gospodarskich przechowuje się przez:",
+      "options": [
+        "1 rok",
+        "3 lata od utraty zwierzęcia",
+        "10 lat",
+        "5 lat od ostatniego wpisu"
+      ],
+      "answer": 3,
+      "explain": "Dokumentację leczenia przechowuje się 5 lat od ostatniego wpisu."
+    },
+    {
+      "q": "Którego preparatu nie wolno przechowywać w gospodarstwie?",
+      "options": [
+        "zawierającego witaminę E",
+        "zawierającego wapń",
+        "zawierającego selen",
+        "zawierającego estradiol 17β"
+      ],
+      "answer": 3,
+      "explain": "Zakazane jest przechowywanie leków zawierających estradiol 17β i jego pochodne."
+    },
+    {
+      "q": "Zabiegom zmiany płci nie wolno poddawać ryb starszych niż:",
+      "options": [
+        "1 miesiąc",
+        "6 miesięcy",
+        "3 miesiące",
+        "1 rok"
+      ],
+      "answer": 2,
+      "explain": "Zakazana jest zmiana płci u ryb starszych niż 3 miesiące."
+    },
+    {
+      "q": "Przy podejrzeniu pryszczycy rolnik ma obowiązek:",
+      "options": [
+        "natychmiast sprzedać zwierzęta",
+        "pozostawić zwierzęta w miejscu przebywania i nie wprowadzać innych",
+        "przewieźć zwierzęta do rzeźni",
+        "wypuścić zwierzęta na pastwisko"
+      ],
+      "answer": 1,
+      "explain": "Obowiązuje nakaz pozostawienia zwierząt w miejscu przebywania i niewprowadzania innych zwierząt."
+    },
+    {
+      "q": "Podejrzenie choroby zakaźnej zgłasza się m.in.:",
+      "options": [
+        "wójtowi (burmistrzowi, prezydentowi miasta)",
+        "sołtysowi",
+        "Izbie Rolniczej",
+        "jednostce certyfikującej"
+      ],
+      "answer": 0,
+      "explain": "Podejrzenie zgłasza się IW, lekarzowi weterynarii albo wójtowi (burmistrzowi, prezydentowi miasta)."
+    },
+    {
+      "q": "Skrót TSE oznacza:",
+      "options": [
+        "przenośne gąbczaste encefalopatie",
+        "choroby pasożytnicze bydła",
+        "zespół stresu u świń",
+        "zakaźne zapalenie wymienia"
+      ],
+      "answer": 0,
+      "explain": "TSE to przenośne gąbczaste encefalopatie."
+    },
+    {
+      "q": "Które białko zwierzęce jest dopuszczone w żywieniu przeżuwaczy?",
+      "options": [
+        "mączka mięsno-kostna",
+        "mączka z krwi przeżuwaczy",
+        "mączka z piór",
+        "mleko i produkty mleczne"
+      ],
+      "answer": 3,
+      "explain": "Odstępstwa obejmują m.in. mleko, produkty na bazie mleka i siarę."
+    },
+    {
+      "q": "Przy podejrzeniu TSE o wywiezieniu zwierząt z gospodarstwa decyduje:",
+      "options": [
+        "wójt gminy",
+        "kierownik biura ARiMR",
+        "powiatowy lekarz weterynarii",
+        "jednostka certyfikująca"
+      ],
+      "answer": 2,
+      "explain": "Zakaz obowiązuje do czasu decyzji powiatowego lekarza weterynarii."
+    },
+    {
+      "q": "Dyrektywa 2008/119/WE ustanawia minimalne normy ochrony:",
+      "options": [
+        "świń",
+        "cieląt",
+        "kur niosek",
+        "brojlerów"
+      ],
+      "answer": 1,
+      "explain": "Dyrektywa 2008/119/WE ustanawia minimalne normy ochrony cieląt."
+    },
+    {
+      "q": "Dyrektywa 2008/120/WE ustanawia minimalne normy ochrony:",
+      "options": [
+        "cieląt",
+        "świń",
+        "owiec",
+        "koni"
+      ],
+      "answer": 1,
+      "explain": "Dyrektywa 2008/120/WE ustanawia minimalne normy ochrony świń."
+    },
+    {
+      "q": "Okres konwersji dla upraw polowych wynosi:",
+      "options": [
+        "2 lata przed wysiewem",
+        "6 miesięcy",
+        "1 rok",
+        "5 lat"
+      ],
+      "answer": 0,
+      "explain": "Przejście na produkcję ekologiczną trwa dwa lata przed wysiewem."
+    },
+    {
+      "q": "Okres konwersji dla roślin wieloletnich innych niż łąkowe wynosi co najmniej:",
+      "options": [
+        "1 rok",
+        "2 lata",
+        "5 lat",
+        "3 lata przed pierwszym zbiorem"
+      ],
+      "answer": 3,
+      "explain": "Dla roślin wieloletnich innych niż łąkowe – co najmniej trzy lata przed pierwszym zbiorem."
+    },
+    {
+      "q": "Jednostki certyfikujące w rolnictwie ekologicznym działają na podstawie pozwolenia:",
+      "options": [
+        "ARiMR",
+        "Izby Rolniczej",
+        "Ministerstwa Rolnictwa i Rozwoju Wsi",
+        "wojewody"
+      ],
+      "answer": 2,
+      "explain": "Jednostki certyfikujące mają pozwolenie Ministerstwa Rolnictwa i Rozwoju Wsi."
+    },
+    {
+      "q": "Dopuszczalna ilość azotu z obornika w gospodarstwie ekologicznym wynosi:",
+      "options": [
+        "100 kg/ha rocznie",
+        "210 kg/ha rocznie",
+        "170 kg/ha rocznie",
+        "250 kg/ha rocznie"
+      ],
+      "answer": 2,
+      "explain": "Zawartość azotu nie może przekroczyć 170 kg/ha w łącznej ilości obornika w ciągu roku."
+    },
+    {
+      "q": "Bydło mięsne musi być utrzymywane metodami ekologicznymi przez co najmniej:",
+      "options": [
+        "6 miesięcy",
+        "12 miesięcy",
+        "10 tygodni",
+        "24 miesiące"
+      ],
+      "answer": 1,
+      "explain": "Dla koniowatych i bydła mięsnego okres wynosi 12 miesięcy."
+    },
+    {
+      "q": "Świnie muszą być utrzymywane metodami ekologicznymi przez co najmniej:",
+      "options": [
+        "6 miesięcy",
+        "6 tygodni",
+        "12 miesięcy",
+        "10 tygodni"
+      ],
+      "answer": 0,
+      "explain": "Dla małych przeżuwaczy i świń okres wynosi 6 miesięcy."
+    },
+    {
+      "q": "Drób mięsny musi być utrzymywany metodami ekologicznymi przez co najmniej:",
+      "options": [
+        "6 tygodni",
+        "6 miesięcy",
+        "4 tygodnie",
+        "10 tygodni"
+      ],
+      "answer": 3,
+      "explain": "Dla drobiu mięsnego okres wynosi 10 tygodni."
+    },
+    {
+      "q": "Drób nieśny musi być utrzymywany metodami ekologicznymi przez co najmniej:",
+      "options": [
+        "10 tygodni",
+        "12 tygodni",
+        "6 miesięcy",
+        "6 tygodni"
+      ],
+      "answer": 3,
+      "explain": "Dla drobiu nieśnego okres wynosi 6 tygodni."
+    },
+    {
+      "q": "Antybiotyki w ekologicznym chowie zwierząt:",
+      "options": [
+        "są całkowicie zakazane",
+        "stosuje się rutynowo w profilaktyce",
+        "można stosować w leczeniu, gdy inne środki zawiodą, ale nie w profilaktyce",
+        "można dodawać do paszy jako stymulator wzrostu"
+      ],
+      "answer": 2,
+      "explain": "Syntetyczne leki i antybiotyki można stosować, gdy inne środki są nieskuteczne; w profilaktyce są zakazane."
+    },
+    {
+      "q": "Który zabieg jest zakazany w rolnictwie ekologicznym?",
+      "options": [
+        "strzyżenie owiec",
+        "usuwanie rogów",
+        "korekcja racic",
+        "dojenie mechaniczne"
+      ],
+      "answer": 1,
+      "explain": "W rolnictwie ekologicznym nie usuwa się rogów, nie przycina ogonów ani dziobów."
+    },
+    {
+      "q": "Pasze objętościowe u roślinożerców ekologicznych muszą stanowić co najmniej:",
+      "options": [
+        "60% suchej masy dziennej dawki",
+        "30% suchej masy",
+        "40% suchej masy",
+        "90% suchej masy"
+      ],
+      "answer": 0,
+      "explain": "Pasze objętościowe stanowią co najmniej 60% suchej masy dziennej dawki."
+    },
+    {
+      "q": "Przy wyborze zwierząt do chowu ekologicznego w pierwszej kolejności rozważa się:",
+      "options": [
+        "rasy rodzime",
+        "mieszańce towarowe",
+        "rasy importowane o najwyższej wydajności",
+        "linie hybrydowe"
+      ],
+      "answer": 0,
+      "explain": "Pierwszeństwo mają rasy rodzime ze względu na przystosowanie i odporność."
+    },
+    {
+      "q": "Certyfikacja produktów ekologicznych jest wymagana, gdy:",
+      "options": [
+        "rolnik sprzedaje bezpośrednio z gospodarstwa",
+        "produkty są spożywane przez rolnika",
+        "produkty są przekazywane sąsiadom",
+        "produkty trafiają na anonimowy rynek"
+      ],
+      "answer": 3,
+      "explain": "Przy wprowadzaniu na anonimowy rynek niezbędna jest certyfikacja przez stronę trzecią."
+    },
+    {
+      "q": "Który gaz pochodzący z rolnictwa jest przyczyną kwaśnych deszczy?",
+      "options": [
+        "tlen",
+        "azot cząsteczkowy",
+        "amoniak",
+        "argon"
+      ],
+      "answer": 2,
+      "explain": "Amoniak stanowi przyczynę kwaśnych deszczy."
+    },
+    {
+      "q": "Nadmierny wzrost glonów w wodach wskutek spływu nawozów to:",
+      "options": [
+        "denudacja",
+        "eutrofizacja",
+        "konwersja",
+        "pustynnienie"
+      ],
+      "answer": 1,
+      "explain": "Eutrofizacja powoduje spadek tlenu i nadmierny wzrost glonów i alg."
+    },
+    {
+      "q": "Nadużywanie antybiotyków w chowie zwierząt prowadzi do:",
+      "options": [
+        "wzrostu bioróżnorodności",
+        "antybiotykooporności drobnoustrojów",
+        "poprawy jakości wód",
+        "zmniejszenia emisji gazów"
+      ],
+      "answer": 1,
+      "explain": "Nadużywanie antybiotyków powoduje antybiotykooporność."
+    },
+    {
+      "q": "Informacje o przepisach i ich zmianach dotyczących płatności udostępnia przede wszystkim:",
+      "options": [
+        "ARiMR",
+        "GUS",
+        "Sanepid",
+        "Urząd Skarbowy"
+      ],
+      "answer": 0,
+      "explain": "Informacje o przepisach dostępne są na stronie ARiMR i w jej biurach powiatowych."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jakie pojęcie odnosi się do gospodarstw rolnych i innych, dotyczy produkcji roślinnej, zwierzęcej, wytwarzania produktów pochodzenia zwierzęcego, rybołówstwa, produkcji ryb i mięczaków, pozyskiwania zwierząt łownych, a także grzybów jagód itp.?",
+      "options": [
+        "Produkcja podstawowa (pierwotna).",
+        "Produkty podstawowe (pierwotne).",
+        "Obszary OSN.",
+        "Zasady Wzajemnej Zgodności."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednostki certyfikujące to niezależne placówki lub firmy posiadające pozwolenia … na przyjmowanie wniosków, kontrolę, przyznawanie i cofanie certyfikatów zgodności dla gospodarstw stosujących ekologiczne metody produkcji.",
+      "options": [
+        "Ministerstwa Gospodarki",
+        "Ministerstwa Rolnictwa i Rozwoju Wsi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nOkres konwersji to czas niezbędny do przestawienia gospodarstwa na ekologiczne metody produkcji. W tym celu składa się w wybranej jednostce certyfikującej Zgłoszenie podjęcia działalności w rolnictwie ekologicznym i podpisuje stosowną umowę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Obszar A wymogów Zasad Wzajemnej Zgodności stanowi o:",
+      "options": [
+        "dobrostanie zwierząt.",
+        "identyfikacji i rejestracji zwierząt.",
+        "zagadnieniach ochrony środowiska naturalnego.",
+        "zdrowiu zwierząt i zgłaszaniu chorób."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZ zakresu wymogów Zasad Wzajemnej Zgodności obszar… stanowi o dobrostanie zwierząt.",
+      "options": [
+        "C",
+        "B"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nZasady wzajemnej zgodności dotyczą wysokości uzyskiwanych płatności bezpośrednich pod warunkiem spełnianiem przez beneficjentów określonych wymogów. Z uwagi na obszerność tematyczną, regulacje prawne obejmują szereg rozporządzeń, dyrektyw i obwieszczeń Ministra Rolnictwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Każdy, kto utrzymuje owce lub kozy, musi spełnić następujące wymogi z zakresu identyfikacji i rejestracji zwierząt:",
+      "options": [
+        "prowadzenie aktualnej księgi rejestracji bydła.",
+        "raz na 12 miesięcy przeprowadzanie spisu owiec lub kóz w stadzie.",
+        "posiadanie aktualnej książeczki sanepidowskiej.",
+        "posiadanie numeru siedziby stada."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nEkologiczny chów zwierząt powinien zapewnić utrzymanie równowagi …, co umożliwia zamknięty obieg materii w gospodarstwie.",
+      "options": [
+        "paszowo-wodnej",
+        "paszowo-nawozowej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem organizacyjny rolnictwa ekologicznego w Polsce reguluje Ustawa z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. nr 116 poz. 975).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W obszarze C wymogów Zasad Wzajemnej Zgodności, dobrostan zwierząt dotyczy:",
+      "options": [
+        "dobrostanu świń.",
+        "ochrony gatunków zagrożonych wyginięciem.",
+        "dobrostanu cieląt.",
+        "ochrony wszystkich zwierząt gospodarskich."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZasada … dotyczy wsparcia rolnictwa, jednak warunkiem otrzymania płatności jest spełnienie wymagań dotyczących utrzymania gruntów gospodarstwa w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i podstawowymi wymogami z zakresu zarządzania.",
+      "options": [
+        "Dobrej Praktyki Rolniczej",
+        "Wzajemnej Zgodności"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObszar OSN obejmuje gospodarstwa rolne i inne, dotyczy produkcji, roślinnej, zwierzęcej, wytwarzania produktów pochodzenia zwierzęcego, rybołówstwa, produkcji ryb i mięczaków, pozyskiwania zwierząt łownych, a także grzybów jagód itp.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Produkty pochodzenia roślinnego, zwierzęcego oraz surowce zbierane w naturalnym środowisku, zarówno roślinne, jak i zwierzęce, to produkty:",
+      "options": [
+        "wtórne.",
+        "uzyskane naturalnie.",
+        "odtwórcze.",
+        "podstawowe (pierwotne)."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCzas całkowitego przejścia na produkcję ekologiczną wynosi … przed wysiewem.",
+      "options": [
+        "2 lata",
+        "3 lata"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczne metody chowu zwierząt zakładają dostęp zwierząt do obszarów swobodnego wypasu i wybiegów, gdzie liczba sztuk na jednostkę powierzchni jest ograniczona.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zasady Zwykłej Dobrej Praktyki Rolniczej regulują następujące akty prawne:",
+      "options": [
+        "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z 30 marca 2004 r. w sprawie wzorów wniosków o przyznanie płatności oraz szczegółowych warunków przyznawania płatności.",
+        "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.",
+        "załącznik nr 1 do Rozporządzenia Rady Ministrów z 14 kwietnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na wspieranie działalności rolniczej na obszarach o niekorzystnych warunkach gospodarowania objętej planem rozwoju obszarów wiejskich."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKażdy posiadacz zwierząt, akwakultury i hodowca ryb ma zakaz poddawania ryb, starszych niż 3 miesiące zabiegom ….",
+      "options": [
+        "przycinania płetw",
+        "zmiany płci"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nDziałalność gospodarstw rolnych może stanowić zagrożenie dla środowiska, przez co ich szkodliwość znacznie się zwiększa. Przepisy regulujące racjonalne prowadzenie działalności w tym zakresie mają za zadanie działać na rzecz ochrony środowiska i konsumenta oraz zwiększać jakość produkcji i jej efektów końcowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rozporządzenie reguluje hodowlę zwierząt w gospodarstwie ekologicznym?",
+      "options": [
+        "1218/20",
+        "2092/91",
+        "2020/91"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNakazuje się pozostawienie zwierząt w miejscu przebywania i niewprowadzanie tam innych zwierząt w przypadku wystąpienia ….",
+      "options": [
+        "pryszczycy",
+        "pęcherzykowego zapalenia jamy ustnej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nW rolnictwie ekologicznym zabrania się trzymania zwierząt na uwięzi, nie przeprowadza się zabiegów polegających na przycinaniu ogona, piłowaniu zębów, kształtowaniu dziobów lub usuwaniu rogów. Zabronione jest także wymuszone karmienie, ponieważ celem metod ekologicznych jest wysoka jakość, a nie maksymalizacja produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wśród negatywnych skutków rolnictwa wyróżnić możemy następujące zagrożenia:",
+      "options": [
+        "pustynnienie wskutek nieprawidłowej gospodarki rolnej powodującej erozję gleb, wypalanie traw i inne czynniki.",
+        "wylesianie poprzez wycinkę drzew i przekształcenie terenu pod uprawy i pastwiska.",
+        "utrata bioróżnorodności wskutek wykorzystania terenu na pastwiska i zasiewy."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKsięgę Rejestracji bydła prowadzoną w formie papierowej bądź elektronicznej przechowuje się przez okres ….",
+      "options": [
+        "5 lat.",
+        "3 lat."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKsięgę Rejestracji bydła w formie papierowej prowadzi się zgodnie z określonym wzorem (Dz. U. Nr 151, poz. 1268, z 2007 r. Nr 18, poz. 106 oraz 2011 r. Nr 8 poz. 37).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zgłoszenia śmierci, urodzenia i przewozu zwierząt z i do siedziby stada wraz z datami należy zgłosić do powiatowego biura Agencji Restrukturyzacji i Modernizacji Rolnictwa w terminie:",
+      "options": [
+        "3 dni.",
+        "7 dni.",
+        "14 dni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nObowiązek oznakowania bydła w postaci kolczyków w obu uszach ma obowiązek nastąpić w ciągu … od urodzenia, przed opuszczeniem siedziby stada, jeżeli ma to miejsce wcześniej.",
+      "options": [
+        "7 dni",
+        "14 dni"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWszystkie owce lub kozy w siedzibie utrzymującego stada są właściwie oznakowane kolczykami w czasie 6 miesięcy od chwili urodzenia, ale przed opuszczeniem siedziby lub 14 dni od kontroli granicznej – zwierzęta przywożone z państw trzecich, jeśli nie są przeznaczone do bezpośredniego uboju w czasie 5 dni roboczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Bezpieczeństwo żywności i pasz określają wymogi:",
+      "options": [
+        "bezpieczeństwa i higieny pasz.",
+        "higieny uprawy i roli.",
+        "higieny produkcji jaj.",
+        "dotyczące bezpieczeństwa żywności."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPosiadacz zwierząt gospodarskich jest zobowiązany do posiadania dokumentacji leczniczej zwierząt i ma obowiązek przechowywać ją przez okres … od ostatniego wpisu.",
+      "options": [
+        "5 lat",
+        "3 lat"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku przewozu owiec i kóz w obrębie terytorium państwa, zwierzętom towarzyszą dokumenty przewozowe, zgodne ze wzorem (Dz. U. z 2005 r. Nr 142, poz. 1195).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie substancje mogą być stosowane do przyspieszenia porodu, jednak posiadanie ich w gospodarstwie jest zabronione?",
+      "options": [
+        "Substancje β-agonistyczne.",
+        "Estradiol 17β i jego pochodne.",
+        "Substancje o działaniu estrogennym."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPosiadacz zwierząt gospodarczych nie może wykonywać czynności …, takich, jak synchronizacja rui na zwierzętach przeznaczonych do chowu lub hodowli.",
+      "options": [
+        "zootechnicznych",
+        "medycznych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPosiadacz zwierząt ma zakaz umieszczania na rynku, przeznaczania do uboju i przetwarzania mięsa zwierząt gospodarskich (w tym dzikich), w których organizmie znajdują się lub zostały wykryte substancje zabronione, jeśli nie zostały one podane w celach leczniczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Specyficzne wymogi w zakresie przenośnych gąbczastych encefalopii dla przeżuwaczy zakazują wprowadzania na rynek:",
+      "options": [
+        "skóry.",
+        "nasienia.",
+        "zarodków i komórek jajowych.",
+        "potomstwa pierwszego pokolenia."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku hodowli świń, posiadacz ma obowiązek oznakowania ich …, a żadne zwierzę opuszczające stado nie może być nieoznakowane.",
+      "options": [
+        "w terminie 7 dni",
+        "bezzwłocznie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZ zakresu identyfikacji i rejestracji zwierząt obowiązują osobne wymogi dla rolników utrzymujących bydło, rolników utrzymujących owce i kozy oraz rolników utrzymujących świnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kogo należy powiadomić w przypadku podejrzenia wystąpienia u zwierząt chorób takich jak pomór małych przeżuwaczy czy gorączka doliny Rift?",
+      "options": [
+        "Wójta/Burmistrza/Prezydenta Miasta.",
+        "Okolicznych hodowców.",
+        "Inspekcję Weterynaryjną."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZakazane jest karmienie zwierząt gospodarskich innych niż przeżuwacze … pochodzenia zwierzęcego.",
+      "options": [
+        "białkiem",
+        "tłuszczem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeśli w tym samym gospodarstwie utrzymywane są przeżuwacze i zwierzęta nieprzeżuwające, w żywieniu których stosuje się białko pochodzenia zwierzęcego, to jego przechowywanie, transport i dystrybucja muszą być zorganizowane w sposób uniemożliwiający zanieczyszczenie pasz dla przeżuwaczy tym białkiem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Obszar B wymogów Zasad Wzajemnej Zgodności dotyczy zagadnień:",
+      "options": [
+        "ochrony obiektów wodnych.",
+        "zdrowia publicznego.",
+        "ochrony terenów zalesionych.",
+        "zdrowia zwierząt.",
+        "zdrowotności roślin."
+      ],
+      "answers": [
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku podejrzenia wystąpienia …, zakazane jest wywożenie z gospodarstw zwierząt gatunków wrażliwych na zakażenie, do czasu uzyskania decyzji powiatowego lekarza weterynarii.",
+      "options": [
+        "TSE",
+        "tyfusu zwierzęcego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodczas przekształcania gospodarstwa na produkcję ekologiczną, cała powierzchnia wykorzystywana do żywienia zwierząt musi spełniać zasady rolnictwa ekologicznego, a jeżeli zwierzęta gospodarskie mają być sprzedawane jako produkty ekologiczne muszą być utrzymywane zgodnie z jego zasadami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Obowiązkowe jest posiadanie świadectw zdrowia wydawanych przez urzędowego lekarza weterynarii w przypadku wprowadzania na rynek lub przywozu na teren Polski:",
+      "options": [
+        "owiec lub kóz",
+        "bydła.",
+        "zwierząt domowych.",
+        "zarodków bądź nasienia (owiec, kóz, bydła)."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n…. określa warunki środowiskowe umożliwiające zwierzętom spełnianie potrzeb biologicznych i behawioralnych.",
+      "options": [
+        "produkcja gospodarcza",
+        "dobrostan"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapobieganie chorobom na etapie produkcji ekologicznej polega przede wszystkim na odpowiednim doborze ras i odmian przystosowanych do danego środowiska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie pojęcie odnosi się do gospodarstw rolnych i innych, dotyczy produkcji roślinnej, zwierzęcej, wytwarzania produktów pochodzenia zwierzęcego (jaja, mleko), rybołówstwa, produkcji ryb i mięczaków, pozyskiwania zwierząt łownych, a także grzybów jagód itp.?",
+      "options": [
+        "Produkcja podstawowa (pierwotna).",
+        "Produkcja ekologiczna.",
+        "Produkcja wytwórcza."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrostan określa warunki środowiskowe umożliwiające zwierzętom spełnianie potrzeb biologicznych i behawioralnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Działania powiązane w produkcji podstawowej to:",
+      "options": [
+        "transport i magazynowanie paszy.",
+        "magazynowanie nawozu.",
+        "transport zwierząt.",
+        "transport, magazynowanie i obsługa produktów pierwotnych w miejscu ich produkcji."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie zasady dotyczą standardów prowadzenia gospodarstwa z uwzględnieniem przepisów ochrony środowiska oraz racjonalnej gospodarki nawozami, ochrony gleb i wód, ochrony rolniczego krajobrazu i zachowania siedlisk i gatunków roślin i zwierząt?",
+      "options": [
+        "Zasady Ekologicznego Chowu i Produkcji.",
+        "Zasady Zwykłej Dobrej Praktyki Rolniczej.",
+        "Zasady Podstawowej Praktyki Rolniczej."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa etapie produkcji ekologicznej odpowiedni dobór ras i odmian przystosowywanych do danego środowiska nie ma żadnego wpływu na zapobieganie chorobom u zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zagadnienia dotyczące zdrowia zwierząt, zdrowia publicznego oraz zdrowotności roślin dotyczą obszaru wymogów Zasad Wzajemnej Zgodności:",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Czym nie wolno karmić zwierząt gospodarczych innych niż przeżuwacze?",
+      "options": [
+        "Białkiem pochodzenia zwierzęcego.",
+        "Paszą zawierającą białko.",
+        "Roślinami."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku wprowadzania na rynek lub przywozu do Polski bydła, owiec i kóz nie wymagane jest posiadanie ich świadectw zdrowia, które są wydawane przez urzędowego lekarza weterynarii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W przypadku hodowli jakich zwierząt ich posiadacz ma obowiązek oznakowania ich bezzwłocznie, a żadne zwierzę opuszczające stado nie może być oznakowane?",
+      "options": [
+        "Kóz.",
+        "Świń.",
+        "Owiec."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Z zakresu identyfikacji i rejestracji zwierząt istnieją osobne wymogi dla rolników utrzymujących:",
+      "options": [
+        "świnie.",
+        "owce.",
+        "króliki.",
+        "bydło.",
+        "kozy."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOrgany, które należy powiadomić w przypadku wystąpienia u zwierząt chorób (np. kręgosłupa) to Inspekcja Weterynarii, Wójt bądź Burmistrz lub Prezydent miasta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Czego dotyczą Zasady Wzajemnej Zgodności?",
+      "options": [
+        "Wysokości uzyskiwanych płatności bezpośrednich pod warunkiem spełnianiem przez beneficjentów określonych wymogów.",
+        "Dostępu zwierząt do obszarów swobodnego wypasu i wybiegów, liczba sztuk na jednostkę powierzchni jest ograniczona.",
+        "Standardów prowadzenia gospodarstwa z uwzględnieniem przepisów ochrony środowiska."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z obszarów wynikających z Zasad Wzajemnej Zgodności dotyczy ochrony środowiska naturalnego oraz identyfikacji i rejestracji zwierząt?",
+      "options": [
+        "Obszar B.",
+        "Obszar C.",
+        "Obszar A."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWłaściciel zwierząt gospodarczych jest zobowiązany do posiadania dokumentacji leczniczej zwierząt i ma obowiązek przechowywać ją przez okres 5 lat od ostatniego wpisu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku wystąpienia pryszczycy, nakazuje się pozostawienie zwierząt w miejscu przebywania i niewprowadzanie tam innych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z obszarów wynikających z Zasad Wzajemnej Zgodności dotyczy ochrony wszystkich zwierząt gospodarskich, dobrostanu cieląt oraz świń?",
+      "options": [
+        "Obszar A.",
+        "Obszar B.",
+        "Obszar C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozporządzenie 2091/92 reguluje hodowlę zwierząt w gospodarstwie ekologicznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Czego dotyczą wymogi: właściwego obchodzenia się ze zwierzętami, odpowiednich warunków utrzymania, obsady na jednostce powierzchni oraz stopnia przystosowania się zwierząt do warunków ich przebywania?",
+      "options": [
+        "Chowu ekologicznego.",
+        "Wolnego chowu.",
+        "Dobrostanu.",
+        "Dobrobytu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKażdy posiadacz zwierząt, akwakultury i hodowca ryb ma zakaz poddawania ryb, starszych niż 3 miesiące, zabiegom powiększania żołądka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakich zwierząt gospodarskich dotyczą wymogi Zasad Wzajemnej Zgodności w obszarze C?",
+      "options": [
+        "Drobiu.",
+        "Zwierząt koniowatych.",
+        "Pszczół.",
+        "Zwierząt futerkowych.",
+        "Zwierząt jeleniowatych."
+      ],
+      "answers": [
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki rodzaj chowu zapewnia równowagę paszowo-nawozową, umożliwiającą zamknięty obieg materii w gospodarstwie?",
+      "options": [
+        "Produkcyjny.",
+        "Wolno-wybiegowy.",
+        "Ekologiczny."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczne metody chowu zwierząt zakładają chów produkcyjny oraz ograniczony wybieg dla zwierząt, w tym elementy chowu klatkowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Poniższy schemat przedstawia:",
+      "options": [
+        "obieg produkcyjny zwierząt.",
+        "podstawy chowu w rolnictwie produkcyjnym.",
+        "obieg materii i podstawowe zasady rolnictwa ekologicznego."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/tpc5/testwiedzy_23.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzas niezbędny do przestawienia gospodarstwa na produkcję ekologiczną wynosi 2 lata przed wysiewem lub, w przypadku łąk i roślin wieloletnich, co najmniej dwa lata przed jej wykorzystaniem jako paszy z rolnictwa ekologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Produkty pochodzenia roślinnego, zwierzęcego oraz surowce zbierane w naturalnym środowisku, zarówno roślinne, jak i zwierzęce, to produkty podstawowe (pierwotne).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rozporządzenie reguluje: ogólne zasady produkcji, przekształcanie gospodarstw na produkcję ekologiczną, pochodzenie zwierząt, ich karmienie, zapobieganie chorobom i leczenie weterynaryjne oraz praktyki gospodarskie?",
+      "options": [
+        "2020/21",
+        "2092/91",
+        "1020/91",
+        "2091/91"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZasady Wzajemnej Zgodności dotyczą wsparcia rolnictwa, jednak warunkiem otrzymania płatności jest spełnienie wymagań dotyczących utrzymania gruntów gospodarstwa w Dobrej Kulturze Rolnej zgodnej z ochroną środowiska i podstawowych wymogów z zakresu zarządzania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta roślinożerne powinny otrzymywać paszę objętościową, zieloną, susz paszowy lub kiszonkę w ilości co najmniej 60% suchej masy dziennej dawki pokarmowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Żywienie młodych ssaków opiera się głównie na:",
+      "options": [
+        "mleku proszkowym.",
+        "naturalnym mleku, najlepiej od matki.",
+        "przecierze warzywnym z uprawy ekologicznej."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem organizacyjny rolnictwa ekologicznego w Polsce reguluje Ustawa z dnia 12 lipca 2004 r. o rolnictwie produkcyjnym (Dz. U. nr 116 poz. 975).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W ramach bezpieczeństwa żywności i pasz mówimy o:",
+      "options": [
+        "wymogach bezpieczeństwa i higieny pasz oraz żywności.",
+        "wymogach dla posiadaczy i hodowców ryb oraz akwakultury.",
+        "wymogach dla posiadaczy zwierząt gospodarskich.",
+        "wymogach higieny produkcji produktów pochodzenia roślinnego oraz zwierzęcego."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Obszar A wymogów Zasad Wzajemnej Zgodności w zakresie ochrony środowiska naturalnego obejmuje:",
+      "options": [
+        "ochronę dzikiego ptactwa.",
+        "ochronę siedlisk przyrodniczych i siedlisk dzikiej fauny i flory.",
+        "ochronę wód gruntowych przed zanieczyszczeniem substancjami niebezpiecznymi.",
+        "ochronę rzadkich gatunków roślin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEkologiczny chów zwierząt powinien zapewnić utrzymanie równowagi paszowo-nawozowej, co umożliwia zamknięty obieg materii w gospodarstwie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile obszarów istnieje w ramach wymogów Zasad Wzajemnej Zgodności?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Który z obszarów wynikających z Zasad Wzajemnej Zgodności dotyczy zdrowia zwierząt (wymogów dla posiadaczy zwierząt gospodarskich oraz posiadaczy i hodowców ryb oraz akwakultury)?",
+      "options": [
+        "Obszar B.",
+        "Obszar C.",
+        "Obszar A."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

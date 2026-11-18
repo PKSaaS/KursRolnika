@@ -25,7 +25,9 @@
         "Zjawiska atmosferyczne bada meteorologia.",
         "Zjawiska wpływające na produkcję rolniczą: energia słoneczna, temperatura powietrza i gleby, ciśnienie atmosferyczne, wiatr, wilgotność powietrza i opady.",
         "Warunki dobrego plonu: małe opady zimowe, suchy marzec lub kwiecień, dostateczne (nie za duże) opady w czasie kwitnienia i kłoszenia zbóż, tj. w maju.",
-        "Lato, ze względu na zbiory, powinno być możliwie suche."
+        "Lato, ze względu na zbiory, powinno być możliwie suche.",
+        "Największe plony są w latach, gdy przy stosunkowo niskich temperaturach powietrza w okresie kwitnienia i kłoszenia (maj) opady są dostatecznie obfite, a wilgoć w glebie utrzymuje się możliwie długo.",
+        "Niedobór opadów przy wysokich temperaturach powoduje szybkie zużycie wilgoci gruntowej – rośliny w okresie dojrzewania cierpią z braku wody."
       ]
     },
     {
@@ -40,7 +42,15 @@
         "Rzędy z północy na południe otrzymują więcej światła niż rzędy ze wschodu na zachód.",
         "Większość roślin wyższych rozwija się w zakresie od 0–5°C (minimum) do 40–50°C (maksimum).",
         "Okres wegetacyjny – temperatury ponad 5°C; trwa od 190 dni (Pojezierze Suwalskie) do ponad 220 dni (Kotlina Podkarpacka, Nizina Śląska).",
-        "Krótki okres wegetacyjny utrudnia stosowanie poplonów i wymaga większej koncentracji robót polnych."
+        "Krótki okres wegetacyjny utrudnia stosowanie poplonów i wymaga większej koncentracji robót polnych.",
+        "Bez światła nie może przebiegać podstawowy proces fizjologiczny roślin – fotosynteza.",
+        "Rosnące rośliny nawzajem się zacieniają – odpowiednia obsada na jednostce powierzchni gwarantuje dopływ właściwej ilości światła.",
+        "Temperatury, w których funkcje życiowe przebiegają najintensywniej, nie są stałe – zmieniają się w zależności od stadium rozwoju rośliny.",
+        "Silne mrozy wyrządzają szkody w sadach, a nawet w lasach.",
+        "Przymrozki wiosenne niszczą w ogrodach i sadach młode sadzonki oraz pączki i kwiaty drzew owocowych; przymrozki jesienne – warzywa i wrażliwe na chłód uprawy polowe.",
+        "Najzimniejsze w Polsce (oprócz gór) są obszary na północnym wschodzie: mroźna i długa zima, niezbyt upalne lato, stosunkowo późne przymrozki wiosenne.",
+        "Nasłonecznienie wpływa na temperaturę danego obszaru, a ta oddziałuje na ukształtowanie powierzchni, nawodnienie i proces tworzenia się gleb.",
+        "Warunki cieplne kraju ilustruje również rozkład średniej rocznej liczby dni mroźnych i przymrozkowych."
       ]
     },
     {
@@ -55,7 +65,10 @@
         "Okopowe: kluczowe opady od czerwca do sierpnia; gorące, suche i późne lato pogarsza urodzaje.",
         "Słoneczna, sucha jesień zwiększa zawartość cukru w burakach cukrowych.",
         "Drzewa i krzewy owocowe potrzebują klimatu umiarkowanie kontynentalnego; najurodzajniejsze sady przy rocznej sumie opadów ponad 600 mm.",
-        "Trawy łąkowe wymagają więcej opadów wiosną, od początku czerwca coraz mniej."
+        "Trawy łąkowe wymagają więcej opadów wiosną, od początku czerwca coraz mniej.",
+        "Na plony okopowych, oprócz opadów, duży wpływ ma temperatura na początku okresu kwitnienia; warunki przed kwitnieniem mają mniejsze znaczenie.",
+        "Często lata nieurodzajne dla zbóż okazują się urodzajne dla ziemniaków i odwrotnie.",
+        "Sady dają największe zbiory, gdy ilość ciepła, światła i opadu zmienia się w krótkich odstępach czasu; sprzyja im duża liczba dni słonecznych i dość wysokie temperatury."
       ]
     },
     {
@@ -68,7 +81,9 @@
         "Dodatni wpływ: przenoszenie pyłku i nasion, osuszanie mokrej gleby, dosuszanie roślin przy zbiorze, mieszanie powietrza, przynoszenie wilgotnych mas znad morza.",
         "Ujemny wpływ: roznoszenie nasion chwastów, zarodników grzybów i bakterii, wywiewanie gleby, wyleganie, przenoszenie szkodników, zwiewanie śniegu, parowanie gleby, wymarzanie.",
         "Zbyt duża prędkość wiatru utrudnia zabiegi ochrony roślin.",
-        "Zboża i trawy są przystosowane do przenoszenia pyłku przez wiatr; wiatr roznosi też zarodniki chorób, np. rdzy zbożowej."
+        "Zboża i trawy są przystosowane do przenoszenia pyłku przez wiatr; wiatr roznosi też zarodniki chorób, np. rdzy zbożowej.",
+        "Silne wiatry łamią lub zginają łodygi – zboże kładzie się, a następnie gnije; wiatry wyrządzają też szkody w sadach.",
+        "Wiatry, przenosząc masy chłodnego/ciepłego, suchego/wilgotnego powietrza, wpływają na temperaturę i opady."
       ]
     },
     {
@@ -83,7 +98,20 @@
         "Grad najgroźniejszy w okresie kwitnienia i później; śnieg chroni przed mrozem, nadmiar powoduje wymakanie i wyprzanie.",
         "Co drugi rok w dużej części kraju jest posuszny; niedobór najdotkliwszy w środkowej Polsce (użytki zielone).",
         "Rozkład opadów w Polsce sprzyja bardziej okopowym (lipiec, sierpień) niż zbożom.",
-        "Najważniejsza nie jest ilość opadów, lecz ich rozkład i natężenie; nadmiar wody – utrzymywać sprawne dreny, rowy, obwałowania."
+        "Najważniejsza nie jest ilość opadów, lecz ich rozkład i natężenie; nadmiar wody – utrzymywać sprawne dreny, rowy, obwałowania.",
+        "Brak wody w okresie dojrzewania ziarna powoduje jego słabe wykształcenie i niedobór substancji pokarmowych.",
+        "Para wodna powstaje z parowania oceanów, mórz, rzek, jezior, gleby, z transpiracji roślin, jest też wydychana przez ludzi i zwierzęta.",
+        "Opady są podstawowym źródłem wody dla roślin; obok szaty roślinnej, podłoża i temperatury są ważnym czynnikiem tworzenia się gleb.",
+        "Największe znaczenie mają deszcz i śnieg: deszcz dostarcza wodę bezpośrednio, śnieg magazynuje większość wody do czasu topnienia.",
+        "Grad miażdży kwiaty i pąki, dziurawi liście, łamie łodygi i gałęzie; po kwitnieniu rośliny nie regenerują już uszkodzonych organów.",
+        "Śnieg oczyszcza powietrze od zawiesin i bakterii chorobotwórczych; nadmiar łamie gałęzie i drzewa; w rolnictwie ważna jest trwałość pokrywy śnieżnej.",
+        "Deszcze są korzystne, gdy są spokojne i równomiernie rozłożone w okresie wegetacyjnym; gwałtowne ulewy przedzielone posuchą – woda spływa, zmywa glebę, zasypuje gruzem pola i drogi.",
+        "Najodpowiedniejszy jest opad w postaci długotrwałego i drobnego deszczu.",
+        "Zbożom deszcze w lecie raczej przeszkadzają, a w maju (najsilniejszy wzrost zbóż) opady w Polsce są raczej niewielkie.",
+        "Rosa w okresach bezdeszczowych dostarcza roślinom wodę.",
+        "Nadmiar wody w glebie utrudnia dostęp tlenu, uniemożliwia oddychanie korzeni, prowadzi do gnicia i obumierania oraz utrudnia zabiegi agrotechniczne.",
+        "Od opadów w znacznym stopniu zależy nawodnienie danego obszaru; wielkość i postać opadów wpływa także na ukształtowanie terenu.",
+        "Wiatr, zwiewając pokrywę śnieżną, naraża uprawy na przemarznięcie; zwiększając parowanie – wysusza glebę."
       ]
     },
     {
@@ -96,7 +124,30 @@
         "Zimą większe zachmurzenie na nizinach, latem w górach.",
         "Najmniejsze opady na nizinach, w górach dwa razy większe.",
         "Największe nasłonecznienie w pasie nadmorskim, najmniejsze w górach i na Mazurach.",
-        "Mikroklimat – warunki klimatyczne na niewielkim obszarze znacznie odbiegające od reszty regionu."
+        "Mikroklimat – warunki klimatyczne na niewielkim obszarze znacznie odbiegające od reszty regionu.",
+        "Rolnictwo zależy od klimatu jak żaden inny dział gospodarki – warunki klimatyczne decydują o uprawianych gatunkach, tempie wzrostu roślin i jakości plonów.",
+        "Cechy charakterystyczne klimatu Polski: zmienność i różnorodność typów pogody, wynikające z położenia geograficznego (napływ mas powietrza oceanicznego i kontynentalnego).",
+        "Temperatura jest w klimacie Polski elementem o największej zmienności.",
+        "Znajomość warunków mikroklimatycznych może istotnie wpływać na prowadzenie gospodarstwa rolnego.",
+        "Polska leży między zachodnią Europą (klimat oceaniczny) a obszarem Rosji i Ukrainy (klimat kontynentalny).",
+        "Znając warunki klimatyczne, można dobrać odpowiednie rośliny dla określonych siedlisk.",
+        "Zachmurzenie w znacznym stopniu wpływa na nasłonecznienie, bardzo istotne dla wzrostu i rozwoju roślin.",
+        "Legenda mapy średniej rocznej temperatury (rys. 1.1): przedziały 8–9°C, 7–8°C, 6–7°C, 5–6°C, 4–5°C i poniżej 4°C (najzimniejsze tereny wysokogórskie na południu).",
+        "Legenda mapy opadu normalnego (rys. 1.2): od poniżej 500 mm (środkowa Polska) przez 550–600, 600–650, 650–700, 700–800, 800–900, 900–1000, 1000–1200, 1200–1400 mm do ponad 1400 mm (najwyższe partie gór)."
+      ],
+      "images": [
+        {
+          "src": "img/ppr1/srednia-temperatura-polska.jpg",
+          "caption": "Średnia roczna temperatura w Polsce (rys. 1.1): najcieplej (8–9°C) na zachodzie i południowym zachodzie (Szczecin, Poznań, Zielona Góra, Wrocław), chłodniej (6–7°C) na północnym wschodzie (Olsztyn, Białystok), najzimniej (poniżej 6°C) w górach."
+        },
+        {
+          "src": "img/ppr1/opady-polska.jpg",
+          "caption": "Opad normalny w Polsce (rys. 1.2): najmniej opadów (550–600 mm, miejscami <500 mm) na nizinach w środkowej Polsce, najwięcej w górach na południu (1000–1400 mm i więcej) – w górach opady są ok. dwa razy większe."
+        },
+        {
+          "src": "img/ppr1/mapa-fizyczna-polski.jpg",
+          "caption": "Mapa fizyczna Polski – rzeźba terenu jest jednym z czynników klimatu: na nizinach (kolor zielony, północ i środek kraju) opady są najmniejsze, w górach na południu dwa razy większe; najmniejsze nasłonecznienie jest w górach i na Mazurach, największe w pasie nadmorskim."
+        }
       ]
     },
     {
@@ -111,7 +162,18 @@
         "Zachmurzenie w skali 0–8 (0 – bezchmurnie, 8 – pełne zachmurzenie).",
         "Deszczomierz: puszka o średnicy ok. 16 cm, 1 m nad gruntem; pomiar raz na dobę rano, menzurką.",
         "Ciśnienie: barometr lub aneroid, w hPa lub mm słupa rtęci; 750 mm odpowiada 1000 hPa.",
-        "Prędkość wiatru: anemometr (m/s, km/h) lub szacunkowo skala Beauforta; kierunek – strona, z której wieje wiatr."
+        "Prędkość wiatru: anemometr (m/s, km/h) lub szacunkowo skala Beauforta; kierunek – strona, z której wieje wiatr.",
+        "Najczęściej mierzy się temperaturę i wilgotność powietrza, opady, ciśnienie, kierunek i prędkość wiatru; obserwuje się też zachmurzenie i zjawiska atmosferyczne.",
+        "Aparatura pomiarowa: prosta konstrukcja, niewielkie rozmiary, odporność na wpływy atmosfery, właściwa czułość i dokładność.",
+        "Psychrometr służy do mierzenia wilgotności powietrza.",
+        "Podstawowy warunek porównywalności pomiarów: wykonywanie ich w tym samym czasie, w miejscu bez wpływu najbliższego otoczenia.",
+        "Stacje synoptyczne pracują dla potrzeb prognozowania pogody.",
+        "Własne obserwacje (np. prosta stacja pogody) – systematycznie, w tym samym czasie i miejscu przez dłuższy okres.",
+        "Temperaturę mierzy się termometrem zaokiennym lub elektronicznym (czujka na zewnątrz).",
+        "Przykład: chmury zakrywają 2/8 nieba (1/4) – zachmurzenie 2; połowę (4/8) – 4. Rodzaj chmur określa się po wyglądzie i wysokości występowania.",
+        "Śnieg z deszczomierza najpierw się topi; rodzaj opadu ustala się na podstawie obserwacji w ciągu doby.",
+        "Prosty wiatromierz: patyczek ze wstążeczką lub nitką, umieszczony na podstawce z zaznaczonymi stronami świata.",
+        "Wiatr północny wieje z północy na południe, zachodni – z zachodu na wschód."
       ]
     },
     {
@@ -122,7 +184,9 @@
         "Latem wysokie ciśnienie i wiatr wschodni – pogoda słoneczna i susza.",
         "Wiatr wschodni przy niskim ciśnieniu – wzrost temperatury i burze.",
         "Wiatr zachodni przy niskim ciśnieniu – ochłodzenie i opady.",
-        "Wiosną wysokie ciśnienie przy bezchmurnym niebie zapowiada przymrozki."
+        "Wiosną wysokie ciśnienie przy bezchmurnym niebie zapowiada przymrozki.",
+        "Spadek ciśnienia w czasie ładnej pogody gwarantuje jej pogorszenie.",
+        "Latem wysokie ciśnienie i wiatr wschodni – spodziewać się pogody słonecznej i suszy."
       ]
     }
   ],
@@ -406,6 +470,68 @@
     {
       "front": "Co zapowiada wiosną wysokie ciśnienie przy bezchmurnym niebie?",
       "back": "Przymrozki."
+    },
+    {
+      "front": "Cechy charakterystyczne klimatu Polski",
+      "back": "Zmienność i różnorodność typów pogody – skutek położenia geograficznego i napływu na przemian mas powietrza oceanicznego i kontynentalnego."
+    },
+    {
+      "front": "Klimat a pogoda – różnica",
+      "back": "Pogoda to stan atmosfery w konkretnym miejscu i czasie, a klimat ocenia się na podstawie zjawisk atmosferycznych na danym obszarze w wieloletnim okresie."
+    },
+    {
+      "front": "Gdzie w Polsce średnia roczna temperatura jest najwyższa, a gdzie najniższa (wg mapy)?",
+      "back": "Najwyższa (8–9°C) na zachodzie i południowym zachodzie kraju; najniższa w górach (poniżej 6°C) i chłodniej na północnym wschodzie (6–7°C).",
+      "img": "img/ppr1/srednia-temperatura-polska.jpg"
+    },
+    {
+      "front": "Gdzie w Polsce opady są najmniejsze, a gdzie największe (wg mapy opadu normalnego)?",
+      "back": "Najmniejsze na nizinach w środkowej Polsce (ok. 500–600 mm), największe w górach na południu (ponad 1000 mm) – ok. dwa razy większe niż na nizinach.",
+      "img": "img/ppr1/opady-polska.jpg"
+    },
+    {
+      "front": "Jakie przyrządy znajdują się w klatce meteorologicznej, a jakie obok niej w ogródku meteorologicznym?",
+      "back": "W klatce: termometry, psychrometry (do mierzenia wilgotności powietrza), rejestratory. W ogródku: deszczomierz i wiatromierz. Ciśnienie mierzy się w pokoju obserwatora."
+    },
+    {
+      "front": "Psychrometr – do czego służy?",
+      "back": "Do mierzenia wilgotności powietrza."
+    },
+    {
+      "front": "Jakie szkody wyrządzają przymrozki wiosenne i jesienne?",
+      "back": "Wiosenne – niszczą w ogrodach i sadach młode sadzonki oraz pączki i kwiaty drzew owocowych; jesienne – warzywa i wrażliwe na chłód uprawy polowe."
+    },
+    {
+      "front": "Jaki opad deszczu jest najodpowiedniejszy dla rolnictwa?",
+      "back": "Długotrwały i drobny deszcz, spokojny i równomiernie rozłożony w okresie wegetacji. Gwałtowne ulewy powodują spływ wody i zmywanie gleby."
+    },
+    {
+      "front": "Dlaczego rozkład opadów w Polsce sprzyja bardziej okopowym niż zbożom?",
+      "back": "Okopowe potrzebują dużo wody w lipcu i sierpniu, gdy opady są duże; zbożom deszcze w lecie przeszkadzają, a w maju (najsilniejszy wzrost zbóż) opady są niewielkie."
+    },
+    {
+      "front": "Rola deszczu i śniegu jako opadów",
+      "back": "Deszcz dostarcza glebie i roślinom wodę bezpośrednio; śnieg magazynuje większość wody do czasu topnienia i chroni rośliny przed mrozem."
+    },
+    {
+      "front": "Jakie skutki ma brak wody w okresie dojrzewania ziarna?",
+      "back": "Słabe wykształcenie ziarna i niedobór znacznej ilości substancji pokarmowych."
+    },
+    {
+      "front": "Jakie urządzenia melioracyjne należy utrzymywać w sprawności, by zmniejszyć skutki nadmiaru opadów?",
+      "back": "Dreny, rowy melioracyjne i obwałowania."
+    },
+    {
+      "front": "Termin pomiaru opadu deszczomierzem i jak mierzy się ilość opadu?",
+      "back": "Raz na dobę w porannym terminie obserwacji; wodę przelewa się do menzurki (naczynia ze skalą); śnieg najpierw się topi."
+    },
+    {
+      "front": "Które obszary Polski (oprócz gór) są najzimniejsze i co je cechuje?",
+      "back": "Północny wschód kraju: mroźna i długa zima, niezbyt upalne lato, stosunkowo późne przymrozki wiosenne."
+    },
+    {
+      "front": "Jak zachmurzenie wpływa na rośliny?",
+      "back": "Zachmurzenie w znacznym stopniu wpływa na nasłonecznienie, które jest bardzo istotne dla wzrostu i rozwoju roślin (największe nasłonecznienie w pasie nadmorskim, najmniejsze w górach i na Mazurach)."
     }
   ],
   "quiz": [
@@ -793,6 +919,919 @@
       ],
       "answer": 3,
       "explain": "Wysokie ciśnienie wiosną przy bezchmurnym niebie zapowiada przymrozki."
+    },
+    {
+      "q": "Co jest charakterystyczną cechą klimatu Polski?",
+      "options": [
+        "Stałość typów pogody przez cały rok",
+        "Brak wpływu mas powietrza oceanicznego",
+        "Zmienność i różnorodność typów pogody",
+        "Równomierne nasłonecznienie w całym kraju"
+      ],
+      "answer": 2,
+      "explain": "Ze względu na położenie geograficzne w klimacie Polski na przemian przeważają cechy oceaniczne i kontynentalne, stąd duża zmienność pogody."
+    },
+    {
+      "q": "Do mierzenia wilgotności powietrza służy:",
+      "options": [
+        "anemometr",
+        "psychrometr",
+        "aneroid",
+        "menzurka"
+      ],
+      "answer": 1,
+      "explain": "Psychrometry umieszcza się w klatce meteorologicznej; służą do mierzenia wilgotności powietrza."
+    },
+    {
+      "q": "Pomiar opadu deszczomierzem wykonuje się:",
+      "options": [
+        "co godzinę",
+        "trzy razy na dobę",
+        "raz na dobę w porannym terminie obserwacji",
+        "raz w tygodniu"
+      ],
+      "answer": 2,
+      "explain": "Pomiaru opadu dokonuje się raz na dobę w porannym terminie obserwacji, przelewając wodę do menzurki."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jakie cechy opisują wiatr?",
+      "options": [
+        "Siła",
+        "Kierunek",
+        "Prędkość",
+        "Rodzaj"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Głównym składnikiem atmosfery jest azot, który stanowi ok. 78% objętości, tlen 21% objętości, pozostałe gazy tj.: argon, dwutlenek węgla, gazy szlachetne, stanowią ok. 1% powietrza.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … nazywamy zespół czynników zewnętrznych, które występują w danym miejscu i wpływają na rośliny.",
+      "options": [
+        "Siedliskiem przyrodniczym",
+        "Siedliskiem roślin"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Okres wegetacji, w którym następuje wzrost i rozwój roślin oraz prowadzone są wszelkie prace polowe, rozpoczyna się od temperatury ….",
+      "options": [
+        "5°C",
+        "10°C"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zbyt duża prędkość wiatru utrudnia wykonanie zabiegów ochrony roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Rośliny rosnące w rzędach z północy na południe otrzymują … światła niż rosnące ze wschodu na zachód.",
+      "options": [
+        "więcej",
+        "mniej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które czynniki warunkujące korzystanie z energii słonecznej możemy uznać za sztuczne?",
+      "options": [
+        "Zabiegi agrotechniczne",
+        "Melioracje (nawadnianie i odwadnianie)",
+        "Ukształtowanie terenu.",
+        "Czynniki glebowe"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Do roślin dnia długiego należą m.in. kukurydza, soja i proso.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Jeśli opad nastąpi w postaci ulewy, to przyniesie więcej … dla upraw.",
+      "options": [
+        "zysków i korzyści",
+        "strat i szkód"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Promieniowanie słoneczne można podzielić na trzy zakresy długości fal. Najkrótszą falą jest:",
+      "options": [
+        "promieniowanie ultrafioletowe",
+        "promieniowanie widzialne",
+        "promieniowanie podczerwone"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Produktywność roślin zależy od warunków korzystania z energii słonecznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Polska leży w strefie klimatu umiarkowanego ….",
+      "options": [
+        "kontynentalnego",
+        "przejściowego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Od czego zależy ilość promieniowania słonecznego docierającego do powierzchni Ziemi?",
+      "options": [
+        "Od pory dnia",
+        "Od wilgotności powietrza",
+        "Od pory roku"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W obszarze niżu barycznego zwykle panuje bezchmurna pogoda, występują duże różnice temperatur, w lecie duże upały, a zimą silne mrozy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to powłoka gazowa otaczająca naszą planetę. Składa się z mieszaniny gazów, którą nazywamy powietrzem.",
+      "options": [
+        "Atmosfera",
+        "Troposfera"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z poniższych opadów jest najodpowiedniejszy dla roślin?",
+      "options": [
+        "Przelotny deszcz",
+        "Padający z przerwami, silny deszcz",
+        "Długotrwały i drobny deszcz"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niskie ciśnienie wiosną przy bezchmurnym niebie zapowiada przymrozki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Cechy charakterystyczne naszego klimatu to ….",
+      "options": [
+        "Zmienność i różnorodność typów pogody",
+        "Regularna zmienność sezonowa, z suchą zimą i deszczowym latem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zjawiska meteorologiczne mają wpływ na produkcję rolniczą?",
+      "options": [
+        "Ciśnienie atmosferyczne",
+        "Energia słoneczna",
+        "Temperatura powietrza i gleby",
+        "Wiatr"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Promieniowanie słoneczne można podzielić na trzy zakresy długości fal: promieniowanie ultrafioletowe, widzialne i mikrofale.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to uruchomienie procesów fizjologicznych i behawioralnych.",
+      "options": [
+        "Fotosynteza",
+        "Fotoperiod"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie rośliny kwitną niezależnie od długości dnia?",
+      "options": [
+        "Rośliny dnia krótkiego.",
+        "Rośliny dnia długiego",
+        "Rośliny obojętne fotoperiodycznie"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zmniejszenia skutków nadmiaru opadów, należy utrzymywać w sprawności urządzenia melioracyjne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. W obszarze wyżu barycznego wiejące wiatry są słabe i wieją od środka układu, skręcając w ….",
+      "options": [
+        "Prawo",
+        "Lewo"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką postać mogą mieć osady atmosferyczne?",
+      "options": [
+        "Szadzi",
+        "Krupy",
+        "Rosy",
+        "Szronu"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wilgotność powietrza to procentowa zawartość pary wodnej w powietrzu, która m.in. wydychana jest przez ludzi i zwierzęta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Wysokie ciśnienie wiosną przy bezchmurnym niebie zapowiada ….",
+      "options": [
+        "Ocieplenie",
+        "Przymrozki"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z wymienionych skutków można uznać jako dodatni wpływ wiatru na rośliny?",
+      "options": [
+        "Przemieszanie powietrza o różnych temperaturach",
+        "Zwiewanie i nawiewanie śniegu",
+        "Wywiewaniu cząstek gleby",
+        "Roznoszeniu zarodników grzybów"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Cechy charakterystyczne klimatu Polski spowodowane są położeniem geograficznym naszego kraju.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Badaniem wpływu pogody i klimatu na rozwój roślin zajmuje się agrometeorologia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Od czego jest zależna pogoda?",
+      "options": [
+        "Od układu ciśnienia atmosferycznego",
+        "Od grubości troposfery nad danym obszarem",
+        "Od układu mas powietrza"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Wyż baryczny to układ, w którym w centrum układu panuje ciśnienie najniższe i rośnie na zewnątrz układu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … jest podstawowym składnikiem komórki roślinnej. Bierze udział w procesach biochemicznych w roślinach, umożliwia pobieranie składników pokarmowych z gleby, utrzymuje jędrność tkanek i reguluje temperaturę rośliny.",
+      "options": [
+        "Woda",
+        "Energia słoneczna"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki wiatr musi wiać latem przy wysokim ciśnieniu, żeby można było się spodziewać pogody słonecznej i suszy?",
+      "options": [
+        "Północny",
+        "Wschodni",
+        "Zachodni",
+        "Południowy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Istnieją trzy zasadnicze układy ciśnienia atmosferycznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wybierz prawidłową definicję pogody.",
+      "options": [
+        "Pogoda jest to ogół zjawisk pogodowych zachodzących na danym obszarze w wieloletnim okresie.",
+        "Pogoda to stan atmosfery w konkretnym miejscu i w konkretnym czasie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim procesie tworzy się prosty cukier, który jest podstawą innych związków organicznych?",
+      "options": [
+        "Respiracji",
+        "Transpiracji",
+        "Asymilacji"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niskie ciśnienie gwarantuje pogodę, a wzrost zwiastuje pogorszenie pogody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … jest to ogół zjawisk pogodowych, zachodzących na danym obszarze w wieloletnim okresie.",
+      "options": [
+        "Klimat",
+        "Pogoda"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z osadów atmosferycznych ma dla rolnictwa największe znaczenie?",
+      "options": [
+        "Rosa",
+        "Szadź",
+        "Szron"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W miesiącach zimowych na nizinach obserwuje się zachmurzenie większe niż w górach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to podstawowe źródło wody dla roślin i ich zależność spowodowana jest zawartością pary wodnej w powietrzu.",
+      "options": [
+        "Opady atmosferyczne",
+        "Osady atmosferyczne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie. Rośliny potrafią wytwarzać cukier prosty, czyli ….",
+      "options": [
+        "galaktozę",
+        "glukozę"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny mają zdolność tworzenia do życia związków organicznych z prostych związków mineralnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … to taki układ ciśnienia na danym obszarze, gdzie najniższe ciśnienie występuje w środku układu i wzrasta na zewnątrz.",
+      "options": [
+        "Niż baryczny",
+        "Wyż baryczny"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż straty roślin nie spowodowane brakiem wody.",
+      "options": [
+        "Znaczny niedobór substancji pokarmowych w ziarnie.",
+        "Więdnięcie w początkowej fazie rozwoju.",
+        "Gnicie systemu korzeniowego",
+        "Słabe wykształcenie ziarna"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Przemieszczanie powietrza o różnych temperaturach i przenoszenie wilgotnych mas powietrza znad morza, nie ma wpływu na rośliny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Dodatnie czynniki wynikające z wpływu wiatru na rośliny, to m.in.:",
+      "options": [
+        "zapylanie roślin",
+        "rozpowszechnianie pożarów, doprowadzających do wypalenia suchych części roślin",
+        "rozpowszechnianie nasion roślin pożytecznych",
+        "przyspieszanie dosuszania roślin w okresie zbioru"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Śnieg w okresie zimowym tworzy powłokę ochronną, zabezpieczając rośliny przed wymarzaniem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Nadmiar wody w glebie:",
+      "options": [
+        "utrudnia dostęp tlenu",
+        "przyśpiesza proces fotosyntezy",
+        "wspiera wzrost roślin",
+        "uniemożliwia oddychanie korzeni"
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W okresie intensywnych opadów mamy do czynienia z nadmiarem wody w glebie, co prowadzi do gnicia i obumierania korzeni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Najmniejsze nasłonecznienie w Polsce występuje:",
+      "options": [
+        "w górach",
+        "na Mazurach",
+        "w pasie nadmorskim"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dla wegetacji roślin najważniejsza jest ilość opadów, a nie ich rozkład w okresie wegetacji oraz natężenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Intensywność nasłonecznienia nie ma bezpośredniego wpływu na wzrost i rozwój roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Pogoda to stan atmosfery w konkretnym miejscu i w konkretnym czasie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim kierunku wieją wiatry w obszarze niżu barycznego?",
+      "options": [
+        "Od środka układu, przeciwnie do ruchu wskazówek zegara",
+        "Ku środkowi układu, przeciwnie do ruchu wskazówek zegara",
+        "Od środka układu, zgodnie z ruchem wskazówek zegara",
+        "Ku środkowi układu, zgodnie z ruchem wskazówek zegara"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W trakcie opadów spadek ciśnienia zwiastuje poprawę pogody, natomiast jego wzrost w trakcie ładnej pogody, wróży jej pogorszenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie zjawiska zachodzą w obszarze niżu barycznego?",
+      "options": [
+        "Maleje zachmurzenie",
+        "Maleje wilgotność",
+        "Wzrasta wilgotność",
+        "Wzrasta zachmurzenie"
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Składniki powietrza atmosferycznego nie występują w stałych stosunkach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Gazy w powietrzu nie tworzą związków chemicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki wiatr przy niskim ciśnieniu zwiastuje wzrost temperatury i burze?",
+      "options": [
+        "Wiatr wschodni",
+        "Wiatr północny",
+        "Wiatr południowy",
+        "Wiatr zachodni"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Energia słoneczna pochodzi ze Słońca, które w przestrzeń kosmiczną wysyła promieniowanie o bardzo dużych długościach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników warunkują korzystanie z energii słonecznej?",
+      "options": [
+        "Czynniki glebowe",
+        "Zabiegi agrotechniczne",
+        "Rodzaj posadzonych roślin.",
+        "Czynniki klimatyczne"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Największe znaczenie dla rolnictwa ma rosa, która zapewnia dostarczanie wody w okresie bezdeszczowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie domieszki występują między drobinami gazów zawartych w powietrzu?",
+      "options": [
+        "Gazy przemysłowe",
+        "Woda w postaci kryształów lub kropel",
+        "Drobne cząstki gleby",
+        "Para wodna"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Promieniowanie słoneczne w całości dociera do Ziemi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywa się nauka, która zajmuje się badaniem wpływu pogody i klimatu na rozwój roślin?",
+      "options": [
+        "Meteorologia",
+        "Meteorologia rolnicza",
+        "Agrometeorologia"
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Dla temperatury powietrza i gleby można ustalić trzy zasadnicze przedziały.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Rośliny rosnące w rzędach z północy na południe otrzymują więcej światła niż te, które rosną ze wschodu na zachód.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do jakiego podstawowego procesu fizjologicznego roślin potrzebne jest światło?",
+      "options": [
+        "Do fotosyntezy",
+        "Do respiracji",
+        "Do transpiracji"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Każdy rodzaj opadu przyniesie więcej zysku dla uprawy niż strat.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Latem zachmurzenie w górach jest znacznie większe niż na nizinach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywa się temperatura, w której rośliny jeszcze nie giną, a wszelkie procesy fizjologiczne są zahamowane?",
+      "options": [
+        "Temperatura maksymalna",
+        "Temperatura optymalna",
+        "Temperatura minimalna"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Niż baryczny to układ, w którego centrum panuje ciśnienie najwyższe, malejące na zewnątrz układu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest zależność między ciśnieniem a grubością warstwy powietrza?",
+      "options": [
+        "Im grubsza warstwa powietrza, tym wyższe ciśnienie",
+        "Nie mają na siebie wpływu",
+        "Im grubsza warstwa powietrza, tym niższe ciśnienie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W obszarze wyżu barycznego wiejące wiatry są słabe i wieją od środka układu, skręcając w prawo.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile procent objętości powietrza stanowi azot?",
+      "options": [
+        "78%",
+        "21%",
+        "71%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Jeśli latem przy niskim ciśnieniu zaczyna wiać wiatr wschodni, można się spodziewać pogody słonecznej i suszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z poniższych roślin nazywamy roślinami dnia krótkiego?",
+      "options": [
+        "Pomidory, słonecznik, ogórek",
+        "Zboża, burak cukrowy, koniczyna",
+        "Kukurydza, soja, proso"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Długość dnia ma zasadnicze znaczenie dla procesów życiowych roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
     }
   ]
 }

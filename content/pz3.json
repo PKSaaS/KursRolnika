@@ -1,0 +1,2133 @@
+{
+  "id": "pz3",
+  "course": "Produkcja zwierzęca",
+  "title": "Strzyża, korekta okrywy szerstnej i transport zwierząt",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – pielęgnacja skóry i okrywy",
+      "points": [
+        "Pielęgnacja skóry utrzymuje zdrowie zwierząt, zwiększa produkcyjność i wyrabia łagodny temperament, co ułatwia obsługę.",
+        "Brudna skóra (pasza, kał, pot, kurz, złuszczony naskórek, wyliniała sierść) utrudnia oddychanie skórne oraz funkcje wydzielnicze, wydalnicze i termoregulacyjne.",
+        "Skórę pielęgnuje się systematycznie: czyszczenie, mycie, zwalczanie pasożytów.",
+        "U zwierząt z okrywą wełnistą podstawowym zabiegiem jest systematyczne strzyżenie.",
+        "Wełnę pozyskuje się od owiec, kóz, królików angorskich, lam i wielbłądów; w Polsce najliczniej od owiec.",
+        "Zaniechanie pielęgnacji źle świadczy o hodowcy – dowodzi braku zrozumienia podstawowych potrzeb utrzymywanych zwierząt."
+      ]
+    },
+    {
+      "heading": "Runo, okrywa szerstna i wełna",
+      "points": [
+        "Runo – okrywa wełnista, czyli okrywa włosowa o właściwościach przędnych.",
+        "U owiec runo pokrywa całe ciało z wyjątkiem części twarzowej głowy, uszu i dolnej części nóg – tworzy pole obrostu.",
+        "Okrywa szerstna (sierść) – włosy pokrywające ciało, nienadające się do przędzenia.",
+        "Trzy frakcje włosów: okrywowe (najdłuższe i najgrubsze), przejściowe (średnio długie), puchowe (najkrótsze i najcieńsze).",
+        "Wełna – wykorzystywana w przemyśle włókienniczym dzięki właściwościom przędnym i zdolności pilśnienia.",
+        "Jakość technologiczna wełny zależy od: składu, barwy, połysku, długości, grubości, stopnia skarbikowania, wyrównania cech oraz wad i uszkodzeń.",
+        "Strzyża owiec = pozyskiwanie wełny; termin i sposób strzyży decydują o wartości wełny.",
+        "Powierzchnia pola obrostu zależy od stosunku powierzchni pokrytej okrywą szerstną (sierścią) i wełną oraz od wielkości zwierzęcia."
+      ]
+    },
+    {
+      "heading": "Okres odrostu wełny",
+      "points": [
+        "Okres odrostu wełny – czas między kolejnymi strzyżami.",
+        "Zwykle 6 miesięcy wystarcza do uzyskania minimalnej długości wełny do zgrzeblenia: 4,5–5 cm.",
+        "Wełna do przerobu w systemie czesankowym musi mieć 6–10 cm – okres odrostu 10–12 miesięcy.",
+        "Raz ustalone dla stada okresy odrostu należy przestrzegać.",
+        "Daty strzyży ustala się biorąc pod uwagę przede wszystkim rasę, płeć i wiek zwierząt.",
+        "Dzień przed strzyżą nie karmi się owiec – ułatwia to zabieg."
+      ]
+    },
+    {
+      "heading": "Terminy strzyży tryków, maciorek i jagniąt",
+      "points": [
+        "Tryki strzyże się kilka tygodni przed stanówką: po utracie runa są aktywniejsze, a wełna w okresie stanówki rośnie cieńsza i słabsza.",
+        "Tryki merynosowe – maj i czerwiec; tryki pozostałych ras – lipiec i sierpień.",
+        "Maciorki rozpłodowe strzyże się przed późną ciążą, wykotem i laktacją – w tych okresach następuje pocienienie wełny (tzw. odsadzenie).",
+        "Strzyża przed wykotem sprawia, że przewężenie nie wypada w środku długości włókien; łatwiej strzyc przy napiętej skórze.",
+        "Strzyża po wykocie jest bardzo pracochłonna i daje straty wełny.",
+        "Maciorki merynosowe – wrzesień i październik; maciorki pozostałych ras – styczeń i luty.",
+        "Strzyża w innym terminie to błąd – przewężenie z okresu laktacji wypada w połowie włosa, co dyskwalifikuje wełnę do przerobu czesankowego.",
+        "Pierwsza strzyża jagniąt w wieku 7–10 miesięcy, najczęściej jesienią; jagnięta do dalszego chowu – potem jak owce dorosłe.",
+        "Młodzież przeznaczoną na rzeź strzyże się 1–2 miesiące przed odstawą."
+      ]
+    },
+    {
+      "heading": "Technika strzyży owiec",
+      "points": [
+        "Strzyża ręczna (stalowe nożyce) – ciężka, powolna, mało wydajna, obecnie rzadka; dziś strzyże się maszynowo.",
+        "Strzyżę wykonuje się najczęściej w owczarni, blisko źródła energii dla elektrycznej maszynki.",
+        "Cięcie ma być równe, blisko skóry i równoległe do jej powierzchni.",
+        "Poprawianie cięcia daje krótkie, bezwartościowe ścinki wełny – najpoważniejsza usterka strzyży.",
+        "Pod ręką zawsze środki dezynfekujące i opatrunkowe.",
+        "Dobrze wykonana strzyża – runo stanowi jedną całość bez rozerwań (ułatwia sortowanie).",
+        "Najbardziej wydajny (wymaga siły i wprawy) jest system strzyżenia na ziemi – owca niewiązana, unieruchamiana chwytami strzygacza.",
+        "Rekord świata: Nowozelandczyk Cama Ferguson – 742 owce w 8 godzin.",
+        "Dobrze pracujący strzygacz nie kaleczy owcy."
+      ],
+      "images": [
+        {
+          "src": "img/pz3/strzyza-reczna-maszynowa.jpg",
+          "caption": "Strzyża ręczna (nożyce, z lewej) i maszynowa (elektryczna maszynka, z prawej). Dziś strzyże się maszynowo."
+        }
+      ]
+    },
+    {
+      "heading": "Postępowanie po strzyży i przygotowanie wełny do sprzedaży",
+      "points": [
+        "Po strzyży owce trzyma się w pomieszczeniu o temperaturze nie niższej niż 10°C; ogląda się je i dezynfekuje rany i zacięcia.",
+        "Wełnę najpierw się waży, potem rozkłada wierzchołkami włosów ku górze (jak rosła na owcy) na stole z nieprzylegających szczelnie listew.",
+        "Wybiera się grubsze zanieczyszczenia i wykonuje obrzeżenie – oddzielenie wełny nietrzymającej się runa z okolic odbytu, zabrudzonej z brzucha, z końców kończyn i głowy.",
+        "Najlepsza wełna – z łopatki i szyi, potem z tułowia; najgorsza – z okolic odbytu i dolnych partii kończyn.",
+        "Runo: boczne krawędzie zakłada się na grzbiet do linii kręgosłupa, zwija zestrzyżoną powierzchnią na zewnątrz od tyłu ku przodowi.",
+        "Runo leży na podłodze 2–3 dni, by wystygło i przeschło; potem do worków jutowych.",
+        "Zapakowanie przed wystygnięciem grozi zagrzaniem i obniżeniem wartości technologicznej wełny.",
+        "W większych owczarniach rzeczoznawcy sortują wełnę wg klas jakości (rasa, sposób podania runa, zanieczyszczenia roślinne, odrost).",
+        "Klasy jakości wełny wg partii runa (im wyższa cyfra, tym gorsza): 1–2 – najlepsza (łopatki i boki); 3–5 – dobra (udo, grzbiet, krzyż); 6–7 – gorsza (piersi, brzuch, odnóża); 8–9 – najgorsza (dolne partie nóg i ogon)."
+      ],
+      "images": [
+        {
+          "src": "img/pz3/obrzezenie-runa.jpg",
+          "caption": "Obrzeżenie runa (rys. 3.1): 1 – wełna z głównego pola porostu, 2 – obrzeżyny, 3 – wełna z karku, 4 – wełna z brzucha."
+        },
+        {
+          "src": "img/pz3/podzial-runa.jpg",
+          "caption": "Podział runa (rys. 3.2) – jakość maleje wraz ze wzrostem cyfr: 1, 2 – wełna najlepsza (łopatki i boki), 3–5 – wełna dobra (udo, grzbiet, krzyż), 6, 7 – wełna gorsza (piersi, brzuch, odnóża), 8, 9 – wełna najgorsza (dolne partie nóg i ogon)."
+        }
+      ]
+    },
+    {
+      "heading": "Pielęgnacja i korygowanie sierści bydła",
+      "points": [
+        "Sierść – zewnętrzna powłoka skóry; reguluje ciepłotę ciała i zmniejsza ryzyko urazów skóry (otarcia, zranienia).",
+        "Nagromadzenie zanieczyszczeń (zwłaszcza kału) prowadzi do oparzeń i okaleczeń skóry, infekcji i częstszego mastitis (zapalenia wymienia).",
+        "Podstawa – profilaktyka: czyste stanowiska, regularne usuwanie odchodów, zadawanie ściółki; bieżące usuwanie brudu słomą.",
+        "Większe zabrudzenia – woda, szczotka lub ścierka; przybory: zgrzebło i szczotka ze sztywnym włosiem.",
+        "Szczotkuje się od szyi ku zadowi i kończynom; zgrzebłem czyści się szczotkę z brudu i sierści.",
+        "Nigdy nie czyści się zwierzęcia bezpośrednio zgrzebłem – ostre krawędzie kaleczą skórę.",
+        "Strzyżenie sierści w oborach mlecznych: podbrzusze, uda, podudzia – zmniejsza przywieranie zanieczyszczeń; według potrzeb, najczęściej 1–2 razy w roku.",
+        "Kiść ogonową przystrzyga się zwykłymi nożyczkami (ostrożnie); podbrzusze, uda i podudzia – maszynką elektryczną.",
+        "Usunięcie nagromadzonych zanieczyszczeń wymaga znacznie więcej czasu i energii niż systematyczna pielęgnacja okrywy szerstnej.",
+        "Przystrzyganie kiści ogonowej zapobiega brudzeniu krów."
+      ],
+      "images": [
+        {
+          "src": "img/pz3/maszynka-bydlo.jpg",
+          "caption": "Rys. 3.3. Maszynka elektryczna do strzyżenia bydła"
+        }
+      ]
+    },
+    {
+      "heading": "Przygotowanie bydła do wystawy (fitting)",
+      "points": [
+        "Fitting – wszystkie czynności pielęgnacyjne mające na celu zaprezentowanie zwierzęcia tak, by jak najlepiej odpowiadało wzorcowi rasy.",
+        "Przed strzyżeniem zwierzę myje się mydłem i szamponem (czasem kilkakrotnie) – usunięcie brudu i odtłuszczenie sierści; skóra krowy wytwarza dużo łoju.",
+        "Zwierzętom chudym zostawia się dłuższą sierść (objętość); w dobrej kondycji strzyże się krótko, zwłaszcza partię żeber.",
+        "U ras mlecznych krótko strzyże się głowę, szyję, ogon, wymię i częściowo nogi.",
+        "Pierwsze strzyżenie ok. 6 tygodni przed wystawą; zaczyna się od ogona, by przyzwyczaić zwierzę do dźwięku maszynki.",
+        "Tylne nogi krótko od racicy do stawu skokowego; wewnętrzną stronę kończyny jak najbliżej płatu szynkowego, by wyeksponować staw skokowy.",
+        "Głowa – miejsce bardzo czułe: pomoc drugiej osoby, dobre przywiązanie; krótko, z dokładnym wygoleniem uszu wewnątrz i na zewnątrz.",
+        "Strzyżenie czyste – dzień lub dwa przed wystawą; ukrywa wady i eksponuje zalety budowy.",
+        "Kolejność strzyżenia czystego: ogon (od ok. dwóch dłoni nad kiścią do nasady), nogi tylne (staw skokowy do piętki, do żyły, wewnętrzna strona uda), przednie (od racicy do stawu łokciowego), między kończynami a mostkiem, głowa, szyja, kark, uszy, śluzawica, łopatka do brzucha, reszta ciała (krzyż, wyrostki krzyżowe, guzy biodrowe).",
+        "Wymię przycina się bardzo krótko – ok. 0,1 mm; ostatni etap – strzyżenie linii grzbietu.",
+        "Strzyżenie partii krzyża, wyrostków krzyżowych i guzów biodrowych ma ukazać szerokość ich ustawienia; strzyżenie linii grzbietu poprawia ogólny wygląd, dodaje harmonii i podkreśla charakter mleczny."
+      ]
+    },
+    {
+      "heading": "2. Transport zwierząt – podstawy prawne i zdolność do transportu",
+      "points": [
+        "Transport musi być humanitarny, zapewniać minimalny dobrostan i być zgodny z przepisami; czynniki niekorzystne: hałas, wstrząsy, zmiany światła, temperatury i wilgotności, stłoczenie – grożą upadkami i stresem pogarszającym jakość mięsa.",
+        "Akty prawne: Ustawa o ochronie zwierząt z 21 sierpnia 1997 r.; Rozporządzenie MRiRW z 11 kwietnia 2003 r. (warunki weterynaryjne przy zarobkowym przewozie, skupie i sprzedaży); Rozporządzenie Rady (WE) nr 1/2005 z 22 grudnia 2004 r. (ochrona zwierząt podczas transportu).",
+        "Art. 24 Ustawy: transport zwierząt środkami do tego przystosowanymi i w warunkach określonych przepisami.",
+        "Do transportu nie nadają się zwierzęta poważnie chore lub zranione: niemogące się samodzielnie poruszać, z poważną otwartą raną, z wypadaniem narządów rodnych.",
+        "Zakaz transportu zwierząt w wysokiej ciąży, samic mogących urodzić w transporcie lub które urodziły w ciągu ostatnich 48 godzin.",
+        "Minimalny wiek przy transporcie powyżej 100 km: prosięta 21 dni, jałówki 10 dni, jagnięta 7 dni.",
+        "Niezdolne do transportu są nowo narodzone ssaki z niezagojoną całkowicie raną pępowinową.",
+        "Dopuszczenie zwierząt do transportu – za zgodą powiatowego lekarza weterynarii (świadectwo lekarskie); w skrajnym cierpieniu lekarz może zdecydować o uśpieniu.",
+        "Transport zwierząt odbywa się w obrębie gospodarstwa oraz między gospodarstwem a innymi instytucjami otoczenia rolnictwa – wymaga to odpowiednich środków transportu i właściwych warunków."
+      ]
+    },
+    {
+      "heading": "Załadunek, rozładunek i pojazdy",
+      "points": [
+        "Różne gatunki w jednym pojeździe bezwzględnie rozdziela się; samce niekastrowane oddziela się od samic.",
+        "Zwierząt kopytnych nie wolno wiązać za rogi ani kółka nosowe; nieparzystokopytne muszą mieć kantary.",
+        "Załadunek i rozładunek to jedne z najbardziej stresogennych czynności transportu.",
+        "Miejsce załadunku: szeroka, wolna i prosta droga do pojazdu; schodki, rampy, pomosty z powierzchnią antypoślizgową i bocznymi barierkami.",
+        "Zwierzęta zachęca się głosem, flagami, workami lub tarczami; zakazane jest podnoszenie, ciągnięcie i bicie.",
+        "Pojazd chroni przed zranieniem, cierpieniem, złą pogodą, hałasem, wstrząsami i ucieczką; zapewnia minimalną powierzchnię do stania lub leżenia w pozycji neutralnej.",
+        "Podłogi antypoślizgowe, higieniczne; przed każdym załadunkiem pojazd czyści się i dezynfekuje.",
+        "Konie przewozi się koniowozami – najczęściej przyczepa samochodowa na 1 lub 2 konie.",
+        "W trakcie transportu zwierzętom chorym lub zranionym musi być udzielana pomoc.",
+        "Pojazd ma zapewnić bezpieczeństwo podczas załadunku, przejazdu i wyładunku (pomosty, rampy, trapy).",
+        "Konie pełnią dziś głównie rolę rekreacyjną, ale biorą udział w zawodach i wystawach; hodowcy korzystają z firm zewnętrznych lub własnych koniowozów, które mają zapobiegać kontuzjom i zranieniom.",
+        "Zwierzęta na ogół nie są przyuczone do załadunku i reagują nerwowo – dlatego miejsce załadunku/wyładunku musi być odpowiednio zabezpieczone."
+      ],
+      "images": [
+        {
+          "src": "img/pz3/rampa-zaladowcza.jpg",
+          "caption": "Rys. 3.4. Rampa załadowczo-wyładowcza dla zwierząt"
+        },
+        {
+          "src": "img/pz3/koniowoz-wnetrze.jpg",
+          "caption": "Rys. 3.5. Wnętrze koniowozu przystosowane do przewozu dwóch koni"
+        },
+        {
+          "src": "img/pz3/koniowozy.jpg",
+          "caption": "Rys. 3.6. Koniowozy"
+        }
+      ]
+    },
+    {
+      "heading": "Normy powierzchni w transporcie",
+      "points": [
+        "Konie dorosłe 1,75 m² (0,7 × 2,5 m); młode 6–24 mies. do 48 h – 1,2 m² (0,6 × 2 m), ponad 48 h – 2,4 m² (1,2 × 2 m).",
+        "Kucyki (poniżej 144 cm w kłębie) 1 m² (0,6 × 1,8 m); źrebięta 0–6 mies. 1,4 m² (1 × 1,4 m).",
+        "Bydło: małe cielęta (55 kg) 0,3–0,4 m²; średnie (110 kg) 0,4–0,7 m²; duże cielęta (200 kg) 0,7–0,95 m².",
+        "Bydło średnie (325 kg) 0,95–1,3 m²; duże (550 kg) 1,3–1,6 m²; bardzo duże (powyżej 700 kg) powyżej 1,6 m².",
+        "Owce ostrzyżone: do 55 kg 0,2–0,3 m², powyżej 55 kg powyżej 0,3 m²; nieostrzyżone: 0,3–0,4 m² / powyżej 0,4 m².",
+        "Owce i kozy w zaawansowanej ciąży: do 55 kg 0,4–0,5 m², powyżej 55 kg powyżej 0,5 m².",
+        "Kozy: do 35 kg 0,2–0,3 m²; 35–55 kg 0,3–0,4 m²; powyżej 55 kg 0,4–0,75 m².",
+        "Drób w kontenerach: kurczęta jednodniowe 21–25 cm²/szt.; poniżej 1,6 kg 180–200 cm²/kg; 1,6–3 kg 160 cm²/kg; 3–5 kg 115 cm²/kg; 5 kg i więcej 105 cm²/kg.",
+        "Do kategorii „owce ostrzyżone” w transporcie drogowym zalicza się również jagnięta o masie 26 kg lub większej.",
+        "Kozy w zaawansowanej ciąży: do 55 kg 0,4–0,5 m², powyżej 55 kg powyżej 0,5 m²."
+      ]
+    },
+    {
+      "heading": "Czas transportu, przerwy i dokumenty",
+      "points": [
+        "Transport krajowy nie powinien przekraczać 8 godzin.",
+        "Przy dłuższym: ściółka, pasza, temperatura 5–30°C z monitoringiem, możliwość tworzenia przedziałów, bezpośredni dostęp do zwierząt, urządzenia do karmienia i pojenia, możliwość dojenia krów w laktacji.",
+        "O dopuszczeniu pojazdu decyduje powiatowy lekarz weterynarii na wniosek przewoźnika (m.in. określa się gatunek zwierząt).",
+        "Drób, ptaki domowe, króliki: woda i pasza nie są wymagane przy transporcie krótszym niż 12 h oraz pisklęta przy podróży krótszej niż 24 h, jeśli kończy się w ciągu 72 h od wyklucia; ptaki trzyma się w półmroku, z dala od żywności i osób nieupoważnionych.",
+        "Zwierzęta nieodsadzone (cielęta, jagnięta, źrebięta): po 9 h – godzinna przerwa (odpoczynek, pasza, woda), potem kolejne 9 h.",
+        "Trzoda chlewna – maksymalnie 24 h przy dostępie do wody.",
+        "Koniowate – maksymalnie 24 h z przerwami na pojenie i karmienie co 8 h.",
+        "Bydło, owce, kozy – po 14 h godzinna przerwa, potem maksymalnie kolejne 14 h.",
+        "Po transporcie zwierzęta kopytne karmi się, poi i zapewnia 24 h odpoczynku.",
+        "Dokumenty przewozowe: pochodzenie, gatunki, liczba zwierząt, miejsce i data/czas wyjazdu, miejsce przeznaczenia, przewidywany czas przewozu, miejsce czyszczenia i odkażania.",
+        "Kierowcy i konwojenci – kwalifikacje potwierdzone zaświadczeniem powiatowego lekarza weterynarii.",
+        "Plan trasy – przy transporcie ponad 8 h lub przekraczaniu granicy; za naruszenia – zakaz dalszego przewożenia.",
+        "Badanie przedubojowe w rzeźni: co najmniej 24 h po przywiezieniu i nie później niż 24 h przed ubojem; urzędowy lekarz weterynarii może zakazać uboju przy chorobach zakaźnych (np. wścieklizna, pryszczyca, wąglik, bruceloza).",
+        "Ściółka w pojeździe przy transporcie ponad 8 h ma zapewniać wchłanianie i rozpraszanie odchodów.",
+        "Środek transportu musi być dopuszczony do przewozu zwierząt trwającego dłużej niż 8 godzin.",
+        "Przy badaniu przedubojowym ocenia się stan zdrowia, kondycję, objawy chorobowe oraz ewentualne podanie środków farmaceutycznych."
+      ]
+    },
+    {
+      "heading": "Przemieszczanie zwierząt w gospodarstwie",
+      "points": [
+        "Przyczyny: przepędzanie samic w wysokiej ciąży do miejsc porodowych, odsadzanie młodych, tworzenie grup wiekowych/produkcyjnych, znakowanie, szczepienie, selekcja, pielęgnacja, zabiegi weterynaryjne i zoohigieniczne, izolacja chorych.",
+        "Przemieszczać spokojnie i łagodnie – stres może powodować choroby, a skrajnie poronienia i padnięcia.",
+        "Zachowania przy przepędzaniu: ruch w stronę światła, podążanie za innymi (kontakt wzrokowy i fizyczny z grupą).",
+        "Stres zmniejsza: przepędzanie znających się grup, tempo jak naturalny chód, bez zatrzymywania i zawracania, minimalna odległość, dobre oświetlenie, brak hałasu, łagodność, mało przegrupowań, stałe grupy od najmłodszego wieku.",
+        "Zagrody – wąskie i długie, wejście i wyjście po przeciwległych stronach.",
+        "Korytarze – szerokie, proste, z dużymi kątami, dobrze oświetlone, mało zakrętów, bez ostrych nierówności, suche i równe posadzki.",
+        "Bramy i ściany zagród – solidne, łatwe do zamykania i otwierania.",
+        "Sprzęt do przepędzania: płyty przepędowe, poskromy, poganiacze, wiosła do przepędzania, postronki i linki, drążki do prowadzenia buhajów, kleszcze nosowe dla bydła.",
+        "Odpowiednie traktowanie podczas przepędzania znacznie zmniejsza reakcję stresową.",
+        "Na drodze przepędzania włazy i schody powinny być dobrze oświetlone."
+      ],
+      "images": [
+        {
+          "src": "img/pz3/sprzet-przepedzanie.jpg",
+          "caption": "Sprzęt do przepędzania i poskramiania zwierząt (rys. 3.7–3.12): płyta do przepędzania, poskrom, poganiacz, wiosło do przepędzania, drążek do prowadzenia buhajów, kleszcze nosowe."
+        },
+        {
+          "src": "img/pz3/plyta-przepedowa.jpg",
+          "caption": "Płyta do przepędzania (rys. 3.7) – dostosowana do wielkości przepędzanych zwierząt."
+        },
+        {
+          "src": "img/pz3/poskrom.jpg",
+          "caption": "Poskrom (rys. 3.8) – sprzęt do przepędzania i unieruchamiania zwierząt."
+        },
+        {
+          "src": "img/pz3/poganiacz.jpg",
+          "caption": "Poganiacz (rys. 3.9) – sprzęt wykorzystywany do przepędzania zwierząt."
+        },
+        {
+          "src": "img/pz3/wioslo-przepedowe.jpg",
+          "caption": "Wiosło do przepędzania (rys. 3.10)."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Skutki brudnej skóry zwierzęcia",
+      "back": "Utrudnione oddychanie skórne, ograniczone funkcje wydzielnicze, wydalnicze i termoregulacyjne."
+    },
+    {
+      "front": "Od jakich zwierząt pozyskuje się wełnę?",
+      "back": "Owiec, kóz, królików angorskich, lam i wielbłądów."
+    },
+    {
+      "front": "Runo",
+      "back": "Okrywa wełnista – okrywa włosowa o właściwościach przędnych."
+    },
+    {
+      "front": "Pole obrostu u owcy – czego nie obejmuje?",
+      "back": "Części twarzowej głowy, uszu i dolnej części nóg."
+    },
+    {
+      "front": "Okrywa szerstna",
+      "back": "Włosy pokrywające ciało, nienadające się do przędzenia (sierść)."
+    },
+    {
+      "front": "Trzy frakcje włosów",
+      "back": "Okrywowe (najdłuższe, najgrubsze), przejściowe (średnie), puchowe (najkrótsze, najcieńsze)."
+    },
+    {
+      "front": "Dlaczego wełna jest cenna dla przemysłu włókienniczego?",
+      "back": "Ma właściwości przędne i zdolność pilśnienia."
+    },
+    {
+      "front": "Od czego zależy jakość technologiczna wełny?",
+      "back": "Składu, barwy, połysku, długości, grubości, skarbikowania, wyrównania cech, wad i uszkodzeń."
+    },
+    {
+      "front": "Okres odrostu wełny",
+      "back": "Czas między kolejnymi strzyżami."
+    },
+    {
+      "front": "Minimalna długość wełny do zgrzeblenia",
+      "back": "4,5–5 cm (zwykle 6 miesięcy odrostu)."
+    },
+    {
+      "front": "Długość wełny do przerobu czesankowego i okres odrostu",
+      "back": "6–10 cm; 10–12 miesięcy."
+    },
+    {
+      "front": "Od czego zależą daty strzyży?",
+      "back": "Przede wszystkim od rasy, płci i wieku zwierząt."
+    },
+    {
+      "front": "Czego nie robi się dzień przed strzyżą?",
+      "back": "Nie karmi się owiec."
+    },
+    {
+      "front": "Dlaczego tryki strzyże się przed stanówką?",
+      "back": "Po utracie runa są aktywniejsze, a w stanówce wełna rośnie cieńsza i słabsza."
+    },
+    {
+      "front": "Termin strzyży tryków merynosowych",
+      "back": "Maj i czerwiec."
+    },
+    {
+      "front": "Termin strzyży tryków pozostałych ras",
+      "back": "Lipiec i sierpień."
+    },
+    {
+      "front": "Odsadzenie wełny",
+      "back": "Pocienienie (przewężenie) włókien wełny w okresie późnej ciąży, wykotu i laktacji."
+    },
+    {
+      "front": "Kiedy strzyże się maciorki rozpłodowe?",
+      "back": "Przed wykotem (przed późną ciążą i laktacją)."
+    },
+    {
+      "front": "Termin strzyży maciorek merynosowych",
+      "back": "Wrzesień i październik."
+    },
+    {
+      "front": "Termin strzyży maciorek pozostałych ras",
+      "back": "Styczeń i luty."
+    },
+    {
+      "front": "Skutek strzyży maciorek w złym terminie",
+      "back": "Przewężenie w połowie długości włosa – wełna zdyskwalifikowana do przerobu czesankowego."
+    },
+    {
+      "front": "Wiek pierwszej strzyży jagniąt",
+      "back": "7–10 miesięcy (najczęściej jesień)."
+    },
+    {
+      "front": "Kiedy strzyże się młodzież przeznaczoną na rzeź?",
+      "back": "1–2 miesiące przed odstawą."
+    },
+    {
+      "front": "Jak powinno wyglądać cięcie przy strzyży?",
+      "back": "Równe, blisko skóry i równolegle do jej powierzchni."
+    },
+    {
+      "front": "Najpoważniejsza usterka strzyży",
+      "back": "Krótkie, bezwartościowe ścinki wełny powstające przy poprawianiu."
+    },
+    {
+      "front": "Po czym poznać dobrze wykonaną strzyżę?",
+      "back": "Runo stanowi jedną całość, bez rozerwań."
+    },
+    {
+      "front": "Najbardziej wydajny system strzyżenia owiec",
+      "back": "Strzyżenie na ziemi – owca niewiązana, unieruchamiana chwytami."
+    },
+    {
+      "front": "Rekord świata w strzyżeniu owiec",
+      "back": "Cama Ferguson (Nowa Zelandia) – 742 owce w 8 godzin."
+    },
+    {
+      "front": "Minimalna temperatura pomieszczenia dla owiec po strzyży",
+      "back": "10°C."
+    },
+    {
+      "front": "Pierwsza czynność przy przygotowaniu wełny do sprzedaży",
+      "back": "Zważenie."
+    },
+    {
+      "front": "Obrzeżenie runa",
+      "back": "Oddzielenie wełny nietrzymającej się runa z okolic odbytu, zabrudzonej z brzucha, z końców kończyn i głowy."
+    },
+    {
+      "front": "Skąd pochodzi najlepsza wełna?",
+      "back": "Z łopatki i szyi."
+    },
+    {
+      "front": "Skąd pochodzi najgorsza wełna?",
+      "back": "Z okolic odbytu i dolnych partii kończyn."
+    },
+    {
+      "front": "Jak długo leży runo przed włożeniem do worków?",
+      "back": "2–3 dni (wystygnięcie i przeschnięcie)."
+    },
+    {
+      "front": "W jakich workach przechowuje się runo?",
+      "back": "W workach jutowych."
+    },
+    {
+      "front": "Ryzyko zapakowania runa przed wystygnięciem",
+      "back": "Zagrzanie i obniżenie wartości technologicznej wełny."
+    },
+    {
+      "front": "Funkcje sierści bydła",
+      "back": "Regulacja ciepłoty ciała, ochrona skóry przed urazami."
+    },
+    {
+      "front": "Skutki nagromadzenia kału na sierści",
+      "back": "Oparzenia i okaleczenia skóry, infekcje, częstsze mastitis."
+    },
+    {
+      "front": "Mastitis",
+      "back": "Zapalenie wymienia."
+    },
+    {
+      "front": "Przybory do pielęgnacji sierści bydła",
+      "back": "Zgrzebło i szczotka ze sztywnym włosiem."
+    },
+    {
+      "front": "Kierunek szczotkowania bydła",
+      "back": "Od szyi ku zadowi i kończynom."
+    },
+    {
+      "front": "Dlaczego nie czyści się bydła bezpośrednio zgrzebłem?",
+      "back": "Ostre krawędzie mogą kaleczyć skórę."
+    },
+    {
+      "front": "Które partie strzyże się w oborach mlecznych?",
+      "back": "Podbrzusze, uda, podudzia (i kiść ogonową)."
+    },
+    {
+      "front": "Jak często strzyże się sierść krów mlecznych?",
+      "back": "Według potrzeb, najczęściej 1–2 razy w roku."
+    },
+    {
+      "front": "Fitting",
+      "back": "Czynności pielęgnacyjne, by zwierzę na wystawie jak najlepiej odpowiadało wzorcowi rasy."
+    },
+    {
+      "front": "Cel mycia bydła przed strzyżeniem wystawowym",
+      "back": "Usunięcie brudu i odtłuszczenie sierści."
+    },
+    {
+      "front": "Jak strzyc zwierzę chude przed wystawą?",
+      "back": "Zostawić sierść nieco dłuższą, by dodać objętości."
+    },
+    {
+      "front": "Kiedy pierwsze strzyżenie przed wystawą?",
+      "back": "Ok. 6 tygodni przed wystawą."
+    },
+    {
+      "front": "Od czego zaczyna się strzyżenie bydła i dlaczego?",
+      "back": "Od ogona – by przyzwyczaić zwierzę do dźwięku maszynki."
+    },
+    {
+      "front": "Kiedy wykonuje się strzyżenie czyste?",
+      "back": "Dzień lub dwa przed wystawą."
+    },
+    {
+      "front": "Jak krótko przycina się wymię przed wystawą?",
+      "back": "Ok. 0,1 mm."
+    },
+    {
+      "front": "Ostatni etap strzyżenia wystawowego",
+      "back": "Strzyżenie linii grzbietu."
+    },
+    {
+      "front": "Główne akty prawne o transporcie zwierząt",
+      "back": "Ustawa o ochronie zwierząt (21.08.1997), Rozp. MRiRW (11.04.2003), Rozp. Rady (WE) nr 1/2005 (22.12.2004)."
+    },
+    {
+      "front": "Które zwierzęta uznaje się za poważnie chore/zranione (niezdolne do transportu)?",
+      "back": "Niemogące się samodzielnie poruszać, z poważną otwartą raną, z wypadaniem narządów rodnych."
+    },
+    {
+      "front": "Samic, które urodziły w ciągu ilu godzin, nie wolno transportować?",
+      "back": "48 godzin."
+    },
+    {
+      "front": "Minimalny wiek prosiąt przy transporcie ponad 100 km",
+      "back": "21 dni."
+    },
+    {
+      "front": "Minimalny wiek jałówek przy transporcie ponad 100 km",
+      "back": "10 dni."
+    },
+    {
+      "front": "Minimalny wiek jagniąt przy transporcie ponad 100 km",
+      "back": "7 dni."
+    },
+    {
+      "front": "Kto dopuszcza zwierzęta do transportu?",
+      "back": "Powiatowy lekarz weterynarii (świadectwo lekarskie)."
+    },
+    {
+      "front": "Zakaz wiązania zwierząt kopytnych za…",
+      "back": "Rogi i kółka nosowe."
+    },
+    {
+      "front": "Czym zachęca się zwierzęta przy załadunku?",
+      "back": "Głosem, flagami, workami lub tarczami."
+    },
+    {
+      "front": "Czego nie wolno robić przy załadunku zwierząt?",
+      "back": "Podnosić, ciągnąć i bić zwierząt."
+    },
+    {
+      "front": "Minimalna powierzchnia dla dorosłego konia w transporcie",
+      "back": "1,75 m² (0,7 × 2,5 m)."
+    },
+    {
+      "front": "Powierzchnia dla dużego bydła (550 kg)",
+      "back": "1,3–1,6 m²."
+    },
+    {
+      "front": "Powierzchnia dla małych cieląt (55 kg)",
+      "back": "0,3–0,4 m²."
+    },
+    {
+      "front": "Powierzchnia dla kurcząt jednodniowych",
+      "back": "21–25 cm²/szt."
+    },
+    {
+      "front": "Maksymalny czas transportu w obrocie krajowym (bez dodatkowych wymagań)",
+      "back": "8 godzin."
+    },
+    {
+      "front": "Zakres temperatury w pojeździe przy transporcie ponad 8 h",
+      "back": "5–30°C (z monitoringiem)."
+    },
+    {
+      "front": "Kiedy drób nie musi mieć wody i paszy w transporcie?",
+      "back": "Gdy transport trwa krócej niż 12 h (pisklęta: < 24 h, jeśli kończy się w ciągu 72 h od wyklucia)."
+    },
+    {
+      "front": "Oświetlenie w transporcie ptaków",
+      "back": "Półmrok."
+    },
+    {
+      "front": "Przerwy w transporcie zwierząt nieodsadzonych",
+      "back": "Po 9 h godzinna przerwa, potem kolejne 9 h."
+    },
+    {
+      "front": "Maksymalny czas transportu trzody chlewnej",
+      "back": "24 h przy dostępie do wody."
+    },
+    {
+      "front": "Transport koniowatych – limit i przerwy",
+      "back": "Maks. 24 h, pojenie i karmienie co 8 h."
+    },
+    {
+      "front": "Transport bydła, owiec i kóz – przerwy",
+      "back": "Po 14 h godzinna przerwa, potem maks. 14 h."
+    },
+    {
+      "front": "Odpoczynek kopytnych po zakończeniu transportu",
+      "back": "24 godziny (plus karmienie i pojenie)."
+    },
+    {
+      "front": "Kiedy wymagany jest plan trasy?",
+      "back": "Przy transporcie ponad 8 h lub przekraczaniu granicy."
+    },
+    {
+      "front": "Termin badania przedubojowego",
+      "back": "Co najmniej 24 h po przywiezieniu i nie później niż 24 h przed ubojem."
+    },
+    {
+      "front": "Choroby, przy których lekarz może zakazać uboju (przykłady)",
+      "back": "Wścieklizna, pryszczyca, wąglik, bruceloza."
+    },
+    {
+      "front": "Naturalne zachowania zwierząt przy przepędzaniu",
+      "back": "Ruch w stronę światła, podążanie za innymi z grupy."
+    },
+    {
+      "front": "Jak powinny wyglądać zagrody na drodze przepędu?",
+      "back": "Wąskie i długie, wejście i wyjście po przeciwległych stronach."
+    },
+    {
+      "front": "Sprzęt do przepędzania zwierząt",
+      "back": "Płyty przepędowe, poskromy, poganiacze, wiosła, postronki, drążki do buhajów, kleszcze nosowe."
+    },
+    {
+      "front": "Klasy jakości runa 1–9 – rozmieszczenie na ciele owcy",
+      "back": "1–2 najlepsza: łopatki i boki; 3–5 dobra: udo, grzbiet, krzyż; 6–7 gorsza: piersi, brzuch, odnóża; 8–9 najgorsza: dolne partie nóg i ogon."
+    },
+    {
+      "front": "Jak zmienia się jakość runa wraz ze wzrostem cyfry klasy?",
+      "back": "Maleje – 1–2 to wełna najlepsza, 8–9 najgorsza."
+    },
+    {
+      "front": "Obrzeżenie runa – co oznaczają cyfry 1–4 na schemacie?",
+      "back": "1 – wełna z głównego pola porostu, 2 – obrzeżyny, 3 – wełna z karku, 4 – wełna z brzucha.",
+      "img": "img/pz3/obrzezenie-runa.jpg"
+    },
+    {
+      "front": "Podział runa: które cyfry oznaczają wełnę najlepszą, a które najgorszą?",
+      "back": "1, 2 – najlepsza (łopatki i boki); 3–5 – dobra (udo, grzbiet, krzyż); 6, 7 – gorsza (piersi, brzuch, odnóża); 8, 9 – najgorsza (dolne partie nóg, ogon).",
+      "img": "img/pz3/podzial-runa.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd?",
+      "back": "Kleszcze nosowe dla bydła (rys. 3.12) – sprzęt wykorzystywany przy przepędzaniu zwierząt.",
+      "img": "img/pz3/kleszcze-nosowe.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd?",
+      "back": "Drążek do prowadzenia buhajów (rys. 3.11).",
+      "img": "img/pz3/drazek-buhaj.jpg"
+    },
+    {
+      "front": "Co ocenia się podczas badania przedubojowego?",
+      "back": "Stan zdrowia, kondycję, występowanie objawów chorobowych oraz ewentualne podanie środków farmaceutycznych."
+    },
+    {
+      "front": "Wymagania wobec pojazdu przy transporcie krajowym dłuższym niż 8 h (wszystkie)",
+      "back": "Ściółka (wchłanianie i rozpraszanie odchodów), pasza, temperatura 5–30°C z monitoringiem, możliwość tworzenia przedziałów, bezpośredni dostęp do zwierząt, urządzenia do karmienia i pojenia, możliwość dojenia krów w laktacji."
+    },
+    {
+      "front": "Kto decyduje o dopuszczeniu pojazdu do transportu zwierząt i na czyj wniosek?",
+      "back": "Powiatowy lekarz weterynarii, na wniosek przewoźnika (określa się m.in. gatunek przewożonych zwierząt)."
+    },
+    {
+      "front": "Jakie informacje muszą zawierać dokumenty przewozowe zwierząt?",
+      "back": "Pochodzenie, gatunki i liczbę zwierząt, miejsce wyjazdu, datę i czas wyjazdu, miejsce przeznaczenia, przewidywany czas przewozu, miejsce czyszczenia i odkażania."
+    },
+    {
+      "front": "Kto potwierdza kwalifikacje kierowców i konwojentów przewożących zwierzęta?",
+      "back": "Powiatowy lekarz weterynarii (wydaje zaświadczenia)."
+    },
+    {
+      "front": "Kara dla przewoźnika naruszającego przepisy o transporcie zwierząt",
+      "back": "Zakaz dalszego przewożenia zwierząt."
+    },
+    {
+      "front": "Minimalna powierzchnia w transporcie: owce ostrzyżone do 55 kg / powyżej 55 kg",
+      "back": "0,2–0,3 m² / powyżej 0,3 m² (w transporcie drogowym także jagnięta ≥ 26 kg)."
+    },
+    {
+      "front": "Minimalna powierzchnia w transporcie: owce nieostrzyżone do 55 kg / powyżej 55 kg",
+      "back": "0,3–0,4 m² / powyżej 0,4 m²."
+    },
+    {
+      "front": "Minimalna powierzchnia w transporcie: kozy do 35 kg / 35–55 kg / powyżej 55 kg",
+      "back": "0,2–0,3 m² / 0,3–0,4 m² / 0,4–0,75 m²."
+    },
+    {
+      "front": "Minimalna powierzchnia w transporcie: owce i kozy w zaawansowanej ciąży",
+      "back": "Do 55 kg 0,4–0,5 m²; powyżej 55 kg powyżej 0,5 m²."
+    },
+    {
+      "front": "Powierzchnia w transporcie: młode konie (6–24 mies.) przy podróży do 48 h i ponad 48 h",
+      "back": "Do 48 h: 1,2 m² (0,6 × 2 m); ponad 48 h: 2,4 m² (1,2 × 2 m)."
+    },
+    {
+      "front": "Powierzchnia w transporcie: kucyki i źrebięta",
+      "back": "Kucyki (poniżej 144 cm w kłębie) 1 m² (0,6 × 1,8 m); źrebięta 0–6 mies. 1,4 m² (1 × 1,4 m)."
+    },
+    {
+      "front": "Powierzchnia w transporcie: cielęta średnie (110 kg), duże cielęta (200 kg), bydło średnie (325 kg), bardzo duże (>700 kg)",
+      "back": "0,4–0,7 m²; 0,7–0,95 m²; 0,95–1,3 m²; powyżej 1,6 m²."
+    },
+    {
+      "front": "Powierzchnia dla drobiu w kontenerach wg masy",
+      "back": "Poniżej 1,6 kg: 180–200 cm²/kg; 1,6–3 kg: 160 cm²/kg; 3–5 kg: 115 cm²/kg; 5 kg i więcej: 105 cm²/kg."
+    },
+    {
+      "front": "Co zmniejsza stres przy przemieszczaniu zwierząt? (wszystkie)",
+      "back": "Grupy dobrze się znających zwierząt, tempo jak naturalny chód, bez zatrzymywania, bez zawracania, minimalna odległość, dobre oświetlenie, brak hałasu, łagodne obchodzenie się, minimum przegrupowań, stałe grupy od najmłodszego wieku."
+    },
+    {
+      "front": "Przyczyny przemieszczania zwierząt w obrębie gospodarstwa",
+      "back": "Przepędzanie samic w wysokiej ciąży do miejsc porodowych, odsadzanie młodych, tworzenie grup wiekowych/produkcyjnych, znakowanie, szczepienie, selekcja, pielęgnacja, zabiegi weterynaryjne i zoohigieniczne, izolacja chorych."
+    },
+    {
+      "front": "Jak powinny wyglądać korytarze na drodze przepędu zwierząt?",
+      "back": "Szerokie, proste, z dużymi kątami, dobrze oświetlone, z małą liczbą zakrętów, bez ostrych nierówności; włazy i schody dobrze oświetlone; posadzki suche i równe."
+    },
+    {
+      "front": "Czym strzyże się kiść ogonową, a czym podbrzusze, uda i podudzia krowy?",
+      "back": "Kiść ogonową – zwykłymi nożyczkami (ostrożnie); podbrzusze, uda i podudzia – maszynką elektryczną."
+    },
+    {
+      "front": "Kolejność strzyżenia czystego bydła przed wystawą",
+      "back": "Ogon (od ok. dwóch dłoni nad kiścią do nasady) → nogi tylne (staw skokowy do piętki, do żyły, wewn. strona uda) → przednie (od racicy do stawu łokciowego) → między kończynami a mostkiem → głowa, szyja, kark, uszy, śluzawica → łopatka do brzucha → reszta ciała (krzyż, wyrostki krzyżowe, guzy biodrowe) → wymię (ok. 0,1 mm) → linia grzbietu."
+    },
+    {
+      "front": "Które partie krótko strzyże się u ras mlecznych przed wystawą?",
+      "back": "Głowę, szyję, ogon, wymię oraz częściowo nogi."
+    },
+    {
+      "front": "Jak przewozi się konie?",
+      "back": "Koniowozami – najczęściej przyczepą samochodową na jednego lub dwa konie."
+    },
+    {
+      "front": "Jak traktować zwierzęta nieparzystokopytne w transporcie?",
+      "back": "Muszą mieć założone kantary (zwierząt kopytnych nie wiąże się za rogi ani kółka nosowe)."
+    },
+    {
+      "front": "Co zrobić z różnymi gatunkami oraz z niekastrowanymi samcami w jednym pojeździe?",
+      "back": "Gatunki bezwzględnie rozdzielić; samce niekastrowane oddzielić od samic."
+    },
+    {
+      "front": "Jak przygotować miejsce załadunku zwierząt?",
+      "back": "Szeroka, wolna i prosta droga do pojazdu; schodki, rampy, pomosty z powierzchnią antypoślizgową i bocznymi barierkami."
+    },
+    {
+      "front": "Postępowanie z owcami po strzyży",
+      "back": "Pomieszczenie o temperaturze nie niższej niż 10°C, oględziny, dezynfekcja ran i zacięć."
+    },
+    {
+      "front": "Jak nazywa się ten sprzęt do przepędzania zwierząt?",
+      "back": "Płyta do przepędzania (rys. 3.7) – dobiera się ją do wielkości przepędzanych zwierząt.",
+      "img": "img/pz3/plyta-przepedowa.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd?",
+      "back": "Poskrom (rys. 3.8) – sprzęt wykorzystywany przy przepędzaniu zwierząt.",
+      "img": "img/pz3/poskrom.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd?",
+      "back": "Poganiacz (rys. 3.9) – sprzęt do przepędzania zwierząt.",
+      "img": "img/pz3/poganiacz.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd?",
+      "back": "Wiosło do przepędzania (rys. 3.10).",
+      "img": "img/pz3/wioslo-przepedowe.jpg"
+    },
+    {
+      "front": "Dlaczego załadunek i rozładunek to jedne z najbardziej stresogennych etapów transportu?",
+      "back": "Zwierzęta na ogół nie są do nich przyuczone i reagują nerwowo – dlatego miejsce załadunku musi być zabezpieczone (szeroka, wolna, prosta droga; antypoślizgowe rampy z barierkami)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Okrywa włosowa o właściwościach przędnych to:",
+      "options": [
+        "runo",
+        "okrywa szerstna",
+        "sierść puchowa",
+        "kiść ogonowa"
+      ],
+      "answer": 0,
+      "explain": "Runo to okrywa wełnista – okrywa włosowa mająca właściwości przędne."
+    },
+    {
+      "q": "Najdłuższe i najgrubsze włosy to włosy:",
+      "options": [
+        "puchowe",
+        "przejściowe",
+        "okrywowe",
+        "runowe"
+      ],
+      "answer": 2,
+      "explain": "Najdłuższe i najgrubsze są włosy okrywowe, najkrótsze i najcieńsze – puchowe."
+    },
+    {
+      "q": "Minimalna długość wełny przydatnej do zgrzeblenia wynosi:",
+      "options": [
+        "1–2 cm",
+        "4,5–5 cm",
+        "6–10 cm",
+        "12–15 cm"
+      ],
+      "answer": 1,
+      "explain": "Okres 6 miesięcy wystarcza do uzyskania minimalnej długości wełny do zgrzeblenia 4,5–5 cm."
+    },
+    {
+      "q": "Wełna do przerobu czesankowego wymaga okresu odrostu:",
+      "options": [
+        "3–4 miesięcy",
+        "6 miesięcy",
+        "18–24 miesięcy",
+        "10–12 miesięcy"
+      ],
+      "answer": 3,
+      "explain": "Długość 6–10 cm do przerobu czesankowego wydłuża odrost do 10–12 miesięcy."
+    },
+    {
+      "q": "Tryki ras merynosowych strzyże się w:",
+      "options": [
+        "styczniu i lutym",
+        "lipcu i sierpniu",
+        "wrześniu i październiku",
+        "maju i czerwcu"
+      ],
+      "answer": 3,
+      "explain": "Tryki merynosowe strzyże się w maju i czerwcu."
+    },
+    {
+      "q": "Maciorki ras merynosowych strzyże się w:",
+      "options": [
+        "maju i czerwcu",
+        "wrześniu i październiku",
+        "lipcu i sierpniu",
+        "styczniu i lutym"
+      ],
+      "answer": 1,
+      "explain": "Termin strzyży maciorek merynosowych przypada na wrzesień i październik."
+    },
+    {
+      "q": "Maciorki ras innych niż merynosowe strzyże się w:",
+      "options": [
+        "maju i czerwcu",
+        "wrześniu i październiku",
+        "styczniu i lutym",
+        "lipcu i sierpniu"
+      ],
+      "answer": 2,
+      "explain": "W przypadku pozostałych ras maciorki strzyże się w styczniu i lutym."
+    },
+    {
+      "q": "Strzyżę maciorek wykonuje się przed wykotem, ponieważ:",
+      "options": [
+        "przewężenie wełny nie wypada wtedy w środku długości włókien",
+        "wełna jest wtedy najdłuższa",
+        "owce są wtedy najspokojniejsze",
+        "po wykocie runo jest najczystsze"
+      ],
+      "answer": 0,
+      "explain": "Strzyża przed wykoceniem sprawia, że przewężenie wełny nie znajdzie się w środku długości włókien."
+    },
+    {
+      "q": "Pierwszą strzyżę jagniąt przeprowadza się w wieku:",
+      "options": [
+        "7–10 miesięcy",
+        "1–2 miesięcy",
+        "3–4 miesięcy",
+        "18 miesięcy"
+      ],
+      "answer": 0,
+      "explain": "Pierwszą strzyżę przeprowadza się, gdy jagnięta osiągną wiek 7–10 miesięcy."
+    },
+    {
+      "q": "Młodzież owczą przeznaczoną na rzeź strzyże się:",
+      "options": [
+        "w dniu odstawy",
+        "6 miesięcy przed odstawą",
+        "1–2 miesiące przed odstawą",
+        "nie strzyże się jej wcale"
+      ],
+      "answer": 2,
+      "explain": "Młodzież przeznaczoną na rzeź strzyże się 1–2 miesiące przed odstawą."
+    },
+    {
+      "q": "Najpoważniejszą usterką strzyży są:",
+      "options": [
+        "długie pasma runa",
+        "krótkie ścinki wełny powstające przy poprawianiu",
+        "zabrudzenia wełny kałem",
+        "pozostawienie wełny na nogach"
+      ],
+      "answer": 1,
+      "explain": "Poprawianie cięcia daje krótkie, bezwartościowe ścinki – najpoważniejszą usterkę strzyży."
+    },
+    {
+      "q": "Za najbardziej wydajny system strzyżenia owiec uważa się:",
+      "options": [
+        "strzyżenie na stole z wiązaniem",
+        "strzyżenie nożycami ręcznymi",
+        "strzyżenie w poskromie",
+        "strzyżenie na ziemi"
+      ],
+      "answer": 3,
+      "explain": "Za najbardziej wydajny uznaje się system strzyżenia na ziemi, bez wiązania owcy."
+    },
+    {
+      "q": "Po strzyży owce należy trzymać w pomieszczeniu o temperaturze nie niższej niż:",
+      "options": [
+        "0°C",
+        "5°C",
+        "20°C",
+        "10°C"
+      ],
+      "answer": 3,
+      "explain": "Po strzyży temperatura w pomieszczeniu nie powinna spadać poniżej 10°C."
+    },
+    {
+      "q": "Obrzeżenie runa polega na:",
+      "options": [
+        "zwinięciu runa w rulon",
+        "oddzieleniu wełny zabrudzonej i nietrzymającej się runa",
+        "zważeniu runa",
+        "myciu runa w wodzie"
+      ],
+      "answer": 1,
+      "explain": "Obrzeżenie to oddzielenie wełny nietrzymającej się runa z okolic odbytu, brzucha, kończyn i głowy."
+    },
+    {
+      "q": "Najlepsza jakościowo wełna pochodzi z:",
+      "options": [
+        "okolic odbytu",
+        "dolnych partii kończyn",
+        "łopatki i szyi",
+        "brzucha"
+      ],
+      "answer": 2,
+      "explain": "Jakościowo najlepsza wełna pochodzi z łopatki i szyi."
+    },
+    {
+      "q": "Przygotowane runo przed włożeniem do worków pozostawia się na podłodze na:",
+      "options": [
+        "2–3 dni",
+        "kilka godzin",
+        "2 tygodnie",
+        "1 miesiąc"
+      ],
+      "answer": 0,
+      "explain": "Runo układa się na podłodze na 2–3 dni, aby wystygło i przeschło."
+    },
+    {
+      "q": "Do przechowywania runa używa się worków:",
+      "options": [
+        "jutowych",
+        "foliowych",
+        "papierowych",
+        "sznurkowych z polipropylenu"
+      ],
+      "answer": 0,
+      "explain": "Przygotowane runo umieszcza się w workach jutowych."
+    },
+    {
+      "q": "Nadmierne nagromadzenie kału na sierści krów sprzyja częstszemu występowaniu:",
+      "options": [
+        "kulawizn",
+        "wzdęć",
+        "mastitis",
+        "kwasicy"
+      ],
+      "answer": 2,
+      "explain": "Zanieczyszczenia sprzyjają infekcjom skóry i częstszemu występowaniu mastitis."
+    },
+    {
+      "q": "Zgrzebła nie należy używać do bezpośredniego czyszczenia bydła, ponieważ:",
+      "options": [
+        "jest za miękkie",
+        "ma ostre krawędzie kaleczące skórę",
+        "rozprowadza brud",
+        "niszczy sierść puchową"
+      ],
+      "answer": 1,
+      "explain": "Zgrzebło ma ostre krawędzie, które mogą kaleczyć skórę."
+    },
+    {
+      "q": "Szczotkowanie bydła rozpoczyna się od:",
+      "options": [
+        "zadu",
+        "kończyn",
+        "ogona",
+        "szyi"
+      ],
+      "answer": 3,
+      "explain": "Zwierzę szczotkuje się rozpoczynając od szyi, następnie ku zadowi i kończynom."
+    },
+    {
+      "q": "Fitting to:",
+      "options": [
+        "metoda strzyży owiec",
+        "sposób załadunku zwierząt",
+        "rodzaj paśnika",
+        "zabiegi pielęgnacyjne przygotowujące bydło do wystawy"
+      ],
+      "answer": 3,
+      "explain": "Fitting to czynności pielęgnacyjne, by zwierzę jak najlepiej odpowiadało wzorcowi rasy."
+    },
+    {
+      "q": "Pierwsze strzyżenie bydła przed wystawą powinno się rozpocząć około:",
+      "options": [
+        "1 dzień przed wystawą",
+        "6 tygodni przed wystawą",
+        "6 miesięcy przed wystawą",
+        "2 dni po wystawie"
+      ],
+      "answer": 1,
+      "explain": "Pierwsze strzyżenie bydła rozpoczyna się ok. 6 tygodni przed wystawą."
+    },
+    {
+      "q": "Strzyżenie bydła rozpoczyna się od ogona, aby:",
+      "options": [
+        "ukryć wady budowy",
+        "ułatwić mycie",
+        "przyzwyczaić zwierzę do dźwięku maszynki",
+        "odsłonić staw skokowy"
+      ],
+      "answer": 2,
+      "explain": "Zabieg zaczyna się od ogona, aby przyzwyczaić zwierzę do dźwięku maszynki."
+    },
+    {
+      "q": "Wymię krowy przed wystawą przycina się na długość około:",
+      "options": [
+        "0,1 mm",
+        "1 cm",
+        "5 mm",
+        "3 cm"
+      ],
+      "answer": 0,
+      "explain": "Wymię przycina się bardzo krótko – ok. 0,1 mm."
+    },
+    {
+      "q": "Samice nie mogą być transportowane, jeśli urodziły w ciągu ostatnich:",
+      "options": [
+        "48 godzin",
+        "12 godzin",
+        "7 dni",
+        "30 dni"
+      ],
+      "answer": 0,
+      "explain": "Zabrania się transportu samic, które urodziły w ciągu ostatnich 48 godzin."
+    },
+    {
+      "q": "Minimalny wiek prosiąt przewożonych na odległość ponad 100 km wynosi:",
+      "options": [
+        "7 dni",
+        "10 dni",
+        "21 dni",
+        "42 dni"
+      ],
+      "answer": 2,
+      "explain": "Prosięta muszą mieć co najmniej 21 dni przy transporcie ponad 100 km."
+    },
+    {
+      "q": "Minimalny wiek jagniąt przewożonych na odległość ponad 100 km wynosi:",
+      "options": [
+        "3 dni",
+        "7 dni",
+        "21 dni",
+        "30 dni"
+      ],
+      "answer": 1,
+      "explain": "Jagnięta muszą mieć co najmniej 7 dni przy transporcie ponad 100 km."
+    },
+    {
+      "q": "O dopuszczeniu zwierząt do transportu decyduje:",
+      "options": [
+        "wójt gminy",
+        "kierowca pojazdu",
+        "inspektor ARiMR",
+        "powiatowy lekarz weterynarii"
+      ],
+      "answer": 3,
+      "explain": "Dopuszczenie do transportu jest możliwe za zgodą powiatowego lekarza weterynarii."
+    },
+    {
+      "q": "Zwierzęta nieparzystokopytne podczas transportu muszą mieć założone:",
+      "options": [
+        "kółka nosowe",
+        "kagańce",
+        "pęta na nogi",
+        "kantary"
+      ],
+      "answer": 3,
+      "explain": "Zwierzęta nieparzystokopytne muszą mieć założone kantary."
+    },
+    {
+      "q": "Minimalna powierzchnia dla dorosłego konia w transporcie wynosi:",
+      "options": [
+        "1 m²",
+        "1,75 m²",
+        "1,2 m²",
+        "2,4 m²"
+      ],
+      "answer": 1,
+      "explain": "Dorosłe konie wymagają 1,75 m² (0,7 × 2,5 m)."
+    },
+    {
+      "q": "Powierzchnia dla bydła o masie ok. 550 kg w transporcie wynosi:",
+      "options": [
+        "0,3–0,4 m²",
+        "0,7–0,95 m²",
+        "1,3–1,6 m²",
+        "powyżej 2,5 m²"
+      ],
+      "answer": 2,
+      "explain": "Duże bydło (ok. 550 kg) wymaga 1,3–1,6 m²/szt."
+    },
+    {
+      "q": "Czas transportu zwierząt w obrocie krajowym nie powinien przekraczać:",
+      "options": [
+        "8 godzin",
+        "4 godzin",
+        "12 godzin",
+        "24 godzin"
+      ],
+      "answer": 0,
+      "explain": "Czas trwania transportu w obrocie krajowym nie powinien przekraczać 8 godzin."
+    },
+    {
+      "q": "Przy transporcie ponad 8 godzin temperatura w pojeździe musi mieścić się w granicach:",
+      "options": [
+        "5–30°C",
+        "0–10°C",
+        "15–35°C",
+        "10–40°C"
+      ],
+      "answer": 0,
+      "explain": "Pojazd musi zapewniać temperaturę 5–30°C oraz jej monitoring."
+    },
+    {
+      "q": "Bydło, owce i kozy po ilu godzinach transportu muszą mieć godzinną przerwę?",
+      "options": [
+        "4 godzinach",
+        "8 godzinach",
+        "14 godzinach",
+        "24 godzinach"
+      ],
+      "answer": 2,
+      "explain": "Bydło, owce i kozy po 14 godzinach transportu muszą mieć godzinną przerwę."
+    },
+    {
+      "q": "Trzoda chlewna z dostępem do wody może być transportowana maksymalnie:",
+      "options": [
+        "8 godzin",
+        "24 godziny",
+        "14 godzin",
+        "48 godzin"
+      ],
+      "answer": 1,
+      "explain": "Trzoda chlewna może być transportowana maksymalnie 24 godziny przy dostępie do wody."
+    },
+    {
+      "q": "Zwierzęta nieodsadzone (cielęta, jagnięta, źrebięta) muszą mieć pierwszą godzinną przerwę po:",
+      "options": [
+        "4 godzinach",
+        "14 godzinach",
+        "24 godzinach",
+        "9 godzinach"
+      ],
+      "answer": 3,
+      "explain": "Przy zwierzętach nieodsadzonych pierwsza godzinna przerwa następuje po 9 godzinach."
+    },
+    {
+      "q": "Po zakończeniu transportu zwierzętom kopytnym należy zapewnić odpoczynek przez:",
+      "options": [
+        "1 godzinę",
+        "6 godzin",
+        "72 godziny",
+        "24 godziny"
+      ],
+      "answer": 3,
+      "explain": "Po transporcie zwierzęta kopytne należy nakarmić, napoić i zapewnić 24 godziny odpoczynku."
+    },
+    {
+      "q": "Badanie przedubojowe musi nastąpić:",
+      "options": [
+        "bezpośrednio przed załadunkiem w gospodarstwie",
+        "co najmniej 24 h po przywiezieniu i nie później niż 24 h przed ubojem",
+        "po uboju",
+        "tydzień przed transportem"
+      ],
+      "answer": 1,
+      "explain": "Badanie przedubojowe odbywa się co najmniej 24 h po przywiezieniu i nie później niż 24 h przed ubojem."
+    },
+    {
+      "q": "Zagrody na drodze przepędzania zwierząt powinny być:",
+      "options": [
+        "okrągłe z jednym wejściem",
+        "szerokie i krótkie, ciemne",
+        "wąskie i długie, z wejściem i wyjściem po przeciwległych stronach",
+        "z wejściem i wyjściem po tej samej stronie"
+      ],
+      "answer": 2,
+      "explain": "Zagrody powinny być wąskie i długie, z wejściem i wyjściem po przeciwległych stronach."
+    },
+    {
+      "q": "Zwierzęta przepędzane mają naturalną tendencję do poruszania się:",
+      "options": [
+        "w stronę światła",
+        "w stronę ciemności",
+        "pod wiatr",
+        "pojedynczo, z dala od grupy"
+      ],
+      "answer": 0,
+      "explain": "Zwierzęta mają tendencję do poruszania się w stronę światła i podążania za innymi."
+    },
+    {
+      "q": "Wełna oznaczona cyframi 8–9 (najgorsza) pochodzi z:",
+      "options": [
+        "łopatek i boków",
+        "uda, grzbietu i krzyża",
+        "piersi i brzucha",
+        "dolnych partii nóg i ogona"
+      ],
+      "answer": 3,
+      "explain": "Jakość runa maleje wraz ze wzrostem cyfr – 8–9 to wełna najgorsza z dolnych partii nóg i ogona."
+    },
+    {
+      "q": "Jak nazywa się przyrząd przedstawiony na ilustracji?",
+      "options": [
+        "Kleszcze nosowe",
+        "Poskrom",
+        "Kolczykownica",
+        "Poganiacz"
+      ],
+      "answer": 0,
+      "explain": "Kleszcze nosowe dla bydła (rys. 3.12) należą do sprzętu do przepędzania zwierząt.",
+      "img": "img/pz3/kleszcze-nosowe.jpg"
+    },
+    {
+      "q": "Na schemacie podziału runa najlepsza wełna oznaczona jest cyframi 1 i 2. Z jakiej części ciała owcy pochodzi?",
+      "options": [
+        "Z łopatek i boków",
+        "Z brzucha i piersi",
+        "Z dolnych partii nóg",
+        "Z ogona i okolic odbytu"
+      ],
+      "answer": 0,
+      "explain": "Jakość runa maleje wraz ze wzrostem cyfr; 1, 2 – wełna najlepsza na łopatkach i bokach.",
+      "img": "img/pz3/podzial-runa.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jakie czynniki należy wziąć pod uwagę przy planowaniu strzyży?",
+      "options": [
+        "Rasę zwierząt.",
+        "Wagę zwierząt.",
+        "Płeć zwierząt.",
+        "Wiek zwierząt."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZazwyczaj okres … miesięcy wystarcza do uzyskania minimalnej długości wełny do zgrzeblenia.",
+      "options": [
+        "sześciu",
+        "trzech"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkres odrostu wełny, czyli czas między kolejnymi strzyżami, musi być odpowiednio długi, żeby zapewnić pełną przydatność wełny do zgrzeblenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest minimalna długość wełny do zgrzeblenia?",
+      "options": [
+        "2–4 cm.",
+        "6–10 cm.",
+        "4,5–5 cm.",
+        "5–6,5 cm."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTryki merynosowe, ze względu na stanówkę, strzyże się ….",
+      "options": [
+        "w maju i czerwcu",
+        "w lipcu i sierpniu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStrzyżę maciorek wykonuje się po wykoceniu i po okresie laktacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka długość wełny jest niezbędna do przerobu w systemie czesankowym?",
+      "options": [
+        "2–4 cm.",
+        "5–6,5 cm.",
+        "6–10 cm.",
+        "4,5–5 cm."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTermin wykonania strzyży dla maciorek ras merynosowych przypada ….",
+      "options": [
+        "na wrzesień i październik",
+        "na styczeń i luty"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWykonanie strzyży w innych terminach niż zalecane jest błędem, ponieważ przewężenie, które występuje podczas okresu laktacji, dyskwalifikuje wełnę do przerobu czesankowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która wełna z wymienionych jest jakościowo najlepsza?",
+      "options": [
+        "Wełna z szyi.",
+        "Wełna z łopatki.",
+        "Wełna z okolic odbytu.",
+        "Wena z dolnych partii kończyn."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPierwszą strzyżę przeprowadza się, gdy jagnięta osiągną wiek … miesięcy.",
+      "options": [
+        "9-12",
+        "7-10"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStrzyżenie tryków odbywa się najczęściej kilka tygodni po stanówce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie metody można stosować w celu zachęcenia zwierzęcia, by w trakcie załadunku szły we właściwym kierunku?",
+      "options": [
+        "Zachęcanie głosem.",
+        "Zachęcanie flagami.",
+        "Ciągnięcie w odpowiednim kierunku.",
+        "Podnoszenie zwierząt."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPierwsze strzyżenie bydła powinno się rozpocząć ok. … przed wystawą.",
+      "options": [
+        "3 miesięcy",
+        "6 tygodni"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUtrzymanie czystości sierści polega przede wszystkim na tym, aby nie nawarstwiał się na niej kał, kurz, pasza i inne zanieczyszczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka długo trwa odrost wełny na długość jaka jest niezbędna do przerobu w systemie czesankowym?",
+      "options": [
+        "Do 6–8 miesięcy.",
+        "Do 12–14 miesięcy.",
+        "Do 5–7 miesięcy.",
+        "Do 10–12 miesięcy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy przewozie koni czas trwania transportu w obrocie krajowym nie powinien przekraczać … godzin.",
+      "options": [
+        "14",
+        "8"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTransport zwierząt powinien odbywać się środkami do tego przystosowanymi i w odpowiednich, określonych przepisami warunkach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie metody są niedozwolone w celu zachęcenia/zmuszenia zwierzęcia, by w trakcie załadunku szły we właściwym kierunku?",
+      "options": [
+        "Ciągnięcie w odpowiednim kierunku.",
+        "Podnoszenie zwierząt.",
+        "Zachęcanie głosem.",
+        "Zachęcanie flagami."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo wykonaniu strzyży owce powinny być przetrzymywane w pomieszczeniu, gdzie temperatura powietrza nie spada poniżej ….",
+      "options": [
+        "15˚C",
+        "10˚C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKierowca transportu przewożącego nie musi posiadać żadnych szczególnych kwalifikacji, poświadczenia i zaświadczenia powiatowego lekarza weterynarii, muszą posiadać tylko konwojenci.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przewóz jakich grup zwierząt jest zabroniony?",
+      "options": [
+        "Samic mogących urodzić młode podczas transportu.",
+        "Zwierząt w wysokiej ciąży.",
+        "Zwierząt poważnie chorych lub zranionych.",
+        "Młodych zwierząt przed rozpoczęciem wieku rozpłodowego."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZaładunek i rozładunek zwierząt jest jedną z … stresogennych czynności w czasie transportu.",
+      "options": [
+        "najmniej",
+        "najbardziej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStrzyżenie krów ze względów higienicznych wykonujemy według potrzeb, najczęściej raz, dwa razy w roku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych informacji muszą znaleźć się na listach przewozowych?",
+      "options": [
+        "Gatunki zwierząt.",
+        "Przeznaczenie zwierząt.",
+        "Przewidywany czas trwania przewozu.",
+        "Miejsce przeprowadzenia czyszczenia i odkażania."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodczas transportu trwającego ponad … godzin lub gdy jest przekraczana granica, musi zostać opracowany plan trasy.",
+      "options": [
+        "12",
+        "8"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMaksymalny czas transportu dla zwierząt kopytnych ustalono, uwzględniając czas obowiązkowych postojów na pojenie, karmienie i odpoczynek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki jest minimalny wiek prosiąt przewożonych na odległość ponad 100 km?",
+      "options": [
+        "7 dni.",
+        "21 dni.",
+        "15 dni.",
+        "10 dni."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTrzoda chlewna może być transportowana maksymalnie …, jeżeli ma zapewniony dostęp do wody.",
+      "options": [
+        "36 godzin",
+        "24 godziny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo transportu drobiu, ptaków domowych i królików stosuje się przepisy ogólne, brak w tym przypadku przepisów dodatkowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki jest minimalny wiek jałówek przewożonych na odległość ponad 100 km?",
+      "options": [
+        "15 dni.",
+        "7 dni.",
+        "10 dni.",
+        "21 dni."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo strzyżeniu i obrzeżeniu runa, układa się je na podłodze na …, aby wystygło i przeschło, po czym umieszcza się je w workach jutowych .",
+      "options": [
+        "3–5 dni",
+        "2–3 dni"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlanując strzyżę dla owiec, musimy pamiętać, aby dzień przed jej wykonaniem nie karmić zwierząt, ułatwia to wykonanie zabiegu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie mogą być zachowania zwierząt związane z przepędzaniem?",
+      "options": [
+        "Rozbieganie się – tendencje do uciekania z grupy.",
+        "Tendencje do poruszania się w stronę miejsc zacienionych i dających osłonę.",
+        "Podążanie za innymi zwierzętami – tendencja do utrzymywania kontaktu wzrokowego i fizycznego z innymi osobnikami z grupy.",
+        "Tendencje do poruszania się w stronę światła."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW prawidłowo zaprojektowanej drodze przepędzania, jaką są …, ich cechą charakterystyczną powinny być: wąskie i długie, z wejściem i wyjściem położonymi po przeciwległych stronach.",
+      "options": [
+        "zagrody",
+        "korytarze"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy przemieszczaniu zwierząt w gospodarstwie zjawiska stresowe związane z tymi czynnościami nie mają większego wpływu na zdrowie i wydajność zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników mogą zmniejszyć stres powstały przy przemieszczaniu?",
+      "options": [
+        "Przemieszczanie z zatrzymywaniem się.",
+        "Odpowiednie oświetlenie pomieszczeń.",
+        "Przemieszczanie zwierząt w grupach, w których zwierzęta się dobrze znają.",
+        "Unikanie hałasu w trakcie przepędzania."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW większych owczarniach angażuje się rzeczoznawców, którzy sortują wełnę według klas jakościowych z uwzględnieniem rasy owiec, sposobu podania runa, stopnia zawartości zanieczyszczeń roślinnych, odrostu wełny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTechnika i dokładność przy strzyżeniu owiec nie ma wpływu na jakość runa jedynie na komfort owiec.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników mogą zwiększyć stres powstały przy przemieszczaniu?",
+      "options": [
+        "Przyspieszanie prędkości przemieszczania się do większej niż naturalna.",
+        "Pokrzykiwania w trakcie przepędzania.",
+        "Odpowiednie oświetlenie pomieszczeń.",
+        "Niedopuszczenie do zawracania się zwierząt."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDopuszczenie zwierząt do transportu jest możliwe za zgodą … lekarza weterynarii, który wydaje odpowiednie świadectwo lekarskie.",
+      "options": [
+        "powiatowego",
+        "uprawnionego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW czasie transportu ptaków powinny być one utrzymywane w półmroku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak długo mogą być transportowane zwierzęta koniowate przy zapewnieniu im pojenia i karmienia co 8 godzin?",
+      "options": [
+        "36 godzin.",
+        "48 godzin.",
+        "24 godziny.",
+        "14 godzin."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBydło, owce i kozy po … godzinach transportu muszą mieć zapewnioną godzinną przerwę na pojenie i karmienie.",
+      "options": [
+        "14",
+        "12"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy przepędzaniu bydła nie powinno się używać kleszczy nosowych dla bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jaki jest wymagany minimalny wiek jagniąt, które mają być przewiezione na odległość ponad 100 km?",
+      "options": [
+        "7 dni.",
+        "10 dni.",
+        "15 dni.",
+        "21 dni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W celu transportu koni używa się koniowozów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynności należy przeprowadzić ze środkiem transportu przed każdorazowym załadunkiem zwierząt?",
+      "options": [
+        "Malowanie.",
+        "Pełną konserwację.",
+        "Czyszczenie.",
+        "Dezynfekcję."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaką temperaturę musi zapewnić przewoźnik zwierzętom w obrocie krajowym trwającym powyżej 8 godzin?",
+      "options": [
+        "W granicach 15–25°C.",
+        "Brak wymogu odnośnie temperatury.",
+        "W granicach 0–20°C.",
+        "W granicach 5–30°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku wydłużenia czasu transportu krów w laktacji, w obrocie krajowym powyżej 8 godzin, przewoźnik ma obowiązek umożliwić dojenie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych informacji muszą się znaleźć na listach przewozowych?",
+      "options": [
+        "Liczba zwierząt.",
+        "Miejsce przeznaczenia.",
+        "Data i czas wyjazdu.",
+        "Przeznaczenie zwierząt."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych czynników mogą zmniejszyć stres powstały przy przemieszczaniu?",
+      "options": [
+        "Łagodne obchodzenie się ze zwierzętami.",
+        "Tworzenie stałych grup w jak najmłodszym wieku.",
+        "Przemieszczanie z zatrzymywaniem się.",
+        "Ograniczanie odległości przemieszczania do minimum."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrzoda chlewna, jeżeli ma zapewniony dostęp do wody, może być transportowana maksymalnie 24 godziny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakim terminie strzyże się tryki innych ras niż merynosowe?",
+      "options": [
+        "W grudniu i styczniu.",
+        "W styczniu i lutym.",
+        "W listopadzie i grudniu.",
+        "W wrześniu i październiku."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakim terminie strzyże się maciorki innych ras niż merynosowe?",
+      "options": [
+        "W kwietniu i maju.",
+        "W maju i czerwcu.",
+        "W czerwcu i lipcu.",
+        "W lipcu i sierpniu."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStrzyżenie tryków odbywa się najczęściej kilka tygodni po stanówce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie dodatkowe wymagania musi spełnić przewoźnik przy przewozie krajowym dłuższym niż 8 godzin?",
+      "options": [
+        "Zapewnić bezpośredni dostęp do transportowanych zwierząt.",
+        "Umożliwić tworzenie przedziałów dla różnych grup zwierząt.",
+        "Zapewnić zaopatrzenie w ściółkę.",
+        "Zapewnić zaopatrzenie w paszę."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Po dostarczeniu zwierząt do rzeźni co jest poddawane ocenie w badaniu przedubojowym?",
+      "options": [
+        "Stan zdrowia.",
+        "Występowanie objawów chorobowych.",
+        "Rasa i płeć zwierząt.",
+        "Stan kondycji."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚrodek transportu, którym odbywa się transport krajowy dłuższy niż 8 godzin nie musi być dodatkowo wyposażany ani nie musi być dopuszczany przez lekarza weterynarii do takiego przewozu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdsadzenie młodych zwierząt od matki jest jedną z przyczyn przemieszczania zwierząt na niewielkie odległości na terenie gospodarstwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz potencjalne przyczyny przemieszczania zwierząt na niewielkie odległości na terenie gospodarstwa rolnego.",
+      "options": [
+        "Pielęgnacja zwierząt.",
+        "Przemieszczanie w celu znakowania, szczepienia bądź selekcji.",
+        "Wykonanie zabiegów weterynaryjnych i zoohigienicznych.",
+        "Izolacja zwierząt chorych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nO dopuszczeniu pojazdu do transportu zwierząt decyduje powiatowy lekarz weterynarii na wniosek przewoźnika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie okolice strzyże się u bydła mlecznego w celach pielęgnacyjnych?",
+      "options": [
+        "Ud.",
+        "Podudzi.",
+        "Grzbietu.",
+        "Podbrzusza."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzygotowanie zwierząt do wystawy nie wymaga szczególnej ilości zabiegów, gdyż strzyżenie sierści nie wpływa znacząco na wygląd.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Na ile dni przed wystawą przystępuje się do strzyżenia czystego?",
+      "options": [
+        "Na trzy lub cztery.",
+        "Na dwa lub trzy.",
+        "Na dzień lub dwa.",
+        "Na pięć lub sześć."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "W trakcie przygotowania runa do sprzedaży poddaje się je czynności:",
+      "options": [
+        "obrąbienia.",
+        "obrzegowania.",
+        "obrzeżenia.",
+        "obstrzyżenia."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy strzyżeniu zwierząt na wystawę u osobników chudych powinno się zostawić sierść nieco dłuższą, aby dodać objętości, natomiast zwierzęta w dobrej kondycji strzyże się krótko, szczególnie w partii żeber.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady sprzętu wykorzystywanego przy przepędzaniu zwierząt?",
+      "options": [
+        "Wiosła do przepędzania.",
+        "Drążki do prowadzenia buhajów.",
+        "Poganiacze.",
+        "Baty i batogi."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW Polsce wełna najczęściej jest pozyskiwana od owiec.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo strzyżenia ręcznego wykorzystuje się stalowe nożyce, jest to praca bardzo ciężka, jednak bardzo wydajna",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka długość wełny jest niezbędna do przerobu w systemie czesankowym?",
+      "options": [
+        "6–10 cm.",
+        "5–6,5 cm.",
+        "4,5–5 cm.",
+        "2–4 cm."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrze wykonaną strzyżę stwierdzimy po stanie runa, które powinno stanowić jedną całość pozbawioną rozerwań.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed ostrzyżeniem owiec wełnę poddaje się obrzeżeniu, aby ułatwić proces pozyskania surowca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaki czas odpoczynku należy zapewnić zwierzętom kopytnym po zakończeniu transportu i wyładunku?",
+      "options": [
+        "12 godzin.",
+        "48 godzin.",
+        "Minimum 6 godzin.",
+        "24 godziny."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPojazdy przeznaczone do przewozu zwierząt powinny być tak skonstruowane i wyposażone, aby zapewnić zwierzętom bezpieczeństwo podczas załadunku, przejazdu i wyładunku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynniki należy wziąć pod uwagę przy planowaniu strzyży?",
+      "options": [
+        "Wiek zwierząt.",
+        "Wagę zwierząt.",
+        "Rasę zwierząt.",
+        "Płeć zwierząt."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki okres jest potrzebny na odrost wełny do minimalnej długości 4,5–5 cm?",
+      "options": [
+        "4 miesiące.",
+        "10 miesięcy.",
+        "10–12 miesięcy.",
+        "6 miesięcy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzewożąc jednym środkiem transportu różne gatunki zwierząt, należy je bezwzględnie rozdzielić.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na jaką długość przycina się sierść na wymieniu krowy przygotowywanej na wystawę?",
+      "options": [
+        "Ok. 0,5 mm.",
+        "Ok. 1 mm.",
+        "Ok. 0,2 mm.",
+        "Ok. 0,1 mm."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaniedbania powodujące dopuszczenie do nadmiernego nagromadzenia się zanieczyszczeń na okrywie szerstnej u bydła, mogą doprowadzić do odparzeń skóry zwierzęcia oraz okaleczeń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

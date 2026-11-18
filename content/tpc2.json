@@ -1,0 +1,1943 @@
+{
+  "id": "tpc2",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Pasze stosowane w żywieniu zwierząt",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Żywienie wpływa na stan fizjologiczny organizmu i warunkuje jego prawidłowe funkcjonowanie.",
+        "Niedobory żywieniowe i przedawkowanie substancji sprzyjają chorobom i spadkom wydajności.",
+        "Pasze muszą być dostosowane do gatunku – uwarunkowania gatunkowe determinują sposób pobierania paszy, jej rodzaj i zapotrzebowanie na składniki.",
+        "Żywienie wpływa na dobrostan, efekty produkcyjne i ekonomię chowu."
+      ]
+    },
+    {
+      "heading": "1. Pasza, pasze treściwe i objętościowe",
+      "points": [
+        "Pasza – materiały pochodzenia roślinnego, zwierzęcego lub mineralnego stosowane w żywieniu zwierząt gospodarskich; składniki powinny być w postaci przyswajalnej.",
+        "Pasze treściwe – duża koncentracja energii i składników (tłuszcz, łatwostrawne węglowodany), względnie dużo białka; energia netto ponad 4,1 MJ/kg, włókno surowe nie więcej niż 18%.",
+        "Pasze treściwe: ziarno i jego przetwory, nasiona strączkowych, niektóre pasze przemysłu rolno-spożywczego, mączki zwierzęce, mieszanki przemysłowe.",
+        "Pasze objętościowe – w 1 kg suchej masy mniej niż 4,1 MJ EN i więcej niż 18% włókna surowego.",
+        "Pasze objętościowe suche: siano, słoma, plewy, łuski, mączki z roślin zielonych.",
+        "Pasze objętościowe soczyste: zielonki, kiszonki, rośliny okopowe, wilgotne produkty uboczne przetwórstwa rolno-spożywczego.",
+        "Pasze zawierają te same składniki, z których zbudowany jest organizm, ale o innej budowie chemicznej i w innych proporcjach; stosowane w dopuszczalnych ilościach nie powinny szkodzić organizmowi."
+      ]
+    },
+    {
+      "heading": "1. Siano, słoma, zboża, ziarno, plewy",
+      "points": [
+        "Siano – trawy i rośliny motylkowe skoszone w początkowym okresie wegetacji i suszone naturalnie (zazwyczaj) lub sztucznie; podstawowa pasza objętościowa przeżuwaczy i koni.",
+        "Słoma – łodygi i liście dojrzałych roślin po młóceniu; stosowana jako pasza i ściółka.",
+        "Trawy – rodzina z rzędu wiechlinowców, ok. 11 tys. gatunków; zdolność krzewienia się, przeważnie wiatropylne lub samopylne (klejstogamia zbóż).",
+        "Zboża – rośliny z rodziny wiechlinowatych o owocach bogatych w skrobię; ozime (wysiewane jesienią, wegetują zimą) i jare.",
+        "Zboża: jęczmień, żyto, pszenica, pszenica orkisz, owies, pszenżyto, kukurydza, sorgo, proso, ryż.",
+        "Pseudozboża – rośliny niebędące trawami, niespokrewnione, wytwarzające ziarna bogate w skrobię podobne do zbóż.",
+        "Ziarno (ziarniak) – suchy, niepękający owoc traw; nasiono z zarodkiem i bielmem oraz okrywa owocowo-nasienna.",
+        "Nasiona powstają z zapłodnionego zalążka: zarodek otoczony tkanką zapasową i łupiną nasienną.",
+        "Plewy – otrzymywane przy omłocie i czyszczeniu ziarna: osłonki ziarna, listki, cząstki łodyg i kłosów; mogą być zanieczyszczone ziemią, piaskiem, nasionami chwastów.",
+        "Odpowiednikiem plew u roślin motylkowych są strąkowiny, u kukurydzy – kaczan.",
+        "W budowie traw wyróżnia się: łodygę, liście, kwiaty, owoce i korzeń.",
+        "Zboża jare – rośliny jednoroczne, niewymagające niskich temperatur do okresu wegetacji.",
+        "Okrywa owocowo-nasienna ziarniaka to zrośnięta kilkuwarstwowa owocnia, łupina nasienna i obielmo; główną masę ziarna stanowi nasiono z niewielkim zarodkiem i bielmem."
+      ]
+    },
+    {
+      "heading": "1. Zioła, rośliny szkodliwe i trujące",
+      "points": [
+        "Zioła – rośliny z substancjami wpływającymi na metabolizm (lecznicze, przyprawowe, trujące); podział użytkowy: lecznicze, przyprawowe, olejkodajne.",
+        "Rośliny szkodliwe – nietrujące, ale ich nasiona szkodzą zdrowiu.",
+        "Ziarniaki włośnicy sinej i zielonej (szorstkie szczeciny) ranią nabłonek pyska, powodując przewlekłe zapalenia i owrzodzenia.",
+        "Twarde nasiona nawrotu polnego mogą mechanicznie uszkodzić uzębienie, zwłaszcza u młodego bydła, świń i koni.",
+        "Rośliny trujące – zawierają substancje toksyczne w niektórych częściach lub całej roślinie; zawartość trucizn zależy od cyklu rozwojowego.",
+        "Zwierzęta zazwyczaj rozpoznają i unikają roślin trujących; cis pospolity jest znacznie bardziej trujący dla koni niż dla innych roślinożerców.",
+        "Niektóre rośliny tracą właściwości trujące po wysuszeniu lub długim przechowywaniu, inne je zachowują.",
+        "Do ziół zalicza się głównie rośliny zielne, a także niektóre drzewa, krzewy, warzywa, byliny oraz grzyby.",
+        "Ziarniaki włośnicy ranią też gruczoły śluzowe i inne narządy, prowadząc do ciężkich, przewlekłych zapaleń.",
+        "Substancje trujące mogą być w niektórych częściach rośliny (korzenie, nasiona, ziele) lub w całej roślinie; przebieg zatrucia zależy od ilości spożytej rośliny i sposobu spożycia; wrażliwość zwierząt na tę samą truciznę jest różna."
+      ]
+    },
+    {
+      "heading": "1. Rośliny bobowate (motylkowe)",
+      "points": [
+        "Bobowate drobnonasienne jednoroczne: koniczyna perska, seradela.",
+        "Bobowate drobnonasienne dwuletnie: koniczyna czerwona.",
+        "Bobowate drobnonasienne wieloletnie: lucerna mieszańcowa, koniczyna biała, białoróżowa, komonica, esparceta.",
+        "Bobowate grubonasienne (strączkowe) zawierają więcej białka niż drobnonasienne.",
+        "Bobowate grubonasienne pastewne: bobik, łubin wąskolistny i żółty, peluszka, seradela pastewna, wyka siewna i ozima."
+      ]
+    },
+    {
+      "heading": "1. Skład botaniczny, konsystencja, zanieczyszczenia",
+      "points": [
+        "Skład botaniczny – różnorodność gatunkowa roślin w partii paszy, wyrażana procentowym udziałem gatunków.",
+        "Konsystencja – spoistość substancji: gęstość, twardość i lepkość.",
+        "Zanieczyszczenia fizyczne – ciała obce (gwoździe, folia, kamienie); mogą powodować np. urazowe zapalenie czepca, zatkanie jelit.",
+        "Zanieczyszczenia chemiczne – substancje powodujące zatrucia po przekroczeniu określonego poziomu, np. pestycydy, fungicydy; wynik chemizacji rolnictwa i procesów technologicznych.",
+        "Zanieczyszczenia fizyczne mogą też powodować podrażnienie przełyku i jamy ustnej.",
+        "Zanieczyszczenia chemiczne wynikają z działalności człowieka: chemizacji rolnictwa, procesów technologicznych, metod agrotechnicznych."
+      ]
+    },
+    {
+      "heading": "2. Podział pasz wg przepisów UE – materiały paszowe",
+      "points": [
+        "Podział pasz ma ujednolicić nazwy międzynarodowe; przepisy UE definiują określenia, by ułatwić handel.",
+        "Środki żywienia zwierząt wg UE: materiały paszowe, dodatki i premiksy, mieszanki paszowe.",
+        "Materiały paszowe – surowce do bezpośredniego skarmiania lub tworzenia mieszanek.",
+        "Materiały paszowe: pochodzenia roślinnego, zwierzęcego, mikrobiologicznego, aminokwasy (ich sole i analogi), związki azotowe niebiałkowe, substancje mineralne.",
+        "Tabele wartości pokarmowej pasz i ich systematyka są podporządkowane komputeryzacji produkcji mieszanek przemysłowych i obliczania dawek pokarmowych."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/podzial-materialow-paszowych.jpg",
+          "caption": "Rysunek 2.2. Podział materiałów paszowych: pochodzenia roślinnego, zwierzęcego i mikrobiologicznego, aminokwasy (ich sole i analogi), związki azotowe niebiałkowe, substancje mineralne."
+        },
+        {
+          "src": "img/tpc2/srodki-zywienia-zwierzat.jpg",
+          "caption": "Rysunek 2.1. Środki żywienia zwierząt wg przepisów UE: 1) materiały paszowe, 2) dodatki i premiksy, 3) mieszanki paszowe."
+        }
+      ]
+    },
+    {
+      "heading": "2. Dodatki paszowe i premiksy",
+      "points": [
+        "Dodatki i premiksy – substancje poprawiające jakość mieszanek, produktów zwierzęcych oraz zdrowie zwierząt.",
+        "Premiksy – dodatki produkowane na nośnikach ułatwiających mieszanie z innymi materiałami paszowymi.",
+        "Dodatki podlegają rejestracji i pozwoleniu na podstawie pozytywnej opinii Komisji Oceny Pasz przy Ministerstwie Rolnictwa i Rozwoju Wsi.",
+        "Dodatki: witaminy i prowitaminy, pierwiastki śladowe, antybiotyki paszowe, probiotyki i prebiotyki, przeciwutleniacze, substancje zapachowe i wzmagające apetyt, kokcydiostatyki.",
+        "Dodatki (c.d.): emulgatory, wypełniacze, substancje wiążące i przeciwzbrylające, barwniki, konserwanty, detoksykanty, regulatory kwasowości, sole buforujące, dezodoranty, zioła, inne stymulatory wzrostu."
+      ]
+    },
+    {
+      "heading": "2. Mieszanki paszowe i ich wady",
+      "points": [
+        "Rodzaje mieszanek: pełnodawkowe, uzupełniające, koncentraty, specjalnego przeznaczenia.",
+        "Mieszanka pełnodawkowa (zbilansowana pełnowartościowa) – pokrywa zapotrzebowanie na wszystkie składniki; skarmiana do woli lub normowana.",
+        "Mieszanka uzupełniająca – ma wyższy poziom składników niż wymagany w dawce; po zmieszaniu z innymi paszami tworzy dzienną dawkę w gospodarstwie.",
+        "Koncentraty – białkowe i witaminowo-mineralne; należy je rozcieńczyć ziarnem zbóż lub innymi paszami energetycznymi.",
+        "Mieszanki specjalnego przeznaczenia: pasze dietetyczne (np. dla zwierząt reprodukcyjnych, sportowych, przy zaburzeniach trawienia) i lecznicze.",
+        "Pasze lecznicze – mieszanki pełnodawkowe z dodatkiem leków; okresowo, pod nadzorem lekarza weterynarii; produkty nie mogą być wykorzystane przed upływem karencji.",
+        "Okres karencji – liczba dni od zaprzestania podawania leku do pozyskania produktu nadającego się do spożycia lub na paszę.",
+        "Wady wynikają głównie z długotrwałego i nieodpowiedniego przechowywania, przygotowania i źle dobranego składu.",
+        "Najczęstsze wady: nieodpowiednie rozdrobnienie, obecność całych ziaren, złe wymieszanie, zła jakość granulatu.",
+        "Inne wady: zanieczyszczenia (substancje szkodliwe, mineralne, żywe szkodniki magazynowe), niski poziom białka, nadmiar włókna, nadmiar soli, nieodpowiednia zawartość witamin i minerałów.",
+        "Mieszanka pełnodawkowa odpowiada też docelowemu gatunkowi i grupie produkcyjnej pod względem struktury fizycznej.",
+        "Mieszanki uzupełniające pozwalają przygotować zbilansowaną porcję karmy bezpośrednio w gospodarstwie; koncentraty, podobnie jak one, służą do sporządzania pełnoporcjowej mieszanki.",
+        "Produkty od zwierząt karmionych paszą leczniczą nie mogą być wykorzystane w żywieniu ludzi ani innych zwierząt przed upływem karencji na leki."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/podzial-mieszanek-paszowych.jpg",
+          "caption": "Rysunek 2.3. Podział mieszanek paszowych: pełnodawkowe, uzupełniające, koncentraty, specjalnego przeznaczenia."
+        }
+      ]
+    },
+    {
+      "heading": "2. Inne kryteria podziału pasz, pasze zwierzęce i objętościowe",
+      "points": [
+        "Wg dominującego składnika: węglowodanowe, białkowe, witaminowe, mineralne, dietetyczne, tuczące.",
+        "Wg wartości energetycznej: treściwe i objętościowe (granica wg energii netto i 18% włókna surowego).",
+        "Wg miejsca wytworzenia: gospodarskie i pochodzące z zakupu.",
+        "Wg wpływu na produkt: mlekopędne, rozmiękczające i utwardzające zwierzęcą tkankę tłuszczową.",
+        "Pasze treściwe roślinne niskobiałkowe (do 20% białka): ziarna zbóż i ich przetwory – śruty, otręby, mąki pastewne.",
+        "Średniobiałkowe (20–30%): nasiona roślin strączkowych, młóto.",
+        "Wysokobiałkowe (powyżej 30%): makuchy, śruty poekstrakcyjne, drożdże (w tekście wymieniono też wysłodki buraczane).",
+        "Tabele wartości pokarmowej pasz podają orientacyjny poziom składników (średnia i odchylenie standardowe) i ułatwiają układanie dawek.",
+        "Pasze zwierzęce: mleko, jaja, ryby, mięso, krew; maślanka, mleko odtłuszczone, serwatka, twaróg.",
+        "Mączki mięsne, mięsno-kostne, kostne i z krwi; mączki rybne z odpadów lub całych ryb.",
+        "Zielonki: z trwałych użytków zielonych, z upraw polnych (motylkowe, strączkowe), z roślin zbożowych (owies, jęczmień, żyto, kukurydza), inne (kapusta, słonecznik, rzepak, gryka).",
+        "Pasze soczyste to też kiszonki i sianokiszonki, okopowe (ziemniaki, buraki, marchew) i wodniste produkty uboczne przemysłu.",
+        "Pasze objętościowe suche: siano, słoma pastewna i ściółkowa, plewy, łuski, mączki z roślin zielonych.",
+        "Pasze treściwe dzielą się na roślinne i pochodzenia zwierzęcego (naturalne i przemysłowe).",
+        "Pasze pochodzenia zwierzęcego to produkty pozyskane bezpośrednio od zwierząt oraz surowce poddane procesom technologicznym.",
+        "Zielonki z trwałych użytków zielonych to zielonki z łąk i pastwisk; z upraw polnych – z wieloletnich roślin motylkowych i strączkowych.",
+        "Tabele wartości pokarmowej pozwalają dostosować poziom białka, tłuszczu, włókna, suchej masy i składników mineralnych, unikać niedoborów i nadmiaru, a dzięki różnorodności surowców – dobrać paszę do materiału dostępnego w gospodarstwie lub na rynku (racjonalność i ekonomia).",
+        "Uwaga – rozbieżność w źródle: w definicjach granica pasz treściwych/objętościowych to 4,1 MJ EN/kg, a na schemacie przy rys. 2.4 podano 4,5 MJ; w obu przypadkach granica włókna surowego to 18%."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/kryteria-podzialu-pasz.jpg",
+          "caption": "Rysunek 2.4. Kryteria podziału pasz: dominujący składnik (węglowodanowe, białkowe, witaminowe, mineralne, dietetyczne, tuczące); wartość energetyczna (treściwe, objętościowe); miejsce wytworzenia (gospodarskie, z zakupu); wpływ na jakość produktu (mlekopędne, rozmiękczające lub utwardzające zwierzęcą tkankę tłuszczową)."
+        },
+        {
+          "src": "img/tpc2/tresciwe-a-objetosciowe.jpg",
+          "caption": "Granica między paszą objętościową a treściwą: pasza objętościowa ma mniej niż 4,5 MJ energii netto i więcej niż 18% włókna surowego; pasza treściwa – więcej energii i mniej włókna."
+        },
+        {
+          "src": "img/tpc2/podzial-pasz.jpg",
+          "caption": "Rysunek 2.5. Najczęściej stosowany podział pasz: objętościowe (soczyste, suche), treściwe (roślinne, pochodzenia zwierzęcego), przemysłowe mieszanki paszowe (pełnodawkowe, uzupełniające, koncentraty białkowe), dodatki uzupełniające (mineralne, witaminowe, witaminowo-mineralne)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Żywienie przeżuwaczy",
+      "points": [
+        "Pasze dobiera się wg sposobu pobierania, przewodu pokarmowego, stanu fizjologicznego, wieku i kierunku produkcji; muszą pokryć co najmniej zapotrzebowanie bytowe.",
+        "U przeżuwaczy największą rolę odgrywają pasze objętościowe; pasze treściwe uzupełniają dawkę.",
+        "Główna grupa: zielonki i kiszonki (zwłaszcza z kukurydzy, traw, liści i wysłodków buraczanych, roślin zbożowych).",
+        "Dawka dla sztuki: ok. 1–1,5 kg siana i 0,5 kg słomy (zawyżenie może obniżyć przyrosty).",
+        "Marchew – dla buhajów i cieląt; buraki – zwłaszcza dla krów mlecznych; surowe ziemniaki – dla opasów.",
+        "Melasę i młóto trzeba dawkować ostrożnie – działają przeczyszczająco; cielęta dostają mleko.",
+        "Duże znaczenie ma możliwość pobierania pokarmu na pastwisku; w dawce dla bydła wysokoprodukcyjnego są m.in. wysłodki buraczane i rośliny okopowe."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/dodatki-pasz-bydlo.jpg",
+          "caption": "Dodatki do pasz dla bydła: marchew – dla buhajów i cieląt; buraki – dla krów mlecznych; surowe ziemniaki – dla opasów. Melasę i młóto trzeba dawkować ostrożnie – działają przeczyszczająco."
+        }
+      ]
+    },
+    {
+      "heading": "3. Żywienie trzody chlewnej",
+      "points": [
+        "Żywienie świń opiera się głównie na mieszankach pasz treściwych.",
+        "Najlepszym zbożem dla świń jest jęczmień – nadaje tłuszczowi biały kolor i jędrność.",
+        "Kukurydza jest niewskazana – trudno zbilansować dawkę i działa upłynniająco na tłuszcz.",
+        "Dodatki: ziemniaki parowane, buraki pastewne, marchew dla loch, zielonki (najlepsza z pokrzyw), serwatka dla loch, drożdże piwne, otręby (mlekopędne), śruty poekstrakcyjne (źródło białka).",
+        "Kiszonki dla świń są nieopłacalne, jeśli nie są potrzebne dla bydła; trzoda jest szczególnie wrażliwa na zanieczyszczenia fizyczne (piasek, kamienie).",
+        "Tuczniki żywi się popularnie gotowymi mieszankami pełnoporcjowymi i koncentratami.",
+        "Drożdże piwne podaje się świniom w postaci suszonej; okopowe, zielonki i produkty uboczne podaje się w mniejszych ilościach niż pasze treściwe."
+      ]
+    },
+    {
+      "heading": "3. Żywienie drobiu i koni",
+      "points": [
+        "Podstawa żywienia drobiu: ziarno i tłuszcze paszowe; najbardziej rozpowszechnione są gotowe mieszanki dla grup technologicznych.",
+        "Trzystopniowy program żywienia brojlerów: Prestarter i Starter (pisklęta), Grover (kurczęta), Finisher (końcowy okres tuczu).",
+        "Pasze dla brojlerów mają dużo większą wartość energetyczną niż dla drobiu hodowlanego.",
+        "Rytuał karmienia koni: najpierw pojenie, potem pasze objętościowe (siano łąkowe, latem zielonki), następnie treściwe (owies cały lub gnieciony); mniejsze dawki częściej.",
+        "Obrok – całe ziarno, susz, otręby i sieczka (np. ze słomy) zwilżone niewielką ilością wody.",
+        "Dodatki dla koni: marchew, mieszanki (granulat, musli); źrebięta – preparaty mlekozastępcze.",
+        "Rodzaj ziarna i tłuszczów w żywieniu drobiu zależy od ceny, wielkości stada i kierunku produkcji.",
+        "Wyższa wartość energetyczna pasz dla brojlerów wynika z kierunku produkcji i długości chowu."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/drob-okresy-zywienia.jpg",
+          "caption": "Kolejne okresy żywienia drobiu (wideocast): prestarter, starter, grower, finisher. Pasze dla brojlerów mają dużo większą wartość energetyczną niż dawki dla drobiu hodowlanego."
+        }
+      ]
+    },
+    {
+      "heading": "3. Żywienie zwierząt towarzyszących",
+      "points": [
+        "Psy i koty – odrębna grupa ze względu na mięsożerność; zapotrzebowanie zależy od rasy, stanu fizjologicznego, wieku i trybu życia.",
+        "Niewielka liczba osobników pozwala na żywienie indywidualne; dostępne karmy suche (granulaty) i mokre (pasztety, galaretki).",
+        "Psom można podawać produkty zwierzęce, wypełniacze (makaron, ryż) i gotowane warzywa (marchew, brokuł, kalafior, pietruszka).",
+        "Koty są bezwzględnymi mięsożercami; nie należy im podawać mleka krowiego – laktoza może powodować biegunki.",
+        "Rynek karm: karmy bytowe, specjalistyczne oraz diety weterynaryjne.",
+        "Możliwe jest przygotowywanie pokarmu w domu, ale prawidłowe zbilansowanie dawki jest wtedy dużo trudniejsze.",
+        "Karmy bytowe są różnej jakości; karmy specjalistyczne przeznaczone są dla osobników o szczególnych wymaganiach pokarmowych."
+      ],
+      "images": [
+        {
+          "src": "img/tpc2/zywienie-psa-i-kota.jpg",
+          "caption": "Żywienie psa i kota: pies – produkty pochodzenia zwierzęcego, wypełniacze (ryż, makaron), gotowane warzywa (marchew, brokuł, kalafior); kot – tylko produkty pochodzenia zwierzęcego. Kotom nie podaje się mleka krowiego – laktoza może wywołać biegunkę."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Kiszonka (definicja) – Pasza objętościowa (np. trawy, żyto, kukurydza, parowane ziemniaki, wysłodki) zakonserwowana fermentacją lub chemicznie (konserwantem); zapewnia pasze objętościowe przez cały rok.",
+        "Siano (definicja) – Trawy i motylkowe skoszone w początkowym okresie wegetacji i wysuszone naturalnie lub sztucznie; podstawowa pasza objętościowa przeżuwaczy i koni."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Pasza – definicja",
+      "back": "Materiały pochodzenia roślinnego, zwierzęcego lub mineralnego stosowane w żywieniu zwierząt gospodarskich."
+    },
+    {
+      "front": "Pasze treściwe – kryteria energii i włókna",
+      "back": "Energia netto powyżej 4,1 MJ/kg, włókno surowe nie więcej niż 18%."
+    },
+    {
+      "front": "Pasze objętościowe – kryteria",
+      "back": "Mniej niż 4,1 MJ EN w 1 kg s.m. i ponad 18% włókna surowego."
+    },
+    {
+      "front": "Wymień pasze treściwe (5 grup)",
+      "back": "Ziarno i przetwory, nasiona strączkowych, niektóre pasze przemysłu rolno-spożywczego, mączki zwierzęce, mieszanki przemysłowe."
+    },
+    {
+      "front": "Pasze objętościowe suche",
+      "back": "Siano, słoma, plewy, łuski, mączki z roślin zielonych."
+    },
+    {
+      "front": "Pasze objętościowe soczyste",
+      "back": "Zielonki, kiszonki, rośliny okopowe, wilgotne produkty uboczne przetwórstwa rolno-spożywczego."
+    },
+    {
+      "front": "Siano",
+      "back": "Trawy i motylkowe skoszone w początkowym okresie wegetacji i wysuszone naturalnie lub sztucznie."
+    },
+    {
+      "front": "Słoma",
+      "back": "Łodygi i liście dojrzałych roślin po młóceniu; pasza i ściółka."
+    },
+    {
+      "front": "Ile gatunków liczy rodzina traw?",
+      "back": "Ok. 11 tys."
+    },
+    {
+      "front": "Klejstogamia zbóż",
+      "back": "Samopylność zbóż (przykład samopylności traw)."
+    },
+    {
+      "front": "Zboża ozime",
+      "back": "Jednoroczne, wysiewane jesienią, wegetujące w okresie zimowym."
+    },
+    {
+      "front": "Pseudozboża",
+      "back": "Rośliny niebędące trawami, wytwarzające skrobiowe ziarna podobne do zbóż."
+    },
+    {
+      "front": "Ziarno (ziarniak)",
+      "back": "Suchy, niepękający owoc traw."
+    },
+    {
+      "front": "Z czego powstają nasiona?",
+      "back": "Z zapłodnionego zalążka."
+    },
+    {
+      "front": "Plewy",
+      "back": "Osłonki ziarna, listki, cząstki łodyg i kłosów otrzymywane przy omłocie i czyszczeniu."
+    },
+    {
+      "front": "Odpowiednik plew u motylkowych / u kukurydzy",
+      "back": "Strąkowiny / kaczan."
+    },
+    {
+      "front": "Podział ziół wg użytkowania",
+      "back": "Lecznicze, przyprawowe, olejkodajne."
+    },
+    {
+      "front": "Rośliny szkodliwe",
+      "back": "Nietrujące, ale ich nasiona szkodzą zdrowiu (np. włośnica, nawrot polny)."
+    },
+    {
+      "front": "Włośnica sina i zielona – jakie szkody?",
+      "back": "Szorstkie szczeciny ziarniaków ranią nabłonek pyska – zapalenia, owrzodzenia."
+    },
+    {
+      "front": "Nawrot polny – jakie szkody?",
+      "back": "Twarde nasiona uszkadzają uzębienie (młode bydło, świnie, konie)."
+    },
+    {
+      "front": "Dla którego gatunku cis pospolity jest szczególnie trujący?",
+      "back": "Dla koni."
+    },
+    {
+      "front": "Czy rośliny trujące zawsze zachowują toksyczność po wysuszeniu?",
+      "back": "Nie – niektóre tracą ją po wysuszeniu lub długim przechowywaniu, inne zachowują."
+    },
+    {
+      "front": "Bobowate drobnonasienne jednoroczne",
+      "back": "Koniczyna perska, seradela."
+    },
+    {
+      "front": "Bobowata drobnonasienna dwuletnia",
+      "back": "Koniczyna czerwona."
+    },
+    {
+      "front": "Bobowate drobnonasienne wieloletnie",
+      "back": "Lucerna mieszańcowa, koniczyna biała, białoróżowa, komonica, esparceta."
+    },
+    {
+      "front": "Bobowate grubonasienne pastewne",
+      "back": "Bobik, łubin wąskolistny i żółty, peluszka, seradela pastewna, wyka siewna i ozima."
+    },
+    {
+      "front": "Które bobowate zawierają więcej białka?",
+      "back": "Grubonasienne (strączkowe)."
+    },
+    {
+      "front": "Skład botaniczny",
+      "back": "Różnorodność gatunkowa roślin w partii paszy, wyrażona procentowym udziałem gatunków."
+    },
+    {
+      "front": "Konsystencja – składowe",
+      "back": "Gęstość, twardość, lepkość."
+    },
+    {
+      "front": "Zanieczyszczenia fizyczne paszy – przykłady i skutki",
+      "back": "Gwoździe, folia, kamienie; np. urazowe zapalenie czepca, zatkanie jelit."
+    },
+    {
+      "front": "Zanieczyszczenia chemiczne – przykłady",
+      "back": "Pestycydy, fungicydy."
+    },
+    {
+      "front": "Środki żywienia zwierząt wg UE (3 grupy)",
+      "back": "Materiały paszowe, dodatki i premiksy, mieszanki paszowe."
+    },
+    {
+      "front": "Materiały paszowe",
+      "back": "Surowce do bezpośredniego skarmiania lub tworzenia mieszanek paszowych."
+    },
+    {
+      "front": "Grupy materiałów paszowych (6)",
+      "back": "Roślinne, zwierzęce, mikrobiologiczne, aminokwasy i ich sole/analogi, związki azotowe niebiałkowe, substancje mineralne."
+    },
+    {
+      "front": "Premiksy",
+      "back": "Dodatki produkowane na nośnikach ułatwiających mieszanie z materiałami paszowymi."
+    },
+    {
+      "front": "Kto opiniuje dopuszczenie dodatków paszowych?",
+      "back": "Komisja Oceny Pasz przy Ministerstwie Rolnictwa i Rozwoju Wsi."
+    },
+    {
+      "front": "Przykłady dodatków paszowych",
+      "back": "Witaminy, pierwiastki śladowe, probiotyki, prebiotyki, przeciwutleniacze, kokcydiostatyki, barwniki, konserwanty, zioła."
+    },
+    {
+      "front": "Rodzaje mieszanek paszowych (4)",
+      "back": "Pełnodawkowe, uzupełniające, koncentraty, specjalnego przeznaczenia."
+    },
+    {
+      "front": "Mieszanka pełnodawkowa",
+      "back": "Pokrywa zapotrzebowanie na wszystkie składniki; inaczej mieszanka zbilansowana pełnowartościowa."
+    },
+    {
+      "front": "Mieszanka uzupełniająca",
+      "back": "Ma wyższy poziom składników niż w dawce; po zmieszaniu z innymi paszami tworzy dzienną dawkę."
+    },
+    {
+      "front": "Rodzaje koncentratów",
+      "back": "Białkowe i witaminowo-mineralne."
+    },
+    {
+      "front": "Czym rozcieńcza się koncentraty?",
+      "back": "Ziarnem zbóż lub innymi paszami energetycznymi."
+    },
+    {
+      "front": "Mieszanki specjalnego przeznaczenia",
+      "back": "Pasze dietetyczne i lecznicze."
+    },
+    {
+      "front": "Pasze lecznicze",
+      "back": "Mieszanki pełnodawkowe z lekami, stosowane okresowo pod nadzorem lekarza weterynarii."
+    },
+    {
+      "front": "Okres karencji",
+      "back": "Liczba dni od zaprzestania podawania leku do pozyskania produktu nadającego się do spożycia lub na paszę."
+    },
+    {
+      "front": "Najczęstsze wady mieszanek paszowych",
+      "back": "Złe rozdrobnienie, całe ziarna, złe wymieszanie, zły granulat, zanieczyszczenia, mało białka, nadmiar włókna i soli, zła zawartość witamin i minerałów."
+    },
+    {
+      "front": "Podział pasz wg wpływu na produkt",
+      "back": "Mlekopędne, rozmiękczające i utwardzające tkankę tłuszczową."
+    },
+    {
+      "front": "Podział pasz wg miejsca wytworzenia",
+      "back": "Gospodarskie i pochodzące z zakupu."
+    },
+    {
+      "front": "Pasze treściwe niskobiałkowe – % białka i przykłady",
+      "back": "Do 20%: ziarna zbóż, śruty, otręby, mąki pastewne."
+    },
+    {
+      "front": "Pasze treściwe średniobiałkowe – % białka i przykłady",
+      "back": "20–30%: nasiona strączkowych, młóto."
+    },
+    {
+      "front": "Pasze treściwe wysokobiałkowe – % białka i przykłady",
+      "back": "Powyżej 30%: makuchy, śruty poekstrakcyjne, drożdże."
+    },
+    {
+      "front": "Przykłady pasz pochodzenia zwierzęcego",
+      "back": "Mleko, jaja, ryby, krew, maślanka, serwatka, twaróg, mączki mięsne, mięsno-kostne, rybne."
+    },
+    {
+      "front": "Rośliny okopowe stosowane jako pasza",
+      "back": "Ziemniaki, buraki, marchew."
+    },
+    {
+      "front": "Co zawierają tabele wartości pokarmowej pasz?",
+      "back": "Orientacyjny poziom składników w surowcach – średnią i odchylenie standardowe."
+    },
+    {
+      "front": "Podstawa żywienia przeżuwaczy",
+      "back": "Pasze objętościowe, uzupełniane treściwymi."
+    },
+    {
+      "front": "Dawka siana i słomy dla jednej sztuki bydła",
+      "back": "Ok. 1–1,5 kg siana i 0,5 kg słomy."
+    },
+    {
+      "front": "Komu w żywieniu bydła podaje się marchew?",
+      "back": "Buhajom i cielętom."
+    },
+    {
+      "front": "Komu podaje się surowe ziemniaki?",
+      "back": "Opasom."
+    },
+    {
+      "front": "Które pasze dla bydła działają przeczyszczająco?",
+      "back": "Melasa i młóto."
+    },
+    {
+      "front": "Najlepsze zboże dla świń i dlaczego",
+      "back": "Jęczmień – nadaje tłuszczowi biały kolor i jędrność."
+    },
+    {
+      "front": "Dlaczego kukurydza jest niewskazana dla świń?",
+      "back": "Trudno zbilansować dawkę, działa upłynniająco na tłuszcz."
+    },
+    {
+      "front": "Najlepsza zielonka dla świń",
+      "back": "Z pokrzyw."
+    },
+    {
+      "front": "Pasze mlekopędne dla świń wymienione w module",
+      "back": "Otręby."
+    },
+    {
+      "front": "Na jakie zanieczyszczenia szczególnie wrażliwa jest trzoda?",
+      "back": "Fizyczne – piasek, kamienie."
+    },
+    {
+      "front": "Podstawa żywienia drobiu",
+      "back": "Ziarno i tłuszcze paszowe."
+    },
+    {
+      "front": "Trzystopniowy program żywienia brojlerów",
+      "back": "Prestarter i Starter (pisklęta), Grover (kurczęta), Finisher (koniec tuczu)."
+    },
+    {
+      "front": "Kolejność karmienia koni",
+      "back": "Pojenie → pasze objętościowe (siano, zielonki) → pasza treściwa (owies)."
+    },
+    {
+      "front": "Obrok",
+      "back": "Całe ziarno, susz, otręby i sieczka zwilżone niewielką ilością wody."
+    },
+    {
+      "front": "Czym karmi się źrebięta poza mlekiem matki?",
+      "back": "Preparatami mlekozastępczymi (zależnie od wieku)."
+    },
+    {
+      "front": "Dlaczego kotom nie podaje się mleka krowiego?",
+      "back": "Wysoka zawartość laktozy może powodować biegunki."
+    },
+    {
+      "front": "Koty – typ żywieniowy",
+      "back": "Bezwzględne mięsożerce."
+    },
+    {
+      "front": "Rodzaje karm gotowych dla zwierząt towarzyszących",
+      "back": "Karmy bytowe, specjalistyczne, diety weterynaryjne."
+    },
+    {
+      "front": "Wada domowego przygotowywania karmy dla psów i kotów",
+      "back": "Dużo trudniej prawidłowo zbilansować dawkę."
+    },
+    {
+      "front": "Od czego zależy rodzaj ziarna i tłuszczów w żywieniu drobiu?",
+      "back": "Od ceny, wielkości stada i kierunku produkcji."
+    },
+    {
+      "front": "Jak nazywają się kolejne okresy (fazy) żywienia drobiu – od pisklęcia do dorosłego ptaka?",
+      "back": "Prestarter → starter → grower → finisher.",
+      "img": "img/tpc2/drob-okresy-zywienia-bez-podpisow.jpg"
+    },
+    {
+      "front": "Kiszonka (definicja)",
+      "back": "Pasza objętościowa (np. trawy, żyto, kukurydza, parowane ziemniaki, wysłodki) zakonserwowana fermentacją lub chemicznie (konserwantem); zapewnia pasze objętościowe przez cały rok."
+    },
+    {
+      "front": "Zboża jare – definicja",
+      "back": "Rośliny jednoroczne, niewymagające niskich temperatur do okresu wegetacji."
+    },
+    {
+      "front": "Z czego składa się okrywa owocowo-nasienna ziarniaka?",
+      "back": "Ze zrośniętej kilkuwarstwowej owocni, łupiny nasiennej i obielma."
+    },
+    {
+      "front": "Źródła zanieczyszczeń chemicznych pasz",
+      "back": "Działalność człowieka: chemizacja rolnictwa, procesy technologiczne, metody agrotechniczne."
+    },
+    {
+      "front": "Pełna lista dodatków paszowych",
+      "back": "Witaminy i prowitaminy, pierwiastki śladowe, antybiotyki paszowe, probiotyki i prebiotyki, przeciwutleniacze, substancje zapachowe i wzmagające apetyt, kokcydiostatyki, emulgatory, wypełniacze, substancje wiążące i przeciwzbrylające, barwniki, konserwanty, detoksykanty, regulatory kwasowości, sole buforujące, dezodoranty, zioła, inne stymulatory wzrostu."
+    },
+    {
+      "front": "Podział pasz wg dominującego składnika",
+      "back": "Węglowodanowe, białkowe, witaminowe, mineralne, dietetyczne, tuczące."
+    },
+    {
+      "front": "Rodzaje zielonek wg pochodzenia",
+      "back": "Z trwałych użytków zielonych (łąki, pastwiska), z upraw polnych (wieloletnie motylkowe, strączkowe), z roślin zbożowych (owies, jęczmień, żyto, kukurydza), inne (kapusta, słonecznik, rzepak, gryka)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pasze treściwe zawierają włókna surowego nie więcej niż:",
+      "options": [
+        "8%",
+        "28%",
+        "18%",
+        "40%"
+      ],
+      "answer": 2,
+      "explain": "W paszach treściwych ilość włókna surowego nie przewyższa 18%."
+    },
+    {
+      "q": "Pasze objętościowe zawierają w 1 kg suchej masy energii netto:",
+      "options": [
+        "mniej niż 4,1 MJ",
+        "więcej niż 4,1 MJ",
+        "więcej niż 10 MJ",
+        "dokładnie 18 MJ"
+      ],
+      "answer": 0,
+      "explain": "Pasze objętościowe mają w 1 kg s.m. mniej niż 4,1 MJ EN i ponad 18% włókna."
+    },
+    {
+      "q": "Do pasz objętościowych suchych zalicza się:",
+      "options": [
+        "kiszonki",
+        "zielonki",
+        "rośliny okopowe",
+        "plewy"
+      ],
+      "answer": 3,
+      "explain": "Pasze objętościowe suche to siano, słoma, plewy, łuski i mączki z roślin zielonych."
+    },
+    {
+      "q": "Do pasz objętościowych soczystych należą:",
+      "options": [
+        "łuski",
+        "kiszonki",
+        "słoma",
+        "makuchy"
+      ],
+      "answer": 1,
+      "explain": "Do pasz objętościowych soczystych zalicza się zielonki, kiszonki, okopowe i wilgotne produkty uboczne."
+    },
+    {
+      "q": "Do pasz treściwych zalicza się:",
+      "options": [
+        "siano",
+        "zielonkę z traw",
+        "nasiona roślin strączkowych",
+        "buraki pastewne"
+      ],
+      "answer": 2,
+      "explain": "Do pasz treściwych należą m.in. ziarno, nasiona strączkowych, mączki zwierzęce i mieszanki."
+    },
+    {
+      "q": "Siano pozyskuje się z traw i roślin motylkowych skoszonych:",
+      "options": [
+        "w początkowym okresie wegetacji",
+        "w pełnej dojrzałości",
+        "po omłocie",
+        "po pierwszych przymrozkach"
+      ],
+      "answer": 0,
+      "explain": "Siano to rośliny skoszone w początkowym okresie wegetacji i wysuszone."
+    },
+    {
+      "q": "Rośliny niebędące trawami, wytwarzające skrobiowe ziarna podobne do zbóż, to:",
+      "options": [
+        "bobowate",
+        "zioła olejkodajne",
+        "rośliny okopowe",
+        "pseudozboża"
+      ],
+      "answer": 3,
+      "explain": "Pseudozboża nie są trawami, lecz wytwarzają skrobiowe ziarna podobne do zbóż."
+    },
+    {
+      "q": "Odpowiednikiem plew u kukurydzy jest:",
+      "options": [
+        "strąkowina",
+        "kaczan",
+        "łuska",
+        "słoma"
+      ],
+      "answer": 1,
+      "explain": "Przy kukurydzy odpowiednikiem plew jest kaczan."
+    },
+    {
+      "q": "Twarde nasiona której rośliny mogą mechanicznie uszkodzić uzębienie zwierząt?",
+      "options": [
+        "Koniczyny czerwonej",
+        "Owsa",
+        "Nawrotu polnego",
+        "Seradeli"
+      ],
+      "answer": 2,
+      "explain": "Nasiona nawrotu polnego są bardzo twarde i mogą uszkodzić uzębienie."
+    },
+    {
+      "q": "Ziarniaki z szorstkimi szczecinami raniące nabłonek pyska ma:",
+      "options": [
+        "włośnica sina",
+        "kukurydza",
+        "lucerna",
+        "bobik"
+      ],
+      "answer": 0,
+      "explain": "Ziarniaki włośnicy sinej i zielonej mają szorstkie szczeciny, które ranią nabłonek pyska."
+    },
+    {
+      "q": "Cis pospolity jest szczególnie trujący dla:",
+      "options": [
+        "kóz",
+        "owiec",
+        "bydła",
+        "koni"
+      ],
+      "answer": 3,
+      "explain": "Cis pospolity jest znacznie bardziej trujący dla koni niż dla innych roślinożerców."
+    },
+    {
+      "q": "Do bobowatych drobnonasiennych dwuletnich należy:",
+      "options": [
+        "koniczyna perska",
+        "koniczyna czerwona",
+        "lucerna mieszańcowa",
+        "bobik"
+      ],
+      "answer": 1,
+      "explain": "Dwuletnią bobowatą drobnonasienną jest koniczyna czerwona."
+    },
+    {
+      "q": "Do bobowatych grubonasiennych należy:",
+      "options": [
+        "esparceta",
+        "komonica",
+        "bobik",
+        "koniczyna biała"
+      ],
+      "answer": 2,
+      "explain": "Do bobowatych grubonasiennych zalicza się m.in. bobik, łubin, peluszkę, wykę."
+    },
+    {
+      "q": "Urazowe zapalenie czepca może być skutkiem zanieczyszczeń paszy:",
+      "options": [
+        "fizycznych",
+        "chemicznych",
+        "mikrobiologicznych",
+        "witaminowych"
+      ],
+      "answer": 0,
+      "explain": "Zanieczyszczenia fizyczne (gwoździe, folia, kamienie) mogą powodować urazowe zapalenie czepca."
+    },
+    {
+      "q": "Pestycydy w paszy to przykład zanieczyszczeń:",
+      "options": [
+        "fizycznych",
+        "botanicznych",
+        "mechanicznych",
+        "chemicznych"
+      ],
+      "answer": 3,
+      "explain": "Zanieczyszczenia chemiczne to m.in. pestycydy i fungicydy."
+    },
+    {
+      "q": "Zgodnie z przepisami UE środki żywienia zwierząt dzielą się na:",
+      "options": [
+        "pasze suche i mokre",
+        "materiały paszowe, dodatki i premiksy, mieszanki paszowe",
+        "pasze gospodarskie i z zakupu",
+        "pasze białkowe i energetyczne"
+      ],
+      "answer": 1,
+      "explain": "Wg UE pasze dzieli się na materiały paszowe, dodatki i premiksy oraz mieszanki paszowe."
+    },
+    {
+      "q": "Surowce przeznaczone do bezpośredniego skarmiania lub tworzenia mieszanek to:",
+      "options": [
+        "premiksy",
+        "koncentraty",
+        "materiały paszowe",
+        "kokcydiostatyki"
+      ],
+      "answer": 2,
+      "explain": "Materiały paszowe to surowce do bezpośredniego skarmiania lub tworzenia mieszanek."
+    },
+    {
+      "q": "Dodatki produkowane na nośnikach ułatwiających mieszanie z paszą to:",
+      "options": [
+        "premiksy",
+        "koncentraty",
+        "mieszanki pełnodawkowe",
+        "materiały paszowe"
+      ],
+      "answer": 0,
+      "explain": "Premiksy to dodatki produkowane na nośnikach ułatwiających mieszanie."
+    },
+    {
+      "q": "Dopuszczenie dodatków paszowych wymaga pozytywnej opinii:",
+      "options": [
+        "Inspekcji Handlowej",
+        "sanepidu gminnego",
+        "izby rolniczej",
+        "Komisji Oceny Pasz przy MRiRW"
+      ],
+      "answer": 3,
+      "explain": "Dodatki podlegają rejestracji na podstawie pozytywnej opinii Komisji Oceny Pasz przy MRiRW."
+    },
+    {
+      "q": "Do dodatków paszowych zalicza się:",
+      "options": [
+        "siano łąkowe",
+        "kokcydiostatyki",
+        "młóto",
+        "ziarno owsa"
+      ],
+      "answer": 1,
+      "explain": "Kokcydiostatyki są jednym z wymienionych dodatków paszowych."
+    },
+    {
+      "q": "Mieszanka pokrywająca zapotrzebowanie na wszystkie składniki pokarmowe to mieszanka:",
+      "options": [
+        "uzupełniająca",
+        "koncentrat białkowy",
+        "pełnodawkowa",
+        "dietetyczna"
+      ],
+      "answer": 2,
+      "explain": "Mieszanka pełnodawkowa pokrywa zapotrzebowanie na wszystkie niezbędne składniki."
+    },
+    {
+      "q": "Mieszanka o wyższym poziomie składników niż wymagany w dawce, mieszana z innymi paszami, to:",
+      "options": [
+        "mieszanka uzupełniająca",
+        "mieszanka pełnodawkowa",
+        "pasza lecznicza",
+        "materiał paszowy"
+      ],
+      "answer": 0,
+      "explain": "Mieszankę uzupełniającą charakteryzuje wyższy poziom składników niż wymagany w dawce."
+    },
+    {
+      "q": "Koncentraty paszowe należy rozcieńczyć:",
+      "options": [
+        "wodą",
+        "słomą",
+        "melasą",
+        "ziarnem zbóż lub innymi paszami energetycznymi"
+      ],
+      "answer": 3,
+      "explain": "Koncentraty rozcieńcza się ziarnem zbóż lub innymi paszami energetycznymi."
+    },
+    {
+      "q": "Pasze lecznicze stosuje się:",
+      "options": [
+        "stale u wszystkich zwierząt",
+        "okresowo pod nadzorem lekarza weterynarii",
+        "wyłącznie u zwierząt towarzyszących",
+        "bez ograniczeń"
+      ],
+      "answer": 1,
+      "explain": "Pasze lecznicze są przeznaczone do okresowego żywienia pod nadzorem lekarza weterynarii."
+    },
+    {
+      "q": "Liczba dni od zaprzestania podawania leku do pozyskania produktu nadającego się do spożycia to:",
+      "options": [
+        "okres zasuszenia",
+        "okres przejściowy",
+        "okres karencji",
+        "okres adaptacji"
+      ],
+      "answer": 2,
+      "explain": "Okres karencji to liczba dni od zaprzestania podawania leku do pozyskania produktu."
+    },
+    {
+      "q": "Do typowych wad mieszanek paszowych NIE należy:",
+      "options": [
+        "prawidłowe rozdrobnienie surowców",
+        "obecność całych ziaren",
+        "nadmiar soli",
+        "zła jakość granulatu"
+      ],
+      "answer": 0,
+      "explain": "Wadą jest nieodpowiednie rozdrobnienie, a nie prawidłowe."
+    },
+    {
+      "q": "Pasze niskobiałkowe zawierają białka:",
+      "options": [
+        "20–30%",
+        "powyżej 30%",
+        "powyżej 50%",
+        "do 20%"
+      ],
+      "answer": 3,
+      "explain": "Pasze treściwe niskobiałkowe zawierają do 20% białka."
+    },
+    {
+      "q": "Do pasz treściwych wysokobiałkowych (powyżej 30% białka) należą:",
+      "options": [
+        "otręby i mąki pastewne",
+        "makuchy i śruty poekstrakcyjne",
+        "ziarna zbóż",
+        "siano i słoma"
+      ],
+      "answer": 1,
+      "explain": "Wysokobiałkowe to m.in. makuchy, śruty poekstrakcyjne i drożdże."
+    },
+    {
+      "q": "Młóto należy do pasz o zawartości białka:",
+      "options": [
+        "do 10%",
+        "powyżej 30%",
+        "20–30%",
+        "do 5%"
+      ],
+      "answer": 2,
+      "explain": "Średnią zawartość białka (20–30%) mają nasiona strączkowych i młóto."
+    },
+    {
+      "q": "Ze względu na wpływ na produkt wyróżnia się pasze:",
+      "options": [
+        "mlekopędne",
+        "gospodarskie",
+        "objętościowe",
+        "pełnodawkowe"
+      ],
+      "answer": 0,
+      "explain": "Wg wpływu na produkt wyróżnia się pasze mlekopędne oraz rozmiękczające i utwardzające tłuszcz."
+    },
+    {
+      "q": "W żywieniu przeżuwaczy największą rolę odgrywają pasze:",
+      "options": [
+        "treściwe",
+        "pochodzenia zwierzęcego",
+        "mineralne",
+        "objętościowe"
+      ],
+      "answer": 3,
+      "explain": "U przeżuwaczy największą rolę odgrywają pasze objętościowe."
+    },
+    {
+      "q": "Dawka siana dla pojedynczej sztuki bydła wynosi ok.:",
+      "options": [
+        "5–8 kg",
+        "1–1,5 kg",
+        "0,1 kg",
+        "15 kg"
+      ],
+      "answer": 1,
+      "explain": "Dawka dla sztuki to ok. 1–1,5 kg siana i 0,5 kg słomy."
+    },
+    {
+      "q": "Ze względu na działanie przeczyszczające w żywieniu bydła ostrożnie dawkuje się:",
+      "options": [
+        "siano i słomę",
+        "owies i jęczmień",
+        "melasę i młóto",
+        "kiszonkę z traw"
+      ],
+      "answer": 2,
+      "explain": "Melasa i młóto powinny być odpowiednio dawkowane z uwagi na właściwości przeczyszczające."
+    },
+    {
+      "q": "Najlepszym zbożem dla świń, nadającym tłuszczowi biały kolor i jędrność, jest:",
+      "options": [
+        "jęczmień",
+        "kukurydza",
+        "żyto",
+        "owies"
+      ],
+      "answer": 0,
+      "explain": "Jęczmień korzystnie wpływa na strukturę tłuszczu, nadając mu biały kolor i jędrność."
+    },
+    {
+      "q": "Kukurydza jest niewskazana w żywieniu świń, ponieważ:",
+      "options": [
+        "zawiera dużo włókna",
+        "jest trująca",
+        "obniża apetyt",
+        "działa upłynniająco na tłuszcz"
+      ],
+      "answer": 3,
+      "explain": "Kukurydza utrudnia bilansowanie dawki i działa upłynniająco na tłuszcz."
+    },
+    {
+      "q": "W trzystopniowym programie żywienia brojlerów na końcowy okres tuczu stosuje się paszę:",
+      "options": [
+        "Prestarter",
+        "Finisher",
+        "Starter",
+        "Grover"
+      ],
+      "answer": 1,
+      "explain": "Finisher stosuje się na końcowy okres tuczu brojlerów."
+    },
+    {
+      "q": "W żywieniu koni paszę treściwą podaje się:",
+      "options": [
+        "przed pojeniem",
+        "jako jedyną paszę",
+        "po pojeniu i paszy objętościowej",
+        "zawsze na czczo przed sianem"
+      ],
+      "answer": 2,
+      "explain": "Rytuał karmienia koni zakłada pojenie i podanie pasz objętościowych przed paszą treściwą."
+    },
+    {
+      "q": "Mleka krowiego nie powinno się podawać kotom, ponieważ:",
+      "options": [
+        "laktoza może powodować biegunki",
+        "zawiera za dużo żelaza",
+        "powoduje krzywicę",
+        "jest ubogie w tłuszcz"
+      ],
+      "answer": 0,
+      "explain": "Mleko krowie, z uwagi na wysoką zawartość laktozy, może powodować biegunki u kotów."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Do pasz objętościowych suchych nie należy:",
+      "options": [
+        "mączka z roślin zielonych.",
+        "łuski",
+        "zielonka.",
+        "siano.",
+        "słoma."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZawartość energii netto w paszach treściwych przekracza … na kg paszy.",
+      "options": [
+        "3,5 MJ",
+        "4,1 MJ"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano to trawy i rośliny strąkowe skoszone w początkowym okresie wegetacji i poddane suszeniu w warunkach naturalnych lub sztucznych (zazwyczaj).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jako ściółkę dla zwierząt gospodarskich stosuje się głównie:",
+      "options": [
+        "pseudozboża.",
+        "trawy.",
+        "siano.",
+        "słomę."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZboża to rośliny uprawne z rodziny ….",
+      "options": [
+        "wiechlinowców",
+        "motylkowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwoce zbóż mają wysoką zawartość skrobi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do roślin bobowatych grubonasiennych należą:",
+      "options": [
+        "wyka siewna, ozima.",
+        "peluszka.",
+        "seradela.",
+        "esparceta.",
+        "seradela pastewna."
+      ],
+      "answers": [
+        0,
+        1,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to inaczej ziarniak, suchy, niepękający owoc traw.",
+      "options": [
+        "Nasiono.",
+        "Ziarno."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRośliny szkodliwe to rośliny, które są trujące dla zwierząt, ponieważ ich nasiona mają niekorzystny wpływ na zdrowie, np. ziarniaki włośnicy sinej i zielonej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z niżej wymienionych dodatków zaliczamy do paszowych i premiksów?",
+      "options": [
+        "Zioła.",
+        "Antybiotyki paszowe.",
+        "Barwniki.",
+        "Przeciwutleniacze.",
+        "Kokcydiostatyki.",
+        "Konserwanty, detokstykanty.",
+        "Stymulatory wzrostu.",
+        "Substancje zapachowe i wzmagające apetyt.",
+        "Dezodoranty (preparaty dezodorujące)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNiektóre rośliny tracą swe własności trujące po ich ….",
+      "options": [
+        "ugotowaniu",
+        "wysuszeniu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZawartość trucizn w roślinach może być różna w zależności od ich cyklu rozwojowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dodatki paszowe, podlegają rejestracji i pozwoleniu na stosowanie w żywieniu zwierząt na podstawie odpowiedniej dokumentacji i pozytywnej opinii:",
+      "options": [
+        "Komisji Rolniczej przy UE.",
+        "Agencji Restrukturyzacji i Modernizacji Rolnictwa.",
+        "Ministra Rolnictwa.",
+        "Komisji Oceny Pasz."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonsystencja to … danej substancji, na którą składa się zespół określonych cech fizycznych.",
+      "options": [
+        "lepkość",
+        "spoistość"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPremiksy paszowe stanowią dodatki produkowane na nośnikach ułatwiających mieszanie z innymi materiałami paszowymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Mieszanki paszowe możemy podzielić na:",
+      "options": [
+        "emulgatory, wypełniacze, substancje wiążące i przeciwzbrylające.",
+        "mieszanki pełnodawkowe i uzupełniające.",
+        "mieszanki pełnodawkowe, uzupełniające i koncentraty.",
+        "mieszanki specjalnego przeznaczenia, koncentraty, uzupełniające i pełnodawkowe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMieszanki specjalnego przeznaczenia wykorzystywane są do … żywienia pod nadzorem lekarza weterynarii.",
+      "options": [
+        "regularnego",
+        "okresowego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMieszanki uzupełniające charakteryzuje niższy poziom danych składników niż wymagany w dawce pokarmowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Produkty pozyskane od zwierząt karmionych tą mieszanką nie mogą być wykorzystywane w żywieniu innych zwierząt lub ludzi przed upływem karencji na leki.",
+      "options": [
+        "Mieszanka uzupełniająca.",
+        "Mieszanka specjalnego przeznaczenia.",
+        "Mieszanka pełnodawkowa.",
+        "Koncentrat."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZe względu na wartość energetyczną pasze dzielimy na … i objętościowe.",
+      "options": [
+        "wysokoenergetyczne",
+        "treściwe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzygotowanie dawki pokarmowej dla zwierząt znacznie ułatwiają tabele wartości pokarmowej pasz, które zawierają orientacyjny poziom składników w poszczególnych surowcach z uwzględnieniem wartości średniej i odchylenia standardowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do pasz objętościowych soczystych zaliczamy:",
+      "options": [
+        "mączki z roślin zielonych.",
+        "kiszonki.",
+        "łuski.",
+        "rośliny okopowe.",
+        "zielonki."
+      ],
+      "answers": [
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJako dodatek dla buhajów i cieląt najczęściej stosuje się ….",
+      "options": [
+        "wysłodki buraczane",
+        "marchew"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu trzody, marchew jest niewskazana z uwagi na trudność w bilansowaniu dawki pokarmowej i upłynniające działanie na tłuszcz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do zielonek zaliczamy:",
+      "options": [
+        "siano.",
+        "rzepak.",
+        "buraki.",
+        "plewy.",
+        "rośliny strączkowe.",
+        "grykę."
+      ],
+      "answers": [
+        1,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOprócz pasz treściwych dla trzody przeznacza się w mniejszych ilościach rośliny ….",
+      "options": [
+        "okopowe",
+        "strączkowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBardzo popularnym sposobem żywienia tuczników jest stosowanie gotowych mieszanek pełnoporcjowych i koncentratów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do produktów ubocznych przemysłu rolno-spożywczego, które mają zastosowanie w żywieniu trzody zaliczamy:",
+      "options": [
+        "śruty poekstrakcyjne.",
+        "serwatkę dla loch.",
+        "zielonki.",
+        "suszone drożdże piwne.",
+        "otręby działające mlekopędnie."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodstawą żywienia drobiu jest ziarno i … paszowe .",
+      "options": [
+        "tłuszcze",
+        "białka"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu koni stosuje się obrok, który przyrządza się stosując zmielone ziarno, susz, otręby lub sieczkę np. ze słomy i zwilża całość wodą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przy trzystopniowym programie żywienia brojlerów dla kurcząt stosuje się:",
+      "options": [
+        "Starter.",
+        "Grover.",
+        "Prestarter.",
+        "Finisher."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPasze dla brojlerów z reguły mają dużo … wartość energetyczną niż dawki dla drobiu hodowlanego.",
+      "options": [
+        "większą",
+        "mniejszą"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu źrebiąt, w zależności od wieku, stosuje się również preparaty mlekozastępcze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W żywieniu koni najlepszym ziarnem jest:",
+      "options": [
+        "jęczmień.",
+        "tylko owies cały.",
+        "proso.",
+        "owies cały lub gnieciony."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW dawce dla bydła wysokoprodukcyjnego znajduje się m.in. …, zwłaszcza dla krów mlecznych.",
+      "options": [
+        "marchew",
+        "buraki"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu koni bardzo ważne jest uprzednie pojenie i podanie pasz objętościowych przed podaniem paszy treściwej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W karmieniu psów można stosować:",
+      "options": [
+        "surowe warzywa.",
+        "ryż.",
+        "makron.",
+        "produkty pochodzenia zwierzęcego.",
+        "gotowane warzywa."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku … stosuje się paszę pochodzenia zwierzęcego, jaką jest mleko.",
+      "options": [
+        "cieląt",
+        "opasów"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚruty poekstrakcyjne stanowią bardzo dobre źródło tłuszczu dla świń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Najlepszą zielonkę dla trzody uzyskuje się z:",
+      "options": [
+        "liści buraków pastewnych.",
+        "pokrzyw.",
+        "młodych pędów zbóż.",
+        "łodyg kukurydzy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBezwzględnymi mięsożercami są ….",
+      "options": [
+        "koty",
+        "psy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW dawkach dla świń nieopłacalne jest pozyskiwanie kiszonek, jeśli nie są jednocześnie potrzebne dla bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Paszą objętościową w żywieniu koni jest:",
+      "options": [
+        "susz i otręby.",
+        "owies cały.",
+        "siano łąkowe.",
+        "owies zgnieciony."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWśród pasz … wyróżnić można: pasze roślinne, pochodzenia zwierzęcego naturalne i przemysłowe.",
+      "options": [
+        "objętościowych",
+        "treściwych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu koni ważne jest rozplanowanie większych dawek z mniejszą częstotliwością.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Do pasz treściwych zaliczamy:",
+      "options": [
+        "wilgotne produkty uboczne przetwórstwa rolno-spożywczego.",
+        "mączki zwierzęce.",
+        "nasiona roślin strączkowych.",
+        "słomę.",
+        "mączki z roślin zielonych."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze objętościowe to pasze charakteryzujące się dużą koncentracją energii i składników pokarmowych dzięki obecności tłuszczu lub łatwostrawnych węglowodanów. Wyróżniają się względnie wysoką zawartością białka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Okrywa owocowo-nasienna składa się z:",
+      "options": [
+        "owocni.",
+        "zarodka.",
+        "obielma.",
+        "bielma."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do pasz objętościowych soczystych nie zaliczamy:",
+      "options": [
+        "rośliny okopowe.",
+        "kiszonki.",
+        "zielonki.",
+        "mączki z roślin zielonych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiano to łodygi i liście dojrzałych roślin uprawnych po procesach młócenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Odpowiednikiem plew przy kukurydzy jest:",
+      "options": [
+        "kaczan.",
+        "bielmo.",
+        "strąkowina.",
+        "okrywa owocowo-nasienna."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do zbóż zaliczamy:",
+      "options": [
+        "ryż.",
+        "pszenżyto.",
+        "soję.",
+        "soczewicę.",
+        "pszenicę.",
+        "proso."
+      ],
+      "answers": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPseudozboża to nazwa roślin, które są trawami, ale wytwarzają ziarna o wysokiej zawartości skrobi, są spokrewnione ze zbożami.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ze względu na sposób użytkowania zioła można podzielić na rośliny:",
+      "options": [
+        "jadalne i trujące.",
+        "herbaciane, przyprawowe i olejkodajne.",
+        "lecznicze, przyprawowe i trujące.",
+        "lecznicze, przyprawowe i olejkodajne."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Do roślin bobowatych drobnonasiennych zaliczamy:",
+      "options": [
+        "komonicę.",
+        "łubin.",
+        "lucernę mieszańcową.",
+        "wykę.",
+        "koniczynę czerwoną."
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNasiona nawrotu polnego są bardzo twarde i mogą doprowadzić do mechanicznego uszkodzenia uzębienia, zwłaszcza u młodego bydła, świń i koni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ze względu. na wpływ na jakość wytwarzanego produktu pasze dzielimy na:",
+      "options": [
+        "mlekopędne.",
+        "objętościowe.",
+        "utwardzające zwierzęcą tkankę tłuszczową.",
+        "dietetyczne tuczące."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Cis pospolity jest najbardziej trujący dla:",
+      "options": [
+        "koni.",
+        "zwierząt mięsożernych.",
+        "świń.",
+        "owiec."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZanieczyszczenia fizyczne to wszelkie substancje, które po wprowadzeniu do organizmu mogą powodować zatrucia po przekroczeniu określonego poziomu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkład botaniczny może być wyrażony poprzez procentowy udział poszczególnych gatunków w całości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Środkami żywienia zwierząt, według przepisów UE, nie są:",
+      "options": [
+        "mieszanki paszowe.",
+        "mączki z roślin zielonych.",
+        "dodatki i premiksy.",
+        "materiały paszowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMateriały paszowe to surowce przeznaczone tylko do tworzenia mieszanek paszowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Którego z rodzajów mieszanek dotyczy poniższy opis?\nSkarmiana do woli lub normowana, pokrywa zapotrzebowanie na wszystkie niezbędne składniki pokarmowe i odpowiada docelowym gatunkom zwierząt i grupie produkcyjnej pod względem struktury fizycznej. Określana również jako mieszanka zbilansowana pełnowartościowa.",
+      "options": [
+        "Mieszanki specjalnego przeznaczenia.",
+        "Mieszanki uzupełniającej.",
+        "Mieszanki paszowej.",
+        "Mieszanki pełnodawkowej."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKoncentraty należy odpowiednio rozcieńczyć ziarnem zbóż lub innymi paszami energetycznymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Materiały paszowe można podzielić na:",
+      "options": [
+        "materiały pochodzenia roślinnego.",
+        "aminokwasy, ich sole i analogi.",
+        "materiały pochodzenia zwierzęcego.",
+        "materiały pochodzenia mikrobiologicznego.",
+        "związki azotowe niebiałkowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Do pasz treściwych wysokobiałkowych należą:",
+      "options": [
+        "młóto.",
+        "drożdże.",
+        "makuchy.",
+        "śruty poekstrakcyjne."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze treściwe roślinne niskobiałkowe zawierają do 10% białka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile włókna surowego zawiera pasza objętościowa?",
+      "options": [
+        "Poniżej 13%.",
+        "Poniżej 18%.",
+        "Powyżej 18%.",
+        "Około 13%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze objętościowe podzielić można na soczyste i suche.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo pasz objętościowych soczystych zaliczamy m.in. kiszonki i sianokiszonki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W żywieniu przeżuwaczy największą rolę odgrywają:",
+      "options": [
+        "pasze objętościowe.",
+        "koncentraty białkowe.",
+        "pasze soczyste.",
+        "pasze treściwe."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWśród pasz objętościowych wyróżnić można: pasze roślinne, pochodzenia zwierzęcego naturalne i przemysłowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze pochodzenia zwierzęcego stanowią produkty pozyskane bezpośrednio od zwierząt i surowce poddane procesom technologicznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Podział pasz na treściwe i objętościowe uwzględnia kryterium:",
+      "options": [
+        "zawartości białka.",
+        "przeznaczenia pasz.",
+        "zawartości dodatków uzupełniających np. witamin.",
+        "zawartości energii netto."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW żywieniu przeżuwaczy stosuje się siano i słomę, w dawkach dla pojedynczej sztuki odpowiednio ok. 2 kg siana i 0,5 kg.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Pasze objętościowe suche to przeważnie:",
+      "options": [
+        "mączki z roślin zielonych.",
+        "zielonki.",
+        "Łuski.",
+        "buraki.",
+        "słoma pastewna i słoma ściółkowa."
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Właściwości przeczyszczające w żywieniu bydła mają:",
+      "options": [
+        "wysłodki buraczane.",
+        "melasa.",
+        "surowe ziemniaki.",
+        "młóto."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻywienie trzody opiera się głównie o mieszanki pasz treściwych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jako dodatki paszowe dla koni można stosować:",
+      "options": [
+        "pasze wzbogacane pochodnymi zwierzęcymi.",
+        "buraki pastewne.",
+        "gotowe mieszanki np. w formie musli.",
+        "marchew."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe zbóż najlepszy dla świń jest owies, ponieważ korzystnie wpływa na strukturę tłuszczu, nadając mu biały kolor i jędrność.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

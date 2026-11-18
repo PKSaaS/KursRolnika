@@ -1,0 +1,2001 @@
+{
+  "id": "tr2",
+  "course": "Technika w rolnictwie",
+  "title": "Materiałoznawstwo i maszynoznawstwo ogólne",
+  "number": "II",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – materiałoznawstwo i podział maszyn",
+      "points": [
+        "Materiałoznawstwo – bada i opisuje właściwości fizyczne i chemiczne materiałów oraz możliwości ich wykorzystania do wytwarzania produktów (np. materiałoznawstwo maszynowe).",
+        "Cztery kryteria podziału materiałów: właściwości chemiczne (metale i niemetale), sposób otrzymywania (naturalne i przemysłowe), stopień przetworzenia (materiały wyjściowe, półfabrykaty, wyroby gotowe), zastosowanie (brak jednoznacznego określenia).",
+        "Maszyny dzieli się na silniki i maszyny robocze.",
+        "Silniki przetwarzają dostarczoną energię na energię mechaniczną do napędu innych maszyn.",
+        "Maszyny robocze: produkcyjne (większość maszyn rolniczych i ogrodniczych), transportowe (ciała stałe – samochody, ciągniki, przenośniki; ciecze – pompy; gazy – wentylatory, dmuchawy), energetyczne (zamiana energii mechanicznej na inną – sprężarki, prądnice)."
+      ]
+    },
+    {
+      "heading": "1. Metale żelazne – rudy, surówka, żeliwo",
+      "points": [
+        "Najczęściej stosowane materiały konstrukcyjne to metale i ich stopy (wspólne cechy: plastyczność, ciągliwość, skrawalność).",
+        "Metale żelazne zawierają żelazo, nieżelazne – nie zawierają.",
+        "Żelazo rzadko stosuje się jako czysty pierwiastek – najczęściej jako stop z węglem; w przyrodzie występuje w rudach (tlenki).",
+        "Rudy żelaza: magnetyt 60–70% Fe, hematyt 50–65%, limonit 25–50%, syderyt 25–42%.",
+        "Surówka (z pieców hutniczych) zawiera ok. 6% węgla – jest krucha i nie służy jako materiał konstrukcyjny.",
+        "Żeliwo powstaje w żeliwiakach z surówki, złomu i topnika; najczęstszy topnik – kamień wapienny, tworzący z zanieczyszczeniami szlakę.",
+        "Żeliwo – stop żelaza z węglem o zawartości 2–4,5% C; dobre właściwości odlewnicze (korpusy silników, skrzynie przekładniowe, koła pasowe i zębate).",
+        "Zalety żeliwa: duża odporność na ściskanie i ścieranie, tłumienie drgań, umiarkowana odporność na korozję; wady: nieodporne na rozciąganie, zginanie i uderzenia.",
+        "Przetapianie surówki w żeliwiakach oczyszcza ją z zanieczyszczeń: kwarcu, piasku i gliny; topnik tworzy z nimi topliwe grudy – szlakę."
+      ],
+      "images": [
+        {
+          "src": "img/tr2/rudy-zelaza-fe.jpg",
+          "caption": "Rudy żelaza (żelazo – Fe): magnetyt (60–70% Fe), hematyt (50–65% Fe), limonit (25–50% Fe); czwarta ruda wymieniana w treści to syderyt (25–42% Fe)."
+        },
+        {
+          "src": "img/tr2/od-rudy-do-zeliwa-schemat.jpg",
+          "caption": "Droga od rudy do żeliwa: ruda żelaza → wytapianie → surówka → przetapianie → oczyszczanie z zanieczyszczeń → żeliwo (odlewy, np. garnki, obciążniki)."
+        },
+        {
+          "src": "img/tr2/metale-podzial.jpg",
+          "caption": "Podział metali ze względu na skład chemiczny: żelazne (zawierają w składzie żelazo) i nieżelazne (nie zawierają żelaza)."
+        }
+      ]
+    },
+    {
+      "heading": "Stal",
+      "points": [
+        "Stal – stop żelaza z węglem o zawartości węgla nieprzekraczającej 2%; otrzymywana przez obniżenie zawartości węgla w surówce podczas przetopu.",
+        "Stal niestopowa – do 1,75% węgla i niewielkie ilości dodatków stopowych.",
+        "Stal niestopowa konstrukcyjna – 0,8–0,9% węgla; walcuje się z niej pręty i kształtowniki.",
+        "Stal niestopowa narzędziowa – 0,45–1,75% węgla; narzędzia niezbyt rozgrzewające się i nienarażone na związki chemiczne.",
+        "Stal stopowa – zawiera dodatki poprawiające twardość, żaroodporność, wytrzymałość na rozciąganie, kwasoodporność.",
+        "Najczęstsze dodatki stopowe: chrom, nikiel, mangan, molibden, wolfram; nazwa stali od składnika uszlachetniającego (np. wolframowa, chromowo-niklowa).",
+        "Stale stopowe: konstrukcyjne (mosty, części maszyn, resory), narzędziowe (narzędzia tnące przy dużych szybkościach skrawania, odporne do 600°C), specjalne (nierdzewna, żaroodporna, magnetyczna, antymagnetyczna).",
+        "Podczas ponownego przetopu surówki na stal można wprowadzić do niej także inne pierwiastki, np. magnez, krzem."
+      ],
+      "images": [
+        {
+          "src": "img/tr2/podzial-stali.jpg",
+          "caption": "Podział stali: niestopowa (konstrukcyjna, narzędziowa) i stopowa (konstrukcyjna, narzędziowa, specjalna)."
+        }
+      ]
+    },
+    {
+      "heading": "Metale nieżelazne i ich stopy",
+      "points": [
+        "Metale nieżelazne – czyste pierwiastki (np. miedź) lub stopy bez żelaza; nazywane metalami kolorowymi.",
+        "Aluminium (glin) – jeden z najlżejszych metali, srebrzystobiały; warstwa tlenku glinu chroni przed korozją atmosferyczną; wrażliwe na kwas solny, siarkowy i ługi.",
+        "Aluminium jest trzecim (po srebrze i miedzi) najlepszym przewodnikiem elektryczności; stopy z Cu, Zn, Mg, Si, Mn.",
+        "Miedź – pomarańczowo-czerwona; odporna na korozję, kuta i walcowana, doskonały przewodnik elektryczny i cieplny; nie nadaje się do odlewnictwa.",
+        "Z miedzi: przewody elektryczne, rury, uszczelki, zawory, wymienniki ciepła; dachy z blachy miedzianej pokrywają się zielonkawą patyną.",
+        "Cynk – srebrzysty, odporny na powietrze i wodę, nieodporny na kwasy i ługi; cynkuje się wyroby stalowe (śruby, blachy silosów, burty przyczep, ogrodzenia).",
+        "Cyna – srebrzystoszara, miękka; pokrywa wyroby żelazne przed korozją; składnik lutu.",
+        "Brąz – stop miedzi z cyną (6–20%); odporny na korozję i ścieranie (elementy gaźników, instalacje wodociągowe, łożyska ślizgowe).",
+        "Mosiądz – stop miedzi z cynkiem (30–40%); bardzo dobre właściwości odlewnicze, obróbka plastyczna (armatura wodociągowa, ozdoby, zamki).",
+        "Aluminium jest plastyczne, ale odkształcalne i mało wytrzymałe na czynniki mechaniczne; stopy z innymi metalami lepiej dostosowuje się do przeznaczenia.",
+        "Cyną pokrywa się blachy, rury, wiadra i części karoserii pojazdów; cynkiem także nakrętki, wkręty, bramy garażowe, wiadra, klucze.",
+        "Z miedzi wykonuje się także naczynia i elementy dekoracji (oprócz przewodów, rur instalacyjnych, uszczelek, zaworów, wymienników ciepła)."
+      ]
+    },
+    {
+      "heading": "Tworzywa sztuczne",
+      "points": [
+        "Tworzywa sztuczne nie występują naturalnie – są efektem produkcji przemysłowej.",
+        "Cechy: nietoksyczność, łatwość obróbki i utrzymania czystości, słaba przewodność cieplna, łatwość barwienia, nieprzewodzenie prądu, odporność na korozję.",
+        "Termoplastyczne – wielokrotnie kształtowane w podwyższonej temperaturze.",
+        "Termoutwardzalne – plastyczne w temperaturze otoczenia, po podgrzaniu nieodwracalnie zastygają.",
+        "Hydroutwardzalne – twardnieją pod wpływem pary wodnej z powietrza.",
+        "Koagulacyjne – zastygają pod wpływem utwardzacza (czynnika chemicznego).",
+        "Polistyren (PS) – odporny na alkohole, wodę, oleje i kwasy (poza stężonym azotowym), nieodporny na rozpuszczalniki organiczne; opakowania żywności, części motoryzacyjne.",
+        "PET (politereftalan) – nietoksyczny, odporny na niskie temperatury, łatwy do recyklingu; butelki, pojemniki.",
+        "Polietylen (PE) – odporny na niskie temperatury i chemikalia (poza stężonym siarkowym i azotowym), nienasiąkliwy, niepodatny na lakierowanie i klejenie; folie, opakowania, powłoki przewodów.",
+        "PCW (polichlorek winylu) – twardy, kruchy w niskich temperaturach, odporny chemicznie, dobrze się klei i spawa; instalacje sanitarne, zbiorniki.",
+        "Saran (polichlorek winylidenu) – odporny na oleje, tłuszcze, chemikalia i temperaturę od -20°C do +90°C; opakowania termokurczliwe, izolacje przewodów.",
+        "Aminoplasty (melamina) – odporne na wodę, wysoką temperaturę i światło; płyty laminowane, elementy instalacji.",
+        "Polistyren – nietoksyczny, także na wyroby elektrotechniczne; PE daje się łatwo farbować i topić; PCW – mało sprężysty w niskich temperaturach, łatwo formuje się na gorąco i barwi, także na elementy budowlane; saran – duża wytrzymałość mechaniczna."
+      ]
+    },
+    {
+      "heading": "Materiały naturalne",
+      "points": [
+        "Właściwości drewna: zwięzłość, gęstość, wilgotność, twardość, wytrzymałość, łupliwość.",
+        "Drewno bardzo miękkie: topola, świerk, jodła; miękkie: brzoza, olcha, lipa; średnio twarde: orzech, wiąz.",
+        "Drewno twarde: dąb czerwony, jesion, grusza; bardzo twarde: dąb, buk, grab, robinia akacjowa.",
+        "Zalety drewna: łatwa obróbka, estetyka, odporność na korozję, nieprzewodzenie prądu i ciepła; wady: silna absorpcja cieczy, trudność utrzymania czystości.",
+        "Szkło – materiał nieorganiczny: higieniczne, odporne na środki agresywne, nie przewodzi prądu i ciepła, przezroczyste.",
+        "Wyroby szklane: dmuchane (szklanki, butelki, żarówki) lub prasowane (szyby okienne, lustra).",
+        "Skóra (pochodzenia zwierzęcego): rękawice, fartuchy, uszczelki, uprzęże, pasy transmisyjne.",
+        "Tkaniny i włókna z roślin włóknistych (len, konopie siewne): sznury, worki, liny, pasy, płachty.",
+        "Drewno stosuje się do produkcji stolarki okiennej i drzwiowej, narzędzi rolniczych, elementów maszyn, konstrukcji budynków gospodarczych i inwentarskich, więźb dachowych.",
+        "Skóra zależnie od gatunku zwierzęcia ma różną miękkość i elastyczność.",
+        "Szkło łatwo daje się kształtować; technologią dmuchania wytwarza się też dzbanki."
+      ]
+    },
+    {
+      "heading": "Paliwa",
+      "points": [
+        "Paliwa uzyskuje się głównie z przetwarzania ropy naftowej.",
+        "Olej napędowy – do silników wysokoprężnych z zapłonem samoczynnym; miarą zdolności do samozapłonu jest liczba cetanowa (LC), na rynku 40–50.",
+        "Olej napędowy: niepożądana zawartość siarki; temperatura krzepnięcia – olej letni DL 0°C, zimowy DZ do -30°C.",
+        "Benzyna – do silników niskoprężnych z zapłonem iskrowym; liczba oktanowa (LO) określa odporność na spalanie detonacyjne.",
+        "Stosowane benzyny: 98 bezołowiowa i uniwersalna U 95 bezołowiowa.",
+        "LPG – ciekła mieszanina propan–butan; o ok. 80% mniej składników toksycznych w spalinach, brak dymienia silnika.",
+        "Oleje roślinne (z rzepaku, słonecznika) – do silników z zapłonem samoczynnym; podobna sprawność, zużycie paliwa wyższe o ok. 10%, emisja spalin mniejsza o ok. 50%, mniej CO, CH, NO.",
+        "Wady olejów roślinnych: trudne mieszanie z powietrzem w komorze spalania, osady, trudności z rozruchem.",
+        "Benzyna: spalanie detonacyjne = niekontrolowany zapłon. Oleje roślinne zmniejszają emisję tlenku węgla CO, węglowodorów CH i tlenku azotu NO."
+      ]
+    },
+    {
+      "heading": "Oleje silnikowe – funkcje i klasyfikacja API",
+      "points": [
+        "Oleje silnikowe to oleje mineralne z rafinacji ropy, z dodatkami uszlachetniającymi.",
+        "Dobór oleju zależy od rodzaju zasilania, budowy, wieku i rozwiązań technicznych silnika.",
+        "Funkcje oleju: zmniejsza tarcie i zużycie, chroni przed korozją, utrzymuje czystość, odprowadza ciepło, doszczelnia komorę spalania.",
+        "API – Amerykański Instytut Naftowy: klasyfikacja jakościowa na trzy grupy.",
+        "Symbol „S” – silniki z zapłonem iskrowym (SA…SL); najwyższa jakość SJ i SL.",
+        "Symbol „C” – silniki wysokoprężne (CA…CL); kategorie CF i CL – do najbardziej wysilonych mechanicznie i cieplnie silników.",
+        "Oleje uniwersalne – do obu typów silników; podwójne symbole łamane, np. CF/SJ, API SG/CD.",
+        "Kategorie API „S”: SA, SB, SC, SD, SE, SF, SG, SH, SJ, SL (SJ i SL – do najnowocześniejszych i najbardziej obciążonych silników).",
+        "Kategorie API „C”: CA, CB, CC, CD, CDII, CE, CF, CF-4, CL. Przykłady oznaczeń olejów uniwersalnych: CF/SJ, API SG/CD, API SH/CD.",
+        "Współczesne oleje silnikowe zawierają dodatki uszlachetniające przedłużające trwałość i polepszające właściwości."
+      ]
+    },
+    {
+      "heading": "Klasyfikacja lepkościowa SAE",
+      "points": [
+        "SAE – Amerykańskie Stowarzyszenie Inżynierów Samochodowych.",
+        "Oleje zimowe: 0W, 5W, 10W, 15W, 20W, 25W (W – Winter); najniższa lepkość SAE 0W, najwyższa 25W; niska temperatura krzepnięcia.",
+        "Oleje letnie: 20, 30, 40, 50, 60 (bez litery); najniższa lepkość SAE 20, najwyższa SAE 60.",
+        "Oleje wielosezonowe, np. 15W/40 – na zimno jak SAE 15W, po rozgrzaniu jak SAE 40.",
+        "Pierwszy człon niższy niż 15W (10W, 5W, 0W) – do ostrej zimy: łatwiejszy rozruch i szybszy dopływ oleju do punktów smarowania.",
+        "Oleje energooszczędne (EC) – mniejsza lepkość to mniejsze opory wewnętrzne; oszczędność paliwa rzędu kilku procent.",
+        "Opory wewnętrzne silnika zależą bezpośrednio od lepkości oleju – silniki smarowane olejem o większej lepkości zużywają nieco więcej paliwa."
+      ]
+    },
+    {
+      "heading": "Oleje przekładniowe i smary plastyczne",
+      "points": [
+        "Przekładnie zębate pracują pod zmiennym obciążeniem, przy dużych naciskach i prędkościach – olej jest wyciskany, mogą występować momenty tarcia suchego.",
+        "Przekładnie ciągników smaruje się metodą zanurzeniową – dolne koła częściowo zanurzone w oleju rozprowadzają go na pozostałe.",
+        "Olej przekładniowy w ciągniku pracuje też w podnośniku hydraulicznym – powinien mieć mniejszą lepkość i odporność na pienienie.",
+        "Smary – zagęszczone oleje mineralne o konsystencji półpłynnej lub stałej; do miejsc trudnodostępnych lub gdzie olej jest wykluczony.",
+        "Konsystencja zależy od zawartości zagęszczacza: smary twarde, plastyczne, ciekłe; plastyczne zachowują nadany kształt, przylegają do powierzchni pionowych i pracują w wodzie.",
+        "Smary maszynowe – łożyska pracujące w temperaturze od -10°C do 50°C.",
+        "Smar grafitowy – do 10% grafitu; mechanizmy wolnoobrotowe i silnie obciążone (np. łańcuch roztrząsacza obornika).",
+        "Smary do łożysk tocznych – na bazie mydeł wapniowych, sodowych i litowych; odporne na wodę.",
+        "Smary przekładniowe – do wolnobieżnych przekładni zębatych (zagęszczacz: węglowodory, żywice, mydło).",
+        "Smary podwoziowe – olej mineralny z wapniem; miękkie, podawane smarownicą.",
+        "Olej jest wyciskany z powierzchni między zębami, a przy dużych prędkościach także siłą odśrodkową – stąd możliwe momenty tarcia suchego.",
+        "Smary maszynowe chronią powierzchnie łożysk przed szybszym zużyciem."
+      ]
+    },
+    {
+      "heading": "2. Pompy",
+      "points": [
+        "Pompy – maszyny robocze do transportu cieczy (woda, oleje, paliwa, nawozy płynne) i wytwarzania ciśnienia; w rolnictwie najczęściej wyporowe i wirowe.",
+        "Pompy wyporowe – wykorzystują zmianę objętości komory: wzrost objętości (podciśnienie) otwiera zawór ssący, zmniejszenie (ciśnienie) – zawór tłoczący.",
+        "Tłokowe: ssąca jednostronnego działania (jeden ruch roboczy, drugi jałowy), ssąco-tłocząca jednostronnego działania, ssąco-tłocząca dwustronnego działania (największa wydajność).",
+        "Nurnikowe – tłok (nurnik) wysuwa się z komory (zassanie) i zanurza (tłoczenie).",
+        "Skrzydełkowe – mała wydajność i wysokość tłoczenia, zwykle napędzane ręcznie.",
+        "Przeponowe – przepona zmienia objętość komory; jedno- i dwustronnego działania.",
+        "Rotacyjne – co najmniej jeden element obrotowy, nie wymagają zaworów zwrotnych; rodzaje: łopatkowe, zębate, przewodowe, wielotłoczkowe.",
+        "Ślimakowe – rotor w postaci ślimaka wirujący w elastycznym nieruchomym statorze.",
+        "Pompy wirowe – zwiększają energię cieczy siłą odśrodkową; przed uruchomieniem trzeba napełnić przewód ssawny i kadłub cieczą (nie zasysają same) – nie dotyczy pomp krążeniowych i z wirującym pierścieniem wodnym.",
+        "Pompy pozwalają uzyskać ciśnienie cieczy, dzięki któremu można ją podnieść na wyższy poziom lub wykonywać nią określone zadania w układzie hydraulicznym.",
+        "Pompy wirowe zwiększają energię cieczy dzięki sile odśrodkowej lub zwiększeniu przepływu cieczy."
+      ]
+    },
+    {
+      "heading": "Hydrauliczne układy napędowe",
+      "points": [
+        "Zalety napędów hydraulicznych: proste przeniesienie napędu, zabezpieczenie przed przeciążeniem, duże siły, płynna bezstopniowa regulacja prędkości, małe wymiary, prosta obsługa.",
+        "Czynnik przenoszący energię – ciecz, najczęściej olej mineralny.",
+        "Napęd hydrokinetyczny – energia kinetyczna przepływu cieczy zamieniana na mechaniczną (sprzęgła, przekładnie).",
+        "Napęd hydrostatyczny – energia ciśnienia cieczy zamieniana na mechaniczną (układy kierownicze, hamulcowe, podnoszenia, sterowania w kombajnach).",
+        "Maszyny z instalacją hydrauliczną podłącza się do zewnętrznego złącza (np. ciągnika); kombajny samojezdne mają własne napędy.",
+        "Silniki hydrauliczne – zasilane cieczą pod ciśnieniem, oddają moment obrotowy; siłowniki – zamieniają ciśnienie na ruch postępowy tłoka.",
+        "Zawory bezpieczeństwa – chronią układ przed uszkodzeniem, muszą być w każdym układzie.",
+        "Zawory przelewowe – odprowadzają nadmiar cieczy do zbiornika; redukcyjne – utrzymują stałe ciśnienie robocze za zaworem.",
+        "Rozdzielacze – sterują przepływem do odbiorników; akumulatory hydrauliczne – gromadzą energię, uzupełniają niedobory i łagodzą pulsacje ciśnienia.",
+        "Elementy wykonawcze układu hydraulicznego: silniki hydrauliczne, pompy hydrauliczne, siłowniki, zawory sterujące ciśnieniem (bezpieczeństwa, przelewowe, redukcyjne), zawory sterujące natężeniem lub kierunkiem przepływu, rozdzielacze, akumulatory hydrauliczne.",
+        "Niektóre maszyny potrzebują tylko napędu mechanicznego; kombajny samojezdne mają własne napędy mechaniczne i hydrauliczne."
+      ]
+    },
+    {
+      "heading": "Pneumatyczne układy napędowe",
+      "points": [
+        "Czynnik roboczy – powietrze; układy służą głównie do sterowania i prac niewymagających dużych sił.",
+        "Zalety: małe wymiary, zabezpieczenie przed przeciążeniami, niewrażliwość na temperaturę, możliwość centralnego zasilania, łatwe przeniesienie napędu, prosta obsługa.",
+        "Najważniejszy element – sprężarka (wprawia powietrze w ruch i zmienia jego ciśnienie).",
+        "Wentylatory – ciśnienie tłoczenia do 13 kPa; promieniowe i osiowe.",
+        "Dmuchawy – 13–200 kPa; podobne do wentylatorów, wyższe ciśnienie dzięki większym obrotom wirnika.",
+        "Sprężarki – powyżej 200 kPa; wzrost ciśnienia podnosi temperaturę – konieczne chłodzenie (najczęściej bierne powietrzem); wyporowe (objętościowe) i rotacyjne.",
+        "Ssawy – dmuchawy wytwarzające podciśnienie przez wysysanie powietrza (np. dmuchawa ssąco-tłocząca do materiałów sypkich).",
+        "Pompy próżniowe – sprężarki rotacyjne usuwające powietrze dla wytworzenia podciśnienia, np. wóz asenizacyjny, dojarka konwiowa.",
+        "Wentylatory dzieli się wg przepływu gazów na promieniowe i osiowe.",
+        "Pompy próżniowe umieszcza się na końcach układów. Wóz asenizacyjny: podciśnienie w zbiorniku zasysa ciecz, a do jej usunięcia tłoczy się powietrze do zbiornika (wyższe ciśnienie). Dojarka konwiowa wymaga podciśnienia w układzie."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Cztery kryteria podziału materiałów",
+      "back": "Właściwości chemiczne, sposób otrzymywania, stopień przetworzenia, zastosowanie."
+    },
+    {
+      "front": "Dwie zasadnicze grupy maszyn",
+      "back": "Silniki i maszyny robocze."
+    },
+    {
+      "front": "Silnik – definicja",
+      "back": "Maszyna przetwarzająca dostarczoną energię na energię mechaniczną do napędu innych maszyn."
+    },
+    {
+      "front": "Rodzaje maszyn roboczych",
+      "back": "Produkcyjne, transportowe, energetyczne."
+    },
+    {
+      "front": "Maszyny energetyczne – przykłady",
+      "back": "Sprężarki, prądnice elektryczne (zamieniają energię mechaniczną na inną)."
+    },
+    {
+      "front": "Metale żelazne vs nieżelazne",
+      "back": "Żelazne zawierają żelazo, nieżelazne nie zawierają żelaza."
+    },
+    {
+      "front": "Zawartość żelaza w magnetycie",
+      "back": "60–70%."
+    },
+    {
+      "front": "Zawartość żelaza w hematycie",
+      "back": "50–65%."
+    },
+    {
+      "front": "Zawartość żelaza w limonicie",
+      "back": "25–50%."
+    },
+    {
+      "front": "Zawartość żelaza w syderycie",
+      "back": "25–42%."
+    },
+    {
+      "front": "Ile węgla zawiera surówka?",
+      "back": "Ok. 6% – jest krucha, nie jest materiałem konstrukcyjnym."
+    },
+    {
+      "front": "W jakich piecach otrzymuje się żeliwo?",
+      "back": "W żeliwiakach (przetapianie surówki ze złomem i topnikiem)."
+    },
+    {
+      "front": "Najczęściej stosowany topnik i co tworzy",
+      "back": "Kamień wapienny; z zanieczyszczeniami tworzy szlakę."
+    },
+    {
+      "front": "Zawartość węgla w żeliwie",
+      "back": "2–4,5%."
+    },
+    {
+      "front": "Zalety żeliwa",
+      "back": "Odporność na ściskanie i ścieranie, tłumienie drgań, umiarkowana odporność na korozję, dobre właściwości odlewnicze."
+    },
+    {
+      "front": "Na co żeliwo jest nieodporne?",
+      "back": "Na rozciąganie, zginanie i uderzenia."
+    },
+    {
+      "front": "Typowe części z żeliwa",
+      "back": "Korpusy silników, skrzynie przekładniowe, koła pasowe i zębate."
+    },
+    {
+      "front": "Maksymalna zawartość węgla w stali",
+      "back": "2%."
+    },
+    {
+      "front": "Zawartość węgla w stali niestopowej",
+      "back": "Do 1,75%."
+    },
+    {
+      "front": "Zawartość węgla w stali niestopowej narzędziowej",
+      "back": "0,45–1,75%."
+    },
+    {
+      "front": "Najczęstsze składniki stopowe stali",
+      "back": "Chrom, nikiel, mangan, molibden, wolfram."
+    },
+    {
+      "front": "Do jakiej temperatury odporne są stale stopowe narzędziowe?",
+      "back": "Do 600°C."
+    },
+    {
+      "front": "Stale stopowe specjalne – przykłady",
+      "back": "Nierdzewna, żaroodporna, magnetyczna, antymagnetyczna."
+    },
+    {
+      "front": "Co chroni aluminium przed korozją atmosferyczną?",
+      "back": "Cienka warstwa tlenku glinu na powierzchni."
+    },
+    {
+      "front": "Najlepsze przewodniki elektryczności według tekstu",
+      "back": "Srebro, miedź, potem aluminium."
+    },
+    {
+      "front": "Czego nie można robić z miedzią?",
+      "back": "Stosować jej w odlewnictwie."
+    },
+    {
+      "front": "Do czego służy cynkowanie?",
+      "back": "Do zabezpieczenia wyrobów stalowych przed korozją."
+    },
+    {
+      "front": "Na co cynk jest nieodporny?",
+      "back": "Na kwasy i ługi."
+    },
+    {
+      "front": "Cyna – zastosowanie",
+      "back": "Powłoki antykorozyjne na wyrobach żelaznych, składnik lutu."
+    },
+    {
+      "front": "Brąz – skład",
+      "back": "Stop miedzi z cyną (6–20%)."
+    },
+    {
+      "front": "Mosiądz – skład",
+      "back": "Stop miedzi z cynkiem (30–40%)."
+    },
+    {
+      "front": "Z czego wykonuje się łożyska ślizgowe (wg modułu)?",
+      "back": "Z brązu."
+    },
+    {
+      "front": "Tworzywa termoplastyczne",
+      "back": "Dają się wielokrotnie kształtować w podwyższonej temperaturze."
+    },
+    {
+      "front": "Tworzywa termoutwardzalne",
+      "back": "Plastyczne w temperaturze otoczenia, po podgrzaniu nieodwracalnie zastygają."
+    },
+    {
+      "front": "Tworzywa hydroutwardzalne",
+      "back": "Twardnieją pod wpływem pary wodnej z powietrza."
+    },
+    {
+      "front": "Tworzywa koagulacyjne",
+      "back": "Zastygają pod wpływem utwardzacza (czynnika chemicznego)."
+    },
+    {
+      "front": "Na co nieodporny jest polistyren (PS)?",
+      "back": "Na rozpuszczalniki organiczne i stężony kwas azotowy."
+    },
+    {
+      "front": "PET – zastosowanie",
+      "back": "Butelki, pojemniki; łatwy recykling."
+    },
+    {
+      "front": "Polietylen (PE) – zastosowanie",
+      "back": "Opakowania żywności, folie, galanteria, powłoki przewodów."
+    },
+    {
+      "front": "PCW – właściwości",
+      "back": "Twardy, kruchy w niskich temperaturach, odporny chemicznie, dobrze się klei i spawa."
+    },
+    {
+      "front": "Zakres temperatur odporności saranu",
+      "back": "Od -20°C do +90°C."
+    },
+    {
+      "front": "Drewno bardzo miękkie – gatunki",
+      "back": "Topola, świerk, jodła."
+    },
+    {
+      "front": "Drewno bardzo twarde – gatunki",
+      "back": "Dąb, buk, grab, robinia akacjowa."
+    },
+    {
+      "front": "Wady drewna",
+      "back": "Silna absorpcja cieczy, trudność utrzymania czystości."
+    },
+    {
+      "front": "Liczba cetanowa (LC)",
+      "back": "Miara zdolności oleju napędowego do szybkiego samozapłonu; na rynku 40–50."
+    },
+    {
+      "front": "Temperatura krzepnięcia oleju napędowego letniego (DL) i zimowego (DZ)",
+      "back": "DL – 0°C; DZ – do -30°C."
+    },
+    {
+      "front": "Liczba oktanowa (LO)",
+      "back": "Określa odporność benzyny na spalanie detonacyjne."
+    },
+    {
+      "front": "LPG – co to jest?",
+      "back": "Ciekła mieszanina propan–butan."
+    },
+    {
+      "front": "O ile LPG zmniejsza składniki toksyczne w spalinach?",
+      "back": "O ok. 80%."
+    },
+    {
+      "front": "Oleje roślinne jako paliwo – zużycie i emisja",
+      "back": "Zużycie wyższe o ok. 10%, emisja spalin mniejsza o ok. 50%."
+    },
+    {
+      "front": "Wady olejów roślinnych jako paliwa",
+      "back": "Trudne mieszanie z powietrzem, osady, trudności z rozruchem."
+    },
+    {
+      "front": "Funkcje oleju silnikowego",
+      "back": "Zmniejsza tarcie i zużycie, chroni przed korozją, utrzymuje czystość, odprowadza ciepło, doszczelnia komorę spalania."
+    },
+    {
+      "front": "API – co oznacza?",
+      "back": "Amerykański Instytut Naftowy – klasyfikacja jakościowa olejów."
+    },
+    {
+      "front": "Litera „S” w klasyfikacji API",
+      "back": "Oleje do silników z zapłonem iskrowym."
+    },
+    {
+      "front": "Litera „C” w klasyfikacji API",
+      "back": "Oleje do silników wysokoprężnych."
+    },
+    {
+      "front": "Najwyższe kategorie jakości olejów „S”",
+      "back": "SJ i SL."
+    },
+    {
+      "front": "Jak oznacza się olej uniwersalny wg API?",
+      "back": "Podwójnym symbolem łamanym, np. CF/SJ."
+    },
+    {
+      "front": "SAE – co oznacza?",
+      "back": "Amerykańskie Stowarzyszenie Inżynierów Samochodowych – klasyfikacja lepkościowa."
+    },
+    {
+      "front": "Co oznacza litera W w oznaczeniu SAE?",
+      "back": "Winter – olej zimowy."
+    },
+    {
+      "front": "Który olej zimowy ma najniższą lepkość?",
+      "back": "SAE 0W."
+    },
+    {
+      "front": "Który olej letni ma najwyższą lepkość?",
+      "back": "SAE 60."
+    },
+    {
+      "front": "Co oznacza olej 15W/40?",
+      "back": "Na zimno zachowuje się jak SAE 15W, po rozgrzaniu jak SAE 40."
+    },
+    {
+      "front": "Oleje do ostrej zimy",
+      "back": "Z pierwszym członem niższym niż 15W (10W, 5W, 0W)."
+    },
+    {
+      "front": "Oleje energooszczędne (EC)",
+      "back": "Mniejsza lepkość – mniejsze opory wewnętrzne; oszczędność paliwa rzędu kilku procent."
+    },
+    {
+      "front": "Metoda smarowania przekładni w ciągnikach",
+      "back": "Zanurzeniowa – dolne koła zanurzone w oleju rozprowadzają go."
+    },
+    {
+      "front": "Jakie cechy powinien mieć olej przekładniowy w ciągniku z podnośnikiem hydraulicznym?",
+      "back": "Mniejszą lepkość i odporność na pienienie."
+    },
+    {
+      "front": "Smary plastyczne – definicja",
+      "back": "Zagęszczone oleje mineralne o konsystencji półpłynnej lub stałej, zachowujące nadany kształt."
+    },
+    {
+      "front": "Zakres temperatur pracy smarów maszynowych",
+      "back": "Od -10°C do 50°C."
+    },
+    {
+      "front": "Smar grafitowy – zawartość grafitu i zastosowanie",
+      "back": "Do 10%; mechanizmy wolnoobrotowe, silnie obciążone (np. łańcuch roztrząsacza obornika)."
+    },
+    {
+      "front": "Na bazie czego produkuje się smary do łożysk tocznych?",
+      "back": "Mydeł wapniowych, sodowych i litowych."
+    },
+    {
+      "front": "Smar podwoziowy",
+      "back": "Olej mineralny z dodatkiem wapnia; miękki, podawany smarownicą."
+    },
+    {
+      "front": "Najbardziej rozpowszechnione pompy w rolnictwie",
+      "back": "Wyporowe i wirowe."
+    },
+    {
+      "front": "Zasada pompy wyporowej",
+      "back": "Zmiana objętości komory tłoczącej (podciśnienie – zassanie, ciśnienie – tłoczenie)."
+    },
+    {
+      "front": "Która pompa tłokowa ma największą wydajność?",
+      "back": "Ssąco-tłocząca dwustronnego działania."
+    },
+    {
+      "front": "Pompa skrzydełkowa",
+      "back": "Mała wydajność i wysokość tłoczenia, zwykle napędzana ręcznie."
+    },
+    {
+      "front": "Rodzaje pomp rotacyjnych",
+      "back": "Łopatkowe, zębate, przewodowe, wielotłoczkowe."
+    },
+    {
+      "front": "Pompa ślimakowa",
+      "back": "Rotor-ślimak wirujący w elastycznym nieruchomym statorze."
+    },
+    {
+      "front": "Co trzeba zrobić przed uruchomieniem pompy wirowej?",
+      "back": "Napełnić przewód ssawny i kadłub cieczą (pompa sama nie zasysa)."
+    },
+    {
+      "front": "Napęd hydrokinetyczny",
+      "back": "Energia kinetyczna przepływu cieczy zamieniana na mechaniczną (sprzęgła, przekładnie)."
+    },
+    {
+      "front": "Napęd hydrostatyczny",
+      "back": "Energia ciśnienia cieczy zamieniana na mechaniczną (układy kierownicze, hamulcowe, podnoszenia)."
+    },
+    {
+      "front": "Siłownik hydrauliczny",
+      "back": "Zamienia energię ciśnienia na ruch postępowy tłoka."
+    },
+    {
+      "front": "Zawór bezpieczeństwa",
+      "back": "Chroni układ hydrauliczny przed uszkodzeniem; musi być w każdym układzie."
+    },
+    {
+      "front": "Zawór przelewowy",
+      "back": "Odprowadza nadmiar cieczy do zbiornika."
+    },
+    {
+      "front": "Zawór redukcyjny",
+      "back": "Utrzymuje stałe ciśnienie robocze za zaworem."
+    },
+    {
+      "front": "Akumulator hydrauliczny",
+      "back": "Gromadzi energię cieczy, uzupełnia niedobory, łagodzi pulsacje ciśnienia."
+    },
+    {
+      "front": "Najważniejszy element układu pneumatycznego",
+      "back": "Sprężarka."
+    },
+    {
+      "front": "Ciśnienie tłoczenia wentylatorów",
+      "back": "Do 13 kPa."
+    },
+    {
+      "front": "Ciśnienie tłoczenia dmuchaw",
+      "back": "13–200 kPa."
+    },
+    {
+      "front": "Ciśnienie tłoczenia sprężarek",
+      "back": "Powyżej 200 kPa."
+    },
+    {
+      "front": "Pompa próżniowa – przykłady zastosowania",
+      "back": "Wóz asenizacyjny, dojarka konwiowa."
+    },
+    {
+      "front": "Jakie zanieczyszczenia usuwa się z surówki podczas przetapiania w żeliwiakach?",
+      "back": "Kwarc, piasek i glinę (topnik tworzy z nimi topliwe grudy – szlakę)."
+    },
+    {
+      "front": "Jakie pierwiastki można wprowadzić do surówki podczas przetopu na stal (przykłady)?",
+      "back": "Np. magnez i krzem."
+    },
+    {
+      "front": "Wymień rudy żelaza z ilustracji i podaj, ile zawierają żelaza.",
+      "back": "Magnetyt 60–70% Fe, hematyt 50–65% Fe, limonit 25–50% Fe (oraz syderyt 25–42% Fe).",
+      "img": "img/tr2/rudy-zelaza-fe.jpg"
+    },
+    {
+      "front": "Jakie etapy prowadzą od rudy żelaza do żeliwa?",
+      "back": "Ruda żelaza → wytapianie → surówka → przetapianie (w żeliwiaku) → oczyszczanie z zanieczyszczeń → żeliwo.",
+      "img": "img/tr2/od-rudy-do-zeliwa-schemat.jpg"
+    },
+    {
+      "front": "Wymień elementy wykonawcze układu hydraulicznego.",
+      "back": "Silniki hydrauliczne, pompy hydrauliczne, siłowniki, zawory sterujące ciśnieniem (bezpieczeństwa, przelewowe, redukcyjne), zawory sterujące natężeniem lub kierunkiem przepływu, rozdzielacze, akumulatory hydrauliczne."
+    },
+    {
+      "front": "Jakie kategorie obejmuje grupa „C” olejów wg API?",
+      "back": "CA, CB, CC, CD, CDII, CE, CF, CF-4, CL (CF i CL – do najbardziej wysilonych mechanicznie i cieplnie silników wysokoprężnych)."
+    },
+    {
+      "front": "Jakie kategorie obejmuje grupa „S” olejów wg API?",
+      "back": "SA, SB, SC, SD, SE, SF, SG, SH, SJ, SL (najwyższa jakość: SJ i SL)."
+    },
+    {
+      "front": "Jak działa wóz asenizacyjny z pompą próżniową?",
+      "back": "Pompa wytwarza podciśnienie w zbiorniku – ciecz jest zasysana; aby ją usunąć, tłoczy się powietrze do zbiornika, wytwarzając wyższe ciśnienie."
+    },
+    {
+      "front": "Jak dzieli się wentylatory wg przepływu gazów?",
+      "back": "Na promieniowe i osiowe."
+    },
+    {
+      "front": "Do czego wykorzystuje się drewno w rolnictwie?",
+      "back": "Stolarka okienna i drzwiowa, narzędzia rolnicze, elementy maszyn, konstrukcje budynków gospodarczych i inwentarskich, więźby dachowe."
+    },
+    {
+      "front": "Dlaczego w przekładniach zębatych mogą wystąpić momenty tarcia suchego?",
+      "back": "Olej jest wyciskany z powierzchni między zębami (duże naciski), a przy dużych prędkościach także przez siłę odśrodkową."
+    },
+    {
+      "front": "Wspólne cechy mechaniczne metali i ich stopów",
+      "back": "Plastyczność, ciągliwość, skrawalność."
+    },
+    {
+      "front": "Podział drewna wg twardości (klasy pośrednie)",
+      "back": "Miękkie – brzoza, olcha, lipa; średnio twarde – orzech, wiąz; twarde – dąb czerwony, jesion, grusza (bardzo miękkie: topola, świerk, jodła; bardzo twarde: dąb, buk, grab, robinia)."
+    },
+    {
+      "front": "Podział smarów wg konsystencji (zawartości zagęszczacza)",
+      "back": "Twarde, plastyczne, ciekłe."
+    },
+    {
+      "front": "Rodzaje smarów plastycznych wg zastosowania",
+      "back": "Maszynowe (w tym grafitowy), do łożysk tocznych, przekładniowe, podwoziowe."
+    },
+    {
+      "front": "Zalety napędów hydraulicznych",
+      "back": "Proste przeniesienie napędu, zabezpieczenie przed przeciążeniem, duże siły, płynna bezstopniowa regulacja prędkości, małe wymiary, prosta obsługa."
+    },
+    {
+      "front": "Zalety pneumatycznych układów napędowych",
+      "back": "Małe wymiary, zabezpieczenie przed przeciążeniami, niewrażliwość na temperaturę, możliwość centralnego zasilania, łatwe przeniesienie napędu, prosta obsługa."
+    },
+    {
+      "front": "Rodzaje pomp wyporowych",
+      "back": "Tłokowe, nurnikowe, skrzydełkowe, przeponowe, rotacyjne (łopatkowe, zębate, przewodowe, wielotłoczkowe) i ślimakowe."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ruda żelaza o najwyższej zawartości żelaza (60–70%) to:",
+      "options": [
+        "magnetyt",
+        "hematyt",
+        "limonit",
+        "syderyt"
+      ],
+      "answer": 0,
+      "explain": "Magnetyt zawiera 60–70% żelaza."
+    },
+    {
+      "q": "Surówka zawiera ok.:",
+      "options": [
+        "0,5% węgla",
+        "2% węgla",
+        "12% węgla",
+        "6% węgla"
+      ],
+      "answer": 3,
+      "explain": "Surówka zawiera ok. 6% węgla, przez co jest krucha."
+    },
+    {
+      "q": "Zawartość węgla w żeliwie wynosi:",
+      "options": [
+        "0,1–0,5%",
+        "do 2%",
+        "2–4,5%",
+        "6–8%"
+      ],
+      "answer": 2,
+      "explain": "Żeliwo to stop żelaza z węglem o zawartości 2–4,5% węgla."
+    },
+    {
+      "q": "Najczęściej stosowanym topnikiem przy produkcji żeliwa jest:",
+      "options": [
+        "piasek kwarcowy",
+        "kamień wapienny",
+        "glina",
+        "koks"
+      ],
+      "answer": 1,
+      "explain": "Najczęstszym topnikiem jest kamień wapienny, który tworzy z zanieczyszczeniami szlakę."
+    },
+    {
+      "q": "Żeliwo jest nieodporne na:",
+      "options": [
+        "ściskanie i ścieranie",
+        "rozciąganie, zginanie i uderzenia",
+        "tłumienie drgań",
+        "korozję umiarkowaną"
+      ],
+      "answer": 1,
+      "explain": "Żeliwo jest nieodporne na rozciąganie, zginanie i uderzenia."
+    },
+    {
+      "q": "Stal to stop żelaza z węglem, w którym zawartość węgla nie przekracza:",
+      "options": [
+        "2%",
+        "0,5%",
+        "4,5%",
+        "6%"
+      ],
+      "answer": 0,
+      "explain": "W stali zawartość węgla nie przekracza 2%."
+    },
+    {
+      "q": "Stale stopowe narzędziowe są odporne na temperatury do:",
+      "options": [
+        "100°C",
+        "250°C",
+        "1200°C",
+        "600°C"
+      ],
+      "answer": 3,
+      "explain": "Stale stopowe narzędziowe są odporne na wysokie temperatury do 600°C."
+    },
+    {
+      "q": "Brąz jest stopem:",
+      "options": [
+        "miedzi z cynkiem",
+        "aluminium z magnezem",
+        "miedzi z cyną",
+        "żelaza z chromem"
+      ],
+      "answer": 2,
+      "explain": "Brąz to stop miedzi z cyną (6–20%)."
+    },
+    {
+      "q": "Mosiądz jest stopem miedzi z cynkiem w ilości:",
+      "options": [
+        "6–20%",
+        "2–4,5%",
+        "30–40%",
+        "50–65%"
+      ],
+      "answer": 2,
+      "explain": "Mosiądz to stop miedzi z cynkiem (30–40%)."
+    },
+    {
+      "q": "Metal, którego nie można stosować w odlewnictwie, to:",
+      "options": [
+        "żeliwo",
+        "miedź",
+        "mosiądz",
+        "aluminium"
+      ],
+      "answer": 1,
+      "explain": "Miedzi nie można stosować w odlewnictwie."
+    },
+    {
+      "q": "Wyroby stalowe zabezpiecza się przed korozją cienką warstwą:",
+      "options": [
+        "cynku",
+        "miedzi",
+        "ołowiu",
+        "grafitu"
+      ],
+      "answer": 0,
+      "explain": "Cienką warstwą cynku pokrywa się wyroby stalowe dla ochrony przed korozją."
+    },
+    {
+      "q": "Tworzywa, które dają się wielokrotnie kształtować w podwyższonej temperaturze, to tworzywa:",
+      "options": [
+        "termoutwardzalne",
+        "hydroutwardzalne",
+        "koagulacyjne",
+        "termoplastyczne"
+      ],
+      "answer": 3,
+      "explain": "Termoplasty można wielokrotnie kształtować w podwyższonej temperaturze."
+    },
+    {
+      "q": "Tworzywa zastygające pod wpływem utwardzacza to tworzywa:",
+      "options": [
+        "termoplastyczne",
+        "hydroutwardzalne",
+        "termoutwardzalne",
+        "koagulacyjne"
+      ],
+      "answer": 3,
+      "explain": "Tworzywa koagulacyjne zastygają pod wpływem czynnika chemicznego – utwardzacza."
+    },
+    {
+      "q": "Saran (polichlorek winylidenu) jest odporny na temperaturę w zakresie:",
+      "options": [
+        "od -50°C do +20°C",
+        "od 0°C do +200°C",
+        "od -20°C do +90°C",
+        "od -10°C do +50°C"
+      ],
+      "answer": 2,
+      "explain": "Saran jest odporny na temperaturę od -20°C do +90°C."
+    },
+    {
+      "q": "Do drewna bardzo twardego należy:",
+      "options": [
+        "topola",
+        "grab",
+        "lipa",
+        "świerk"
+      ],
+      "answer": 1,
+      "explain": "Drewno bardzo twarde to dąb, buk, grab, robinia akacjowa."
+    },
+    {
+      "q": "Do drewna bardzo miękkiego należy:",
+      "options": [
+        "jodła",
+        "buk",
+        "jesion",
+        "grusza"
+      ],
+      "answer": 0,
+      "explain": "Drewno bardzo miękkie to topola, świerk, jodła."
+    },
+    {
+      "q": "Miarą zdolności oleju napędowego do samozapłonu jest:",
+      "options": [
+        "liczba cetanowa",
+        "liczba oktanowa",
+        "lepkość SAE",
+        "klasa API"
+      ],
+      "answer": 0,
+      "explain": "Zdolność do samozapłonu określa liczba cetanowa (LC)."
+    },
+    {
+      "q": "Liczba cetanowa olejów napędowych oferowanych na rynku wynosi:",
+      "options": [
+        "10–20",
+        "80–90",
+        "95–98",
+        "40–50"
+      ],
+      "answer": 3,
+      "explain": "Liczba cetanowa paliw na rynku wynosi 40–50."
+    },
+    {
+      "q": "Temperatura krzepnięcia zimowego oleju napędowego DZ wynosi do:",
+      "options": [
+        "0°C",
+        "-10°C",
+        "-30°C",
+        "-50°C"
+      ],
+      "answer": 2,
+      "explain": "Dla oleju zimowego DZ temperatura krzepnięcia wynosi do -30°C."
+    },
+    {
+      "q": "Liczba oktanowa benzyny określa:",
+      "options": [
+        "zdolność do samozapłonu",
+        "odporność na spalanie detonacyjne",
+        "temperaturę krzepnięcia",
+        "zawartość siarki"
+      ],
+      "answer": 1,
+      "explain": "Liczba oktanowa określa odporność na spalanie detonacyjne."
+    },
+    {
+      "q": "Zastosowanie LPG zmniejsza ilość składników toksycznych w spalinach o ok.:",
+      "options": [
+        "10%",
+        "80%",
+        "30%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "LPG zmniejsza o ok. 80% składniki toksyczne w spalinach."
+    },
+    {
+      "q": "Oleje roślinne jako paliwo powodują wzrost zużycia paliwa o ok.:",
+      "options": [
+        "10%",
+        "2%",
+        "30%",
+        "50%"
+      ],
+      "answer": 0,
+      "explain": "Oleje roślinne powodują wzrost zużycia paliw o ok. 10%."
+    },
+    {
+      "q": "Litera „S” w klasyfikacji API oznacza oleje do silników:",
+      "options": [
+        "wysokoprężnych",
+        "dwusuwowych",
+        "uniwersalnych",
+        "z zapłonem iskrowym"
+      ],
+      "answer": 3,
+      "explain": "Symbol S oznacza oleje do silników z zapłonem iskrowym."
+    },
+    {
+      "q": "Olej oznaczony CF/SJ to olej:",
+      "options": [
+        "wyłącznie do silników iskrowych",
+        "wyłącznie do silników wysokoprężnych",
+        "uniwersalny",
+        "przekładniowy"
+      ],
+      "answer": 2,
+      "explain": "Oleje uniwersalne oznacza się podwójnymi symbolami łamanymi, np. CF/SJ."
+    },
+    {
+      "q": "Olej silnikowy SAE 15W/40 po rozgrzaniu silnika zachowuje się jak olej:",
+      "options": [
+        "SAE 15W",
+        "SAE 0W",
+        "SAE 40",
+        "SAE 60"
+      ],
+      "answer": 2,
+      "explain": "Olej 15W/40 na zimno zachowuje się jak SAE 15W, a po rozgrzaniu jak SAE 40."
+    },
+    {
+      "q": "Najniższą lepkość wśród olejów zimowych ma olej:",
+      "options": [
+        "SAE 25W",
+        "SAE 0W",
+        "SAE 20",
+        "SAE 15W"
+      ],
+      "answer": 1,
+      "explain": "Najniższą lepkość ma olej SAE 0W, a najwyższą SAE 25W."
+    },
+    {
+      "q": "Przekładnie w ciągnikach rolniczych smaruje się metodą:",
+      "options": [
+        "zanurzeniową",
+        "rozbryzgową z pompy wtryskowej",
+        "smarownicą ręczną",
+        "mgły olejowej"
+      ],
+      "answer": 0,
+      "explain": "Przekładnie w ciągnikach są smarowane metodą zanurzeniową."
+    },
+    {
+      "q": "Smar grafitowy, stosowany np. do łańcucha napędu roztrząsacza obornika, zawiera do:",
+      "options": [
+        "1% grafitu",
+        "25% grafitu",
+        "50% grafitu",
+        "10% grafitu"
+      ],
+      "answer": 3,
+      "explain": "Smar grafitowy zawiera do 10% grafitu."
+    },
+    {
+      "q": "Smary do łożysk tocznych produkuje się na bazie:",
+      "options": [
+        "żywic epoksydowych",
+        "grafitu i siarki",
+        "olejów roślinnych",
+        "mydeł wapniowych, sodowych i litowych"
+      ],
+      "answer": 3,
+      "explain": "Smary do łożysk tocznych produkuje się na bazie mydeł wapniowych, sodowych i litowych."
+    },
+    {
+      "q": "Największą wydajność wśród pomp tłokowych ma pompa:",
+      "options": [
+        "ssąca jednostronnego działania",
+        "ssąco-tłocząca jednostronnego działania",
+        "ssąco-tłocząca dwustronnego działania",
+        "skrzydełkowa"
+      ],
+      "answer": 2,
+      "explain": "Pompa ssąco-tłocząca dwustronnego działania ma największą wydajność."
+    },
+    {
+      "q": "Przed uruchomieniem pompy wirowej należy:",
+      "options": [
+        "opróżnić kadłub z cieczy",
+        "napełnić przewód ssawny i kadłub cieczą",
+        "zamknąć zawór bezpieczeństwa",
+        "odłączyć przewód ssawny"
+      ],
+      "answer": 1,
+      "explain": "Pompa wirowa nie zassie sama cieczy – trzeba wcześniej napełnić przewód ssawny i kadłub."
+    },
+    {
+      "q": "W napędzie hydrostatycznym na energię mechaniczną zamieniana jest energia:",
+      "options": [
+        "ciśnienia cieczy",
+        "kinetyczna przepływu cieczy",
+        "sprężonego powietrza",
+        "elektryczna"
+      ],
+      "answer": 0,
+      "explain": "W napędzie hydrostatycznym energia ciśnienia cieczy zamieniana jest na mechaniczną."
+    },
+    {
+      "q": "Zawór, który musi być stosowany w każdym układzie hydraulicznym, to zawór:",
+      "options": [
+        "bezpieczeństwa",
+        "redukcyjny",
+        "przelewowy",
+        "zwrotny"
+      ],
+      "answer": 0,
+      "explain": "Zawory bezpieczeństwa chronią układ przed uszkodzeniem i muszą być w każdym układzie."
+    },
+    {
+      "q": "Element gromadzący energię cieczy i łagodzący pulsacje ciśnienia to:",
+      "options": [
+        "rozdzielacz",
+        "siłownik",
+        "zawór redukcyjny",
+        "akumulator hydrauliczny"
+      ],
+      "answer": 3,
+      "explain": "Akumulator hydrauliczny gromadzi energię i łagodzi pulsacyjne zmiany ciśnienia."
+    },
+    {
+      "q": "Dmuchawy wytwarzają ciśnienie tłoczenia w zakresie:",
+      "options": [
+        "do 13 kPa",
+        "powyżej 200 kPa",
+        "13–200 kPa",
+        "200–500 kPa"
+      ],
+      "answer": 2,
+      "explain": "Dmuchawy wytwarzają ciśnienie tłoczenia od 13 do 200 kPa."
+    },
+    {
+      "q": "Pompa próżniowa wytwarzająca podciśnienie jest niezbędna do pracy:",
+      "options": [
+        "kosiarki rotacyjnej",
+        "dojarki konwiowej",
+        "pługa obracalnego",
+        "siewnika rzędowego"
+      ],
+      "answer": 1,
+      "explain": "Dojarka konwiowa wymaga wytworzenia podciśnienia przez pompę próżniową."
+    },
+    {
+      "q": "Siłownik hydrauliczny zamienia energię ciśnienia cieczy na:",
+      "options": [
+        "moment obrotowy wału",
+        "ruch postępowy tłoka",
+        "energię elektryczną",
+        "ciepło"
+      ],
+      "answer": 1,
+      "explain": "Siłowniki zmieniają energię ciśnienia na ruch postępowy tłoka."
+    },
+    {
+      "q": "Wentylatory wytwarzają ciśnienie tłoczenia do:",
+      "options": [
+        "13 kPa",
+        "200 kPa",
+        "2 MPa",
+        "50 kPa"
+      ],
+      "answer": 0,
+      "explain": "Wentylatory wytwarzają ciśnienie tłoczenia do 13 kPa."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jakie kryteria uwzględniamy przy podziale materiałów?",
+      "options": [
+        "Sposób otrzymywania.",
+        "Stopień przetworzenia.",
+        "Właściwości chemiczne.",
+        "Zastosowanie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest to stop miedzi z cyną (6%–20%) jest odporny na korozję, ścieranie.",
+      "options": [
+        "Brąz",
+        "Miedź"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW wyniku wytapiania rud żelaza w piecach hutniczych uzyskuje się surówkę, która zawiera ok. 6% węgla przez co jest krucha i niestosowana jako materiał konstrukcyjny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na jakie zasadnicze grupy dzielimy maszyny w maszynoznawstwie ogólnym?",
+      "options": [
+        "Na maszyny proste.",
+        "Na maszyny spalinowe.",
+        "Na maszyny robocze.",
+        "Na silniki."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są to maszyny robocze przeznaczone do transportowania cieczy poprzez tłoczenie: wody, olejów, paliw, nawozów płynnych.",
+      "options": [
+        "Hydrauliczne układy napędowe",
+        "Pompy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCynkiem pokrywa się dachy budynków, które po dłuższym czasie uzyskują charakterystyczny zielonkawy kolor platyny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak dzielimy metale pod względem składu chemicznego?",
+      "options": [
+        "Na metale ciężkie.",
+        "Na metale nieżelazne.",
+        "Na metale żelazne.",
+        "Na stopy."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są pompami o niewielkiej wydajności i wysokości tłoczenia, przeważnie napędzane ręcznie.",
+      "options": [
+        "Pompy przeponowe",
+        "Pompy skrzydełkowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmary plastyczne podwoziowe są wytwarzane na bazie oleju mineralnego, do którego dodawany jest wapń, dzięki miękkiej konsystencji smar ten można podawać do punktów smarowania za pomocą smarownicy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak inaczej nazywają się metale nieżelazne, występujące jako pierwiastki czyste, np. miedź?",
+      "options": [
+        "Stopy kolorowe.",
+        "Nie mają innej nazwy.",
+        "Metale kolorowe.",
+        "Metale ciężkie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… wyposażone są w rotor w postaci ślimaka wirujący wewnątrz elastycznego nieruchomego statora.",
+      "options": [
+        "Pompy rotacyjne",
+        "Pompy ślimakowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzynnikiem przenoszącym energię w układach hydraulicznych od układu napędzającego do układu roboczego jest ciecz – najczęściej olej mineralny.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie materiały charakteryzują się takimi właściwościami, jak: nietoksyczność, łatwość obróbki, łatwość utrzymania w czystości, słaba przewodność cieplna, łatwość barwienia, nie przewodzenie prądu elektrycznego, odporność na korozję?",
+      "options": [
+        "Metale kolorowe.",
+        "Tworzywa sztuczne.",
+        "Materiały naturalne.",
+        "Stal."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMateriały … są plastyczne w temperaturze otoczenia, lecz po podgrzaniu nieodwracalnie zastygają w nadanej im formie.",
+      "options": [
+        "termoplastyczne",
+        "termoutwardzalne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPneumatyczne układy napędowe posiadają kilka zalet: małe wymiary, dużo elementów, zabezpieczają przed przeciążeniami, niewrażliwość na temperaturę, możliwość centralnego zasilania, proste przeniesienie napędu i prosta obsługa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do jakiej grupy zaliczamy materiał nieorganiczny jakim jest szkło?",
+      "options": [
+        "Do materiałów naturalnych.",
+        "Do tworzyw sztucznych.",
+        "Do innej grupy niż wymienione.",
+        "Do metali nieżelaznych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są to materiały, które nie występują naturalnie w przyrodzie jako pierwiastki chemiczne, lecz są efektem produkcji przemysłowej.",
+      "options": [
+        "Tworzywa sztuczne",
+        "Metale"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOleje silnikowe nie muszą być dobierane do silników, ich zastosowanie jest niezależne od rodzaju zasilania w paliwo, budowy, wieku, czy rozwiązań technicznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakich technologiach powstają wyroby ze szkła?",
+      "options": [
+        "W technologii dmuchania.",
+        "W technologii odlewu.",
+        "W technologii prasowania.",
+        "W technologii obróbki plastycznej."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… ma barwę srebrzystoszarą, cechuje się dużą miękkością i daje się łatwo kształtować.",
+      "options": [
+        "Cyna",
+        "Cynk"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZa przykład pompy próżniowej może posłużyć dmuchawa ssąco-tłocząca wykorzystywana do transportu materiałów sypkich.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż wady drewna.",
+      "options": [
+        "Trudność utrzymania w czystości.",
+        "Silna absorpcja cieczy.",
+        "Trudność w obróbce.",
+        "Nieprzewodzenie prądu elektrycznego i ciepła."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCzynnikiem roboczym w pneumatycznym układzie roboczym jest ….",
+      "options": [
+        "ciecz",
+        "powietrze"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPompy próżniowe są to sprężarki rotacyjne umieszczane na końcach układów, z których mają za zadanie usunięcie powietrza w celu wytworzenia podciśnienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych substancji są paliwami używanymi do zasilania silników?",
+      "options": [
+        "Benzyna.",
+        "Oleje roślinne.",
+        "LPG.",
+        "Olej napędowy."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nAgregat pompowy dojarki konwiowej jest przykładem ….",
+      "options": [
+        "sprężarki",
+        "pompy próżniowej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajważniejszym elementem układów pneumatycznych jest sprężarka, która umożliwia wprowadzenie powietrza w ruch i zmianę jego ciśnienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przy stopie miedzi z cyną jaki musi być udział procentowy cyny aby powstał brąz?",
+      "options": [
+        "6–20%.",
+        "2–10%.",
+        "30–40%.",
+        "20–40%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzewody elektryczne, rury instalacyjne, naczynia, uszczelki, zawory, wymienniki ciepła, elementy dekoracji wykonuje się z ….",
+      "options": [
+        "aluminium",
+        "miedzi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNapędy hydrauliczne nie znalazły szerokiego zastosowania w technice rolniczej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przy stopie miedzi z cynkiem, jaki musi być udział procentowy cynku, aby powstał mosiądz?",
+      "options": [
+        "20–40%.",
+        "30–40%.",
+        "2–10%.",
+        "6–20%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… charakteryzuje się szeregiem zalet: łatwość obróbki, estetyka, odporność na korozje, nieprzewodzenie prądu elektrycznego i ciepła.",
+      "options": [
+        "Aluminium",
+        "Drewno"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmary plastyczne do łożysk tocznych są produkowane na bazie mydeł wapniowych, sodowych i litowych, są odporne na działanie wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W zależności od technologii stosowania oraz możliwości obróbki plastycznej rozróżnia się następujące rodzaje tworzyw sztucznych:",
+      "options": [
+        "koagulacyjne.",
+        "termoplastyczne.",
+        "hydroutwardzalne.",
+        "narzędziowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… wykorzystuje się do produkcji rękawic, fartuchów, uszczelek, uprzęży dla zwierząt, pasów transmisyjnych.",
+      "options": [
+        "Tworzywa sztuczne",
+        "Skórę"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmary plastyczne dzięki dobrym właściwościom przylegania można stosować na powierzchniach pionowych, elementach pracujących w wodzie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych materiałów zaliczamy do naturalnych?",
+      "options": [
+        "Szkło.",
+        "Skórę.",
+        "Drewno.",
+        "Metale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOleje roślinne charakteryzują się podobną sprawnością do oleju napędowego, powodują wzrost zużycia paliw o ok. 10% jednak emitują mniej spalin o ok. 50% oraz charakteryzują się spadkiem zanieczyszczeń toksycznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTworzywa sztuczne termoutwardzalne zastygają pod wpływem czynnika chemicznego, tzw. utwardzacza.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W stosunku do jakich materiałów stosujemy klasyfikację lepkościową według SAE?",
+      "options": [
+        "Paliw.",
+        "Stopów.",
+        "Olei silnikowych.",
+        "Tworzyw sztucznych."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKlasyfikacja jakościowa olejów silnikowych dokonuje się według ….",
+      "options": [
+        "SAE (Amerykańskie Stowarzyszenie Inżynierów Samochodowych)",
+        "API (Amerykański Instytut Naftowy)"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo najczęściej stosowanych składników stopowych skali należą: chrom, nikiel, mangan, molibden i wolfram.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych smarów zaliczamy do smarów plastycznych?",
+      "options": [
+        "Przekładniowe.",
+        "Zimowe.",
+        "Maszynowe.",
+        "Podwoziowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŻelazo jest … wykorzystywane w technice jako czysty pierwiastek, najczęściej stosuję się jego stop z węglem.",
+      "options": [
+        "często",
+        "rzadko"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŻelazo w przyrodzie występuje w związkach chemicznych, najczęściej jako tlenek w postaci rud.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie materiały konstrukcyjne wykorzystuje się najczęściej w technice rolniczej?",
+      "options": [
+        "Nie można tego określić.",
+        "Metale i ich stopy.",
+        "Materiały naturalne.",
+        "Tworzywa sztuczne."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy wytopie żelaza z rud najczęściej stosowanym topnikiem jest kamień wapienny, który łączy się z zanieczyszczeniami i tworzy topliwe grudy, zwane szlaką.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych maszyn stanowią podgrupy maszyn roboczych (klasyfikacja wg przeznaczenia do wykonywania różnych prac użytecznych)?",
+      "options": [
+        "Maszyny ręczne.",
+        "Maszyny energetyczne.",
+        "Maszyny transportowe.",
+        "Maszyny produkcyjne."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki materiał ma następujące cechy: materiał nieorganiczny, bardzo dobre właściwości higieniczne, odporność na działanie środków agresywnych, łatwość nadawania kształtów, nieprzewodzenie prądu elektrycznego i ciepła, przezroczystość?",
+      "options": [
+        "Drewno.",
+        "Szkło.",
+        "Metal.",
+        "Tworzywo sztuczne."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAby uzyskać stal z surówki, należy obniżyć w niej zawartość węgla w procesie ponownego przetopu, podczas którego można wprowadzić do surówki także inne pierwiastki np. magnez, krzem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyroby szklane powstają metodą prasowania?",
+      "options": [
+        "Żarówki.",
+        "Szkła okienne.",
+        "Szklanki.",
+        "Lustra."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Której z wymienionych funkcji nie spełniają oleje silnikowe?",
+      "options": [
+        "Zmniejszają tarcie i zużycie silnika.",
+        "Chronią przed korozją.",
+        "Utrzymują silnik w czystości.",
+        "Są stosowane do zasilania silników."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od gatunku zwierzęcia, skóra cechuje się różną miękkością i elastycznością.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z oznaczeń stosuje się do olei letnich?",
+      "options": [
+        "10W",
+        "15W/40",
+        "30",
+        "EC"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Które z wymienionych pomp są pompami wyporowymi?",
+      "options": [
+        "Tłokowe.",
+        "Nurnikowe.",
+        "Przeponowe.",
+        "Wirowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPompy wirowe to urządzenia, w których w celu przetłoczenia cieczy wykorzystuje się zmianę objętości komory tłoczącej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Napędy hydrauliczne możemy podzielić na grupy:",
+      "options": [
+        "podciśnieniowy.",
+        "hydrokinetyczny.",
+        "hydrostatyczny.",
+        "przeponowy."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jakim układzie napędowym czynnikiem przenoszącym energię jest ciecz?",
+      "options": [
+        "W pompach.",
+        "W układzie hydraulicznym.",
+        "W układzie pneumatycznym.",
+        "W układzie mechanicznym."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNapędy hydrauliczne cechuje: proste przeniesienie napędu, zabezpieczenie przed przeciążeniem, możliwość uzyskania dużych sił, płynna bezstopniowa regulacja prędkości, małe wymiary, prosta obsługa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWóz asenizacyjny, w którym wytworzenie podciśnienia w zbiorniku powoduje zassanie cieczy, natomiast w celu jej usunięcia powietrze tłoczy się do zbiornika, wytwarzając wyższe ciśnienie, może być przykładem ssawy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką zawartość żelaza posiada magnetyt?",
+      "options": [
+        "45–60%.",
+        "30–55%.",
+        "60–70%.",
+        "25–42%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOleje wykorzystywane do smarowania silników spalinowych, zwane są olejami silnikowymi, to oleje roślinne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka ruda zawiera 25–50% żelaza?",
+      "options": [
+        "Syderyt.",
+        "Limonit.",
+        "Magnetyt.",
+        "Hematyt."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmary przekładniowe stosuje się do zabezpieczenia powierzchni łożysk przed ich szybszym zużyciem; smary te wykorzystuje się do zabezpieczania łożysk pracujących w temperaturze od -10oC do 50oC.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakich zanieczyszczeń żelaza pozbywamy się w procesie przetopu?",
+      "options": [
+        "W procesie przetopu nie można pozbyć się zanieczyszczeń.",
+        "Kwarcu.",
+        "Gliny.",
+        "Węgla."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ile żelaza zawiera syderyt?",
+      "options": [
+        "25–42%.",
+        "45–60%.",
+        "25–50%.",
+        "60–70%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe względu na niską zawartość węgla w stali niestopowej nie stosuje się jej do wytwarzania narzędzi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych określeń odnoszą się do podziału stali stopowej?",
+      "options": [
+        "Stal narzędziowa.",
+        "Stal konstrukcyjna.",
+        "Stal nierdzewna.",
+        "Stal specjalna."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCienką warstwą cynku pokrywa się wyroby stalowe w celu ich zabezpieczenia przed korozją.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAluminium jest plastyczne, odkształcalne i zarazem bardzo wytrzymałe na czynniki mechaniczne, niewrażliwe na działanie kwasów solnego i siarkowego oraz ługów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie metale są popularne w przemyśle przy tworzeniu stopów aluminium?",
+      "options": [
+        "Magnez (Mg).",
+        "Cynk (Zn).",
+        "Miedź (Cu).",
+        "Mangan (Mn)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMosiądz ma bardzo dobre właściwości odlewnicze i nadaje się do obróbki plastycznej; wykorzystuje się go do odlewania armatury wodociągowej, ozdób, zamków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTworzywa sztuczne termoutwardzalne dają się wielokrotnie kształtować w podwyższonej temperaturze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Których z wymienionych materiałów używa się w dzisiejszej technice rolniczej?",
+      "options": [
+        "Metale żelazne i ich stopy.",
+        "Paliwa, oleje i smary.",
+        "Tworzywa sztuczne.",
+        "Materiały naturalne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDzięki zaawansowanym technologiom możliwe jest uzyskiwanie tworzyw sztucznych o szerokim zastosowaniu, spełniających zróżnicowane wymagania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do jakiej grupy zaliczamy materiał drewno?",
+      "options": [
+        "Do materiałów naturalnych.",
+        "Do innej grupy niż wymienione.",
+        "Do tworzyw sztucznych.",
+        "Do metali nieżelaznych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką metodą są smarowane przekładnie stosowane w ciągnikach rolniczych?",
+      "options": [
+        "Metodą obiegową.",
+        "Metodą przelotową.",
+        "Metodą natryskową.",
+        "Metodą zanurzeniową."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSmary plastyczne są to zagęszczone oleje mineralne o konsystencji półpłynnej lub stałej w temperaturze normalnej, służące do smarowania miejsc trudnodostępnych lub takich, w których smarowanie olejem zostaje wykluczone.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wybierz miękkie gatunki drewna.",
+      "options": [
+        "Lipa.",
+        "Olcha.",
+        "Orzech.",
+        "Brzoza."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTkaniny i włókna produkowane z części roślin włóknistych, stosuje się przy produkcji sznurów, worków, lin, pasów, płacht.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

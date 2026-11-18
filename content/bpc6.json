@@ -1,0 +1,1979 @@
+{
+  "id": "bpc6",
+  "course": "Biologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Identyfikowanie zachowań zwierząt gospodarskich i towarzyszących",
+  "number": "VI",
+  "notes": [
+    {
+      "heading": "Wstęp – zachowanie i jego elementy",
+      "points": [
+        "Zachowanie – skoordynowane reakcje funkcji organizmu, służące zaspokojeniu potrzeb biologicznych, psychicznych lub społecznych.",
+        "Elementy biologiczne zachowania: animalne i wegetatywne.",
+        "Animalne – podstawowe, krótkotrwałe, skoordynowane przejawy funkcjonowania, często decydujące o homeostazie zewnętrznej (np. dobór partnera, decyzja o rozrodzie).",
+        "Wegetatywne – przebiegające bez udziału świadomości, fizjologiczne, decydujące o homeostazie wewnętrznej.",
+        "Warunki środowiskowe determinują homeostazę organizmu (prawo minimum).",
+        "Zwierzę zawsze ma być podmiotem, a nie przedmiotem.",
+        "Czynności biologiczne koordynują sumę zachowań somatycznych i psychicznych i pozostają pod stałym sterowaniem psychicznym lub somatycznym organizmu.",
+        "Prawidłowe zachowanie i organizacja czynności czuciowych wpływają na tolerancję i adaptację organizmu do otoczenia."
+      ]
+    },
+    {
+      "heading": "Wstęp – wymagania organizmu",
+      "points": [
+        "Wymagania ekologiczne (biotyczne i abiotyczne): terytorium (pustynne, górskie, stepowe), schronienie (w czasie polowań, ucieczki), klimatyczne (opady, temperatura).",
+        "Wymagania biologiczne (osobnicze i rodowe): żerowisko, wodopój, partner rozrodczy, utrwalanie obyczajów, odpoczynek i sen, pielęgnacja ciała.",
+        "Wymagania psychiczne: stresory środowiska, zagęszczenie populacji, dobór partnera (konkurencja), bezpieczeństwo odchowu potomstwa, życie w zbiorowisku.",
+        "Życie w zbiorowisku obejmuje stado, społeczeństwo i przygotowanie osobnicze."
+      ]
+    },
+    {
+      "heading": "1. Terminologia – behawioryzm i etologia",
+      "points": [
+        "Behawioryzm – reakcje instrumentalne, wyuczone oraz zachowawcze w danym lub zmienionym środowisku.",
+        "Reakcje instrumentalne – nabywanie i utrwalanie czynności, np. drogi do wodopoju czy żerowisk; behawioryzm nie uwzględnia czynnika psychicznego i reakcji fizjologicznych.",
+        "Etologia (łac. etos – obyczaj) – nauka badająca obyczaje zwierząt.",
+        "Etologia uwzględnia aspekty przyczynowe i przystosowawcze: rozwój osobniczy i rodowy (genetyka, ewolucja), układy sterujące procesami fizjologicznymi, czynniki środowiskowe (także reakcje międzyosobnicze).",
+        "Do reakcji instrumentalnych zalicza się też ujawniające się na zewnątrz czynności wydzielnicze, np. zmianę barwy, oraz zachowania związane z rozwojem i dojrzewaniem."
+      ]
+    },
+    {
+      "heading": "1. Zdrowie i choroba",
+      "points": [
+        "Zdrowie – harmonijne i najlepsze działanie wszystkich narządów przy równowadze między asymilacją a dysymilacją.",
+        "Zdrowie – stan względnej równowagi wewnętrznej w odniesieniu do czynników zewnętrznych.",
+        "Zdrowie – brak zaburzeń w regulacjach fizjologicznych, pozwalający osiągnąć wydajność uwarunkowaną genetycznie i środowiskowo.",
+        "Choroba – morfologiczny i czynnościowy wyraz zaburzeń w organizmie; złamanie względnej równowagi wewnętrznej (homeostazy).",
+        "Choroba – złożona odpowiedź obronna / reakcja na bodziec chorobotwórczy; skutek naruszenia równowagi między organizmem a środowiskiem.",
+        "Etiologia – nauka o przyczynach powstawania chorób."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/definicje-choroby.jpg",
+          "caption": "Definicje choroby – przegląd: morfologiczny i czynnościowy wyraz zaburzeń w organizmie; złożona odpowiedź wyrażona reakcją obronną na bodziec chorobotwórczy; skutek naruszenia równowagi między organizmem a środowiskiem; reakcja na bodziec chorobotwórczy; życie w zmienionych warunkach, złamanie względnej równowagi wewnętrznej (homeostazy)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Terytorium i zbiorowości",
+      "points": [
+        "Zwierzęta kontaktowe żyją w grupach, zwierzęta dystansowe są samotnikami.",
+        "Terytorium – obszar broniony przez zwierzęta; przestrzeń do zachowania: dystans krytyczny (obronny) i dystans ucieczki.",
+        "Rodzaje terytoriów: mieszane, oznakowane, demonstrowane, godowe.",
+        "Zbiorowości – zespoły zwierząt ze stosunkami osobistymi.",
+        "Więź społeczna: stosunki międzygatunkowe, zespoły wielogatunkowe (terytorialne), jednogatunkowe (homotypowe), anonimowe.",
+        "Rodzaje zbiorowości: krąg społeczny, para osobników, grupy społeczne – rozrodcze (rodziny, szczepy), wielorodzinne (hordy), terytorialna (lęgowa), celowa (żłobek), gromady o jednym charakterze biologicznym (samców, samic, młodzieży)."
+      ]
+    },
+    {
+      "heading": "1. Społeczeństwo, rodzina, hierarchia",
+      "points": [
+        "Społeczeństwo – ukształtowana historycznie bądź genetycznie zbiorowość wzajemnie połączonych osobników.",
+        "Rodziny krótkotrwałe – u ssaków (pary na czas rui lub wychowania młodych); długotrwałe i dożywotnie – najczęściej u ptaków.",
+        "Funkcje rodzin: rodzinne (więź rodzice–dzieci), szczepowe (więź międzypokoleniowa), monogamiczna.",
+        "Hierarchia społeczna – psychiczna, fizyczna, inteligentna dominacja nad osobnikami.",
+        "Narzędzia dominantów: terroryzm, psychiczna sterylizacja (eliminowanie z rozrodu), agresja i straszenie, walka bezpośrednia.",
+        "Egoizm – osiąganie korzyści osobniczych; altruizm – przedkładanie dobra innych ponad swoje (niezbędny u samic przy opiece nad potomstwem; wysoko rozwinięty u delfinów).",
+        "Korzyści życia w społeczeństwie: lepsze siedlisko, pokarm, obrona, opieka, wspólna pula genetyczna; wady: epidemie, konkurencja, rutyna, ograniczony indywidualizm.",
+        "Altruizm obejmuje też walkę o teren i bezpieczeństwo stada; delfiny ratują inne osobniki ze swojego stada."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/korzysci-i-wady-stada.jpg",
+          "caption": "Życie w społeczeństwie – korzyści: lepsze siedlisko, pokarm, obrona, opieka, wspólna pula genetyczna; wady: epidemie, konkurencja, rutyna, ograniczony indywidualizm jednostki."
+        }
+      ]
+    },
+    {
+      "heading": "1. Agresja, lęk i emocje wyzwalane",
+      "points": [
+        "Emocje wyzwalane: agresja (wściekłość) oraz strach (lęk, ból).",
+        "Strach – reakcja obronna; wściekłość – straszenie gestem bez fazy adaptacyjnej; agresja – zachowanie ograniczające swobodę drugiego osobnika.",
+        "Ważne jest rozpoznanie wroga – postrzeganie i różnicowanie obiektu (wzrok, węch, słuch).",
+        "Reakcje agresywne: atak ofensywny (obrona terytorium, samicy, pokarmu), agresja między samcami, samoobrona (atak defensywny), środowiskowe, matczyne, socjalne (hierarchia), atak łowczy, zabijanie potomstwa.",
+        "Ochrona przed niebezpieczeństwem: bierna (sierść, pazury, rogi) i czynna (ucieczka, zęby – straszenie).",
+        "Agresja między samcami – np. gdy obcy samiec pojawi się na terytorium; zachowania środowiskowe – reakcja na elementy nieznane, żywe, obce."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/reakcje-agresywne-1-pelne.jpg",
+          "caption": "Reakcje agresywne: atak ofensywny (obrona terytorium, samicy, pokarmu), agresja między samcami (obcy samiec na terytorium), samoobrona (atak defensywny), zachowania środowiskowe (elementy nieznane, żywe, obce)."
+        },
+        {
+          "src": "img/bpc6/reakcje-agresywne-2.jpg",
+          "caption": "Pozostałe reakcje agresywne: zachowania matczyne (obrona potomstwa), socjalne (ustalanie hierarchii w stadzie), atak łowczy, zabijanie obcego lub własnego potomstwa."
+        },
+        {
+          "src": "img/bpc6/emocje-wyzwalane-schemat.jpg",
+          "caption": "Do emocji wyzwalanych należą agresja (wściekłość) i strach (lęk, ból). Istotnym elementem emocji wyzwalanych jest umiejętność rozpoznania wroga, postrzeganie i różnicowanie obiektu."
+        },
+        {
+          "src": "img/bpc6/ochrona-przed-niebezpieczenstwem.jpg",
+          "caption": "Rodzaje ochrony przed niebezpieczeństwem: bierna – sierść, pazury i rogi; czynna – ucieczka, zęby (straszenie)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Postępowanie człowieka przy agresji zwierząt",
+      "points": [
+        "Gdy zwierzę chce świadomie zaatakować człowieka – schronić się i odizolować (wyjść z boksu, pomieszczenia).",
+        "Do klatki ze zwierzęciem agresywnym podchodzić pewnie i spokojnie; nie krzyczeć, nie uderzać o pręty.",
+        "Patrzenie w oczy może być odebrane jako wyzwanie lub atak; roślinożerne boją się – kojarzą to z drapieżnikiem.",
+        "U psów dominant patrzy w oczy niższym rangą, a one uciekają wzrokiem; patrzenie w oczy osobnika alfa to wyzwanie.",
+        "Przy kilku osobach obsługujących zwierzę agresywne zawsze wybiera się jedną osobę decydującą o postępowaniu.",
+        "Agresja między zwierzętami – przy ustalaniu hierarchii w okresie rozpłodowym lub po wprowadzeniu nowego osobnika.",
+        "Konie i psy najlepiej rozdzielać, polewając je wodą ze szlaucha; walki kończą się zwykle po ustaleniu nowej hierarchii.",
+        "Gdy zwierzęta kaleczą się lub dotkliwie ranią – trwałe rozdzielenie.",
+        "Walczące zwierzęta rozdziela się, nie narażając własnego zdrowia i życia oraz minimalizując obrażenia walczących.",
+        "Osoba decydująca kieruje postępowaniem przy zwierzęciu, kiełznaniu, znieczulaniu i pracach lekarsko-weterynaryjnych."
+      ]
+    },
+    {
+      "heading": "2. Zachowanie i działania",
+      "points": [
+        "Zachowanie – skoordynowane reakcje osobnika dla zaspokojenia potrzeby biologicznej, psychicznej i społecznej, pod wpływem czynników wewnętrznych lub bodźców zewnętrznych.",
+        "Na zachowanie składają się akty behawioralne zwane działaniami (zmiany położenia ciała, manipulowanie przedmiotem, zdobywanie informacji).",
+        "Rodzaje działań: reaktywne, aktywne, poznawcze.",
+        "Działanie składa się z: ośrodka działania, drogi doprowadzającej (eferentnej), narządu wykonawczego.",
+        "W zachowaniu zwierząt wyższych są składniki wrodzone i nabyte; proste reakcje wyuczone, np. wędrówka do pokarmu, wody, źródeł ciepła.",
+        "Elementarne formy zachowań – bardziej złożone formy samodzielnie odgrywające rolę biologiczną.",
+        "Działania są – obok odbioru bodźców – drugim elementem sprzęgającym osobnika ze środowiskiem.",
+        "Proste wyuczone reakcje przebiegają bez samodzielnej woli, na podstawie reakcji biologicznej, i mogą odgrywać rolę w działaniach o podłożu motywacyjnym."
+      ]
+    },
+    {
+      "heading": "2. Radość i agresja – objawy u gatunków",
+      "points": [
+        "Radość – pozytywny, beztroski stan emocjonalny; oczy szeroko otwarte, ruchy płynne, wzrok ożywiony.",
+        "Radość: psy piszczą, merdają ogonem, dyszą, liżą; koty – ogon wysoko, miauczą, ocierają się, mruczą; konie kiwają głową i rżą; krowy machają głową na boki i muczą; świnie biegają i kwiczą; króliki popychają nosem, uszy wysoko.",
+        "Agresja – zachowanie intencyjne mające wyrządzić szkodę psychiczną lub fizyczną; rodzaje: terytorialna, seksualna, dominacyjna, drapieżnicza, obronna.",
+        "Zwierzęta nie są agresywne bez konieczności; człowiek jest jedyną istotą wykazującą agresję bezcelową.",
+        "Agresja: psy – kły, uszy po sobie, klatka nisko, ugięte przednie nogi; koty – prychają, zęby, łapa z pazurami; konie – uszy po sobie, wyciągnięta głowa, kopią; krowy – rogi i kopnięcia; świnie gryzą; króliki fuczą, tupią, gryzą.",
+        "Radość: psy dyszą z otwartym pyskiem i liżą napotkane osoby; świnie podskakują wesoło z głośnym kwikiem; króliki podkładają głowę pod ręce.",
+        "Agresja: koty unoszą głowę i mogą trzymać uniesioną łapę z wyciągniętymi pazurami; krowy nerwowo wydychają powietrze; króliki kładą uszy po sobie i dotkliwie gryzą; każde zachowanie agresywne zwierząt jest uwarunkowane."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/agresja-zwierzat.jpg",
+          "caption": "Agresja zwierząt: kot z otwartym pyskiem pokazujący zęby, atakujący pies, walczące konie (stają dęba, gryzą, kopią), szarżujący byk."
+        },
+        {
+          "src": "img/bpc6/radosc-zwierzat.jpg",
+          "caption": "Radość zwierząt (rys. 6.4): oczy szeroko otwarte, ruchy płynne, wzrok ożywiony; psy merdają ogonem i dyszą, koty mruczą i ocierają się, konie kiwają głową i rżą."
+        }
+      ]
+    },
+    {
+      "heading": "2. Lęk, zabawa, znudzenie",
+      "points": [
+        "Lęk – negatywny stan emocjonalny związany z zagrożeniem; powstaje w wyniku złych doświadczeń; może przerodzić się w agresję.",
+        "Lęk: koty jeżą się, króliki stają słupka, psy przysiadają i kładą się; czterokopytne stają dęba, strzelają z zadu lub płoszą się.",
+        "Zabawa – dobrowolna aktywność ruchowo-emocjonalna relaksująca umysł; uczy umiejętności; bawią się młode wszystkich gatunków.",
+        "Znudzenie – wewnętrzna pustka i brak zainteresowania otoczeniem; wynika z długiego przebywania w jednym miejscu i braku bodźców.",
+        "Stereotypie z nudy: konie łykają i tkają, świnie zjadają posłania, psy wyją, koty chodzą po linii prostej godzinami.",
+        "Lęk to niepokój związany z bezpośrednim niebezpieczeństwem fizycznym lub psychicznym (np. pozycja w stadzie); przestraszone zwierzę chowa się i jest płochliwe; u zbyt rozemocjonowanych zwierząt lęk może przejść w agresję.",
+        "Zabawa: zwierzę poddaje się fikcyjnej grze, używa przedmiotów (np. piłki, sznurka); zabawa między osobnikami uczy przydatnych umiejętności.",
+        "Znudzenie – brak bodźców powoduje frustrację i uczucie nudy, prowadzące do stereotypii."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/strach-zwierzat.jpg",
+          "caption": "Strach: przestraszony kot jeży się i wygina grzbiet, szczeniak kuli się i chowa."
+        },
+        {
+          "src": "img/bpc6/zabawa-zwierzat.jpg",
+          "caption": "Zabawa zwierząt (rys. 6.7): bawią się młode wszystkich gatunków, używając też przedmiotów (piłki, sznurek)."
+        },
+        {
+          "src": "img/bpc6/znudzenie-zwierzat.jpg",
+          "caption": "Znudzenie zwierząt (rys. 6.8): brak bodźców i długie przebywanie w jednym miejscu powodują frustrację i stereotypie."
+        }
+      ]
+    },
+    {
+      "heading": "2. Sen",
+      "points": [
+        "Sen – stan zniesienia świadomości i bezruchu; odpoczynek czynnościowy kory mózgowej.",
+        "W czasie snu: przegrupowanie informacji, wydzielanie hormonów, oszczędzanie organizmu, odnowa funkcji poznawczych, odpoczynek mięśni.",
+        "Konie są jedynymi zwierzętami śpiącymi na stojąco (mają układ ustaleniowy).",
+        "Krowy, konie, owce, kozy śpią ok. 4 godzin na dobę; psy i koty 10–16 godzin; świnie ok. 8 godzin (jak ludzie).",
+        "Krowy, świnie, psy, koty i króliki śpią na leżąco; w czasie snu następuje też odnowa funkcji poznawczych układu nerwowego i odpoczynek tkanek."
+      ]
+    },
+    {
+      "heading": "2. Zachowania stadne",
+      "points": [
+        "Stado – organizacja społeczna żyjąca na jednym terytorium, z obowiązującą hierarchią.",
+        "Zwierzęta okresowo stadne łączą się w celach prokreacyjnych; stada rodzinne – całe życie w grupie.",
+        "Idealny model stada – wataha wilków: na czele samiec i samica alfa, dalej samice, osobniki omega to najczęściej młode samce.",
+        "Psowate okazują uległość, kładąc się na plecach i pokazując brzuch.",
+        "Patriarchat: stada psów, koni, krów, owiec; matriarchat: słonie, króliki, aleksandretty obrożne, koty domowe.",
+        "W stadzie osobniki zdominowane podlegają innym prawom niż dominanci; każdy gatunek ma inne zasady życia społecznego; niektóre zwierzęta żyją samotnie."
+      ],
+      "images": [
+        {
+          "src": "img/bpc6/uleglosc-psa.jpg",
+          "caption": "Uległość psa wobec osobnika dominującego – pies kładzie się na plecach i pokazuje brzuch."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Zachowanie – definicja (wstęp)",
+      "back": "Skoordynowane reakcje funkcji organizmu, służące zaspokojeniu potrzeb biologicznych, psychicznych lub społecznych."
+    },
+    {
+      "front": "Animalne elementy zachowania",
+      "back": "Podstawowe, krótkotrwałe, skoordynowane przejawy funkcjonowania, decydujące o homeostazie zewnętrznej (np. dobór partnera)."
+    },
+    {
+      "front": "Wegetatywne elementy zachowania",
+      "back": "Przebiegające bez udziału świadomości, fizjologiczne, decydujące o homeostazie wewnętrznej."
+    },
+    {
+      "front": "Jakie prawo opisuje, że warunki środowiskowe determinują homeostazę?",
+      "back": "Prawo minimum."
+    },
+    {
+      "front": "Przykłady wymagań ekologicznych organizmu",
+      "back": "Terytorium, schronienie, warunki klimatyczne (opady, temperatura)."
+    },
+    {
+      "front": "Przykłady wymagań biologicznych organizmu",
+      "back": "Żerowisko, wodopój, partner rozrodczy, utrwalanie obyczajów, odpoczynek i sen, pielęgnacja ciała."
+    },
+    {
+      "front": "Przykłady wymagań psychicznych organizmu",
+      "back": "Stresory środowiska, zagęszczenie populacji, dobór partnera, bezpieczeństwo odchowu potomstwa, życie w zbiorowisku."
+    },
+    {
+      "front": "Zasada dotycząca statusu zwierzęcia",
+      "back": "Zwierzę zawsze ma być podmiotem, a nie przedmiotem."
+    },
+    {
+      "front": "Behawioryzm",
+      "back": "Reakcje instrumentalne, wyuczone oraz zachowawcze w danym lub zmienionym środowisku."
+    },
+    {
+      "front": "Reakcje instrumentalne",
+      "back": "Nabywanie i utrwalanie czynności, np. drogi do wodopoju czy żerowisk."
+    },
+    {
+      "front": "Czego nie uwzględnia behawioryzm?",
+      "back": "Czynnika psychicznego oraz reakcji fizjologicznych kierujących organizmem."
+    },
+    {
+      "front": "Etologia",
+      "back": "Nauka badająca obyczaje zwierząt (łac. etos – obyczaj)."
+    },
+    {
+      "front": "Jakie aspekty zawsze uwzględnia etologia?",
+      "back": "Przyczynowe i przystosowawcze (rozwój osobniczy i rodowy, układy sterujące, czynniki środowiskowe)."
+    },
+    {
+      "front": "Zdrowie – definicja z asymilacją",
+      "back": "Harmonijne i najlepsze działanie wszystkich narządów przy równowadze między asymilacją a dysymilacją."
+    },
+    {
+      "front": "Choroba jako złamanie czego?",
+      "back": "Względnej równowagi wewnętrznej organizmu (homeostazy)."
+    },
+    {
+      "front": "Etiologia",
+      "back": "Nauka o przyczynach powstawania chorób."
+    },
+    {
+      "front": "Zwierzęta kontaktowe vs dystansowe",
+      "back": "Kontaktowe żyją w grupach; dystansowe są samotnikami."
+    },
+    {
+      "front": "Terytorium",
+      "back": "Obszar broniony przez zwierzęta."
+    },
+    {
+      "front": "Dwa dystanse, które muszą być zachowane",
+      "back": "Dystans krytyczny (obronny) i dystans ucieczki."
+    },
+    {
+      "front": "Rodzaje terytoriów (4)",
+      "back": "Mieszane, oznakowane, demonstrowane, godowe."
+    },
+    {
+      "front": "Zbiorowości",
+      "back": "Zespoły zwierząt ze stosunkami osobistymi."
+    },
+    {
+      "front": "Zespoły jednogatunkowe – określenie",
+      "back": "Homotypowe."
+    },
+    {
+      "front": "Zespoły wielogatunkowe – określenie",
+      "back": "Terytorialne."
+    },
+    {
+      "front": "Horda",
+      "back": "Grupa wielorodzinna."
+    },
+    {
+      "front": "Grupa celowa – przykład",
+      "back": "Żłobek."
+    },
+    {
+      "front": "Grupa terytorialna – inna nazwa",
+      "back": "Lęgowa."
+    },
+    {
+      "front": "Grupy rozrodcze – przykłady",
+      "back": "Rodziny, szczepy."
+    },
+    {
+      "front": "Społeczeństwo (zwierzęce)",
+      "back": "Ukształtowana historycznie bądź genetycznie zbiorowość wzajemnie połączonych osobników."
+    },
+    {
+      "front": "Rodziny krótkotrwałe – u kogo?",
+      "back": "U ssaków – pary rozrodcze na czas rui lub wychowania młodych."
+    },
+    {
+      "front": "Rodziny długotrwałe i dożywotnie – u kogo najczęściej?",
+      "back": "U ptaków."
+    },
+    {
+      "front": "Funkcje rodzin",
+      "back": "Rodzinne (więź rodzice–dzieci), szczepowe (więź międzypokoleniowa), monogamiczna."
+    },
+    {
+      "front": "Hierarchia społeczna",
+      "back": "Psychiczna, fizyczna, inteligentna dominacja nad osobnikami."
+    },
+    {
+      "front": "Narzędzia dominantów przy ustalaniu hierarchii",
+      "back": "Terroryzm, psychiczna sterylizacja, agresja i straszenie, walka bezpośrednia."
+    },
+    {
+      "front": "Psychiczna sterylizacja",
+      "back": "Eliminowanie osobników z rozrodu przez dominanta."
+    },
+    {
+      "front": "Altruizm u zwierząt",
+      "back": "Przedkładanie dobra innych ponad swoje; niezbędny u samic przy opiece nad potomstwem (wysoko rozwinięty u delfinów)."
+    },
+    {
+      "front": "Egoizm u zwierząt",
+      "back": "Osiąganie korzyści osobniczych różnymi drogami, cele prywatne."
+    },
+    {
+      "front": "Korzyści życia w społeczeństwie",
+      "back": "Lepsze siedlisko, pokarm, obrona, opieka, wspólna pula genetyczna."
+    },
+    {
+      "front": "Wady życia w społeczeństwie",
+      "back": "Epidemie, konkurencja, rutyna, ograniczony indywidualizm jednostki."
+    },
+    {
+      "front": "Emocje wyzwalane",
+      "back": "Agresja (wściekłość) oraz strach (lęk, ból)."
+    },
+    {
+      "front": "Strach, wściekłość, agresja – różnice",
+      "back": "Strach – reakcja obronna; wściekłość – straszenie gestem bez fazy adaptacyjnej; agresja – ograniczanie swobody drugiego osobnika."
+    },
+    {
+      "front": "Atak ofensywny – czego dotyczy?",
+      "back": "Obrony terytorium, samicy, pokarmu."
+    },
+    {
+      "front": "Agresja socjalna",
+      "back": "Ustalanie hierarchii w stadzie."
+    },
+    {
+      "front": "Agresja matczyna",
+      "back": "W obronie potomstwa."
+    },
+    {
+      "front": "Ochrona bierna przed niebezpieczeństwem",
+      "back": "Sierść, pazury i rogi."
+    },
+    {
+      "front": "Ochrona czynna przed niebezpieczeństwem",
+      "back": "Ucieczka, zęby – straszenie."
+    },
+    {
+      "front": "Co zrobić, gdy zwierzę chce świadomie zaatakować człowieka?",
+      "back": "Schronić się i odizolować od zwierzęcia (wyjść z boksu, pomieszczenia)."
+    },
+    {
+      "front": "Jak podchodzić do klatki ze zwierzęciem agresywnym?",
+      "back": "Pewnie, spokojnie, bez krzyku i uderzania o pręty."
+    },
+    {
+      "front": "Dlaczego roślinożerne boją się patrzenia w oczy?",
+      "back": "Kojarzą to z postawą drapieżnika."
+    },
+    {
+      "front": "Co oznacza patrzenie w oczy osobnika alfa u psów?",
+      "back": "Wyzwanie i próbę dominacji."
+    },
+    {
+      "front": "Zasada przy obsłudze zwierzęcia agresywnego przez kilka osób",
+      "back": "Wybrać jedną osobę decydującą o przebiegu postępowania."
+    },
+    {
+      "front": "Najlepszy sposób rozdzielania walczących koni i psów",
+      "back": "Polewanie wodą ze szlaucha."
+    },
+    {
+      "front": "Kiedy trwale rozdziela się zwierzęta?",
+      "back": "Gdy kaleczą się lub dotkliwie ranią."
+    },
+    {
+      "front": "Kiedy zwykle kończą się walki między zwierzętami?",
+      "back": "W momencie ustalenia nowej hierarchii stadnej."
+    },
+    {
+      "front": "Działania (akty behawioralne) – rodzaje",
+      "back": "Reaktywne, aktywne, poznawcze."
+    },
+    {
+      "front": "Elementy działania",
+      "back": "Ośrodek działania, droga doprowadzająca (eferentna), narząd wykonawczy."
+    },
+    {
+      "front": "Elementarne formy zachowań",
+      "back": "Bardziej złożone formy zachowań samodzielnie odgrywające rolę biologiczną."
+    },
+    {
+      "front": "Rodzaje agresji u zwierząt (5)",
+      "back": "Terytorialna, seksualna, dominacyjna, drapieżnicza, obronna."
+    },
+    {
+      "front": "Jedyna istota wykazująca agresję bezcelową",
+      "back": "Człowiek."
+    },
+    {
+      "front": "Jak radość okazują konie?",
+      "back": "Kiwają głową, „potakując”, i rżą."
+    },
+    {
+      "front": "Jak radość okazują krowy?",
+      "back": "Machają głową na boki i muczą."
+    },
+    {
+      "front": "Jak agresję okazują świnie?",
+      "back": "Gryzą."
+    },
+    {
+      "front": "Jak agresję okazują konie?",
+      "back": "Kładą uszy po sobie, wyciągają głowę, kopią przeciwnika."
+    },
+    {
+      "front": "Lęk – z czego powstaje?",
+      "back": "Z złych doświadczeń; może przerodzić się w agresję."
+    },
+    {
+      "front": "Jak lęk okazują króliki?",
+      "back": "Stają słupka."
+    },
+    {
+      "front": "Jak lęk okazują czterokopytne?",
+      "back": "Stają dęba, strzelają z zadu lub płoszą się."
+    },
+    {
+      "front": "Zabawa – definicja",
+      "back": "Dobrowolna aktywność ruchowo-emocjonalna pozwalająca umysłowi zrelaksować się."
+    },
+    {
+      "front": "Co powoduje znudzenie?",
+      "back": "Zbyt długie przebywanie w jednym miejscu i brak dodatkowych bodźców."
+    },
+    {
+      "front": "Stereotypie znudzonych koni",
+      "back": "Łykają i tkają."
+    },
+    {
+      "front": "Stereotypia znudzonych świń",
+      "back": "Zjadają posłania."
+    },
+    {
+      "front": "Sen – definicja",
+      "back": "Stan zniesienia świadomości i bezruchu, odpoczynek czynnościowy kory mózgowej."
+    },
+    {
+      "front": "Jedyne zwierzęta śpiące na stojąco i dzięki czemu",
+      "back": "Konie – dzięki układowi ustaleniowemu."
+    },
+    {
+      "front": "Ile śpią krowy, konie, owce i kozy?",
+      "back": "Około 4 godzin na dobę."
+    },
+    {
+      "front": "Ile śpią psy i koty?",
+      "back": "10–16 godzin na dobę."
+    },
+    {
+      "front": "Ile śpią świnie?",
+      "back": "Około 8 godzin (tyle co ludzie)."
+    },
+    {
+      "front": "Stado",
+      "back": "Organizacja społeczna żyjąca na jednym terytorium, z hierarchią."
+    },
+    {
+      "front": "Idealny model stada",
+      "back": "Wataha wilków."
+    },
+    {
+      "front": "Kto stoi na czele watahy?",
+      "back": "Samiec wraz z samicą alfa."
+    },
+    {
+      "front": "Kim najczęściej są osobniki omega w watasze?",
+      "back": "Młodymi samcami."
+    },
+    {
+      "front": "Jak psowate okazują uległość?",
+      "back": "Kładą się na plecach i pokazują brzuch."
+    },
+    {
+      "front": "Gatunki z patriarchatem w stadzie",
+      "back": "Psy, konie, krowy, owce."
+    },
+    {
+      "front": "Gatunki z matriarchatem",
+      "back": "Słonie, króliki, aleksandretty obrożne, koty domowe."
+    },
+    {
+      "front": "Agresja środowiskowa – na co reaguje zwierzę?",
+      "back": "Na elementy nieznane, żywe, obce."
+    },
+    {
+      "front": "Jaką emocję wyrażają zwierzęta na zdjęciach?",
+      "back": "Agresję – kot pokazuje zęby, pies atakuje, konie walczą stając dęba, byk szarżuje.",
+      "img": "img/bpc6/agresja-zwierzat.jpg"
+    },
+    {
+      "front": "Jaki stan emocjonalny wyrażają zwierzęta na zdjęciach?",
+      "back": "Strach (lęk) – kot jeży się z wygiętym grzbietem, szczeniak kuli się i chowa.",
+      "img": "img/bpc6/strach-zwierzat.jpg"
+    },
+    {
+      "front": "Jakie zachowanie psa przedstawia zdjęcie (pies leży na plecach)?",
+      "back": "Uległość wobec osobnika dominującego – słabsze zwierzęta kładą się na plecach i pokazują brzuch.",
+      "img": "img/bpc6/uleglosc-psa.jpg"
+    },
+    {
+      "front": "Jakie zwierzęta śpią na leżąco (wg materiału)?",
+      "back": "Krowy, świnie, psy, koty, króliki (jak inne zwierzęta) – na stojąco śpią tylko konie."
+    },
+    {
+      "front": "Jak agresję okazują krowy?",
+      "back": "Nerwowo wydychają powietrze, w obronie używają rogów i kopnięć."
+    },
+    {
+      "front": "Jak agresję okazują króliki?",
+      "back": "Fuczą, tupią, dotkliwie gryzą, kładą uszy po sobie."
+    },
+    {
+      "front": "Jak radość okazują króliki?",
+      "back": "Popychają nosem napotkaną osobę, podkładają głowę pod ręce, uszy trzymają wysoko wyprostowane."
+    },
+    {
+      "front": "Co oprócz reakcji instrumentalnych obejmuje behawioryzm (czynności wydzielnicze)?",
+      "back": "Ujawniające się na zewnątrz czynności wydzielnicze, np. zmianę barwy, oraz zachowania związane z rozwojem i dojrzewaniem."
+    },
+    {
+      "front": "Zdrowie – pozostałe dwie definicje (rys. 6.1)",
+      "back": "Stan względnej równowagi wewnętrznej w odniesieniu do czynników zewnętrznych; brak zaburzeń w regulacjach fizjologicznych, pozwalający osiągnąć wydajność uwarunkowaną czynnikami genetycznymi i środowiskowymi."
+    },
+    {
+      "front": "Więź społeczna w zbiorowościach – rodzaje",
+      "back": "Stosunki międzygatunkowe, zespoły wielogatunkowe (terytorialne), zespoły jednogatunkowe (homotypowe), zespoły anonimowe."
+    },
+    {
+      "front": "Rodzaje zbiorowości zwierzęcych",
+      "back": "Krąg społeczny, para osobników, grupy społeczne: rozrodcze (rodziny, szczepy), wielorodzinne (hordy), terytorialna (lęgowa), celowa (żłobek), gromady o jednym charakterze biologicznym (samców, samic, młodzieży)."
+    },
+    {
+      "front": "Reakcje zachowań agresywnych u zwierząt (8)",
+      "back": "Atak ofensywny, agresja między samcami, samoobrona (atak defensywny), środowiskowe, matczyne, socjalne, atak łowczy, zabijanie potomstwa (obcego, własnego)."
+    },
+    {
+      "front": "Jakimi zmysłami zwierzę rozpoznaje wroga?",
+      "back": "Wzrokiem, węchem i słuchem (postrzeganie i różnicowanie obiektu)."
+    },
+    {
+      "front": "Jak lęk okazują koty i psy?",
+      "back": "Koty jeżą się; psy przysiadają i kładą się na podłodze."
+    },
+    {
+      "front": "Stereotypie znudzonych psów i kotów",
+      "back": "Psy wyją; koty chodzą po linii prostej w nieustannym wielogodzinnym ruchu."
+    },
+    {
+      "front": "Co zachodzi podczas snu?",
+      "back": "Przegrupowanie informacji zdobytych w ciągu dnia, wydzielanie hormonów, oszczędzanie organizmu, odnowa funkcji poznawczych układu nerwowego, odpoczynek mięśni i pozostałych tkanek."
+    },
+    {
+      "front": "Jak radość okazują psy i koty?",
+      "back": "Psy piszczą, merdają ogonem, dyszą z otwartym pyskiem, liżą napotkane osoby; koty spacerują z wysoko uniesionym ogonem, miauczą, ocierają się, mruczą."
+    },
+    {
+      "front": "Jak radość okazują świnie?",
+      "back": "Biegają wesoło i podskakują, wydając głośny kwik."
+    },
+    {
+      "front": "Jak agresję okazują psy i koty?",
+      "back": "Psy – uwidaczniają kły, kładą uszy po sobie, klatkę piersiową kierują nisko, uginają przednie nogi; koty – unoszą głowę, prychają, pokazują zęby, mogą trzymać uniesioną łapę z wyciągniętymi pazurami."
+    },
+    {
+      "front": "Typy stad ze względu na trwałość",
+      "back": "Zwierzęta okresowo stadne (łączą się w celach prokreacyjnych), stada rodzinne (całe życie w grupie wieloosobowej); niektóre żyją samotnie."
+    },
+    {
+      "front": "Kiedy zwierzęta wykazują wobec siebie agresję przy ustalaniu hierarchii?",
+      "back": "W okresie rozpłodowym lub przy wprowadzaniu do stada nowego osobnika."
+    },
+    {
+      "front": "Na czym polegają działania (akty behawioralne)?",
+      "back": "Na zmianach położenia ciała, manipulowaniu przedmiotem, zdobywaniu informacji i innych reakcjach; są drugim (obok odbioru bodźców) elementem sprzęgającym osobnika ze środowiskiem."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Elementy zachowania przebiegające bez udziału świadomości i decydujące o homeostazie wewnętrznej to elementy:",
+      "options": [
+        "animalne",
+        "wegetatywne",
+        "instrumentalne",
+        "poznawcze"
+      ],
+      "answer": 1,
+      "explain": "Elementy wegetatywne są fizjologiczne i decydują o homeostazie wewnętrznej."
+    },
+    {
+      "q": "Dobór partnera i decyzja o rozrodzie to przykłady elementów zachowania:",
+      "options": [
+        "wegetatywnych",
+        "stereotypowych",
+        "instrumentalnych",
+        "animalnych"
+      ],
+      "answer": 3,
+      "explain": "Elementy animalne decydują o homeostazie zewnętrznej, np. dobór partnera."
+    },
+    {
+      "q": "Do wymagań biologicznych organizmu należy:",
+      "options": [
+        "zagęszczenie populacji",
+        "ilość opadów",
+        "wodopój",
+        "stresory środowiska"
+      ],
+      "answer": 2,
+      "explain": "Wymagania biologiczne to m.in. żerowisko, wodopój, partner rozrodczy."
+    },
+    {
+      "q": "Nauka badająca obyczaje zwierząt to:",
+      "options": [
+        "etologia",
+        "etiologia",
+        "behawioryzm",
+        "ekologia"
+      ],
+      "answer": 0,
+      "explain": "Etologia (łac. etos – obyczaj) bada obyczaje zwierząt."
+    },
+    {
+      "q": "Nauka o przyczynach powstawania chorób to:",
+      "options": [
+        "etiologia",
+        "etologia",
+        "epidemiologia",
+        "patologia"
+      ],
+      "answer": 0,
+      "explain": "Naukę o przyczynach powstawania chorób nazywamy etiologią."
+    },
+    {
+      "q": "Nabywanie i utrwalanie czynności, np. drogi do wodopoju, to reakcje:",
+      "options": [
+        "wegetatywne",
+        "wyzwalane",
+        "matczyne",
+        "instrumentalne"
+      ],
+      "answer": 3,
+      "explain": "Reakcje instrumentalne to nabywanie i utrwalanie czynności, np. drogi do wodopoju."
+    },
+    {
+      "q": "Zwierzęta dystansowe to zwierzęta:",
+      "options": [
+        "żyjące w grupach",
+        "żyjące samotnie",
+        "okresowo stadne",
+        "żyjące w hordach"
+      ],
+      "answer": 1,
+      "explain": "Zwierzęta kontaktowe żyją w grupach, dystansowe są samotnikami."
+    },
+    {
+      "q": "Terytorium to:",
+      "options": [
+        "obszar żerowania stada",
+        "dystans ucieczki",
+        "obszar broniony przez zwierzęta",
+        "obszar godowy ptaków"
+      ],
+      "answer": 2,
+      "explain": "Terytorium nazywamy obszar broniony przez zwierzęta."
+    },
+    {
+      "q": "Do rodzajów terytoriów nie należy terytorium:",
+      "options": [
+        "oznakowane",
+        "demonstrowane",
+        "anonimowe",
+        "godowe"
+      ],
+      "answer": 2,
+      "explain": "Terytoria dzielimy na mieszane, oznakowane, demonstrowane i godowe."
+    },
+    {
+      "q": "Grupa wielorodzinna to:",
+      "options": [
+        "horda",
+        "szczep",
+        "żłobek",
+        "para osobników"
+      ],
+      "answer": 0,
+      "explain": "Grupy wielorodzinne to hordy."
+    },
+    {
+      "q": "Przykładem grupy celowej jest:",
+      "options": [
+        "horda",
+        "żłobek",
+        "szczep",
+        "grupa lęgowa"
+      ],
+      "answer": 1,
+      "explain": "Grupa celowa to żłobek."
+    },
+    {
+      "q": "Rodziny długotrwałe i dożywotnie występują najczęściej u:",
+      "options": [
+        "ssaków stadnych",
+        "gadów",
+        "gryzoni",
+        "ptaków"
+      ],
+      "answer": 3,
+      "explain": "Rodziny długotrwałe i dożywotnie występują najczęściej u ptaków."
+    },
+    {
+      "q": "Psychiczna sterylizacja jako narzędzie dominanta polega na:",
+      "options": [
+        "eliminowaniu osobników z rozrodu",
+        "walce bezpośredniej",
+        "zabijaniu potomstwa",
+        "oznakowaniu terytorium"
+      ],
+      "answer": 0,
+      "explain": "Psychiczna sterylizacja to eliminowanie z rozrodu."
+    },
+    {
+      "q": "Cecha wysoko rozwinięta u delfinów ratujących inne osobniki to:",
+      "options": [
+        "egoizm",
+        "terroryzm",
+        "agresja socjalna",
+        "altruizm"
+      ],
+      "answer": 3,
+      "explain": "Altruizm jest wysoko rozwinięty u delfinów ratujących inne osobniki."
+    },
+    {
+      "q": "Do wad życia w społeczeństwie należą:",
+      "options": [
+        "wspólna pula genetyczna",
+        "epidemie",
+        "obrona",
+        "lepsze siedlisko"
+      ],
+      "answer": 1,
+      "explain": "Wady życia w społeczeństwie to epidemie, konkurencja, rutyna, ograniczony indywidualizm."
+    },
+    {
+      "q": "Do emocji wyzwalanych zalicza się:",
+      "options": [
+        "radość i zabawę",
+        "sen i znudzenie",
+        "agresję i strach",
+        "altruizm i egoizm"
+      ],
+      "answer": 2,
+      "explain": "Do emocji wyzwalanych należy agresja (wściekłość) oraz strach (lęk, ból)."
+    },
+    {
+      "q": "Agresja socjalna u zwierząt dotyczy:",
+      "options": [
+        "obrony potomstwa",
+        "obrony pokarmu",
+        "ustalania hierarchii w stadzie",
+        "ataku łowczego"
+      ],
+      "answer": 2,
+      "explain": "Agresja socjalna to ustalanie hierarchii w stadzie."
+    },
+    {
+      "q": "Bierną ochroną zwierzęcia przed niebezpieczeństwem są:",
+      "options": [
+        "ucieczka",
+        "straszenie zębami",
+        "atak defensywny",
+        "sierść, pazury i rogi"
+      ],
+      "answer": 3,
+      "explain": "Ochrona bierna to sierść, pazury i rogi."
+    },
+    {
+      "q": "Gdy zwierzę chce świadomie zaatakować człowieka, należy:",
+      "options": [
+        "patrzeć mu w oczy",
+        "schronić się i odizolować od zwierzęcia",
+        "głośno krzyczeć",
+        "uderzać o pręty klatki"
+      ],
+      "answer": 1,
+      "explain": "Należy schronić się i odizolować od zwierzęcia, np. wyjść z boksu."
+    },
+    {
+      "q": "Patrzenie w oczy zwierzętom roślinożernym:",
+      "options": [
+        "budzi strach, kojarzony z drapieżnikiem",
+        "uspokaja je",
+        "oznacza uległość człowieka",
+        "zachęca do zabawy"
+      ],
+      "answer": 0,
+      "explain": "Roślinożerne boją się, gdy patrzy im się w oczy – kojarzą to z drapieżnikiem."
+    },
+    {
+      "q": "Gdy kilka osób obsługuje zwierzę agresywne, należy:",
+      "options": [
+        "działać jednocześnie ze wszystkich stron",
+        "każdemu podejść osobno",
+        "zawsze znieczulić zwierzę",
+        "wybrać jedną osobę decydującą o postępowaniu"
+      ],
+      "answer": 3,
+      "explain": "Zawsze należy wybrać osobę decydującą o przebiegu postępowania przy zwierzęciu."
+    },
+    {
+      "q": "Jednym z najlepszych sposobów rozdzielania walczących koni i psów jest:",
+      "options": [
+        "polewanie wodą ze szlaucha",
+        "rozdzielanie gołymi rękami",
+        "głośny krzyk",
+        "uderzanie kijem"
+      ],
+      "answer": 0,
+      "explain": "Polewanie wodą ze szlaucha to jeden z najlepszych sposobów rozdzielania koni i psów."
+    },
+    {
+      "q": "Walki między zwierzętami najczęściej kończą się:",
+      "options": [
+        "po zakończeniu rui",
+        "po ustaleniu nowej hierarchii stadnej",
+        "po zmroku",
+        "po nakarmieniu zwierząt"
+      ],
+      "answer": 1,
+      "explain": "Walki najczęściej kończą się w momencie ustalenia nowej hierarchii stadnej."
+    },
+    {
+      "q": "Rodzajami działań (aktów behawioralnych) są działania:",
+      "options": [
+        "animalne, wegetatywne, psychiczne",
+        "bierne, czynne, łowcze",
+        "reaktywne, aktywne, poznawcze",
+        "wrodzone, nabyte, instrumentalne"
+      ],
+      "answer": 2,
+      "explain": "Działania dzielą się na reaktywne, aktywne i poznawcze."
+    },
+    {
+      "q": "Jedyną istotą wykazującą agresję bezcelową jest:",
+      "options": [
+        "pies",
+        "kot",
+        "człowiek",
+        "dzik"
+      ],
+      "answer": 2,
+      "explain": "Człowiek jest jedyną istotą wykazującą agresję bezcelową."
+    },
+    {
+      "q": "Radość u koni przejawia się:",
+      "options": [
+        "kładzeniem uszu po sobie",
+        "tkaniem",
+        "staniem dęba",
+        "kiwaniem głową i rżeniem"
+      ],
+      "answer": 3,
+      "explain": "Konie z radości kiwają głową, „potakując”, i rżą."
+    },
+    {
+      "q": "Agresywne konie:",
+      "options": [
+        "kładą uszy po sobie i wyciągają głowę",
+        "kiwają głową i rżą",
+        "stają słupka",
+        "machają głową na boki"
+      ],
+      "answer": 0,
+      "explain": "Agresywne konie kładą uszy po sobie, wyciągają głowę i kopią."
+    },
+    {
+      "q": "Przestraszone króliki:",
+      "options": [
+        "jeżą się",
+        "stają słupka",
+        "tupią i fuczą z radości",
+        "kładą się na plecach"
+      ],
+      "answer": 1,
+      "explain": "Wystraszone króliki stają słupka."
+    },
+    {
+      "q": "Lęk u zwierząt powstaje najczęściej w wyniku:",
+      "options": [
+        "złych doświadczeń",
+        "zabawy",
+        "nadmiaru snu",
+        "dominacji"
+      ],
+      "answer": 0,
+      "explain": "Lęk powstaje w wyniku złych doświadczeń."
+    },
+    {
+      "q": "Stereotypią znudzonych koni jest:",
+      "options": [
+        "zjadanie posłania",
+        "łykanie i tkanie",
+        "wycie",
+        "chodzenie po linii prostej"
+      ],
+      "answer": 1,
+      "explain": "U znudzonych koni dochodzi do stereotypii – łykają i tkają."
+    },
+    {
+      "q": "Znudzone świnie:",
+      "options": [
+        "łykają powietrze",
+        "wyją",
+        "zjadają posłania",
+        "tkają"
+      ],
+      "answer": 2,
+      "explain": "Świnie ze znudzenia zjadają posłania."
+    },
+    {
+      "q": "Jedynymi zwierzętami śpiącymi na stojąco są:",
+      "options": [
+        "krowy",
+        "owce",
+        "świnie",
+        "konie"
+      ],
+      "answer": 3,
+      "explain": "Konie śpią na stojąco dzięki układowi ustaleniowemu."
+    },
+    {
+      "q": "Krowy, konie, owce i kozy śpią na dobę około:",
+      "options": [
+        "8 godzin",
+        "4 godzin",
+        "10–16 godzin",
+        "2 godzin"
+      ],
+      "answer": 1,
+      "explain": "Krowy, konie, owce i kozy śpią około czterech godzin na dobę."
+    },
+    {
+      "q": "Psy i koty przesypiają na dobę:",
+      "options": [
+        "10–16 godzin",
+        "4 godziny",
+        "8 godzin",
+        "18–20 godzin"
+      ],
+      "answer": 0,
+      "explain": "Psy i koty przesypiają od dziesięciu do szesnastu godzin."
+    },
+    {
+      "q": "Osobniki omega w watasze wilków to najczęściej:",
+      "options": [
+        "stare samice",
+        "samice alfa",
+        "szczenięta",
+        "młode samce"
+      ],
+      "answer": 3,
+      "explain": "Osobniki omega tworzą najczęściej młode samce."
+    },
+    {
+      "q": "Matriarchat jest typowy dla:",
+      "options": [
+        "psów i koni",
+        "krów i owiec",
+        "kotów domowych i królików",
+        "wilków"
+      ],
+      "answer": 2,
+      "explain": "Matriarchat jest typowy m.in. dla słoni, królików, aleksandrett i kotów domowych."
+    },
+    {
+      "q": "Patriarchat panuje w stadach:",
+      "options": [
+        "słoni",
+        "koni",
+        "królików",
+        "kotów domowych"
+      ],
+      "answer": 1,
+      "explain": "Patriarchat panuje w stadach psów, koni, krów czy owiec."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż przykłady biernej obrony zwierząt.",
+      "options": [
+        "Sierść.",
+        "Rogi.",
+        "Ucieczka.",
+        "Pazury."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to reakcje instrumentalne, wyuczone oraz zachowawcze w danym lub zmienionym środowisku.",
+      "options": [
+        "Behawioryzm",
+        "Etologia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTerytorium zwierzęcia to obszar zdobywania pokarmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Kiedy kot chodzi po linii prostej w nieustannym wielogodzinnym ruchu, oznacza to:",
+      "options": [
+        "radość.",
+        "agresję.",
+        "lęk",
+        "znudzenie."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to nauka badająca obyczaje zwierząt.",
+      "options": [
+        "Behawioryzm",
+        "Etologia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonie są jedynymi zwierzętami hodowlanymi śpiącymi na stojąco.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykłady czynnej obrony zwierząt.",
+      "options": [
+        "Wyciąganie pazurów.",
+        "Straszenie.",
+        "Ucieczka.",
+        "Nastawianie rogów."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZasady życia społecznego są … u rozmaitych gatunków zwierząt.",
+      "options": [
+        "różne",
+        "takie same"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZespoły zwierząt ze stosunkami osobistymi to zbiorowości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które ze zwierzęcych zachowań agresywnych są elementem obrony terytorium?",
+      "options": [
+        "Atak ofensywny.",
+        "Atak łowczy.",
+        "Agresja między samcami.",
+        "Atak defensywny."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Zwierzęta roślinożerne … się, gdy patrzy im się w oczy.",
+      "options": [
+        "boją",
+        "uspokajają"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak dzielimy terytoria w świecie zwierząt?",
+      "options": [
+        "Oznakowane.",
+        "Godowe.",
+        "Demonstrowane.",
+        "Mieszane."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKiedy u psów osobnik dominujący spogląda w oczy osobnika o niższej hierarchii, ten drugi ucieka wzrokiem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… koty jeżą się, króliki stają słupka, psy przysiadają i kładą się na podłodze.",
+      "options": [
+        "Agresywne",
+        "Wystraszone"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zachowaniu zwierząt wyższych nie da się wyodrębnić składników nabytych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co wyraża pies, kiedy piszczy, macha ogonem, dyszy z otwartym pyskiem?",
+      "options": [
+        "Radość.",
+        "Znudzenie.",
+        "Lęk.",
+        "Agresję."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOczy … zwierząt są szeroko otwarte, ruchy płynne, wzrok ożywiony i bystry.",
+      "options": [
+        "szczęśliwych",
+        "agresywnych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrowy, konie i owce śpią około ośmiu godzin na dobę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje rodzin wśród zwierząt.",
+      "options": [
+        "Przejściowe.",
+        "Długotrwałe.",
+        "Krótkotrwałe.",
+        "Dożywotnie."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nCzynniki biologiczne zachowania osobnika przebiegające bez udziału świadomości i decydujące o homeostazie wewnętrznej określamy jako ….",
+      "options": [
+        "animalne",
+        "wegetatywne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta, które ustalają hierarchię podczas okresu rozpłodowego czy wprowadzania do stada nowego osobnika nigdy nie wykazują wobec siebie agresji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Którymi narzędziami posługują się osobniki dominujące przy ustalaniu hierarchii społecznej?",
+      "options": [
+        "Walką bezpośrednią.",
+        "Psychiczną sterylizacją.",
+        "Agresją i zastraszeniem.",
+        "Terroryzmem."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to psychiczna, fizyczna i inteligentna dominacja nad osobnikami.",
+      "options": [
+        "Agresja",
+        "Hierarchia społeczna"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAgresja i strach należą do emocji wyzwalanych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz wady życia w społeczeństwie.",
+      "options": [
+        "Epidemie.",
+        "Ograniczony indywidualizm jednostki.",
+        "Konkurencja.",
+        "Dzielenie pokarmu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNaukę o przyczynach powstawania chorób nazywamy etiologią.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to ukształtowana historycznie bądź genetycznie zbiorowość wzajemnie połączonych osobników.",
+      "options": [
+        "Hierarchia społeczna",
+        "Społeczeństwo"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie emocje psa przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/38279439",
+      "options": [
+        "Znudzenie.",
+        "Strach.",
+        "Radość.",
+        "Agresję."
+      ],
+      "answers": [
+        1
+      ],
+      "img": "img/bpc6/samoewaluacja_28.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZłożona odpowiedź organizmu, wyrażona reakcją obronną w stosunku do bodźca chorobotwórczego to ….",
+      "options": [
+        "zdrowie",
+        "choroba"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWalki wśród zwierząt najczęściej kończą się w momencie ustalenia nowej hierarchii stadnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChorobę można określić jako skutek naruszenia równowagi między organizmem a środowiskiem bytowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż wady życia zwierząt w społeczeństwie.",
+      "options": [
+        "Konkurencyjność.",
+        "Ograniczony indywidualizm.",
+        "Wspólna pula genetyczna.",
+        "Rutynowy tryb życia."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to osiąganie korzyści osobniczych różnymi drogami, realizowanie celów prywatnych.",
+      "options": [
+        "Altruizm",
+        "Egoizm"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co należy zrobić w przypadku agresji zwierzęcia przeciwko człowiekowi?",
+      "options": [
+        "Spojrzeć zwierzęciu w oczy i podejść stanowczym krokiem.",
+        "Schronić się.",
+        "Odizolować się od zwierzęcia.",
+        "Podejść i starać się uspokoić zwierzę."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJednym z najlepszych sposobów rozdzielania koni i psów jest polewanie zwierząt wodą ze szlaucha.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie emocje kota przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/24458346",
+      "options": [
+        "Strach.",
+        "Zabawę.",
+        "Znudzenie.",
+        "Radość."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/bpc6/samoewaluacja_36.jpg"
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… możemy podzielić na reaktywne, aktywne, poznawcze.",
+      "options": [
+        "Emocje",
+        "Działania"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrawidłowe zachowanie i organizacja czynności czuciowych nie mają wpływu na przebieg tolerancji i adaptacji organizmu do otoczenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie emocje kota przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/26279938",
+      "options": [
+        "Zabawę.",
+        "Agresja.",
+        "Strach.",
+        "Radość."
+      ],
+      "answers": [
+        2
+      ],
+      "img": "img/bpc6/samoewaluacja_39.jpg"
+    },
+    {
+      "q": "Zaznacz korzyści życia w społeczeństwie.",
+      "options": [
+        "Obrona.",
+        "Lepsze siedlisko.",
+        "Rutyna.",
+        "Wspólna pula genetyczna."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa zachowanie składają się … zwane działaniami.",
+      "options": [
+        "reakcje społeczne",
+        "akty behawioralne"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co oznacza, gdy konie kładą uszy po sobie i wyciągają głowę?",
+      "options": [
+        "Lęk.",
+        "Radość.",
+        "Znudzenie.",
+        "Agresję."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to skoordynowane reakcje osobnika służące do zaspokojenia określonej potrzeby biologicznej, psychicznej i społecznej zachodzące pod wpływem czynników wewnętrznych lub bodźców zewnętrznych.",
+      "options": [
+        "Zachowanie",
+        "Działania"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli zwierzęta kaleczą się lub dotkliwie ranią, zachodzi konieczność trwałego rozdzielenia osobników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to przekładanie dobra innych osobników ponad swoje, cecha niezbędna u samic przy opiece nad potomstwem.",
+      "options": [
+        "Altruizm",
+        "Egoizm"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jak nazywamy reakcje instrumentalne, wyuczone oraz zachowawcze w danym lub zmienionym środowisku?",
+      "options": [
+        "Etologia.",
+        "Behawioryzm.",
+        "Altruizm.",
+        "Obyczaje."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEtologia to nauka badająca obyczaje zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż idealny model stada.",
+      "options": [
+        "Gromada delfinów.",
+        "Stado baranów.",
+        "Wataha wilków.",
+        "Wataha dzików."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNabywanie i utrwalanie czynności, np. drogi do wodopoju czy żerowisk to reakcja behawioralna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUczucie wewnętrznej pustki i brak zainteresowania otoczeniem nazywamy lękiem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż czynniki, które uwzględnia etologia.",
+      "options": [
+        "Aspekty psychologiczne.",
+        "Układy sterujące procesami fizjologicznymi.",
+        "Czynniki środowiskowe korelujące reakcje, w tym reakcje międzyosobnicze.",
+        "Rozwój osobniczy i rodowy."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż zwierzęta żyjące w stadach matriarchalnych?",
+      "options": [
+        "Króliki.",
+        "Konie.",
+        "Owce.",
+        "Krowy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChoroba to morfologiczny i czynnościowy wyraz zaburzeń w organizmie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co wyraża tzw. strzelanie z zadu u zwierząt czterokopytnych?",
+      "options": [
+        "Zabawę.",
+        "Lęk.",
+        "Radość.",
+        "Agresję."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zwierzęta żyjące w stadach patriarchalnych?",
+      "options": [
+        "Konie.",
+        "Koty domowe.",
+        "Psy.",
+        "Owce."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpoglądanie w oczy przez osobnika alfa oznacza próbę nawiązania kontaktu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż oznaki agresji u królików.",
+      "options": [
+        "Tupanie.",
+        "Kładzenie uszu po sobie.",
+        "Trzymanie uszu wysoko wyprostowanych.",
+        "Piszczenie."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak długo śpią świnie?",
+      "options": [
+        "Ok. 8 h.",
+        "Do 16 h.",
+        "Mniej niż 6 h.",
+        "Ok. 4 h."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode osobniki wszystkich gatunków bawią się ze sobą, kształtując przy tym umiejętności przydatne w codziennym życiu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż składniki działania.",
+      "options": [
+        "Ośrodek działania.",
+        "Droga doprowadzająca.",
+        "Narząd wykonawczy.",
+        "Ośrodek decyzyjny."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie emocje konia przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/53546404",
+      "options": [
+        "Radość.",
+        "Strach.",
+        "Agresję.",
+        "Znudzenie."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/bpc6/testwiedzy_16.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrowolną aktywność ruchowo-emocjonalną, która pozwala na zrelaksowanie umysłu, nazywa się w etologii zabawą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpoglądanie zwierzętom w oczy nie jest przez nie odbierane jako wyzwanie lub atak.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta nie wykazują cech agresywnych bez wyraźnej konieczności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie emocje koni przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/42288527",
+      "options": [
+        "Radość.",
+        "Znudzenie.",
+        "Strach.",
+        "Agresję."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/bpc6/testwiedzy_20.jpg"
+    },
+    {
+      "q": "Po czym można poznać radość koni?",
+      "options": [
+        "Kiwają głową „potakując”.",
+        "Rżą.",
+        "Wyciągają głowę.",
+        "Kładą po sobie uszy."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzynności biologiczne są elementem koordynacji sumy wzajemnych zachowań somatycznych i psychicznych i pozostają pod stałym sterowaniem psychicznym lub somatycznym organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU zwierząt, nawet mocno rozemocjonowanych, lęk nigdy nie przeradza się w agresję.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Po czym można poznać agresję kotów?",
+      "options": [
+        "Spacerują z wysoko uniesionym ogonem.",
+        "Unoszą głowę.",
+        "Prychają.",
+        "Mogą trzymać uniesioną łapę z wyciągniętymi pazurami."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZbyt długie przebywanie w jednym miejscu, brak dodatkowych bodźców powoduje u zwierząt powstanie frustracji i uczucia nudy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje zbiorowości zwierzęcych.",
+      "options": [
+        "Grupy krótkotrwałe.",
+        "Krąg społeczny.",
+        "Grupy społeczne.",
+        "Para osobników."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU zwierząt występuje agresja terytorialna, seksualna, dominacyjna, drapieżnicza i obronna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z symptomów opisują agresję psów?",
+      "options": [
+        "Pokazanie kłów.",
+        "Ugięcie przednich łap.",
+        "Położenie po sobie uszu.",
+        "Wyciąganie do przodu łapy."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.„Potakiwanie” łbem i rżenie jest u konia objawem strachu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo klatki ze zwierzęciem agresywnym podchodzimy pewnie, okazujemy dominację podniesionym głosem i hałasem, np. uderzaniem o pręty klatki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż funkcje rodziny.",
+      "options": [
+        "Wspólne zdobywanie pokarmu.",
+        "Powiększanie terytorium.",
+        "Tworzenie więzi międzypokoleniowych.",
+        "Tworzenie więzi między rodzicami i potomstwem."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż zwierzę, które śpi na stojąco.",
+      "options": [
+        "Świnia.",
+        "Krowa.",
+        "Żadne zwierzę tak nie śpi.",
+        "Koń."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW stadzie obowiązuje hierarchia i osobniki zdominowane podlegają innym prawom niż dominanci.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie emocje kota przedstawia poniższe zdjęcie?http://pl.fotolia.com/id/26279938",
+      "options": [
+        "Strach.",
+        "Agresję.",
+        "Radość.",
+        "Znudzenie."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/bpc6/testwiedzy_34.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZdrowie to stan względnej równowagi wewnętrznej w odniesieniu do czynników zewnętrznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

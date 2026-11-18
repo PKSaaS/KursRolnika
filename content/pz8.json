@@ -1,0 +1,2023 @@
+{
+  "id": "pz8",
+  "course": "Produkcja zwierzęca",
+  "title": "Warunki zoohigieniczne w pomieszczeniach inwentarskich",
+  "number": "VIII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – czynniki mikroklimatu",
+      "points": [
+        "Zwierzęta spędzają w budynkach większą część lub całe życie – obok genetyki i żywienia mikroklimat decyduje o produkcyjności i zdrowiu.",
+        "Czynniki fizyczne: światło i promieniowanie słoneczne, temperatura i wilgotność powietrza, ruch powietrza i ochładzanie, ciśnienie atmosferyczne, hałas.",
+        "Czynniki chemiczne: zanieczyszczenia powietrza, gazy szkodliwe (np. dwutlenek węgla) i toksyczne (np. siarkowodór, amoniak).",
+        "Czynniki mikrobiologiczne: grzyby, bakterie, wirusy.",
+        "Czynniki fizykochemiczne: pyły (kurze)."
+      ]
+    },
+    {
+      "heading": "1. Promieniowanie ultrafioletowe (UV)",
+      "points": [
+        "UV powoduje zmiany chemiczne w tkankach – zmiany skórne zwane rumieniem słonecznym.",
+        "Długie działanie UV: stany zapalne i martwica skóry, wzrost temperatury ciała, pobudzenie nerwowe, zaburzenia przewodu pokarmowego, nawet śmierć.",
+        "Pod wpływem UV w skórze zwierząt powstaje witamina D3 (u roślin D2).",
+        "UV ma duże znaczenie bakteriobójcze.",
+        "Pozytywnie: pobudza uwalnianie tlenu z hemoglobiny (wzrost oddychania komórkowego), zwiększa poziom krwinek czerwonych, ciał odpornościowych i hemoglobiny; oddech głębszy i rzadszy.",
+        "Należy umożliwić zwierzętom korzystanie z promieniowania słonecznego.",
+        "Na zwierzęta działa promieniowanie pochodzące z ziemi i spoza niej, ze źródeł naturalnych i sztucznych; UV ma ważny wpływ na sprawną kondycję zwierząt."
+      ]
+    },
+    {
+      "heading": "1. Światło i oświetlenie",
+      "points": [
+        "Światło widzialne umożliwia orientację, pobieranie paszy, kontakt z innymi osobnikami.",
+        "Światło wpływa na wytwarzanie hormonów (gonadotropowych, tyreotropowego, melatoniny) – szczególnie ważne u zwierząt reprodukcyjnych; ważna rola odpornościowa u młodych.",
+        "Oświetlenie: naturalne (dzienne) i sztuczne (elektryczne).",
+        "Jednostka natężenia oświetlenia – luks (lumen/m²).",
+        "Oświetlenie sztuczne zależy od ilości, rozmieszczenia, rodzaju i mocy źródeł; stosuje się lampy żarowe, jarzeniowe lub LED.",
+        "Ocena oświetlenia sztucznego: natężenie i długość dnia świetlnego, miejsca przebywania zwierząt, równomierność, barwa światła, możliwość regulacji natężenia i czasu.",
+        "Do obliczenia liczby żarówek (LŻ) wykorzystuje się: natężenie wg norm (Z, lx), powierzchnię (P, m²), moc żarówek (W) i współczynnik S1: 3,8 (15–25 W), 4,2 (40 W), 5,0 (60 W).",
+        "Wzór na liczbę żarówek: LŻ = (P · Z) / (W · S1) – powierzchnia pomieszczenia (m²) razy wymagane natężenie (lx), podzielone przez moc żarówki (W) razy współczynnik S1."
+      ],
+      "images": [
+        {
+          "src": "img/pz8/wzor-liczba-zarowek.jpg",
+          "caption": "Wzór do obliczania liczby punktów świetlnych: LŻ = P·Z / (W·S1); LŻ – liczba żarówek, Z – natężenie oświetlenia w lx wg norm zoohigienicznych, P – powierzchnia w m², W – moc żarówek, S1 – współczynnik: 3,8 (15–25 W), 4,2 (40 W), 5,0 (60 W)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Normy oświetlenia (tabela 8.1)",
+      "points": [
+        "Źródło norm: Rozporządzenie MRiRW z 2 września 2003 r. w sprawie minimalnych warunków utrzymania zwierząt (Dz.U. Nr 167, poz. 1629).",
+        "Bydło – krowy, jałówki, cielęta powyżej 2 tygodni: O:P 1:18, 20–30 lx; opasy: 1:25, 20–30 lx.",
+        "Profilaktorium dla cieląt: 1:10; porodówki i hale udojowe: 1:15; stanowiska zabiegowe: 1:18 (wszystkie 20–30 lx).",
+        "Paszarnie i przechowalnie mleka: 1:20, 50 lx; doświetlanie okresowe lampami przenośnymi: 50–200 lx; oświetlenie nocne dla wszystkich kategorii bydła: 3–5 lx.",
+        "Trzoda chlewna – O:P: knury, lochy luźne i prośne, knurki i loszki, lochy karmiące 1:20; prosięta 1:25; tuczniki 1:30; oświetlenie sztuczne 40 lx.",
+        "Kury: oświetlenie dzienne nienormowane, sztuczne 20 lx.",
+        "Owce: pomieszczenia do wykotów 1:20, 30–40 lx; do strzyży i inseminacji 1:10, 100 lx; dorosłe owce 1:25, 20–30 lx.",
+        "Doświetlania okresowego lampami przenośnymi (50–200 lx) mogą wymagać: profilaktoria, porodówki, przechowalnie mleka, hale udojowe, stanowiska zabiegowe."
+      ]
+    },
+    {
+      "heading": "1. Skutki braku światła (tabela 8.2)",
+      "points": [
+        "Lochy: częściowa lub całkowita sterylność, spadek mleczności, spadek przeżywalności prosiąt, mniejsze spożycie paszy, mniejsze przyrosty, gorsze wykorzystanie paszy.",
+        "Krowy: słabe objawy rui (ciche ruje), mniejszy wskaźnik zapłodnień, wydłużenie okresu międzyciążowego, spadek mleczności.",
+        "Drób: opóźnienie wzrostu i rozwoju, radykalne obniżenie nieśności, gorsza jakość jaj, u samców obniżenie czynności płciowych."
+      ]
+    },
+    {
+      "heading": "1. Temperatura",
+      "points": [
+        "Zwierzęta są stałocieplne – na utrzymanie temperatury ciała zużywają energię paszy; energia powinna iść na produkcję, nie na ciepło.",
+        "Straty ciepła: ogrzanie paszy i wody, kał i mocz, skóra (parowanie, przewodzenie, promieniowanie, konwekcja).",
+        "Najbardziej narażone na wychłodzenie są zwierzęta młode (pisklęta, prosięta) – wyższa temperatura wewnętrzna, szybsza przemiana materii, niekorzystny stosunek masy do powierzchni ciała.",
+        "Wysoka temperatura: rozszerzenie naczyń, przekrwienie skóry, pocenie u konia, pocenie i ziajanie u bydła i owiec, przyspieszony oddech u ptaków; świnie nie mają gruczołów potowych – leżą w mokrych częściach kojca.",
+        "Niska temperatura: zwężenie naczyń, drżenie mięśni, odmrożenia (uszy, ogon, dolne części nóg; u ptaków grzebienie, korale, zausznice, dzwonki), szybsza przemiana materii, spadek produkcyjności i odporności."
+      ]
+    },
+    {
+      "heading": "1. Temperatury optymalne (tabela 8.4)",
+      "points": [
+        "Trzoda: knury i lochy 15°C, lochy wysokoprośne 19°C, lochy karmiące 20°C.",
+        "Prosięta do 14 dni 28°C, 14–28 dni 23°C, starsze 21°C; warchlaki 19°C, tuczniki 18°C, knurki i loszki 17°C.",
+        "Bydło: krowy w oborze 8–16°C, w porodówce 16–20°C; cielęta w profilaktorium 16–20°C, do 3 miesięcy 12–20°C, powyżej 3 miesięcy 12–16°C.",
+        "Jałówki powyżej 6 miesięcy 8–16°C; opasy i buhaje 10–18°C.",
+        "Kury: dorosłe 10–20°C, młodzież 18–20°C, pisklęta 28–32°C.",
+        "Indyki: dorosłe 8–18°C, młodzież 18–24°C, pisklęta 35–38°C.",
+        "Kaczki: dorosłe 16–18°C, młodzież 18–20°C, pisklęta 27–30°C; gęsi: dorosłe 6–18°C, młodzież 18–20°C, pisklęta 27–30°C."
+      ]
+    },
+    {
+      "heading": "1. Ochrona przed wychłodzeniem i ogrzewanie",
+      "points": [
+        "Budynki inwentarskie pełnią funkcję ciepłochronną – przegrody (ściany, sufit, podłoga) ograniczają wpływ środowiska zewnętrznego.",
+        "Wartość termiczna budynku zależy od: materiałów budowlanych i ich właściwości cieplnych, rodzaju konstrukcji i wyposażenia, sposobu użytkowania, technologii produkcji.",
+        "Gdy zwierzęta nie ogrzeją budynku – dogrzewanie: ogólne (cały budynek) lub lokalne (np. promienniki podczerwieni dla prosiąt).",
+        "Ogrzewanie lokalne: górne (lampy podczerwieni) i dolne (płyty grzewcze w podłodze); ogólne: dynamiczne (nawiewne) i statyczne (radiacyjne).",
+        "W zimie zwierzęta często nie są w stanie ogrzać budynku własnym ciałem – wtedy dogrzewa się budynek urządzeniami grzejnymi."
+      ]
+    },
+    {
+      "heading": "1. Wilgotność i ruch powietrza",
+      "points": [
+        "Źródła wilgoci: para wodna wydychana przez zwierzęta i ludzi, parowanie podłogi, ściółki i odchodów, powietrze z zewnątrz.",
+        "Wilgotność bezwzględna (aktualna) i maksymalna – w g/m³; wilgotność względna – w %.",
+        "Niedosyt wilgotności – różnica między wilgotnością maksymalną a bezwzględną.",
+        "Punkt rosy – temperatura, przy której para wodna skrapla się w pomieszczeniu.",
+        "Optymalna wilgotność względna dla większości zwierząt: 60–70%; dolna granica 40% (dobrze tolerowana przez owce); najwyższe tolerowane: 70–85%.",
+        "Ruch powietrza zapewnia wietrzenie i właściwą wilgotność oraz ochładza zwierzęta; korzystny w upały, niekorzystny przy niskiej temperaturze i wysokiej wilgotności (zwłaszcza dla młodych).",
+        "Ruch powietrza na wysokości stanowisk nie powinien przekraczać 0,2 m/s."
+      ]
+    },
+    {
+      "heading": "1. Hałas",
+      "points": [
+        "Hałas działa stresująco; natężenie dźwięku mierzy się w decybelach (dB): 0 dB – brak odczuwania, 130 dB – próg bólu.",
+        "Skutki: uszkodzenie słuchu, spadek nieśności kur, mniejsza produkcja mleka, wolniejszy wzrost młodych; zaburzenia gruczołów dokrewnych, pracy serca i wydzielania soku żołądkowego.",
+        "Hałas w czasie odpoczynku zwierząt nie powinien przekraczać 60–70 dB, a w czasie codziennych prac obsługi 85–90 dB."
+      ]
+    },
+    {
+      "heading": "1. Gazy szkodliwe",
+      "points": [
+        "W większych ilościach: dwutlenek węgla (CO2), amoniak (NH3), siarkowodór (H2S); w mniejszych: tlenek węgla (CO), metan (CH4), radon (Rn), indol i skatol.",
+        "Zwierzęta wdychają powietrze z 0,03% CO2, a wydychają 4% CO2 – w słabo wentylowanych pomieszczeniach stężenie CO2 gwałtownie rośnie.",
+        "Źródłem amoniaku są odchody, zwłaszcza mocz; źródłem siarkowodoru – rozkładające się białko.",
+        "Dopuszczalne stężenia: CO2 – 3000 ppm (bydło, świnie, owce), 2500 ppm (drób); amoniak – 26 ppm (bydło, świnie, owce), 13 ppm (drób); H2S – 10 ppm (wszystkie gatunki).",
+        "ppm (parts per million) – liczba cząsteczek związku na 1 milion cząsteczek.",
+        "CO2: zakwaszenie organizmu, osłabienie procesów spalania, duszności, osłabienie obrony układu oddechowego, predyspozycja do jego chorób.",
+        "Amoniak: drażni błony śluzowe, zapalenia spojówek i dróg oddechowych, wiąże hemoglobinę (gorsza wymiana tlenowa), obniża odporność, drażni układ nerwowy.",
+        "H2S: silnie toksyczny, paraliżuje układ nerwowy, zapalenia błon śluzowych, nasila anemię.",
+        "Amoniak dodatkowo: nieżyt błon śluzowych, predysponowanie do chorób infekcyjnych; pomiar stężenia gazów nie jest skomplikowany."
+      ]
+    },
+    {
+      "heading": "1. Pyły i zanieczyszczenia mikrobiologiczne",
+      "points": [
+        "Pyły organiczne: cząstki roślinne, resztki paszy i ściółki, sierść, nabłonek, pióra, pyłki roślin.",
+        "Pyły nieorganiczne: piasek, ziemia, środki chemiczne, cement, nawozy mineralne, składniki spalin.",
+        "Skutki pyłów: zaburzenia gruczołów skóry, zapalenia skóry i błon śluzowych, zapalenia górnych dróg oddechowych, uszkodzenia układu oddechowego i krążenia.",
+        "Ograniczenie zapylenia: nawilżanie i filtrowanie powietrza wentylacyjnego, intensywna wymiana powietrza, pasza granulowana lub półpłynna zamiast pylistej, optymalna wilgotność ściółki.",
+        "Zanieczyszczenia mikrobiologiczne (wirusy, bakterie, zarodniki grzybów) wywołują alergie lub choroby zakaźne, np. grypę.",
+        "Przez zanieczyszczone powietrze szerzą się gruźlica, różyca, pryszczyca, grzybice."
+      ]
+    },
+    {
+      "heading": "2. Wentylacja i klimatyzacja",
+      "points": [
+        "Wentylacja – kontrolowana wymiana powietrza urządzeniami nawiewnymi i wyciągowymi; bez nich jest to tylko naturalna wymiana powietrza.",
+        "Cel wentylacji: usunięcie zużytego i doprowadzenie świeżego powietrza, utrzymanie optymalnego mikroklimatu bez przeciągów i dużych strat ciepła.",
+        "Wentylacja grawitacyjna działa dzięki różnicy temperatury i ciśnienia powietrza.",
+        "Warunki sprawnej wentylacji grawitacyjnej: różnica temperatur min. 5°C, różnica wysokości wlotów i wylotów min. 4 m w pionie, możliwie duży przekrój kanału wyciągowego, izolacja termiczna kanału (zapobiega skraplaniu), wywietrzniki wspomagające.",
+        "Wentylacja mechaniczna umożliwia regulację i kontrolę wymiany powietrza niezależnie od różnicy temperatur; wydajność wentylatorów może być sterowana automatycznie.",
+        "Rodzaje wentylacji mechanicznej: podciśnieniowa (ssąca), nadciśnieniowa (tłocząca), ssąco-tłocząca i kombinowana.",
+        "Wentylatory montuje się w ścianach, oknach, stropach, kominach jako nawiewne, wyciągowe lub rewersyjne; także wewnątrz jako mieszacze powietrza.",
+        "Klimatyzacja zapewnia ściśle określone warunki: automatycznie reguluje temperaturę i wilgotność, ogrzewa/ochładza, osusza/nawilża, oczyszcza i sterylizuje powietrze.",
+        "Wydajność wentylatorów może być sterowana automatycznie w zależności od temperatury powietrza w pomieszczeniu lub temperatury powietrza otaczającego budynek.",
+        "Brak urządzeń nawiewnych i wyciągowych = naturalna wymiana powietrza, która nie jest wentylacją; wentylacja grawitacyjna składa się z urządzeń nawiewnych i wyciągowych."
+      ],
+      "images": [
+        {
+          "src": "img/pz8/wentylacja-grawitacyjna.jpg",
+          "caption": "Schemat wentylacji grawitacyjnej (rys. 8.1): świeże powietrze wpływa wlotami w ścianach, ogrzane zużyte powietrze unosi się i uchodzi kanałem wyciągowym w kalenicy – działa dzięki różnicy temperatury i ciśnienia (min. 5°C, różnica wysokości wlotów i wylotu min. 4 m)."
+        },
+        {
+          "src": "img/pz8/wentylacja-mechaniczna.jpg",
+          "caption": "Schemat wentylacji mechanicznej (rys. 8.2): wentylator w kominie wymusza przepływ powietrza niezależnie od różnicy temperatur; wydajność może być sterowana automatycznie."
+        },
+        {
+          "src": "img/pz8/cele-wentylacji.jpg",
+          "caption": "Cele wentylacji w pomieszczeniach gospodarskich: usunięcie zanieczyszczonego powietrza, doprowadzenie świeżego powietrza i utrzymanie wszystkich czynników mikroklimatu na optymalnym poziomie."
+        },
+        {
+          "src": "img/pz8/wentylatory-klimatyzacja.jpg",
+          "caption": "Wentylatory – przetłaczają duże objętości powietrza; montowane w ścianach, oknach, stropach, kominach jako urządzenia nawiewne, wyciągowe lub rewersyjne, także wewnątrz budynków jako mieszacze powietrza. Klimatyzacja – automatycznie kontroluje i reguluje temperaturę i wilgotność względną powietrza; może ogrzewać lub chłodzić, osuszać lub nawilżać, oczyszczać i sterylizować powietrze."
+        }
+      ]
+    },
+    {
+      "heading": "3. Urządzenia kontrolno-pomiarowe",
+      "points": [
+        "Temperatura: termometry laboratoryjne, meteorologiczne, maksymalne, minimalne, kliniczne; ciągła rejestracja – termografy.",
+        "Wilgotność: higrometr włosowy, psychrometr, miernik elektroniczny; ciągła rejestracja – higrografy lub zapis komputerowy.",
+        "Ciśnienie atmosferyczne: barometry rtęciowe i aneroidy; rejestracja – barografy.",
+        "Metody pomiaru gazów: aspiracyjna, wskaźnikowa, dyfuzyjna.",
+        "Normy: PN-71-Z-04041 – amoniak metodą kolorymetryczną; PN-Z-04015-13 – siarkowodór metodą spektrofotometryczną.",
+        "Zapylenie: metoda wagowa (aspiracyjna, grawimetryczna) lub obliczeniowa (konimetryczna); pył całkowity – norma PN-91/Z-04330/05.",
+        "Bakterie i grzyby w powietrzu – metoda sedymentacyjna Omeliańskiego; normy PN-ISO 7954:1999 (grzyby) i PN-EN ISO 6222:2004 (bakterie).",
+        "Do ciągłej obserwacji wilgotności można też stosować elektroniczny zapis danych przez komputer z mierników elektronicznych; parametry mikroklimatu pokazuje też elektroniczna stacja pogodowa (rys. 8.9)."
+      ],
+      "images": [
+        {
+          "src": "img/pz8/psychrometr.jpg",
+          "caption": "Psychrometr (rys. 8.5) – przyrząd z dwoma termometrami do pomiaru wilgotności powietrza."
+        },
+        {
+          "src": "img/pz8/higrometr.jpg",
+          "caption": "Higrometr (rys. 8.6) – pomiar wilgotności względnej powietrza (skala 0–100%)."
+        },
+        {
+          "src": "img/pz8/higrograf.jpg",
+          "caption": "Higrograf (rys. 8.7) – ciągła rejestracja wilgotności powietrza na taśmie bębna."
+        },
+        {
+          "src": "img/pz8/barometr.jpg",
+          "caption": "Barometr (rys. 8.8) – pomiar ciśnienia atmosferycznego (na tarczy skala 990–1030)."
+        },
+        {
+          "src": "img/pz8/stacja-pogodowa.jpg",
+          "caption": "Elektroniczna stacja pogodowa (rys. 8.9) – z czujnikiem zewnętrznym; wyświetla m.in. temperaturę i wilgotność powietrza."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Fizyczne czynniki mikroklimatu",
+      "back": "Światło i promieniowanie, temperatura i wilgotność, ruch powietrza i ochładzanie, ciśnienie atmosferyczne, hałas."
+    },
+    {
+      "front": "Chemiczne czynniki mikroklimatu",
+      "back": "Zanieczyszczenia powietrza, gazy szkodliwe (CO2) i toksyczne (H2S, NH3)."
+    },
+    {
+      "front": "Mikrobiologiczne czynniki mikroklimatu",
+      "back": "Grzyby, bakterie, wirusy."
+    },
+    {
+      "front": "Fizykochemiczny czynnik mikroklimatu",
+      "back": "Pyły (kurze)."
+    },
+    {
+      "front": "Rumień słoneczny",
+      "back": "Zmiany skórne wywołane przez promieniowanie UV."
+    },
+    {
+      "front": "Jaka witamina powstaje w skórze zwierząt pod wpływem UV?",
+      "back": "Witamina D3 (u roślin D2)."
+    },
+    {
+      "front": "Pozytywne działanie UV na krew",
+      "back": "Wzrost poziomu krwinek czerwonych, ciał odpornościowych i hemoglobiny; uwalnianie tlenu z hemoglobiny."
+    },
+    {
+      "front": "Na jakie hormony wpływa światło?",
+      "back": "Gonadotropowe, tyreotropowy, melatonina."
+    },
+    {
+      "front": "Jednostka natężenia oświetlenia",
+      "back": "Luks (lumen/m²)."
+    },
+    {
+      "front": "Rodzaje lamp w budynkach inwentarskich",
+      "back": "Żarowe, jarzeniowe, LED."
+    },
+    {
+      "front": "Współczynnik S1 dla żarówek 15–25 W, 40 W, 60 W",
+      "back": "3,8; 4,2; 5,0."
+    },
+    {
+      "front": "Oświetlenie dzienne (O:P) dla krów, jałówek i cieląt >2 tyg.",
+      "back": "1:18 (sztuczne 20–30 lx)."
+    },
+    {
+      "front": "O:P w profilaktorium dla cieląt",
+      "back": "1:10."
+    },
+    {
+      "front": "O:P w porodówkach i halach udojowych dla bydła",
+      "back": "1:15."
+    },
+    {
+      "front": "O:P dla opasów",
+      "back": "1:25."
+    },
+    {
+      "front": "Natężenie oświetlenia w paszarniach i przechowalniach mleka",
+      "back": "50 lx (O:P 1:20)."
+    },
+    {
+      "front": "Natężenie doświetlania okresowego lampami przenośnymi (bydło)",
+      "back": "50–200 lx."
+    },
+    {
+      "front": "Oświetlenie nocne dla bydła",
+      "back": "3–5 lx."
+    },
+    {
+      "front": "O:P dla tuczników",
+      "back": "1:30."
+    },
+    {
+      "front": "O:P dla prosiąt",
+      "back": "1:25."
+    },
+    {
+      "front": "Natężenie oświetlenia sztucznego dla kur",
+      "back": "20 lx (oświetlenie dzienne nienormowane)."
+    },
+    {
+      "front": "Oświetlenie w pomieszczeniu do strzyży i inseminacji owiec",
+      "back": "O:P 1:10, 100 lx."
+    },
+    {
+      "front": "Oświetlenie w pomieszczeniu do wykotów owiec",
+      "back": "O:P 1:20, 30–40 lx."
+    },
+    {
+      "front": "Skutki braku światła u krów",
+      "back": "Ciche ruje, mniej zapłodnień, dłuższy okres międzyciążowy, spadek mleczności."
+    },
+    {
+      "front": "Skutki braku światła u loch",
+      "back": "Sterylność, spadek mleczności i przeżywalności prosiąt, mniejsze spożycie paszy i przyrosty, gorsze wykorzystanie paszy."
+    },
+    {
+      "front": "Skutki braku światła u drobiu",
+      "back": "Opóźnienie wzrostu i rozwoju, radykalny spadek nieśności, gorsza jakość jaj, osłabienie czynności płciowych samców."
+    },
+    {
+      "front": "Drogi utraty ciepła przez skórę",
+      "back": "Parowanie, przewodzenie, promieniowanie, konwekcja."
+    },
+    {
+      "front": "Dlaczego młode zwierzęta najłatwiej się wychładzają?",
+      "back": "Wyższa temperatura wewnętrzna, szybsza przemiana materii, niekorzystny stosunek masy do powierzchni ciała."
+    },
+    {
+      "front": "Jak świnie radzą sobie z upałem?",
+      "back": "Nie mają gruczołów potowych – przebywają w mokrych częściach kojca."
+    },
+    {
+      "front": "Reakcja bydła i owiec na wysoką temperaturę",
+      "back": "Pocenie się i ziajanie."
+    },
+    {
+      "front": "Części ciała ptaków narażone na odmrożenia",
+      "back": "Grzebienie, korale, zausznice, dzwonki."
+    },
+    {
+      "front": "Optymalna temperatura dla prosiąt do 14 dni",
+      "back": "28°C."
+    },
+    {
+      "front": "Optymalna temperatura dla prosiąt 14–28 dni",
+      "back": "23°C."
+    },
+    {
+      "front": "Optymalna temperatura dla loch karmiących",
+      "back": "20°C."
+    },
+    {
+      "front": "Optymalna temperatura dla knurów i loch",
+      "back": "15°C."
+    },
+    {
+      "front": "Optymalna temperatura dla tuczników",
+      "back": "18°C."
+    },
+    {
+      "front": "Optymalna temperatura dla warchlaków",
+      "back": "19°C."
+    },
+    {
+      "front": "Optymalna temperatura dla krów w oborze",
+      "back": "8–16°C."
+    },
+    {
+      "front": "Optymalna temperatura w porodówce dla krów i w profilaktorium",
+      "back": "16–20°C."
+    },
+    {
+      "front": "Optymalna temperatura dla opasów i buhajów",
+      "back": "10–18°C."
+    },
+    {
+      "front": "Optymalna temperatura dla piskląt kurzych",
+      "back": "28–32°C."
+    },
+    {
+      "front": "Optymalna temperatura dla piskląt indyczych",
+      "back": "35–38°C."
+    },
+    {
+      "front": "Optymalna temperatura dla piskląt kaczek i gęsi",
+      "back": "27–30°C."
+    },
+    {
+      "front": "Od czego zależy wartość termiczna budynku inwentarskiego?",
+      "back": "Od materiałów budowlanych, konstrukcji i wyposażenia, sposobu użytkowania, technologii produkcji."
+    },
+    {
+      "front": "Podział ogrzewania lokalnego",
+      "back": "Górne (lampy podczerwieni) i dolne (płyty grzewcze w podłodze)."
+    },
+    {
+      "front": "Podział ogrzewania ogólnego",
+      "back": "Dynamiczne (nawiewne) i statyczne (radiacyjne)."
+    },
+    {
+      "front": "Źródła wilgoci w budynkach inwentarskich",
+      "back": "Para wodna z oddechu zwierząt i ludzi, parowanie podłogi, ściółki i odchodów, powietrze z zewnątrz."
+    },
+    {
+      "front": "Niedosyt wilgotności",
+      "back": "Różnica między wilgotnością maksymalną a bezwzględną."
+    },
+    {
+      "front": "Punkt rosy",
+      "back": "Temperatura, przy której para wodna skrapla się w pomieszczeniu."
+    },
+    {
+      "front": "Optymalna wilgotność względna dla większości zwierząt",
+      "back": "60–70%."
+    },
+    {
+      "front": "Które zwierzęta dobrze tolerują wilgotność 40%?",
+      "back": "Owce."
+    },
+    {
+      "front": "Maksymalna prędkość ruchu powietrza na wysokości stanowisk",
+      "back": "0,2 m/s."
+    },
+    {
+      "front": "Próg bólu dla dźwięku",
+      "back": "130 dB."
+    },
+    {
+      "front": "Dopuszczalny hałas w czasie odpoczynku zwierząt",
+      "back": "60–70 dB (w czasie prac obsługi 85–90 dB)."
+    },
+    {
+      "front": "Gazy szkodliwe występujące w mniejszych ilościach",
+      "back": "Tlenek węgla, metan, radon, indol i skatol."
+    },
+    {
+      "front": "Ile CO2 zwierzęta wdychają, a ile wydychają?",
+      "back": "Wdychają 0,03%, wydychają 4%."
+    },
+    {
+      "front": "Źródło amoniaku w budynkach inwentarskich",
+      "back": "Odchody zwierząt, zwłaszcza mocz."
+    },
+    {
+      "front": "Źródło siarkowodoru",
+      "back": "Rozkładające się białko."
+    },
+    {
+      "front": "Dopuszczalne stężenie CO2",
+      "back": "3000 ppm (bydło, świnie, owce); 2500 ppm (drób)."
+    },
+    {
+      "front": "Dopuszczalne stężenie amoniaku",
+      "back": "26 ppm (bydło, świnie, owce); 13 ppm (drób)."
+    },
+    {
+      "front": "Dopuszczalne stężenie H2S",
+      "back": "10 ppm dla wszystkich gatunków."
+    },
+    {
+      "front": "Działanie siarkowodoru na organizm",
+      "back": "Silnie toksyczny, paraliżuje układ nerwowy, zapalenia błon śluzowych, nasila anemię."
+    },
+    {
+      "front": "Działanie amoniaku na organizm",
+      "back": "Drażni błony śluzowe, zapalenia spojówek i dróg oddechowych, wiąże hemoglobinę, obniża odporność."
+    },
+    {
+      "front": "Sposoby ograniczania zapylenia",
+      "back": "Nawilżanie i filtrowanie powietrza, intensywna wymiana, pasza granulowana/półpłynna, optymalna wilgotność ściółki."
+    },
+    {
+      "front": "Choroby szerzące się przez zanieczyszczone powietrze",
+      "back": "Gruźlica, różyca, pryszczyca, grzybice."
+    },
+    {
+      "front": "Wentylacja",
+      "back": "Kontrolowana wymiana powietrza za pomocą urządzeń nawiewnych i wyciągowych."
+    },
+    {
+      "front": "Zasada działania wentylacji grawitacyjnej",
+      "back": "Różnica temperatury i ciśnienia powietrza."
+    },
+    {
+      "front": "Minimalna różnica temperatur dla wentylacji grawitacyjnej",
+      "back": "5°C."
+    },
+    {
+      "front": "Minimalna różnica wysokości wlotów i wylotów w wentylacji grawitacyjnej",
+      "back": "4 m w pionie."
+    },
+    {
+      "front": "Po co izoluje się kanał wyciągowy?",
+      "back": "Zapobiega skraplaniu pary wodnej."
+    },
+    {
+      "front": "Rodzaje wentylacji mechanicznej",
+      "back": "Podciśnieniowa (ssąca), nadciśnieniowa (tłocząca), ssąco-tłocząca, kombinowana."
+    },
+    {
+      "front": "Przewaga wentylacji mechanicznej nad grawitacyjną",
+      "back": "Regulacja i kontrola wymiany powietrza niezależnie od różnicy temperatur."
+    },
+    {
+      "front": "Klimatyzacja – funkcje",
+      "back": "Automatyczna regulacja temperatury i wilgotności, ogrzewanie/chłodzenie, osuszanie/nawilżanie, oczyszczanie i sterylizacja powietrza."
+    },
+    {
+      "front": "Przyrząd do ciągłej rejestracji temperatury",
+      "back": "Termograf."
+    },
+    {
+      "front": "Przyrządy do pomiaru wilgotności",
+      "back": "Higrometr włosowy, psychrometr, miernik elektroniczny; rejestracja – higrograf."
+    },
+    {
+      "front": "Przyrządy do pomiaru ciśnienia atmosferycznego",
+      "back": "Barometr rtęciowy i aneroid; rejestracja – barograf."
+    },
+    {
+      "front": "Metody pomiaru stężenia gazów",
+      "back": "Aspiracyjna, wskaźnikowa, dyfuzyjna."
+    },
+    {
+      "front": "Metoda oznaczania amoniaku wg PN-71-Z-04041",
+      "back": "Kolorymetryczna."
+    },
+    {
+      "front": "Metoda oznaczania siarkowodoru wg PN-Z-04015-13",
+      "back": "Spektrofotometryczna."
+    },
+    {
+      "front": "Metody pomiaru zapylenia",
+      "back": "Wagowa (aspiracyjna, grawimetryczna) lub obliczeniowa (konimetryczna)."
+    },
+    {
+      "front": "Metoda pomiaru liczby bakterii i grzybów w powietrzu",
+      "back": "Sedymentacyjna metoda Omeliańskiego."
+    },
+    {
+      "front": "Jaki rodzaj wentylacji przedstawia schemat? Jakie warunki muszą być spełnione?",
+      "back": "Wentylacja grawitacyjna – różnica temperatur min. 5°C, różnica wysokości wlotów i wylotu min. 4 m w pionie, duży przekrój i izolacja kanału wyciągowego.",
+      "img": "img/pz8/wentylacja-grawitacyjna.jpg"
+    },
+    {
+      "front": "Jaki rodzaj wentylacji przedstawia schemat (wentylator w kominie)?",
+      "back": "Wentylacja mechaniczna – reguluje wymianę powietrza niezależnie od różnicy temperatur; rodzaje: podciśnieniowa (ssąca), nadciśnieniowa (tłocząca), ssąco-tłocząca, kombinowana.",
+      "img": "img/pz8/wentylacja-mechaniczna.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd i co mierzy?",
+      "back": "Psychrometr – mierzy wilgotność powietrza.",
+      "img": "img/pz8/psychrometr.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd i co rejestruje?",
+      "back": "Higrograf – ciągła rejestracja wilgotności powietrza.",
+      "img": "img/pz8/higrograf.jpg"
+    },
+    {
+      "front": "Wzór na liczbę żarówek w pomieszczeniu inwentarskim",
+      "back": "LŻ = (P · Z) / (W · S1); P – powierzchnia (m²), Z – natężenie wg norm (lx), W – moc żarówki (W), S1 – współczynnik (3,8 / 4,2 / 5,0)."
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd i co mierzy? (higrometr, rys. 8.6)",
+      "back": "Higrometr (np. włosowy) – mierzy wilgotność względną powietrza.",
+      "img": "img/pz8/higrometr.jpg"
+    },
+    {
+      "front": "Jak nazywa się ten przyrząd i co mierzy? (rys. 8.8)",
+      "back": "Barometr – mierzy ciśnienie atmosferyczne (rejestracja – barograf).",
+      "img": "img/pz8/barometr.jpg"
+    },
+    {
+      "front": "Które pomieszczenia dla bydła mogą wymagać doświetlania okresowego lampami przenośnymi i jakim natężeniem?",
+      "back": "Profilaktoria, porodówki, przechowalnie mleka, hale udojowe, stanowiska zabiegowe – 50–200 lx."
+    },
+    {
+      "front": "Od czego może zależeć automatyczne sterowanie wydajnością wentylatorów?",
+      "back": "Od temperatury powietrza w pomieszczeniu lub temperatury powietrza otaczającego budynek."
+    },
+    {
+      "front": "Skutki podwyższonego stężenia CO2 dla zwierząt",
+      "back": "Zakwaszenie organizmu, osłabienie procesów spalania, duszności, osłabienie mechanizmów obronnych układu oddechowego, predysponowanie do jego schorzeń."
+    },
+    {
+      "front": "Norma oznaczania pyłu całkowitego",
+      "back": "PN-91/Z-04330/05."
+    },
+    {
+      "front": "Normy dla oznaczania grzybów i bakterii w powietrzu (metoda Omeliańskiego)",
+      "back": "PN-ISO 7954:1999 (grzyby), PN-EN ISO 6222:2004 (bakterie)."
+    },
+    {
+      "front": "Rodzaje termometrów do pomiaru temperatury w budynkach inwentarskich",
+      "back": "Laboratoryjne, meteorologiczne, maksymalne, minimalne, kliniczne (ciągła rejestracja – termografy)."
+    },
+    {
+      "front": "Na co zwraca się uwagę przy ocenie oświetlenia sztucznego?",
+      "back": "Natężenie światła i długość dnia świetlnego, miejsca przebywania zwierząt, równomierność oświetlenia, barwę światła, możliwość regulacji natężenia i czasu oświetlenia."
+    },
+    {
+      "front": "Od czego zależy oświetlenie sztuczne pomieszczeń inwentarskich?",
+      "back": "Od ilości, rozmieszczenia, rodzaju i mocy źródeł światła (lampy żarowe, jarzeniowe, LED)."
+    },
+    {
+      "front": "Oświetlenie dla trzody chlewnej – O:P knurów, loch, knurków i loszek oraz natężenie sztuczne",
+      "back": "O:P 1:20 (knury, lochy luźne i prośne, knurki i loszki hodowlane, lochy karmiące); prosięta 1:25, tuczniki 1:30; oświetlenie sztuczne 40 lx."
+    },
+    {
+      "front": "Rodzaje pyłów w pomieszczeniach inwentarskich",
+      "back": "Organiczne: cząstki roślinne, resztki paszy i ściółki, sierść, nabłonek, pióra, pyłki roślin; nieorganiczne: piasek, ziemia, środki chemiczne, cement, nawozy mineralne, składniki spalin."
+    },
+    {
+      "front": "Skutki pyłów dla zwierząt",
+      "back": "Zaburzenia gruczołów skóry, zapalenia skóry, podrażnienia i zapalenia błon śluzowych, zapalenia górnych dróg oddechowych, uszkodzenia układu oddechowego i krążenia."
+    },
+    {
+      "front": "Skutki hałasu u zwierząt",
+      "back": "Uszkodzenie słuchu, spadek nieśności kur, mniejsza produkcja mleka, wolniejszy wzrost młodych; zaburzenia gruczołów dokrewnych, pracy serca i wydzielania soku żołądkowego."
+    },
+    {
+      "front": "Wskaźniki wilgotności powietrza i ich jednostki",
+      "back": "Wilgotność bezwzględna (aktualna) i maksymalna – g/m³; wilgotność względna – %; niedosyt wilgotności; punkt rosy."
+    },
+    {
+      "front": "Reakcje zwierząt na temperaturę poniżej dolnej temperatury krytycznej",
+      "back": "Zwężenie naczyń krwionośnych, drżenie mięśni, odmrożenia (uszy, ogon, dolne części nóg; u ptaków grzebienie, korale, zausznice, dzwonki), szybsza przemiana materii, spadek produkcyjności, obniżenie odporności."
+    },
+    {
+      "front": "Optymalne temperatury: lochy wysokoprośne, prosięta starsze, knurki i loszki",
+      "back": "Lochy wysokoprośne 19°C, prosięta starsze 21°C, knurki i loszki 17°C."
+    },
+    {
+      "front": "Optymalne temperatury: cielęta do 3 mies., cielęta powyżej 3 mies., jałówki powyżej 6 mies.",
+      "back": "12–20°C; 12–16°C; 8–16°C."
+    },
+    {
+      "front": "Optymalne temperatury dla dorosłego drobiu i młodzieży (kury, indyki, kaczki, gęsi)",
+      "back": "Kury: dorosłe 10–20°C, młodzież 18–20°C; indyki: 8–18°C, młodzież 18–24°C; kaczki: 16–18°C, młodzież 18–20°C; gęsi: 6–18°C, młodzież 18–20°C."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pod wpływem promieniowania UV w skórze zwierząt powstaje witamina:",
+      "options": [
+        "A",
+        "E",
+        "K",
+        "D3"
+      ],
+      "answer": 3,
+      "explain": "Ważną reakcją fotochemiczną wywołaną przez UV jest powstawanie w skórze zwierząt witaminy D3."
+    },
+    {
+      "q": "Zmiany skórne wywołane działaniem promieniowania UV określa się jako:",
+      "options": [
+        "różycę",
+        "parakeratozę",
+        "rumień słoneczny",
+        "świerzb"
+      ],
+      "answer": 2,
+      "explain": "UV wywołuje zmiany skórne określane jako rumień słoneczny."
+    },
+    {
+      "q": "Jednostką natężenia oświetlenia jest:",
+      "options": [
+        "decybel",
+        "ppm",
+        "luks",
+        "kandela na metr"
+      ],
+      "answer": 2,
+      "explain": "Mierzalną jednostką natężenia oświetlenia jest luks (lumen/m²)."
+    },
+    {
+      "q": "Współczynnik S1 dla żarówek o mocy 60 W wynosi:",
+      "options": [
+        "3,8",
+        "5,0",
+        "4,2",
+        "6,5"
+      ],
+      "answer": 1,
+      "explain": "S1 wynosi 3,8 dla 15–25 W, 4,2 dla 40 W i 5,0 dla 60 W."
+    },
+    {
+      "q": "Stosunek powierzchni okien do podłogi w profilaktorium dla cieląt powinien wynosić:",
+      "options": [
+        "1:10",
+        "1:18",
+        "1:25",
+        "1:30"
+      ],
+      "answer": 0,
+      "explain": "Dla profilaktorium dla cieląt O:P wynosi 1:10."
+    },
+    {
+      "q": "Stosunek powierzchni okien do podłogi w pomieszczeniach dla krów wynosi:",
+      "options": [
+        "1:10",
+        "1:30",
+        "1:18",
+        "1:40"
+      ],
+      "answer": 2,
+      "explain": "Dla krów, jałówek i cieląt powyżej 2 tygodni O:P wynosi 1:18."
+    },
+    {
+      "q": "Oświetlenie nocne dla wszystkich kategorii bydła powinno wynosić:",
+      "options": [
+        "3–5 lx",
+        "20–30 lx",
+        "50 lx",
+        "100 lx"
+      ],
+      "answer": 0,
+      "explain": "Oświetlenie nocne dla wszystkich kategorii bydła wynosi 3–5 lx."
+    },
+    {
+      "q": "Najmniejszy wymagany stosunek okien do podłogi w chlewni (1:30) dotyczy:",
+      "options": [
+        "prosiąt",
+        "loch karmiących",
+        "knurów",
+        "tuczników"
+      ],
+      "answer": 3,
+      "explain": "Dla tuczników O:P wynosi 1:30."
+    },
+    {
+      "q": "Natężenie oświetlenia w pomieszczeniu do strzyży i inseminacji owiec wynosi:",
+      "options": [
+        "100 lx",
+        "20 lx",
+        "3–5 lx",
+        "40 lx"
+      ],
+      "answer": 0,
+      "explain": "Pomieszczenia do strzyży i inseminacji owiec wymagają 100 lx."
+    },
+    {
+      "q": "Ciche ruje u krów mogą być skutkiem:",
+      "options": [
+        "braku światła",
+        "nadmiaru wilgoci",
+        "zbyt niskiego stężenia CO2",
+        "zbyt dużego ruchu powietrza"
+      ],
+      "answer": 0,
+      "explain": "Skutkiem braku światła u krów są słabe objawy rui (tzw. ciche ruje)."
+    },
+    {
+      "q": "Radykalne obniżenie nieśności jest skutkiem braku światła u:",
+      "options": [
+        "loch",
+        "krów",
+        "owiec",
+        "drobiu"
+      ],
+      "answer": 3,
+      "explain": "U drobiu brak światła powoduje m.in. radykalne obniżenie nieśności."
+    },
+    {
+      "q": "Na wychłodzenie najbardziej narażone są:",
+      "options": [
+        "dorosłe krowy",
+        "pisklęta i prosięta",
+        "tryki",
+        "konie zimnokrwiste"
+      ],
+      "answer": 1,
+      "explain": "Najbardziej narażone są zwierzęta młode – pisklęta i prosięta."
+    },
+    {
+      "q": "Świnie w czasie upałów przebywają w mokrych częściach kojca, ponieważ:",
+      "options": [
+        "mają gęstą szczecinę",
+        "mają niską temperaturę ciała",
+        "nie mają gruczołów potowych",
+        "nie potrafią ziajać"
+      ],
+      "answer": 2,
+      "explain": "Świnie nie posiadają gruczołów potowych – przebywają w mokrych częściach kojca."
+    },
+    {
+      "q": "Optymalna temperatura dla prosiąt do 14. dnia życia wynosi:",
+      "options": [
+        "15°C",
+        "21°C",
+        "28°C",
+        "35°C"
+      ],
+      "answer": 2,
+      "explain": "Dla prosiąt do 14 dni temperatura optymalna wynosi 28°C."
+    },
+    {
+      "q": "Optymalna temperatura dla loch karmiących wynosi:",
+      "options": [
+        "15°C",
+        "28°C",
+        "10°C",
+        "20°C"
+      ],
+      "answer": 3,
+      "explain": "Dla loch karmiących temperatura optymalna wynosi 20°C."
+    },
+    {
+      "q": "Optymalna temperatura dla tuczników wynosi:",
+      "options": [
+        "18°C",
+        "12°C",
+        "23°C",
+        "28°C"
+      ],
+      "answer": 0,
+      "explain": "Dla tuczników temperatura optymalna wynosi 18°C."
+    },
+    {
+      "q": "Optymalna temperatura w oborze dla krów wynosi:",
+      "options": [
+        "8–16°C",
+        "16–20°C",
+        "20–25°C",
+        "0–5°C"
+      ],
+      "answer": 0,
+      "explain": "Dla krów w oborze temperatura optymalna wynosi 8–16°C."
+    },
+    {
+      "q": "Najwyższa temperatura optymalna spośród piskląt dotyczy piskląt:",
+      "options": [
+        "kurzych (28–32°C)",
+        "kaczych (27–30°C)",
+        "indyczych (35–38°C)",
+        "gęsich (27–30°C)"
+      ],
+      "answer": 2,
+      "explain": "Pisklęta indycze wymagają 35–38°C."
+    },
+    {
+      "q": "Promienniki podczerwieni dla prosiąt to przykład ogrzewania:",
+      "options": [
+        "ogólnego dynamicznego",
+        "lokalnego górnego",
+        "lokalnego dolnego",
+        "ogólnego statycznego"
+      ],
+      "answer": 1,
+      "explain": "Ogrzewanie lokalne dzieli się na górne (lampy podczerwieni) i dolne (płyty grzewcze)."
+    },
+    {
+      "q": "Płyty grzewcze w podłodze to ogrzewanie:",
+      "options": [
+        "lokalne górne",
+        "lokalne dolne",
+        "ogólne nawiewne",
+        "ogólne radiacyjne"
+      ],
+      "answer": 1,
+      "explain": "Ogrzewanie lokalne dolne to płyty grzewcze w podłogach."
+    },
+    {
+      "q": "Niedosyt wilgotności to:",
+      "options": [
+        "temperatura skraplania pary wodnej",
+        "wilgotność wyrażona w %",
+        "ilość wody w ściółce",
+        "różnica między wilgotnością maksymalną a bezwzględną"
+      ],
+      "answer": 3,
+      "explain": "Niedosyt wilgotności to różnica pomiędzy wilgotnością maksymalną i bezwzględną."
+    },
+    {
+      "q": "Punkt rosy to:",
+      "options": [
+        "maksymalna wilgotność powietrza",
+        "różnica wilgotności w g/m³",
+        "temperatura, przy której para wodna skrapla się w pomieszczeniu",
+        "wilgotność 100% przy 0°C"
+      ],
+      "answer": 2,
+      "explain": "Punkt rosy to temperatura, przy której następuje skraplanie się pary wodnej."
+    },
+    {
+      "q": "Optymalna wilgotność względna dla większości zwierząt wynosi:",
+      "options": [
+        "30–40%",
+        "60–70%",
+        "85–95%",
+        "45–50%"
+      ],
+      "answer": 1,
+      "explain": "Dla większości zwierząt optymalna wilgotność względna waha się od 60 do 70%."
+    },
+    {
+      "q": "Ruch powietrza na wysokości stanowisk nie powinien przekraczać:",
+      "options": [
+        "0,2 m/s",
+        "1 m/s",
+        "2 m/s",
+        "0,02 m/s"
+      ],
+      "answer": 0,
+      "explain": "Ruch powietrza na wysokości stanowisk nie powinien przekraczać 0,2 m/s."
+    },
+    {
+      "q": "Hałas w czasie odpoczynku zwierząt nie powinien przekraczać:",
+      "options": [
+        "30–40 dB",
+        "85–90 dB",
+        "130 dB",
+        "60–70 dB"
+      ],
+      "answer": 3,
+      "explain": "Hałas w czasie odpoczynku zwierząt nie powinien przekraczać 60–70 dB."
+    },
+    {
+      "q": "Próg bólu dla natężenia dźwięku określa się na:",
+      "options": [
+        "60 dB",
+        "130 dB",
+        "90 dB",
+        "200 dB"
+      ],
+      "answer": 1,
+      "explain": "Za punkt górny, wywołujący uczucie bólu, określa się 130 dB."
+    },
+    {
+      "q": "Źródłem siarkowodoru w pomieszczeniach inwentarskich jest:",
+      "options": [
+        "mocz",
+        "wydychane powietrze",
+        "rozkładające się białko",
+        "spaliny"
+      ],
+      "answer": 2,
+      "explain": "Źródłem siarkowodoru jest rozkładające się białko."
+    },
+    {
+      "q": "Głównym źródłem amoniaku w budynkach inwentarskich jest:",
+      "options": [
+        "rozkładające się białko paszy",
+        "wydychane powietrze",
+        "ściółka słomiana",
+        "mocz"
+      ],
+      "answer": 3,
+      "explain": "Źródłem amoniaku są odchody zwierząt, a w szczególności mocz."
+    },
+    {
+      "q": "Dopuszczalne stężenie CO2 w pomieszczeniach dla bydła wynosi:",
+      "options": [
+        "2500 ppm",
+        "26 ppm",
+        "3000 ppm",
+        "10 ppm"
+      ],
+      "answer": 2,
+      "explain": "Dopuszczalne stężenie CO2 dla bydła, trzody chlewnej i owiec wynosi 3000 ppm."
+    },
+    {
+      "q": "Dopuszczalne stężenie amoniaku w kurniku wynosi:",
+      "options": [
+        "13 ppm",
+        "26 ppm",
+        "10 ppm",
+        "2500 ppm"
+      ],
+      "answer": 0,
+      "explain": "Dla drobiu dopuszczalne stężenie amoniaku wynosi 13 ppm."
+    },
+    {
+      "q": "Dopuszczalne stężenie siarkowodoru dla wszystkich gatunków wynosi:",
+      "options": [
+        "26 ppm",
+        "10 ppm",
+        "100 ppm",
+        "3000 ppm"
+      ],
+      "answer": 1,
+      "explain": "Dla H2S dopuszczalne stężenie dla wszystkich gatunków wynosi 10 ppm."
+    },
+    {
+      "q": "Gaz silnie toksyczny, paraliżujący układ nerwowy i nasilający anemię to:",
+      "options": [
+        "dwutlenek węgla",
+        "siarkowodór",
+        "metan",
+        "amoniak"
+      ],
+      "answer": 1,
+      "explain": "H2S jest silnie toksyczny, paraliżuje układ nerwowy i nasila anemię."
+    },
+    {
+      "q": "Ograniczeniu zapylenia sprzyja:",
+      "options": [
+        "zmiana paszy z pylistej na granulowaną",
+        "suszenie ściółki do zera",
+        "ograniczenie wymiany powietrza",
+        "zadawanie paszy na sucho w postaci mączki"
+      ],
+      "answer": 0,
+      "explain": "Zapylenie ogranicza m.in. zmiana konsystencji paszy z pylistej na granulowaną lub półpłynną."
+    },
+    {
+      "q": "Warunkiem sprawnej wentylacji grawitacyjnej jest różnica temperatur wynosząca co najmniej:",
+      "options": [
+        "5°C",
+        "1°C",
+        "15°C",
+        "25°C"
+      ],
+      "answer": 0,
+      "explain": "Wentylacja grawitacyjna wymaga różnicy temperatur min. 5°C."
+    },
+    {
+      "q": "Różnica wysokości między wlotem nawiewnym a wylotem wywiewnym w wentylacji grawitacyjnej powinna wynosić co najmniej:",
+      "options": [
+        "1 m",
+        "4 m",
+        "10 m",
+        "0,5 m"
+      ],
+      "answer": 1,
+      "explain": "Różnica wysokości kanałów nawiewnych i wywiewnych musi wynosić min. 4 m w pionie."
+    },
+    {
+      "q": "Wentylacja mechaniczna ssąca to wentylacja:",
+      "options": [
+        "nadciśnieniowa",
+        "grawitacyjna",
+        "kombinowana",
+        "podciśnieniowa"
+      ],
+      "answer": 3,
+      "explain": "Rozróżnia się wentylację podciśnieniową (ssącą), nadciśnieniową (tłoczącą), ssąco-tłoczącą i kombinowaną."
+    },
+    {
+      "q": "Do ciągłej rejestracji wilgotności względnej służy:",
+      "options": [
+        "barograf",
+        "termograf",
+        "higrograf",
+        "aneroid"
+      ],
+      "answer": 2,
+      "explain": "Do ciągłej obserwacji wilgotności względnej wykorzystuje się higrografy."
+    },
+    {
+      "q": "Aneroid służy do pomiaru:",
+      "options": [
+        "wilgotności powietrza",
+        "stężenia amoniaku",
+        "zapylenia",
+        "ciśnienia atmosferycznego"
+      ],
+      "answer": 3,
+      "explain": "Do pomiaru ciśnienia atmosferycznego służą barometry rtęciowe i aneroidy."
+    },
+    {
+      "q": "Liczbę bakterii i grzybów w powietrzu najlepiej oznaczać metodą:",
+      "options": [
+        "kolorymetryczną",
+        "sedymentacyjną Omeliańskiego",
+        "konimetryczną",
+        "spektrofotometryczną"
+      ],
+      "answer": 1,
+      "explain": "Pomiar liczby bakterii i grzybów najlepiej wykonać metodą sedymentacyjną Omeliańskiego."
+    },
+    {
+      "q": "Do czego służy przyrząd przedstawiony na ilustracji?",
+      "options": [
+        "Do ciągłej rejestracji wilgotności powietrza",
+        "Do pomiaru stężenia amoniaku",
+        "Do pomiaru natężenia oświetlenia",
+        "Do pomiaru ciśnienia atmosferycznego"
+      ],
+      "answer": 0,
+      "explain": "To higrograf – rejestruje wilgotność powietrza w sposób ciągły.",
+      "img": "img/pz8/higrograf.jpg"
+    },
+    {
+      "q": "Jak nazywa się przyrząd z dwoma termometrami przedstawiony na ilustracji?",
+      "options": [
+        "Psychrometr",
+        "Barometr",
+        "Higrograf",
+        "Termograf"
+      ],
+      "answer": 0,
+      "explain": "Psychrometr służy do pomiaru wilgotności powietrza.",
+      "img": "img/pz8/psychrometr.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Najważniejsze czynniki mikroklimatu dzielą się na:",
+      "options": [
+        "mikrobiologiczne.",
+        "fizyczne.",
+        "fizykochemiczne.",
+        "chemiczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMłode zwierzęta wymagają utrzymania … temperatury w pomieszczeniu.",
+      "options": [
+        "niższej",
+        "wyższej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Podwyższony poziom stężenia CO2 w pomieszczeniu inwentarskim paraliżuje układ nerwowy zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Skutkami braku światła występującymi u krów są:",
+      "options": [
+        "wydłużenie okresu międzyciążowego.",
+        "opóźnienie rozwoju.",
+        "słabe objawy rui.",
+        "częściowa lub całkowita sterylność."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo pomiaru wilgotności powietrza stosuje się ….",
+      "options": [
+        "barografy",
+        "psychrometry"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚwiatło widzialne wpływa na wytwarzanie wielu hormonów u zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ograniczenie zapylenia w pomieszczeniach inwentarskich jest możliwe poprzez:",
+      "options": [
+        "filtrowanie powietrza wentylacyjnego.",
+        "nawilżanie powietrza wentylacyjnego.",
+        "utrzymywanie niskiej wilgotności ściółki.",
+        "intensywną wymianę powietrza."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWentylacja działająca na zasadzie różnicy temperatury i ciśnienia powietrza to wentylacja ….",
+      "options": [
+        "mechaniczna",
+        "grawitacyjna"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla większości zwierząt optymalna wilgotność względna w pomieszczeniach waha się od 30 do 50%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Hałas w czasie odpoczynku zwierząt nie powinien przekraczać:",
+      "options": [
+        "60–70 dB.",
+        "85–90 dB.",
+        "40–50 dB.",
+        "100–130 dB."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSzybsza przemiana materii u zwierząt jest skutkiem … temperatury powietrza.",
+      "options": [
+        "niskiej",
+        "wysokiej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceniając oświetlenie sztuczne w pomieszczeniach gospodarskich, należy zwrócić szczególną uwagę na:",
+      "options": [
+        "równomierność oświetlenia.",
+        "koszt energii elektrycznej.",
+        "długość dnia świetlnego.",
+        "barwę emitowanego światła."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRuch powietrza na wysokości stanowisk nie powinien przekraczać 0,2 m/s.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMierzalną jednostką natężenia oświetlenia jest ….",
+      "options": [
+        "lumen",
+        "luks"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDziałaniem pozytywnym odpowiedniej wentylacji powietrza jest pobudzanie wydzielania tlenu z hemoglobiny, dzięki czemu wzrasta oddychanie komórkowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Skutkami podwyższonego stężenia NH4 w pomieszczeniu inwentarskim są:",
+      "options": [
+        "obniżenie wymiany tlenowej poprzez wiązanie hemoglobiny.",
+        "nasilenie anemii.",
+        "stany zapalne spojówek.",
+        "zakwaszenie organizmu."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nHałas w czasie wykonywania codziennych prac obsługi zwierząt nie powinien przekraczać ….",
+      "options": [
+        "85–90 dB",
+        "60–70 dB"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPunkt rosy to różnica pomiędzy wilgotnością maksymalną i bezwzględną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Optymalna temperatura dla tuczników w pomieszczeniu inwentarskim wynosi:",
+      "options": [
+        "15°C.",
+        "25°C.",
+        "28°C.",
+        "18°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWentylatory służą do przetłaczania … objętości powietrza.",
+      "options": [
+        "małych",
+        "dużych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zależności od składu, zanieczyszczenia mikrobiologiczne powodują u zwierząt alergie lub choroby zakaźne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Źródłem wilgoci w pomieszczeniach inwentarskich są:",
+      "options": [
+        "parowanie ściółki.",
+        "parowanie odchodów.",
+        "dostające się z zewnątrz powietrze.",
+        "parowanie podłogi."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWymagane natężenie światła (podane w luksach) w budynku inwentarskim, w przypadku utrzymywania prosiąt wynosi ….",
+      "options": [
+        "20",
+        "40"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Ogrzewanie lokalne dzielimy na górne (lampy podczerwieni) i dolne (płyty grzewcze w podłogach).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje wentylacji mechanicznej.",
+      "options": [
+        "Nadciśnieniowa.",
+        "Kombinowana.",
+        "Grawitacyjna.",
+        "Podciśnieniowa."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. W przypadku pomieszczenia inwentarskiego przeznaczonego dla kur, stosunek ilości okien do podłogi nie jest normowany.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSposób pomiaru natężenia gazów w pomieszczeniach dla zwierząt … znormalizowany.",
+      "options": [
+        "nie jest",
+        "jest"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Czynnikiem, który powoduje osłabienie procesów spalania u zwierząt jest:",
+      "options": [
+        "hałas.",
+        "niska temperatura.",
+        "brak światła.",
+        "CO2."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzekrwienie skóry jest skutkiem trzymania zwierząt w pomieszczeniach o … temperaturze.",
+      "options": [
+        "wysokiej",
+        "niskiej"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDziałanie promieni UV hamuje wydzielanie tlenu z hemoglobiny, dzięki czemu następuje spadek oddychania komórkowego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLiczbę punktów świetlnych w pomieszczeniu można ustalić, obliczając stosunek iloczynu mocy żarówek i współczynnika zależnego, do iloczynu powierzchni pomieszczenia i natężenia oświetlenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż warunki, jakie muszą być spełnione w celu sprawnego odprowadzania zanieczyszczonego powietrza przy zastosowaniu wentylacji grawitacyjnej.",
+      "options": [
+        "Różnica temperatur min. 10°C.",
+        "Powierzchnia kanału wyciągowego – im mniejsza tym lepiej.",
+        "Izolacja termiczna kanału wyciągowego.",
+        "Różnica temperatur min. 5°C."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nŹródłem siarkowodoru ….",
+      "options": [
+        "jest rozkładające się białko",
+        "są odchody zwierząt"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zanieczyszczenia pochodzenia organicznego.",
+      "options": [
+        "Drobiny ziemi.",
+        "Resztki paszy.",
+        "Drobiny nawozów mineralnych.",
+        "Ściółka."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nToksycznym gazem jest ….",
+      "options": [
+        "dwutlenek węgla",
+        "siarkowodór"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta gospodarskie w niskiej temperaturze wykorzystują dodatkową energię do utrzymania ciepła, skutkiem czego jest spadek produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zbyt duże natężenie dźwięku powoduje:",
+      "options": [
+        "spadek produkcji mleka u krów.",
+        "spadek nieśności kur.",
+        "zaburzenia pracy serca.",
+        "zaburzenia górnych dróg oddechowych."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOgrzewanie ogólne dzieli się na nawiewne i ….",
+      "options": [
+        "radiacyjne",
+        "indukcyjne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja utrzymuje w pomieszczeniu inwentarskim wszystkie czynniki mikroklimatyczne na optymalnym poziomie, jednak powoduje przy tym przeciągi oraz duże straty ciepła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wartość termiczna budynku inwentarskiego zależy od:",
+      "options": [
+        "warunków klimatycznych.",
+        "technologii produkcji zwierzęcej.",
+        "sposobu użytkowania budynku.",
+        "wysokości budynku."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNatężenie hałasu w granicach 100dB–110dB powoduje wzrost produkcyjności u zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo rejestracji ciśnienia atmosferycznego służą ….",
+      "options": [
+        "barometry",
+        "barografy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Optymalna temperatura dla krów w oborze wynosi:",
+      "options": [
+        "20°C.",
+        "8–16°C.",
+        "16–20°C.",
+        "28–32°C."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW pomieszczeniach zamkniętych słabo wentylowanych stężenie dwutlenku węgla ….",
+      "options": [
+        "maleje.",
+        "rośnie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedną z metod na ograniczenie zapylenia w pomieszczeniu inwentarskim jest utrzymanie optymalnej wilgotności ściółki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż skutki przekroczenia górnej temperatury krytycznej w pomieszczeniu inwentarskim, występujące u zwierząt.",
+      "options": [
+        "Rozszerzenie naczyń krwionośnych.",
+        "Przekrwienie skóry.",
+        "Nasilenie anemii.",
+        "Obniżenie odporności."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMierzalną jednostką natężenia oświetlenia jest luks.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Najważniejsze czynniki mikroklimatu dzielą się na:",
+      "options": [
+        "chemiczne.",
+        "mikrobiologiczne.",
+        "fizyczne.",
+        "fizykochemiczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹródłem amoniaku jest rozkładające się włókno paszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOgrzewanie ogólne dzielimy na górne (lampy podczerwieni) i dolne (płyty grzewcze w podłogach).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie jest dopuszczalne maksymalne stężenie siarkowodoru w pomieszczeniach inwentarskich, dotyczące wszystkich gatunków zwierząt gospodarskich?",
+      "options": [
+        "26 ppm.",
+        "1000 ppm.",
+        "10 ppm.",
+        "2500 ppm."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Optymalna temperatura panująca w pomieszczeniu dla knurów wynosi:",
+      "options": [
+        "15°C.",
+        "8–16°C.",
+        "28–32°C.",
+        "16–20°C."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwce to zwierzęta, które dobrze znoszą niską, 40% wilgotność względną w pomieszczeniach inwentarskich.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Hałas w czasie wykonywania codziennych prac obsługi zwierząt nie powinien przekraczać:",
+      "options": [
+        "100–130 dB.",
+        "60–70 dB.",
+        "85–90 dB.",
+        "40–50 dB."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Zaznacz pozytywne skutki działania promieni UV na zwierzęta.",
+      "options": [
+        "Podwyższenie temperatury ciała.",
+        "Wzrost oddychania komórkowego.",
+        "Rumień słoneczny.",
+        "Powstawanie w skórze zwierząt witaminy D3."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode zwierzęta wymagają niższej temperatury powietrza w pomieszczeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Skutkami podwyższonego stężenia CO2 w pomieszczeniu inwentarskim są:",
+      "options": [
+        "nasilenie anemii.",
+        "stany zapalne spojówek.",
+        "zakwaszenie organizmu.",
+        "osłabienie procesów spalania."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Ruch powietrza na wysokości stanowisk zwierząt nie powinien przekraczać:",
+      "options": [
+        "0,2 m/s.",
+        "1 m/s.",
+        "0,5 m/s.",
+        "0,1 m/s."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Natężenie świata oświetlenia sztucznego w paszarniach i przechowalniach mleka powinno wynosić 50 luksów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zbyt duże natężenie dźwięku powoduje:",
+      "options": [
+        "zaburzenia pracy serca.",
+        "szybsze tempo wzrostu u młodych zwierząt.",
+        "zaburzenia górnych dróg oddechowych.",
+        "zaburzenia w wydzielaniu soku żołądkowego."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki gaz powoduje obniżenie wymiany tlenowej poprzez wiązanie hemoglobiny?",
+      "options": [
+        "Tlenek wodoru.",
+        "Dwutlenek węgla.",
+        "Amoniak.",
+        "Siarkowodór."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja działająca na zasadzie różnicy temperatury i ciśnienia powietrza to wentylacja mechaniczna.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedosyt wilgotności to różnica pomiędzy wilgotnością maksymalną i bezwzględną.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚwiatło widzialne odgrywa ważną rolę odpornościową u zwierząt młodych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rodzaje wentylacji mechanicznej.",
+      "options": [
+        "Podciśnieniowa.",
+        "Kombinowana.",
+        "Nadciśnieniowa.",
+        "Grawitacyjna."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceniając oświetlenie sztuczne w pomieszczeniach gospodarskich, należy zwrócić szczególną uwagę na:",
+      "options": [
+        "długość dnia świetlnego.",
+        "koszt energii elektrycznej.",
+        "barwę emitowanego światła.",
+        "równomierność oświetlenia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLiczbę punktów świetlnych w pomieszczeniu można ustalić, obliczając stosunek iloczynu mocy żarówek i natężenia oświetlenia do iloczynu powierzchni pomieszczenia i współczynnika zależnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta gospodarskie w niskiej temperaturze wykorzystują dodatkową energię do utrzymania ciepła, skutkiem czego jest spadek produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż skutki braku światła występujące u loch.",
+      "options": [
+        "Słabe objawy rui.",
+        "Opóźnienie wzrostu.",
+        "Pogorszenie współczynnika wykorzystania paszy.",
+        "Częściowa lub całkowita sterylność."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZanieczyszczenia biologiczne są wywoływane przez wirusy, bakterie i zarodniki grzybów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla większości zwierząt optymalna wilgotność względna w pomieszczeniach waha się:",
+      "options": [
+        "od 60 do 70%.",
+        "od 20 do 30%.",
+        "od 75 do 85%.",
+        "od 40 do 60%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo ciągłej rejestracji pomiaru temperatury wykorzystuje się higrografy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zanieczyszczenia pochodzenia nieorganicznego.",
+      "options": [
+        "Resztki paszy.",
+        "Drobiny nawozów mineralnych.",
+        "Drobiny ziemi."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo pomiaru ciśnienia atmosferycznego służą barometry.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSposób pomiaru natężenia gazów w pomieszczeniach dla zwierząt nie jest znormalizowany.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wartość termiczna budynku inwentarskiego zależy od:",
+      "options": [
+        "wysokości budynku.",
+        "sposobu użytkowania budynku.",
+        "technologii produkcji zwierzęcej.",
+        "warunków klimatycznych."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W przypadku pomieszczeń dla knura wymagane natężenie światła (podane w luksach) w budynku inwentarskim wynosi:",
+      "options": [
+        "20",
+        "40",
+        "10",
+        "60"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylatory służą do przetłaczania dużych objętości powietrza.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKlimatyzacja jest w stanie zapewnić ściśle określone warunki mikroklimatyczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWentylacja grawitacyjna umożliwia regulację i zapewnia kontrolę wymiany powietrza w budynkach inwentarskich oraz działa niezależnie od różnicy temperatury powietrza w budynku i na zewnątrz",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

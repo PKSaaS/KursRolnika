@@ -1,0 +1,2089 @@
+{
+  "id": "ur8",
+  "course": "Uprawa roślin",
+  "title": "Metody ekologiczne w uprawie roślin",
+  "number": "VIII",
+  "notes": [
+    {
+      "heading": "Wstęp",
+      "points": [
+        "Naturalnym środowiskiem roślinnym w Polsce i dużej części Europy jest las – człowiek przekształcił go w grunty rolne po przejściu na osiadły tryb życia.",
+        "Silne negatywne oddziaływanie rolnictwa na środowisko zaczęło się po II wojnie światowej (intensyfikacja, nawozy sztuczne, pestycydy).",
+        "Skutki: przekroczone normy azotanów, azotynów i pozostałości pestycydów w wodach i żywności.",
+        "Zadania rolnictwa: produkcyjne, ochrona środowiska i zdrowia, socjalne, kulturowe.",
+        "Zadanie produkcyjne – wysokowartościowa żywność w wystarczającej ilości przy trwałym zachowaniu żyzności gleby.",
+        "Człowiek przekształcał las w grunty rolne po przejściu z wędrownego na osiadły tryb życia i selekcjonował przydatne gospodarczo gatunki roślin i zwierząt, zwiększając ich populację.",
+        "Intensyfikacja po II wojnie światowej poprawiła wyniki produkcyjne, ale pogorszyła jakość produktów; zwrócono uwagę na wielofunkcyjność rolnictwa (aspekty etyczne, społeczne, ekonomiczne).",
+        "Zadania rolnictwa – ochrona środowiska i zdrowia: kształtowanie i pielęgnowanie krajobrazu wiejskiego, regeneracja i magazynowanie wody; socjalne: godziwe warunki pracy i życia na wsi; kulturowe: pielęgnowanie dawnych i tworzenie nowych wartości kultury wsi."
+      ]
+    },
+    {
+      "heading": "1. Pojęcie rolnictwa ekologicznego",
+      "points": [
+        "Gospodarstwo ekologiczne traktowane jest jako całość – system zależności biologicznych między roślinami, zwierzętami i glebą.",
+        "System aktywizuje przyrodnicze mechanizmy produkcji środkami naturalnymi – cel: żyzność gleby, zdrowe zwierzęta, wysoka jakość biologiczna produktów.",
+        "Zasada: zdrowa, próchniczna, aktywna biologicznie gleba w równowadze daje zdrowe produkty.",
+        "Stosuje się tylko nawozy naturalne, a w razie potrzeby naturalne środki ochrony (wyciągi roślinne, preparaty mikrobiologiczne).",
+        "Rolnictwo ekologiczne to więcej niż rolnictwo bez chemii i GMO – koncepcja wielofunkcyjności.",
+        "Definicja (opisowa): gospodarowanie oparte na naturalnych procesach w gospodarstwie o zrównoważonej produkcji roślinnej i zwierzęcej.",
+        "Wyklucza syntetyczne nawozy mineralne, pestycydy, regulatory wzrostu i syntetyczne dodatki paszowe.",
+        "Dąży do cyklu zamkniętego gleba–roślina–zwierzę, samowystarczalności i dobrostanu zwierząt.",
+        "W gospodarstwie ekologicznym gleba, produkcja roślinna i zwierzęca wzajemnie się uzupełniają; odżywianie roślin i ochrona przed patogenami dokonuje się poprzez ekosystem glebowy.",
+        "Preparaty mikrobiologiczne opierają się na działaniu pożytecznych mikroorganizmów; rolnictwa ekologicznego nie należy kojarzyć tylko z produkcją żywności.",
+        "Rolnictwo ekologiczne respektuje naturalne potrzeby behawioralne zwierząt."
+      ]
+    },
+    {
+      "heading": "2. Zagrożenia – zdrowa gleba",
+      "points": [
+        "Gleba tworzy się bardzo wolno – 1 cm przez 100 lat – a może zostać zniszczona w krótkim czasie.",
+        "Intensywne nawożenie mineralne, ciężki sprzęt i mniej roślin wieloletnich powodują: spadek aktywności mikrobiologicznej i próchnicy, wzrost kwasowości, niszczenie struktury gruzełkowatej, gorszą porowatość, mniejszą pojemność sorpcyjną, większą podatność na erozję.",
+        "Zawartość próchnicy: piaski 0,6–1,8%, gleby brunatne 1,5–2,5%, czarnoziemy 1,8–5,6%.",
+        "Spadek próchnicy wynika z zastąpienia nawozów organicznych mineralnymi i zaprzestania uprawy motylkowatych.",
+        "Zakwaszenie: roślina pobierając jon azotu (pobiera go najwięcej) wydziela jon wodoru, który zakwasza glebę.",
+        "Nawozy syntetyczne zawierają zanieczyszczenia – metale ciężkie: kadm, rtęć, ołów, arsen, miedź, cynk; kumulują się w wierzchniej warstwie gleby.",
+        "Rolnik ekologiczny jest całkowicie zależny od zdrowia gleby, a stan gleby zależy od sposobu gospodarowania.",
+        "Zakwaszenie i zasolenie gleb jest w ogromnym stopniu efektem stosowania nawozów mineralnych; metale ciężkie i pozostałości środków ochrony z wierzchniej warstwy gleby są przenoszone przez wodę i wiatr na inne tereny.",
+        "Uwaga: w tekście (wg składu mechanicznego) czarnoziemy mają 1,8–5,6% próchnicy, a w tabeli 8.1 czarnoziem – 1,8–3,5%; obie wartości pochodzą z materiału źródłowego."
+      ]
+    },
+    {
+      "heading": "2. Zagrożenia – woda i pestycydy",
+      "points": [
+        "Azotany i fosforany powodują eutrofizację (zakwity wód) – glony zużywają tlen, ryby się duszą.",
+        "Zagrożenia dla wód: nadmierne nawożenie organiczne i złe składowanie nawozów, nadmiar azotu mineralnego, brak okrywy gleby, zły płodozmian i nadmiar uprawek, dużo azotu po zbiorach.",
+        "Fosforany w wodach pochodzą głównie ze ścieków komunalnych (fosfor praktycznie nie jest wymywany); rolnictwo zanieczyszcza wody głównie związkami azotu.",
+        "W rolnictwie ekologicznym straty azotu są o 50% niższe.",
+        "Azotany uważa się za ważną przyczynę dysfunkcji tarczycy.",
+        "Pestycydy: herbicydy (chwasty), insektycydy (owady), fungicydy (grzyby); ich degradacja nie jest 100-procentowa.",
+        "Pestycydy chlorowe (np. DDT) pozostają w środowisku latami; w organizmach mogą być zwielokrotnione biologicznie 10⁵–10⁷ razy; szczególnie kumulują je ryby.",
+        "Pozostałości pestycydów: działanie alergenne, neurotoksyczne, endokrynologiczne; zagrożenie dla kobiet w ciąży, związek z ADHD, demencją, chorobą Parkinsona i Alzheimera, nowotworami.",
+        "Pozostałości w żywności ekologicznej (jeśli wystąpią) są nawet kilkaset razy niższe niż w konwencjonalnej.",
+        "Niekorzystny wpływ rolnictwa na wody wynika głównie z erozji i wymywania składników w głąb profilu glebowego.",
+        "Problem azotu pojawia się, gdy w glebie jest więcej dostępnego azotu, niż rośliny mogą związać, i występuje nadmiar wody (opady, wiosenne odwilże).",
+        "Pestycydy powodują problemy we wszystkich ekosystemach; nawet bardzo małe stężenia w wodzie (trzecia milionowa) kumulują się w tkankach bezkręgowców, ryb, ptaków i ssaków, powodując choroby i śmierć.",
+        "Pestycydy mogą też powodować oparzenia, choroby żołądka i śmiertelne zatrucia; u kobiet w ciąży – upośledzenie rozwoju umysłowego dziecka i częstsze poronienia; u osób po 65. r.ż. – demencję starczą.",
+        "Aktywność endokrynologiczna pozostałości pestycydów wpływa na prostatę, nerki, układ immunologiczny, jądra i jajniki, prowadząc do nowotworów.",
+        "Najlepszą formą ograniczenia skutków pestycydów jest rolnictwo ekologiczne, które systemowo zakazuje agrochemii; pozostałości w żywności ekologicznej mogą wynikać z nagromadzenia pestycydów w glebie."
+      ]
+    },
+    {
+      "heading": "2. Zagrożenia – bioróżnorodność i GMO",
+      "points": [
+        "Bioróżnorodność obejmuje różnorodność siedliskową (między ekosystemami), gatunkową i genetyczną (w obrębie gatunku).",
+        "Bioróżnorodność obniżają: osuszanie, likwidacja miedz, żywopłotów i rowów oraz pestycydy.",
+        "90% żywności roślinnej dostarcza zaledwie 6 gatunków roślin.",
+        "Nawożenie organiczne sprzyja bezkręgowcom glebowym; im więcej mikroorganizmów w glebie, tym mniejszy udział patogenów.",
+        "GMO (Genetically Modified Organisms) – organizmy z genami obcego gatunku wprowadzonymi metodami inżynierii genetycznej.",
+        "Zagrożenia GMO: przenikanie genów do upraw tradycyjnych; rolnik ekologiczny z zanieczyszczeniem GMO traci certyfikat; firmy pozywają rolników o opłaty licencyjne.",
+        "Rośliny odporne na herbicydy totalne – częste opryski prowadzą do powstawania superchwastów odpornych na herbicyd.",
+        "Skutkiem GMO jest wzrost zapotrzebowania na nawozy, pestycydy i energię.",
+        "Bioróżnorodność – całkowita różnorodność organizmów lądowych, wodnych i powietrznych; ma ogromną wartość ekonomiczną i wpływa na działalność rolniczą, przemysłową, społeczną i kulturową.",
+        "Agroekosystemy są najbardziej zaawansowanymi systemami produktywnymi, ale wrażliwymi na zmiany klimatu, pasożyty i inne zagrożenia; gospodarstwo jest jednostką ekosystemu.",
+        "Utrata siedlisk (osuszanie, miedze, żywopłoty, rowy) i pestycydy grożą zupełnym zniknięciem gatunków roślin i zwierząt.",
+        "Roślinność wpływa na różnorodność owadów (chrząszcze biegaczowate, pająki, skoczogonki), jest pożywieniem dla pszczół i zapylaczy; rośliny i owady wpływają na różnorodność ptaków; bioróżnorodność stabilizuje presję patogenów.",
+        "Bezkręgowce glebowe (wspierane nawożeniem organicznym) są pożywieniem dla większych organizmów.",
+        "Argument zwolenników GMO: wyższe plony w trudnych warunkach (duża presja patogenów, susza) i mniejsza chemizacja; w rzeczywistości uzależnia to rolników od patentów, a skutek chemizacji bywa odwrotny.",
+        "By uniknąć superchwastów, stosuje się wyższe dawki substancji aktywnych i ich mieszaniny – konsumenci GMO spożywają też pozostałości pestycydów; GMO obciąża środowisko."
+      ]
+    },
+    {
+      "heading": "3. Uprawa roli w gospodarstwie ekologicznym",
+      "points": [
+        "Podstawowy cel uprawy roli: strukturalna, aktywna biologicznie gleba.",
+        "Edafon – drobne organizmy powierzchniowych warstw gleby (bakterie, pierwotniaki, grzyby, mikro- i mezofauna); zapewnia obieg składników i ogranicza choroby.",
+        "Wierzchnie warstwy zasiedlają organizmy tlenowe (aerobowe), głębsze – beztlenowe (anaerobowe); orka odwraca warstwy i narusza ich populacje.",
+        "Zaletą orki jest niszczenie chwastów i mieszanie nawozów oraz resztek z glebą.",
+        "Zasady: „płytko odwracać, głęboko spulchniać” oraz „uprawiać tak często, jak to konieczne, i tak rzadko, jak to możliwe”; glebę jak najdłużej utrzymywać pod okrywą roślinną.",
+        "Strukturalna gleba zależy od: odczynu (pH), pracy mikroorganizmów, zawartości próchnicy.",
+        "Właściwy odczyn dla edafonu: lekko kwaśny do neutralnego.",
+        "Im więcej materii organicznej, tym więcej edafonu, a im więcej edafonu, tym więcej próchnicy.",
+        "Próchnica – złożone związki węgla; substancje niehumusowe i humusowe (kwasy fulwowe, huminowe, huminy); im więcej próchnicy, tym ciemniejsza gleba.",
+        "Gleby aluwialne (napływowe) zawierają 1,5–4,0% próchnicy.",
+        "Zawartość próchnicy w glebach waha się od 0,6% do 6%; najwięcej mają gleby leśne brunatne, aluwialne i czarnoziemy, mniej gleby brunatne i płowe.",
+        "Bez próchnicy rolnictwo ekologiczne nie jest możliwe – decyzji o przejściu na uprawę ekologiczną nie można podjąć bez dokładnego poznania stanu gleby.",
+        "Odwracanie gleby narusza liczebność populacji mikroorganizmów glebowych, ale jest konieczne do niszczenia chwastów oraz mieszania z glebą nawozów i resztek pożniwnych.",
+        "Dbałość o aktywną biologicznie glebę jest podstawowym obowiązkiem rolnika; edafon jest szczególnie ważny tam, gdzie nie można używać nawozów sztucznych ani pestycydów.",
+        "Do zasad uprawy dochodzi dbałość o utrzymanie gleby pod okrywą roślinną – to podstawowe modyfikacje uprawy konwencjonalnej, by była zgodna z kryteriami ekologicznymi.",
+        "Próchnica powstaje z materii organicznej gleby przy udziale mikroorganizmów i w znacznej mierze decyduje o żyzności gleby; materię organiczną wnosi się np. z nawozami naturalnymi i organicznymi."
+      ],
+      "images": [
+        {
+          "src": "img/ur8/odwracanie-gleby-plusy-minusy.jpg",
+          "caption": "Odwracanie gleby w gospodarstwie ekologicznym: minus – narusza liczebność populacji mikroorganizmów glebowych; plus – jest konieczne do niszczenia chwastów oraz zmieszania z glebą nawozów i resztek pożniwnych."
+        },
+        {
+          "src": "img/ur8/dwie-zasady-uprawy-roli-eko.jpg",
+          "caption": "Dwie zasady uprawy roli w rolnictwie ekologicznym: „płytko odwracać, głęboko spulchniać” oraz „uprawiać glebę tak często, jak to jest konieczne, i tak rzadko, jak to jest możliwe”."
+        }
+      ]
+    },
+    {
+      "heading": "3. Funkcje próchnicy, nakłady pracy, konwersja",
+      "points": [
+        "Próchnica jest źródłem i magazynem N i P, wpływa na aktywność mikroorganizmów i rozwój roślin.",
+        "Poprawia strukturę gruzełkowatą, stosunki wodno-powietrzne, zmniejsza zwięzłość.",
+        "Odpowiada za 20–70% pojemności sorpcyjnej gleby; zatrzymuje 3–5 razy więcej wody dostępnej niż część mineralna.",
+        "Wiąże związki toksyczne, poprawia barwę i właściwości termiczne, stabilizuje odczyn (Ca²⁺, Mg²⁺, NH₄⁺, Na⁺, K⁺, H⁺), przeciwdziała niektórym chorobom.",
+        "Większe nakłady robocizny w gospodarstwie ekologicznym: zboża ok. 10%, ziemniak 20–40%, warzywa 30–80%, owoce miękkie 10–20%.",
+        "Akty prawne: rozporządzenia WE 834/2007 i 889/2008 oraz polska Ustawa o rolnictwie ekologicznym.",
+        "Konwersja (przestawianie) – okres przejścia na rolnictwo ekologiczne, trwa 2 lub 3 lata.",
+        "Datą przystąpienia jest zgłoszenie do WIJHARS i podpisanie umowy z jednostką certyfikującą.",
+        "Art. 36 rozp. 889/2008: uprawy – min. 2 lata przed wysiewem; łąki i uprawy wieloletnie na paszę – min. 2 lata; rośliny wieloletnie inne niż łąkowe – min. 3 lata przed pierwszym zbiorem.",
+        "Materiał siewny z własnego gospodarstwa lub hodowli ekologicznej (wykaz na stronie PIORiN); materiał konwencjonalny – za zgodą WIORiN, tylko niezaprawiany.",
+        "Próchnica pośrednio wpływa na przyswajanie mikroelementów przez rośliny oraz na wiązanie herbicydów i innych środków ochrony roślin.",
+        "W okresie konwersji rolnik musi przestrzegać wszystkich reguł systemu ekologicznego; WIJHARS – Wojewódzki Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych.",
+        "Gdy odmiany nie ma w wykazie nasion ekologicznych, rolnik składa wniosek do Wojewódzkiego Inspektora Ochrony Roślin i Nasiennictwa (WIORiN) o zgodę na materiał konwencjonalny."
+      ],
+      "images": [
+        {
+          "src": "img/ur8/tabela-prochnica.jpg",
+          "caption": "Tabela 8.1. Zawartość próchnicy (humusu) w glebie ornej: czarnoziem 1,8–3,5%, gleby brunatne 1,5–2,5%, gleby płowe 1,1–2,6%, leśne gleby brunatne 2,0–6,0%, gleby aluwialne (napływowe) 1,5–4,0%."
+        }
+      ]
+    },
+    {
+      "heading": "4. Płodozmian w gospodarce ekologicznej",
+      "points": [
+        "Zmianowanie – następstwo roślin na danym polu uzasadnione przyrodniczo i gospodarczo; płodozmian – zmianowanie zaplanowane na szereg lat.",
+        "Zalecane długie rotacje 5–7-letnie – gatunek plonuje tym wyżej, im rzadziej jest uprawiany na polu.",
+        "Maksymalny udział w strukturze zasiewów: ziemniak i burak 25–33%, strączkowe 20–25%, zboża ogółem 50–60%.",
+        "Od lat 50. XX w. nawozy sztuczne zastąpiły funkcję nawozową płodozmianu, a pestycydy – sanitarną; w rolnictwie ekologicznym płodozmian jest niezastąpiony.",
+        "Cele płodozmianu: biologiczne wiązanie azotu (dużo motylkowatych), ciągła okrywa gleby, ograniczanie agrofagów, pełne wykorzystanie składników, ochrona przed wymywaniem azotanów i erozją, pasza, wykorzystanie sprzętu, rozłożenie prac, mniejsze ryzyko.",
+        "Płodozmian zaczyna się od roślin poprawiających stanowisko (okopowe na oborniku), potem rośliny korzystające (np. pszenica), następnie mniej wymagające (owies) lub inna grupa (groch).",
+        "Rzepaku ozimego nie można siać po burakach (buraki schodzą w październiku, rzepak sieje się w sierpniu); rzepak jary też odradzany – mątwik burakowy.",
+        "Wsiewki śródplonowe, np. koniczyna czerwona w jęczmień jary – po zbiorze jęczmienia daje pokos „ściernianki” na paszę.",
+        "Przykład na gleby lekkie z przeżuwaczami: ziemniaki na oborniku → żyto z wsiewką seradeli → gryka + poplon → owies z wsiewką koniczyny białej z trawami → koniczyna z trawami (2 lata) → kukurydza na kiszonkę → żyto z wyką.",
+        "Przykład na gleby cięższe z przeżuwaczami zaczyna się od buraków na oborniku, potem orkisz z wsiewką lucerny mieszańcowej i 2 lata lucerny.",
+        "Płodozmian w rolnictwie ekologicznym jest kluczowy, choć stanowi kompromis między warunkami przyrodniczymi a ekonomicznymi.",
+        "Pełna definicja zmianowania uwzględnia wymagania roślin, warunki siedliskowe, profil gospodarstwa i czynniki ekonomiczne; ma zapewnić wysokie, stabilne plony oraz podnieść i utrzymać żyzność i kulturę gleby.",
+        "Płodozmian decyduje o podaży i wykorzystaniu azotu, żyzności gleby, presji patogenów, szkodników i chwastów oraz plonach; dobór gatunków musi uwzględniać siedlisko i opłacalność.",
+        "Marginalizacja płodozmianu wynikała też ze specjalizacji gospodarstw (wykluczała ważne rośliny) i ograniczania parku maszynowego.",
+        "Grupy roślin o podobnych wymaganiach co do przedplonu umieszcza się w płodozmianie naprzemiennie; uprawy dopasowuje się też pod względem presji patogenów.",
+        "Wyjątkiem są nieliczne mątwikobójcze odmiany rzepaku, które nie sprzyjają mątwikowi burakowemu.",
+        "Wsiewkę koniczyny wsiewa się w rosnący, ale jeszcze słabo rozwinięty łan jęczmienia; koniczyna rośnie powoli, a po zbiorze zboża intensywnie – ogranicza to bezproduktywne straty wody i składników.",
+        "W przykładzie na gleby lekkie z przeżuwaczami poplon po gryce to mieszanka gorczyca + facelia + peluszka.",
+        "Przykład na gleby lekkie z trzodą chlewną: ziemniaki na oborniku → pszenżyto z wsiewką seradeli → peluszka → jęczmień ozimy + facelia z gorczycą → owies nieoplewiony z wsiewką koniczyny białej z trawami → kukurydza na ziarno na oborniku → peluszka → rzepik ozimy → żyto z wyką.",
+        "Przykład na gleby cięższe z przeżuwaczami: buraki na oborniku → orkisz + wsiewka lucerny mieszańcowej → lucerna (2 lata) → kukurydza na kiszonkę → jęczmień jary + poplon ozimy żyto z wyką → dynia na oborniku → żyto + wsiewka koniczyny z trawami → koniczyna z trawami (2 lata).",
+        "Przykład na gleby cięższe z trzodą chlewną: buraki na oborniku → orkisz + wsiewka lucerny mieszańcowej → peluszka → pszenżyto ozime + facelia z gorczycą → owies nieoplewiony z wsiewką koniczyny białej z trawami → kukurydza na ziarno na oborniku → soja w szerokie rzędy → rzepak → jęczmień ozimy."
+      ]
+    },
+    {
+      "heading": "5. Ekologiczne nawożenie",
+      "points": [
+        "W rolnictwie ekologicznym nawozi się glebę, a nie rośliny.",
+        "Cel gospodarki nawozowej: stałe podwyższanie żyzności i aktywności biologicznej gleby.",
+        "Pierwszoplanowo dostarcza się substrat (materię organiczną z własnego gospodarstwa) organizmom glebowym.",
+        "Podstawowe nawozy: naturalne – obornik, gnojówka (ewentualnie gnojowica); organiczne – komposty, nawozy zielone, resztki pożniwne.",
+        "Warunek powodzenia: równowaga paszowo-nawozowa.",
+        "Limit (art. 3 ust. 2 rozp. 889/2008): 170 kg N/ha/rok, co odpowiada ok. 2 sztukom bydła na 1 ha; nadwyżkę obornika oddaje się innemu gospodarstwu ekologicznemu na podstawie umowy.",
+        "1 t obornika zawiera średnio: 25% s.m., 5 kg N, 3 kg P2O5, 7 kg K2O, 1,2 kg Mg.",
+        "Nawozy spoza gospodarstwa – tylko po udokumentowaniu potrzeby (np. analizą gleby) i tylko z Załącznika I rozp. 889/2008; inne grożą decertyfikacją.",
+        "Wykaz nawozów dopuszczonych prowadzi IUNG w Puławach.",
+        "Dozwolony obornik z gospodarstw konwencjonalnych po przekompostowaniu, ale nie z chowu przemysłowego.",
+        "Węglan wapnia lub magnezu z mielonych skał do odkwaszania – bez dodatkowych wymogów; dopuszczone też niektóre nawozy K, P i preparaty mikrobiologiczne.",
+        "Gleba zaopatruje rośliny w wodę i składniki oraz dostarcza korzeniom powietrza i ciepła; rolnik ekologiczny – w odróżnieniu od konwencjonalnego – ma małe możliwości doraźnego reagowania na potrzeby nawozowe.",
+        "Gospodarka nawozowa kształtuje nie tylko wielkość, ale i biologiczną jakość płodów; wokół korzeni życie mikroorganizmów jest najbujniejsze – wydzieliny korzeniowe są dla nich pożywką, a w zamian udostępniają roślinom składniki.",
+        "Równowaga paszowo-nawozowa: ilość wytworzonego nawozu nie może przekroczyć możliwości jego zagospodarowania; w praktyce gospodarstwa nie przekraczają tej obsady.",
+        "Tab. 8.2 – mikroelementy w oborniku (mg/kg): żelazo 2500, mangan 345, cynk 194, miedź 23, bor 22, molibden 1,6, kobalt 1,9.",
+        "Rolnictwo ekologiczne powinno opierać się na własnych zasobach; załączniki rozporządzenia nie podają nazw handlowych – pomagają wykazy upoważnionych instytucji."
+      ]
+    },
+    {
+      "heading": "6. Ekologiczne metody ochrony roślin",
+      "points": [
+        "Ochrona ekologiczna nie polega na zastąpieniu chemii innymi środkami – jej założeniem jest równowaga agroekosystemu.",
+        "Profilaktyka jest główną formą przeciwdziałania stratom plonu, a główną formą profilaktyki – prawidłowy płodozmian.",
+        "Wykaz środków ochrony dopuszczonych w rolnictwie ekologicznym – Instytut Ochrony Roślin w Poznaniu (IOR).",
+        "Preferowane odmiany o szerokiej odporności; materiał siewny czysty, zdrowy, z regionu i z gospodarstwa ekologicznego.",
+        "Zaprawianie nasion: preparaty biodynamiczne, nadmanganian potasu, wyciągi ze skrzypu, rumianku, czosnku, chrzanu.",
+        "Profilaktyka: motylkowate, nawozy zielone, rośliny fitosanitarne, mechaniczne odchwaszczanie (chwasty są gospodarzami chorób grzybowych), odpowiednia obsada, wcześniejszy siew lub sadzenie (np. ziemniaki).",
+        "Allelopatia – wydzielanie do gleby substancji hamujących wzrost lub kiełkowanie chwastów; znane: słonecznik i wyka kosmata.",
+        "Uprawa współrzędna (głównie warzywa) – plantacje mieszane są mniej porażane niż monokultury.",
+        "„Gnojówki” roślinne – fermentowane wyciągi z pokrzywy, mniszka, lucerny, perzu, żywokostu i in.",
+        "Przygotowanie gnojówki: beczka niemetalowa, 1 kg ziela na 10 l wody, 2–3 tygodnie, mieszać raz dziennie; gotowa, gdy klarowna i bez piany.",
+        "Stosowanie gnojówki: po przecedzeniu 1 l na 15–20 l wody; stymuluje wzrost, uzupełnia mikroelementy, wzmacnia odporność.",
+        "Czosnek: 750 g na 100 l wody, co 7–10 dni w kwitnieniu i owocowaniu – szara pleśń truskawki i maliny.",
+        "Skrzyp: 10 kg świeżego ziela lub 1,5 kg suszu na 100 l, rozcieńczenie 5 razy, co 2 tygodnie od kwitnienia do końca czerwca – plamistości liści truskawki, zamieranie pędów maliny, mączniak jabłoni i agrestu.",
+        "Pokrzywa: 10 kg świeżego ziela lub 2 kg suszu na 100 l, rozcieńczenie 10 razy, wiosną – mączniak prawdziwy agrestu.",
+        "Mocniejsze preparaty tylko z Załącznika II rozp. 889/2008, po udokumentowaniu potrzeby i z wpisem do rejestru.",
+        "Rozmaitość roślin przekłada się na niską presję patogenów; presję obniżają też zmianowanie, wybór stanowisk i terminu siewu oraz zdrowy materiał rozmnożeniowy.",
+        "Wykaz IOR podaje środki dozwolone w uprawach warzywniczych, sadowniczych i rolnych; środki do zaprawiania muszą być dopuszczone przez rozporządzenie 2092/91/EWG.",
+        "Odpowiednia obsada łanu zwiększa konkurencyjność roślin wobec chwastów; wcześniejszy siew/sadzenie pozwala roślinie lepiej znosić żerowanie szkodników.",
+        "Czynniki decydujące o zdrowotności roślin: uprawa gleby, organizmy glebowe, repelenty i środki uodparniające, sanitacja gospodarstwa, bioróżnorodność, płodozmian, dobór roślin, nawożenie.",
+        "Gnojówki roślinne stosuje się w uprawach rolniczych, warzywniczych i w sadach; wzorowe gospodarstwo ekologiczne prowadzi produkcję wielokierunkową (samowystarczalność i bioróżnorodność).",
+        "Tab. 8.3 – czosnek: 750 g rozdrobnionego czosnku albo 5 kg świeżych lub 2 kg suszonych liści i łusek na 100 l wody; rozcieńczenie 10 razy; co 7–10 dni w okresie kwitnienia i owocowania.",
+        "Skrzyp zwalcza białą i czerwoną plamistość liści truskawki.",
+        "Przed użyciem środków z Załącznika II trzeba udokumentować potrzebę (np. opis stopnia porażenia patogenem), zapisać zabiegi w rejestrach i sprawdzić, czy środek nie grozi decertyfikacją; informacje – na stronie IOR."
+      ],
+      "images": [
+        {
+          "src": "img/ur8/czynniki-zdrowotnosci-roslin.jpg",
+          "caption": "Czynniki decydujące o zdrowotności roślin w rolnictwie ekologicznym: uprawa gleby, organizmy glebowe, repelenty i środki uodparniające, sanitacja gospodarstwa, bioróżnorodność, płodozmian, dobór roślin, nawożenie."
+        },
+        {
+          "src": "img/ur8/tab-gnojowki.jpg",
+          "caption": "Tabela 8.3 – sposób przygotowania i stosowania gnojówek (wyciągów) roślinnych: czosnek – 750 g rozdrobnionego czosnku/100 l wody, rozcieńczenie 10 razy, w kwitnieniu i owocowaniu co 7–10 dni, na szarą pleśń truskawki i maliny."
+        },
+        {
+          "src": "img/ur8/tab-gnojowki-cd.jpg",
+          "caption": "Tabela 8.3 (cd.) – czosnek także 5 kg świeżych lub 2 kg suszonych liści i łusek/100 l; skrzyp – rozcieńczenie 5 razy, od kwitnienia do końca czerwca co 2 tygodnie; pokrzywa – rozcieńczenie 10 razy, wiosną, na mączniaka prawdziwego agrestu."
+        }
+      ]
+    },
+    {
+      "heading": "Kontrola i certyfikacja",
+      "points": [
+        "Żywność ekologiczna podlega kontroli i certyfikacji.",
+        "Przetwórcy ekologiczni w UE są kontrolowani przynajmniej raz w roku; możliwe dodatkowe inspekcje.",
+        "Ocena zgodności z rozp. Rady (WE) 834/2007 z 28 czerwca 2007 r. (uchyla 2092/91) i rozp. Komisji (WE) 889/2008 z 5 września 2008 r.",
+        "Pozytywny wynik – certyfikat, którego graficzną formą jest logo ekologiczne UE (z kodem PL-EKO-0X).",
+        "Wartość rynku produktów ekologicznych rośnie o 10–15% rocznie.",
+        "Kontrola procesu produkcji zapewnia jakość ekologiczną i gwarantuje konsumentowi ekologiczny status produktów.",
+        "Rozp. 834/2007 dotyczy produkcji ekologicznej i znakowania produktów ekologicznych; 889/2008 ustanawia szczegółowe zasady jego wdrażania (produkcja, znakowanie, kontrola).",
+        "Konsumenci coraz częściej świadomie wybierają żywność ekologiczną – rozwój rolnictwa ekologicznego jest szansą dla rolników."
+      ],
+      "images": [
+        {
+          "src": "img/ur8/logo-eko.jpg",
+          "caption": "Logo rolnictwa ekologicznego UE (zielony liść z gwiazd) z kodem jednostki certyfikującej PL-EKO-0X i napisem „Rolnictwo UE” – graficzna forma certyfikatu."
+        }
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Gnojowica (definicja) – Płynna, przefermentowana mieszanina kału, moczu i wody (ew. resztek pasz) z obór bezściółkowych, gromadzona w zbiornikach.",
+        "Płodozmian w gospodarstwie ekologicznym – udział roślin – Rotacje 5–7-letnie; ziemniak i burak 25–33%, strączkowe 20–25%, zboża ogółem 50–60%. Płodozmian decyduje o podaży azotu, żyzności gleby, presji chorób, szkodników i chwastów oraz plonach."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Naturalne środowisko roślinne w Polsce",
+      "back": "Las."
+    },
+    {
+      "front": "Od kiedy rolnictwo silnie negatywnie oddziałuje na środowisko?",
+      "back": "Od okresu po II wojnie światowej (intensyfikacja)."
+    },
+    {
+      "front": "Cztery grupy zadań rolnictwa",
+      "back": "Produkcyjne, ochrona środowiska i zdrowia, socjalne, kulturowe."
+    },
+    {
+      "front": "Gospodarstwo w systemie ekologicznym",
+      "back": "Całość – system zależności biologicznych między roślinami, zwierzętami i glebą."
+    },
+    {
+      "front": "Czego nie wolno stosować w rolnictwie ekologicznym?",
+      "back": "Syntetycznych nawozów mineralnych, pestycydów, regulatorów wzrostu i syntetycznych dodatków paszowych."
+    },
+    {
+      "front": "Cykl zamknięty w rolnictwie ekologicznym",
+      "back": "Gleba–roślina–zwierzę."
+    },
+    {
+      "front": "Tempo tworzenia się gleby",
+      "back": "1 cm przez 100 lat."
+    },
+    {
+      "front": "Zawartość próchnicy w piaskach",
+      "back": "0,6–1,8%."
+    },
+    {
+      "front": "Zawartość próchnicy w glebach brunatnych",
+      "back": "1,5–2,5%."
+    },
+    {
+      "front": "Zawartość próchnicy w czarnoziemach",
+      "back": "1,8–5,6%."
+    },
+    {
+      "front": "Zawartość próchnicy w glebach aluwialnych (napływowych)",
+      "back": "1,5–4,0%."
+    },
+    {
+      "front": "Przyczyny spadku próchnicy",
+      "back": "Zastąpienie nawozów organicznych mineralnymi, zaprzestanie uprawy motylkowatych."
+    },
+    {
+      "front": "Mechanizm zakwaszania gleby nawozami azotowymi",
+      "back": "Roślina pobierając jon azotu wydziela jon wodoru, który zakwasza glebę."
+    },
+    {
+      "front": "Metale ciężkie w nawozach syntetycznych",
+      "back": "Kadm, rtęć, ołów, arsen, miedź, cynk."
+    },
+    {
+      "front": "Eutrofizacja",
+      "back": "Zakwity wód wywołane azotanami i fosforanami – glony zużywają tlen, ryby się duszą."
+    },
+    {
+      "front": "Główne źródło fosforanów w wodach",
+      "back": "Ścieki komunalne (fosfor praktycznie nie jest wymywany)."
+    },
+    {
+      "front": "Czym rolnictwo głównie zanieczyszcza wody?",
+      "back": "Związkami azotu."
+    },
+    {
+      "front": "O ile niższe są straty azotu w rolnictwie ekologicznym?",
+      "back": "O 50%."
+    },
+    {
+      "front": "Wpływ azotanów na zdrowie",
+      "back": "Ważna przyczyna dysfunkcji tarczycy."
+    },
+    {
+      "front": "Trzy główne grupy pestycydów",
+      "back": "Herbicydy (chwasty), insektycydy (owady), fungicydy (grzyby)."
+    },
+    {
+      "front": "Przykład trwałego pestycydu chlorowego",
+      "back": "DDT."
+    },
+    {
+      "front": "Biologiczne zwielokrotnienie pestycydów w organizmach",
+      "back": "Nawet 10⁵–10⁷ razy."
+    },
+    {
+      "front": "Zwierzęta szczególnie kumulujące związki toksyczne",
+      "back": "Ryby."
+    },
+    {
+      "front": "Pozostałości pestycydów w żywności ekologicznej vs konwencjonalnej",
+      "back": "Nawet kilkaset razy niższe."
+    },
+    {
+      "front": "Trzy poziomy bioróżnorodności",
+      "back": "Siedliskowa, gatunkowa, genetyczna."
+    },
+    {
+      "front": "Ile gatunków roślin dostarcza 90% żywności roślinnej?",
+      "back": "6 gatunków."
+    },
+    {
+      "front": "GMO",
+      "back": "Genetically Modified Organisms – organizmy modyfikowane genetycznie metodami inżynierii genetycznej."
+    },
+    {
+      "front": "Skutek wykrycia GMO w gospodarstwie ekologicznym",
+      "back": "Utrata certyfikatu (i klientów)."
+    },
+    {
+      "front": "Superchwasty",
+      "back": "Chwasty odporne na herbicyd totalny, powstające przy wieloletnim opryskiwaniu upraw GMO."
+    },
+    {
+      "front": "Podstawowy cel uprawy roli w rolnictwie ekologicznym",
+      "back": "Strukturalna, aktywna biologicznie gleba."
+    },
+    {
+      "front": "Edafon",
+      "back": "Drobne organizmy powierzchniowych warstw gleby: bakterie, pierwotniaki, grzyby, mikro- i mezofauna."
+    },
+    {
+      "front": "Organizmy wierzchnich i głębszych warstw gleby",
+      "back": "Wierzchnie – aerobowe (tlenowe); głębsze – anaerobowe (beztlenowe)."
+    },
+    {
+      "front": "Zalety uprawy płużnej",
+      "back": "Niszczenie chwastów, mieszanie nawozów i resztek pożniwnych z glebą."
+    },
+    {
+      "front": "Zasada orki w rolnictwie ekologicznym",
+      "back": "Płytko odwracać, głęboko spulchniać."
+    },
+    {
+      "front": "Zasada częstotliwości uprawek",
+      "back": "Tak często, jak to konieczne, i tak rzadko, jak to możliwe."
+    },
+    {
+      "front": "Trzy czynniki strukturalnej, aktywnej gleby",
+      "back": "Odczyn (pH), praca mikroorganizmów, zawartość próchnicy."
+    },
+    {
+      "front": "Odczyn sprzyjający edafonowi",
+      "back": "Lekko kwaśny do neutralnego."
+    },
+    {
+      "front": "Skład substancji humusowych",
+      "back": "Kwasy fulwowe, kwasy huminowe, huminy."
+    },
+    {
+      "front": "Udział próchnicy w pojemności sorpcyjnej gleby",
+      "back": "20–70%."
+    },
+    {
+      "front": "Ile razy więcej wody dostępnej zatrzymuje próchnica niż część mineralna?",
+      "back": "3–5 razy."
+    },
+    {
+      "front": "Dodatkowe nakłady robocizny – zboża / ziemniak",
+      "back": "Ok. 10% / 20–40%."
+    },
+    {
+      "front": "Dodatkowe nakłady robocizny – warzywa / owoce miękkie",
+      "back": "30–80% / 10–20%."
+    },
+    {
+      "front": "Podstawowe akty prawne rolnictwa ekologicznego",
+      "back": "Rozp. WE 834/2007 i 889/2008, Ustawa o rolnictwie ekologicznym."
+    },
+    {
+      "front": "Konwersja",
+      "back": "Okres przejścia z rolnictwa nieekologicznego na ekologiczne (przestawianie), 2 lub 3 lata."
+    },
+    {
+      "front": "Data przystąpienia do systemu ekologicznego",
+      "back": "Zgłoszenie do WIJHARS i podpisanie umowy z jednostką certyfikującą."
+    },
+    {
+      "front": "Okres konwersji dla upraw jednorocznych",
+      "back": "Min. 2 lata przed wysiewem."
+    },
+    {
+      "front": "Okres konwersji dla roślin wieloletnich (innych niż łąkowe)",
+      "back": "Min. 3 lata przed pierwszym zbiorem."
+    },
+    {
+      "front": "Okres konwersji łąk na paszę ekologiczną",
+      "back": "Min. 2 lata."
+    },
+    {
+      "front": "Skąd materiał siewny w gospodarstwie ekologicznym?",
+      "back": "Z własnego gospodarstwa lub hodowli ekologicznej (wykaz PIORiN)."
+    },
+    {
+      "front": "Kto zezwala na konwencjonalny materiał siewny i jaki?",
+      "back": "WIORiN; tylko materiał niezaprawiany."
+    },
+    {
+      "front": "Zmianowanie",
+      "back": "Następstwo roślin na danym polu, uzasadnione przyrodniczo i gospodarczo."
+    },
+    {
+      "front": "Płodozmian",
+      "back": "Zmianowanie zaplanowane na szereg lat."
+    },
+    {
+      "front": "Zalecana długość rotacji w rolnictwie ekologicznym",
+      "back": "5–7 lat."
+    },
+    {
+      "front": "Maks. udział ziemniaka i buraka w zasiewach",
+      "back": "25–33%."
+    },
+    {
+      "front": "Maks. udział strączkowych w zasiewach",
+      "back": "20–25%."
+    },
+    {
+      "front": "Maks. udział zbóż ogółem w zasiewach",
+      "back": "50–60%."
+    },
+    {
+      "front": "Co zastąpiło funkcje płodozmianu od lat 50. XX w.?",
+      "back": "Nawozy sztuczne (funkcję nawozową) i pestycydy (sanitarną)."
+    },
+    {
+      "front": "Od czego zaczyna się płodozmian?",
+      "back": "Od roślin poprawiających stanowisko – okopowych na oborniku."
+    },
+    {
+      "front": "Dlaczego nie rzepak ozimy po burakach?",
+      "back": "Buraki schodzą w październiku, a rzepak ozimy sieje się w sierpniu."
+    },
+    {
+      "front": "Dlaczego zwykle nie rzepak (także jary) po burakach?",
+      "back": "Rzepak może sprzyjać rozwojowi mątwika burakowego."
+    },
+    {
+      "front": "Przykład wsiewki śródplonowej",
+      "back": "Koniczyna czerwona w jęczmień jary."
+    },
+    {
+      "front": "„Ściernianka”",
+      "back": "Pokos wsiewki koniczyny zebrany w roku zbioru zboża ochronnego, na paszę."
+    },
+    {
+      "front": "Zasada nawożenia ekologicznego",
+      "back": "Nawozi się glebę, a nie rośliny."
+    },
+    {
+      "front": "Cel ekologicznej gospodarki nawozowej",
+      "back": "Stałe podwyższanie żyzności i aktywności biologicznej gleby."
+    },
+    {
+      "front": "Podstawowe nawozy w gospodarstwie ekologicznym",
+      "back": "Obornik, gnojówka (ew. gnojowica), komposty, nawozy zielone, resztki pożniwne."
+    },
+    {
+      "front": "Limit azotu z nawozów naturalnych w rolnictwie ekologicznym",
+      "back": "170 kg N/ha/rok (ok. 2 szt. bydła/ha)."
+    },
+    {
+      "front": "Co zrobić przy przekroczeniu limitu 170 kg N/ha?",
+      "back": "Podpisać umowę z innym gospodarstwem ekologicznym na odbiór nadwyżki obornika."
+    },
+    {
+      "front": "Zawartość N, P2O5, K2O w 1 t obornika",
+      "back": "5 kg N, 3 kg P2O5, 7 kg K2O (Mg 1,2 kg)."
+    },
+    {
+      "front": "Sucha masa obornika (średnio)",
+      "back": "25%."
+    },
+    {
+      "front": "Załącznik rozp. 889/2008 o nawozach",
+      "back": "Załącznik I – środki poprawiające żyzność gleby."
+    },
+    {
+      "front": "Załącznik rozp. 889/2008 o środkach ochrony roślin",
+      "back": "Załącznik II."
+    },
+    {
+      "front": "Obornik z gospodarstwa konwencjonalnego w rolnictwie ekologicznym",
+      "back": "Dozwolony po przekompostowaniu, nie z chowu przemysłowego."
+    },
+    {
+      "front": "Kto prowadzi wykaz nawozów do rolnictwa ekologicznego?",
+      "back": "IUNG w Puławach."
+    },
+    {
+      "front": "Kto prowadzi wykaz środków ochrony do rolnictwa ekologicznego?",
+      "back": "Instytut Ochrony Roślin w Poznaniu (IOR)."
+    },
+    {
+      "front": "Główna forma profilaktyki w ekologicznej ochronie roślin",
+      "back": "Prawidłowy płodozmian."
+    },
+    {
+      "front": "Środki do zaprawiania nasion w rolnictwie ekologicznym",
+      "back": "Preparaty biodynamiczne, nadmanganian potasu, wyciągi ze skrzypu, rumianku, czosnku, chrzanu."
+    },
+    {
+      "front": "Allelopatia",
+      "back": "Wydzielanie przez rośliny substancji hamujących wzrost lub kiełkowanie chwastów."
+    },
+    {
+      "front": "Rośliny znane z działania allelopatycznego",
+      "back": "Słonecznik i wyka kosmata."
+    },
+    {
+      "front": "Proporcja ziela i wody przy gnojówce roślinnej",
+      "back": "1 kg ziela na 10 l wody."
+    },
+    {
+      "front": "Czas fermentacji gnojówki roślinnej",
+      "back": "2–3 tygodnie, mieszać raz dziennie."
+    },
+    {
+      "front": "Kiedy gnojówka roślinna jest gotowa?",
+      "back": "Gdy jest klarowna i nie zbiera się piana."
+    },
+    {
+      "front": "Rozcieńczenie gnojówki roślinnej do oprysku",
+      "back": "1 l na 15–20 l wody."
+    },
+    {
+      "front": "W jakim naczyniu przygotować gnojówkę roślinną?",
+      "back": "W beczce innej niż metalowa."
+    },
+    {
+      "front": "Wyciąg z czosnku – zastosowanie",
+      "back": "Szara pleśń truskawki i maliny; 750 g/100 l, co 7–10 dni."
+    },
+    {
+      "front": "Gnojówka z pokrzywy – zastosowanie",
+      "back": "Mączniak prawdziwy agrestu; 10 kg świeżego ziela/100 l, rozcieńczenie 10 razy, wiosną."
+    },
+    {
+      "front": "Jak często kontroluje się przetwórców ekologicznych w UE?",
+      "back": "Przynajmniej raz w roku."
+    },
+    {
+      "front": "Roczny wzrost rynku produktów ekologicznych",
+      "back": "10–15%."
+    },
+    {
+      "front": "Zakres zawartości próchnicy w glebach",
+      "back": "Od 0,6% do 6%; najwięcej w glebach leśnych brunatnych, aluwialnych i czarnoziemach, mniej w brunatnych i płowych."
+    },
+    {
+      "front": "Co trzeba zrobić przed decyzją o przejściu na uprawę ekologiczną?",
+      "back": "Dokładnie poznać stan posiadanej gleby (zwłaszcza zawartość próchnicy) – bez próchnicy rolnictwo ekologiczne nie jest możliwe."
+    },
+    {
+      "front": "Pośredni wpływ próchnicy na rośliny i środki ochrony",
+      "back": "Wpływa na przyswajanie mikroelementów przez rośliny oraz na wiązanie herbicydów i innych środków ochrony roślin."
+    },
+    {
+      "front": "Co oznacza ten znak na produkcie?",
+      "back": "Logo rolnictwa ekologicznego UE – produkt z certyfikowanego gospodarstwa ekologicznego; obok podaje się kod PL-EKO-0X i napis „Rolnictwo UE”.",
+      "img": "img/ur8/logo-eko-bez-podpisu.jpg"
+    },
+    {
+      "front": "Która gleba w tabeli 8.1 może mieć najwięcej próchnicy?",
+      "back": "Leśne gleby brunatne – 2,0–6,0%; najmniej gleby płowe (1,1–2,6%).",
+      "img": "img/ur8/tabela-prochnica.jpg"
+    },
+    {
+      "front": "Gnojowica (definicja)",
+      "back": "Płynna, przefermentowana mieszanina kału, moczu i wody (ew. resztek pasz) z obór bezściółkowych, gromadzona w zbiornikach."
+    },
+    {
+      "front": "Płodozmian w gospodarstwie ekologicznym – udział roślin",
+      "back": "Rotacje 5–7-letnie; ziemniak i burak 25–33%, strączkowe 20–25%, zboża ogółem 50–60%. Płodozmian decyduje o podaży azotu, żyzności gleby, presji chorób, szkodników i chwastów oraz plonach."
+    },
+    {
+      "front": "Zawartość mikroelementów w oborniku (mg/kg) – Fe, Mn, Zn",
+      "back": "Żelazo 2500, mangan 345, cynk 194 (miedź 23, bor 22, molibden 1,6, kobalt 1,9)."
+    },
+    {
+      "front": "Wyciąg z czosnku – formy i rozcieńczenie",
+      "back": "750 g rozdrobnionego czosnku lub 5 kg świeżych / 2 kg suszonych liści i łusek na 100 l wody; rozcieńczenie 10 razy."
+    },
+    {
+      "front": "Wyciąg ze skrzypu – zastosowanie",
+      "back": "Biała i czerwona plamistość liści truskawki, zamieranie pędów maliny, mączniak prawdziwy jabłoni i agrestu; 10 kg świeżego ziela lub 1,5 kg suszu/100 l, rozcieńczenie 5 razy, co 2 tygodnie od kwitnienia do końca czerwca."
+    },
+    {
+      "front": "Czynniki decydujące o zdrowotności roślin (schemat)",
+      "back": "Uprawa gleby, organizmy glebowe, repelenty i środki uodparniające, sanitacja gospodarstwa, bioróżnorodność, płodozmian, dobór roślin, nawożenie."
+    },
+    {
+      "front": "Co trzeba zrobić przed użyciem środka z Załącznika II rozp. 889/2008?",
+      "back": "Udokumentować potrzebę (np. stopień porażenia), zapisać zabiegi w rejestrach, sprawdzić, czy nie grozi decertyfikacją."
+    },
+    {
+      "front": "Jak wsiewa się koniczynę czerwoną w jęczmień jary i co to daje?",
+      "back": "W rosnący, jeszcze słabo rozwinięty łan; po zbiorze jęczmienia koniczyna szybko rośnie i daje pokos „ściernianki” – mniejsze bezproduktywne straty wody i składników."
+    },
+    {
+      "front": "Zadania rolnictwa związane z ochroną środowiska",
+      "back": "Kształtowanie i pielęgnowanie krajobrazu wiejskiego, regeneracja i magazynowanie wody."
+    },
+    {
+      "front": "Wpływ pestycydów na kobiety w ciąży i osoby starsze",
+      "back": "Ciąża: upośledzenie rozwoju umysłowego dziecka, częstsze poronienia; po 65. r.ż.: demencja, większe ryzyko Parkinsona i Alzheimera."
+    },
+    {
+      "front": "Przykładowy płodozmian na gleby cięższe z trzodą chlewną – rośliny po kukurydzy na ziarno",
+      "back": "Soja w szerokie rzędy → rzepak → jęczmień ozimy."
+    },
+    {
+      "front": "Kiedy powstaje problem wymywania azotu do wód?",
+      "back": "Gdy w glebie jest więcej dostępnego azotu, niż rośliny mogą związać, i jest nadmiar wody (opady, wiosenne odwilże)."
+    },
+    {
+      "front": "Zawartość próchnicy w glebach płowych i leśnych glebach brunatnych (Tab. 8.1)",
+      "back": "Gleby płowe 1,1–2,6%; leśne gleby brunatne 2,0–6,0% (czarnoziem 1,8–3,5%, gleby brunatne 1,5–2,5%, aluwialne 1,5–4,0%)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Silne negatywne oddziaływanie rolnictwa na środowisko rozpoczęło się:",
+      "options": [
+        "w średniowieczu",
+        "w XVIII wieku",
+        "po II wojnie światowej",
+        "po 2004 roku"
+      ],
+      "answer": 2,
+      "explain": "Początek silnego negatywnego oddziaływania przypada na okres po II wojnie światowej."
+    },
+    {
+      "q": "Rolnictwo ekologiczne wyklucza stosowanie:",
+      "options": [
+        "syntetycznych nawozów mineralnych i pestycydów",
+        "obornika i kompostu",
+        "nawozów zielonych",
+        "mączki wapiennej z naturalnych skał"
+      ],
+      "answer": 0,
+      "explain": "Rolnictwo ekologiczne wyklucza syntetyczne nawozy, pestycydy, regulatory wzrostu i syntetyczne dodatki paszowe."
+    },
+    {
+      "q": "Warstwa gleby o grubości 1 cm tworzy się przez około:",
+      "options": [
+        "rok",
+        "10 lat",
+        "10 000 lat",
+        "100 lat"
+      ],
+      "answer": 3,
+      "explain": "Gleba tworzy się długo – 1 cm przez 100 lat."
+    },
+    {
+      "q": "Zawartość próchnicy w piaskach wynosi:",
+      "options": [
+        "1,8–5,6%",
+        "0,6–1,8%",
+        "5–10%",
+        "10–15%"
+      ],
+      "answer": 1,
+      "explain": "Piaski zawierają 0,6–1,8% próchnicy."
+    },
+    {
+      "q": "Zakwaszenie gleby przez nawozy azotowe wynika z:",
+      "options": [
+        "wymywania fosforu",
+        "wydzielania jonu wodoru przy pobieraniu jonu azotu",
+        "kumulacji metali ciężkich",
+        "wzrostu zawartości próchnicy"
+      ],
+      "answer": 1,
+      "explain": "Roślina pobierając jon azotu wydziela jon wodoru, który zakwasza glebę."
+    },
+    {
+      "q": "Eutrofizację wód powodują przede wszystkim:",
+      "options": [
+        "metale ciężkie",
+        "pestycydy chlorowe",
+        "jony wapnia",
+        "azotany i fosforany"
+      ],
+      "answer": 3,
+      "explain": "Zanieczyszczenie azotanami i fosforanami powoduje zakwity wód – eutrofizację."
+    },
+    {
+      "q": "Główne źródło fosforanów zanieczyszczających wody to:",
+      "options": [
+        "ścieki komunalne",
+        "nawozy fosforowe wymywane z pól",
+        "obornik",
+        "erozja wietrzna"
+      ],
+      "answer": 0,
+      "explain": "Fosforany pochodzą głównie ze ścieków komunalnych, bo fosfor praktycznie nie ulega wymyciu."
+    },
+    {
+      "q": "W rolnictwie ekologicznym straty azotu są w porównaniu z konwencjonalnym niższe o:",
+      "options": [
+        "5%",
+        "20%",
+        "50%",
+        "90%"
+      ],
+      "answer": 2,
+      "explain": "W rolnictwie ekologicznym straty azotu są o 50% niższe."
+    },
+    {
+      "q": "Azotany uważane są za ważną przyczynę dysfunkcji:",
+      "options": [
+        "wątroby",
+        "trzustki",
+        "płuc",
+        "tarczycy"
+      ],
+      "answer": 3,
+      "explain": "Azotany uważa się za ważną przyczynę dysfunkcji tarczycy."
+    },
+    {
+      "q": "Fungicydy służą do zwalczania:",
+      "options": [
+        "owadów",
+        "chwastów",
+        "grzybów",
+        "gryzoni"
+      ],
+      "answer": 2,
+      "explain": "Fungicydy stosuje się do zwalczania grzybów."
+    },
+    {
+      "q": "Różnorodność w obrębie jednego gatunku to różnorodność:",
+      "options": [
+        "siedliskowa",
+        "genetyczna",
+        "gatunkowa",
+        "krajobrazowa"
+      ],
+      "answer": 1,
+      "explain": "Różnorodność genetyczna dotyczy zmienności w obrębie jednego gatunku."
+    },
+    {
+      "q": "90% żywności pochodzenia roślinnego dostarcza:",
+      "options": [
+        "6 gatunków roślin",
+        "2 gatunki roślin",
+        "60 gatunków roślin",
+        "600 gatunków roślin"
+      ],
+      "answer": 0,
+      "explain": "90% żywności roślinnej dostarcza zaledwie 6 gatunków roślin."
+    },
+    {
+      "q": "Rolnik ekologiczny, u którego wykryto zanieczyszczenie GMO:",
+      "options": [
+        "otrzymuje dopłatę",
+        "przechodzi skróconą konwersję",
+        "traci certyfikat",
+        "nie ponosi konsekwencji"
+      ],
+      "answer": 2,
+      "explain": "Rolnik ekologiczny z zanieczyszczeniem GMO traci certyfikat, a tym samym klientów."
+    },
+    {
+      "q": "Podstawowym celem uprawy roli w rolnictwie ekologicznym jest:",
+      "options": [
+        "strukturalna, aktywna biologicznie gleba",
+        "maksymalne zagęszczenie gleby",
+        "całkowite wyeliminowanie orki",
+        "jak najgłębsze odwracanie gleby"
+      ],
+      "answer": 0,
+      "explain": "Podstawowym celem uprawy roli jest strukturalna, aktywna biologicznie gleba."
+    },
+    {
+      "q": "Edafon to:",
+      "options": [
+        "poziom wymywania w profilu",
+        "rodzaj nawozu zielonego",
+        "skała macierzysta gleby",
+        "zespół drobnych organizmów żyjących w glebie"
+      ],
+      "answer": 3,
+      "explain": "Edafon to drobne organizmy powierzchniowych warstw gleby: bakterie, pierwotniaki, grzyby, mikro- i mezofauna."
+    },
+    {
+      "q": "Zasadę uprawy roli w rolnictwie ekologicznym określa hasło:",
+      "options": [
+        "głęboko odwracać, płytko spulchniać",
+        "płytko odwracać, głęboko spulchniać",
+        "orać jak najczęściej",
+        "nie spulchniać gleby"
+      ],
+      "answer": 1,
+      "explain": "Zasada brzmi: płytko odwracać, głęboko spulchniać."
+    },
+    {
+      "q": "Właściwym odczynem dla rozwoju edafonu jest odczyn:",
+      "options": [
+        "silnie kwaśny",
+        "lekko kwaśny do neutralnego",
+        "silnie zasadowy",
+        "bardzo kwaśny poniżej pH 4"
+      ],
+      "answer": 1,
+      "explain": "Odczyn lekko kwaśny do neutralnego jest warunkiem rozwoju edafonu."
+    },
+    {
+      "q": "Próchnica odpowiada za następującą część pojemności sorpcyjnej gleby:",
+      "options": [
+        "1–5%",
+        "80–95%",
+        "100%",
+        "20–70%"
+      ],
+      "answer": 3,
+      "explain": "Próchnica odpowiada za 20–70% całkowitej pojemności sorpcyjnej gleby."
+    },
+    {
+      "q": "Związki próchniczne mogą zatrzymać w formie dostępnej dla roślin więcej wody niż część mineralna gleby:",
+      "options": [
+        "3–5 razy",
+        "1,5 raza",
+        "10–20 razy",
+        "100 razy"
+      ],
+      "answer": 0,
+      "explain": "Próchnica może zatrzymać 3–5 razy więcej wody dostępnej niż część mineralna."
+    },
+    {
+      "q": "Nakłady robocizny w ekologicznej uprawie warzyw są wyższe niż w konwencjonalnej o:",
+      "options": [
+        "ok. 10%",
+        "10–20%",
+        "30–80%",
+        "100–150%"
+      ],
+      "answer": 2,
+      "explain": "W uprawie warzyw nakłady robocizny są wyższe o 30–80%."
+    },
+    {
+      "q": "Okres przejścia z rolnictwa konwencjonalnego na ekologiczne to:",
+      "options": [
+        "certyfikacja",
+        "decertyfikacja",
+        "rotacja",
+        "konwersja"
+      ],
+      "answer": 3,
+      "explain": "Okres przejścia na rolnictwo ekologiczne rozporządzenia definiują jako konwersję."
+    },
+    {
+      "q": "Dla roślin wieloletnich innych niż łąkowe okres konwersji wynosi co najmniej:",
+      "options": [
+        "6 miesięcy",
+        "1 rok przed wysiewem",
+        "3 lata przed pierwszym zbiorem",
+        "5 lat"
+      ],
+      "answer": 2,
+      "explain": "Art. 36 rozp. 889/2008: rośliny wieloletnie inne niż łąkowe – co najmniej 3 lata przed pierwszym zbiorem."
+    },
+    {
+      "q": "Datą przystąpienia do systemu rolnictwa ekologicznego jest dzień zgłoszenia zamiaru do:",
+      "options": [
+        "ARiMR",
+        "WIJHARS",
+        "KRUS",
+        "Izby Rolniczej"
+      ],
+      "answer": 1,
+      "explain": "Datą przystąpienia jest zgłoszenie do WIJHARS i podpisanie umowy z jednostką certyfikującą."
+    },
+    {
+      "q": "Pozwolenie WIORiN na użycie konwencjonalnego materiału siewnego dotyczy tylko materiału:",
+      "options": [
+        "niezaprawianego",
+        "zaprawianego chemicznie",
+        "GMO",
+        "otoczkowanego insektycydem"
+      ],
+      "answer": 0,
+      "explain": "Wydane pozwolenie dotyczy tylko materiału niezaprawianego."
+    },
+    {
+      "q": "Płodozmian to:",
+      "options": [
+        "uprawa jednego gatunku po sobie",
+        "jednorazowy poplon",
+        "zmianowanie zaplanowane na szereg lat",
+        "uprawa współrzędna"
+      ],
+      "answer": 2,
+      "explain": "Płodozmian to zmianowanie zaplanowane na szereg lat."
+    },
+    {
+      "q": "W rolnictwie ekologicznym zalecane są rotacje:",
+      "options": [
+        "5–7-letnie",
+        "roczne",
+        "2-letnie",
+        "15-letnie"
+      ],
+      "answer": 0,
+      "explain": "W uprawie roślin wskazane są długie rotacje, 5–7-letnie."
+    },
+    {
+      "q": "Udział zbóż ogółem w strukturze zasiewów gospodarstwa ekologicznego nie powinien przekraczać:",
+      "options": [
+        "20–25%",
+        "25–33%",
+        "75–90%",
+        "50–60%"
+      ],
+      "answer": 3,
+      "explain": "Udział zbóż ogółem nie powinien przekraczać 50–60%."
+    },
+    {
+      "q": "Płodozmian w gospodarstwie ekologicznym rozpoczyna się od:",
+      "options": [
+        "owsa",
+        "okopowych nawożonych obornikiem",
+        "pszenicy",
+        "żyta po życie"
+      ],
+      "answer": 1,
+      "explain": "Płodozmian zaczyna się od roślin poprawiających stanowisko – okopowych na oborniku."
+    },
+    {
+      "q": "Przykładem wsiewki śródplonowej jest:",
+      "options": [
+        "rzepak ozimy po burakach",
+        "koniczyna czerwona w jęczmień jary",
+        "ziemniak po ziemniaku",
+        "kukurydza w monokulturze"
+      ],
+      "answer": 1,
+      "explain": "Przykładem wsiewki jest koniczyna czerwona wsiewana w jęczmień jary."
+    },
+    {
+      "q": "W rolnictwie ekologicznym nawozi się przede wszystkim:",
+      "options": [
+        "liście roślin",
+        "nasiona",
+        "wodę do nawadniania",
+        "glebę"
+      ],
+      "answer": 3,
+      "explain": "W rolnictwie ekologicznym nawozimy glebę, a nie rośliny."
+    },
+    {
+      "q": "Górny limit azotu z nawozów naturalnych w rolnictwie ekologicznym wynosi:",
+      "options": [
+        "170 kg N/ha/rok",
+        "50 kg N/ha/rok",
+        "250 kg N/ha/rok",
+        "340 kg N/ha/rok"
+      ],
+      "answer": 0,
+      "explain": "Zgodnie z rozp. 889/2008 limit wynosi 170 kg N/ha/rok."
+    },
+    {
+      "q": "1 t obornika zawiera średnio azotu:",
+      "options": [
+        "0,5 kg",
+        "25 kg",
+        "5 kg",
+        "50 kg"
+      ],
+      "answer": 2,
+      "explain": "Według tab. 8.2 1 t obornika zawiera średnio 5 kg N."
+    },
+    {
+      "q": "Obornik z gospodarstw konwencjonalnych może być stosowany w gospodarstwie ekologicznym:",
+      "options": [
+        "bez ograniczeń",
+        "tylko z chowu przemysłowego",
+        "nigdy",
+        "po przekompostowaniu, jeśli nie pochodzi z chowu przemysłowego"
+      ],
+      "answer": 3,
+      "explain": "Dozwolony jest obornik z gospodarstw konwencjonalnych po przekompostowaniu, ale nie z chowu przemysłowego."
+    },
+    {
+      "q": "Główną formą profilaktyki w ekologicznej ochronie roślin jest:",
+      "options": [
+        "oprysk herbicydem totalnym",
+        "uprawa GMO",
+        "prawidłowy płodozmian",
+        "monokultura"
+      ],
+      "answer": 2,
+      "explain": "Główną formą profilaktyki jest prawidłowy płodozmian."
+    },
+    {
+      "q": "Właściwości allelopatyczne wykazują:",
+      "options": [
+        "pszenica i jęczmień",
+        "słonecznik i wyka kosmata",
+        "ziemniak i burak",
+        "owies i żyto"
+      ],
+      "answer": 1,
+      "explain": "Z właściwości allelopatycznych znane są słonecznik i wyka kosmata."
+    },
+    {
+      "q": "Gnojówkę roślinną przygotowuje się w proporcji:",
+      "options": [
+        "1 kg ziela na 10 l wody",
+        "1 kg ziela na 1 l wody",
+        "10 g ziela na 100 l wody",
+        "1 kg ziela na 100 l wody"
+      ],
+      "answer": 0,
+      "explain": "Na 1 kg ziela daje się 10 l wody."
+    },
+    {
+      "q": "Gnojówkę roślinną przed opryskiem rozcieńcza się w proporcji:",
+      "options": [
+        "1 l na 1 l wody",
+        "1 l na 2–3 l wody",
+        "1 l na 15–20 l wody",
+        "1 l na 200 l wody"
+      ],
+      "answer": 2,
+      "explain": "Po przecedzeniu gnojówkę rozcieńcza się 1 l na 15–20 l wody."
+    },
+    {
+      "q": "Wyciąg z czosnku stosuje się przeciw:",
+      "options": [
+        "szarej pleśni truskawki i maliny",
+        "mączniakowi agrestu",
+        "stonce ziemniaczanej",
+        "zarazie ziemniaka"
+      ],
+      "answer": 0,
+      "explain": "Czosnek stosuje się co 7–10 dni przeciw szarej pleśni truskawki i maliny."
+    },
+    {
+      "q": "Przetwórcy w ekologicznym sektorze UE są kontrolowani:",
+      "options": [
+        "raz na 5 lat",
+        "tylko przy rejestracji",
+        "raz na 10 lat",
+        "przynajmniej raz w roku"
+      ],
+      "answer": 3,
+      "explain": "Wszyscy przetwórcy ekologiczni w UE podlegają kontrolom przynajmniej raz w roku."
+    },
+    {
+      "q": "W jakich granicach waha się zawartość próchnicy w glebach (wg wideokastu)?",
+      "options": [
+        "0,6–6%",
+        "10–20%",
+        "0,01–0,1%",
+        "25–45%"
+      ],
+      "answer": 0,
+      "explain": "Zawartość próchnicy w glebach jest zróżnicowana i wynosi od 0,6% do 6%."
+    },
+    {
+      "q": "Znak na ilustracji to:",
+      "options": [
+        "logo rolnictwa ekologicznego UE",
+        "znak integrowanej produkcji",
+        "znak CE",
+        "logo funduszy UE"
+      ],
+      "answer": 0,
+      "explain": "Graficzną formą certyfikatu ekologicznego jest logo UE z kodem PL-EKO-0X.",
+      "img": "img/ur8/logo-eko-bez-podpisu.jpg"
+    },
+    {
+      "q": "Ile razy rozcieńcza się wyciąg z czosnku przed opryskiem (tab. 8.3)?",
+      "options": [
+        "5 razy",
+        "10 razy",
+        "15–20 razy",
+        "nie rozcieńcza się"
+      ],
+      "answer": 1,
+      "explain": "Czosnek – rozcieńczenie 10 razy; skrzyp – 5 razy; pokrzywa – 10 razy; gnojówki ogólnie 1 l na 15–20 l wody."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż działania pośrednio ograniczające bioróżnorodność.",
+      "options": [
+        "Stosowanie pestycydów.",
+        "Zagospodarowanie rowów.",
+        "Osuszanie zbiorników wodnych.",
+        "Usuwanie miedz."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSpadek zawartości próchnicy w glebie występuje na skutek ….",
+      "options": [
+        "zastąpienia nawozów organicznych mineralnymi",
+        "zaprzestania uprawy roślin motylkowatych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawożenie organiczne korzystnie oddziałuje na populację bezkręgowców glebowych, które z kolei mogą być pożywieniem dla większych organizmów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pogorszenie jakości wody często wiąże się z:",
+      "options": [
+        "zmniejszoną ilością azotu po zbiorach.",
+        "niewłaściwym płodozmianem.",
+        "nadmiernym stosowaniem mineralnych nawozów azotowych.",
+        "nadmiernym nawożeniem organicznym.",
+        "niedostateczną okrywą ochronną gleby."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Zakwaszenie gleby jest w bardzo dużym stopniu spowodowane nawożeniem ….",
+      "options": [
+        "organicznym",
+        "mineralnym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWe współczesnym świecie 90% żywności pochodzenia roślinnego dostarczane jest przez 20 gatunków roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż możliwe źródła materiału siewnego w rolnictwie ekologicznym.",
+      "options": [
+        "Z innego gospodarstwa ekologicznego.",
+        "Z wybranego źródła po otrzymaniu oficjalnego pozwolenia.",
+        "Wszystkie według zapotrzebowania rolnika.",
+        "Z własnego gospodarstwa."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZanieczyszczenie wody przez fosforany w największym stopniu spowodowane jest przez działanie ….",
+      "options": [
+        "ścieków komunalnych",
+        "rolnictwa nieekologicznego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuperchwasty to chwasty odporne na działanie herbicydów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż surowce do przygotowania fermentowanych wyciągów roślinnych (gnojówek) do zwalczania szkodników.",
+      "options": [
+        "Pokrzywa.",
+        "Mniszek lekarski.",
+        "Czosnek.",
+        "Słoma.",
+        "Żarnowiec."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZakwit wód to inaczej ….",
+      "options": [
+        "eutrofizacja",
+        "rekultywacja"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawowym celem uprawy roli jest strukturalna i aktywna biologicznie gleba.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Udział strączkowych w strukturze zasiewów w gospodarstwie ekologicznym nie powinien przekraczać:",
+      "options": [
+        "15%.",
+        "20-25%.",
+        "25–33%.",
+        "50–69%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa dysfunkcje tarczycy u człowieka mają wpływ ….",
+      "options": [
+        "azotany",
+        "herbicydy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Próchnica poprawia strukturę gruzełkową gleby i wpływa tym samym na stosunki wodno-powietrzne i ułatwia uprawę gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W bioróżnorodności wyróżniamy różnorodność:",
+      "options": [
+        "masową.",
+        "gatunkową.",
+        "ekstensywną.",
+        "siedliskową.",
+        "genetyczną."
+      ],
+      "answers": [
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Krzyżowanie i selekcja gatunków należą do metod hodowli ….",
+      "options": [
+        "z użyciem inżynierii genetycznej",
+        "tradycyjnych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie ekologicznym nawozi się rośliny, a nie glebę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Pierwszym rzutem ekologicznego płodozmianu powinny być rośliny:",
+      "options": [
+        "fitosanitarne.",
+        "poprawiające stanowisko.",
+        "mało wymagające.",
+        "wymagające dobrego stanowiska."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW Stanach Zjednoczonych produkcja mięsa pochłania … energii używanej przez cały sektor rolnictwa.",
+      "options": [
+        "70%",
+        "50%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozmaitość roślin przekłada się na niską presję ze strony patogenów i hamuje rozprzestrzenianie się chorób i szkodników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Przy stosowaniu płodozmianu wskazane są rotacje:",
+      "options": [
+        "3-letnie.",
+        "4-letnie.",
+        "7-letnie.",
+        "6-letnie.",
+        "5-letnie."
+      ],
+      "answers": [
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Jęczmień i uprawiana po nim w tym samym roku mieszanka gorczycy z facelią to przykład ….",
+      "options": [
+        "plonu głównego + poplonu ścierniskowego",
+        "plonu głównego + plonu wtórnego"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo przygotowania „gnojówki” ze skrzypu należy zalać go wodą w proporcji 10 l wody na 1 kg ziela.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż cele stosowania wsiewek śródplonowych w płodozmianie ekologicznym.",
+      "options": [
+        "Ograniczenie strat wody.",
+        "Ograniczenie strat składników pokarmowych.",
+        "Dodatkowe źródło paszy.",
+        "Zwalczanie szkodników."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUdział zbóż w strukturze zasiewów w gospodarstwach ekologicznych nie powinien przekraczać ….",
+      "options": [
+        "25-33%",
+        "50-60%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnictwo ekologiczne stara się nie funkcjonować w cyklu zamkniętym gleba–roślina–zwierzę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W gospodarstwach ekologicznych nakłady robocizny w uprawie warzyw są większe niż w rolnictwie tradycyjnym o:",
+      "options": [
+        "30–80%.",
+        "10%.",
+        "20–40%.",
+        "10-20%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzestawienie z rolnictwa nieekologicznego na ekologiczne wymaga spełnienie wymogów prawnych i trwa ….",
+      "options": [
+        "1 rok",
+        "w zależności od rodzaju upraw 2 lub 3 lata"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy syntetyczne mogą zawierać metale ciężkie: kadm, rtęć, ołów i arsen.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, ile procent metanu w środowisku pochodzi z rolnictwa.",
+      "options": [
+        "20%",
+        "40%",
+        "10%",
+        "50%",
+        "30%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW rolnictwie ekologicznym dany gatunek roślin plonuje tym wyżej, im … jest uprawiany na danym polu.",
+      "options": [
+        "częściej",
+        "rzadziej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW nawozach syntetycznych znajdują się także metale ciężkie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż zalety płodozmianu typowe dla rolnictwa ekologicznego.",
+      "options": [
+        "Ochrona gleby przed erozją.",
+        "Efektywne wykorzystanie maszyn rolniczych.",
+        "Zapobieganie biologicznemu wiązaniu azotu.",
+        "Zmniejszenie ryzyka produkcji.",
+        "Utrzymywanie żyzności i biologicznej aktywności gleby.",
+        "Ograniczanie chorób, szkodników i chwastów."
+      ],
+      "answers": [
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUdział ziemniaka i buraka w strukturze zasiewów nie powinien przekraczać ….",
+      "options": [
+        "20–25%",
+        "40–50%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPłodozmian w gospodarstwie ekologicznym ustala się w zależności od typu hodowli.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż wsiewkę odpowiednią dla żyta.",
+      "options": [
+        "Facelia.",
+        "Koniczyna biała z trawami.",
+        "Rzepik.",
+        "Seradela."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nIm większa populacja mikroorganizmów żyje w glebie, tym proporcjonalnie … udział stanowią mikroorganizmy patogenne.",
+      "options": [
+        "mniejszy",
+        "większy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPestycydy lub ich pozostałości w roślinach mogą być przyczyną oparzeń, chorób żołądka i śmiertelnych zatruć.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż skutki intensywnego nawożenia mineralnego.",
+      "options": [
+        "Zmniejszenie pojemności sorpcyjnej.",
+        "Obniżenie kwasowości.",
+        "Pogarszanie właściwości fizycznych.",
+        "Niszczenie struktury gruzełkowatej.",
+        "Obniżenie zawartość próchnicy."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNa skutek procesów glebotwórczych w okresie 100 lat powstaje … gleby.",
+      "options": [
+        "1 cm",
+        "10 cm"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWsiewka śródplonowa należy do ekologicznych metod zwalczania szkodników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż roślinę, która w płodozmianie w gospodarstwie ekologicznym powinna nastąpić po roślinach poprawiających stanowisko.",
+      "options": [
+        "Pszenica.",
+        "Okopowe nawożone obornikiem.",
+        "Groch.",
+        "Owies."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy przekroczeniu zaplanowanej produkcji … w gospodarstwie ekologicznym wymaga się od rolnika podpisania umowy z innym gospodarstwem ekologicznym w celu przekazania nadwyżki.",
+      "options": [
+        "paszy",
+        "obornika"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGospodarowanie w systemie ekologicznym oznacza sposób gospodarowania oparty na wykorzystaniu naturalnych procesów zachodzących w gospodarstwie rolnym o zrównoważonej produkcji roślinnej i zwierzęcej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Intensywne nawożenie mineralne gleby i zmniejszenie liczby roślin wieloletnich w płodozmianie skutkuje:",
+      "options": [
+        "podwyższeniem zawartość próchnicy.",
+        "polepszaniem właściwości fizycznych.",
+        "podwyższeniem kwasowości gleby.",
+        "budowaniem struktury gruzełkowatej.",
+        "zwiększeniem pojemności sorpcyjnej."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW zmianowaniu ekologicznym przedplony pozostawiają roślinom głównym stanowisko o mniejszej wartości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż czynniki odpowiadające za pogarszanie jakości wody.",
+      "options": [
+        "Niewłaściwy płodozmian.",
+        "Zmniejszenie ilości azotu po zbiorach.",
+        "Nadmierne nawożenie organiczne.",
+        "Niedostateczna okrywa ochronna gleby.",
+        "Nadmierne stosowanie mineralnych nawozów azotowych."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż pierwszy element płodozmianów ekologicznych.",
+      "options": [
+        "Rośliny okopowe poprawiające stanowisko.",
+        "Mało wymagające zboża.",
+        "Owies.",
+        "Rośliny wymagające."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa skutek procesów glebotwórczych w okresie 100 lat powstaje 10 cm gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W uprawie owoców miękkich w gospodarstwach ekologicznych nakłady robocizny w uprawie są wyższe o:",
+      "options": [
+        "10%.",
+        "30-80%.",
+        "10-20%.",
+        "20-40%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "W gospodarstwach ekologicznych udział zbóż w ogólnej strukturze zasiewów nie powinien przekraczać:",
+      "options": [
+        "10%.",
+        "25–33%.",
+        "50–60%.",
+        "20–25%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIm większa populacja mikroorganizmów żyje w glebie, tym proporcjonalnie większy udział stanowią w niej mikroorganizmy patogenne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaz powód, dla którego nie należy w płodozmianie stosować rzepaku po burakach.",
+      "options": [
+        "Rzepak za późno schodzi z pola.",
+        "Sprzyja to rozwojowi tych samych szkodników.",
+        "Za duże wymagania buraków w przedplonie.",
+        "Odmienne wymagania nawozowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zasady uprawy roli w rolnictwie ekologicznym.",
+      "options": [
+        "Głęboko spulchniać glebę.",
+        "Uprawiać glebę tak rzadko, jak to jest możliwe.",
+        "Uprawiać glebę tak często, jak to jest konieczne.",
+        "Płytko odwracać glebę."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUdział ziemniaka i buraka w strukturze zasiewów gospodarstw ekologicznych nie powinien przekraczać 20–25%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż rośliny, przy których można zastosować wsiewkę z koniczyny białej z trawami.",
+      "options": [
+        "Pszenżyto.",
+        "Dynia.",
+        "Owies.",
+        "Żyto."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż rodzaje bioróżnorodności.",
+      "options": [
+        "Masowa.",
+        "Gatunkowa.",
+        "Genetyczna.",
+        "Ekstensywna.",
+        "Siedliskowa."
+      ],
+      "answers": [
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodstawowymi nawozami w rolnictwie ekologicznym są nawozy naturalne: obornik i gnojówka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkrót GMO pochodzi z języka angielskiego i w tłumaczeniu na polski oznacza „organizmy modyfikowane genetycznie”.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż górny limit wagowy produkcji nawozu organicznego z jednego hektara na rok.",
+      "options": [
+        "Nie ustalono górnego limitu.",
+        "170 kg.",
+        "120 kg.",
+        "100 kg."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAgrotechniczne czynniki zmianowania określają wymagania roślin w stosunku do uprawy roli, nawożenia organicznego i mineralnego, ochrony roślin i innych składowych agrotechniki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż możliwe źródła materiału siewnego dla gospodarstw ekologicznych.",
+      "options": [
+        "Materiał zatwierdzony przez odpowiednią instytucję na indywidualny wniosek rolnika.",
+        "Dowolne źródło wybrane przez właściciela gospodarstwa ekologicznego.",
+        "Własne gospodarstwo.",
+        "Inne gospodarstwo ekologiczne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUdział zbóż w strukturze zasiewów nie powinien przekraczać 25–33%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z wymienionych procesów nie wiąże się ze stosowaniem płodozmianu?",
+      "options": [
+        "Ograniczanie rozprzestrzeniania się chorób, szkodników i chwastów.",
+        "Wzrostu żyzności i biologicznej aktywności gleby.",
+        "Ograniczanie wymywania składników pokarmowych do wód gruntowych.",
+        "Zapobieganie biologicznemu wiązaniu azotu.",
+        "Ochrona gleby przed erozją."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Przy stosowaniu płodozmianu wskazane są rotacje:",
+      "options": [
+        "1–2 letnie.",
+        "2–4 letnie.",
+        "4–6 letnie.",
+        "7–9 letnie.",
+        "5–7 letnie."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHerbicyd totalny niszczy wszystkie rośliny za wyjątkiem tej, która posiada gen odporności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż przykład poplonu ścierniskowego w uprawach ekologicznych.",
+      "options": [
+        "Gorczyca z facelią.",
+        "Koniczyna czerwona + jęczmień.",
+        "Ziemniaki średnio późne.",
+        "Żyto ozime z wyką."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRegułę uprawy roli w rolnictwie ekologicznym dobrze określają dwie zasady: płytko odwracać, głęboko spulchniać oraz uprawiać glebę tak często, jak to jest konieczne, i tak rzadko, jak to jest możliwe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProces przejścia z uprawy tradycyjnej na ekologiczną trwa od 2 do 3 lat i jest uregulowany prawem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW rolnictwie ekologicznym doraźne reagowanie na potrzeby nawozowe roślin jest łatwiejsze niż w rolnictwie konwencjonalnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nAzotany stosowane w rolnictwie negatywnie wpływają na funkcjonowanie hormonów tarczycy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWarunkiem powodzenia w rolnictwie ekologicznym jest takie powiązanie produkcji roślinnej ze zwierzęcą, by ilość wytworzonego nawozu przewyższała potrzeby gospodarstwa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRolnictwo ekologiczne nie powinno funkcjonować w zamkniętym cyklu gleba–roślina–zwierzę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZanieczyszczenie wody przez fosforany jest w największym stopniu spowodowane przez rolnictwo konwencjonalne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGórny limit produkcji nawozu w rolnictwie ekologicznym wynosi 250 kg N/ha/rok, co odpowiada ok. 3 sztukom bydła na hektarze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "We współczesnym świecie 90% żywności pochodzenia roślinnego dostarczane jest przez:",
+      "options": [
+        "6 gatunków roślin.",
+        "ok. 50 gatunków roślin.",
+        "60 gatunków roślin.",
+        "ok. 1000 gatunków roślin."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż ekologiczne metody ograniczenia występowania agrofagów.",
+      "options": [
+        "Mechaniczne usuwanie chwastów.",
+        "Wykorzystanie alleolopatycznych własności roślin.",
+        "Odpowiedni dobór obsady łanu.",
+        "Uprawy wielokulturowe.",
+        "Późny siew."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Czynniki zmianowania dzieli się na:",
+      "options": [
+        "przyrodnicze.",
+        "wegetacyjne.",
+        "agrotechniczne.",
+        "organizacyjno-ekonomiczno-techniczne.",
+        "produkcyjne."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Alleopatyczne własności roślin polegają na wydzielaniu do gleby:",
+      "options": [
+        "substancji uniemożliwiających kiełkowanie chwastów.",
+        "substancji sprzyjających fermentacji.",
+        "substancji podtrzymujących mikroflorę.",
+        "dodatkowych ilości azotu."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2205 @@
+{
+  "id": "tr4",
+  "course": "Technika w rolnictwie",
+  "title": "Maszyny i narzędzia do uprawy i pielęgnacji roślin",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Podstawowym zabiegiem agrotechnicznym jest orka wykonywana pługami: odcięcie skib, ich odwracanie z kruszeniem i mieszaniem.",
+        "Orka to najbardziej pracochłonny i energochłonny zabieg polowy – ogranicza się ją narzędziami bezodkładnicowymi lub orką co kilka lat.",
+        "Uprawa popłużna (doprawianie) przygotowuje glebę do siewu lub sadzenia; narzędzia: brony, kultywatory, wały, włóki, spulchniacze obrotowe, głębosze, agregaty (np. brona aktywna z kultywatorem).",
+        "Liczba zabiegów zależy m.in. od przedplonu, okresu między plonami, wymagań rośliny, jakości gleby, zachwaszczenia, wilgotności.",
+        "W Polsce obowiązuje ewidencjonowanie stosowanych środków ochrony roślin i okresowe badanie techniczne opryskiwaczy.",
+        "Zmiana stanu technicznego niektórych układów ciągnika (np. hamulcowego) może być przyczyną wypadku; przestrzeganie terminów przeglądów obniża koszty eksploatacji.",
+        "Celem zabiegów doprawiających jest stworzenie roślinom uprawnym jak najkorzystniejszych warunków wzrostu i rozwoju.",
+        "Ograniczanie ilości ś.o.r. służy ochronie środowiska i wymaganiom konsumentów; ewidencja ś.o.r. i badanie opryskiwaczy zmniejszają zużycie agrochemikaliów m.in. przez ich precyzyjniejsze stosowanie.",
+        "Obsługa techniczna utrzymuje pojazdy w sprawności; zużycie i czynniki otoczenia zmieniają stan zespołów, co może spowodować uszkodzenie i nieplanowany przestój."
+      ]
+    },
+    {
+      "heading": "1. Pług – budowa korpusu",
+      "points": [
+        "Pługi konne to rzadkość (góry, małe działki); najczęstsze źródło energii – ciągnik.",
+        "Podstawowy zespół roboczy – korpus płużny: lemiesz, odkładnica, płoz, piętka; w pługach ciągnikowych odkładnica dzielona na pierś i skrzydło.",
+        "Lemiesz podcina skibę i unosi ją na odkładnicę, która ją kruszy i odkłada na bok.",
+        "Piętka utrzymuje pług w pozycji roboczej pionowej, płoz – w pozycji roboczej poziomej.",
+        "Listwa usztywniająca stabilizuje skrzydło odkładnicy; słupica łączy części korpusu z ramą pługa.",
+        "Konstrukcja pługów zależy od źródła energii, sposobu wykonania, różnorodności orek i przeznaczenia wykonywanej orki."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/podzial-plugow.jpg",
+          "caption": "Podział pługów: konne i ciągnikowe; ciągnikowe – lemieszowe i talerzowe; lemieszowe – zwykłe (do orki zagonowej, do orki bezzagonowej → obracalne) i specjalne (agromelioracyjne, łąkowe); wg głębokości orki – podorywkowe, do orki średniej, do orki głębokiej."
+        },
+        {
+          "src": "img/tr4/korpus-pluzny-budowa.jpg",
+          "caption": "Budowa korpusu płużnego: skrzydło odkładnicy, pierś odkładnicy, odkładnica, lemiesz, słupica, listwa usztywniająca, płoz, piętka płozu."
+        }
+      ]
+    },
+    {
+      "heading": "Odkładnice, zespoły pomocnicze i pługi specjalne",
+      "points": [
+        "Cylindryczna – bardzo dobrze kruszy i miesza, słabo odwraca; gleby niezachwaszczone o bardzo dobrej kulturze.",
+        "Kulturalna – dobrze kruszy i miesza, słabo odwraca; gleby o dobrej kulturze.",
+        "Półśrubowa – słabo kruszy, dobrze odwraca; gleby zwięzłe.",
+        "Śrubowa – bardzo słabo kruszy, dobrze odwraca; łąki, ugory.",
+        "Odkładnice ażurowe (gleby ciężkie) – opór mniejszy o ok. 10–15% niż pełnych.",
+        "Krój (nożowy lub talerzowy) – przed korpusem; rozcina obornik, nawóz zielony, darń i odcina skibę od calizny (gładka ścianka bruzdy).",
+        "Przedpłużek – mały korpus przed głównym; ścina lewą górną warstwę skiby na 2/3 jej szerokości i zrzuca na dno sąsiedniej bruzdy.",
+        "Ścinacz skiby – ścina róg odwracanej skiby, zrzucając go do bruzdy.",
+        "Pogłębiacz – spulchnia podskibie, likwiduje podeszwę płużną bez wyorywania ubogiej gleby.",
+        "Listwa dokładająca – przedłużenie odkładnicy dla dokładniejszego odwrócenia skiby.",
+        "Łąkowe – skiba mało kruszona, dokładnie odwracana darnią w dół (odkładnica śrubowa z długą listwą dokładającą).",
+        "Leśne – jeden dwustronny korpus (dwa lemiesze, dwie odkładnice); bruzdy do sadzenia drzew.",
+        "Agromelioracyjne – orki głębokie do 60 cm.",
+        "Talerzowe – obrotowy talerz zastępuje lemiesz i odkładnicę; praca na terenach krzaczastych i zakorzenionych.",
+        "Pługi obracane – do orki bezzagonowej (skiby odkładane stale w jedną stronę).",
+        "Pług talerzowy: tocząc się po roli, talerz rozcina resztki pożniwne i nawozy zielone, jednocześnie je odwracając."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/odkladnice-rodzaje.jpg",
+          "caption": "Rodzaje odkładnic: a) cylindryczna, b) kulturalna, c) półśrubowa, d) śrubowa (u góry widok korpusu, u dołu kształt powierzchni odkładnicy)."
+        },
+        {
+          "src": "img/tr4/odkladnica-azurowa.jpg",
+          "caption": "Odkładnica ażurowa – złożona z listew; na glebach ciężkich stawia opór mniejszy o ok. 10–15% niż odkładnica pełna."
+        },
+        {
+          "src": "img/tr4/plug-obracalny.jpg",
+          "caption": "Pług obracalny (obracany) – dwa zestawy korpusów (prawo- i lewoodkładające); do orki bezzagonowej, skiby odkładane stale w jedną stronę."
+        }
+      ]
+    },
+    {
+      "heading": "Narzędzia doprawiające – włóki, brony, kultywatory",
+      "points": [
+        "Doprawianie: kruszenie brył, wyrównanie, spulchnienie i zagęszczenie określonych warstw gleby.",
+        "Włóki – wyrównanie i spulchnienie powierzchni, najczęściej wiosną na orce zimowej (ogranicza parowanie, przyspiesza siew); bele połączone łańcuchami; na łąkach – zużyte opony do rozgarniania kretowisk.",
+        "Brony – spulchnienie wierzchniej warstwy, kruszenie grud, niszczenie skorupy i chwastów, mieszanie nawozów, przykrycie nasion.",
+        "Brony zębowe: bierne i aktywne (wahadłowe, rotacyjne, wirnikowe); zęby sztywne lub sprężynowe; uprawowe, posiewne, chwastowniki, łąkowe.",
+        "Masa brony na jeden ząb: lekkie 0,5–1,5 kg, średnie 1,5–2,5 kg, ciężkie 2,5–4,5 kg.",
+        "Kultywatory – głębsze spulchnianie i mieszanie gleby bez odwracania; niszczenie chwastów, wyciąganie rozłogów perzu; głębokość pracy 5–16 cm.",
+        "Włóki stosuje się też do wyrównania roli po innych zabiegach (np. talerzowaniu) i agreguje z pługami przy orce siewnej wiosennej i jesiennej; bele drewniane lub metalowe połączone łańcuchami dostosowują się do nierówności pola.",
+        "Kultywator stosuje się na glebie zwięzłej, zaoranej przed zimą lub zleżałej i ubitej przez deszcz; także do przewietrzania gleby. Głębokość zależy od rodzaju wykonywanej pracy."
+      ]
+    },
+    {
+      "heading": "Wały",
+      "points": [
+        "Wały ugniatają rolę (ułatwiają podsiąkanie wody), wyrównują ją i kruszą bryły.",
+        "Gładkie – ugniatają wierzchnią warstwę, dociskają nasiona, zwiększają podsiąkanie.",
+        "Pierścieniowy prosty – przygniatanie nawozów zielonych, niszczenie skorupy na glebach ciężkich.",
+        "Croskill – kruszy bryły i zagęszcza powierzchnię; Cambridge – głównie kruszy bryły; Croskill-Cambridge – połączenie dla efektywniejszego kruszenia.",
+        "Campbella – zagęszcza głębsze warstwy, pozostawia wierzchnią niezagęszczoną, przyspiesza osiadanie gleby.",
+        "Kolczatki – rozbijają bryły i przyspieszają osiadanie.",
+        "Strunowe – płytko kruszą i ugniatają, wierzch zostaje spulchniony; dobrze przygotowują do siewu.",
+        "Zębowe – wgniatają resztki pożniwne w glebę przed siewem.",
+        "Wały gładkie wgniatają też w glebę bryły i kamienie."
+      ]
+    },
+    {
+      "heading": "Maszyny do nawożenia",
+      "points": [
+        "Nawożenie uzupełnia składniki pokarmowe, przywraca właściwości sorpcyjne gleby, reguluje odczyn.",
+        "Obornik, torf, kompost – uniwersalne rozrzutniki (transport i rozrzucanie).",
+        "Gnojówka i gnojowica – wozy asenizacyjne (pobranie ze zbiornika, transport, rozlanie).",
+        "Rozsiewacze nawozów mineralnych – zawieszane i przyczepiane; zespół roboczy najczęściej obracająca się tarcza z łopatkami (siła odśrodkowa).",
+        "Dawkę reguluje się wielkością szczeliny dozowniczej w skrzyni nawozowej.",
+        "Najczęściej dwa zespoły robocze (równomierność po obu stronach, większa szerokość robocza); sterowniki z mapami zasobności zwiększają efektywność.",
+        "Rzadziej – wahadłowy i pneumatyczny zespół wysiewający.",
+        "Rozsiewacze przyczepiane – do dużych ilości; przenośnik podłogowy napędzany od koła jezdnego, tarcze napędzane siłownikiem hydraulicznym."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/maszyny-do-nawozenia-podzial.jpg",
+          "caption": "Podział maszyn do nawożenia: nawozami organicznymi – stałymi (ładowacze, rozrzutniki) i ciekłymi (beczkowozy i rozlewacze, wozy asenizacyjne); nawozami mineralnymi – stałymi (rozdrabniacze i ładowacze → rozsiewacze, siewniki) i ciekłymi (pompy → opryskiwacze, rozlewacze)."
+        }
+      ]
+    },
+    {
+      "heading": "Siewniki, sadzarki i uprawa międzyrzędowa",
+      "points": [
+        "Siewniki rzędowe (uniwersalne) – zboża, strączkowe, oleiste, przemysłowe, pastewne, warzywa, zioła.",
+        "Zespoły siewnika: rama i układ jezdny, skrzynia nasienna z mieszadłem, zespoły wysiewające z przewodami nasiennymi i redlicami, regulacja ilości wysiewu, układ napędowy z włączaniem napędu.",
+        "Sadzarki – równomierne rozmieszczenie sadzeniaków; głębokość zależy od gleby, jakości sadzeniaków i klimatu; gęstość – od gleby i przeznaczenia ziemniaków.",
+        "Znormalizowane międzyrzędzia ziemniaka: 62,5 cm, 67,5 cm, 75 cm, 90 cm – muszą do nich pasować narzędzia pielęgnacyjne i maszyny do zbioru.",
+        "Sadzarki automatyczne – najpowszechniejsze; samoczynne pobieranie ze zbiornika, przykrywanie korpusami obsypników.",
+        "Sadzarki półautomatyczne – robotnicy na siodełkach (tylu, ile rzędów); mniej uszkodzeń – do ziemniaków podkiełkowanych.",
+        "Pielnik – typowe narzędzie do uprawy międzyrzędowej: noże kątowe jedno- i dwustronne (podcinanie chwastów), gęsiostopki (intensywne spulchnianie), zęby sprężyste z gęsiostopkami (głębsze spulchnianie), wąskie dłuta (przewietrzanie gleb zwięzłych).",
+        "W sadzarce automatycznej zespół sadzący wrzuca ziemniaki do redlic. Przeznaczenie ziemniaków (wpływa na gęstość sadzenia): sadzeniaki, konsumpcyjne, przemysłowe.",
+        "Noże kątowe pielnika: jednostronne (lewe i prawe) i dwustronne – podcinanie chwastów i płytkie spulchnianie gleby.",
+        "Uprawa międzyrzędowa – praca pielęgnacyjna wykonywana po posadzeniu lub posianiu roślin, między rzędami, tak aby nie uszkodzić roślin."
+      ]
+    },
+    {
+      "heading": "Ciągniki rolnicze – podział",
+      "points": [
+        "Najliczniejszą grupę pojazdów stanowią ciągniki – agregowane z maszynami zaczepianymi i zawieszanymi, napędzanymi przez WOM lub hydraulikę zewnętrzną.",
+        "Maszyny samojezdne: kombajn zbożowy, buraczany, sieczkarnie i opryskiwacze samojezdne.",
+        "Kryteria podziału ciągników: przeznaczenie, ogólna budowa, siła uciągu, konstrukcja mechanizmów jezdnych.",
+        "Uniwersalne – typowe prace, wyposażone w zaczepy, podnośnik hydrauliczny, WOM; specjalistyczne – praca w ściśle określonych warunkach.",
+        "Sady i winnice – mały rozstaw kół; szkółki i sady – ciągniki szczudłowe (praca ponad konarami); leśne – osłony karoserii i urządzenia do wyciągania drewna; melioracyjne – czerpaki lub ładowacze.",
+        "Kołowe: 4K2 (2WD) – napęd na dwa koła; 4K4 (4WD), 4K2a – napęd na cztery koła; gąsienicowe – duże siły uciągu i mały nacisk na glebę.",
+        "Klasyfikacja wg nominalnej siły uciągu na ściernisku, glebie średnio zwięzłej, przy maksymalnej sprawności (10 klas).",
+        "Przykłady: klasa 4 – 6 kN (Ursus C330, 3502, T25A); klasa 5 – 9 kN, 37–44 kW (Ursus C360, Zetor 5320); klasa 6 – 14 kN, 55–73,5 kW (Ursus 914, 1014, MTZ-82, John Deere 5820).",
+        "Klasa 7 – 20 kN, 88–110 kW; klasa 8 – 30 kN, 118–147 kW; klasa 9 – 50 kN, 150–200 kW (John Deere 8420, Valtra serii S); klasa 10 – 60 kN, 206–257 kW (Fendt 936 Vario).",
+        "Samochody służą w rolnictwie głównie do transportu zwierząt, ludzi i towarów.",
+        "Pełna tabela klas ciągników (siła uciągu kN / moc kW / przykłady): 1 – 1 / 2,6–3,3 (5,2–5,9) / mikrociągnik Terra; 2 – 2 / min. 10 / T-4K-14A; 3 – 4 / 13,2–14,7 / TV512; 4 – 6 / 25,7–30 / Ursus C330, 3502, T25A; 5 – 9 / 37–44; 6 – 14 / 55–73,5; 7 – 20 / 88–110 i 8 – 30 / 118–147 / Ursus 1222, John Deere 7020, Valtra M150; 9 – 50 / 150–200; 10 – 60 / 206–257 / Fendt 936 Vario, Challenger."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/tabela-klasy-ciagnikow.jpg",
+          "caption": "Tabela 4.1. Klasyfikacja ciągników rolniczych: nr klasy, nominalna siła uciągu [kN], wymagana moc silnika [kW] i przykładowe ciągniki (np. klasa 3 – 4 kN – TV512; klasa 4 – 6 kN – Ursus C330, Ursus 3502, T25A; klasa 5 – 9 kN – Ursus C360, Zetor 5320; klasa 6 – 14 kN – Ursus 914, 1014, MTZ-82)."
+        }
+      ]
+    },
+    {
+      "heading": "Siła uciągu i opory agregatu",
+      "points": [
+        "Do doboru maszyny trzeba znać siłę uciągu ciągnika i opory maszyny.",
+        "Siła uciągu zależy od rzeczywistej prędkości jazdy, przyczepności kół do podłoża i ciężaru ciągnika.",
+        "Poślizg kół w pracach polowych nie powinien przekraczać 15%.",
+        "Zwiększenie siły uciągu: dociążenie kół (obciążniki, roztwór niezamarzający w dętkach, chwilowe dociążenie siłownikiem przy narzędziach zawieszanych).",
+        "Zwiększenie przyczepności: obniżenie ciśnienia w kołach (większa powierzchnia styku), koła bliźniacze; napęd na wszystkie koła.",
+        "Opory robocze wynikają z przemieszczania maszyny, pracy zespołu w glebie lub na materiale; dodatkowo np. praca na wzniesieniach, napęd zespołów od kół jezdnych.",
+        "Opory jednostkowe (N/m): włóka ciągnikowa 392–589, kosiarka 687–981, przetrząsacz widłowy 687–883, sadzarka automatyczna 1275–1962, kopaczka przenośnikowa 2551–2649, wyorywacz buraków 2452–3630.",
+        "Opór pługa oblicza się z oporu jednostkowego gleby, głębokości i szerokości pracy.",
+        "Musi zachodzić określony związek między sumą oporów maszyny a siłą uciągu ciągnika.",
+        "Pełna tabela oporów jednostkowych (N/m): włóka ciągnikowa 392–589; brona zębowa średnia 490–589, brona talerzowa (bronowanie) 1766–2354; kultywator z zębami sprężynowymi 1570–2354, z zębami sztywnymi 1471–2060; pielnik ciągnikowy 490–2452; brona talerzowa (podorywka) 1177–2452; siewnik ciągnikowy 981–1373; sadzarka automatyczna 1275–1962; kosiarka ciągnikowa 687–981; przetrząsacz widłowy 687–883; kopaczka przenośnikowa 2551–2649; wyorywacz ciągnikowy buraków 2452–3630.",
+        "Opory jednostkowe przyjmuje się w zależności od warunków glebowych."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/tabela-opory-jednostkowe.jpg",
+          "caption": "Tabela 4.2. Przeciętne wartości oporu jednostkowego narzędzi i maszyn rolniczych [N/m], np. włóka 392–589, brona zębowa średnia 490–589, brona talerzowa 1766–2354 (bronowanie) i 1177–2452 (podorywka), siewnik 981–1373, kosiarka 687–981, kopaczka 2551–2649, wyorywacz buraków 2452–3630."
+        }
+      ]
+    },
+    {
+      "heading": "2. Opryskiwacze i ich okresowe badanie",
+      "points": [
+        "Zadanie opryskiwacza – równomierne naniesienie substancji aktywnej przy najniższych stratach i minimalnym zagrożeniu dla obsługi i środowiska.",
+        "Podział wg miejsca użytkowania: polowe, sadownicze, szklarniowe.",
+        "Polowe – zawieszane, zaczepiane lub samojezdne; rozpylacze poziomo nad łanem; wydajność zależy głównie od długości belki i pojemności zbiornika.",
+        "Największe opryskiwacze: zbiorniki 10 000 l, belki do 48 m; ciśnienie pracy 1–10 barów.",
+        "Materiały muszą wytrzymywać nawozy płynne, zwłaszcza RSM (roztwór saletrzano-mocznikowy) – tworzywa, stal nierdzewna.",
+        "Okresowa inspekcja opryskiwaczy w Polsce od 1999 r.; pierwsze badanie przed upływem 3 lat od zakupu, kolejne co 3 lata.",
+        "Cele kontroli: bezpieczeństwo operatora, wiedza o obsłudze, mniejsze zużycie ś.o.r., mniejsze zanieczyszczenie środowiska.",
+        "Do badania opryskiwacz musi być umyty z zewnątrz i wewnątrz, pewnie zaczepiony, z osłonami elementów wirujących, zbiornik w ½ wypełniony czystą wodą.",
+        "Podstawa badania – ocena wizualna; pomiarom podlegają tylko manometr i rozpylacze.",
+        "Ocenia się pompę, zbiornik, filtry, mieszadło, zawór sterujący, belkę (lub wentylator); opryskiwacz musi być kompletny i sprawny – także wyposażenie dodatkowe (rozwadniacz, płuczka).",
+        "Ograniczeniem wielkości opryskiwaczy polowych są przepisy o ruchu drogowym (muszą jeździć po drogach publicznych).",
+        "Przy kontroli PIORiN (Państwowej Inspekcji Ochrony Roślin i Nasiennictwa) trzeba przedstawić dowód zakupu nowego opryskiwacza. Polski system kontroli opryskiwaczy należy do najlepszych w Europie.",
+        "Podczas badania woda jest zbierana i przepompowywana z powrotem do zbiornika – minimalne ryzyko skażenia środowiska.",
+        "Manometr i rozpylacze mierzy się, bo ich obiektywna ocena wizualna nie jest możliwa; zasada kompletności wynika z ryzyka wpływu niesprawnego podzespołu na pozostałe.",
+        "Opryskiwacze polowe służą do ochrony jednolitych, płaskich upraw; budowane są w różnych wersjach wydajnościowych – dla małych i wielkoobszarowych gospodarstw.",
+        "Jedna maszyna nie spełni warunków dobrego opryskiwania dla wszystkich roślin – różnice gatunku, wielkości i kształtu roślin wymagają szerokiej gamy maszyn specjalistycznych."
+      ]
+    },
+    {
+      "heading": "Rozruch po zimie i kalibracja opryskiwacza",
+      "points": [
+        "Po zimie: usunąć smar zabezpieczający, sprawdzić ciśnienie w ogumieniu, spuścić płyn niezamarzający, wkręcić korki spustowe pompy.",
+        "Zamontować manometr, wkłady filtracyjne i rozpylacze, napełnić zbiornik wodą, przepłukać układ i sprawdzić szczelność; okazja do wymiany oleju w pompie.",
+        "Kalibracja: dawka cieczy, prędkość robocza, rodzaj i wielkość rozpylaczy, ciśnienie, wysokość belki.",
+        "Za wysoka dawka – straty przez ociekanie; za niska – słaba penetracja łanu i nierównomierność.",
+        "Prędkość robocza w uprawach polowych nie powinna przekraczać 8 km/h; każde 3,6 km/h to ruch powietrza 1 m/s.",
+        "Zbyt wysoka prędkość zmniejsza równomierność i zwiększa znoszenie.",
+        "Dobór rozpylacza uwzględnia agrofaga, warunki atmosferyczne i technikę opryskiwania (tradycyjna, PSP – pomocniczy strumień powietrza).",
+        "Szczegółową weryfikację stanu opryskiwacza najlepiej wykonać przy przygotowaniu go do zimowania.",
+        "Dawkę cieczy dobiera się wg zaleceń na opakowaniu ś.o.r., uwzględniając gatunek rośliny, fazę rozwojową, gęstość i wielkość roślin, prędkość wiatru, temperaturę i wilgotność powietrza.",
+        "Prędkość robocza zależy od wielkości i gęstości roślin oraz prędkości wiatru; wyższa – większa wydajność i krótszy zabieg.",
+        "Rozpylacz wybiera się po określeniu dawki cieczy; uwzględnia się rodzaj agrofaga (choroby, szkodniki, chwasty) – trzeba pogodzić ograniczenie znoszenia z równomiernym naniesieniem (skuteczność biologiczna)."
+      ]
+    },
+    {
+      "heading": "Rozpylacze, ciśnienie i wysokość belki",
+      "points": [
+        "Przy wietrze do 3 m/s – krople grube i bardzo grube (rozpylacze niskoznoszeniowe i inżektorowe); bez nich pomaga obniżenie ciśnienia.",
+        "Zabiegi najlepiej przy wietrze nieprzekraczającym 3 m/s; przy wysokiej wilgotności i słabym wietrze – rozpylacze uniwersalne (krople drobne i średnie).",
+        "Kody ISO rozpylaczy (wydatek przy 3 barach): pomarańczowy 01 – 0,4 l/min; zielony 015 – 0,6; żółty 02 – 0,8; niebieski 03 – 1,2; czerwony 04 – 1,6; brązowy 05 – 2; szary 06 – 2,4; biały 08 – 3,2.",
+        "Wzrost ciśnienia zmniejsza krople, zwiększa wydatek na jednostkę powierzchni i przyspiesza zużycie rozpylaczy.",
+        "Ciśnienie pracy: uniwersalne i niskoznoszeniowe 1,5–5 barów, inżektorowe 3–8 barów.",
+        "Mniejszy kąt rozpylania wymaga wyższej belki; za nisko – niedopryskane pasy, za wysoko – znoszenie.",
+        "Wysokość belki (rozstaw rozpylaczy 0,5 m) min/opt/max: 65° – 0,75/0,8/0,9 m; 90° – 0,6/0,7/0,9 m; 110° – 0,35/0,5/0,7 m.",
+        "Tabela 4.4 (szczegóły): rozpylacze inżektorowe w zakresie 3–8 barów dają krople bardzo grube i grube (średnie tylko najmniejsze rozmiary przy wysokim ciśnieniu); niskoznoszeniowe (1,5–5 barów) – głównie średnie i grube, drobne przy małych rozmiarach i wyższym ciśnieniu; w tabeli występują tylko w rozmiarach do 04; uniwersalne (1,5–5 barów) – drobne i średnie (grube tylko największe rozmiary przy niskim ciśnieniu)."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/tabela-rozpylacze-iso.jpg",
+          "caption": "Tabela 4.3. Podział rozpylaczy według kodu ISO – kolor, symbol i wydatek jednostkowy (l/min) przy ciśnieniu 3 bary: pomarańczowy 01 – 0,4; zielony 015 – 0,6; żółty 02 – 0,8; niebieski 03 – 1,2; czerwony 04 – 1,6; brązowy 05 – 2; szary 06 – 2,4; biały 08 – 3,2."
+        },
+        {
+          "src": "img/tr4/tabela-wielkosc-kropel.jpg",
+          "caption": "Tabela 4.4. Wielkość kropel z rozpylaczy płaskostrumieniowych (inżektorowe, niskoznoszeniowe, uniwersalne) w zależności od wielkości rozpylacza i ciśnienia: żółty – krople drobne, czerwony – średnie, fioletowy – grube, zielony – bardzo grube. Inżektorowe dają głównie krople grube i bardzo grube, uniwersalne – drobne i średnie; większy rozpylacz i niższe ciśnienie = większe krople."
+        },
+        {
+          "src": "img/tr4/tabela-wysokosc-belki.jpg",
+          "caption": "Tabela 4.5. Wysokość położenia rozpylaczy nad opryskiwaną powierzchnią (rozstaw 0,5 m): kąt 65° – 0,75 / 0,8 / 0,9 m; 90° – 0,6 / 0,7 / 0,9 m; 110° – 0,35 / 0,5 / 0,7 m (minimalna / optymalna / maksymalna)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Przegląd techniczny i diagnostyka",
+      "points": [
+        "Przegląd techniczny – czynności wg instrukcji: kontrola stanu technicznego, mycie, czyszczenie, regulacja, smarowanie.",
+        "Przeglądy w okresie gwarancji – gwarancyjne; po gwarancji – okresowe.",
+        "Regulacja mechaniczna – przesunięcie współpracujących części (np. usunięcie podkładek w łożyskach ślizgowych dzielonych, dosunięcie kół przekładni stożkowej).",
+        "Naprawa przez regulację jest prawidłowa tylko, gdy powierzchnie nie są poważnie zużyte.",
+        "Wskaźniki stanu technicznego: moc, sprawność, zużycie energii, wydajność i jakość pracy (porównanie z nominalnymi).",
+        "Diagnostyka – metoda pośrednia, bez większego demontażu; weryfikacja – metoda bezpośrednia, badanie części po demontażu.",
+        "Rodzaje przeglądów: gwarancyjne PG, okresowe P, sezonowe PL (letni) i PZ (zimowy).",
+        "Schemat dla ciągników Ursus: PG1 – uruchomienie, PG2 – 50 mth, PG3 – 200 mth, PG4 – 300 mth; P1 – obsługa codzienna, P2 – 100 mth, P3 – 200 mth, P4 – 400 mth, P5 – 800 mth; PZ 1–15 X, PL 1–15 IV.",
+        "Cel przeglądu: okresowe sprawdzenie stopnia zużycia elementów i zespołów, wykrycie niedomagań mechanizmów, wykonanie we właściwym czasie czynności konserwacyjnych i naprawczych.",
+        "Właściwa regulacja poprawia sprawność i niezawodność zespołu oraz przedłuża okres eksploatacji.",
+        "Zużycie maszyn śledzi się w czasie użytkowania, podczas przeglądów, badań diagnostycznych i napraw.",
+        "Naprawa przez regulację wymaga, by wymiary współpracujących części nie odbiegały istotnie od wymiarów części nowych."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/przeglady-techniczne-podzial.jpg",
+          "caption": "Podział przeglądów technicznych: obsługa codzienna, w okresie docierania, okresowa, posezonowa, sezonowa; czynności: czyszczenie i mycie, smarowanie, konserwacja, regulacja, diagnostyka, weryfikacja."
+        }
+      ]
+    },
+    {
+      "heading": "Zakres przeglądów P-1 – P-5 i przechowywanie",
+      "points": [
+        "P-1: poziom paliwa, cieczy chłodzącej, oleju w misie silnika; filtr powietrza; układ kierowniczy, hamulce, odbiorniki prądu; ciśnienie w ogumieniu; praca silnika (słuchowo); tablica rozdzielcza.",
+        "P-2: olej w skrzyni, tylnym moście i zwolnicach; czyszczenie filtra ssawnego skrzyni; poziom elektrolitu; wymiana oleju w filtrze powietrza; odolejacz instalacji pneumatycznej; smarowanie sworzni zwrotnic, prawego wieszaka, przegubów siłowników TUZ.",
+        "P-3, P-4, P-5: gęstość elektrolitu, zaciski akumulatora, wymiana oleju i filtru oleju w silniku, luz łożysk piast przednich kół, czyszczenie żeberek chłodnicy, wymiana filtru powietrza.",
+        "Przeglądy sezonowe przygotowują do pracy w niskich (zima) lub wysokich (lato) temperaturach.",
+        "Przed przechowaniem: oczyścić i zakonserwować smarami; najlepiej trzymać w garażu.",
+        "Ciągniki, kombajny, sieczkarnie: wymienić olej w silniku, spuścić wodę z układu chłodzenia, zatankować do pełna (ochrona przed parą wodną), wlać trochę oleju do cylindrów.",
+        "Akumulator wymontować i przechowywać w suchym, ciepłym miejscu; pojazd na podstawkach z obniżonym ciśnieniem w oponach.",
+        "Obsługa codzienna i sezonowa: sprawdzenie działania podstawowych układów, zapewnienie bezpieczeństwa pracy, uzupełnienie materiałów eksploatacyjnych.",
+        "P-2 obejmuje też przesmarowanie przekładni zębatej prawego wieszaka oraz połączeń gwintowych i przegubów siłowników TUZ; P-3–P-5 – sprawdzenie i ewentualną regulację luzu łożysk piast przednich kół.",
+        "Maszyny przechowuje się w garażach, by chronić je przed czynnikami atmosferycznymi; akumulator wymontowuje się, aby uniknąć zamarznięcia."
+      ],
+      "images": [
+        {
+          "src": "img/tr4/przeglady-ursus-schemat.jpg",
+          "caption": "Schemat przeglądów technicznych ciągników „Ursus”: gwarancyjne PG1 (uruchomienie), PG2 – 50 mth, PG3 – 200 mth, PG4 – 300 mth; okresowe P1 (OC – obsługa codzienna), P2 – 100 mth, P3 – 200 mth, P4 – 400 mth, P5 – 800 mth; sezonowe PZ (zimowy) i PL (letni)."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Podstawowy zabieg agrotechniczny",
+      "back": "Orka wykonywana pługami."
+    },
+    {
+      "front": "Dwa obowiązki wprowadzone w Polsce w ochronie roślin",
+      "back": "Ewidencjonowanie stosowanych ś.o.r. i okresowe badanie techniczne opryskiwaczy."
+    },
+    {
+      "front": "Części powierzchni roboczej korpusu płużnego",
+      "back": "Lemiesz, odkładnica, płoz, piętka."
+    },
+    {
+      "front": "Z czego składa się dzielona odkładnica?",
+      "back": "Z piersi i skrzydła."
+    },
+    {
+      "front": "Zadanie lemiesza",
+      "back": "Podcięcie skiby i uniesienie jej na odkładnicę."
+    },
+    {
+      "front": "Zadanie piętki",
+      "back": "Utrzymanie pługa w pozycji roboczej pionowej."
+    },
+    {
+      "front": "Zadanie płozu",
+      "back": "Utrzymanie pługa w pozycji roboczej poziomej."
+    },
+    {
+      "front": "Odkładnica cylindryczna",
+      "back": "Bardzo dobrze kruszy i miesza, słabo odwraca; gleby niezachwaszczone o bardzo dobrej kulturze."
+    },
+    {
+      "front": "Odkładnica kulturalna",
+      "back": "Dobrze kruszy i miesza, słabo odwraca; gleby o dobrej kulturze."
+    },
+    {
+      "front": "Odkładnica półśrubowa",
+      "back": "Słabo kruszy, dobrze odwraca; gleby zwięzłe."
+    },
+    {
+      "front": "Odkładnica śrubowa",
+      "back": "Bardzo słabo kruszy, dobrze odwraca; łąki, ugory."
+    },
+    {
+      "front": "O ile odkładnica ażurowa zmniejsza opór?",
+      "back": "O ok. 10–15% w porównaniu z pełną."
+    },
+    {
+      "front": "Krój – zadanie",
+      "back": "Rozcina obornik, nawóz zielony, darń i odcina skibę od calizny."
+    },
+    {
+      "front": "Przedpłużek – zadanie",
+      "back": "Ścina lewą górną warstwę skiby na 2/3 szerokości i zrzuca na dno sąsiedniej bruzdy."
+    },
+    {
+      "front": "Pogłębiacz – zadanie",
+      "back": "Spulchnia podskibie i likwiduje podeszwę płużną bez wyorywania ubogiej gleby."
+    },
+    {
+      "front": "Listwa dokładająca",
+      "back": "Przedłużenie odkładnicy dla dokładniejszego odwrócenia skiby."
+    },
+    {
+      "front": "Pług łąkowy – cecha",
+      "back": "Odkładnica śrubowa z długą listwą dokładającą; darń odwracana w dół."
+    },
+    {
+      "front": "Głębokość orki pługiem agromelioracyjnym",
+      "back": "Do 60 cm."
+    },
+    {
+      "front": "Pług leśny – budowa",
+      "back": "Jeden dwustronny korpus z dwoma lemieszami i dwiema odkładnicami."
+    },
+    {
+      "front": "Pług talerzowy",
+      "back": "Obrotowy talerz zastępuje lemiesz i odkładnicę; pracuje na terenach krzaczastych i zakorzenionych."
+    },
+    {
+      "front": "Do jakiej orki przeznaczone są pługi obracane?",
+      "back": "Do orki bezzagonowej."
+    },
+    {
+      "front": "Kiedy najczęściej stosuje się włóki?",
+      "back": "Wiosną na orce pozostawionej na zimę."
+    },
+    {
+      "front": "Podział bron zębowych wg przekazywania energii",
+      "back": "Bierne i aktywne (wahadłowe, rotacyjne, wirnikowe)."
+    },
+    {
+      "front": "Masa na ząb – brona średnia",
+      "back": "1,5–2,5 kg."
+    },
+    {
+      "front": "Masa na ząb – brona ciężka",
+      "back": "2,5–4,5 kg."
+    },
+    {
+      "front": "Głębokość pracy kultywatora",
+      "back": "5–16 cm."
+    },
+    {
+      "front": "Kultywator a odwracanie gleby",
+      "back": "Spulchnia i miesza głębszą warstwę bez jej odwracania."
+    },
+    {
+      "front": "Wał gładki – zadania",
+      "back": "Ugniata wierzch, wyrównuje, dociska nasiona, zwiększa podsiąkanie wody."
+    },
+    {
+      "front": "Wał Cambridge – główne zadanie",
+      "back": "Kruszenie brył."
+    },
+    {
+      "front": "Wał Croskill",
+      "back": "Kruszy bryły i zagęszcza powierzchnię gleby."
+    },
+    {
+      "front": "Wał Campbella",
+      "back": "Zagęszcza głębsze warstwy, wierzchnią zostawia niezagęszczoną; przyspiesza osiadanie."
+    },
+    {
+      "front": "Wał strunowy",
+      "back": "Płytko kruszy i ugniata, wierzch zostaje spulchniony – dobre przygotowanie do siewu."
+    },
+    {
+      "front": "Wał zębowy",
+      "back": "Wgniata resztki pożniwne w glebę przed siewem."
+    },
+    {
+      "front": "Maszyna do gnojowicy i gnojówki",
+      "back": "Wóz asenizacyjny."
+    },
+    {
+      "front": "Typowy zespół roboczy rozsiewacza nawozów mineralnych",
+      "back": "Obracająca się tarcza z łopatkami."
+    },
+    {
+      "front": "Czym reguluje się dawkę w rozsiewaczu?",
+      "back": "Wielkością szczeliny dozowniczej w skrzyni nawozowej."
+    },
+    {
+      "front": "Napęd przenośnika i tarcz w rozsiewaczu przyczepianym",
+      "back": "Przenośnik od koła jezdnego, tarcze – siłownik hydrauliczny."
+    },
+    {
+      "front": "Dlaczego siewniki rzędowe nazywa się uniwersalnymi?",
+      "back": "Bo sieją nasiona wielu grup roślin (zboża, strączkowe, oleiste, pastewne, warzywa, zioła)."
+    },
+    {
+      "front": "Znormalizowane szerokości międzyrzędzi ziemniaka",
+      "back": "62,5 cm, 67,5 cm, 75 cm, 90 cm."
+    },
+    {
+      "front": "Czym przykrywane są sadzeniaki w sadzarce automatycznej?",
+      "back": "Korpusami obsypników."
+    },
+    {
+      "front": "Do czego stosuje się sadzarki półautomatyczne?",
+      "back": "Do sadzenia ziemniaków podkiełkowanych (mniej uszkodzeń)."
+    },
+    {
+      "front": "Typowe narzędzie do uprawy międzyrzędowej",
+      "back": "Pielnik."
+    },
+    {
+      "front": "Gęsiostopki w pielniku",
+      "back": "Intensywniejsze spulchnianie z podcinaniem korzeni chwastów."
+    },
+    {
+      "front": "Kryteria podziału ciągników",
+      "back": "Przeznaczenie, ogólna budowa, siła uciągu, konstrukcja mechanizmów jezdnych."
+    },
+    {
+      "front": "Ciągniki szczudłowe – zastosowanie",
+      "back": "Prace sadownicze i szkółkarskie ponad konarami drzew i krzewów."
+    },
+    {
+      "front": "Oznaczenie 4K2",
+      "back": "Ciągnik kołowy z napędem na dwa koła (2WD)."
+    },
+    {
+      "front": "Oznaczenie 4K4",
+      "back": "Ciągnik z napędem na cztery koła (4WD)."
+    },
+    {
+      "front": "Ciągniki gąsienicowe – zastosowanie",
+      "back": "Prace wymagające dużych sił uciągu i małego nacisku na glebę."
+    },
+    {
+      "front": "Warunki wyznaczania nominalnej siły uciągu",
+      "back": "Ściernisko, gleba średnio zwięzła, maksymalna sprawność ciągnika."
+    },
+    {
+      "front": "Klasa 6 ciągników – siła uciągu i moc",
+      "back": "14 kN; 55–73,5 kW (np. Ursus 914, MTZ-82)."
+    },
+    {
+      "front": "Klasa 10 ciągników – siła uciągu",
+      "back": "60 kN; 206–257 kW (np. Fendt 936 Vario)."
+    },
+    {
+      "front": "Od czego zależy siła uciągu ciągnika?",
+      "back": "Od rzeczywistej prędkości jazdy, przyczepności kół i ciężaru ciągnika."
+    },
+    {
+      "front": "Maksymalny dopuszczalny poślizg kół w pracach polowych",
+      "back": "15%."
+    },
+    {
+      "front": "Sposoby dociążenia kół napędowych",
+      "back": "Obciążniki, roztwór niezamarzający w dętkach, chwilowe dociążenie siłownikiem."
+    },
+    {
+      "front": "Jak zwiększyć przyczepność kół?",
+      "back": "Obniżyć ciśnienie w oponach, zastosować koła bliźniacze lub napęd na wszystkie koła."
+    },
+    {
+      "front": "Opór jednostkowy wyorywacza buraków",
+      "back": "2452–3630 N/m."
+    },
+    {
+      "front": "Z czego oblicza się opór roboczy pługa?",
+      "back": "Z oporu jednostkowego gleby oraz głębokości i szerokości pracy."
+    },
+    {
+      "front": "Podział opryskiwaczy wg miejsca użytkowania",
+      "back": "Polowe, sadownicze, szklarniowe."
+    },
+    {
+      "front": "Od czego zależy wydajność opryskiwacza polowego?",
+      "back": "Głównie od długości belki i pojemności zbiornika."
+    },
+    {
+      "front": "Największe opryskiwacze polowe – parametry",
+      "back": "Zbiornik 10 000 l, belka do 48 m."
+    },
+    {
+      "front": "Zakres ciśnień opryskiwaczy polowych",
+      "back": "1–10 barów."
+    },
+    {
+      "front": "RSM",
+      "back": "Roztwór saletrzano-mocznikowy (płynny nawóz)."
+    },
+    {
+      "front": "Od kiedy obowiązuje okresowa inspekcja opryskiwaczy w Polsce?",
+      "back": "Od 1999 roku."
+    },
+    {
+      "front": "Termin pierwszego badania nowego opryskiwacza",
+      "back": "Przed upływem 3 lat od zakupu; kolejne co 3 lata."
+    },
+    {
+      "front": "Stan zbiornika opryskiwacza dostarczonego do badania",
+      "back": "Wypełniony w ½ czystą wodą."
+    },
+    {
+      "front": "Które podzespoły opryskiwacza podlegają pomiarom podczas badania?",
+      "back": "Tylko manometr i rozpylacze (reszta – ocena wizualna)."
+    },
+    {
+      "front": "Elementy kalibracji opryskiwacza polowego",
+      "back": "Dawka cieczy, prędkość robocza, rozpylacze, ciśnienie, wysokość belki."
+    },
+    {
+      "front": "Skutek zbyt wysokiej i zbyt niskiej dawki cieczy",
+      "back": "Wysoka – straty przez ociekanie; niska – słaba penetracja i nierównomierność."
+    },
+    {
+      "front": "Maksymalna prędkość opryskiwania upraw polowych",
+      "back": "8 km/h."
+    },
+    {
+      "front": "Ile km/h odpowiada ruchowi powietrza 1 m/s?",
+      "back": "3,6 km/h."
+    },
+    {
+      "front": "PSP",
+      "back": "Pomocniczy strumień powietrza (technika opryskiwania)."
+    },
+    {
+      "front": "Maksymalna prędkość wiatru przy zabiegach",
+      "back": "3 m/s."
+    },
+    {
+      "front": "Jakie krople przy wietrze do 3 m/s?",
+      "back": "Grube i bardzo grube – rozpylacze niskoznoszeniowe i inżektorowe."
+    },
+    {
+      "front": "Kolor rozpylacza ISO 02 i wydatek",
+      "back": "Żółty – 0,8 l/min przy 3 barach."
+    },
+    {
+      "front": "Kolor rozpylacza ISO 03 i wydatek",
+      "back": "Niebieski – 1,2 l/min przy 3 barach."
+    },
+    {
+      "front": "Kolor rozpylacza ISO 04 i wydatek",
+      "back": "Czerwony – 1,6 l/min przy 3 barach."
+    },
+    {
+      "front": "Wpływ wzrostu ciśnienia na krople",
+      "back": "Krople maleją; rośnie wydatek i szybciej zużywają się rozpylacze."
+    },
+    {
+      "front": "Zakres ciśnień rozpylaczy inżektorowych",
+      "back": "3–8 barów."
+    },
+    {
+      "front": "Zakres ciśnień rozpylaczy uniwersalnych i niskoznoszeniowych",
+      "back": "1,5–5 barów."
+    },
+    {
+      "front": "Optymalna wysokość belki dla rozpylaczy 110°",
+      "back": "0,5 m (min 0,35, max 0,7)."
+    },
+    {
+      "front": "Skutek zbyt nisko ustawionej belki",
+      "back": "Niedopryskane pasy między rozpylaczami."
+    },
+    {
+      "front": "Przegląd techniczny – definicja",
+      "back": "Czynności wg instrukcji: kontrola stanu, mycie, czyszczenie, regulacja i smarowanie."
+    },
+    {
+      "front": "Diagnostyka a weryfikacja",
+      "back": "Diagnostyka – pośrednia, bez demontażu; weryfikacja – bezpośrednia, po demontażu części."
+    },
+    {
+      "front": "Oznaczenia przeglądów sezonowych",
+      "back": "PL – letni, PZ – zimowy."
+    },
+    {
+      "front": "Terminy przeglądów sezonowych PZ i PL",
+      "back": "PZ 1–15 października, PL 1–15 kwietnia."
+    },
+    {
+      "front": "Kiedy wykonuje się przegląd PG2 (ciągniki Ursus)?",
+      "back": "Po 50 mth."
+    },
+    {
+      "front": "Czynności przy przeglądzie P-1 – przykłady",
+      "back": "Poziom paliwa, cieczy chłodzącej, oleju w silniku, ciśnienie w oponach, hamulce, kierownica."
+    },
+    {
+      "front": "Wymiana oleju i filtru oleju w silniku – który przegląd?",
+      "back": "P-3, P-4, P-5."
+    },
+    {
+      "front": "Dlaczego przed przechowaniem tankuje się zbiornik do pełna?",
+      "back": "Aby uniknąć korodującego działania pary wodnej."
+    },
+    {
+      "front": "Jak przechowywać akumulator zimą?",
+      "back": "Wymontowany, w suchym i ciepłym pomieszczeniu."
+    },
+    {
+      "front": "Od czego zależy konstrukcja pługa?",
+      "back": "Od źródła energii, sposobu wykonania, różnorodności orek i przeznaczenia wykonywanej orki."
+    },
+    {
+      "front": "Nazwij części korpusu płużnego oznaczone numerami 1–8.",
+      "back": "1 – skrzydło odkładnicy, 2 – pierś odkładnicy, 3 – odkładnica, 4 – lemiesz, 5 – słupica, 6 – listwa usztywniająca, 7 – płoz, 8 – piętka płozu.",
+      "img": "img/tr4/korpus-pluzny-numery.jpg"
+    },
+    {
+      "front": "Jakie rodzaje odkładnic pokazano jako a)–d)?",
+      "back": "a) cylindryczna, b) kulturalna, c) półśrubowa, d) śrubowa.",
+      "img": "img/tr4/odkladnice-rodzaje.jpg"
+    },
+    {
+      "front": "Jaki rodzaj odkładnicy przedstawia rysunek i kiedy się ją stosuje?",
+      "back": "Odkładnica ażurowa (z listew) – na glebach ciężkich; stawia opór o ok. 10–15% mniejszy niż odkładnica pełna.",
+      "img": "img/tr4/odkladnica-azurowa.jpg"
+    },
+    {
+      "front": "Podaj kolory rozpylaczy ISO i ich wydatek przy 3 barach.",
+      "back": "Pomarańczowy 01 – 0,4 l/min; zielony 015 – 0,6; żółty 02 – 0,8; niebieski 03 – 1,2; czerwony 04 – 1,6; brązowy 05 – 2; szary 06 – 2,4; biały 08 – 3,2.",
+      "img": "img/tr4/tabela-rozpylacze-iso.jpg"
+    },
+    {
+      "front": "Co ile motogodzin wykonuje się przeglądy okresowe P2–P5 ciągnika Ursus?",
+      "back": "P2 – 100 mth, P3 – 200 mth, P4 – 400 mth, P5 – 800 mth (P1 = obsługa codzienna). Gwarancyjne: PG2 – 50, PG3 – 200, PG4 – 300 mth.",
+      "img": "img/tr4/przeglady-ursus-schemat.jpg"
+    },
+    {
+      "front": "Jaki pług przedstawia zdjęcie i do jakiej orki służy?",
+      "back": "Pług obracalny – do orki bezzagonowej (skiby odkładane stale w jedną stronę).",
+      "img": "img/tr4/plug-obracalny.jpg"
+    },
+    {
+      "front": "Klasa 4 ciągników – siła uciągu, moc, przykłady",
+      "back": "6 kN; 25,7–30 kW; Ursus C330, Ursus 3502, T25A."
+    },
+    {
+      "front": "Klasa 5 ciągników – siła uciągu, moc, przykłady",
+      "back": "9 kN; 37–44 kW; Ursus C360, Zetor 5320."
+    },
+    {
+      "front": "Klasy 7 i 8 ciągników – siła uciągu, moc, przykłady",
+      "back": "Klasa 7 – 20 kN, 88–110 kW; klasa 8 – 30 kN, 118–147 kW; np. Ursus 1222, John Deere 7020, Valtra M150."
+    },
+    {
+      "front": "Klasa 9 ciągników – siła uciągu, moc, przykłady",
+      "back": "50 kN; 150–200 kW; John Deere 8420, Valtra serii S."
+    },
+    {
+      "front": "Klasy 1–3 ciągników",
+      "back": "1 – 1 kN, 2,6–3,3 kW (mikrociągnik Terra); 2 – 2 kN, min. 10 kW (T-4K-14A); 3 – 4 kN, 13,2–14,7 kW (TV512)."
+    },
+    {
+      "front": "Opór jednostkowy kultywatora z zębami sprężynowymi i sztywnymi",
+      "back": "Sprężynowe 1570–2354 N/m; sztywne 1471–2060 N/m."
+    },
+    {
+      "front": "Opór jednostkowy brony talerzowej przy bronowaniu i przy podorywce",
+      "back": "Bronowanie 1766–2354 N/m; podorywka 1177–2452 N/m."
+    },
+    {
+      "front": "Opory jednostkowe: siewnik, sadzarka automatyczna, pielnik ciągnikowy",
+      "back": "Siewnik ciągnikowy 981–1373 N/m; sadzarka automatyczna 1275–1962 N/m; pielnik ciągnikowy 490–2452 N/m."
+    },
+    {
+      "front": "Opory jednostkowe: włóka, brona zębowa średnia, kosiarka, przetrząsacz, kopaczka",
+      "back": "Włóka 392–589; brona zębowa średnia 490–589; kosiarka 687–981; przetrząsacz widłowy 687–883; kopaczka przenośnikowa 2551–2649 N/m."
+    },
+    {
+      "front": "Co uwzględnia się przy ustalaniu dawki cieczy opryskiwacza?",
+      "back": "Zalecenia na opakowaniu ś.o.r., gatunek rośliny, fazę rozwojową, gęstość i wielkość roślin, prędkość wiatru, temperaturę i wilgotność powietrza."
+    },
+    {
+      "front": "Co uwzględnia się przy wyborze typu rozpylacza?",
+      "back": "Rodzaj agrofaga (choroby, szkodniki, chwasty), warunki atmosferyczne (wiatr, temperatura, wilgotność) i technikę opryskiwania (tradycyjna lub PSP)."
+    },
+    {
+      "front": "Cele okresowej kontroli opryskiwaczy",
+      "back": "Zwiększenie bezpieczeństwa operatora, podniesienie wiedzy o obsłudze, zmniejszenie zużycia ś.o.r., ograniczenie zanieczyszczenia środowiska ś.o.r."
+    },
+    {
+      "front": "Dlaczego przy badaniu opryskiwacza mierzy się manometr i rozpylacze?",
+      "back": "Bo ich obiektywna ocena wizualna nie jest możliwa (pozostałe podzespoły ocenia się wizualnie)."
+    },
+    {
+      "front": "Wymagania wobec opryskiwacza dostarczanego do badania",
+      "back": "Umyty z zewnątrz i wewnątrz, pewnie zaczepiony lub zawieszony, z osłonami elementów wirujących, zbiornik w ½ wypełniony czystą wodą; kompletny i sprawny (także rozwadniacz, płuczka)."
+    },
+    {
+      "front": "Czynności rozruchu opryskiwacza po zimie",
+      "back": "Usunąć smar zabezpieczający, sprawdzić ciśnienie w ogumieniu, spuścić płyn niezamarzający, wkręcić korki spustowe pompy, zamontować manometr, filtry i rozpylacze, napełnić wodą, przepłukać układ i sprawdzić szczelność (okazja do wymiany oleju w pompie)."
+    },
+    {
+      "front": "Na czym polega obsługa codzienna i sezonowa?",
+      "back": "Na sprawdzeniu działania podstawowych układów, zapewnieniu bezpieczeństwa pracy i uzupełnieniu materiałów eksploatacyjnych."
+    },
+    {
+      "front": "Masa na ząb – brona lekka",
+      "back": "0,5–1,5 kg."
+    },
+    {
+      "front": "Zadania bron",
+      "back": "Spulchnienie górnej warstwy, kruszenie grud, niszczenie skorupy, mieszanie nawozów mineralnych, wyrównanie przed siewem, przykrycie nasion, niszczenie chwastów."
+    },
+    {
+      "front": "Podział bron zębowych wg przeznaczenia i budowy zębów",
+      "back": "Przeznaczenie: uprawowe, posiewne, chwastowniki, łąkowe; zęby: sztywne lub sprężynowe."
+    },
+    {
+      "front": "Pomocnicze zespoły robocze pługa",
+      "back": "Krój (nożowy lub talerzowy), przedpłużek, ścinacz skiby, pogłębiacz, listwa dokładająca."
+    },
+    {
+      "front": "Rodzaje pługów specjalnych",
+      "back": "Łąkowe, leśne, agromelioracyjne, talerzowe."
+    },
+    {
+      "front": "Rodzaje wałów pierścieniowych",
+      "back": "Pierścieniowy prosty, Croskill, Cambridge, Croskill-Cambridge, Campbella, kolczatki."
+    },
+    {
+      "front": "Części robocze pielnika",
+      "back": "Noże kątowe jednostronne (lewe, prawe) i dwustronne, gęsiostopki, zęby spulchniające sprężyste z gęsiostopkami, wąskie dłuta spulchniające."
+    },
+    {
+      "front": "Podstawowe zespoły siewnika rzędowego",
+      "back": "Rama i układ jezdny, skrzynia nasienna z mieszadłem, zespoły wysiewające z przewodami nasiennymi i redlicami, urządzenia do regulacji ilości wysiewu, układ napędowy z włączaniem/wyłączaniem."
+    },
+    {
+      "front": "Od czego zależy głębokość i gęstość sadzenia ziemniaków?",
+      "back": "Głębokość – od rodzaju gleby, jakości sadzeniaków i warunków klimatycznych; gęstość – od rodzaju gleby i przeznaczenia ziemniaków (sadzeniaki, konsumpcyjne, przemysłowe)."
+    },
+    {
+      "front": "Wskaźniki stanu technicznego maszyn i ciągników",
+      "back": "Moc, sprawność, zużycie energii, wydajność i jakość pracy (porównywane z parametrami nominalnymi)."
+    },
+    {
+      "front": "Regulacja mechaniczna – przykłady",
+      "back": "Usunięcie części podkładek regulacyjnych w łożyskach ślizgowych dzielonych (luz), dosunięcie kół w przekładniach stożkowych."
+    },
+    {
+      "front": "Czynności przeglądu P-2 ciągnika",
+      "back": "Poziom oleju w skrzyni, tylnym moście i zwolnicach; czyszczenie filtra ssawnego skrzyni; poziom elektrolitu; wymiana oleju w filtrze powietrza; czyszczenie odolejacza instalacji pneumatycznej; smarowanie sworzni zwrotnic, przekładni prawego wieszaka, połączeń i przegubów siłowników TUZ."
+    },
+    {
+      "front": "Jakie krople dają rozpylacze uniwersalne i kiedy się je stosuje?",
+      "back": "Drobne i średnie – przy sprzyjających warunkach (wysoka wilgotność powietrza, słaby wiatr)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Element korpusu płużnego utrzymujący pług w pozycji roboczej pionowej to:",
+      "options": [
+        "piętka",
+        "płoz",
+        "słupica",
+        "lemiesz"
+      ],
+      "answer": 0,
+      "explain": "Zadaniem piętki jest utrzymanie pługa w pozycji roboczej pionowej."
+    },
+    {
+      "q": "Odkładnica, która bardzo słabo kruszy, ale dobrze odwraca glebę, stosowana na łąkach i ugorach, to odkładnica:",
+      "options": [
+        "cylindryczna",
+        "kulturalna",
+        "półśrubowa",
+        "śrubowa"
+      ],
+      "answer": 3,
+      "explain": "Odkładnica śrubowa bardzo słabo kruszy i dobrze odwraca – łąki, ugory."
+    },
+    {
+      "q": "Na glebach zwięzłych stosuje się odkładnicę:",
+      "options": [
+        "cylindryczną",
+        "kulturalną",
+        "półśrubową",
+        "ażurową lekką"
+      ],
+      "answer": 2,
+      "explain": "Odkładnica półśrubowa słabo kruszy, dobrze odwraca i stosowana jest na glebach zwięzłych."
+    },
+    {
+      "q": "Odkładnice ażurowe zmniejszają opór pługa w porównaniu z pełnymi o ok.:",
+      "options": [
+        "1–2%",
+        "10–15%",
+        "30–40%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "Odkładnice ażurowe stawiają opór mniejszy o ok. 10–15%."
+    },
+    {
+      "q": "Zespół pomocniczy pługa likwidujący podeszwę płużną bez wyorywania ubogiej gleby to:",
+      "options": [
+        "przedpłużek",
+        "pogłębiacz",
+        "krój",
+        "ścinacz skiby"
+      ],
+      "answer": 1,
+      "explain": "Pogłębiacz spulchnia podskibie i likwiduje podeszwę płużną."
+    },
+    {
+      "q": "Przedpłużek ścina lewą górną warstwę skiby na:",
+      "options": [
+        "2/3 jej szerokości",
+        "1/4 jej szerokości",
+        "1/2 jej szerokości",
+        "całą szerokość"
+      ],
+      "answer": 0,
+      "explain": "Przedpłużek ścina lewą górną warstwę skiby na 2/3 jej szerokości."
+    },
+    {
+      "q": "Pługi agromelioracyjne wykonują orki głębokie do:",
+      "options": [
+        "25 cm",
+        "35 cm",
+        "120 cm",
+        "60 cm"
+      ],
+      "answer": 3,
+      "explain": "Pługi agromelioracyjne służą do orek głębokich do 60 cm."
+    },
+    {
+      "q": "Do orki bezzagonowej przeznaczone są pługi:",
+      "options": [
+        "leśne",
+        "łąkowe",
+        "obracane",
+        "zagonowe"
+      ],
+      "answer": 2,
+      "explain": "Pługi obracane odkładają skiby stale w jedną stronę – orka bezzagonowa."
+    },
+    {
+      "q": "Masa przypadająca na jeden ząb brony ciężkiej wynosi:",
+      "options": [
+        "0,5–1,5 kg",
+        "1,5–2,5 kg",
+        "2,5–4,5 kg",
+        "5–8 kg"
+      ],
+      "answer": 2,
+      "explain": "Brony ciężkie mają 2,5–4,5 kg na ząb."
+    },
+    {
+      "q": "Głębokość pracy kultywatora mieści się w granicach:",
+      "options": [
+        "1–3 cm",
+        "5–16 cm",
+        "20–30 cm",
+        "30–60 cm"
+      ],
+      "answer": 1,
+      "explain": "Głębokość pracy kultywatora wynosi od 5 do 16 cm."
+    },
+    {
+      "q": "Wał zagęszczający głębsze warstwy gleby i pozostawiający wierzchnią niezagęszczoną to wał:",
+      "options": [
+        "Campbella",
+        "gładki",
+        "Cambridge",
+        "strunowy"
+      ],
+      "answer": 0,
+      "explain": "Wał Campbella zagęszcza głębsze warstwy, pozostawiając wierzch niezagęszczony."
+    },
+    {
+      "q": "Wał wgniatający resztki pożniwne w glebę przed siewem to wał:",
+      "options": [
+        "gładki",
+        "Croskill",
+        "Campbella",
+        "zębowy"
+      ],
+      "answer": 3,
+      "explain": "Wały zębowe wgniatają resztki pożniwne w glebę przed siewem."
+    },
+    {
+      "q": "Włóki stosuje się najczęściej:",
+      "options": [
+        "jesienią przed orką",
+        "latem po zbiorze",
+        "zimą na zmarzniętej glebie",
+        "wiosną na orce pozostawionej na zimę"
+      ],
+      "answer": 3,
+      "explain": "Włóki stosuje się najczęściej wiosną na orce zimowej."
+    },
+    {
+      "q": "Dawkę nawozu w rozsiewaczu tarczowym reguluje się:",
+      "options": [
+        "prędkością obrotową WOM",
+        "kątem nachylenia łopatek",
+        "wielkością szczeliny dozowniczej",
+        "ciśnieniem w oponach"
+      ],
+      "answer": 2,
+      "explain": "Ilość nawozu reguluje się wielkością szczeliny dozowniczej w skrzyni nawozowej."
+    },
+    {
+      "q": "Do wywozu gnojowicy stosuje się najczęściej:",
+      "options": [
+        "rozrzutnik obornika",
+        "wóz asenizacyjny",
+        "rozsiewacz tarczowy",
+        "opryskiwacz sadowniczy"
+      ],
+      "answer": 1,
+      "explain": "Do nawozów organicznych płynnych stosuje się wozy asenizacyjne."
+    },
+    {
+      "q": "Jedną ze znormalizowanych szerokości międzyrzędzi w uprawie ziemniaka jest:",
+      "options": [
+        "75 cm",
+        "45 cm",
+        "50 cm",
+        "100 cm"
+      ],
+      "answer": 0,
+      "explain": "Międzyrzędzia ziemniaka wynoszą 62,5, 67,5, 75 i 90 cm."
+    },
+    {
+      "q": "Do sadzenia ziemniaków podkiełkowanych powszechnie stosuje się sadzarki:",
+      "options": [
+        "półautomatyczne",
+        "automatyczne",
+        "pneumatyczne",
+        "talerzowe"
+      ],
+      "answer": 0,
+      "explain": "Sadzarki półautomatyczne ograniczają uszkodzenia sadzeniaków, stąd do podkiełkowanych."
+    },
+    {
+      "q": "Typowym narzędziem do uprawy międzyrzędowej jest:",
+      "options": [
+        "włóka",
+        "pług obracany",
+        "wał Cambridge",
+        "pielnik"
+      ],
+      "answer": 3,
+      "explain": "Typowym narzędziem do uprawy międzyrzędowej jest pielnik."
+    },
+    {
+      "q": "Do prac sadowniczych ponad konarami drzew i krzewów służą ciągniki:",
+      "options": [
+        "gąsienicowe",
+        "melioracyjne",
+        "szczudłowe",
+        "leśne"
+      ],
+      "answer": 2,
+      "explain": "Ciągniki szczudłowe umożliwiają pracę ponad konarami drzew i krzewów."
+    },
+    {
+      "q": "Oznaczenie 4K2 dotyczy ciągnika:",
+      "options": [
+        "z napędem na cztery koła",
+        "z napędem na dwa koła",
+        "gąsienicowego",
+        "dwuosiowego z czterema WOM"
+      ],
+      "answer": 1,
+      "explain": "4K2 (2WD) to ciągnik z napędem na dwa koła."
+    },
+    {
+      "q": "Ciągniki rolnicze w pracach polowych nie powinny pracować z poślizgiem większym niż:",
+      "options": [
+        "5%",
+        "15%",
+        "25%",
+        "40%"
+      ],
+      "answer": 1,
+      "explain": "Ciągniki nie powinny pracować z poślizgiem większym niż 15%."
+    },
+    {
+      "q": "Przyczepność kół napędowych do podłoża można zwiększyć przez:",
+      "options": [
+        "obniżenie ciśnienia w kołach",
+        "podniesienie ciśnienia w kołach",
+        "zwiększenie prędkości jazdy",
+        "odłączenie przedniego napędu"
+      ],
+      "answer": 0,
+      "explain": "Obniżenie ciśnienia zwiększa powierzchnię styku kół z podłożem."
+    },
+    {
+      "q": "Nominalną siłę uciągu ciągnika do klasyfikacji wyznacza się na:",
+      "options": [
+        "asfalcie",
+        "glebie zaoranej, lekkiej",
+        "łące podmokłej",
+        "ściernisku, glebie średnio zwięzłej"
+      ],
+      "answer": 3,
+      "explain": "Klasyfikacja odnosi się do siły uciągu na ściernisku, na glebie średnio zwięzłej."
+    },
+    {
+      "q": "Największe znane opryskiwacze polowe mają belki o długości do:",
+      "options": [
+        "18 m",
+        "24 m",
+        "48 m",
+        "72 m"
+      ],
+      "answer": 2,
+      "explain": "Największe maszyny mają zbiorniki 10 000 l i belki do 48 m."
+    },
+    {
+      "q": "Okresowa inspekcja opryskiwaczy obowiązuje w Polsce od:",
+      "options": [
+        "1989 roku",
+        "2004 roku",
+        "1999 roku",
+        "2013 roku"
+      ],
+      "answer": 2,
+      "explain": "Okresowa inspekcja opryskiwaczy w Polsce obowiązuje od 1999 roku."
+    },
+    {
+      "q": "Pierwsze badanie techniczne nowego opryskiwacza przeprowadza się:",
+      "options": [
+        "przed upływem 1 roku od zakupu",
+        "przed upływem 3 lat od zakupu",
+        "przed upływem 5 lat od zakupu",
+        "przed pierwszym użyciem"
+      ],
+      "answer": 1,
+      "explain": "Pierwsze badanie przeprowadza się przed upływem 3 lat od zakupu, kolejne co 3 lata."
+    },
+    {
+      "q": "Opryskiwacz dostarczony do badania powinien mieć zbiornik wypełniony:",
+      "options": [
+        "w ½ czystą wodą",
+        "całkowicie cieczą roboczą",
+        "w ¼ olejem",
+        "pusty i suchy"
+      ],
+      "answer": 0,
+      "explain": "Zbiornik powinien być wypełniony w ½ czystą wodą."
+    },
+    {
+      "q": "Podczas badania opryskiwacza pomiarom poddaje się tylko:",
+      "options": [
+        "pompę i zbiornik",
+        "filtry i mieszadło",
+        "belkę i zawór sterujący",
+        "manometr i rozpylacze"
+      ],
+      "answer": 3,
+      "explain": "Pomiarom poddawany jest tylko manometr i rozpylacze."
+    },
+    {
+      "q": "Przy opryskiwaniu płaskich upraw polowych nie powinno się przekraczać prędkości:",
+      "options": [
+        "4 km/h",
+        "12 km/h",
+        "16 km/h",
+        "8 km/h"
+      ],
+      "answer": 3,
+      "explain": "Przy opryskiwaniu upraw polowych nie powinno się przekraczać 8 km/h."
+    },
+    {
+      "q": "Zabiegi ochrony roślin najlepiej wykonywać, gdy prędkość wiatru nie przekracza:",
+      "options": [
+        "1 m/s",
+        "5 m/s",
+        "3 m/s",
+        "8 m/s"
+      ],
+      "answer": 2,
+      "explain": "Zabiegi wykonuje się, gdy prędkość wiatru nie przekracza 3 m/s."
+    },
+    {
+      "q": "Rozpylacz w kolorze czerwonym (ISO 04) ma przy 3 barach wydatek:",
+      "options": [
+        "0,8 l/min",
+        "1,6 l/min",
+        "1,2 l/min",
+        "2,4 l/min"
+      ],
+      "answer": 1,
+      "explain": "Rozpylacz czerwony 04 ma wydatek 1,6 l/min przy 3 barach."
+    },
+    {
+      "q": "Rozpylacz o wydatku 0,8 l/min przy 3 barach (ISO 02) ma kolor:",
+      "options": [
+        "żółty",
+        "niebieski",
+        "zielony",
+        "brązowy"
+      ],
+      "answer": 0,
+      "explain": "Rozpylacz żółty 02 ma wydatek 0,8 l/min."
+    },
+    {
+      "q": "Rozpylacze inżektorowe pracują w zakresie ciśnień:",
+      "options": [
+        "3–8 barów",
+        "0,5–1 bara",
+        "1,5–5 barów",
+        "10–15 barów"
+      ],
+      "answer": 0,
+      "explain": "Rozpylacze inżektorowe pracują przy 3–8 barach."
+    },
+    {
+      "q": "Wraz ze wzrostem ciśnienia cieczy wielkość kropel:",
+      "options": [
+        "rośnie",
+        "nie zmienia się",
+        "najpierw rośnie, potem maleje",
+        "maleje"
+      ],
+      "answer": 3,
+      "explain": "Wielkość kropel maleje wraz ze wzrostem ciśnienia."
+    },
+    {
+      "q": "Optymalna wysokość belki dla rozpylaczy o kącie 110° przy rozstawie 0,5 m wynosi:",
+      "options": [
+        "0,35 m",
+        "0,8 m",
+        "0,5 m",
+        "1,0 m"
+      ],
+      "answer": 2,
+      "explain": "Dla kąta 110° optymalna wysokość belki to 0,5 m."
+    },
+    {
+      "q": "Metoda oceny stanu technicznego bez większego demontażu maszyny to:",
+      "options": [
+        "weryfikacja",
+        "diagnostyka",
+        "regeneracja",
+        "docieranie"
+      ],
+      "answer": 1,
+      "explain": "Diagnostyka to metoda pośrednia, bez większego demontażu maszyny."
+    },
+    {
+      "q": "Przegląd sezonowy zimowy PZ ciągników Ursus wykonuje się w terminie:",
+      "options": [
+        "1–15 kwietnia",
+        "1–15 października",
+        "1–15 stycznia",
+        "1–15 lipca"
+      ],
+      "answer": 1,
+      "explain": "Według schematu PZ wykonuje się 1–15 X, a PL 1–15 IV."
+    },
+    {
+      "q": "Wymianę oleju i filtru oleju w silniku wykonuje się w ramach przeglądów:",
+      "options": [
+        "P-3, P-4, P-5",
+        "P-1",
+        "P-2",
+        "PG1"
+      ],
+      "answer": 0,
+      "explain": "Wymiana oleju i filtru oleju w silniku należy do czynności przeglądów P-3, P-4, P-5."
+    },
+    {
+      "q": "Przed długim przechowywaniem ciągnika zbiornik paliwa należy:",
+      "options": [
+        "całkowicie opróżnić",
+        "napełnić do połowy",
+        "wypełnić wodą",
+        "napełnić do pełna"
+      ],
+      "answer": 3,
+      "explain": "Zbiornik napełnia się do pełna, by uniknąć korodującego działania pary wodnej."
+    },
+    {
+      "q": "Przed przechowywaniem z układu chłodzenia ciągnika należy:",
+      "options": [
+        "dolać wody do pełna",
+        "wlać olej silnikowy",
+        "spuścić wodę",
+        "zamknąć termostat"
+      ],
+      "answer": 2,
+      "explain": "Przed dłuższym przechowywaniem należy spuścić wodę z układu chłodniczego."
+    },
+    {
+      "q": "Którą cyfrą oznaczono na rysunku lemiesz?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "1 – skrzydło odkładnicy, 2 – pierś odkładnicy, 3 – odkładnica, 4 – lemiesz, 5 – słupica, 6 – listwa usztywniająca, 7 – płoz, 8 – piętka płozu.",
+      "img": "img/tr4/korpus-pluzny-numery.jpg"
+    },
+    {
+      "q": "Jaki wydatek (przy 3 barach) ma rozpylacz ISO w kolorze czerwonym (04)?",
+      "options": [
+        "1,6 l/min",
+        "0,8 l/min",
+        "1,2 l/min",
+        "2,4 l/min"
+      ],
+      "answer": 0,
+      "explain": "Wg tabeli kodów ISO czerwony 04 ma wydatek 1,6 l/min przy ciśnieniu 3 bary.",
+      "img": "img/tr4/tabela-rozpylacze-iso.jpg"
+    },
+    {
+      "q": "Jaka jest optymalna wysokość belki dla rozpylaczy o kącie 110° (rozstaw 0,5 m)?",
+      "options": [
+        "0,5 m",
+        "0,35 m",
+        "0,7 m",
+        "0,8 m"
+      ],
+      "answer": 0,
+      "explain": "Dla kąta 110°: minimalna 0,35 m, optymalna 0,5 m, maksymalna 0,7 m.",
+      "img": "img/tr4/tabela-wysokosc-belki.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jak nazywa się mały korpus płużny, którego zadaniem jest ścięcie lewej górnej warstwy skiby na 2/3 jej szerokości i zarzucenie na dno sąsiedniej bruzdy?",
+      "options": [
+        "Krój.",
+        "Przedpłużek.",
+        "Odkładnica.",
+        "Piętka."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPługi ciągnikowe ze względu na budowę korpusu roboczego dzielimy na lemieszowe oraz ….",
+      "options": [
+        "talerzowe",
+        "agromelioracyjne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObecnie pługi konne są rzadkością, wykorzystywane są sporadycznie w górach i na małych działkach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych elementów składają się na korpus płużny pługa zagonowego?",
+      "options": [
+        "Lemiesz.",
+        "Płoz.",
+        "Odkładnica.",
+        "Piętka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZadaniem … w czasie orki jest podcięcie skiby, uniesienia jej w górę na odkładnicę, która kruszy ją i odkłada na bok.",
+      "options": [
+        "piętki",
+        "lemiesza"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdkładnica półśrubowa bardzo dobrze kruszy i miesza glebę, ale słabo ją odwraca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z pomocniczych zespołów roboczych pługa stosuje się do spulchniania podskibia?",
+      "options": [
+        "Krój.",
+        "Ścinacz skiby.",
+        "Pogłębiacz.",
+        "Przedpłużek."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKrój nożowy lub talerzowy jest umieszczony … korpusem płużnym.",
+      "options": [
+        "za",
+        "przed"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zmniejszenia pracochłonności orki, na glebach ciężkich stosuje się odkładnice ażurowe, które w porównaniu z odkładnicami pełnymi stawiają mniejszy opór.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych odkładnic stosowane są na glebach o dobrej kulturze?",
+      "options": [
+        "Odkładnica cylindryczna.",
+        "Odkładnica półśrubowa.",
+        "Odkładnica kulturalna.",
+        "Odkładnica śrubowa."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZadaniem … jest utrzymanie pługa w pozycji roboczej pionowej.",
+      "options": [
+        "piętki",
+        "płoz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdkładnica cylindryczna stosowana jest na łąkach i ugorach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka maszyna jest powszechnie stosowana do siewu nasion roślin zbożowych?",
+      "options": [
+        "Sadzarka automatyczna.",
+        "Siewnik rzędowy.",
+        "Rozsiewacz.",
+        "Sadzarka półautomatyczna."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… utrzymuje pług w pozycji roboczej poziomej.",
+      "options": [
+        "Płoz",
+        "Piętka płozu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚcinacz skiby ścina róg odwracanej skiby, wcześniej zrzucając go do bruzdy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych pługów zaliczamy do specjalnych?",
+      "options": [
+        "Agromelioracyjne.",
+        "Łąkowe.",
+        "Talerzowe.",
+        "Leśne."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… stosuje się w celu wyrównania i spulchnienia powierzchni roli, najczęściej wiosną na orce pozostawionej na zimę.",
+      "options": [
+        "Włóki",
+        "Wały"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBrony zębowe ciężkie mogą ważyć nawet od 10 do 14,5 kg.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przed upływem ilu lat od zakupu przeprowadza się pierwsze badanie nowego opryskiwacza?",
+      "options": [
+        "2",
+        "3",
+        "5"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Przy opryskiwaniu płaskich upraw polowych nie powinno się przekraczać ….",
+      "options": [
+        "8 km/h",
+        "16 km/h"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWozy asenizacyjne to maszyny do nawożenia nawozami mineralnymi stałymi.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Brony zębowe aktywne dzielimy na:",
+      "options": [
+        "pierścieniowe.",
+        "wirnikowe.",
+        "wahadłowe.",
+        "rotacyjne.",
+        "strunowe."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest zabiegiem mającym na celu uzupełnienie składników pokarmowych w glebie, przywrócenie właściwości sorpcyjnych gleby, regulacji odczynu.",
+      "options": [
+        "Spulchnianie gleby",
+        "Nawożenie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKultywatory stosuje się do głębszego spulchniania i mieszania przed siewem głębszej warstwy gleby zwięzłej, zaoranej przed zimą lub zleżałej i ubitej przez deszcz, bez jej odwracania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie pługi przeznaczone są do orki bezzagonowej?",
+      "options": [
+        "Pługi talerzowe.",
+        "Pługi agromelioracyjne.",
+        "Pługi obracane."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNawożenie … wykonywane jest przy użyciu rozsiewaczy zawieszanych i przyczepianych.",
+      "options": [
+        "mineralne",
+        "organiczne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUprawa międzyrzędowa jest jedną z prac pielęgnacyjnych wykonywanych po posadzeniu lub posianiu roślin uprawnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rodzaje bron możemy wyróżnić biorąc pod uwagę ich przeznaczenie?",
+      "options": [
+        "Brony uprawowe.",
+        "Brony Croscill.",
+        "Brony posiewne.",
+        "Chwastowniki.",
+        "Brony łąkowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. W celu wysiania większych ilości nawozów mineralnych, wykorzystuje się …, które jednocześnie spełniają funkcję środków transportu.",
+      "options": [
+        "rozsiewacze przyczepiane",
+        "beczkowozy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo prac sadowniczych oraz szkółkarskich wykorzystuje się ciągniki szczudłowe, umożliwiające pracę ponad konarami drzew i krzewów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z wałów służy do przygniatania nawozów zielonych oraz niszczenia skorupy tworzonej na glebach ciężkich?",
+      "options": [
+        "Wał Croscill.",
+        "Wał Cambridge.",
+        "Wał pierścieniowy prosty.",
+        "Wał kolczatka."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są stosowane do prac wymagających dużych sił uciągu i małego nacisku na glebę lub do prac specjalistycznych.",
+      "options": [
+        "Ciągniki gąsienicowe",
+        "Ciągniki kołowe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Zadaniem opryskiwacza jest równomierne naniesienie substancji aktywnej na chronioną roślinę przy najniższych stratach środka ochrony roślin i minimalizacji zagrożenia dla obsługi, otoczenia i środowiska przyrodniczego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie rodzaje wałów możemy wyróżnić biorąc pod uwagę pełnione przez nie zadania?",
+      "options": [
+        "Wały rotacyjne.",
+        "Wały zębowe.",
+        "Wały pierścieniowe.",
+        "Wały gładkie.",
+        "Wały strunowe."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodczas wykonywania prac polowych ciągniki rolnicze nie powinny pracować z poślizgiem większym niż ….",
+      "options": [
+        "15%",
+        "5%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZabiegi doprawiające polegają na skruszeniu brył, wyrównaniu powierzchni, spulchnieniu oraz zagęszczeniu określonych warstw gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych maszyn służą do nawożenia nawozami organicznymi stałymi?",
+      "options": [
+        "Wozy asenizacyjne.",
+        "Rozsiewacze.",
+        "Ładowacze.",
+        "Beczkowozy."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWały … wgniatają resztki pożniwne w glebę przed siewem.",
+      "options": [
+        "gładkie",
+        "zębowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGłębokość sadzenia powinna być jednakowa i zależy od rodzaju gleby, jakości sadzeniaków i warunków klimatycznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż elementy, z jakich składa się pielnik.",
+      "options": [
+        "Noże kątowe jednostronne.",
+        "Gęsiostopki.",
+        "Wąskie dłuta.",
+        "Zęby spulchniające sprężyste.",
+        "Pogłębiacze.",
+        "Noże kątowe dwustronne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodczas ruchów wiatru dochodzących do 3 m/s, przy braku odpowiednich rozpylaczy, pewne możliwości zwiększenia wielkości kropel daje … ciśnienia.",
+      "options": [
+        "obniżenie",
+        "zwiększenie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSiła uciągu ciągnika zależy od rzeczywistej prędkości jazdy, przyczepności kół do podłoża oraz ciężaru ciągnika.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakich rozpylaczy używa się przy wysokiej wilgotności powietrza i słabym wietrze?",
+      "options": [
+        "Inżektorowych.",
+        "Uniwersalnych.",
+        "Niskoznoszeniowych."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrędkość robocza opryskiwacza polowego zależy od wielkości i gęstości chronionych roślin oraz od ….",
+      "options": [
+        "ciśnienia atmosferycznego",
+        "prędkości wiatru"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNa łąkach i pastwiskach wiosną wykorzystuje się często włóki wykonane ze zużytych opon połączonych łańcuchami w celu rozgarnięcia kretowisk i innych nierówności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Która z wymienionych odkładnic słabo kruszy, ale dobrze odwraca glebę?",
+      "options": [
+        "Odkładnica cylindryczna.",
+        "Odkładnica półśrubowa.",
+        "Odkładnica kulturalna."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPogłębiacz likwiduje podeszwę płużną bez wyorywania ubogiej gleby na wierzch.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych maszyn zaliczamy do samojezdnych?",
+      "options": [
+        "Kombajn zbożowy.",
+        "Kombajn buraczany.",
+        "Ciągnik gąsienicowy."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Co przedstawia poniższe zdjęcie?",
+      "options": [
+        "Pogłębiacz.",
+        "Ścinacz skiby.",
+        "Przedpłużek.",
+        "Odkładnicę ażurową."
+      ],
+      "answers": [
+        3
+      ],
+      "img": "img/tr4/testwiedzy_4.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzedpłużek odcina skibę od calizny, dzięki czemu ścianka bruzdowa jest gładka i nieposzarpana.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych narzędzi zaliczamy do narzędzi doprawiających?",
+      "options": [
+        "Wały.",
+        "Włóki.",
+        "Głębosze.",
+        "Spulchniacze obrotowe.",
+        "Brony.",
+        "Kultywatory."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki pług wykorzystuje się do wykonania orek głębokich do 60 cm?",
+      "options": [
+        "Talerzowy.",
+        "Agromelioracyjny.",
+        "Leśny."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nListwa dokładająca jest to przedłużenie odkładnicy w celu dokładniejszego jej odwrócenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPielnik wyposażony jest w wąskie dłuta spulchniające do głębszego przewietrzania gleb zwięzłych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Opryskiwacze polowe dzielimy na:",
+      "options": [
+        "opryskiwacze samojezdne.",
+        "opryskiwacze zawieszane.",
+        "opryskiwacze zaczepiane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPługi obracane zapewniają odkładanie skib stale w jedną stronę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych narzędzi wykorzystuje się do przewietrzania gleby?",
+      "options": [
+        "Kultywator.",
+        "Krój.",
+        "Wał pierścieniowy prosty.",
+        "Rozrzutnik."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zastosowanie mają brony?",
+      "options": [
+        "Przykrycie nasion.",
+        "Spulchnienie górnej warstwy gleby.",
+        "Wyrównanie powierzchni przed siewem.",
+        "Wymieszanie nawozów mineralnych.",
+        "Pokruszenie grud.",
+        "Zniszczenie chwastów."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPraca pługiem talerzowym jest możliwa na terenach krzaczastych i zakorzenionych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPługi agromelioracyjne zbudowane są z jednego dwustronnego korpusu o dwóch lemieszach i dwóch odkładnicach, wykonuje się nim bruzdy, w których sadzi się drzewa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co przedstawia poniższe zdjęcie?",
+      "options": [
+        "Pług obracany.",
+        "Kultywator.",
+        "Odkładnicę kulturalną."
+      ],
+      "answers": [
+        0
+      ],
+      "img": "img/tr4/testwiedzy_16.jpg"
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZastosowanie włók w celu wyrównania i spulchnienia powierzchni zapobiega nadmiernemu parowaniu wody i przyśpiesza wysiew nasion.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie zadania spełniają wały gładkie?",
+      "options": [
+        "Wgniatają w glebę bryły i kamienie.",
+        "Ugniatają wierzchnią warstwę gleby.",
+        "Zwiększają podsiąkanie wody z głębszych warstw.",
+        "Wyrównują glebę.",
+        "Dociskają nasiona.",
+        "Zagęszczają powierzchnię gleby."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozrzutniki mają za zadanie równomierne rozmieszczenie sadzeniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych narzędzi wyposażone jest w zęby spulchniające sprężyste i służy do uprawy międzyrzędowej?",
+      "options": [
+        "Rozsiewacz.",
+        "Sadzarka.",
+        "Rozrzutnik.",
+        "Pielnik."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW celu zmniejszenia siły uciągu ciągnika można zastosować napęd na wszystkie koła jezdne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWłóki stosuje się m.in. do wyrównania powierzchni roli po innych zabiegach, np. talerzowaniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, na czym polega obsługa codzienna i sezonowa maszyn.",
+      "options": [
+        "Na zapewnieniu bezpieczeństwa pracy.",
+        "Na uzupełnieniu materiałów eksploatacyjnych.",
+        "Na sprawdzeniu działania podstawowych układów.",
+        "Na sprawdzeniu pojedynczych części po ich zdemontowaniu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMożliwe jest wyposażenie rozsiewaczy w sterowniki elektryczne, połączone z komputerem z mapami zasobności pola w składniki pokarmowe, co zwiększa znacznie efektywność wykonania zabiegu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo siewu nasion roślin strączkowych używa się sadzarek uniwersalnych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co spowoduje zwiększenie ciężaru kół napędowych ciągnika poprzez zamocowanie dodatkowych obciążników?",
+      "options": [
+        "Zmniejszenie siły uciągu ciągnika.",
+        "Zmniejszenie przyczepności kół napędowych do podłoża.",
+        "Zwiększenie siły uciągu ciągnika."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo wywozu nawozów organicznych płynnych najczęściej stosowane są wozy asenizacyjne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWłóki zbudowane są z bel drewnianych lub metalowych połączonych łańcuchami, dzięki czemu dostosowują się do nierówności pola.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie czynniki należy uwzględnić przy wyborze typu rozpylacza?",
+      "options": [
+        "Techniki opryskiwania.",
+        "Rodzaj zwalczanego agrofaga.",
+        "Warunki atmosferyczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGęstość sadzenia, czyli odległość między sadzeniakami w rzędzie, uzależniona jest m.in. od rodzaju gleby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSadzarki półautomatyczne znacznie ograniczają uszkodzenia sadzeniaków, dlatego stosuje się je powszechnie do sadzenia podkiełkowanych ziemniaków.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakich warunkach używane są rozpylacze inżektorowe?",
+      "options": [
+        "Przy większym wietrze.",
+        "Przy słabym wietrze.",
+        "Przy wysokiej wilgotności powietrza."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSadzarki automatyczne wymagają częściowej obsługi ręcznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych maszyn służą do rozlewania nawozu ciekłego mineralnego?",
+      "options": [
+        "Rozlewacze.",
+        "Opryskiwacze.",
+        "Ładowacze.",
+        "Wozy asenizacyjne."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPielnik wyposażony jest w gęsiostopki, które służą do bardziej intensywnego spulchniania gleby z jednoczesnym podcinaniem korzeni chwastów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

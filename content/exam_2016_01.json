@@ -1,0 +1,667 @@
+{
+  "id": "exam_2016_01",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz styczeń 2016",
+  "number": "2016/01",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Występowanie opadów deszczu i wysokiej temperatury w okresie dojrzałości pełnej zbóż prowadzi do",
+      "back": "porastania ziarna w kłosach."
+    },
+    {
+      "front": "Optymalny odczyn gleby do uprawy pomidorów i ziemniaków wczesnych wynosi",
+      "back": "5,0-6,5 pH"
+    },
+    {
+      "front": "Spośród zbóż jarych najwyższe wymagania wodne ma",
+      "back": "owies."
+    },
+    {
+      "front": "Miejsce w płodozmianie po roślinach motylkowych powinno być przeznaczone pod uprawę roślin",
+      "back": "o najwyższym zapotrzebowaniu na azot."
+    },
+    {
+      "front": "Roślinami, które w zmianowaniu zostawiają dobre stanowisko dla roślin następczych oraz mają duże wymagania agrotechniczne, są",
+      "back": "okopowe."
+    },
+    {
+      "front": "W płodozmianach przeciwerozyjnych powinny przeważać",
+      "back": "rośliny motylkowe wieloletnie."
+    },
+    {
+      "front": "Zastosowanie folii do owijania balotów z podsuszonej zielonki ma na celu przede wszystkim",
+      "back": "stworzenie warunków beztlenowych zakiszania."
+    },
+    {
+      "front": "Wymagania pokarmowe rośliny wynoszą 60 kg P2O5 na 1 ha. 40 kg tego składnika rośliny pobierają z gleby. Ile fosforu należy wysiać na 1 ha, jeśli stopień jego wykorzystania wynosi 40%?",
+      "back": "50 kg"
+    },
+    {
+      "front": "Optymalnym terminem stosowania obornika na użytkach zielonych jest",
+      "back": "późna jesień."
+    },
+    {
+      "front": "Materiał siewny bazowy przeznaczony jest do produkcji materiału siewnego kategorii",
+      "back": "kwalifikowany."
+    },
+    {
+      "front": "W celu oddzielenia pośladu pszenicy (ziarna o grubości mniejszej niż 2 mm) należy poddać ją",
+      "back": "sortowaniu na sitach o otworach prostokątnych."
+    },
+    {
+      "front": "Orkę siewną pod żyto należy wykonać",
+      "back": "2-3 tygodnie przed siewem pługiem z odkładnicą kulturalną."
+    },
+    {
+      "front": "Na glebach lekkich, w celu poprawienia ich właściwości, należy stosować",
+      "back": "częste nawożenie organiczne."
+    },
+    {
+      "front": "Przedstawione na zdjęciu objawy chorobowe, występujące na bulwach ziemniaków, to",
+      "back": "rak ziemniaka.",
+      "img": "img/exam_2016_01/zad14.jpg"
+    },
+    {
+      "front": "Przedstawiony na zdjęciu szkodnik magazynowy to",
+      "back": "wołek zbożowy.",
+      "img": "img/exam_2016_01/zad15.jpg"
+    },
+    {
+      "front": "Którą z metod przy zwalczaniu organizmów szkodliwych, należy zastosować po przekroczeniu progów ekonomicznej szkodliwości?",
+      "back": "Chemiczną."
+    },
+    {
+      "front": "Orkę siewną tzw. „razówkę” wykonuje się pługiem wyposażonym",
+      "back": "w przedpłużki."
+    },
+    {
+      "front": "Którego z narzędzi należy użyć do pielęgnacji pastwisk?",
+      "back": "[rysunek D: brona łąkowa z ogniw w kształcie pierścieni]",
+      "img": "img/exam_2016_01/zad18.jpg"
+    },
+    {
+      "front": "Ścieżki technologiczne w ekologicznej uprawie pszenicy stosuje się w celu",
+      "back": "lustracji plantacji i usuwania uciążliwych chwastów."
+    },
+    {
+      "front": "Technologiczne dojrzewanie bulw ziemniaków przygotowanych do długotrwałego przechowywania powinno się odbywać",
+      "back": "dłużej niż 2 tygodnie w temperaturze 15°C."
+    },
+    {
+      "front": "Cechy przechowywania ziemniaków w tradycyjnych kopcach to",
+      "back": "brak możliwości wybierania bulw podczas mrozów oraz ograniczona kontrola warunków przechowywania."
+    },
+    {
+      "front": "Rysunek przedstawia schemat budowy przewodu pokarmowego kury. Cyframi oznaczono:",
+      "back": "1 - wole, 2 - żołądek gruczołowy, 3 - żołądek mięśniowy.",
+      "img": "img/exam_2016_01/zad22.jpg"
+    },
+    {
+      "front": "Trawienie chemiczne w żołądku przeżuwaczy odbywa się głównie",
+      "back": "w trawieńcu."
+    },
+    {
+      "front": "Wszystkożerność oraz wysoka rozrodczość jest cechą gatunkową",
+      "back": "świń."
+    },
+    {
+      "front": "Typem użytkowym mięsnym bydła jest rasa",
+      "back": "charolaise."
+    },
+    {
+      "front": "Mączka rybna stosowana w żywieniu tuczników",
+      "back": "obniża wartość smakową i zapachową mięsa."
+    },
+    {
+      "front": "Surowce stosowane w gospodarstwie do produkcji mieszanek pełnoporcjowych dla trzody chlewnej, dla których minął termin przydatności, należy",
+      "back": "oddać do utylizacji."
+    },
+    {
+      "front": "Na obniżenie zawartości białka w mleku wpływa",
+      "back": "zmniejszenie w dawce ilości pasz treściwych."
+    },
+    {
+      "front": "W oborowo-pastwiskowym systemie utrzymania bydła korekcję racic wykonuje się",
+      "back": "dwa razy w roku, przed i po sezonie pastwiskowym."
+    },
+    {
+      "front": "Największy stosunek powierzchni oszklonej okien do powierzchni podłogi powinien być w",
+      "back": "kurnikach."
+    },
+    {
+      "front": "Zmiany chorobowe na racicach i ryju świń, są objawami",
+      "back": "pryszczycy.",
+      "img": "img/exam_2016_01/zad32.jpg"
+    },
+    {
+      "front": "Wpisu do księgi rejestracji zwierząt dokonuje się",
+      "back": "bezpośrednio po zaistnieniu zdarzenia objętego obowiązkiem wpisu, nie później jednak niż w terminie 7 dni."
+    },
+    {
+      "front": "W gospodarstwach ekologicznych okres karmienia cieląt mlekiem krowim wynosi co najmniej",
+      "back": "trzy miesiące."
+    },
+    {
+      "front": "Surowe mleko krowie przeznaczone do produkcji mleka pitnego, mleka fermentowanego, twarogu, galaretek mlecznych i śmietany nie może w 1 ml zawierać więcej komórek somatycznych niż",
+      "back": "400 000"
+    },
+    {
+      "front": "Rolnik, który zamierza prowadzić sprzedaż produktów pochodzenia zwierzęcego ze swojego gospodarstwa przeznaczonych dla konsumentów końcowych poza obszarem powiatu, powinien o tym poinformować",
+      "back": "właściwego Powiatowego Lekarza Weterynarii, w terminie 7 dni przed dniem rozpoczęcia tej sprzedaży."
+    },
+    {
+      "front": "Środki ochrony roślin należy przechowywać",
+      "back": "w dodatniej temperaturze, w nieuszkodzonych opakowaniach z etykietą, w wydzielonym, oznakowanym i zamykanym pomieszczeniu bez dostępu osób obcych.",
+      "img": "img/exam_2016_01/zad37.jpg"
+    },
+    {
+      "front": "Co oznaczają piktogramy przedstawione na rysunku?",
+      "back": "Niebezpieczeństwo zgniecenia – zachowaj bezpieczną odległość.",
+      "img": "img/exam_2016_01/zad38.jpg"
+    },
+    {
+      "front": "Uszkodzone skarpy rowów melioracyjnych należy",
+      "back": "umacniać faszyną, darnią lub brukiem."
+    },
+    {
+      "front": "Do prac pielęgnacyjnych w uprawach międzyrzędowych najlepiej użyć ciągnika o",
+      "back": "dużym prześwicie i zmiennym rozstawie kół."
+    },
+    {
+      "front": "Wskaż poidło przeznaczone do pojenia trzody chlewnej.",
+      "back": "Ilustracja A",
+      "img": "img/exam_2016_01/zad29.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Występowanie opadów deszczu i wysokiej temperatury w okresie dojrzałości pełnej zbóż prowadzi do",
+      "options": [
+        "porastania ziarna w kłosach.",
+        "zmniejszenia ilości suchej masy w roślinie.",
+        "lepszego wykształcenia się części użytkowej rośliny.",
+        "większej podatności na porażenie roślin przez choroby."
+      ],
+      "answer": 0,
+      "explain": "Dojrzałe ziarno w ciepłej i wilgotnej pogodzie zaczyna kiełkować w kłosach (porastanie).",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Optymalny odczyn gleby do uprawy pomidorów i ziemniaków wczesnych wynosi",
+      "options": [
+        "poniżej 4,5 pH",
+        "5,0-6,5 pH",
+        "6,5-7,0 pH",
+        "powyżej 7,2 pH"
+      ],
+      "answer": 1,
+      "explain": "Pomidory i ziemniaki najlepiej rosną na glebach lekko kwaśnych, pH 5,0–6,5.",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "Spośród zbóż jarych najwyższe wymagania wodne ma",
+      "options": [
+        "proso.",
+        "owies.",
+        "gryka.",
+        "kukurydza."
+      ],
+      "answer": 1,
+      "explain": "Owies ma największy współczynnik transpiracji wśród zbóż i najbardziej potrzebuje wody.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Miejsce w płodozmianie po roślinach motylkowych powinno być przeznaczone pod uprawę roślin",
+      "options": [
+        "o najwyższym zapotrzebowaniu na azot.",
+        "wymagających gleb o odczynie zasadowym.",
+        "wymagających głębokiej warstwy uprawnej.",
+        "o najwyższym zapotrzebowaniu na fosfor i potas."
+      ],
+      "answer": 0,
+      "explain": "Motylkowe wzbogacają glebę w azot (bakterie brodawkowe), więc po nich uprawia się rośliny azotolubne.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Roślinami, które w zmianowaniu zostawiają dobre stanowisko dla roślin następczych oraz mają duże wymagania agrotechniczne, są",
+      "options": [
+        "okopowe.",
+        "zboża jare.",
+        "zboża ozime.",
+        "pastewne jednoroczne."
+      ],
+      "answer": 0,
+      "explain": "Okopowe wymagają intensywnej uprawy i nawożenia (obornik), a zostawiają pole czyste i zasobne.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "W płodozmianach przeciwerozyjnych powinny przeważać",
+      "options": [
+        "zboża jare.",
+        "zboża ozime.",
+        "rośliny motylkowe wieloletnie.",
+        "rośliny okopowe i przemysłowe."
+      ],
+      "answer": 2,
+      "explain": "Wieloletnie motylkowe przez cały rok okrywają glebę i wiążą ją korzeniami, chroniąc przed erozją.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "Zastosowanie folii do owijania balotów z podsuszonej zielonki ma na celu przede wszystkim",
+      "options": [
+        "dobre ugniecenie zielonki.",
+        "obniżenie kosztów zakiszania.",
+        "zabezpieczenie przed dostępem światła.",
+        "stworzenie warunków beztlenowych zakiszania."
+      ],
+      "answer": 3,
+      "explain": "Folia odcina dostęp powietrza, co umożliwia fermentację mlekową w warunkach beztlenowych.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Wymagania pokarmowe rośliny wynoszą 60 kg P2O5 na 1 ha. 40 kg tego składnika rośliny pobierają z gleby. Ile fosforu należy wysiać na 1 ha, jeśli stopień jego wykorzystania wynosi 40%?",
+      "options": [
+        "20 kg",
+        "30 kg",
+        "40 kg",
+        "50 kg"
+      ],
+      "answer": 3,
+      "explain": "Z nawozu trzeba dostarczyć 60 − 40 = 20 kg P2O5; przy 40% wykorzystaniu: 20 : 0,4 = 50 kg.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Optymalnym terminem stosowania obornika na użytkach zielonych jest",
+      "options": [
+        "późna jesień.",
+        "początek lata.",
+        "wczesna jesień.",
+        "wczesna wiosna."
+      ],
+      "answer": 0,
+      "explain": "Według klucza CKE obornik na użytki zielone stosuje się późną jesienią, by do wiosny się rozłożył i nie zanieczyszczał runi.",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Materiał siewny bazowy przeznaczony jest do produkcji materiału siewnego kategorii",
+      "options": [
+        "elitarny.",
+        "standard.",
+        "handlowy.",
+        "kwalifikowany."
+      ],
+      "answer": 3,
+      "explain": "Z materiału bazowego (elitarnego) produkuje się materiał kwalifikowany.",
+      "src": "Zad. 10"
+    },
+    {
+      "q": "W celu oddzielenia pośladu pszenicy (ziarna o grubości mniejszej niż 2 mm) należy poddać ją",
+      "options": [
+        "czyszczeniu w cyklonie osadczym.",
+        "czyszczeniu w strumieniu powietrza.",
+        "sortowaniu na sitach o otworach okrągłych.",
+        "sortowaniu na sitach o otworach prostokątnych."
+      ],
+      "answer": 3,
+      "explain": "Sita o otworach podłużnych (prostokątnych) rozdzielają ziarno według grubości.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Orkę siewną pod żyto należy wykonać",
+      "options": [
+        "3 tygodnie przed siewem pługiem podorywkowym.",
+        "bezpośrednio przed siewem pługiem podorywkowym.",
+        "bezpośrednio przed siewem pługiem z odkładnicą śrubową.",
+        "2-3 tygodnie przed siewem pługiem z odkładnicą kulturalną."
+      ],
+      "answer": 3,
+      "explain": "Żyto wymaga osiadłej roli, dlatego orkę siewną wykonuje się pługiem z odkładnicą kulturalną 2–3 tygodnie przed siewem.",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Na glebach lekkich, w celu poprawienia ich właściwości, należy stosować",
+      "options": [
+        "zmianowanie przemienne.",
+        "częste nawożenie organiczne.",
+        "intensywne nawożenie azotem.",
+        "maszyny aktywne przy uprawie."
+      ],
+      "answer": 1,
+      "explain": "Nawozy organiczne zwiększają zawartość próchnicy, poprawiając zwięzłość i pojemność wodną gleb lekkich.",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "Przedstawione na zdjęciu objawy chorobowe, występujące na bulwach ziemniaków, to",
+      "options": [
+        "czarna nóżka.",
+        "rak ziemniaka.",
+        "zaraza ziemniaczana.",
+        "rizoktonioza ziemniaka."
+      ],
+      "answer": 1,
+      "explain": "Kalafiorowate narośla na bulwach i oczkach to typowy objaw raka ziemniaka (choroba kwarantannowa).",
+      "src": "Zad. 14",
+      "img": "img/exam_2016_01/zad14.jpg"
+    },
+    {
+      "q": "Przedstawiony na zdjęciu szkodnik magazynowy to",
+      "options": [
+        "trojszyk ulec.",
+        "mklik mączny.",
+        "wołek zbożowy.",
+        "rozkruszek zbożowy."
+      ],
+      "answer": 2,
+      "explain": "Chrząszcz z charakterystycznym ryjkiem żerujący w ziarnie to wołek zbożowy.",
+      "src": "Zad. 15",
+      "img": "img/exam_2016_01/zad15.jpg"
+    },
+    {
+      "q": "Którą z metod przy zwalczaniu organizmów szkodliwych, należy zastosować po przekroczeniu progów ekonomicznej szkodliwości?",
+      "options": [
+        "Fizyczną.",
+        "Chemiczną.",
+        "Biologiczną.",
+        "Agrotechniczną."
+      ],
+      "answer": 1,
+      "explain": "Po przekroczeniu progu szkodliwości zabieg chemiczny staje się ekonomicznie uzasadniony.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Orkę siewną tzw. „razówkę” wykonuje się pługiem wyposażonym",
+      "options": [
+        "w pogłębiacze.",
+        "w przedpłużki.",
+        "w krój tarczowy.",
+        "w listwy dokładające."
+      ],
+      "answer": 1,
+      "explain": "Razówka to orka jednorazowa przed siewem, wykonywana pługiem z przedpłużkami dla dokładnego przykrycia resztek.",
+      "src": "Zad. 17"
+    },
+    {
+      "q": "Którego z narzędzi należy użyć do pielęgnacji pastwisk?",
+      "options": [
+        "[rysunek A: ciężka brona zębowa ze sztywnymi zębami]",
+        "[rysunek B: kultywator z zębami sprężynowymi]",
+        "[rysunek C: brona aktywna napędzana od WOM]",
+        "[rysunek D: brona łąkowa z ogniw w kształcie pierścieni]"
+      ],
+      "answer": 3,
+      "explain": "Brona łąkowa (z ogniwami) rozgarnia kretowiny i odchody, wyrównuje i napowietrza darń bez jej niszczenia.",
+      "src": "Zad. 18",
+      "img": "img/exam_2016_01/zad18.jpg"
+    },
+    {
+      "q": "Ścieżki technologiczne w ekologicznej uprawie pszenicy stosuje się w celu",
+      "options": [
+        "rozmnażania rzadkich gatunków ptaków.",
+        "wjazdu agregatu przy nawożeniu pogłównym.",
+        "lustracji plantacji i usuwania uciążliwych chwastów.",
+        "wykonania oprysków przeciwko chwastom dwuliściennym."
+      ],
+      "answer": 2,
+      "explain": "W uprawie ekologicznej nie stosuje się herbicydów ani nawozów mineralnych, więc ścieżki służą do lustracji i ręcznego odchwaszczania.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Technologiczne dojrzewanie bulw ziemniaków przygotowanych do długotrwałego przechowywania powinno się odbywać",
+      "options": [
+        "dłużej niż 3 tygodnie w temperaturze 5°C.",
+        "krócej niż 3 tygodnie w temperaturze 5°C.",
+        "krócej niż 2 tygodnie w temperaturze 15°C.",
+        "dłużej niż 2 tygodnie w temperaturze 15°C."
+      ],
+      "answer": 3,
+      "explain": "Według klucza CKE dojrzewanie (gojenie ran, korkowacenie skórki) prowadzi się ponad 2 tygodnie w temperaturze ok. 15 °C.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Cechy przechowywania ziemniaków w tradycyjnych kopcach to",
+      "options": [
+        "brak możliwości wybierania bulw podczas mrozów oraz ograniczona kontrola warunków przechowywania.",
+        "brak możliwości pobierania bulw podczas mrozów oraz wysoki koszt ich przechowywania.",
+        "brak możliwości pobierania bulw podczas mrozów, ich gnicie oraz nieograniczona możliwość kontroli.",
+        "trudność w utrzymaniu właściwej wilgotności i temperatury oraz nieograniczona możliwość kontroli."
+      ],
+      "answer": 0,
+      "explain": "Zimą kopca nie można otwierać, a warunki wewnątrz da się kontrolować tylko w ograniczonym stopniu; koszt kopcowania jest niski.",
+      "src": "Zad. 21"
+    },
+    {
+      "q": "Rysunek przedstawia schemat budowy przewodu pokarmowego kury. Cyframi oznaczono:",
+      "options": [
+        "1 - żołądek gruczołowy, 2 - wole, 3 - żołądek mięśniowy.",
+        "1 - wole, 2 - żołądek gruczołowy, 3 - żołądek mięśniowy.",
+        "1 - żołądek mięśniowy, 2 - wole, 3 - żołądek gruczołowy.",
+        "1 - wole, 2 - żołądek mięśniowy, 3 - żołądek gruczołowy."
+      ],
+      "answer": 1,
+      "explain": "Pokarm przechodzi kolejno przez wole, żołądek gruczołowy i żołądek mięśniowy.",
+      "src": "Zad. 22",
+      "img": "img/exam_2016_01/zad22.jpg"
+    },
+    {
+      "q": "Trawienie chemiczne w żołądku przeżuwaczy odbywa się głównie",
+      "options": [
+        "w trawieńcu.",
+        "w księgach.",
+        "w żwaczu.",
+        "w czepcu."
+      ],
+      "answer": 0,
+      "explain": "Trawieniec to żołądek właściwy, wydzielający soki trawienne (pepsynę, HCl).",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Wszystkożerność oraz wysoka rozrodczość jest cechą gatunkową",
+      "options": [
+        "kóz.",
+        "świń.",
+        "bydła.",
+        "owiec."
+      ],
+      "answer": 1,
+      "explain": "Świnie są wszystkożerne i wielorodne (kilkanaście prosiąt w miocie).",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Typem użytkowym mięsnym bydła jest rasa",
+      "options": [
+        "jersey.",
+        "charolaise.",
+        "czarno-biała.",
+        "czerwono-biała."
+      ],
+      "answer": 1,
+      "explain": "Charolaise to francuska rasa mięsna.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "Mączka rybna stosowana w żywieniu tuczników",
+      "options": [
+        "wydłuża okres tuczu.",
+        "zmniejsza dzienne przyrosty.",
+        "obniża wartość smakową i zapachową mięsa.",
+        "zwiększa niedobory aminokwasów egzogennych."
+      ],
+      "answer": 2,
+      "explain": "Mączka rybna (zwłaszcza pod koniec tuczu) nadaje mięsu i tłuszczowi rybi posmak i zapach.",
+      "src": "Zad. 26"
+    },
+    {
+      "q": "Surowce stosowane w gospodarstwie do produkcji mieszanek pełnoporcjowych dla trzody chlewnej, dla których minął termin przydatności, należy",
+      "options": [
+        "oddać do utylizacji.",
+        "wysypać na kompostownik.",
+        "użyć przy sporządzaniu kiszonki.",
+        "przeznaczyć do skarmiania bydła."
+      ],
+      "answer": 0,
+      "explain": "Przeterminowane surowce paszowe nie mogą trafić do łańcucha żywieniowego – oddaje się je do utylizacji.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Na obniżenie zawartości białka w mleku wpływa",
+      "options": [
+        "zastąpienie dawki siana sianokiszonką.",
+        "zwiększenie w dawce ilości pasz treściwych.",
+        "zmniejszenie w dawce ilości pasz treściwych.",
+        "zmniejszenie udziału w dawce pasz objętościowych."
+      ],
+      "answer": 2,
+      "explain": "Niedobór energii z pasz treściwych ogranicza syntezę białka mikrobiologicznego, przez co spada zawartość białka w mleku.",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "W oborowo-pastwiskowym systemie utrzymania bydła korekcję racic wykonuje się",
+      "options": [
+        "co trzy miesiące (cztery razy w roku).",
+        "raz w roku, po zakończeniu sezonu pastwiskowego.",
+        "dwa razy w roku, przed i po sezonie pastwiskowym.",
+        "raz w roku, na dwa miesiące przed wyjściem krów na pastwisko."
+      ],
+      "answer": 2,
+      "explain": "Racice koryguje się dwa razy w roku – przed wyjściem na pastwisko i po powrocie do obory.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "Największy stosunek powierzchni oszklonej okien do powierzchni podłogi powinien być w",
+      "options": [
+        "kurnikach.",
+        "owczarniach.",
+        "oborach dla krów mlecznych.",
+        "stajniach dla klaczy ze źrebiętami."
+      ],
+      "answer": 0,
+      "explain": "Według klucza CKE największe przeszklenie w stosunku do podłogi powinny mieć kurniki.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Zmiany chorobowe na racicach i ryju świń, są objawami",
+      "options": [
+        "różycy.",
+        "dyzenterii.",
+        "pryszczycy.",
+        "streptokokozy."
+      ],
+      "answer": 2,
+      "explain": "Pryszczyca powoduje pęcherze i nadżerki na racicach, ryju i w jamie gębowej.",
+      "src": "Zad. 32",
+      "img": "img/exam_2016_01/zad32.jpg"
+    },
+    {
+      "q": "Wpisu do księgi rejestracji zwierząt dokonuje się",
+      "options": [
+        "bezpośrednio po zaistnieniu zdarzenia objętego obowiązkiem wpisu, nie później jednak niż w terminie 7 dni.",
+        "bezpośrednio przed zaistnieniem zdarzenia objętego obowiązkiem wpisu, nie wcześniej jednak niż 3 dni.",
+        "10 dni od dnia przeprowadzenia kontroli w przypadku bydła i 14 dni w przypadku pozostałych grup zwierząt.",
+        "7 dni od dnia przeprowadzenia kontroli w przypadku bydła i 10 dni w przypadku pozostałych grup zwierząt."
+      ],
+      "answer": 0,
+      "explain": "Zdarzenie (urodzenie, zakup, padnięcie) wpisuje się do księgi niezwłocznie, najpóźniej w ciągu 7 dni.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "W gospodarstwach ekologicznych okres karmienia cieląt mlekiem krowim wynosi co najmniej",
+      "options": [
+        "jeden miesiąc.",
+        "dwa miesiące.",
+        "trzy miesiące.",
+        "sześć miesięcy."
+      ],
+      "answer": 2,
+      "explain": "Przepisy ekologiczne wymagają karmienia cieląt mlekiem naturalnym przez co najmniej 3 miesiące.",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Surowe mleko krowie przeznaczone do produkcji mleka pitnego, mleka fermentowanego, twarogu, galaretek mlecznych i śmietany nie może w 1 ml zawierać więcej komórek somatycznych niż",
+      "options": [
+        "100 000",
+        "200 000",
+        "300 000",
+        "400 000"
+      ],
+      "answer": 3,
+      "explain": "Norma UE dla mleka surowego to nie więcej niż 400 000 komórek somatycznych w 1 ml.",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "Rolnik, który zamierza prowadzić sprzedaż produktów pochodzenia zwierzęcego ze swojego gospodarstwa przeznaczonych dla konsumentów końcowych poza obszarem powiatu, powinien o tym poinformować",
+      "options": [
+        "właściwy urząd skarbowy, w terminie 7 dni przed dniem rozpoczęcia tej sprzedaży.",
+        "właściwy urząd skarbowy, w terminie 14 dni przed dniem rozpoczęcia tej sprzedaży.",
+        "właściwego Powiatowego Lekarza Weterynarii, w terminie 7 dni przed dniem rozpoczęcia tej sprzedaży.",
+        "właściwego Powiatowego Inspektora Pracy, w terminie 14 dni przed dniem rozpoczęcia tej sprzedaży."
+      ],
+      "answer": 2,
+      "explain": "Nadzór nad sprzedażą produktów pochodzenia zwierzęcego sprawuje Powiatowy Lekarz Weterynarii, którego informuje się 7 dni wcześniej.",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Środki ochrony roślin należy przechowywać",
+      "options": [
+        "w dowolnej temperaturze, w nieuszkodzonych opakowaniach z etykietą, w wydzielonym, oznakowanym i zamykanym pomieszczeniu bez dostępu osób obcych.",
+        "w dodatniej temperaturze, w nieuszkodzonych opakowaniach z etykietą, w wydzielonym, oznakowanym i zamykanym pomieszczeniu bez dostępu osób obcych.",
+        "w dodatniej temperaturze, w nieuszkodzonych opakowaniach z etykietą, w wydzielonym pomieszczeniu inwentarskim, bez dostępu osób obcych.",
+        "w dodatniej temperaturze, w szczelnych słoikach, w wydzielonym oznakowanym i zamykanym pomieszczeniu bez dostępu osób obcych."
+      ],
+      "answer": 1,
+      "explain": "Środki ochrony roślin trzyma się w oryginalnych opakowaniach, w dodatniej temperaturze, w zamkniętym i oznakowanym pomieszczeniu (nie inwentarskim).",
+      "src": "Zad. 37",
+      "img": "img/exam_2016_01/zad37.jpg"
+    },
+    {
+      "q": "Co oznaczają piktogramy przedstawione na rysunku?",
+      "options": [
+        "Zabezpiecz maszynę przed wejściem pod jej elementy.",
+        "Pracuj tylko w pozycji wyprostowanej i zachowaj odległość.",
+        "Ostrożnie, urządzenie w ruchu – zachowaj bezpieczną odległość.",
+        "Niebezpieczeństwo zgniecenia – zachowaj bezpieczną odległość."
+      ],
+      "answer": 3,
+      "explain": "Pierwszy piktogram ostrzega przed zgnieceniem przez opadający element, drugi nakazuje zachować bezpieczną odległość.",
+      "src": "Zad. 38",
+      "img": "img/exam_2016_01/zad38.jpg"
+    },
+    {
+      "q": "Uszkodzone skarpy rowów melioracyjnych należy",
+      "options": [
+        "wysypać grubym żwirem.",
+        "obsadzać drzewami i krzewami.",
+        "umacniać faszyną, darnią lub brukiem.",
+        "przeznaczyć na drogę do przepędu zwierząt."
+      ],
+      "answer": 2,
+      "explain": "Skarpy umacnia się faszyną, darnią lub brukiem, by zapobiec ich osuwaniu i rozmywaniu.",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "Do prac pielęgnacyjnych w uprawach międzyrzędowych najlepiej użyć ciągnika o",
+      "options": [
+        "małym prześwicie i zmiennym rozstawie kół.",
+        "dużym prześwicie i zmiennym rozstawie kół.",
+        "dużym prześwicie i niezmiennym rozstawie kół.",
+        "małym prześwicie i niezmiennym rozstawie kół."
+      ],
+      "answer": 1,
+      "explain": "Duży prześwit chroni rośliny przed uszkodzeniem, a zmienny rozstaw kół pozwala dopasować się do szerokości międzyrzędzi.",
+      "src": "Zad. 40"
+    },
+    {
+      "q": "Wskaż poidło przeznaczone do pojenia trzody chlewnej.",
+      "options": [
+        "Ilustracja A",
+        "Ilustracja B",
+        "Ilustracja C",
+        "Ilustracja D"
+      ],
+      "answer": 0,
+      "explain": "Według klucza CKE poidłem dla trzody chlewnej jest poidło A – mocna, głęboka miska z zaworem uruchamianym ryjem, mocowana do ściany kojca.",
+      "src": "Zad. 29",
+      "img": "img/exam_2016_01/zad29.jpg"
+    }
+  ]
+}

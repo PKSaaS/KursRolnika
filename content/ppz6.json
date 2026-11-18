@@ -1,0 +1,1827 @@
+{
+  "id": "ppz6",
+  "course": "Podstawy produkcji zwierzęcej",
+  "title": "Zasady Dobrej Praktyki Rolniczej i Wzajemnej Zgodności w produkcji zwierzęcej. Ocena stanu zdrowia zwierząt",
+  "number": "VI",
+  "notes": [
+    {
+      "heading": "Wprowadzenie – problemy intensywnego chowu",
+      "points": [
+        "Intensywny chów spowodował poważne problemy: duża obsada, ograniczenie ruchu, bezściołowe lub bateryjne systemy utrzymania.",
+        "Skutki: zaburzenia zdrowotne zwierząt obniżające wyniki produkcyjne oraz zagrożenia dla środowiska naturalnego.",
+        "Prawo unijne przeciwdziała takim sytuacjom; spełnienie wymagań wiąże się z otrzymaniem wsparcia z UE.",
+        "Współczesny świat oczekuje od rolników coraz większych dostosowań, stawiając im określone wymagania."
+      ]
+    },
+    {
+      "heading": "Płatność Jednolita i cross-compliance",
+      "points": [
+        "W 2003 roku wprowadzono „Płatność Jednolitą”, zastępującą wcześniejsze płatności bezpośrednie dostosowane do rodzaju produkcji.",
+        "Płatność jednolita daje rolnikowi większe pole manewru – może dostosować produkcję do aktualnych potrzeb rynku.",
+        "Warunki uzyskania płatności m.in.: utrzymanie gruntów rolnych w dobrej kulturze rolnej oraz spełnienie wymogów z zakresu zarządzania.",
+        "Te współdziałające wymogi nazwano Zasadami Wzajemnej Zgodności (cross-compliance)."
+      ]
+    },
+    {
+      "heading": "Kodeks Dobrej Praktyki Rolniczej (KDPR)",
+      "points": [
+        "KDPR to zbiór zaleceń narzuconych przepisami unijnymi, określający ochronę środowiska naturalnego w kraju.",
+        "Główny cel KDPR: uświadamianie społeczności o ważności ochrony wód – podstawowego zasobu środowiska – oraz gleb, powietrza i krajobrazu.",
+        "KDPR obejmuje przede wszystkim praktyczne porady ograniczające zanieczyszczenie wód.",
+        "W produkcji zwierzęcej KDPR zawiera m.in. zasady przechowywania odchodów zwierzęcych."
+      ]
+    },
+    {
+      "heading": "Nawozy naturalne pochodzenia zwierzęcego",
+      "points": [
+        "Wyróżnia się trzy rodzaje: obornik, gnojówkę i gnojowicę.",
+        "Obornik – nawóz naturalny składający się z kału, moczu i ściółki.",
+        "Gnojówka – przefermentowany mocz gromadzony w zbiornikach, pochodzący z budynków ściołowych.",
+        "Gnojowica – płynna, przefermentowana mieszanina kału i moczu z domieszką wody (ewentualnie niewykorzystanych pasz), z obór bezściółkowych, gromadzona w zbiornikach.",
+        "Przepisy UE: nawozy naturalne w ilości nieprzekraczającej 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych.",
+        "Wymagania dla budowli do magazynowania obornika, gnojowicy i gnojówki podaje Ustawa z 10 lipca 2007 r. o nawozach i nawożeniu."
+      ]
+    },
+    {
+      "heading": "Skład chemiczny obornika",
+      "points": [
+        "Obornik zawiera średnio ok. 75% wody, 5–6% soli mineralnych i 20% substancji organicznej (możliwe duże różnice).",
+        "Makroskładniki (%): N 0,5; P₂O₅ 0,25; K₂O 0,6; MgO 0,15; CaO 0,4; S 0,08.",
+        "Mikroskładniki (mg/kg): B 5,0; Cu 4,7; Mn 30,0; Zn 43,5; Mo 0,4; Co 0,2.",
+        "Tabela 6.2 podaje średni skład obornika pochodzącego od różnych zwierząt, dobrze rozłożonego i przechowywanego w odpowiednich warunkach."
+      ]
+    },
+    {
+      "heading": "Przechowywanie nawozów naturalnych",
+      "points": [
+        "Gnojówkę i gnojowicę przechowuje się w specjalnie przygotowanych, szczelnych zbiornikach, obornik – na płytach.",
+        "Magazyn musi zabezpieczać wody gruntowe przed przenikaniem szkodliwych płynów.",
+        "Nawozy należy przechowywać w odpowiedniej odległości od zabudowań, granic zagrody, a przede wszystkim studni.",
+        "Pojemność płyty i zbiorników dostosowuje się do wielkości stada.",
+        "Okres przechowywania: 6 miesięcy – gospodarstwa na obszarach szczególnie narażonych na zanieczyszczenia azotanami pochodzenia rolniczego (OSN); 4 miesiące – gospodarstwa wielkotowarowe i inne.",
+        "Na 1 dużą jednostkę przeliczeniową (DJP): ok. 3,5 m² płyty obornikowej, 10 m³ zbiornika na gnojowicę, 2,5 m³ zbiornika na gnojówkę.",
+        "Nawozy naturalne (płynne i stałe) stosuje się na pola wyłącznie od 1 marca do 30 listopada."
+      ]
+    },
+    {
+      "heading": "2. Zasady Wzajemnej Zgodności – zakres",
+      "points": [
+        "Cross-compliance określa prawo do płatności: bezpośrednich, rolnośrodowiskowych, ONW (obszary górskie i o niekorzystnych warunkach gospodarowania) oraz do zalesiania gruntów rolnych.",
+        "Wymogi dotyczą: ochrony środowiska, bezpieczeństwa i jakości żywności, zdrowotności zwierząt i roślin, dobrostanu zwierząt.",
+        "Obszar A – ochrona środowiska oraz identyfikacja i rejestracja zwierząt (od 1 stycznia 2009 r.).",
+        "Obszar B – zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin (od 1 stycznia 2011 r.).",
+        "Obszar C – dobrostan zwierząt (od 1 stycznia 2013 r.).",
+        "Kontrole: ochronę środowiska i część produkcji roślinnej kontroluje ARiMR, wymogi w produkcji zwierzęcej – Inspekcja Weterynaryjna (IW)."
+      ]
+    },
+    {
+      "heading": "Identyfikacja i rejestracja – wymogi wg gatunków",
+      "points": [
+        "Wspólne dla bydła, owiec/kóz i świń: numer siedziby stada, aktualna księga rejestracji (wpis do 7 dni od zdarzenia), przechowywanie ksiąg 3 lata od wyłączenia sztuki ze stada, udostępnianie ksiąg osobom upoważnionym do kontroli.",
+        "Bydło: zgłaszanie zmian w stadzie w ARiMR, paszporty dla wszystkich sztuk, znakowanie w ciągu 7 dni od urodzenia (kolczyki na obu uszach).",
+        "Owce/kozy: znakowanie wszystkich sztuk w terminie 6 miesięcy od daty urodzenia.",
+        "Świnie: przechowywanie danych z ksiąg 3 lata od dnia utraty posiadania zwierzęcia; bezzwłoczne oznakowanie (kolczyk na lewym uchu lub tatuaż w obu uszach bądź na grzbiecie z numerem identyfikacyjnym)."
+      ]
+    },
+    {
+      "heading": "Zdrowie zwierząt, zgłaszanie chorób, bezpieczeństwo pasz",
+      "points": [
+        "Zdrowie zwierząt decyduje w dużym stopniu o jakości surowca i bezpieczeństwie jego przetwórstwa.",
+        "Cross-compliance w zakresie zdrowia: zakaz stosowania wybranych substancji, rejestrowanie leczenia zwierząt, zasady dopuszczania produktów zwierzęcych na rynek.",
+        "Obowiązek niezwłocznego zgłoszenia podejrzenia choroby, np. pomoru małych przeżuwaczy, choroby niebieskiego języka, pryszczycy – do Inspekcji Weterynaryjnej lub innego organu wyznaczonego przez MRiRW.",
+        "Bezpieczeństwo pasz: kryteria wprowadzania do obrotu i wymagania higieniczne, głównie dotyczące przechowywania."
+      ]
+    },
+    {
+      "heading": "Pięć wolności (Kodeks Dobrostanu Zwierząt)",
+      "points": [
+        "Wolność od głodu i pragnienia – odpowiedniej jakości woda i pasza pokrywająca potrzeby wzrostu, zdrowotności i żywotności.",
+        "Wolność od dyskomfortu – schronienie, wypoczynek, odpowiednie warunki utrzymania.",
+        "Wolność od bólu, urazów i chorób – prewencja, profilaktyka, szybka diagnostyka i leczenie.",
+        "Wolność od strachu i stresu – eliminowanie czynników stresogennych.",
+        "Wolność do wyrażania normalnego behawioru – odpowiednia przestrzeń życiowa i właściwy skład socjalny grupy.",
+        "Obsługujący zwierzęta muszą znać zasady żywienia, pielęgnacji, bezpiecznej obsługi, zdrowych zachowań i obsługi urządzeń.",
+        "Chów i hodowla zwierząt powinny być prowadzone w sposób i w warunkach eliminujących cierpienie, urazy i uszkodzenia ciała."
+      ]
+    },
+    {
+      "heading": "3. Ocena stanu zdrowia – obserwacja stada",
+      "points": [
+        "Stado należy doglądać co najmniej raz dziennie.",
+        "Obserwuje się: stan zdrowia, stan odżywienia, stan racic, kulawizny, otarcia i skaleczenia, obniżone pobieranie paszy, biegunki, odstawanie od stada i osowiałość.",
+        "Obserwacja to element profilaktyki (zapobiegania chorobom); wczesne rozpoznanie ułatwia leczenie.",
+        "Najprostsze pomiary wstępnego rozpoznania: temperatura ciała, tętno, liczba oddechów.",
+        "Zewnętrzne objawy choroby – widoczne zmiany, np. przyspieszony oddech, biegunka, przyspieszone tętno.",
+        "Stan zdrowia zwierząt jest jednym z czynników decydujących o powodzeniu produkcji zwierzęcej.",
+        "Do wczesnego wykrycia choroby niezbędna jest znajomość jej podstawowych objawów; każda choroba wpływa niekorzystnie na funkcjonowanie organizmu, samopoczucie, zachowanie i wygląd zwierzęcia."
+      ]
+    },
+    {
+      "heading": "Gorączka i pomiar temperatury",
+      "points": [
+        "Gorączka – zespół objawów: podwyższona temperatura ciała, zwiększona liczba oddechów i uderzeń tętna, suchość błon śluzowych.",
+        "Inne powszechne objawy chorób: obniżony lub utracony apetyt, senność, apatia, biegunka.",
+        "Temperaturę mierzy się tradycyjnie w odbytnicy: termometr odkażony i posmarowany (np. oliwą), wkładany ruchem obrotowym po podniesieniu/odchyleniu ogona, przywiązany sznurkiem do ogona.",
+        "Termometr wyjmuje się po 5 minutach; coraz częściej stosuje się termometry elektroniczne – dotykowe lub bezdotykowe.",
+        "Młode zwierzęta mają temperaturę o 0,2–0,5°C wyższą niż dojrzałe.",
+        "Drugi ważny objaw gorączki – przyspieszone tętno; kolejny – duszność (zwierzę stoi z wyciągniętą szyją, szeroko rozstawionymi nogami, rozszerzonymi nozdrzami).",
+        "Termometry elektroniczne (dotykowe lub bezdotykowe) pozwalają na szybki i skuteczny pomiar temperatury ciała.",
+        "Tętno bada się u poszczególnych gatunków w sposób opisany w module III (koń – tętnica szczękowa, bydło – tętnica twarzowa, owca i koza – tętnica udowa, świnie i ptaki – osłuchiwanie)."
+      ]
+    },
+    {
+      "heading": "Temperatura ciała zwierząt (°C)",
+      "points": [
+        "Konie 37,8–38,5.",
+        "Bydło 38,0–39,5; świnie 38,0–39,5.",
+        "Owce i kozy 38,0–40,0.",
+        "Króliki 38,5–39,5.",
+        "Ptaki domowe 40,0–42,5."
+      ],
+      "images": [
+        {
+          "src": "img/ppz6/tabela-temperatura-ciala.jpg",
+          "caption": "Optymalna temperatura ciała (°C): konie 37,8–38,5; bydło i świnie 38,0–39,5; owce i kozy 38,0–40,0; króliki 38,5–39,5; ptaki domowe 40,0–42,5 (najwyższa)."
+        }
+      ]
+    },
+    {
+      "heading": "Rozpoznawanie chorób i zachowanie chorych zwierząt",
+      "points": [
+        "Wiele chorób daje podobne objawy – lekarz weterynarii wykonuje badania dodatkowe: bakteriologiczne, surowicy krwi, rentgenologiczne lub sekcję zwłok sztuk padłych.",
+        "Chora krowa wstaje niechętnie lub wcale, przestaje przeżuwać, wydziela mało mleka.",
+        "Chora owca jest ospała, odłącza się od stada lub leży na pastwisku.",
+        "Chore świnie nie przyjmują pokarmu, zagrzebują się w słomę, nie wstają; chód chwiejny, ogon opuszczony.",
+        "Chory koń przy niektórych chorobach okazuje ból (ogląda się na boki, tarza się); przy innych jest osowiały, apatyczny, stoi z opuszczoną głową, szybko się męczy.",
+        "Chory drób niechętnie opuszcza pomieszczenia, odłącza się od stada, jest osowiały, ma nastroszone pióra.",
+        "Oprócz objawów wspólnych dla wielu chorób występują objawy typowe tylko dla określonej choroby, co umożliwia jej rozpoznanie.",
+        "Chory koń (przy chorobach bez objawów bólu) może też leżeć i nie podnosić się na wołanie oraz poruszać się niechętnie.",
+        "Rozpoznanie choroby jest często bardzo trudne, bo wiele chorób wywołuje podobne objawy."
+      ]
+    },
+    {
+      "heading": "Przepisy o ochronie zwierząt",
+      "points": [
+        "Najważniejszy akt prawny: Ustawa o ochronie zwierząt z 21 sierpnia 1997 r. – zwierzętom zapewnia się opiekę i właściwe warunki bytowania; warunki chowu nie mogą powodować urazów ani cierpień.",
+        "Akt wykonawczy: Rozporządzenie MRiRW z 2 września 2003 r. w sprawie minimalnych warunków utrzymania gatunków zwierząt gospodarskich – odrębnie dla gatunku, wieku i stanu fizjologicznego, w tym obsada.",
+        "Nadzór nad przestrzeganiem przepisów o ochronie zwierząt sprawuje Inspekcja Weterynaryjna.",
+        "Ochronę zdrowia zwierząt zapewnia Ustawa z 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.",
+        "Ustawa o ochronie zwierząt z 21 sierpnia 1997 r. – tekst jednolity Dz.U. Nr 106 z 2003 r., poz. 1002; Rozporządzenie MRiRW z 2 września 2003 r. w sprawie minimalnych warunków utrzymania – Dz.U. Nr 167 z 2003 r., poz. 1629."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Problemy intensywnego chowu zwierząt",
+      "back": "Duża obsada, ograniczenie ruchu, bezściołowe lub bateryjne systemy – zaburzenia zdrowotne i zagrożenia dla środowiska."
+    },
+    {
+      "front": "W którym roku wprowadzono „Płatność Jednolitą”?",
+      "back": "W 2003 roku."
+    },
+    {
+      "front": "Co zastąpiła Płatność Jednolita?",
+      "back": "Wcześniejsze płatności bezpośrednie dostosowane do rodzaju produkcji rolnej."
+    },
+    {
+      "front": "Zalety Płatności Jednolitej dla rolnika",
+      "back": "Większe pole manewru – może dostosować produkcję do aktualnych potrzeb rynku."
+    },
+    {
+      "front": "Cross-compliance – polska nazwa",
+      "back": "Zasady Wzajemnej Zgodności."
+    },
+    {
+      "front": "KDPR – rozwinięcie skrótu",
+      "back": "Kodeks Dobrej Praktyki Rolniczej."
+    },
+    {
+      "front": "Główny cel KDPR",
+      "back": "Uświadamianie o ważności ochrony wód (podstawowego zasobu środowiska) oraz gleb, powietrza i krajobrazu."
+    },
+    {
+      "front": "Trzy rodzaje nawozów naturalnych pochodzenia zwierzęcego",
+      "back": "Obornik, gnojówka, gnojowica."
+    },
+    {
+      "front": "Obornik – definicja",
+      "back": "Nawóz naturalny składający się z kału, moczu i ściółki."
+    },
+    {
+      "front": "Gnojówka – definicja",
+      "back": "Przefermentowany mocz gromadzony w zbiornikach, pochodzący z budynków ściołowych."
+    },
+    {
+      "front": "Gnojowica – definicja",
+      "back": "Płynna, przefermentowana mieszanina kału i moczu z domieszką wody (i ewentualnie resztek pasz), z obór bezściółkowych."
+    },
+    {
+      "front": "Maksymalna dawka azotu z nawozów naturalnych wg przepisów UE",
+      "back": "170 kg N w czystym składniku na 1 ha użytków rolnych."
+    },
+    {
+      "front": "Ustawa określająca wymagania dla budowli do magazynowania nawozów naturalnych",
+      "back": "Ustawa z 10 lipca 2007 r. o nawozach i nawożeniu."
+    },
+    {
+      "front": "Średnia zawartość wody w oborniku",
+      "back": "Około 75%."
+    },
+    {
+      "front": "Średnia zawartość substancji organicznej i soli mineralnych w oborniku",
+      "back": "Ok. 20% substancji organicznej i 5–6% soli mineralnych."
+    },
+    {
+      "front": "Zawartość azotu (N) w oborniku",
+      "back": "0,5%."
+    },
+    {
+      "front": "Zawartość P₂O₅ w oborniku",
+      "back": "0,25%."
+    },
+    {
+      "front": "Zawartość K₂O w oborniku",
+      "back": "0,6%."
+    },
+    {
+      "front": "Zawartość CaO i MgO w oborniku",
+      "back": "CaO 0,4%; MgO 0,15%."
+    },
+    {
+      "front": "Którego mikroelementu jest najwięcej w oborniku?",
+      "back": "Cynku (Zn) – 43,5 mg/kg (następnie Mn – 30,0 mg/kg)."
+    },
+    {
+      "front": "Gdzie przechowuje się gnojówkę i gnojowicę, a gdzie obornik?",
+      "back": "Gnojówkę i gnojowicę – w szczelnych zbiornikach; obornik – na płytach."
+    },
+    {
+      "front": "Od czego należy zachować odległość przy przechowywaniu nawozów naturalnych?",
+      "back": "Od zabudowań, granic zagrody, a przede wszystkim od studni."
+    },
+    {
+      "front": "Okres przechowywania nawozów naturalnych na obszarach OSN",
+      "back": "6 miesięcy."
+    },
+    {
+      "front": "OSN – rozwinięcie",
+      "back": "Obszary szczególnie narażone na zanieczyszczenia spowodowane przez azotany pochodzenia rolniczego."
+    },
+    {
+      "front": "Okres przechowywania nawozów naturalnych poza OSN (gospodarstwa wielkotowarowe i inne)",
+      "back": "4 miesiące."
+    },
+    {
+      "front": "Powierzchnia płyty obornikowej na 1 DJP",
+      "back": "Ok. 3,5 m²."
+    },
+    {
+      "front": "Pojemność zbiornika na gnojowicę na 1 DJP",
+      "back": "10 m³."
+    },
+    {
+      "front": "Pojemność zbiornika na gnojówkę na 1 DJP",
+      "back": "2,5 m³."
+    },
+    {
+      "front": "W jakim okresie wolno stosować nawozy naturalne na pola?",
+      "back": "Wyłącznie od 1 marca do 30 listopada."
+    },
+    {
+      "front": "Do jakich płatności prawo określa cross-compliance?",
+      "back": "Bezpośrednich, rolnośrodowiskowych, ONW oraz do zalesiania gruntów rolnych."
+    },
+    {
+      "front": "ONW – rozwinięcie",
+      "back": "Obszary górskie i inne obszary o niekorzystnych warunkach gospodarowania."
+    },
+    {
+      "front": "Czego dotyczą wymogi cross-compliance? (4)",
+      "back": "Ochrony środowiska, bezpieczeństwa i jakości żywności, zdrowotności zwierząt i roślin, dobrostanu zwierząt."
+    },
+    {
+      "front": "Obszar A cross-compliance – zakres i data",
+      "back": "Ochrona środowiska oraz identyfikacja i rejestracja zwierząt; od 1 stycznia 2009 r."
+    },
+    {
+      "front": "Obszar B cross-compliance – zakres i data",
+      "back": "Zdrowie publiczne, zdrowie zwierząt i zgłaszanie chorób, zdrowotność roślin; od 1 stycznia 2011 r."
+    },
+    {
+      "front": "Obszar C cross-compliance – zakres i data",
+      "back": "Dobrostan zwierząt; od 1 stycznia 2013 r."
+    },
+    {
+      "front": "Kto kontroluje wymogi cross-compliance w produkcji zwierzęcej?",
+      "back": "Inspekcja Weterynaryjna (IW)."
+    },
+    {
+      "front": "Kto kontroluje wymogi ochrony środowiska i części produkcji roślinnej?",
+      "back": "ARiMR – Agencja Restrukturyzacji i Modernizacji Rolnictwa."
+    },
+    {
+      "front": "Termin wpisu zdarzenia do księgi rejestracji",
+      "back": "Do 7 dni od zdarzenia."
+    },
+    {
+      "front": "Jak długo przechowuje się księgi rejestracji?",
+      "back": "3 lata od wyłączenia sztuki ze stada."
+    },
+    {
+      "front": "Termin oznakowania cieląt i sposób",
+      "back": "W ciągu 7 dni od urodzenia; kolczyki na obu uszach."
+    },
+    {
+      "front": "Termin oznakowania owiec i kóz (wg wymogów cross-compliance)",
+      "back": "6 miesięcy od daty urodzenia."
+    },
+    {
+      "front": "Sposób oznakowania świń (cross-compliance)",
+      "back": "Bezzwłocznie: kolczyk na lewym uchu lub tatuaż w obu uszach bądź na grzbiecie z numerem identyfikacyjnym."
+    },
+    {
+      "front": "Który gatunek musi mieć paszporty dla wszystkich sztuk w stadzie?",
+      "back": "Bydło."
+    },
+    {
+      "front": "Jak długo posiadacz świń przechowuje dane z ksiąg po utracie posiadania zwierzęcia?",
+      "back": "3 lata od dnia utraty posiadania."
+    },
+    {
+      "front": "Zasady cross-compliance w zakresie zdrowia zwierząt",
+      "back": "Zakaz stosowania wybranych substancji, rejestrowanie leczenia, zasady dopuszczania produktów zwierzęcych na rynek."
+    },
+    {
+      "front": "Przykłady chorób, których podejrzenie trzeba niezwłocznie zgłosić",
+      "back": "Pomór małych przeżuwaczy, choroba niebieskiego języka, pryszczyca."
+    },
+    {
+      "front": "Gdzie zgłasza się podejrzenie choroby zakaźnej?",
+      "back": "Do Inspekcji Weterynaryjnej lub innego organu wyznaczonego przez MRiRW."
+    },
+    {
+      "front": "Co regulują zasady cross-compliance w zakresie bezpieczeństwa pasz?",
+      "back": "Kryteria wprowadzania pasz do obrotu i wymagania higieniczne, głównie przechowywania."
+    },
+    {
+      "front": "Pięć wolności zwierząt",
+      "back": "Od głodu i pragnienia; od dyskomfortu; od bólu, urazów i chorób; od strachu i stresu; do wyrażania normalnego behawioru."
+    },
+    {
+      "front": "Jak zapewnia się wolność od dyskomfortu?",
+      "back": "Przez schronienie, możliwość wypoczynku i odpowiednie warunki utrzymania."
+    },
+    {
+      "front": "Jak zapewnia się wolność do wyrażania normalnego behawioru?",
+      "back": "Przez odpowiednią przestrzeń życiową i właściwy skład socjalny grupy."
+    },
+    {
+      "front": "Jak zapewnia się wolność od bólu, urazów i chorób?",
+      "back": "Przez prewencję, profilaktykę, szybką diagnostykę i leczenie."
+    },
+    {
+      "front": "Jak często należy doglądać stada?",
+      "back": "Co najmniej raz dziennie."
+    },
+    {
+      "front": "Co obserwuje się podczas doglądania stada?",
+      "back": "Zdrowie, odżywienie, racice, kulawizny, otarcia, pobieranie paszy, biegunki, odstawanie od stada i osowiałość."
+    },
+    {
+      "front": "Profilaktyka – definicja",
+      "back": "Zapobieganie występowaniu chorób."
+    },
+    {
+      "front": "Najprostsze pomiary przy podejrzeniu choroby",
+      "back": "Temperatura ciała, tętno, liczba oddechów."
+    },
+    {
+      "front": "Zewnętrzne objawy choroby – przykłady",
+      "back": "Przyspieszony oddech, biegunka (częstszy wodnisty kał), przyspieszone tętno."
+    },
+    {
+      "front": "Gorączka – zespół objawów",
+      "back": "Podwyższona temperatura ciała, więcej oddechów i uderzeń tętna, suchość błon śluzowych."
+    },
+    {
+      "front": "Główny objaw gorączki",
+      "back": "Podwyższona temperatura ciała."
+    },
+    {
+      "front": "Gdzie tradycyjnie mierzy się temperaturę ciała zwierzęcia?",
+      "back": "W odbytnicy."
+    },
+    {
+      "front": "Po jakim czasie wyjmuje się termometr z odbytnicy?",
+      "back": "Po 5 minutach."
+    },
+    {
+      "front": "Jak zabezpiecza się termometr w odbytnicy?",
+      "back": "Przywiązuje się go sznurkiem do ogona."
+    },
+    {
+      "front": "O ile wyższą temperaturę mają młode zwierzęta niż dorosłe?",
+      "back": "O 0,2–0,5°C."
+    },
+    {
+      "front": "Temperatura ciała konia",
+      "back": "37,8–38,5°C."
+    },
+    {
+      "front": "Temperatura ciała bydła i świń",
+      "back": "38,0–39,5°C."
+    },
+    {
+      "front": "Temperatura ciała owiec i kóz",
+      "back": "38,0–40,0°C."
+    },
+    {
+      "front": "Temperatura ciała królików",
+      "back": "38,5–39,5°C."
+    },
+    {
+      "front": "Temperatura ciała ptaków domowych",
+      "back": "40,0–42,5°C."
+    },
+    {
+      "front": "Objawy duszności u zwierzęcia",
+      "back": "Stoi z wyciągniętą szyją, szeroko rozstawionymi nogami i rozszerzonymi nozdrzami, z trudem łapie powietrze."
+    },
+    {
+      "front": "Badania dodatkowe wykonywane przez lekarza weterynarii",
+      "back": "Bakteriologiczne, surowicy krwi, rentgenologiczne, sekcja zwłok sztuk padłych."
+    },
+    {
+      "front": "Zachowanie chorej krowy",
+      "back": "Wstaje niechętnie lub wcale, przestaje przeżuwać, wydziela mało mleka."
+    },
+    {
+      "front": "Zachowanie chorej świni",
+      "back": "Nie je, zagrzebuje się w słomę, nie wstaje; chód chwiejny, ogon opuszczony."
+    },
+    {
+      "front": "Zachowanie chorego drobiu",
+      "back": "Niechętnie opuszcza pomieszczenia, odłącza się od stada, osowiały, pióra nastroszone."
+    },
+    {
+      "front": "Zachowanie chorej owcy",
+      "back": "Ospała, odłącza się od stada lub leży na pastwisku."
+    },
+    {
+      "front": "Najważniejszy akt prawny o ochronie zwierząt gospodarskich w Polsce",
+      "back": "Ustawa o ochronie zwierząt z 21 sierpnia 1997 r."
+    },
+    {
+      "front": "Akt wykonawczy do ustawy o ochronie zwierząt (minimalne warunki utrzymania)",
+      "back": "Rozporządzenie MRiRW z 2 września 2003 r."
+    },
+    {
+      "front": "Kto nadzoruje przestrzeganie przepisów o ochronie zwierząt?",
+      "back": "Inspekcja Weterynaryjna."
+    },
+    {
+      "front": "Ustawa o ochronie zdrowia zwierząt i zwalczaniu chorób zakaźnych – data",
+      "back": "11 marca 2004 r."
+    },
+    {
+      "front": "Zachowanie chorego konia",
+      "back": "Przy niektórych chorobach okazuje ból (ogląda się na boki, tarza się); przy innych jest osowiały i apatyczny, leży i nie wstaje na wołanie lub stoi z opuszczoną głową, porusza się niechętnie, szybko się męczy."
+    },
+    {
+      "front": "Wczesne rozpoznanie choroby – co ułatwia i czego wymaga?",
+      "back": "Ułatwia proces leczenia weterynaryjnego; wymaga znajomości podstawowych objawów choroby (pomiar temperatury, tętna, liczby oddechów pozwala na wstępne rozpoznanie)."
+    },
+    {
+      "front": "Powszechne objawy chorób (poza gorączką)",
+      "back": "Obniżony apetyt lub jego całkowita utrata, senność, apatia, biegunka."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Płatność Jednolitą, zastępującą wcześniejsze płatności bezpośrednie, wprowadzono w roku:",
+      "options": [
+        "2003",
+        "1997",
+        "2009",
+        "2013"
+      ],
+      "answer": 0,
+      "explain": "W 2003 roku wprowadzono „Płatność Jednolitą”."
+    },
+    {
+      "q": "Zasady Wzajemnej Zgodności to inaczej:",
+      "options": [
+        "Kodeks Dobrej Praktyki Rolniczej",
+        "System IRZ",
+        "cross-compliance",
+        "Płatność Jednolita"
+      ],
+      "answer": 2,
+      "explain": "Współdziałające wymogi nazwano Zasadami Wzajemnej Zgodności (cross-compliance)."
+    },
+    {
+      "q": "Głównym celem Kodeksu Dobrej Praktyki Rolniczej jest uświadamianie o ważności ochrony przede wszystkim:",
+      "options": [
+        "zabytków wiejskich",
+        "wód",
+        "zwierząt łownych",
+        "lasów państwowych"
+      ],
+      "answer": 1,
+      "explain": "Głównym celem KDPR jest uświadamianie o ochronie wód – podstawowego zasobu środowiska."
+    },
+    {
+      "q": "Nawóz składający się z kału, moczu i ściółki to:",
+      "options": [
+        "gnojówka",
+        "gnojowica",
+        "kompost",
+        "obornik"
+      ],
+      "answer": 3,
+      "explain": "Obornik to nawóz naturalny składający się z kału, moczu i ściółki."
+    },
+    {
+      "q": "Przefermentowany mocz z budynków ściołowych, gromadzony w zbiornikach, to:",
+      "options": [
+        "gnojowica",
+        "obornik",
+        "pomiot",
+        "gnojówka"
+      ],
+      "answer": 3,
+      "explain": "Gnojówka to przefermentowany mocz z budynków ściołowych."
+    },
+    {
+      "q": "Gnojowica pochodzi z:",
+      "options": [
+        "budynków ściołowych",
+        "obór bezściółkowych",
+        "płyt obornikowych",
+        "kompostowników"
+      ],
+      "answer": 1,
+      "explain": "Gnojowica to mieszanina kału i moczu z wodą, pochodząca z obór bezściółkowych."
+    },
+    {
+      "q": "Maksymalna dawka nawozów naturalnych wg przepisów UE to:",
+      "options": [
+        "100 kg N/ha",
+        "250 kg N/ha",
+        "170 kg N/ha użytków rolnych",
+        "170 kg P₂O₅/ha"
+      ],
+      "answer": 2,
+      "explain": "Nawozy naturalne w ilości nieprzekraczającej 170 kg N na 1 ha UR."
+    },
+    {
+      "q": "Wymagania dla budowli do magazynowania nawozów naturalnych zawiera:",
+      "options": [
+        "Ustawa z 10 lipca 2007 r. o nawozach i nawożeniu",
+        "Ustawa o ochronie zwierząt z 1997 r.",
+        "Rozporządzenie Rady (WE) nr 1/2005",
+        "Ustawa z 2 kwietnia 2004 r. o systemie IRZ"
+      ],
+      "answer": 0,
+      "explain": "Wymagania podaje Ustawa z 10 lipca 2007 r. o nawozach i nawożeniu."
+    },
+    {
+      "q": "Obornik zawiera średnio około:",
+      "options": [
+        "75% wody",
+        "25% wody",
+        "50% wody",
+        "95% wody"
+      ],
+      "answer": 0,
+      "explain": "Obornik zawiera średnio ok. 75% wody, 5–6% soli mineralnych i 20% substancji organicznej."
+    },
+    {
+      "q": "Średnia zawartość azotu w oborniku wynosi:",
+      "options": [
+        "0,08%",
+        "2,5%",
+        "0,5%",
+        "5%"
+      ],
+      "answer": 2,
+      "explain": "N w oborniku – 0,5%."
+    },
+    {
+      "q": "Którego składnika jest w oborniku najwięcej wśród wymienionych (w %)?",
+      "options": [
+        "P₂O₅ – 0,25%",
+        "K₂O – 0,6%",
+        "MgO – 0,15%",
+        "S – 0,08%"
+      ],
+      "answer": 1,
+      "explain": "K₂O stanowi 0,6%, więcej niż N (0,5%) i P₂O₅ (0,25%)."
+    },
+    {
+      "q": "Nawozy naturalne na obszarach OSN należy przechowywać przez:",
+      "options": [
+        "2 miesiące",
+        "4 miesiące",
+        "12 miesięcy",
+        "6 miesięcy"
+      ],
+      "answer": 3,
+      "explain": "Na obszarach OSN – przez 6 miesięcy."
+    },
+    {
+      "q": "Poza obszarami OSN wymagany okres przechowywania nawozów naturalnych to:",
+      "options": [
+        "1 miesiąc",
+        "6 miesięcy",
+        "9 miesięcy",
+        "4 miesiące"
+      ],
+      "answer": 3,
+      "explain": "Dla gospodarstw wielkotowarowych i innych – 4 miesiące."
+    },
+    {
+      "q": "Na 1 DJP przeznacza się około:",
+      "options": [
+        "1 m² płyty obornikowej",
+        "3,5 m² płyty obornikowej",
+        "10 m² płyty obornikowej",
+        "2,5 m² płyty obornikowej"
+      ],
+      "answer": 1,
+      "explain": "Na 1 DJP: ok. 3,5 m² płyty, 10 m³ na gnojowicę, 2,5 m³ na gnojówkę."
+    },
+    {
+      "q": "Pojemność zbiornika na gnojowicę na 1 DJP wynosi:",
+      "options": [
+        "2,5 m³",
+        "3,5 m³",
+        "10 m³",
+        "25 m³"
+      ],
+      "answer": 2,
+      "explain": "Na 1 DJP przeznacza się 10 m³ pojemności zbiornika na gnojowicę."
+    },
+    {
+      "q": "Nawozy naturalne można stosować na pola w okresie:",
+      "options": [
+        "od 1 marca do 30 listopada",
+        "od 1 lutego do 31 grudnia",
+        "od 15 marca do 15 października",
+        "przez cały rok"
+      ],
+      "answer": 0,
+      "explain": "Nawozy naturalne stosuje się wyłącznie od 1 marca do 30 listopada."
+    },
+    {
+      "q": "Obszar A Zasad Wzajemnej Zgodności obejmuje:",
+      "options": [
+        "ochronę środowiska oraz identyfikację i rejestrację zwierząt",
+        "dobrostan zwierząt",
+        "zdrowie publiczne i zgłaszanie chorób",
+        "transport zwierząt"
+      ],
+      "answer": 0,
+      "explain": "Obszar A – ochrona środowiska oraz identyfikacja i rejestracja zwierząt."
+    },
+    {
+      "q": "Obszar C cross-compliance (dobrostan zwierząt) obowiązuje od:",
+      "options": [
+        "1 stycznia 2009 r.",
+        "1 stycznia 2011 r.",
+        "1 stycznia 2013 r.",
+        "1 maja 2004 r."
+      ],
+      "answer": 2,
+      "explain": "Obszar C – dobrostan zwierząt – od 1 stycznia 2013 r."
+    },
+    {
+      "q": "Obszar B cross-compliance obowiązuje od:",
+      "options": [
+        "1 stycznia 2009 r.",
+        "1 stycznia 2011 r.",
+        "1 stycznia 2013 r.",
+        "1 stycznia 2003 r."
+      ],
+      "answer": 1,
+      "explain": "Obszar B – zdrowie publiczne, zdrowie zwierząt, zdrowotność roślin – od 1 stycznia 2011 r."
+    },
+    {
+      "q": "Wymogi cross-compliance w zakresie produkcji zwierzęcej kontroluje:",
+      "options": [
+        "ARiMR",
+        "Inspekcja Handlowa",
+        "Polski Związek Hodowców Koni",
+        "Inspekcja Weterynaryjna"
+      ],
+      "answer": 3,
+      "explain": "Wymogi w zakresie produkcji zwierzęcej kontroluje Inspekcja Weterynaryjna."
+    },
+    {
+      "q": "Wpisu zdarzenia do księgi rejestracji stada należy dokonać w terminie:",
+      "options": [
+        "do 30 dni",
+        "do 24 godzin",
+        "do 14 dni",
+        "do 7 dni od zdarzenia"
+      ],
+      "answer": 3,
+      "explain": "Aktualna księga rejestracji – wpis do 7 dni od zdarzenia."
+    },
+    {
+      "q": "Księgi rejestracji przechowuje się przez:",
+      "options": [
+        "1 rok",
+        "3 lata od wyłączenia sztuki ze stada",
+        "5 lat",
+        "10 lat"
+      ],
+      "answer": 1,
+      "explain": "Księgi przechowuje się przez 3 lata od wyłączenia sztuki ze stada."
+    },
+    {
+      "q": "Bydło należy oznakować kolczykami na obu uszach w ciągu:",
+      "options": [
+        "30 dni",
+        "6 miesięcy",
+        "7 dni od urodzenia",
+        "24 godzin"
+      ],
+      "answer": 2,
+      "explain": "Znakowanie bydła w ciągu 7 dni od urodzenia (kolczyki na obu uszach)."
+    },
+    {
+      "q": "Owce i kozy należy oznakować w terminie:",
+      "options": [
+        "6 miesięcy od daty urodzenia",
+        "7 dni od urodzenia",
+        "14 dni od urodzenia",
+        "1 roku od urodzenia"
+      ],
+      "answer": 0,
+      "explain": "Owce/kozy – znakowanie w terminie 6 miesięcy od urodzenia."
+    },
+    {
+      "q": "Które zwierzęta znakuje się kolczykiem na lewym uchu lub tatuażem w obu uszach albo na grzbiecie?",
+      "options": [
+        "świnie",
+        "bydło",
+        "konie",
+        "owce"
+      ],
+      "answer": 0,
+      "explain": "Świnie – kolczyk na lewym uchu lub tatuaż w obu uszach bądź na grzbiecie."
+    },
+    {
+      "q": "Do chorób, których podejrzenie trzeba niezwłocznie zgłosić, moduł zalicza:",
+      "options": [
+        "różycę kur",
+        "kokcydiozę królików",
+        "pryszczycę",
+        "zapalenie wymienia"
+      ],
+      "answer": 2,
+      "explain": "Przykłady: pomór małych przeżuwaczy, choroba niebieskiego języka, pryszczyca."
+    },
+    {
+      "q": "Wolność do wyrażania normalnego behawioru zapewnia się przez:",
+      "options": [
+        "szybką diagnostykę i leczenie",
+        "odpowiednią przestrzeń życiową i skład socjalny grupy",
+        "dostęp do wody i paszy",
+        "eliminowanie czynników stresogennych"
+      ],
+      "answer": 1,
+      "explain": "Wolność behawioru – odpowiednia przestrzeń życiowa i właściwy skład socjalny w grupie."
+    },
+    {
+      "q": "Stado należy doglądać z częstotliwością co najmniej:",
+      "options": [
+        "raz w tygodniu",
+        "raz w miesiącu",
+        "co 2 godziny",
+        "raz dziennie"
+      ],
+      "answer": 3,
+      "explain": "Stado należy doglądać co najmniej raz dziennie."
+    },
+    {
+      "q": "Do objawów gorączki NIE należy:",
+      "options": [
+        "podwyższona temperatura ciała",
+        "zwiększona liczba oddechów",
+        "suchość błon śluzowych",
+        "spowolnione tętno"
+      ],
+      "answer": 3,
+      "explain": "Gorączka to wyższa temperatura, więcej oddechów i uderzeń tętna, suchość błon śluzowych."
+    },
+    {
+      "q": "Termometr z odbytnicy zwierzęcia wyjmuje się po:",
+      "options": [
+        "30 sekundach",
+        "5 minutach",
+        "15 minutach",
+        "1 godzinie"
+      ],
+      "answer": 1,
+      "explain": "Termometr wyjmuje się po upływie 5 minut."
+    },
+    {
+      "q": "Prawidłowa temperatura ciała bydła wynosi:",
+      "options": [
+        "37,8–38,5°C",
+        "40,0–42,5°C",
+        "38,0–39,5°C",
+        "36,0–37,0°C"
+      ],
+      "answer": 2,
+      "explain": "Bydło: 38,0–39,5°C."
+    },
+    {
+      "q": "Najwyższą temperaturę ciała spośród zwierząt gospodarskich mają:",
+      "options": [
+        "ptaki domowe",
+        "konie",
+        "świnie",
+        "bydło"
+      ],
+      "answer": 0,
+      "explain": "Ptaki domowe: 40,0–42,5°C."
+    },
+    {
+      "q": "Prawidłowa temperatura ciała konia to:",
+      "options": [
+        "37,8–38,5°C",
+        "38,0–40,0°C",
+        "40,0–42,5°C",
+        "38,5–39,5°C"
+      ],
+      "answer": 0,
+      "explain": "Konie: 37,8–38,5°C."
+    },
+    {
+      "q": "Młode zwierzęta mają temperaturę ciała w porównaniu z dorosłymi:",
+      "options": [
+        "o 0,2–0,5°C niższą",
+        "o 1–2°C wyższą",
+        "o 0,2–0,5°C wyższą",
+        "taką samą"
+      ],
+      "answer": 2,
+      "explain": "Młode zwierzęta mają temperaturę o 0,2–0,5°C wyższą niż dojrzałe."
+    },
+    {
+      "q": "Zwierzę stojące z wyciągniętą szyją, szeroko rozstawionymi nogami i rozszerzonymi nozdrzami wykazuje:",
+      "options": [
+        "kulawiznę",
+        "duszność",
+        "wzdęcie żwacza",
+        "biegunkę"
+      ],
+      "answer": 1,
+      "explain": "Tak wygląda zwierzę z dusznością – zaburzeniem oddychania."
+    },
+    {
+      "q": "Chore świnie zazwyczaj:",
+      "options": [
+        "tarzają się i oglądają na boki",
+        "mają nastroszone pióra",
+        "przestają przeżuwać",
+        "zagrzebują się w słomę i mają opuszczony ogon"
+      ],
+      "answer": 3,
+      "explain": "Chore świnie nie jedzą, zagrzebują się w słomę, chód chwiejny, ogon opuszczony."
+    },
+    {
+      "q": "Najważniejszym aktem prawnym regulującym ochronę zwierząt gospodarskich w Polsce jest:",
+      "options": [
+        "Ustawa z 10 lipca 2007 r. o nawozach i nawożeniu",
+        "Rozporządzenie MRiRW z 25 czerwca 2008 r.",
+        "Ustawa z 18 grudnia 2003 r. o ewidencji producentów",
+        "Ustawa o ochronie zwierząt z 21 sierpnia 1997 r."
+      ],
+      "answer": 3,
+      "explain": "Najważniejszy akt to Ustawa o ochronie zwierząt z 21 sierpnia 1997 r."
+    },
+    {
+      "q": "Nadzór nad przestrzeganiem przepisów o ochronie zwierząt sprawuje:",
+      "options": [
+        "ARiMR",
+        "Inspekcja Weterynaryjna",
+        "Policja",
+        "Ośrodek Doradztwa Rolniczego"
+      ],
+      "answer": 1,
+      "explain": "Zgodnie z ustawą nadzór podlega Inspekcji Weterynaryjnej."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jaka jest optymalna temperatura ciała owiec i kóz?",
+      "options": [
+        "37,8–38,5°C.",
+        "38–39,5°C.",
+        "38,5–40°C.",
+        "38–40°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZdrowie zwierząt jest czynnikiem, który w … stopniu decyduje o jakości wyprodukowanego surowca.",
+      "options": [
+        "dużym",
+        "małym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKodeks Dobrej Praktyki Rolniczej określa przede wszystkim praktyczne porady mające na celu ograniczenie zanieczyszczeń wód.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak się zachowuje chora krowa?",
+      "options": [
+        "Czasem w ogóle nie chce się podnieść.",
+        "Przeżuwa normalnie.",
+        "Niechętnie wstaje.",
+        "Przestaje przeżuwać."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednym z objawów gorączki jest … tętno.",
+      "options": [
+        "obniżone",
+        "przyspieszone"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChory drób trzyma się blisko stada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest optymalna temperatura ciała bydła?",
+      "options": [
+        "38–40°C.",
+        "38–39,5°C.",
+        "38–38,5°C.",
+        "38,5–40°C."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU zwierząt temperaturę w sposób tradycyjny mierzy się, wkładając odkażony i posmarowany np. oliwą termometr do ….",
+      "options": [
+        "pyska",
+        "odbytnicy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW ramach monitorowania spełniania przez rolników wymogów Zasad Wzajemnej Zgodności prowadzone są kontrole przez upoważnione organy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak się zachowuje chora świnia?",
+      "options": [
+        "Dużo je.",
+        "Ma opuszczony ogon.",
+        "Nie chce wstawać.",
+        "Zagrzebuje się w słomę."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTemperaturę zwierzęcia należy mierzyć przez ….",
+      "options": [
+        "5 minut.",
+        "2 minuty."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZe względu na to, że wiele chorób wywołuje podobne objawy, rozpoznanie choroby często jest bardzo trudne i dlatego lekarz weterynarii musi przeprowadzić dodatkowe badania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "O ile niższą temperaturę od zwierząt dojrzałych mają osobniki młode?",
+      "options": [
+        "0,6–0,9°C.",
+        "0,1–0,3°C.",
+        "0,2–0,5°C.",
+        "1–1,5°C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nChory drób ma … pióra.",
+      "options": [
+        "nastroszone",
+        "przylegające"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChory koń tylko przy niektórych chorobach zdradza objawy bólu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie są powszechne objawy chorób u zwierząt?",
+      "options": [
+        "Apatia.",
+        "Biegunka.",
+        "Utrata apetytu.",
+        "Agresja."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWidoczne zmiany takie, jak np. przyśpieszony oddech, częstsze oddawanie wodnistego kału (biegunka), przyspieszone tętno itp., nazywamy … objawami choroby.",
+      "options": [
+        "wewnętrznymi",
+        "zewnętrznymi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNie każda choroba wpływa niekorzystnie na funkcjonowanie organizmu zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Paszporty dla wszystkich sztuk w stadzie są wymagane w przypadku:",
+      "options": [
+        "owiec.",
+        "bydła.",
+        "kóz.",
+        "świń."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku duszności zwierzęta najczęściej stoją z … szyją.",
+      "options": [
+        "zwieszoną",
+        "wyciągniętą"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkład chemiczny obornika zawiera średnio 0,25% P2O5",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W przypadku których zwierząt należy przeprowadzić oznakowanie wszystkich sztuk w stadzie, w terminie 6 miesięcy od daty urodzenia?",
+      "options": [
+        "Owiec.",
+        "Świń.",
+        "Kóz.",
+        "Bydła."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPłatność jednolitą wprowadzono w … roku.",
+      "options": [
+        "2003",
+        "2005"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKażdą sztukę bydła należy oznakować w terminie 14 dni od daty urodzenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest optymalna temperatura ciała ptaków domowych?",
+      "options": [
+        "38–39,5°C.",
+        "38–38,5°C.",
+        "38–40°C.",
+        "40–42,5°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Gnojowica to …, przefermentowana mieszanina odchodów zwierząt gospodarskich z domieszką wody, gromadzona w zbiornikach.",
+      "options": [
+        "płynna",
+        "stała"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMagazyn nawozów naturalnych musi zabezpieczać wody gruntowe przed wniknięciem do nich wydostających się szkodliwych płynów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiś sposób znakuje się świnie?",
+      "options": [
+        "Kolczyk w lewym uchu.",
+        "Tatuaż w obu uszach.",
+        "Tatuaż na grzbiecie.",
+        "Kolczyki w obu uszach."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. W przypadku bydła należy przechowywać księgi rejestracji przez … lata od wyłączenia sztuki ze stada.",
+      "options": [
+        "3",
+        "2"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZgodnie z Ustawą o ochronie zwierząt, nadzór nad przestrzeganiem przepisów o ochronie zwierząt podlega Inspekcji Weterynaryjnej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest optymalna temperatura ciała królików?",
+      "options": [
+        "38–39,5°C.",
+        "37,5–38,5°C.",
+        "38,5–39,5°C.",
+        "38–40°C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Wielkość płyty gnojowej czy pojemność zbiorników na gnojowicę lub gnojówkę powinna być dostosowana do wielkości stada i zapewniać możliwość przechowywania nawozów przez okres … miesięcy dla gospodarstw położonych na obszarach szczególnie narażonych na zanieczyszczenia spowodowane przez azotany pochodzenia rolniczego.",
+      "options": [
+        "4",
+        "6"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLudzie obsługujący zwierzęta muszą znać zasady żywienia, pielęgnacji, bezpiecznej obsługi, zdrowych zachowań oraz obsługi urządzeń.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dodatkowe badania zwierząt pomagające rozpoznać chorobę, to:",
+      "options": [
+        "badanie bakteriologiczne.",
+        "rentgen.",
+        "badanie surowicy krwi.",
+        "badanie temperatury ciała."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku owiec należy przechowywać księgi rejestracji przez … lata od wyłączenia sztuki ze stada.",
+      "options": [
+        "3",
+        "4"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWyprodukowane w gospodarstwie nawozy płynne i stałe powinny być przechowywane w odpowiedniej odległości od zabudowań, granic zagrody gospodarstwa oraz przede wszystkim studni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka jest optymalna temperatura ciała świń?",
+      "options": [
+        "38–40°C.",
+        "38–39,5°C.",
+        "37,8–38,5°C.",
+        "40-42,5°C."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDostosowanie produkcji do aktualnych potrzeb rynku jest … ze względu na płatność jednolitą.",
+      "options": [
+        "możliwe",
+        "niemożliwe"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChory koń porusza się niechętnie i szybko się męczy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Chora owca:",
+      "options": [
+        "odłącza się od stada.",
+        "leży na pastwisku.",
+        "jest ospała.",
+        "trzyma się blisko stada."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nStan zdrowia zwierząt jest jednym z czynników decydujących o powodzeniu produkcji zwierzęcej, dlatego należy doglądać swojego stada co najmniej … dziennie.",
+      "options": [
+        "raz",
+        "dwa razy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChora krowa wydziela normalne ilości mleka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka jest optymalna temperatura ciała konia?",
+      "options": [
+        "38–40°C.",
+        "38–39,5°C.",
+        "37,8–38,5°C.",
+        "38,5–40°C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nChory drób … opuszcza pomieszczenia.",
+      "options": [
+        "niechętnie",
+        "chętnie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiększość gatunków zwierząt zachowuje się podobnie podczas choroby.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Przez ile minut należy mierzyć temperaturę zwierzęcia?",
+      "options": [
+        "3",
+        "10",
+        "5",
+        "1"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGnojówka i gnojowica musi być magazynowana w specjalnie przygotowanych, szczelnych zbiornikach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiś sposób zachowuje się chory koń?",
+      "options": [
+        "Jest osowiały.",
+        "Leży.",
+        "Jest agresywny.",
+        "Stoi z opuszczoną głową."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaką zawartość procentową P2O5 ma średni skład chemiczny obornika?",
+      "options": [
+        "0,75%",
+        "0,5%.",
+        "0,15%.",
+        "0,25%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy naturalne zarówno płynne, jak i stałe powinny być stosowane na pola wyłącznie w okresie od 1 kwietnia do 30 października.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakiej ilości azotu nie może przekroczyć nawóz naturalny w czystym składniku na 1 hektar użytków rolnych?",
+      "options": [
+        "200 kg.",
+        "150 kg.",
+        "170 kg.",
+        "120 kg."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jaką zawartość procentową CaO ma średni skład chemiczny obornika?",
+      "options": [
+        "0,8%.",
+        "0,2%.",
+        "0,4%.",
+        "0,6%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZasada cross-compliance nie określa prawa do płatności na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ile procent wody średnio zawiera obornik?",
+      "options": [
+        "Ok. 50%.",
+        "40%.",
+        "95%.",
+        "Ok. 75%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jakie zwierzęta należy oznakować w terminie 7 dni od urodzenia?",
+      "options": [
+        "Bydło.",
+        "Świnie.",
+        "Kozy.",
+        "Owce."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWymagania stawiane budowlom rolniczym służącym do magazynowania obornika, gnojowicy i gnojówki podaje Ustawa z dnia 10 lipca 2007 roku o nawozach i nawożeniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką zawartość procentową K2O ma średni skład chemiczny obornika?",
+      "options": [
+        "1%.",
+        "0,5%.",
+        "2%.",
+        "0,6%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jaką zawartość procentową azotu ma średni skład chemiczny obornika?",
+      "options": [
+        "1%.",
+        "0,5%.",
+        "0,2%.",
+        "0,8%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkładowanie nawozów naturalnych nie musi spełniać żadnych szczególnych wymogów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta gospodarskie nie muszą mieć zapewnionej odpowiedniej przestrzeni życiowej i właściwego składu socjalnego w grupie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W przypadku którego gatunku zwierząt należy zgłaszać zmiany w stadzie w ARiMR?",
+      "options": [
+        "W przypadku świń.",
+        "W przypadku wszystkich gatunków.",
+        "W przypadku bydła.",
+        "W przypadku drobiu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkrót KDPR oznacza Kodeks Dobrej Pracy Rolniczej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką pojemność zbiornika na 1 dużą jednostkę przeliczeniową przeznacza się w przypadku magazynowania gnojownicy?",
+      "options": [
+        "12 m3.",
+        "10 m3.",
+        "5 m3.",
+        "15 m3."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Głównym celem KDPR jest uświadamianie społeczności o ważności dbania o ochronę wód.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zasada cross-compliance określa prawo do płatności po spełnieniu określonych wymogów wynikających z unijnych przepisów, które dotyczą:",
+      "options": [
+        "sadzenia lasów.",
+        "zdrowotności zwierząt i roślin.",
+        "dobrostanu zwierząt.",
+        "ochrony środowiska.",
+        "poprawy bezpieczeństwa i jakości żywności."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaką pojemność zbiornika na 1 dużą jednostkę przeliczeniową przeznacza się w przypadku magazynowania gnojówki?",
+      "options": [
+        "2,5 m3.",
+        "4 m3.",
+        "4,5 m3.",
+        "1m3."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChów i hodowla zwierząt gospodarskich powinny być prowadzone w sposób i w warunkach eliminujących cierpienie, urazy i uszkodzenia ich ciała.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile procent substancji organicznej średnio zawiera obornik?",
+      "options": [
+        "20%.",
+        "10%.",
+        "5%.",
+        "50%."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zawartość jakiego pierwiastka w oborniku zazwyczaj nie przekracza 5 mg/kg?",
+      "options": [
+        "Mn.",
+        "Mo.",
+        "B.",
+        "Cu."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku duszności zwierzęta najczęściej stoją ze zwieszoną szyją.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką powierzchnię płyty gnojowej na 1 dużą jednostkę przeliczeniową przeznacza się w przypadku magazynowania obornika?",
+      "options": [
+        "Około 3,5 m2.",
+        "Około 2,5 m2.",
+        "Około 4 m2.",
+        "Około 3 m2."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nObornik powinien być magazynowany w szczelnie zamkniętych zbiornikach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSpełnienie wymogów ochrony środowiska oraz części produkcji roślinnej kontroluje Inspekcja Weterynaryjna (IW).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przez jaki czas od utraty posiadania zwierzęcia należy przechowywać księgi rejestracji świń?",
+      "options": [
+        "Przez rok.",
+        "Przez 4 lata.",
+        "Przez 2 lata.",
+        "Przez 3 lata."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOptymalna temperatura ciała kóz i owiec powinna wynosić 38–40°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zasada Wzajemnej Zgodności określa prawo do płatności:",
+      "options": [
+        "pośrednich.",
+        "rolnośrodowiskowych.",
+        "bezpośrednich."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jaki sposób należy znakować bydło?",
+      "options": [
+        "Tatuaż w pachwinie.",
+        "Tatuaż w lewym uchu.",
+        "Kolczyk w lewym uchu.",
+        "Kolczyki w obu uszach."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWarunki chowu lub hodowli zwierząt nie mogą powodować urazów i uszkodzeń ciała lub innych cierpień.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile % soli mineralnych średnio zawiera obornik?",
+      "options": [
+        "2–3%.",
+        "7–8%.",
+        "10%.",
+        "5-6%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "W przypadku gospodarstw wielkotowarowych wielkość płyty gnojowej czy pojemność zbiorników na gnojowicę lub gnojówkę powinna być dostosowana do wielkości stada i zapewniać możliwość przechowywania nawozów przez okres:",
+      "options": [
+        "4 miesięcy.",
+        "8 miesięcy.",
+        "6 miesięcy.",
+        "2 miesięcy."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

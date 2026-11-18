@@ -1,0 +1,661 @@
+{
+  "id": "exam_2015_08",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz sierpień 2015",
+  "number": "2015/08",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Do zwalczania chorób grzybowych stosuje się",
+      "back": "fungicydy."
+    },
+    {
+      "front": "Chwastem roślin uprawnych, przedstawionym na zdjęciu, jest",
+      "back": "ostrożeń polny.",
+      "img": "img/exam_2015_08/zad2.jpg"
+    },
+    {
+      "front": "Najlepiej zakiszają się pasze",
+      "back": "o wysokiej zawartości cukrów i niskiej zawartości białka."
+    },
+    {
+      "front": "Podstawowym zabiegiem przy konserwacji rowów melioracyjnych jest",
+      "back": "koszenie skarp i odmulanie dna."
+    },
+    {
+      "front": "Oblicz, ile nawozu należy zastosować pod uprawę 1 ha kukurydzy przy przewidywanym plonie 60 ton zielonki, jeśli na 10 ton zielonej masy należy zastosować 90 kg nawozu.",
+      "back": "540 kg"
+    },
+    {
+      "front": "Na zdjęciu przedstawiono łożyska",
+      "back": "toczne.",
+      "img": "img/exam_2015_08/zad6.jpg"
+    },
+    {
+      "front": "Wybierz mieszankę nasion nadającą się do założenia pastwiska.",
+      "back": "55% trawy niskie, 35% trawy wysokie, 10% motylkowe."
+    },
+    {
+      "front": "Ile ton ziemniaków należy wysadzić na 1 ha, jeśli masa sadzeniaka wynosi 70 g? [tabela – masa sadzeniaka: 30 g – 1,8–2,3 t/ha; 50 g – 2,6–3,3 t/ha; 70 g – 3,4–4,0 t/ha; 120 g – 4,1–5,0 t/ha]",
+      "back": "3,4÷4,0 t/ha"
+    },
+    {
+      "front": "Podkiełkowywanie ziemniaków powinno przeprowadzać się w zakresie temperatur [tabela – optymalne warunki przechowywania bulw: dojrzewanie bulw 1÷2 tygodnie – pow. 15 °C; schładzanie 2÷3 tygodnie – stopniowe obniżanie do 4 °C; długotrwałe przechowywanie – 2÷6 °C; przygotowanie sadzeniaków na świetle 3÷5 tygodni – 10÷15 °C]",
+      "back": "10÷15 °C"
+    },
+    {
+      "front": "Optymalny dla siewu pszenicy ozimej w rejonie Polski środkowej jest okres od",
+      "back": "20 września do 30 września.",
+      "img": "img/exam_2015_08/zad10.jpg"
+    },
+    {
+      "front": "Optymalny termin siewu kukurydzy przypada na okres",
+      "back": "20 kwietnia - 10 maja, gdy gleba ogrzeje się do temperatury 10 °C."
+    },
+    {
+      "front": "Środki ochrony roślin można stosować na terenie otwartym, jeśli odległość od pasiek wynosi co najmniej",
+      "back": "20 m"
+    },
+    {
+      "front": "Sekcja robocza siewnika, przedstawiona na zdjęciu, służy do wysiewu nasion",
+      "back": "buraków cukrowych.",
+      "img": "img/exam_2015_08/zad14.jpg"
+    },
+    {
+      "front": "Który zestaw nawozów mineralnych może być stosowany w rolnictwie ekologicznym?",
+      "back": "Kainit, dolomit, siarczan potasu, mączka fosforytowa."
+    },
+    {
+      "front": "Która forma sprzedaży bezpośredniej produktów rolnictwa ekologicznego dominuje w Polsce?",
+      "back": "Targowiska."
+    },
+    {
+      "front": "Logo umieszczone na opakowaniu oznacza produkt rolnictwa UE",
+      "back": "ekologicznego.",
+      "img": "img/exam_2015_08/zad17.jpg"
+    },
+    {
+      "front": "Na schemacie przedstawiono",
+      "back": "nerki i moczowody.",
+      "img": "img/exam_2015_08/zad18.jpg"
+    },
+    {
+      "front": "Osocze krwi jest odpowiedzialne za",
+      "back": "transport substancji odżywczych do komórek."
+    },
+    {
+      "front": "Rysunek przedstawia krowę w typie użytkowym",
+      "back": "mięsnym.",
+      "img": "img/exam_2015_08/zad20.jpg"
+    },
+    {
+      "front": "Na zdjęciu przedstawiono knura rasy",
+      "back": "hampshire.",
+      "img": "img/exam_2015_08/zad21.jpg"
+    },
+    {
+      "front": "Najlepszymi wynikami produkcyjnymi charakteryzuje się opas",
+      "back": "intensywny."
+    },
+    {
+      "front": "Śruta poekstrakcyjna sojowa jest paszą",
+      "back": "treściwą."
+    },
+    {
+      "front": "Prawidłowym zestawieniem roślin tworzących trójpolowy człon zmianowania jest:",
+      "back": "ziemniaki, pszenica jara, owies."
+    },
+    {
+      "front": "Niedobór białka w dawce pokarmowej dla krów najlepiej uzupełni",
+      "back": "zielonka z lucerny."
+    },
+    {
+      "front": "Na zdjęciu przedstawiono",
+      "back": "robota udojowego.",
+      "img": "img/exam_2015_08/zad26.jpg"
+    },
+    {
+      "front": "Na rysunku przedstawiony jest typ uwięzi",
+      "back": "grabnerskiej.",
+      "img": "img/exam_2015_08/zad27.jpg"
+    },
+    {
+      "front": "Jeżeli locha została pokryta 20 marca, to przypuszczalny poród nastąpi około",
+      "back": "12 lipca."
+    },
+    {
+      "front": "Powierzchnia płyty obornikowej dla 10 DJP, przy 4-miesięcznym okresie składowania, powinna wynosić [tabela – system ściółkowy, poza OSN (4 miesiące): 2,5 m2/1 DJP dla obornika; na OSN (6 miesięcy): 3,5 m2/1 DJP]",
+      "back": "25,0 m2"
+    },
+    {
+      "front": "Dopuszczalne stężenie dwutlenku węgla w budynkach dla drobiu wynosi [tabela – dopuszczalne stężenie: CO2 2500 ppm (0,25%), NH3 26 ppm (0,0026%), H2S 10 ppm (0,001%)]",
+      "back": "2500 ppm, (0,25%)"
+    },
+    {
+      "front": "Oblicz, ile powinna wynosić powierzchnia kojca dla 12 tuczników o wadze 85÷100 kg. [tabela – tuczniki 85–100 kg: 0,65 m2 na zwierzę]",
+      "back": "7,8 m2"
+    },
+    {
+      "front": "Które objawy wskazują na zarażenie krów przez gza bydlęcego?",
+      "back": "Na grzbiecie guzy dochodzące do wielkości orzecha włoskiego, z larwami wewnątrz. Na szczycie guza znajduje się otwór zaczopowany ropną wydzieliną."
+    },
+    {
+      "front": "Przedstawiony na zdjęciu wzór kolczyka jest przeznaczony dla",
+      "back": "świń.",
+      "img": "img/exam_2015_08/zad33.jpg"
+    },
+    {
+      "front": "Ile maksymalnie krów można utrzymywać w gospodarstwie ekologicznym o powierzchni 18 ha, aby obsada zwierząt nie przekraczała 2 DJP/ha?",
+      "back": "36"
+    },
+    {
+      "front": "Zwierzę przedstawione na zdjęciu trzyma głowę na wysokości grzbietu. Jest to niezbędne podczas",
+      "back": "pokazu.",
+      "img": "img/exam_2015_08/zad35.jpg"
+    },
+    {
+      "front": "Którą cyfrą oznacza się jaja pochodzące z chowu ekologicznego?",
+      "back": "0"
+    },
+    {
+      "front": "Silnik w kombajnie zbożowym stanowi [tabela – części złożone: składają się z kilku części prostych; mechanizmy: składają się z kilku części prostych lub złożonych; podzespoły: kilka części prostych lub złożonych, które stanowią jedną całość konstrukcyjną; zespoły: grupa części maszyn spełniających określone zadanie]",
+      "back": "zespół kombajnu."
+    },
+    {
+      "front": "Oblicz, ile kg mocznika (46% N) należy zastosować na 1 ha pszenicy, jeśli dawka czystego składnika N na 1 ha wynosi 92 kg.",
+      "back": "200 kg"
+    },
+    {
+      "front": "Na rysunku przedstawiono poidło",
+      "back": "miseczkowe dla prosiąt.",
+      "img": "img/exam_2015_08/zad39.jpg"
+    },
+    {
+      "front": "Do zbioru zielonek na siano wykorzystuje się",
+      "back": "kosiarkę rotacyjną."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Do zwalczania chorób grzybowych stosuje się",
+      "options": [
+        "insektycydy.",
+        "fungicydy.",
+        "herbicydy.",
+        "akarycydy."
+      ],
+      "answer": 1,
+      "explain": "Fungicydy to środki grzybobójcze.",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Chwastem roślin uprawnych, przedstawionym na zdjęciu, jest",
+      "options": [
+        "komosa wielkolistna.",
+        "ostrożeń polny.",
+        "rdest plamisty.",
+        "kąkol polny."
+      ],
+      "answer": 1,
+      "explain": "Kolczaste, wcinane liście i fioletowe koszyczki to cechy ostrożenia polnego.",
+      "src": "Zad. 2",
+      "img": "img/exam_2015_08/zad2.jpg"
+    },
+    {
+      "q": "Najlepiej zakiszają się pasze",
+      "options": [
+        "o wysokiej zawartości cukrów i wysokiej zawartości białka.",
+        "o niskiej zawartości cukrów i wysokiej zawartości białka.",
+        "o wysokiej zawartości cukrów i niskiej zawartości białka.",
+        "o średniej zawartości cukrów i niskiej zawartości białka."
+      ],
+      "answer": 2,
+      "explain": "Cukry są pożywką dla bakterii kwasu mlekowego, a białko buforuje zakwaszenie – najlepiej zakiszają się pasze bogate w cukry i ubogie w białko.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Podstawowym zabiegiem przy konserwacji rowów melioracyjnych jest",
+      "options": [
+        "odmulanie studzienek drenarskich.",
+        "koszenie skarp i odmulanie dna.",
+        "naprawa urządzeń piętrzących.",
+        "usuwanie roślin wodnych."
+      ],
+      "answer": 1,
+      "explain": "Konserwacja rowów polega przede wszystkim na wykaszaniu skarp i odmulaniu dna.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Oblicz, ile nawozu należy zastosować pod uprawę 1 ha kukurydzy przy przewidywanym plonie 60 ton zielonki, jeśli na 10 ton zielonej masy należy zastosować 90 kg nawozu.",
+      "options": [
+        "190 kg",
+        "540 kg",
+        "1080 kg",
+        "1200 kg"
+      ],
+      "answer": 1,
+      "explain": "60 t : 10 t = 6; 6 × 90 kg = 540 kg nawozu.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Na zdjęciu przedstawiono łożyska",
+      "options": [
+        "specjalne.",
+        "ślizgowe.",
+        "toczne.",
+        "zębate."
+      ],
+      "answer": 2,
+      "explain": "Łożyska kulkowe, w których elementy toczne są między pierścieniami, to łożyska toczne.",
+      "src": "Zad. 6",
+      "img": "img/exam_2015_08/zad6.jpg"
+    },
+    {
+      "q": "Wybierz mieszankę nasion nadającą się do założenia pastwiska.",
+      "options": [
+        "60% trawy wysokie, 25% trawy niskie, 5% trawy średnie, 10% motylkowe.",
+        "55% trawy wysokie, 25% trawy niskie, 10% trawy średnie, 10% motylkowe.",
+        "55% trawy wysokie, 35% trawy niskie, 10% motylkowe.",
+        "55% trawy niskie, 35% trawy wysokie, 10% motylkowe."
+      ],
+      "answer": 3,
+      "explain": "Na pastwisku dominować powinny trawy niskie (darniowe), dobrze znoszące wypas i przydeptywanie.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Ile ton ziemniaków należy wysadzić na 1 ha, jeśli masa sadzeniaka wynosi 70 g? [tabela – masa sadzeniaka: 30 g – 1,8–2,3 t/ha; 50 g – 2,6–3,3 t/ha; 70 g – 3,4–4,0 t/ha; 120 g – 4,1–5,0 t/ha]",
+      "options": [
+        "1,8÷2,3 t/ha",
+        "2,6÷3,3 t/ha",
+        "3,4÷4,0 t/ha",
+        "4,1÷5,0 t/ha"
+      ],
+      "answer": 2,
+      "explain": "Z tabeli: dla sadzeniaków 70 g zużycie wynosi 3,4–4,0 t/ha.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Podkiełkowywanie ziemniaków powinno przeprowadzać się w zakresie temperatur [tabela – optymalne warunki przechowywania bulw: dojrzewanie bulw 1÷2 tygodnie – pow. 15 °C; schładzanie 2÷3 tygodnie – stopniowe obniżanie do 4 °C; długotrwałe przechowywanie – 2÷6 °C; przygotowanie sadzeniaków na świetle 3÷5 tygodni – 10÷15 °C]",
+      "options": [
+        "2÷6 °C",
+        "7÷9 °C",
+        "10÷15 °C",
+        "16÷20 °C"
+      ],
+      "answer": 2,
+      "explain": "Z tabeli: przygotowanie sadzeniaków na świetle (podkiełkowywanie) prowadzi się w 10–15 °C.",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Optymalny dla siewu pszenicy ozimej w rejonie Polski środkowej jest okres od",
+      "options": [
+        "15 września do 20 września.",
+        "20 września do 30 września.",
+        "20 września do 5 października.",
+        "25 września do 10 października."
+      ],
+      "answer": 1,
+      "explain": "Z mapy: w Polsce środkowej optymalny termin siewu pszenicy ozimej to 20–30 września.",
+      "src": "Zad. 10",
+      "img": "img/exam_2015_08/zad10.jpg"
+    },
+    {
+      "q": "Optymalny termin siewu kukurydzy przypada na okres",
+      "options": [
+        "1 - 20 maja, gdy gleba ogrzeje się do temperatury 15 °C.",
+        "20 kwietnia - 1 maja, gdy gleba ogrzeje się do temperatury 6 °C.",
+        "20 kwietnia - 10 maja, gdy gleba ogrzeje się do temperatury 10 °C.",
+        "10 - 20 kwietnia, gdy gleba ogrzeje się do temperatury 6 °C."
+      ],
+      "answer": 2,
+      "explain": "Kukurydzę sieje się od ok. 20 kwietnia do 10 maja, gdy gleba nagrzeje się do 8–10 °C.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Środki ochrony roślin można stosować na terenie otwartym, jeśli odległość od pasiek wynosi co najmniej",
+      "options": [
+        "3 m",
+        "5 m",
+        "10 m",
+        "20 m"
+      ],
+      "answer": 3,
+      "explain": "Przepisy wymagają zachowania co najmniej 20 m od pasiek przy stosowaniu środków ochrony roślin.",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "Sekcja robocza siewnika, przedstawiona na zdjęciu, służy do wysiewu nasion",
+      "options": [
+        "owsa.",
+        "pszenicy.",
+        "koniczyny białej.",
+        "buraków cukrowych."
+      ],
+      "answer": 3,
+      "explain": "Sekcje siewnika punktowego (precyzyjnego) służą do siewu buraków cukrowych.",
+      "src": "Zad. 14",
+      "img": "img/exam_2015_08/zad14.jpg"
+    },
+    {
+      "q": "Który zestaw nawozów mineralnych może być stosowany w rolnictwie ekologicznym?",
+      "options": [
+        "Kainit, dolomit, siarczan potasu, mączka fosforytowa.",
+        "Margiel, karnalit, polifoska, superfosfat pylisty.",
+        "Polifoska, siarczan potasu, saletra amonowa, mączka fosforytowa.",
+        "Mocznik, siarczan potasu, kizeryt granulowany, superfosfat granulowany."
+      ],
+      "answer": 0,
+      "explain": "W rolnictwie ekologicznym dozwolone są naturalne nawozy mineralne, np. kainit, dolomit, siarczan potasu, mączka fosforytowa; polifoska, saletra, mocznik i superfosfat są zabronione.",
+      "src": "Zad. 15"
+    },
+    {
+      "q": "Która forma sprzedaży bezpośredniej produktów rolnictwa ekologicznego dominuje w Polsce?",
+      "options": [
+        "Sklepy w gospodarstwach.",
+        "„System abonamentów”.",
+        "Dostawy do domu.",
+        "Targowiska."
+      ],
+      "answer": 3,
+      "explain": "Według klucza CKE w sprzedaży bezpośredniej żywności ekologicznej w Polsce dominują targowiska.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Logo umieszczone na opakowaniu oznacza produkt rolnictwa UE",
+      "options": [
+        "towarowego.",
+        "intensywnego.",
+        "ekologicznego.",
+        "integrowanego."
+      ],
+      "answer": 2,
+      "explain": "Liść z gwiazdek UE to unijne logo produkcji ekologicznej („Euroliść”).",
+      "src": "Zad. 17",
+      "img": "img/exam_2015_08/zad17.jpg"
+    },
+    {
+      "q": "Na schemacie przedstawiono",
+      "options": [
+        "jądra i nasieniowody.",
+        "nerki i moczowody.",
+        "płuca i oskrzeliki.",
+        "żołądek i jelita."
+      ],
+      "answer": 1,
+      "explain": "Fasolowate narządy połączone z dużymi naczyniami, z przewodami biegnącymi do pęcherza, to nerki i moczowody.",
+      "src": "Zad. 18",
+      "img": "img/exam_2015_08/zad18.jpg"
+    },
+    {
+      "q": "Osocze krwi jest odpowiedzialne za",
+      "options": [
+        "dostarczenie tlenu do komórek.",
+        "niszczenie chorobotwórczych bakterii.",
+        "wytwarzanie czerwonych i białych krwinek.",
+        "transport substancji odżywczych do komórek."
+      ],
+      "answer": 3,
+      "explain": "Osocze transportuje rozpuszczone składniki odżywcze, hormony i produkty przemiany materii; tlen przenoszą erytrocyty.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Rysunek przedstawia krowę w typie użytkowym",
+      "options": [
+        "mięsno-mlecznym.",
+        "mleczno-mięsnym.",
+        "kombinowanym.",
+        "mięsnym."
+      ],
+      "answer": 3,
+      "explain": "Prostokątna, szeroka sylwetka (widok z góry) jest charakterystyczna dla typu mięsnego; typ mleczny ma sylwetkę klinowatą.",
+      "src": "Zad. 20",
+      "img": "img/exam_2015_08/zad20.jpg"
+    },
+    {
+      "q": "Na zdjęciu przedstawiono knura rasy",
+      "options": [
+        "duroc.",
+        "pietrain.",
+        "berkshire.",
+        "hampshire."
+      ],
+      "answer": 3,
+      "explain": "Czarne umaszczenie z białym pasem na wysokości łopatek jest typowe dla rasy hampshire.",
+      "src": "Zad. 21",
+      "img": "img/exam_2015_08/zad21.jpg"
+    },
+    {
+      "q": "Najlepszymi wynikami produkcyjnymi charakteryzuje się opas",
+      "options": [
+        "intensywny.",
+        "ekstensywny.",
+        "na białe mięso.",
+        "półintensywny."
+      ],
+      "answer": 0,
+      "explain": "Opas intensywny daje najwyższe przyrosty dobowe i najkrótszy czas tuczu.",
+      "src": "Zad. 22"
+    },
+    {
+      "q": "Śruta poekstrakcyjna sojowa jest paszą",
+      "options": [
+        "węglowodanową.",
+        "objętościową.",
+        "mineralną.",
+        "treściwą."
+      ],
+      "answer": 3,
+      "explain": "Śruta sojowa to pasza treściwa wysokobiałkowa.",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Prawidłowym zestawieniem roślin tworzących trójpolowy człon zmianowania jest:",
+      "options": [
+        "kukurydza, ziemniaki, pszenica jara.",
+        "ziemniaki, pszenica jara, owies.",
+        "rzepak, ziemniaki, kukurydza.",
+        "kukurydza, rzepak, ziemniaki."
+      ],
+      "answer": 1,
+      "explain": "Klasyczny człon trójpolowy to roślina okopowa, a po niej dwa zboża (ziemniaki – pszenica jara – owies).",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Niedobór białka w dawce pokarmowej dla krów najlepiej uzupełni",
+      "options": [
+        "kiszonka z kapusty pastewnej.",
+        "zielonka ze słonecznika.",
+        "kiszonka z kukurydzy.",
+        "zielonka z lucerny."
+      ],
+      "answer": 3,
+      "explain": "Lucerna jako roślina motylkowa jest bogata w białko.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "Na zdjęciu przedstawiono",
+      "options": [
+        "robota czyszczącego.",
+        "dojarnię karuzelową.",
+        "robota udojowego.",
+        "aparat udojowy."
+      ],
+      "answer": 2,
+      "explain": "Stanowisko z ramieniem automatycznie zakładającym kubki udojowe to robot udojowy.",
+      "src": "Zad. 26",
+      "img": "img/exam_2015_08/zad26.jpg"
+    },
+    {
+      "q": "Na rysunku przedstawiony jest typ uwięzi",
+      "options": [
+        "detroit.",
+        "jarzmowej.",
+        "grabnerskiej.",
+        "z poręczą karkową."
+      ],
+      "answer": 2,
+      "explain": "Według klucza CKE rysunek przedstawia uwięź grabnerską (łańcuch szyjny przesuwny w pionie).",
+      "src": "Zad. 27",
+      "img": "img/exam_2015_08/zad27.jpg"
+    },
+    {
+      "q": "Jeżeli locha została pokryta 20 marca, to przypuszczalny poród nastąpi około",
+      "options": [
+        "12 lipca.",
+        "22 lipca.",
+        "12 sierpnia.",
+        "11 września."
+      ],
+      "answer": 0,
+      "explain": "Ciąża lochy trwa ok. 114 dni (3 miesiące, 3 tygodnie i 3 dni): 20 marca + 114 dni ≈ 12 lipca.",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "Powierzchnia płyty obornikowej dla 10 DJP, przy 4-miesięcznym okresie składowania, powinna wynosić [tabela – system ściółkowy, poza OSN (4 miesiące): 2,5 m2/1 DJP dla obornika; na OSN (6 miesięcy): 3,5 m2/1 DJP]",
+      "options": [
+        "2,5 m2",
+        "3,5 m2",
+        "10,0 m2",
+        "25,0 m2"
+      ],
+      "answer": 3,
+      "explain": "10 DJP × 2,5 m2 = 25 m2.",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Dopuszczalne stężenie dwutlenku węgla w budynkach dla drobiu wynosi [tabela – dopuszczalne stężenie: CO2 2500 ppm (0,25%), NH3 26 ppm (0,0026%), H2S 10 ppm (0,001%)]",
+      "options": [
+        "10 ppm, (0,001%)",
+        "26 ppm, (0,0026%)",
+        "2500 ppm, (0,25%)",
+        "3000 ppm, (0,30%)"
+      ],
+      "answer": 2,
+      "explain": "Z tabeli: dla dwutlenku węgla dopuszczalne jest 2500 ppm, czyli 0,25%.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "Oblicz, ile powinna wynosić powierzchnia kojca dla 12 tuczników o wadze 85÷100 kg. [tabela – tuczniki 85–100 kg: 0,65 m2 na zwierzę]",
+      "options": [
+        "4,5 m2",
+        "5,5 m2",
+        "6,5 m2",
+        "7,8 m2"
+      ],
+      "answer": 3,
+      "explain": "12 × 0,65 m2 = 7,8 m2.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Które objawy wskazują na zarażenie krów przez gza bydlęcego?",
+      "options": [
+        "Gorączka, spadek mleczności, występowanie pęcherzy i ran w jamie gębowej, na wymieniu i w okolicy racic.",
+        "Na skórze głowy, szyi, łopatkach, w okolicy nasady ogona okrągłe i owalne bezwłose plamy, pokryte szarobiałymi strupami.",
+        "Silny świąd, niepokój, ocieranie się o różne przedmioty, zadrapania, wyłysienia, złuszczanie się naskórka na głowie, szyi, grzbiecie i ogonie.",
+        "Na grzbiecie guzy dochodzące do wielkości orzecha włoskiego, z larwami wewnątrz. Na szczycie guza znajduje się otwór zaczopowany ropną wydzieliną."
+      ],
+      "answer": 3,
+      "explain": "Larwy gza bydlęcego rozwijają się pod skórą grzbietu, tworząc guzy z otworem oddechowym.",
+      "src": "Zad. 32"
+    },
+    {
+      "q": "Przedstawiony na zdjęciu wzór kolczyka jest przeznaczony dla",
+      "options": [
+        "owiec.",
+        "bydła.",
+        "świń.",
+        "kóz."
+      ],
+      "answer": 2,
+      "explain": "Według klucza CKE pokazany okrągły kolczyk z numerem siedziby stada służy do oznakowania świń.",
+      "src": "Zad. 33",
+      "img": "img/exam_2015_08/zad33.jpg"
+    },
+    {
+      "q": "Ile maksymalnie krów można utrzymywać w gospodarstwie ekologicznym o powierzchni 18 ha, aby obsada zwierząt nie przekraczała 2 DJP/ha?",
+      "options": [
+        "18",
+        "28",
+        "36",
+        "38"
+      ],
+      "answer": 2,
+      "explain": "18 ha × 2 DJP/ha = 36 DJP, a 1 krowa = 1 DJP, więc 36 krów.",
+      "src": "Zad. 34"
+    },
+    {
+      "q": "Zwierzę przedstawione na zdjęciu trzyma głowę na wysokości grzbietu. Jest to niezbędne podczas",
+      "options": [
+        "udoju.",
+        "pokazu.",
+        "porodu.",
+        "pielęgnacji racic."
+      ],
+      "answer": 1,
+      "explain": "Podczas pokazu (wystawy) zwierzę prezentuje się z głową na wysokości linii grzbietu.",
+      "src": "Zad. 35",
+      "img": "img/exam_2015_08/zad35.jpg"
+    },
+    {
+      "q": "Którą cyfrą oznacza się jaja pochodzące z chowu ekologicznego?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "Jaja ekologiczne mają kod 0 (1 – wolny wybieg, 2 – ściółkowy, 3 – klatkowy).",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Silnik w kombajnie zbożowym stanowi [tabela – części złożone: składają się z kilku części prostych; mechanizmy: składają się z kilku części prostych lub złożonych; podzespoły: kilka części prostych lub złożonych, które stanowią jedną całość konstrukcyjną; zespoły: grupa części maszyn spełniających określone zadanie]",
+      "options": [
+        "część złożoną kombajnu.",
+        "mechanizm kombajnu.",
+        "podzespół kombajnu.",
+        "zespół kombajnu."
+      ],
+      "answer": 3,
+      "explain": "Silnik to grupa części spełniająca określone zadanie (napęd), więc jest zespołem kombajnu.",
+      "src": "Zad. 37"
+    },
+    {
+      "q": "Oblicz, ile kg mocznika (46% N) należy zastosować na 1 ha pszenicy, jeśli dawka czystego składnika N na 1 ha wynosi 92 kg.",
+      "options": [
+        "100 kg",
+        "200 kg",
+        "300 kg",
+        "400 kg"
+      ],
+      "answer": 1,
+      "explain": "92 kg N : 0,46 = 200 kg mocznika.",
+      "src": "Zad. 38"
+    },
+    {
+      "q": "Na rysunku przedstawiono poidło",
+      "options": [
+        "miseczkowe dla prosiąt.",
+        "smoczkowe dla prosiąt.",
+        "miskowe dla bydła.",
+        "kropelkowe."
+      ],
+      "answer": 0,
+      "explain": "Mała miseczka z zaworkiem to poidło miseczkowe dla prosiąt.",
+      "src": "Zad. 39",
+      "img": "img/exam_2015_08/zad39.jpg"
+    },
+    {
+      "q": "Do zbioru zielonek na siano wykorzystuje się",
+      "options": [
+        "owijarkę balotów.",
+        "kosiarkę rotacyjną.",
+        "sieczkarnię polową.",
+        "kombajn do zielonek."
+      ],
+      "answer": 1,
+      "explain": "Zbiór na siano zaczyna się od skoszenia zielonki kosiarką, np. rotacyjną.",
+      "src": "Zad. 40"
+    }
+  ]
+}

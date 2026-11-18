@@ -1,0 +1,659 @@
+{
+  "id": "exam_2014_01",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz styczeń 2014",
+  "number": "2014/01",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Podaj zestaw roślin najbardziej wrażliwych na kwaśny odczyn gleby.",
+      "back": "Burak cukrowy, jęczmień, pszenica."
+    },
+    {
+      "front": "Najniższa temperatura gleby, przy której następuje kiełkowanie nasion buraka cukrowego wynosi",
+      "back": "5 ÷ 7°C"
+    },
+    {
+      "front": "W gospodarstwie rolnym uprawia się rzepak ozimy, jęczmień jary, buraki cukrowe i pszenicę ozimą. Które zmianowanie jest właściwe dla tej grupy roślin?",
+      "back": "Burak cukrowy – jęczmień jary – rzepak ozimy – pszenica ozima."
+    },
+    {
+      "front": "Podstawową czynnością konserwacyjną studzienek drenarskich jest",
+      "back": "usuwanie namułu z dna studzienki."
+    },
+    {
+      "front": "Oblicz ilość saletry amonowej (34%) potrzebnej do nawiezienia 15 ha plantacji w dawce 68 kg N/ha.",
+      "back": "3000 kg"
+    },
+    {
+      "front": "Dobierz najkorzystniejszy termin nawożenia obornikiem pod ziemniaki i buraki.",
+      "back": "Jesienią pod buraki, a wiosną pod ziemniaki."
+    },
+    {
+      "front": "Przy nawożeniu azotem zbóż jarych w dawce powyżej 100 kg N/ha, najkorzystniej jest zastosować",
+      "back": "1/3 dawki pod uprawę przedsiewną, 1/3 dawki w czasie krzewienia, 1/3 dawki w początku kłoszenia."
+    },
+    {
+      "front": "Celem otoczkowania nasion buraków cukrowych jest",
+      "back": "dopasowanie wielkości i kształtu nasion do wymogów precyzyjnego siewu."
+    },
+    {
+      "front": "Do oczyszczenia materiału siewnego zbóż z połamanych ziarniaków należy zastosować",
+      "back": "tryjer."
+    },
+    {
+      "front": "Pierwszym zabiegiem uprawowym, który powinien być wykonany po zbiorze zbóż, jest",
+      "back": "podorywka."
+    },
+    {
+      "front": "Orkę siewną wykonuje się na głębokość",
+      "back": "18 – 25 cm."
+    },
+    {
+      "front": "Chwastem o ciemnoniebieskim, różowym lub białym kwiatostanie (koszyczku) występującym między innymi w zbożach jest",
+      "back": "chaber bławatek."
+    },
+    {
+      "front": "Okres wegetacji wczesnych ziemniaków wynosi 90 dni. Dobierz środek do zwalczania stonki ziemniaczanej, który można zastosować w 60. dniu wegetacji. [tabela – okres karencji: insektycyd I do 14 dni, II do 21 dni, III do 35 dni, IV do 50 dni]",
+      "back": "Insektycyd I i II."
+    },
+    {
+      "front": "Do ochrony roślin przed chorobami grzybowymi służą",
+      "back": "fungicydy."
+    },
+    {
+      "front": "Przedstawiony pług przeznaczony jest do wykonywania orki",
+      "back": "bezzagonowej.",
+      "img": "img/exam_2014_01/zad15.jpg"
+    },
+    {
+      "front": "Do siewu bezpośredniego wykorzystuje się siewnik z redlicami",
+      "back": "talerzowymi bez kółek kopiujących."
+    },
+    {
+      "front": "Orkę użytków zielonych powinno się wykonywać pługiem z odkładnicą",
+      "back": "śrubową."
+    },
+    {
+      "front": "Po zapaleniu się kontrolki smarowania silnika spalinowego kierowca powinien",
+      "back": "zatrzymać pojazd i wyłączyć silnik."
+    },
+    {
+      "front": "Blokady mechanizmu różnicowego w układzie napędowym ciągnika nie należy wykorzystywać podczas",
+      "back": "transportu z dużą prędkością."
+    },
+    {
+      "front": "Podczas suszenia nasion zbóż, w celu zachowania wartości konsumpcyjnej, temperatura nagrzania ziarna nie może przekroczyć",
+      "back": "51 ÷ 60°C"
+    },
+    {
+      "front": "Rurowaty przewód łączący krtań z płucami to",
+      "back": "tchawica."
+    },
+    {
+      "front": "Ilość mleka wytwarzana w ciągu doby oraz długość laktacji kozy może wynosić",
+      "back": "1 – 6 litrów; do 300 dni."
+    },
+    {
+      "front": "Typem użytkowym mlecznym jest rasa",
+      "back": "jersey."
+    },
+    {
+      "front": "Do rasy koni zimnokrwistych w Polsce należą konie",
+      "back": "sztumskie."
+    },
+    {
+      "front": "Owca rasy merynos polski użytkowana jest głównie w celu pozyskania",
+      "back": "wełny."
+    },
+    {
+      "front": "Siano łąkowe dobrej jakości charakteryzuje się",
+      "back": "zielonkawym kolorem."
+    },
+    {
+      "front": "Oblicz minimalną objętość wozu paszowego dla stada 100 krów, przyjmując 50 kg paszy na jedną sztukę i przelicznik ton/m3 równy 0,33.",
+      "back": "16 m3"
+    },
+    {
+      "front": "Do rozdrabniania ziarna owsa dla koni najkorzystniej zastosować",
+      "back": "gniotownik ziarna."
+    },
+    {
+      "front": "W oborach wolnostanowiskowych, w celu zapobiegania wzajemnym uszkodzeniom ciała zwierząt, stosuje się zabieg",
+      "back": "dekornizacji."
+    },
+    {
+      "front": "Maksymalna wilgotność względna w pomieszczeniach dla tuczników nie powinna przekraczać",
+      "back": "70%"
+    },
+    {
+      "front": "Dobierz wymiary beleczek i otworów podłogi ażurowej w kojcach dla warchlaków. [tabela – minimalna szerokość beleczek / maksymalna szerokość otworów: prosięta 50/11 mm; warchlaki 50/14 mm; knurki i loszki hodowlane 80/14 mm; tuczniki 80/18 mm; maciory, loszki po pokryciu 80/20 mm]",
+      "back": "Minimalna szerokość beleczek 50 mm; maksymalna szerokość otworów 14 mm."
+    },
+    {
+      "front": "Wzdęcia u bydła następują w wyniku podawania",
+      "back": "młodej i wilgotnej zielonki z lucerny."
+    },
+    {
+      "front": "Podczas rejestracji zwierząt w ARiMR wydawane są paszporty dla",
+      "back": "bydła."
+    },
+    {
+      "front": "Schemat przedstawia budowę hamulca",
+      "back": "bębnowego uruchamianego mechanicznie.",
+      "img": "img/exam_2014_01/zad34.jpg"
+    },
+    {
+      "front": "Redlice stopkowe w siewnikach zbożowych wykonuje się",
+      "back": "z żeliwa."
+    },
+    {
+      "front": "W celu wykonania zabiegów pielęgnacyjnych w uprawie buraka cukrowego, o szerokości międzyrzędzi 45 cm, należy użyć ciągnika o rozstawie kół",
+      "back": "135 cm."
+    },
+    {
+      "front": "Oznaczony na rysunku numerem 1 siłownik służy do",
+      "back": "włączania i wyłączania napędu przenośnika.",
+      "img": "img/exam_2014_01/zad37.jpg"
+    },
+    {
+      "front": "W czasie pracy kombajnu zbożowego w zbiorniku stwierdzono dużą ilość niedomłóconych kłosów. W takiej sytuacji operator kombajnu powinien",
+      "back": "zmniejszyć szczelinę omłotową."
+    },
+    {
+      "front": "Zespół oznaczony na rysunku numerem 1 służy do połączenia ciągnika",
+      "back": "z naczepami jednoosiowymi.",
+      "img": "img/exam_2014_01/zad39.jpg"
+    },
+    {
+      "front": "Podczas obsługi codziennej ciągnika należy sprawdzić",
+      "back": "poziom płynu chłodniczego."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Podaj zestaw roślin najbardziej wrażliwych na kwaśny odczyn gleby.",
+      "options": [
+        "Burak cukrowy, jęczmień, pszenica.",
+        "Żyto, ziemniaki, kukurydza.",
+        "Seradela, peluszka, owies.",
+        "Owies, len, łubin żółty."
+      ],
+      "answer": 0,
+      "explain": "Burak cukrowy, jęczmień i pszenica wymagają odczynu obojętnego i źle znoszą zakwaszenie gleby.",
+      "src": "Zad. 1"
+    },
+    {
+      "q": "Najniższa temperatura gleby, przy której następuje kiełkowanie nasion buraka cukrowego wynosi",
+      "options": [
+        "1 ÷ 2°C",
+        "3 ÷ 4°C",
+        "5 ÷ 7°C",
+        "8 ÷ 10°C"
+      ],
+      "answer": 2,
+      "explain": "Według klucza CKE nasiona buraka cukrowego zaczynają kiełkować przy temperaturze gleby ok. 5–7 °C.",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "W gospodarstwie rolnym uprawia się rzepak ozimy, jęczmień jary, buraki cukrowe i pszenicę ozimą. Które zmianowanie jest właściwe dla tej grupy roślin?",
+      "options": [
+        "Burak cukrowy – jęczmień jary – rzepak ozimy – pszenica ozima.",
+        "Burak cukrowy – rzepak ozimy – jęczmień jary – pszenica ozima.",
+        "Burak cukrowy – jęczmień jary – pszenica ozima – rzepak ozimy.",
+        "Rzepak ozimy – burak cukrowy – pszenica ozima – jęczmień jary."
+      ],
+      "answer": 0,
+      "explain": "Jęczmień jary po buraku, rzepak po wcześnie schodzącym jęczmieniu, a pszenica po rzepaku – najlepszym przedplonie.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "Podstawową czynnością konserwacyjną studzienek drenarskich jest",
+      "options": [
+        "zdejmowanie pokryw na zimę.",
+        "uszczelnianie wnętrza studzienki.",
+        "sprawdzanie drożności zbieraczy.",
+        "usuwanie namułu z dna studzienki."
+      ],
+      "answer": 3,
+      "explain": "W studzienkach osadza się namuł, który trzeba regularnie usuwać, by nie zatykał drenów.",
+      "src": "Zad. 4"
+    },
+    {
+      "q": "Oblicz ilość saletry amonowej (34%) potrzebnej do nawiezienia 15 ha plantacji w dawce 68 kg N/ha.",
+      "options": [
+        "680 kg",
+        "1020 kg",
+        "1500 kg",
+        "3000 kg"
+      ],
+      "answer": 3,
+      "explain": "68 kg N × 15 ha = 1020 kg N; 1020 : 0,34 = 3000 kg saletry amonowej.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Dobierz najkorzystniejszy termin nawożenia obornikiem pod ziemniaki i buraki.",
+      "options": [
+        "Jesienią pod buraki, a wiosną pod ziemniaki.",
+        "Wiosną pod buraki, a jesienią pod ziemniaki.",
+        "Późną jesienią przed orką zimową.",
+        "Jak najwcześniej na wiosnę."
+      ],
+      "answer": 0,
+      "explain": "Buraki źle reagują na wiosenny obornik (rozwidlanie korzeni), więc stosuje się go jesienią; ziemniaki dobrze wykorzystują obornik wiosenny.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "Przy nawożeniu azotem zbóż jarych w dawce powyżej 100 kg N/ha, najkorzystniej jest zastosować",
+      "options": [
+        "całą dawkę krótko po wschodach.",
+        "całą dawkę pod uprawę przedsiewną.",
+        "1/2 dawki pod uprawę przedsiewną, 1/2 dawki w początku kłoszenia.",
+        "1/3 dawki pod uprawę przedsiewną, 1/3 dawki w czasie krzewienia, 1/3 dawki w początku kłoszenia."
+      ],
+      "answer": 3,
+      "explain": "Dużą dawkę azotu dzieli się na trzy części, aby ograniczyć straty i dopasować nawożenie do potrzeb roślin.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Celem otoczkowania nasion buraków cukrowych jest",
+      "options": [
+        "zmniejszenie masy nasion.",
+        "opóźnienie kiełkowania nasion.",
+        "powiększenie wymiarów nasion.",
+        "dopasowanie wielkości i kształtu nasion do wymogów precyzyjnego siewu."
+      ],
+      "answer": 3,
+      "explain": "Otoczka nadaje nasionom wyrównany, kulisty kształt, co umożliwia siew punktowy.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Do oczyszczenia materiału siewnego zbóż z połamanych ziarniaków należy zastosować",
+      "options": [
+        "tryjer.",
+        "żmijkę.",
+        "młynek.",
+        "płótniarkę."
+      ],
+      "answer": 0,
+      "explain": "Tryjer rozdziela nasiona według długości, więc oddziela krótkie, połamane ziarniaki od całych.",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Pierwszym zabiegiem uprawowym, który powinien być wykonany po zbiorze zbóż, jest",
+      "options": [
+        "bronowanie.",
+        "podorywka.",
+        "orka siewna.",
+        "orka odwrotka."
+      ],
+      "answer": 1,
+      "explain": "Podorywka zaraz po zbiorze przerywa parowanie wody i przyspiesza kiełkowanie chwastów.",
+      "src": "Zad. 10"
+    },
+    {
+      "q": "Orkę siewną wykonuje się na głębokość",
+      "options": [
+        "6 – 10 cm.",
+        "11 – 16 cm.",
+        "18 – 25 cm.",
+        "26 – 30 cm."
+      ],
+      "answer": 2,
+      "explain": "Orka siewna to orka średnia, na głębokość ok. 18–25 cm.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Chwastem o ciemnoniebieskim, różowym lub białym kwiatostanie (koszyczku) występującym między innymi w zbożach jest",
+      "options": [
+        "chwastnica jednostronna.",
+        "powój zwyczajny.",
+        "przytulia czepna.",
+        "chaber bławatek."
+      ],
+      "answer": 3,
+      "explain": "Chaber bławatek ma kwiatostan typu koszyczek, najczęściej niebieski, rzadziej różowy lub biały.",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Okres wegetacji wczesnych ziemniaków wynosi 90 dni. Dobierz środek do zwalczania stonki ziemniaczanej, który można zastosować w 60. dniu wegetacji. [tabela – okres karencji: insektycyd I do 14 dni, II do 21 dni, III do 35 dni, IV do 50 dni]",
+      "options": [
+        "Tylko insektycyd IV.",
+        "Tylko insektycyd I.",
+        "Insektycyd III i IV.",
+        "Insektycyd I i II."
+      ],
+      "answer": 3,
+      "explain": "Do zbioru zostaje 90 − 60 = 30 dni, więc karencję zachowają tylko insektycydy I (14 dni) i II (21 dni).",
+      "src": "Zad. 13"
+    },
+    {
+      "q": "Do ochrony roślin przed chorobami grzybowymi służą",
+      "options": [
+        "moluskocydy.",
+        "fungicydy.",
+        "herbicydy.",
+        "zoocydy."
+      ],
+      "answer": 1,
+      "explain": "Fungicydy to środki grzybobójcze.",
+      "src": "Zad. 14"
+    },
+    {
+      "q": "Przedstawiony pług przeznaczony jest do wykonywania orki",
+      "options": [
+        "gleb zakamienionych.",
+        "łąk torfowych.",
+        "bezzagonowej.",
+        "zagonowej."
+      ],
+      "answer": 2,
+      "explain": "Pług obracalny odkłada skiby zawsze na tę samą stronę pola, co pozwala na orkę bezzagonową.",
+      "src": "Zad. 15",
+      "img": "img/exam_2014_01/zad15.jpg"
+    },
+    {
+      "q": "Do siewu bezpośredniego wykorzystuje się siewnik z redlicami",
+      "options": [
+        "talerzowymi bez kółek kopiujących.",
+        "stopkowymi dociążanymi sprężynami.",
+        "radełkowymi z kółkami dogniatającymi.",
+        "stopkowymi dociążanymi hydraulicznie."
+      ],
+      "answer": 0,
+      "explain": "Według klucza CKE do siewu bezpośredniego w nieuprawioną glebę stosuje się redlice talerzowe, które przecinają resztki roślinne.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Orkę użytków zielonych powinno się wykonywać pługiem z odkładnicą",
+      "options": [
+        "śrubową.",
+        "kulturalną.",
+        "półśrubową.",
+        "cylindryczną."
+      ],
+      "answer": 0,
+      "explain": "Odkładnica śrubowa dobrze odwraca zwięzłą skibę darni bez jej kruszenia.",
+      "src": "Zad. 17"
+    },
+    {
+      "q": "Po zapaleniu się kontrolki smarowania silnika spalinowego kierowca powinien",
+      "options": [
+        "zatrzymać pojazd i wyłączyć silnik.",
+        "kontynuować pracę na niskich obrotach.",
+        "zatrzymać pojazd i natychmiast schłodzić silnik.",
+        "sprawdzić stan bezpieczników i kontynuować pracę."
+      ],
+      "answer": 0,
+      "explain": "Kontrolka sygnalizuje spadek ciśnienia oleju – dalsza praca grozi zatarciem silnika, więc trzeba go natychmiast wyłączyć.",
+      "src": "Zad. 18"
+    },
+    {
+      "q": "Blokady mechanizmu różnicowego w układzie napędowym ciągnika nie należy wykorzystywać podczas",
+      "options": [
+        "transportu na polu.",
+        "wykonywania orki.",
+        "transportu z dużą prędkością.",
+        "pracy z ładowaczem czołowym."
+      ],
+      "answer": 2,
+      "explain": "Zablokowany mechanizm różnicowy uniemożliwia skręcanie i grozi wypadkiem przy szybkiej jeździe.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Podczas suszenia nasion zbóż, w celu zachowania wartości konsumpcyjnej, temperatura nagrzania ziarna nie może przekroczyć",
+      "options": [
+        "40 ÷ 50°C",
+        "51 ÷ 60°C",
+        "61 ÷ 70°C",
+        "71 ÷ 80°C"
+      ],
+      "answer": 1,
+      "explain": "Ziarno konsumpcyjne można nagrzać najwyżej do ok. 50–60 °C, by nie uszkodzić glutenu i białka.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Rurowaty przewód łączący krtań z płucami to",
+      "options": [
+        "gardło.",
+        "przełyk.",
+        "tchawica.",
+        "nagłośnia."
+      ],
+      "answer": 2,
+      "explain": "Tchawica prowadzi powietrze od krtani do oskrzeli i płuc.",
+      "src": "Zad. 21"
+    },
+    {
+      "q": "Ilość mleka wytwarzana w ciągu doby oraz długość laktacji kozy może wynosić",
+      "options": [
+        "1 – 3 litry; do 150 dni.",
+        "1 – 6 litrów; do 300 dni.",
+        "7 – 10 litrów; do 100 dni.",
+        "10 – 12 litrów; do 300 dni."
+      ],
+      "answer": 1,
+      "explain": "Koza daje zwykle 1–6 litrów mleka dziennie, a laktacja trwa do ok. 300 dni.",
+      "src": "Zad. 22"
+    },
+    {
+      "q": "Typem użytkowym mlecznym jest rasa",
+      "options": [
+        "jersey.",
+        "hereford.",
+        "charolais.",
+        "limousine."
+      ],
+      "answer": 0,
+      "explain": "Jersey to rasa mleczna; hereford, charolais i limousine to rasy mięsne.",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Do rasy koni zimnokrwistych w Polsce należą konie",
+      "options": [
+        "wielkopolskie.",
+        "sztumskie.",
+        "huculskie.",
+        "arabskie."
+      ],
+      "answer": 1,
+      "explain": "Koń sztumski to polski koń zimnokrwisty (pociągowy).",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Owca rasy merynos polski użytkowana jest głównie w celu pozyskania",
+      "options": [
+        "wełny.",
+        "mięsa.",
+        "mleka.",
+        "futra."
+      ],
+      "answer": 0,
+      "explain": "Merynosy to owce wełnistej, cienkorunnej wełny.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "Siano łąkowe dobrej jakości charakteryzuje się",
+      "options": [
+        "zapachem pleśni.",
+        "zielonkawym kolorem.",
+        "niską zawartością białka.",
+        "dużym udziałem kwiatostanów traw."
+      ],
+      "answer": 1,
+      "explain": "Zielonkawy kolor świadczy o prawidłowym suszeniu i zachowaniu składników pokarmowych.",
+      "src": "Zad. 26"
+    },
+    {
+      "q": "Oblicz minimalną objętość wozu paszowego dla stada 100 krów, przyjmując 50 kg paszy na jedną sztukę i przelicznik ton/m3 równy 0,33.",
+      "options": [
+        "6 m3",
+        "8 m3",
+        "14 m3",
+        "16 m3"
+      ],
+      "answer": 3,
+      "explain": "100 × 50 kg = 5 t; 5 t : 0,33 t/m3 ≈ 15,2 m3, więc minimum to wóz 16 m3.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Do rozdrabniania ziarna owsa dla koni najkorzystniej zastosować",
+      "options": [
+        "gniotownik ziarna.",
+        "śrutownik bijakowy.",
+        "śrutownik tarczowy.",
+        "rozdrabniacz uniwersalny."
+      ],
+      "answer": 0,
+      "explain": "Dla koni owies się gniecie (płatkuje), a nie śrutuje.",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "W oborach wolnostanowiskowych, w celu zapobiegania wzajemnym uszkodzeniom ciała zwierząt, stosuje się zabieg",
+      "options": [
+        "korekcji racic.",
+        "odrobaczania.",
+        "dekornizacji.",
+        "dezynfekcji."
+      ],
+      "answer": 2,
+      "explain": "Dekornizacja (usunięcie rogów) zapobiega zranieniom krów w oborze wolnostanowiskowej.",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Maksymalna wilgotność względna w pomieszczeniach dla tuczników nie powinna przekraczać",
+      "options": [
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "answer": 1,
+      "explain": "Według klucza CKE wilgotność względna w tuczarni nie powinna przekraczać 70%.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "Dobierz wymiary beleczek i otworów podłogi ażurowej w kojcach dla warchlaków. [tabela – minimalna szerokość beleczek / maksymalna szerokość otworów: prosięta 50/11 mm; warchlaki 50/14 mm; knurki i loszki hodowlane 80/14 mm; tuczniki 80/18 mm; maciory, loszki po pokryciu 80/20 mm]",
+      "options": [
+        "Minimalna szerokość beleczek 50 mm; maksymalna szerokość otworów 11 mm.",
+        "Minimalna szerokość beleczek 50 mm; maksymalna szerokość otworów 14 mm.",
+        "Minimalna szerokość beleczek 80 mm; maksymalna szerokość otworów 18 mm.",
+        "Minimalna szerokość beleczek 80 mm; maksymalna szerokość otworów 20 mm."
+      ],
+      "answer": 1,
+      "explain": "Z tabeli: dla warchlaków beleczki min. 50 mm, otwory maks. 14 mm.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "Wzdęcia u bydła następują w wyniku podawania",
+      "options": [
+        "młodej i wilgotnej zielonki z lucerny.",
+        "pasz pełnoporcjowych systemu TMR.",
+        "zbyt dużej ilości sianokiszonki z traw.",
+        "zbyt dużej ilości kiszonki z liści buraków."
+      ],
+      "answer": 0,
+      "explain": "Młoda, wilgotna zielonka z roślin motylkowatych (lucerny) silnie fermentuje w żwaczu i powoduje wzdęcia.",
+      "src": "Zad. 32"
+    },
+    {
+      "q": "Podczas rejestracji zwierząt w ARiMR wydawane są paszporty dla",
+      "options": [
+        "bydła.",
+        "owiec.",
+        "świń.",
+        "kóz."
+      ],
+      "answer": 0,
+      "explain": "Paszporty ARiMR wydaje się dla bydła; owce, kozy i świnie mają tylko oznakowanie i rejestr.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "Schemat przedstawia budowę hamulca",
+      "options": [
+        "szczękowego uruchamianego mechanicznie.",
+        "tarczowego uruchamianego pneumatycznie.",
+        "bębnowego uruchamianego mechanicznie.",
+        "tarczowego uruchamianego hydraulicznie."
+      ],
+      "answer": 2,
+      "explain": "Szczęki dociskane od wewnątrz do obracającego się bębna, rozpierane krzywką poruszaną dźwignią, to hamulec bębnowy uruchamiany mechanicznie.",
+      "src": "Zad. 34",
+      "img": "img/exam_2014_01/zad34.jpg"
+    },
+    {
+      "q": "Redlice stopkowe w siewnikach zbożowych wykonuje się",
+      "options": [
+        "ze stali.",
+        "z żeliwa.",
+        "z ołowiu.",
+        "z aluminium."
+      ],
+      "answer": 1,
+      "explain": "Redlice stopkowe odlewa się z żeliwa.",
+      "src": "Zad. 35"
+    },
+    {
+      "q": "W celu wykonania zabiegów pielęgnacyjnych w uprawie buraka cukrowego, o szerokości międzyrzędzi 45 cm, należy użyć ciągnika o rozstawie kół",
+      "options": [
+        "125 cm.",
+        "135 cm.",
+        "150 cm.",
+        "165 cm."
+      ],
+      "answer": 1,
+      "explain": "Rozstaw kół musi być wielokrotnością międzyrzędzi: 3 × 45 cm = 135 cm.",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Oznaczony na rysunku numerem 1 siłownik służy do",
+      "options": [
+        "regulacji szczeliny roboczej ilości wysiewu.",
+        "włączania i wyłączania napędu przenośnika.",
+        "regulacji szybkości obrotów tarcz wysiewających.",
+        "włączania i wyłączania napędu tarcz wysiewających."
+      ],
+      "answer": 1,
+      "explain": "Według klucza CKE siłownik 1 włącza i wyłącza napęd przenośnika podłogowego rozsiewacza.",
+      "src": "Zad. 37",
+      "img": "img/exam_2014_01/zad37.jpg"
+    },
+    {
+      "q": "W czasie pracy kombajnu zbożowego w zbiorniku stwierdzono dużą ilość niedomłóconych kłosów. W takiej sytuacji operator kombajnu powinien",
+      "options": [
+        "zwiększyć obroty wentylatora.",
+        "zmniejszyć szczelinę omłotową.",
+        "zmniejszyć obroty bębna młócącego.",
+        "zwiększyć prędkość pracy kombajnu."
+      ],
+      "answer": 1,
+      "explain": "Zmniejszenie szczeliny omłotowej zwiększa intensywność omłotu i ogranicza niedomłot.",
+      "src": "Zad. 38"
+    },
+    {
+      "q": "Zespół oznaczony na rysunku numerem 1 służy do połączenia ciągnika",
+      "options": [
+        "z naczepami jednoosiowymi.",
+        "z narzędziami zawieszanymi.",
+        "z przyczepami dwuosiowymi.",
+        "z narzędziami półzawieszanymi"
+      ],
+      "answer": 0,
+      "explain": "Według klucza CKE zaczep oznaczony 1 (zaczep rolniczy/hak) służy do łączenia ciągnika z naczepami jednoosiowymi.",
+      "src": "Zad. 39",
+      "img": "img/exam_2014_01/zad39.jpg"
+    },
+    {
+      "q": "Podczas obsługi codziennej ciągnika należy sprawdzić",
+      "options": [
+        "poziom oleju w skrzyni przekładniowej.",
+        "ciśnienie w układzie pneumatycznym.",
+        "gęstość elektrolitu w akumulatorach.",
+        "poziom płynu chłodniczego."
+      ],
+      "answer": 3,
+      "explain": "Poziom płynu chłodniczego sprawdza się codziennie przed pracą; pozostałe czynności należą do obsług okresowych.",
+      "src": "Zad. 40"
+    }
+  ]
+}

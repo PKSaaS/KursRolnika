@@ -1,0 +1,1931 @@
+{
+  "id": "tpc3",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Produkcja, konserwacja, przechowywanie pasz do skarmiania",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Prawidłowe żywienie zaczyna się od doboru roślin paszowych odpowiednio do gatunku zwierzęcia.",
+        "Konserwacja ma zachować wartość odżywczą roślin; uszlachetnianie poprawia skład chemiczny, usuwa zanieczyszczenia, zmniejsza substancje antyodżywcze.",
+        "Właściwe przechowywanie zapobiega rozwojowi bakterii i grzybów oraz chroni przed szkodnikami.",
+        "Przygotowanie paszy przed podaniem zmienia konsystencję, poprawia smakowitość i strawność, zmniejsza ryzyko skażenia mikrobiologicznego.",
+        "Wszystkie te zabiegi służą zwiększeniu wydajności żywienia, obniżeniu ryzyka strat paszy i zapobieganiu zatruciom; uszlachetnianie zmienia też strukturę surowca."
+      ]
+    },
+    {
+      "heading": "1. Rośliny motylkowe drobnonasienne i strączkowe",
+      "points": [
+        "Motylkowe drobnonasienne to z reguły rośliny wieloletnie (funkcjonujące dłużej niż dwa lata).",
+        "Strączkowe to zazwyczaj rośliny jednoroczne – jare i ozime.",
+        "Rośliny ozime wymagają okresu niskich temperatur (jarowizacji) i są wysiewane jesienią; jare nie wymagają jarowizacji, wysiewa się je wiosną.",
+        "Wieloletnie motylkowe drobnonasienne: lucerna mieszańcowa, koniczyna (biała, zwyczajna, białoróżowa, szkarłatna – inkarnatka), esparceta siewna, nostrzyk biały, przelot.",
+        "Jednoroczne i dwuletnie: koniczyna perska (jednoroczna), koniczyna czerwona (dwuletnia).",
+        "Motylkowe strączkowe (zwykle jare): łubin żółty, wąskolistny, biały, bobik, groch polny (peluszka), wyka jara (siewna), wyka ozima (kosmata – wyjątek ozimy), seradela.",
+        "U roślin jarych cały cykl rozwojowy zachodzi w jednym okresie wegetacyjnym; ozime wysiewa się jesienią, by prawidłowo kwitły i owocowały."
+      ]
+    },
+    {
+      "heading": "1. Zboża, okopowe, trawy i inne rośliny pastewne",
+      "points": [
+        "Zboża paszowe: jęczmień, owies (jednoroczny jary), żyto, pszenica, pszenica orkisz, pszenżyto, kukurydza (jednoroczna, jara), sorgo, proso, ryż.",
+        "Okopowe: ziemniaki (jednoroczne jare), buraki cukrowe, buraki czerwone, marchew (dwuletnia), brukiew (dwuletnia), rzepa, topinambur (jednoroczny, jary).",
+        "Trawy są głównym źródłem pasz dla przeżuwaczy; właściwie użytkowane dają plon wielokrotnie w roku (inne rośliny pastewne zwykle jeden).",
+        "Trawy poprawiają właściwości gleby i nie komplikują zmianowania – użytkowanie krótkotrwałe (1–2 lata).",
+        "Najczęściej uprawiane trawy: kupkówka pospolita, życica (wielokwiatowa – jednoroczna ozima, trwała, westerwoldzka – jednoroczna jara), tymotka łąkowa, rajgras wyniosły, stokłosa (bezostna, uniolowata), kostrzewa łąkowa.",
+        "Inne rośliny pastewne: kapusta pastewna (dwuletnia), słonecznik, rzepak ozimy, rzepik ozimy, gorczyca biała, rzodkiew oleista, facelia błękitna, malwa pastewna, żywokost lekarski (wieloletni), gryka zwyczajna.",
+        "Trwałość zbóż: jęczmień – gatunki jednoroczne lub trwałe, odmiany jare lub ozime; żyto, pszenica i pszenżyto – odmiany jare i ozime; proso – jednoroczne jare.",
+        "Buraki czerwone i rzepa – jednoroczne lub dwuletnie.",
+        "Trawy wykorzystywane w żywieniu to przeważnie rośliny wieloletnie (z kilkoma wyjątkami).",
+        "Trwałość innych roślin pastewnych: słonecznik – jednoroczny jary; rzepak ozimy, rzepik ozimy, rzodkiew oleista – jednoroczne lub dwuletnie; gorczyca biała, facelia błękitna, malwa pastewna, gryka zwyczajna – jednoroczne."
+      ],
+      "images": [
+        {
+          "src": "img/tpc3/zboza-klosy.jpg",
+          "caption": "Zboża – od lewej: pszenica (kłos), owies (wiecha), jęczmień (kłos z długimi ośćmi)."
+        }
+      ]
+    },
+    {
+      "heading": "1. Skład chemiczny, wartość pokarmowa, strawność",
+      "points": [
+        "Skład chemiczny roślin zależy od gatunku, klimatu, rodzaju i żyzności gleby, nawożenia mineralnego i terminu zbioru.",
+        "Im starsza roślina, tym więcej włókna surowego i gorsza strawność – włókno ogranicza dostęp enzymów do wnętrza komórki.",
+        "Wartość pokarmowa – zdolność paszy do pokrywania zapotrzebowania na składniki odżywcze; wyraża się na jednostkę paszy o ustalonej wilgotności lub suchej masy; nie ma jednego miernika.",
+        "Strawność zależy od zwierzęcia: gatunek, rasa, wiek, płeć, stan fizjologiczny, stan zdrowia, intensywność pracy, temperatura otoczenia.",
+        "Strawność zależy od paszy: rodzaj i skład chemiczny, skład dawki, poziom żywienia (większa dawka – szybszy pasaż, krótsze działanie enzymów), sposób przygotowania, temperatura.",
+        "Mielenie ziaren jest wskazane dla trzody, ale niekorzystne dla przeżuwaczy.",
+        "Temperatura inaktywuje niektóre związki antyżywieniowe, podgrzewanie zwiększa strawność skrobi ziemniaków; nadmiar ciepła uszkadza białka.",
+        "Wartość pokarmowa zależy od zawartości białka, tłuszczu, włókna, cukrów, skrobi, aminokwasów, kwasów tłuszczowych, składników mineralnych, witamin i energii.",
+        "Na strawność wpływa skład dawki – proporcja pasz treściwych i objętościowych oraz stosunek poszczególnych substancji; nadmierna temperatura sprzyja tworzeniu niestrawnych kompleksów."
+      ]
+    },
+    {
+      "heading": "2. Kiszenie",
+      "points": [
+        "Pasze konserwuje się metodą suszenia lub kiszenia.",
+        "Kiszenie – zakwaszanie masy paszowej kwasem mlekowym wytwarzanym przez bakterie Lactobacillus, Pediococcus, Leuconostoc.",
+        "Etapy: rozdrobnienie, transport do zbiorników lub pryzm, ugniatanie, przykrycie i obciążenie (ograniczenie dostępu tlenu).",
+        "Kiszenie umożliwia dłuższe przechowywanie w warunkach beztlenowych i unieczynnia bakterie, grzyby i enzymy roślinne rozkładające białko.",
+        "Na prawidłowy proces wpływa skład paszy, warunki beztlenowe, temperatura i stopień rozdrobnienia surowca (wpływa też na ilość niedojadów).",
+        "Kiszenie obniża pH pasz zielonych dzięki kwasowi mlekowemu.",
+        "Kiszonka zawiera łatwostrawny kwas mlekowy.",
+        "W fermentacji powstaje łatwo strawny kwas mlekowy i inne kwasy z cukrów; kiszenie unieczynnia też enzymy wytwarzające niepożądane substancje.",
+        "Przebieg i czas fermentacji wpływają na produkt końcowy; rozdrobnienie przed zakiszeniem poprawia trawienie składników pokarmowych."
+      ],
+      "images": [
+        {
+          "src": "img/tpc3/kiszonka-baloty.jpg",
+          "caption": "Kiszonka w belach owiniętych folią – kiszenie przebiega w warunkach beztlenowych; masę zakwasza kwas mlekowy wytwarzany przez bakterie Lactobacillus, Pediococcus, Leuconostoc."
+        }
+      ]
+    },
+    {
+      "heading": "2. Suszenie",
+      "points": [
+        "Szybkość schnięcia zależy od wymiarów i ułożenia pokosu, działania walców zgniatających (obłamywanie listków zwiększa straty) i wielkości powierzchni schnącej.",
+        "Suszenie na ziemi (pokosach): roztrząsanie, odwracanie, zwijanie w wałki lub kopki na 1–2 dni; przy wilgotnym powietrzu dosuszanie 3–6 dni.",
+        "Całe suszenie na ziemi trwa ok. 4–6 dni, przy gorszej pogodzie do 10 dni.",
+        "Suszenie na suszarkach (rusztowaniach): zielonka podsuszona do 35–50% wilgotności; trwa 10–15 dni, mniejsze straty mechaniczne i ryzyko zepsucia, przewaga podczas niepogody.",
+        "Dosuszanie z aktywną wentylacją: zielonka 1–2 dni na ziemi, przy wilgotności 40–45% zgrabiana w wałki i zwożona; nawiew wentylatorem przez 24–28 lub 48 godzin.",
+        "Siano suszy się na trzy sposoby: na ziemi (pokosach), na suszarkach (rusztowaniach) lub z dosuszaniem aktywną wentylacją.",
+        "Suszenie na ziemi: wałki się odwraca, a kopki rozrzuca, by przed wieczorem poskładać je w większe skupiska.",
+        "Na suszarkach nie trzeba przetrząsać siana, a deszcz spływa tylko po powierzchniowej warstwie.",
+        "Aktywna wentylacja: wentylator przedmuchuje powietrze przez kanały rozprowadzające je pod całą powierzchnią materiału; w miarę spadku wilgotności można robić przerwy w pracy wentylatora; dosuszanie stosuje się przy niesprzyjającej pogodzie lub by zapobiec przegrzaniu siana.",
+        "Suszenie na ziemi krok po kroku: dzień 1 – roztrząsanie po polu, dzień 2 – odwracanie, dzień 3 – zwijanie w wałki lub kopki, pozostawione 1–2 dni do doschnięcia.",
+        "Suszenie na suszarkach przy ładnej pogodzie sprawdza się gorzej, bo wymaga większego nakładu pracy.",
+        "Istnieją różne rodzaje urządzeń dosuszających."
+      ],
+      "images": [
+        {
+          "src": "img/tpc3/suszenie-na-suszarkach.jpg",
+          "caption": "Suszenie na suszarkach (rusztowaniach): zielonka podsuszona do 35–50% wilgotności; trwa 10–15 dni, ale ryzyko zepsucia siana jest mniejsze – mniejsze straty mechaniczne i od wymywania, deszcz spływa tylko po wierzchniej warstwie. Dla porównania suszenie na ziemi (pokosach): 4–6 dni, do 10 przy gorszej pogodzie."
+        },
+        {
+          "src": "img/tpc3/dosuszanie-aktywna-wentylacja-v2.jpg",
+          "caption": "Dosuszanie z użyciem aktywnej wentylacji: zielonka 1–2 dni na ziemi; przy wilgotności 40–45% zgrabia się ją w wałki i układa w stogi lub zwozi do pomieszczeń; wentylator przedmuchuje powietrze kanałami rozprowadzającymi je pod całą powierzchnią suszonego materiału."
+        },
+        {
+          "src": "img/tpc3/sposoby-suszenia-schemat.jpg",
+          "caption": "Szybkość schnięcia zależy od wymiarów i ułożenia pokosu, działania walców zgniatających (obłamywanie listków zwiększa straty siana) i wielkości powierzchni schnącej. Sposoby suszenia: na ziemi, na suszarkach, z użyciem aktywnej wentylacji."
+        }
+      ]
+    },
+    {
+      "heading": "3. Przechowywanie pasz – zasady ogólne",
+      "points": [
+        "Sposób przechowywania zależy głównie od zawartości wody (gnicie, rozwój bakterii i grzybów).",
+        "Podczas magazynowania składniki pokarmowe stopniowo się rozkładają; właściwe warunki minimalizują straty.",
+        "Pasze zielone – jako kiszonki lub siano; okopowe – w kopcach; ziarno i nasiona strączkowe oraz pasze przemysłowe – w magazynach lub silosach.",
+        "Należy przechowywać pasze w niskiej temperaturze i wilgotności; nowa technologia – przechowywanie w atmosferze CO2 w hermetycznych silosach.",
+        "Właściwe przechowywanie zmniejsza ryzyko zanieczyszczeń mikrobiologicznych i chemicznych; należy przestrzegać zasad BHP, by zapobiegać rozwojowi drobnoustrojów i roztoczy."
+      ]
+    },
+    {
+      "heading": "3. Przechowywanie pasz zielonych i okopowych",
+      "points": [
+        "Siano po suszeniu ma wilgotność 18%; przechowuje się je w stodole lub stercie, w pomieszczeniach suchych i zaciemnionych (słońce niszczy karoten).",
+        "Im dłuższe przechowywanie siana, tym mniej karotenu i większa strata składników organicznych (zwłaszcza białka).",
+        "Susz z suszarni ma ok. 10% wody; przechowuje się go w postaci sypkiej lub granulowanej.",
+        "Okopowe po wykopaniu nadal oddychają, wytwarzając CO2 i ciepło – trzeba zapobiec zagrzaniu.",
+        "Kopce na ziemniaki: szerokość 0,8–2 m, przykrycie słomą i ziemią, wierzchołek początkowo tylko słoma (odparowanie wilgoci); przy mrozach wieniec ochronny i druga warstwa izolacyjna.",
+        "Temperatura w kopcu: nie poniżej 4°C i nie powyżej 11°C – w cieplejszych warunkach ziemniaki kiełkują i gniją.",
+        "Kopce zwykle znajdują się na powierzchni ziemi; na wiosnę odkrywa się je dopiero podczas wybierania ziemniaków."
+      ]
+    },
+    {
+      "heading": "3. Przechowywanie ziarna i pasz przemysłowych",
+      "points": [
+        "Ziarno i nasiona strączkowych suszy się do zawartości wody nieprzekraczającej 14%; czystość botaniczna nie niższa niż 95%.",
+        "Ziarno chroni się przed wilgocią, ciepłem i światłem; magazyn przed napełnieniem oczyszcza się, deratyzuje, dezynsekuje i dezynfekuje.",
+        "Magazyny muszą umożliwiać przemieszczanie i przewietrzanie ziarna; w silosach ziarno się przesypuje, w magazynach płaskich – sypie cienkimi warstwami.",
+        "Długość przechowywania pasz przemysłowych zależy od zawartości wody – im więcej, tym krócej.",
+        "Termin ważności pasz przemysłowych zazwyczaj wynosi 6 miesięcy od daty produkcji.",
+        "Pasze w workach (premiksy, koncentraty, mieszanki) układa się na paletach drewnianych w oddzielnych sektorach magazynu.",
+        "Przed przechowaniem ziarno trzeba oczyścić (wymagana czystość ≥95%); deratyzacja i dezynsekcja eliminują szkodniki zbożowe i gryzonie.",
+        "Magazyny wieżowe i płaskie muszą umożliwiać przemieszczanie i przewietrzanie ziarna – inaczej grozi zagrzanie i pleśnienie; w silosach przesypywanie zapobiega też skraplaniu wody na ścianach.",
+        "Wilgotność i temperatura otoczenia mają duży wpływ na straty składników pokarmowych podczas przechowywania.",
+        "Pasze przemysłowe przechowuje się w zbiornikach wieżowych z betonu, metalu lub tworzywa albo w pomieszczeniach płaskich wielopoziomowych; ważne: wentylacja, okresowe czyszczenie, likwidacja szkodników, dezynfekcja magazynów i podajników.",
+        "Instrukcje i termin ważności producenci podają na opakowaniu; worki są jutowe lub papierowe, a układanie na paletach ułatwia wietrzenie."
+      ],
+      "images": [
+        {
+          "src": "img/tpc3/silosy-zbozowe.jpg",
+          "caption": "Silosy zbożowe – ziarno i nasiona strączkowe po wysuszeniu składuje się w magazynach lub silosach, podobnie pasze przemysłowe; nowa technologia: przechowywanie w atmosferze CO₂ w hermetycznych silosach."
+        }
+      ]
+    },
+    {
+      "heading": "4. Przygotowanie pasz – cele i metody",
+      "points": [
+        "Cele: zmiana struktury, obniżenie wilgotności, ułatwienie i zwiększenie pobrania, mniejszy wysiłek żucia, lepsza strawność, mniej składników szkodliwych, mniejsze skażenie mikrobiologiczne.",
+        "Metody fizyczne: rozdrabnianie (śrutowanie, mielenie), zwilżanie, moczenie, zaparzanie, prażenie, gotowanie, ługowanie wodą, ogrzewanie (parowanie), oczyszczanie, mieszanie.",
+        "Metody chemiczne: zaprawianie ługiem, wapnowanie, amoniakowanie i mocznikowanie.",
+        "Metody biologiczne: kiełkowanie, słodowanie, drożdżowanie.",
+        "Zmiana struktury paszy pozwala lepiej wykorzystać przestrzeń magazynową; obniżenie wilgotności poprawia warunki przechowywania; poprawa smaku i właściwości dietetycznych zwiększa pobranie."
+      ]
+    },
+    {
+      "heading": "4. Rozdrabnianie, zwilżanie, moczenie",
+      "points": [
+        "Dla trzody zielonka w postaci sieczki 3 cm; okopowe zawsze posiekane; ziarno i strączkowe gniecione lub śrutowane; pasza drobna, ale nie pylista (słabe uzębienie świń).",
+        "Dla bydła i koni słoma lub siano w postaci sieczki 2–2,5 cm; sieczka z zielonki dla bydła 3–5 cm.",
+        "Zwilżanie zapobiega pyleniu pasz sypkich i podrażnieniu dróg oddechowych; świnie chętniej jedzą pasze mokre.",
+        "Moczenie stosuje się przy paszach silnie pęczniejących (wysłodki, słodziny, niektóre ziarna i nasiona) – największe znaczenie u koni (brak odruchu wymiotnego, mały żołądek).",
+        "Czas moczenia: żyto i nasiona strączkowych – 24 godziny, słodziny i wysłodki – 12–16 godzin.",
+        "Rozdrabnianie ułatwia pobieranie i żucie, ogranicza straty z rozrzucania paszy, umożliwia dokładniejsze mieszanie surowców.",
+        "Parowane ziemniaki dla świń podaje się posiekane lub gniecione; dla koni z sieczki i ziarna sporządza się obrok; okopowe dla bydła też posiekane, ziarno i strączkowe – jak dla trzody.",
+        "Pasze silnie pęczniejące zwiększają objętość w żołądku i mogą powodować wzdęcia; moczy się je w zimnej lub ciepłej wodzie."
+      ]
+    },
+    {
+      "heading": "4. Zaparzanie, prażenie, parowanie, gotowanie, kleikowanie",
+      "points": [
+        "Zaparzanie zmiękcza paszę i niszczy drobnoustroje; najważniejsze przy plewach (pył, zarodniki grzybów wywołujących promienicę); 2–3 godziny przed skarmieniem.",
+        "Prażenie niszczy drobnoustroje, usuwa zapach stęchlizny, zwiększa strawność skrobi; ważne w żywieniu prosiąt (prażony jęczmień).",
+        "Parowanie poprawia smak i strawność, usuwa substancje antyodżywcze; zasadnicze przy ziemniakach dla trzody.",
+        "Gotowanie – pasze dietetyczne dla zwierząt chorych, słabych, młodych; pójło dla koni.",
+        "Kleikowanie – drobną śrutę zalewa się wrzątkiem na kilka godzin, miesza i odcedza przez sito (przy mące sito zbędne); dla zwierząt chorych i bardzo młodych.",
+        "Zaparzanie niszczy też szkodniki, ułatwia pobieranie i połykanie; pył i kurz w plewach to źródło bakterii, zarodników rdzy, pleśni i grzybów promienicy.",
+        "Prażenie usuwa też nieprzyjemny smak paszy."
+      ]
+    },
+    {
+      "heading": "4. Metody chemiczne (pasze słomiaste)",
+      "points": [
+        "Zaprawianie ługiem sodowym: strawność suchej masy słomy rośnie z 40% do 70%, wartość energetyczna wzrasta dwukrotnie; słomę można zbrykietować.",
+        "Wada ługowania – wysoki odczyn zasadowy, który może zaburzać fermentację w żwaczu.",
+        "Wapnowanie: mleko wapienne – 3 kg wapna palonego lub 9 kg gaszonego na 250–300 litrów wody; po 2–3 godzinach ponowne polanie, skarmianie po 24 godzinach.",
+        "Amoniakowanie i mocznikowanie – zmiękczają słomę, poprawiają smak i strawność, wzbogacają białko ogólne; woda amoniakalna, roztwór mocznika lub amoniak gazowy.",
+        "Brykietowanie słomy po ługowaniu poprawia jej pobranie i wykorzystanie.",
+        "Wapnowanie zwiększa wartość pokarmową i strawność; sieczkę moczy się w basenie w mleku wapiennym, ugniata, by usunąć roztwór, po 2–3 h ponownie polewa i zostawia na 24 h."
+      ]
+    },
+    {
+      "heading": "4. Metody biologiczne",
+      "points": [
+        "Kiełkowanie zwiększa zawartość witaminy E w zbożach; ziarno jęczmienia lub owsa moczy się 10 lub 24 godziny i rozkłada cienko na kiełkowniku.",
+        "Po ok. tygodniu kiełki mają 2–3 cm – ziarno podaje się młodym zwierzętom, maciorom i kurom nioskom.",
+        "Słodowanie – rzadko stosowane; dodatek ok. 2% słodu poprawia smakowitość.",
+        "Drożdżowanie wzbogaca paszę w białko i witaminy z grupy B; nadają się śruty zbożowe, słoma, otręby.",
+        "W skarmianiu paszy drożdżowanej należy robić przerwy 7–10 dni.",
+        "Kiełkownik stoi w ciepłym pomieszczeniu, a ziarno trzeba codziennie zwilżać.",
+        "Drożdżowanie poprawia też smakowitość – pasza jest chętnie pobierana."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Jarowizacja",
+      "back": "Okres niskich temperatur wymagany przez rośliny ozime w cyklu rozwojowym."
+    },
+    {
+      "front": "Kiedy wysiewa się rośliny ozime?",
+      "back": "Jesienią."
+    },
+    {
+      "front": "Motylkowe drobnonasienne – trwałość",
+      "back": "Z reguły wieloletnie (dłużej niż dwa lata)."
+    },
+    {
+      "front": "Wieloletnie motylkowe drobnonasienne (przykłady)",
+      "back": "Lucerna mieszańcowa, koniczyna biała, białoróżowa, inkarnatka, esparceta siewna, nostrzyk biały, przelot."
+    },
+    {
+      "front": "Koniczyna szkarłatna – inna nazwa",
+      "back": "Inkarnatka."
+    },
+    {
+      "front": "Koniczyna perska – trwałość",
+      "back": "Jednoroczna."
+    },
+    {
+      "front": "Koniczyna czerwona – trwałość",
+      "back": "Dwuletnia."
+    },
+    {
+      "front": "Motylkowe strączkowe paszowe",
+      "back": "Łubin żółty, wąskolistny, biały, bobik, peluszka, wyka jara i ozima, seradela."
+    },
+    {
+      "front": "Groch polny – inna nazwa",
+      "back": "Peluszka."
+    },
+    {
+      "front": "Która strączkowa jest wyjątkiem ozimym?",
+      "back": "Wyka ozima (kosmata)."
+    },
+    {
+      "front": "Marchew i brukiew – trwałość",
+      "back": "Dwuletnie."
+    },
+    {
+      "front": "Topinambur – trwałość",
+      "back": "Jednoroczny, jary."
+    },
+    {
+      "front": "Dlaczego trawy są wartościowe jako pasza?",
+      "back": "Dają plon wielokrotnie w roku, poprawiają glebę, nie komplikują zmianowania (użytkowanie 1–2 lata)."
+    },
+    {
+      "front": "Najczęściej uprawiane trawy",
+      "back": "Kupkówka pospolita, życice, tymotka łąkowa, rajgras wyniosły, stokłosy, kostrzewa łąkowa."
+    },
+    {
+      "front": "Życica wielokwiatowa – trwałość",
+      "back": "Jednoroczna ozima."
+    },
+    {
+      "front": "Życica westerwoldzka – trwałość",
+      "back": "Jednoroczna jara."
+    },
+    {
+      "front": "Żywokost lekarski – trwałość",
+      "back": "Wieloletni."
+    },
+    {
+      "front": "Od czego zależy skład chemiczny roślin paszowych?",
+      "back": "Od gatunku, klimatu, gleby, nawożenia mineralnego i terminu zbioru."
+    },
+    {
+      "front": "Wpływ wieku rośliny na strawność",
+      "back": "Im starsza roślina, tym więcej włókna i gorsza strawność."
+    },
+    {
+      "front": "Wartość pokarmowa paszy",
+      "back": "Zdolność do pokrywania zapotrzebowania na składniki odżywcze."
+    },
+    {
+      "front": "Czy istnieje jeden miernik wartości pokarmowej?",
+      "back": "Nie."
+    },
+    {
+      "front": "Czynniki zwierzęce wpływające na strawność",
+      "back": "Gatunek, rasa, wiek, płeć, stan fizjologiczny, zdrowie, intensywność pracy, temperatura otoczenia."
+    },
+    {
+      "front": "Wpływ poziomu żywienia na strawność",
+      "back": "Większa dawka – szybszy pasaż i krótsze działanie enzymów."
+    },
+    {
+      "front": "Mielenie ziarna – dla kogo wskazane, dla kogo nie?",
+      "back": "Wskazane dla trzody, niekorzystne dla przeżuwaczy."
+    },
+    {
+      "front": "Wpływ podgrzewania na ziemniaki",
+      "back": "Zwiększa strawność skrobi."
+    },
+    {
+      "front": "Dwie metody konserwacji pasz",
+      "back": "Suszenie i kiszenie."
+    },
+    {
+      "front": "Kiszenie – na czym polega?",
+      "back": "Na zakwaszaniu masy kwasem mlekowym wytwarzanym przez bakterie."
+    },
+    {
+      "front": "Bakterie fermentacji mlekowej w kiszeniu",
+      "back": "Lactobacillus, Pediococcus, Leuconostoc."
+    },
+    {
+      "front": "Po co ugniata się i przykrywa kiszonkę?",
+      "back": "By ograniczyć dostęp tlenu (warunki beztlenowe)."
+    },
+    {
+      "front": "Czynniki prawidłowego kiszenia",
+      "back": "Skład paszy, warunki beztlenowe, temperatura, stopień rozdrobnienia."
+    },
+    {
+      "front": "Od czego zależy szybkość schnięcia siana?",
+      "back": "Od wymiarów i ułożenia pokosu, walców zgniatających, wielkości powierzchni schnącej."
+    },
+    {
+      "front": "Czas suszenia siana na ziemi",
+      "back": "Ok. 4–6 dni, przy gorszej pogodzie do 10."
+    },
+    {
+      "front": "Wilgotność zielonki przy układaniu na suszarkach (rusztowaniach)",
+      "back": "35–50%."
+    },
+    {
+      "front": "Czas suszenia na suszarkach",
+      "back": "10–15 dni."
+    },
+    {
+      "front": "Zaleta suszenia na rusztowaniach",
+      "back": "Mniejsze straty mechaniczne i z wymywania, przewaga w niepogodę."
+    },
+    {
+      "front": "Wilgotność zielonki przy zgrabianiu do dosuszania wentylacją",
+      "back": "40–45%."
+    },
+    {
+      "front": "Czas pracy nawiewu przy dosuszaniu",
+      "back": "24–28 lub 48 godzin."
+    },
+    {
+      "front": "Wilgotność siana do przechowywania",
+      "back": "18%."
+    },
+    {
+      "front": "Dlaczego siano przechowuje się w zaciemnieniu?",
+      "back": "Promienie słoneczne niszczą karoten."
+    },
+    {
+      "front": "Zawartość wody w suszu z suszarni",
+      "back": "Ok. 10%."
+    },
+    {
+      "front": "Dlaczego okopowe mogą się zagrzać w kopcu?",
+      "back": "Nadal oddychają, wytwarzając CO2 i ciepło."
+    },
+    {
+      "front": "Szerokość kopca na ziemniaki",
+      "back": "0,8–2 m."
+    },
+    {
+      "front": "Temperatura przechowywania ziemniaków w kopcu",
+      "back": "Od 4°C do 11°C."
+    },
+    {
+      "front": "Co się dzieje z ziemniakami powyżej 11°C?",
+      "back": "Kiełkują i gniją."
+    },
+    {
+      "front": "Maksymalna wilgotność ziarna do przechowywania",
+      "back": "14%."
+    },
+    {
+      "front": "Minimalna czystość botaniczna ziarna do przechowywania",
+      "back": "95%."
+    },
+    {
+      "front": "Przygotowanie magazynu przed napełnieniem ziarnem",
+      "back": "Oczyszczenie, deratyzacja, dezynsekcja, dezynfekcja."
+    },
+    {
+      "front": "Jak przechowuje się ziarno w magazynach płaskich?",
+      "back": "Sypie cienkimi warstwami i przemieszcza."
+    },
+    {
+      "front": "Typowy termin ważności pasz przemysłowych",
+      "back": "6 miesięcy od daty produkcji."
+    },
+    {
+      "front": "Jak składuje się pasze w workach?",
+      "back": "Na paletach drewnianych w oddzielnych sektorach magazynu."
+    },
+    {
+      "front": "Nowa technologia przechowywania pasz",
+      "back": "Atmosfera CO2 w hermetycznych silosach."
+    },
+    {
+      "front": "Metody chemiczne przygotowania pasz",
+      "back": "Zaprawianie ługiem, wapnowanie, amoniakowanie i mocznikowanie."
+    },
+    {
+      "front": "Metody biologiczne przygotowania pasz",
+      "back": "Kiełkowanie, słodowanie, drożdżowanie."
+    },
+    {
+      "front": "Długość sieczki z zielonki dla trzody",
+      "back": "3 cm."
+    },
+    {
+      "front": "Długość sieczki ze słomy/siana dla bydła i koni",
+      "back": "2–2,5 cm."
+    },
+    {
+      "front": "Długość sieczki z zielonki dla bydła",
+      "back": "3–5 cm."
+    },
+    {
+      "front": "Dlaczego pasza dla świń powinna być drobna?",
+      "back": "Ze względu na słabe uzębienie (ale nie może być pylista)."
+    },
+    {
+      "front": "Cel zwilżania pasz",
+      "back": "Zapobiega pyleniu i podrażnieniu dróg oddechowych, ułatwia mieszanie."
+    },
+    {
+      "front": "Dlaczego moczenie pasz pęczniejących jest ważne u koni?",
+      "back": "Nie mają odruchu wymiotnego, mają stosunkowo mały żołądek."
+    },
+    {
+      "front": "Czas moczenia żyta i nasion strączkowych",
+      "back": "24 godziny."
+    },
+    {
+      "front": "Czas moczenia słodzin i wysłodków",
+      "back": "12–16 godzin."
+    },
+    {
+      "front": "Zaparzanie – kiedy najważniejsze i kiedy wykonywać?",
+      "back": "Przy plewach; 2–3 godziny przed skarmieniem."
+    },
+    {
+      "front": "Prażenie – zastosowanie",
+      "back": "Usuwa stęchliznę, niszczy drobnoustroje; ważne u prosiąt (prażony jęczmień)."
+    },
+    {
+      "front": "Parowanie – przy jakiej paszy zasadnicze?",
+      "back": "Przy ziemniakach dla trzody."
+    },
+    {
+      "front": "Pójło dla koni – jaka metoda?",
+      "back": "Gotowanie."
+    },
+    {
+      "front": "Kleikowanie",
+      "back": "Zalanie drobnej śruty wrzątkiem na kilka godzin i odcedzenie; dla chorych i bardzo młodych zwierząt."
+    },
+    {
+      "front": "Efekt ługowania słomy ługiem sodowym",
+      "back": "Strawność s.m. wzrasta z 40% do 70%, wartość energetyczna dwukrotnie."
+    },
+    {
+      "front": "Wada ługowania słomy",
+      "back": "Wysoki odczyn zasadowy – może zaburzać fermentację w żwaczu."
+    },
+    {
+      "front": "Roztwór do wapnowania słomy",
+      "back": "3 kg wapna palonego lub 9 kg gaszonego na 250–300 l wody."
+    },
+    {
+      "front": "Po jakim czasie skarmia się słomę wapnowaną?",
+      "back": "Po 24 godzinach."
+    },
+    {
+      "front": "Amoniakowanie i mocznikowanie – efekty",
+      "back": "Zmiękczenie słomy, lepszy smak i strawność, wzbogacenie w białko ogólne."
+    },
+    {
+      "front": "Kiełkowanie zwiększa zawartość której witaminy?",
+      "back": "Witaminy E."
+    },
+    {
+      "front": "Długość kiełków gotowych do skarmienia",
+      "back": "2–3 cm (po ok. tygodniu)."
+    },
+    {
+      "front": "Dodatek słodu przy słodowaniu",
+      "back": "Ok. 2%."
+    },
+    {
+      "front": "Drożdżowanie wzbogaca paszę w…",
+      "back": "Białko i witaminy z grupy B."
+    },
+    {
+      "front": "Przerwy w skarmianiu paszy drożdżowanej",
+      "back": "7–10 dni."
+    },
+    {
+      "front": "Trzy sposoby suszenia siana",
+      "back": "Na ziemi (pokosach), na suszarkach (rusztowaniach), dosuszanie aktywną wentylacją."
+    },
+    {
+      "front": "Kiedy stosuje się dosuszanie aktywną wentylacją?",
+      "back": "Przy niesprzyjającej pogodzie lub by zapobiec przegrzaniu siana."
+    },
+    {
+      "front": "Dlaczego suszenie na rusztowaniach sprawdza się w czasie deszczu?",
+      "back": "Woda spływa tylko po powierzchniowej warstwie; nie trzeba przetrząsać siana."
+    },
+    {
+      "front": "Rozpoznaj zboża na zdjęciu (od lewej).",
+      "back": "Pszenica (kłos), owies (wiecha), jęczmień (kłos z długimi ośćmi).",
+      "img": "img/tpc3/zboza-klosy.jpg"
+    },
+    {
+      "front": "Jaką metodę suszenia siana przedstawia zdjęcie?",
+      "back": "Suszenie na suszarkach (rusztowaniach) – zielonka podsuszona do 35–50% wilgotności, proces 10–15 dni, mniejsze ryzyko zepsucia niż przy suszeniu na ziemi.",
+      "img": "img/tpc3/suszenie-na-suszarkach.jpg"
+    },
+    {
+      "front": "Od zawartości czego zależy wartość pokarmowa paszy?",
+      "back": "Białka, tłuszczu, włókna, cukrów, skrobi, aminokwasów, kwasów tłuszczowych, składników mineralnych, witamin i energii."
+    },
+    {
+      "front": "Suszenie siana na ziemi – kolejne czynności",
+      "back": "Roztrząsanie skoszonej masy → następnego dnia odwracanie → kolejnego dnia zwijanie w wałki lub kopki na 1–2 dni (wałki się odwraca, kopki rozrzuca i przed wieczorem składa w większe skupiska)."
+    },
+    {
+      "front": "Wada suszenia na rusztowaniach przy ładnej pogodzie",
+      "back": "Wymaga większego nakładu pracy."
+    },
+    {
+      "front": "Co grozi, gdy ziarno w magazynie nie jest przemieszczane/przewietrzane?",
+      "back": "Zagrzanie i pleśnienie (a w silosach skraplanie wody na ścianach)."
+    },
+    {
+      "front": "Cele rozdrabniania pasz",
+      "back": "Ułatwia pobieranie i żucie, ogranicza straty z rozrzucania, umożliwia dokładniejsze wymieszanie surowców."
+    },
+    {
+      "front": "Dlaczego pasze silnie pęczniejące się moczy?",
+      "back": "Mogą zwiększyć objętość w żołądku i powodować wzdęcia (szczególnie groźne u koni)."
+    },
+    {
+      "front": "Trwałość: słonecznik, gorczyca biała, facelia, malwa, gryka",
+      "back": "Słonecznik – jednoroczny jary; gorczyca biała, facelia błękitna, malwa pastewna, gryka – jednoroczne."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Rośliny wymagające do prawidłowego rozwoju okresu niskich temperatur (jarowizacji) to rośliny:",
+      "options": [
+        "jare",
+        "wieloletnie",
+        "ozime",
+        "okopowe"
+      ],
+      "answer": 2,
+      "explain": "Ozime wymagają w cyklu rozwojowym okresu zimnych temperatur (jarowizacji)."
+    },
+    {
+      "q": "Koniczyna szkarłatna nazywana jest również:",
+      "options": [
+        "inkarnatką",
+        "komonicą",
+        "esparcetą",
+        "przelotem"
+      ],
+      "answer": 0,
+      "explain": "Koniczyna szkarłatna to inaczej inkarnatka."
+    },
+    {
+      "q": "Koniczyna czerwona jest rośliną:",
+      "options": [
+        "jednoroczną",
+        "wieloletnią",
+        "jednoroczną jarą",
+        "dwuletnią"
+      ],
+      "answer": 3,
+      "explain": "Koniczyna czerwona zaliczana jest do roślin dwuletnich."
+    },
+    {
+      "q": "Do motylkowych strączkowych należy:",
+      "options": [
+        "lucerna mieszańcowa",
+        "bobik",
+        "nostrzyk biały",
+        "esparceta siewna"
+      ],
+      "answer": 1,
+      "explain": "Bobik należy do roślin motylkowych strączkowych."
+    },
+    {
+      "q": "Życica westerwoldzka jest rośliną:",
+      "options": [
+        "wieloletnią",
+        "jednoroczną ozimą",
+        "jednoroczną jarą",
+        "dwuletnią"
+      ],
+      "answer": 2,
+      "explain": "Życica westerwoldzka jest jednoroczna jara."
+    },
+    {
+      "q": "Trawy nie komplikują zmianowania, ponieważ ich użytkowanie trwa krótko, tj.:",
+      "options": [
+        "1–2 lata",
+        "5–6 lat",
+        "10 lat",
+        "jeden miesiąc"
+      ],
+      "answer": 0,
+      "explain": "Trawy mają krótkotrwałe (1–2 lata) użytkowanie."
+    },
+    {
+      "q": "Wraz ze starzeniem się rośliny strawność paszy:",
+      "options": [
+        "rośnie",
+        "nie zmienia się",
+        "rośnie, bo spada zawartość włókna",
+        "maleje, bo rośnie zawartość włókna"
+      ],
+      "answer": 3,
+      "explain": "Im starsza roślina, tym więcej włókna surowego i gorsza strawność."
+    },
+    {
+      "q": "Mielenie ziarna jest wskazane w żywieniu:",
+      "options": [
+        "bydła",
+        "trzody chlewnej",
+        "owiec",
+        "kóz"
+      ],
+      "answer": 1,
+      "explain": "Mielenie ziaren jest wskazane dla trzody, niekorzystne dla przeżuwaczy."
+    },
+    {
+      "q": "Podgrzewanie ziemniaków zwiększa strawność:",
+      "options": [
+        "włókna",
+        "tłuszczu",
+        "skrobi",
+        "ligniny"
+      ],
+      "answer": 2,
+      "explain": "Podgrzewanie zwiększa strawność skrobi w ziemniakach."
+    },
+    {
+      "q": "Kiszenie polega na zakwaszeniu masy paszowej kwasem:",
+      "options": [
+        "mlekowym",
+        "octowym",
+        "masłowym",
+        "solnym"
+      ],
+      "answer": 0,
+      "explain": "Kiszenie polega na zakwaszaniu masy kwasem mlekowym wytwarzanym przez bakterie."
+    },
+    {
+      "q": "Do bakterii fermentacji mlekowej zaangażowanych w kiszenie należy:",
+      "options": [
+        "Clostridium",
+        "Salmonella",
+        "Escherichia",
+        "Lactobacillus"
+      ],
+      "answer": 3,
+      "explain": "Kwas mlekowy wytwarzają bakterie Lactobacillus, Pediococcus, Leuconostoc."
+    },
+    {
+      "q": "Ugniatanie i przykrywanie masy kiszonkowej ma na celu:",
+      "options": [
+        "przyspieszenie suszenia",
+        "ograniczenie dostępu tlenu",
+        "zwiększenie dostępu powietrza",
+        "podniesienie pH"
+      ],
+      "answer": 1,
+      "explain": "Masę ugniata się, przykrywa i obciąża, by ograniczyć dostęp tlenu."
+    },
+    {
+      "q": "Suszenie siana na ziemi trwa przy dobrej pogodzie ok.:",
+      "options": [
+        "1 dzień",
+        "10–15 dni",
+        "4–6 dni",
+        "3 tygodnie"
+      ],
+      "answer": 2,
+      "explain": "Proces suszenia na ziemi powinien trwać ok. 4–6 dni, przy gorszej pogodzie do 10."
+    },
+    {
+      "q": "Na suszarki (rusztowania) układa się zielonkę podsuszoną do wilgotności:",
+      "options": [
+        "35–50%",
+        "10–15%",
+        "70–80%",
+        "18%"
+      ],
+      "answer": 0,
+      "explain": "Zielonka podsuszona do 35–50% wilgotności rozkładana jest na suszarkach."
+    },
+    {
+      "q": "Suszenie siana na suszarkach trwa:",
+      "options": [
+        "2–3 dni",
+        "4–6 dni",
+        "30 dni",
+        "10–15 dni"
+      ],
+      "answer": 3,
+      "explain": "Suszenie na suszarkach trwa 10–15 dni, ale ryzyko zepsucia jest mniejsze."
+    },
+    {
+      "q": "Przy dosuszaniu aktywną wentylacją zielonkę zgrabia się w wałki przy wilgotności:",
+      "options": [
+        "60–70%",
+        "40–45%",
+        "14%",
+        "10%"
+      ],
+      "answer": 1,
+      "explain": "Gdy wilgotność spadnie do 40–45%, zielonkę zgrabia się w wałki."
+    },
+    {
+      "q": "Siano przeznaczone do przechowywania ma wilgotność:",
+      "options": [
+        "35%",
+        "45%",
+        "18%",
+        "8%"
+      ],
+      "answer": 2,
+      "explain": "Suszenie pozwala otrzymać siano o wilgotności 18%."
+    },
+    {
+      "q": "Siano przechowuje się w pomieszczeniach zaciemnionych, ponieważ promienie słoneczne niszczą:",
+      "options": [
+        "karoten",
+        "włókno",
+        "skrobię",
+        "wapń"
+      ],
+      "answer": 0,
+      "explain": "Promienie słoneczne niszczą karoten w sianie."
+    },
+    {
+      "q": "Susz otrzymywany w suszarniach zawiera wody ok.:",
+      "options": [
+        "18%",
+        "30%",
+        "50%",
+        "10%"
+      ],
+      "answer": 3,
+      "explain": "W suszarniach otrzymuje się susz o zawartości wody ok. 10%."
+    },
+    {
+      "q": "Kopiec do przechowywania ziemniaków powinien mieć szerokość:",
+      "options": [
+        "3–5 m",
+        "0,8–2 m",
+        "0,2–0,4 m",
+        "6–8 m"
+      ],
+      "answer": 1,
+      "explain": "Kopce powinny mieć szerokość 0,8–2 m."
+    },
+    {
+      "q": "Temperatura w kopcu z ziemniakami powinna wynosić:",
+      "options": [
+        "0–2°C",
+        "12–18°C",
+        "4–11°C",
+        "20–25°C"
+      ],
+      "answer": 2,
+      "explain": "Temperatura w kopcach nie powinna spaść poniżej 4°C i przekroczyć 11°C."
+    },
+    {
+      "q": "Ziarno przeznaczone do przechowywania powinno mieć wilgotność nie wyższą niż:",
+      "options": [
+        "14%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "answer": 0,
+      "explain": "Ziarno i nasiona strączkowych suszy się do zawartości wody nieprzekraczającej 14%."
+    },
+    {
+      "q": "Czystość botaniczna ziarna do przechowywania nie może być niższa niż:",
+      "options": [
+        "80%",
+        "85%",
+        "70%",
+        "95%"
+      ],
+      "answer": 3,
+      "explain": "Czystość botaniczna ziarna nie może być niższa niż 95%."
+    },
+    {
+      "q": "Termin ważności pasz przemysłowych wynosi zazwyczaj:",
+      "options": [
+        "1 miesiąc",
+        "6 miesięcy od daty produkcji",
+        "2 lata",
+        "5 lat"
+      ],
+      "answer": 1,
+      "explain": "Termin ważności pasz przemysłowych zazwyczaj wynosi 6 miesięcy od daty produkcji."
+    },
+    {
+      "q": "Pasze w workach (premiksy, koncentraty) należy przechowywać:",
+      "options": [
+        "bezpośrednio na posadzce",
+        "na zewnątrz pod folią",
+        "na paletach drewnianych w oddzielnych sektorach",
+        "w kopcach"
+      ],
+      "answer": 2,
+      "explain": "Worki z paszami układa się na paletach drewnianych w oddzielnych sektorach magazynu."
+    },
+    {
+      "q": "Do biologicznych metod przygotowania pasz należy:",
+      "options": [
+        "drożdżowanie",
+        "wapnowanie",
+        "prażenie",
+        "amoniakowanie"
+      ],
+      "answer": 0,
+      "explain": "Metody biologiczne to kiełkowanie, słodowanie i drożdżowanie."
+    },
+    {
+      "q": "Do chemicznych metod przygotowania pasz należy:",
+      "options": [
+        "kiełkowanie",
+        "zaparzanie",
+        "śrutowanie",
+        "mocznikowanie"
+      ],
+      "answer": 3,
+      "explain": "Metody chemiczne to zaprawianie ługiem, wapnowanie, amoniakowanie i mocznikowanie."
+    },
+    {
+      "q": "Zielonkę dla trzody podaje się w postaci sieczki o długości:",
+      "options": [
+        "10 cm",
+        "3 cm",
+        "0,5 cm",
+        "15 cm"
+      ],
+      "answer": 1,
+      "explain": "Dla trzody zielonka najlepsza jest w postaci sieczki o długości 3 cm."
+    },
+    {
+      "q": "Sieczka ze słomy lub siana dla bydła i koni powinna mieć długość:",
+      "options": [
+        "8–10 cm",
+        "0,5 cm",
+        "2–2,5 cm",
+        "15–20 cm"
+      ],
+      "answer": 2,
+      "explain": "Dla bydła i koni słoma lub siano powinny być w postaci sieczki 2–2,5 cm."
+    },
+    {
+      "q": "Moczenie pasz silnie pęczniejących ma największe znaczenie w żywieniu:",
+      "options": [
+        "koni",
+        "kur",
+        "kotów",
+        "owiec"
+      ],
+      "answer": 0,
+      "explain": "Konie nie mają odruchu wymiotnego przy stosunkowo małym żołądku."
+    },
+    {
+      "q": "Wysłodki i słodziny moczy się przez:",
+      "options": [
+        "1 godzinę",
+        "48 godzin",
+        "7 dni",
+        "12–16 godzin"
+      ],
+      "answer": 3,
+      "explain": "Słodziny i wysłodki moczy się 12–16 godzin."
+    },
+    {
+      "q": "Zaparzanie plew przeprowadza się:",
+      "options": [
+        "tydzień przed skarmieniem",
+        "2–3 godziny przed skarmieniem",
+        "bezpośrednio po omłocie",
+        "24 godziny po skarmieniu"
+      ],
+      "answer": 1,
+      "explain": "Zaparzanie przeprowadza się 2–3 godziny przed skarmieniem."
+    },
+    {
+      "q": "Parowanie ma zasadnicze znaczenie przy skarmianiu trzody:",
+      "options": [
+        "owsem",
+        "sianem",
+        "ziemniakami",
+        "słomą"
+      ],
+      "answer": 2,
+      "explain": "Parowanie ma zasadnicze znaczenie przy stosowaniu ziemniaków w żywieniu trzody."
+    },
+    {
+      "q": "Zaprawianie słomy ługiem sodowym zwiększa strawność suchej masy:",
+      "options": [
+        "z 40% do 70%",
+        "z 10% do 20%",
+        "z 70% do 90%",
+        "z 20% do 30%"
+      ],
+      "answer": 0,
+      "explain": "Po ługowaniu strawność suchej masy rośnie z 40% do 70%."
+    },
+    {
+      "q": "Wadą ługowania słomy jest:",
+      "options": [
+        "spadek strawności",
+        "niski odczyn kwaśny",
+        "utrata witaminy C",
+        "wysoki odczyn zasadowy"
+      ],
+      "answer": 3,
+      "explain": "Wysoki odczyn zasadowy może zaburzać fermentację w żwaczu."
+    },
+    {
+      "q": "Do wapnowania słomy przygotowuje się roztwór 3 kg wapna palonego na:",
+      "options": [
+        "10 l wody",
+        "250–300 l wody",
+        "50 l wody",
+        "1000 l wody"
+      ],
+      "answer": 1,
+      "explain": "Roztwór: 3 kg wapna palonego lub 9 kg gaszonego na 250–300 litrów wody."
+    },
+    {
+      "q": "Kiełkowanie ziarna zwiększa w nim zawartość witaminy:",
+      "options": [
+        "D",
+        "K",
+        "E",
+        "B12"
+      ],
+      "answer": 2,
+      "explain": "Kiełkowanie zwiększa zawartość witaminy E w zbożach."
+    },
+    {
+      "q": "W skarmianiu paszy drożdżowanej należy robić przerwy trwające:",
+      "options": [
+        "7–10 dni",
+        "1 dzień",
+        "30 dni",
+        "3 miesiące"
+      ],
+      "answer": 0,
+      "explain": "W skarmianiu paszy drożdżowanej należy robić przerwy 7–10 dni."
+    },
+    {
+      "q": "Dosuszanie siana aktywną wentylacją stosuje się m.in. w celu:",
+      "options": [
+        "zwiększenia zawartości karotenu",
+        "zapobiegania przegrzaniu się siana",
+        "zakiszenia masy",
+        "zwiększenia wilgotności siana"
+      ],
+      "answer": 1,
+      "explain": "Dosuszanie wentylacją stosuje się przy niesprzyjającej pogodzie lub by zapobiec przegrzaniu siana."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Która z wymienionych roślin wykorzystywanych w żywieniu zwierząt zalicza się do dwuletnich?",
+      "options": [
+        "Koniczyna zwyczajna.",
+        "Koniczyna czerwona.",
+        "Koniczyna biała.",
+        "Inkarnatka."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOdmiany … roślin wymagają w cyklu rozwojowym okresu zimnych temperatur, by prawidłowo kwitły i owocowały.",
+      "options": [
+        "ozime",
+        "jare"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Właściwe warunki przechowywania pasz mają zapobiegać rozwojowi szkodliwych bakterii i grzybów, chronić paszę przed dostępem szkodników i umożliwiać jej wykorzystanie w dowolnym momencie bez ryzyka szkodliwego wpływu na zdrowie zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do najczęściej uprawianych traw jednorocznych, wykorzystywanych w żywieniu zwierząt należą:",
+      "options": [
+        "życica wielokwiatowa.",
+        "życica westerwoldzka.",
+        "kupkówka pospolita.",
+        "życica trwała."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUprawa traw … wartości glebowe.",
+      "options": [
+        "pogarsza",
+        "poprawia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWszystkie zabiegi przygotowywania pasz przed podaniem służą zwiększaniu wydajności żywienia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką długość powinna mieć sieczka z zielonki dla bydła?",
+      "options": [
+        "2–3 cm.",
+        "5–7 cm.",
+        "3–5 cm.",
+        "1–2 cm."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWyka jara i ozima należą do roślin motylkowych ….",
+      "options": [
+        "strączkowych",
+        "drobnonasiennych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica orkisz, proso i sorgo to zboża, których nie używa się w żywieniu zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych traw wieloletnich są najczęściej uprawiane w celu wykorzystania w żywieniu zwierząt?",
+      "options": [
+        "Tymotka łąkowa.",
+        "Kłosownica pierzasta.",
+        "Stokłosa bezostna i uniolowata.",
+        "Rajgras wyniosły.",
+        "Kostrzewa łąkowa.",
+        "Kupkówka pospolita."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nIm dłuższe przechowywanie pasz zielonych, tym większa strata składników organicznych, zwłaszcza ….",
+      "options": [
+        "białka",
+        "tłuszczu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMoczenie stosuje się przy silnie pęczniejących paszach, aby zapobiegać zwiększaniu objętości paszy w żołądku i unikać wzdęć.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "W jakiej postaci najlepiej jest podawać zielonkę trzodzie?",
+      "options": [
+        "W postaci sieczki o długości 3cm.",
+        "W postaci sieczki o długości 1cm.",
+        "W postaci kleiku.",
+        "W postaci sieczki o długości 5cm."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. … jest to zdolność do pokrywania zapotrzebowania na składniki odżywcze.",
+      "options": [
+        "Strawność",
+        "Wartość pokarmowa"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWpływ na prawidłowy proces fermentacji ma skład paszy, warunki beztlenowe, temperatura, znaczenia nie ma jednak stopień rozdrobnienia surowca przed zakiszeniem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przez jaki czas powinien działać nawiew w procesie dosuszania paszy z użyciem aktywnej wentylacji?",
+      "options": [
+        "30–35 godzin.",
+        "24–28 godzin.",
+        "48 godzin.",
+        "10–15 godzin."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMielenie ziaren w paszy jest … dla przeżuwaczy.",
+      "options": [
+        "niekorzystne",
+        "korzystne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIstnieje jeden miernik wartości pokarmowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Która z metod nie należy do fizycznych procesów przygotowania pasz do skarmiania?",
+      "options": [
+        "Ogrzewanie.",
+        "Rozdrabnianie.",
+        "Kiełkowanie.",
+        "Moczenie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodczas pierwszych mrozów na kopiec do magazynowania nakłada się tzw. ….",
+      "options": [
+        "czapę ochronną",
+        "wieniec ochronny"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPaszę poddaną wapnowaniu należy przed skarmieniem pozostawić na 48 godzin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co mają na celu zabiegi przygotowawcze paszy?",
+      "options": [
+        "Ułatwienie pobrania paszy.",
+        "Zwiększenie nakładów energii na żucie.",
+        "Zwiększenie objętości paszy.",
+        "Poprawę strawności paszy.",
+        "Obniżenie wilgotności."
+      ],
+      "answers": [
+        0,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nIm większa zjedzona dawka paszy, tym … jej pasaż przez przewód pokarmowy.",
+      "options": [
+        "wolniejszy",
+        "szybszy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaprawianie paszy ługiem powoduje, że wartość energetyczna paszy rośnie trzykrotnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką czystość botaniczną powinno mieć ziarno przeznaczone do przechowywania?",
+      "options": [
+        "85%.",
+        "70%.",
+        "95% i więcej.",
+        "80%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… polega na przedmuchiwaniu powietrza przez wentylator, połączony z kanałami rozprowadzającymi je na całej powierzchni, na której leży materiał do suszenia.",
+      "options": [
+        "Dosuszanie paszy z użyciem aktywnej wentylacji",
+        "Suszenie paszy na suszarkach"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŚwinie chętniej wyjadają mokre pasze niż suche.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które bakterie wytwarzają kwas mlekowy używany w procesie kiszenia pasz dla zwierząt?",
+      "options": [
+        "Lactococcus.",
+        "Pedicoccus.",
+        "Lactobacillus.",
+        "Leuconostoc."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPasza dla trzody powinna być drobna z uwagi na słabe uzębienie, ale nie może być pylista, w związku z tym poddaje się ją ….",
+      "options": [
+        "moczeniu",
+        "zwilżeniu"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProces suszenia paszy na pokosach przy gorszej pogodzie może trwać nawet do 14 dni.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jaki sposób kiełkuje się ziarno owsa i jęczmienia?",
+      "options": [
+        "Bez wcześniejszego moczenia rozkłada się cienką warstwę ziarna na kiełkowniku w ciepłym pomieszczeniu.",
+        "Po namoczeniu rozkłada się grubą warstwę ziarna na kiełkowniku w chłodnym pomieszczeniu.",
+        "Po namoczeniu rozkłada się cienką warstwę ziarna na kiełkowniku w chłodnym pomieszczeniu.",
+        "Po namoczeniu rozkłada się cienką warstwę ziarna na kiełkowniku w ciepłym pomieszczeniu."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSuszenie pasz zielonych pozwala otrzymać siano o wilgotności 18%, jednak w specjalnych suszarniach otrzymuje się susz o zawartości wody nawet około ….",
+      "options": [
+        "10%",
+        "5%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPomieszczenia służące do przechowywania suszu z pasz zielonych powinny być suche i zaciemnione, by ograniczyć wpływ promieni słonecznych niszczących karoten.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dla jakich zwierząt stosuje się przygotowanie paszy przez kleikowanie?",
+      "options": [
+        "Chorych i osłabionych.",
+        "Dorosłych.",
+        "Starych.",
+        "Bardzo młodych."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKopce do magazynowania, np. ziemniaków zazwyczaj znajdują się na powierzchni ziemi i powinny mieć szerokość ….",
+      "options": [
+        "0,8–2 m",
+        "0,5–1,5 m"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzechowywanie pasz okopowych ma między innymi za zadanie zapobiec zagrzaniu się tego surowca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile czasu przed skarmieniem należy przeprowadzić zaparzanie paszy?",
+      "options": [
+        "30 minut.",
+        "Dobę.",
+        "Godzinę.",
+        "2–3 godziny."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW procesie wapnowania paszy, sieczkę polewa się roztworem mleka wapiennego ….",
+      "options": [
+        "dwukrotnie",
+        "trzykrotnie"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzygotowanie pasz z ziemniaków przez parowanie ma zasadnicze znaczenie w żywieniu bydła.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które wśród wymienionych metod przygotowywania pasz należą do fizycznych?",
+      "options": [
+        "Zaparzanie.",
+        "Kleikowanie.",
+        "Zwilżenie.",
+        "Kiełkowanie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednym z chemicznych sposobów przygotowania pasz polegającym na traktowaniu słomy roztworem ługu sodowego jest ….",
+      "options": [
+        "ługowanie wodą",
+        "zaprawianie ługiem"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRozdrabnianie pasz potęguje straty wynikające z rozrzucania ich przez zwierzęta.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jaką witaminę wzbogaca pasze drożdżowanie?",
+      "options": [
+        "Witaminę C.",
+        "Witaminy z grupy B.",
+        "Witaminę E.",
+        "Witaminę D."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZaprawianie ługiem, wapnowanie, amoniakowanie i mocznikowanie to … metody wśród procesów przygotowywania pasz.",
+      "options": [
+        "chemiczne",
+        "biologiczne"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasza poddana drożdżowaniu jest chętnie pobierana, ale należy robić przerwy 7–10 dni w jej skarmianiu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jakie jest główne źródło pasz dla przeżuwaczy?",
+      "options": [
+        "Zboża.",
+        "Trawy.",
+        "Rośliny okopowe.",
+        "Rośliny strączkowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkład chemiczny roślin ma wpływ na ich przydatność w żywieniu i zależy jedynie od samej rośliny – jej gatunku i właściwości.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do wieloletnich roślin motylkowych drobnonasiennych wykorzystywanych w żywieniu zwierząt zaliczane są:",
+      "options": [
+        "koniczyna zwyczajna.",
+        "przelot.",
+        "esparceta siewna.",
+        "nostrzyk biały.",
+        "lucerna mieszańcowa.",
+        "łubin biały."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Która z roślin okopowych nie jest używana w produkcji pasz?",
+      "options": [
+        "Topinambur.",
+        "Pietruszka zwyczajna.",
+        "Buraki czerwone.",
+        "Buraki cukrowe."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nWartość pokarmowa jest to zdolność do pokrywania zapotrzebowania na składniki odżywcze. Zależy to od zawartości białka, tłuszczu, włókna, cukrów, skrobi, poszczególnych aminokwasów, kwasów tłuszczowych, składników mineralnych, witamin i energii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z roślin motylkowych strączkowych nie jest wykorzystywana w żywieniu zwierząt?",
+      "options": [
+        "Groch polny.",
+        "Soczewica.",
+        "Seradela.",
+        "Bobik."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Przed czym musi zapewnić ochronę magazynowanie pasz przemysłowych?",
+      "options": [
+        "Przed wilgocią.",
+        "Przed niewłaściwą temperaturą.",
+        "Przed światłem.",
+        "Przed dostępem powietrza."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nDługość przechowywania pasz przemysłowych zależy od zawartości wody. Im jest jej więcej, tym krócej można składować materiały.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do jakiej zawartości wody powinno być wysuszone ziarno przeznaczone do przechowywania?",
+      "options": [
+        "Powyżej 18%.",
+        "Do 18%.",
+        "Do zawartości nieprzekraczającej 14%.",
+        "Do 16%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Strawność składników pokarmowych związana ze zwierzętami zależy od:",
+      "options": [
+        "stanu zdrowia i stanu fizjologicznego.",
+        "intensywności pracy i temperatury otoczenia.",
+        "wagi zwierzęcia.",
+        "gatunku i rasy zwierzęcia.",
+        "wieku i płci zwierzęcia."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Czystość botaniczna ziarna przeznaczonego do przechowywania nie można być niższa niż 95%.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaką szerokość powinny mieć kopce do magazynowania ziemniaków?",
+      "options": [
+        "0,8–2 m.",
+        "Powyżej 2 m.",
+        "0,4–0,8 m.",
+        "2–2,5 m."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Podczas przechowywania ziemniaków temperatura w kopcach nie powinna przekroczyć:",
+      "options": [
+        "14°C.",
+        "8°C.",
+        "5°C.",
+        "11°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRośliny pastewne z reguły dają tylko jeden plon w ciągu roku, podczas gdy właściwie użytkowane trawy mogą być pozyskiwane wielokrotnie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze pakowane w worki jutowe lub papierowe (np. premiksy, koncentraty, mieszanki paszowe) należy układać na paletach drewnianych w oddzielnych sektorach magazynu, co ułatwia ich przewietrzanie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Który z procesów przygotowawczych pasz do skarmiania usuwa zapach stęchłej paszy i nieprzyjemny smak?",
+      "options": [
+        "Prażenie.",
+        "Gotowanie.",
+        "Wapnowanie.",
+        "Słodowanie."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nCzynnikiem oddziałującym na przydatność w żywieniu jest termin zbioru rośliny. Im starsza roślina tym lepszą ma strawność.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaką wilgotność powinna mieć zielonka poddawana suszeniu na rusztowaniach?",
+      "options": [
+        "30%.",
+        "55–70%.",
+        "20–25%.",
+        "35–50%."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nGryka zwyczajna, gorczyca biała i rzepak ozimy to rośliny, których nie można wykorzystywać w produkcji pasz dla zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do jednorocznych i dwuletnich roślin motylkowych drobnonasiennych wykorzystywanych w żywieniu zwierząt zaliczane są:",
+      "options": [
+        "koniczyna perska.",
+        "koniczyna białoróżowa.",
+        "koniczyna czerwona.",
+        "koniczyna biała."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Którego ze zbóż nie stosuje się w żywieniu zwierząt?",
+      "options": [
+        "Pszenicy – odmiany jare.",
+        "Owsa – odmiany jare.",
+        "Owsa – odmiany ozime.",
+        "Pszenicy – odmiany ozime."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPasze są często przechowywane w postaci, która nie zawsze nadaje się do bezpośredniego spożycia i konieczne jest jej przygotowanie przed podaniem. Ten etap ma za zadanie ułatwienie zwierzętom pobierania pokarmu poprzez zmianę konsystencji, poprawę smakowitości i strawności, zmniejszenie ryzyka skażenia mikrobiologicznego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Podczas dosuszania paszy z użyciem aktywnej wentylacji zielonkę pozostawia się na ziemi aż jej wilgotność spadnie do",
+      "options": [
+        "30–35%.",
+        "40–45%.",
+        "35–40 %.",
+        "45–50 %."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co ma znaczący wpływ na wielkość strat składników pokarmowych w trakcie przechowywania ziarna?",
+      "options": [
+        "Wilgotność.",
+        "Światło.",
+        "Dostęp powietrza.",
+        "Temperatura otoczenia."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTrawy wykorzystywane w żywieniu zwierząt to przeważnie rośliny jednoroczne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Od czego uzależniona jest szybkość schnięcia paszy?",
+      "options": [
+        "Od wymiarów i sposobu ułożenia pokosu przez kosiarkę.",
+        "Od działania walców zgniatających.",
+        "Od temperatury powietrza.",
+        "Od wielkości powierzchni schnącej."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMagazyny na zboże, zarówno wieżowe, jak i płaskie powinny być technologicznie przystosowane do przemieszczania ziarna, umożliwiając jego przewietrzenie, by odprowadzić nadmiar wody.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSuszenie na suszarkach trwa 10–15 dni, a ryzyko zepsucia się siana jest bardzo duże.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak długo powinien trwać cały proces konserwowania paszy dla zwierząt poprzez suszenie?",
+      "options": [
+        "4–6 dni.",
+        "2–4 dni.",
+        "6–8 dni.",
+        "8–10 dni."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodczas odpowiedniego magazynowania składniki pokarmowe zostają zachowane i ich zawartość w paszy pozostaje niezmieniona.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które zabiegi stosowane w przygotowaniu pasz służą zmiękczeniu słomy?",
+      "options": [
+        "Mocznikowanie.",
+        "Moczenie.",
+        "Gotowanie.",
+        "Amoniakowanie."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Zawartość której witaminy zwiększa się w zbożach dzięki procesowi kiełkowania?",
+      "options": [
+        "K.",
+        "A.",
+        "C.",
+        "E."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiększość pasz podaje się zwierzętom w naturalnej formie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do biologicznych procesów przygotowywania pasz zaliczamy:",
+      "options": [
+        "drożdżowanie.",
+        "kiełkowanie.",
+        "mieszanie.",
+        "słodowanie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Słodowanie poprawia smakowitość poprzez dodanie do paszy słodu w ilości:",
+      "options": [
+        "5%.",
+        "10%.",
+        "1%.",
+        "2%."
+      ],
+      "answers": [
+        3
+      ]
+    }
+  ]
+}

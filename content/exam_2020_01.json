@@ -1,0 +1,669 @@
+{
+  "id": "exam_2020_01",
+  "course": "Egzamin RL.03 – arkusze CKE",
+  "title": "Arkusz styczeń 2020",
+  "number": "2020/01",
+  "notes": [],
+  "flashcards": [
+    {
+      "front": "Przedstawione na ilustracji zmiany na liściach kukurydzy wskazują na niedobór",
+      "back": "fosforu.",
+      "img": "img/exam_2020_01/zad1.jpg"
+    },
+    {
+      "front": "Wskaż odmianę kukurydzy o najdłuższym okresie wegetacji. (Klasy wczesności: bardzo wczesna < 190 FAO, wczesna 200-220, średnio wczesna 230-240, średnio późna 250-290, późna > 300)",
+      "back": "Agro Vitallo – FAO 280"
+    },
+    {
+      "front": "Wskaż odpowiednie zmianowanie dla gospodarstwa położonego na glebach lekkich.",
+      "back": "Ziemniaki, owies, łubin żółty, żyto."
+    },
+    {
+      "front": "W celu utrzymania przepustowości rowu melioracyjnego przedstawionego na ilustracji należy",
+      "back": "wykosić roślinność ze skarp i dna rowu.",
+      "img": "img/exam_2020_01/zad4.jpg"
+    },
+    {
+      "front": "W gospodarstwie utrzymywanych jest 60 krów. Jedna krowa produkuje w ciągu roku 10 t obornika. Na jaką powierzchnię gruntów ornych można zastosować obornik, jeśli zaplanowana dawka wynosi 30 t/ha?",
+      "back": "20 ha"
+    },
+    {
+      "front": "Który nawóz można stosować dolistnie, łącznie z pestycydami?",
+      "back": "Mocznik."
+    },
+    {
+      "front": "Fungicyd do zaprawiania ziarna zbóż – zalecana dawka: 100 ml/100 kg ziarna z dodatkiem 500-900 ml wody. Oblicz, ile preparatu oraz wody należy użyć do zaprawienia 4 ton ziarna jęczmienia jarego.",
+      "back": "4 l preparatu i 20-36 l wody."
+    },
+    {
+      "front": "Określ głębokość siewu pszenicy na podstawie zestawienia: bobik 8-9 cm, kukurydza 4-6 cm, rzepak 1,5-3,5 cm, owies 3-4 cm, pszenica 2-4 cm.",
+      "back": "2-4 cm"
+    },
+    {
+      "front": "Na glebach ciężkich, w celu poprawy warunków wodno-powietrznych, należy zastosować",
+      "back": "głęboszowanie."
+    },
+    {
+      "front": "Szkodnik przedstawiony na ilustracji to",
+      "back": "stonka kukurydziana.",
+      "img": "img/exam_2020_01/zad10.jpg"
+    },
+    {
+      "front": "Który z dostępnych w gospodarstwie środków chemicznej ochrony roślin stosuje się w uprawie pszenicy ozimej w celu ochrony przed chorobami grzybowymi? (Fungicyd – Adexar Plus, herbicyd – Biathlon 4D, insektycyd – Fastac 10 AC, rodentycyd – Klerat K)",
+      "back": "Adexar Plus."
+    },
+    {
+      "front": "Do zwalczania perzu metodą chemiczną stosuje się",
+      "back": "herbicydy."
+    },
+    {
+      "front": "Maszyna przedstawiona na ilustracji służy do",
+      "back": "owijania bel podsuszonej zielonki.",
+      "img": "img/exam_2020_01/zad13.jpg"
+    },
+    {
+      "front": "Na podstawie danych z tabeli oblicz potrzebną ilość CaO na pole o powierzchni 5 ha. Wapnowana będzie gleba ciężka, dla której ocenę potrzeb zabiegu określono jako „potrzebne”. (Dawki t CaO/ha dla gleby ciężkiej: konieczne 6,0; potrzebne 3,0; wskazane 2,0; ograniczone 1,0)",
+      "back": "15 t"
+    },
+    {
+      "front": "Przedstawione logo umieszczone na etykiecie opakowania ziemniaków oznacza, że",
+      "back": "są one produktem ekologicznym.",
+      "img": "img/exam_2020_01/zad15.jpg"
+    },
+    {
+      "front": "Staw pęcinowy jest usytuowany",
+      "back": "poniżej stawu nadgarstkowego."
+    },
+    {
+      "front": "Leukocyty są odpowiedzialne w organizmie zwierząt za",
+      "back": "reakcje odpornościowe."
+    },
+    {
+      "front": "Ilustracja przedstawia świnię rasy",
+      "back": "puławskiej.",
+      "img": "img/exam_2020_01/zad18.jpg"
+    },
+    {
+      "front": "Rasy przeżuwaczy użytkowane w kierunku mlecznym to:",
+      "back": "jersey, saaneńska, fryzyjska."
+    },
+    {
+      "front": "Paszą objętościową jest",
+      "back": "siano z lucerny."
+    },
+    {
+      "front": "Objętość silosu potrzebnego do zmagazynowania 6000 dt, jeżeli 1 m³ kiszonki waży około 650 kg, wynosi",
+      "back": "ok. 923 m3"
+    },
+    {
+      "front": "Oblicz zapotrzebowanie na paszę dla brojlera o masie ciała 2,1 kg, jeżeli na 1 kg jego przyrostu zużycie wynosi 2 kg paszy.",
+      "back": "4,2 kg"
+    },
+    {
+      "front": "Przenośnik typu Delta jest wykorzystywany",
+      "back": "do usuwania gnojowicy."
+    },
+    {
+      "front": "Określ datę odsadzenia prosiąt od lochy, która wyprosiła się 20 lipca, jeżeli prosięta przebywają z matką 28 dni.",
+      "back": "17 sierpnia."
+    },
+    {
+      "front": "Korzystając z danych w tabeli określ dzienną dawkę energii oraz białka, które pobrała locha w 95 dniu ciąży. (Lochy prośne 1-90 dzień: 2,4 kg paszy, 11,9 MJ EM/kg, 9,4 g białka strawnego/MJ; lochy prośne 91-111 dzień: 3,2 kg, 11,6 MJ/kg, 10,6 g/MJ; lochy karmiące: 6,2 kg, 12,8 MJ/kg, 10 g/MJ)",
+      "back": "37,1 MJ EM oraz 393,5 g białka"
+    },
+    {
+      "front": "W przypadku wystąpienia w budynkach dla drobiu piórojadów, należy w celu ich zlikwidowania przeprowadzić zabieg",
+      "back": "dezynsekcji."
+    },
+    {
+      "front": "Określ minimalną powierzchnię kojca dla tucznika o masie ciała 80 kg zapewniającą dobrostan zwierząt. (Powierzchnia w kojcu: 10-20 kg – 0,2; 20-30 kg – 0,3; 30-50 kg – 0,40; 51-85 kg – 0,55; 85-110 kg – 0,65; powyżej 110 kg – 1 m²/szt.)",
+      "back": "0,55 m2/szt."
+    },
+    {
+      "front": "Posiadacz zwierzęcia jest zobowiązany do jego oznakowania i zgłoszenia tego faktu Agencji przed opuszczeniem przez zwierzę gospodarstwa lub: w terminie do 7 dni od dnia urodzenia zwierzęcia – w przypadku bydła; w terminie do 180 dni od urodzenia – w przypadku owiec i kóz; w terminie 30 dni od dnia urodzenia – w przypadku świń. Zwierzęta kupione z krajów Unii Europejskiej przy wjeździe do Polski zachowują dotychczasowe oznakowanie. Nie wolno usuwać kolczyka lub zastępować go innym. W przypadku utraty lub uszkodzenia kolczyka należy złożyć zamówienie na jego duplikat, a po otrzymaniu kolczyka z tym samym numerem założyć go zwierzęciu. W przypadku zgubienia kolczyka przez kozę kupioną w Holandii hodowca powinien",
+      "back": "złożyć w Biurze Powiatowym ARiMR zamówienie na jego duplikat, a po otrzymaniu kolczyka z tym samym numerem, założyć go kozie."
+    },
+    {
+      "front": "Paszporty dla koni huculskich wydaje",
+      "back": "Polski Związek Hodowców Koni."
+    },
+    {
+      "front": "Obsada zwierząt w gospodarstwach ekologicznych nie powinna przekraczać 2 SD/1 ha. Które gospodarstwo spełnia ten wymóg? (I: 40 szt. × 500 kg, 12 ha; II: 20 szt. × 500 kg, 15 ha; III: 20 szt. × 450 kg, 8 ha; IV: 40 szt. × 450 kg, 12 ha; 1 SD = 500 kg masy ciała)",
+      "back": "Gospodarstwo II."
+    },
+    {
+      "front": "Fitting wykonywany na zwierzętach obejmuje swoim zakresem",
+      "back": "czynności pielęgnacyjne przed aukcją lub wystawą."
+    },
+    {
+      "front": "W oparciu o tabelę maksymalnych temperatur przechowywania i transportu produktów do sprzedaży bezpośredniej (produkty rybołówstwa – 2°C; narządy wewnętrzne grubej zwierzyny – 3°C; tuszki drobiowe – 4°C; mleko surowe i śmietana – 6°C; tusze grubej zwierzyny – 7°C) określ maksymalną temperaturę transportu mleka surowego.",
+      "back": "6°C"
+    },
+    {
+      "front": "Oblicz wartość sprzedaży brutto 40 sztuk jagniąt o masie ciała 45 kg/szt., jeżeli cena netto wynosi 6,0 zł/kg, a stawka podatku VAT 8%.",
+      "back": "11 664 zł"
+    },
+    {
+      "front": "Wałek skrzyni biegów wykonany jest",
+      "back": "ze stali.",
+      "img": "img/exam_2020_01/zad34.jpg"
+    },
+    {
+      "front": "Urządzenie przedstawione na ilustracji służy do przetwarzania",
+      "back": "energii słonecznej w cieplną.",
+      "img": "img/exam_2020_01/zad35.jpg"
+    },
+    {
+      "front": "Wskaż działania dotyczące poprawy funkcjonowania urządzeń wodociągowych, które należy podjąć w hali udojowej, jeżeli na podstawie badania próbki wody stwierdzono jej twardość 20°. (Twardość: bardzo miękka < 4°, miękka 4-8°, średnio twarda 8-16°, twarda 16-28°, bardzo twarda > 28°)",
+      "back": "Zainstalowanie stacji uzdatniania wody."
+    },
+    {
+      "front": "Na ilustracji przedstawiono elementy",
+      "back": "systemu drenarskiego.",
+      "img": "img/exam_2020_01/zad37.jpg"
+    },
+    {
+      "front": "Określ ustawienie dźwigni skrzyni przekładniowej oraz bieg przekładni bezstopniowej przy wysiewie rzepaku w ilości 6 kg/ha. (Rzepak, bieg I / II: dźwignia 10 – 4,4 / 7,8; 12 – 5,2 / 9,7; 14 – 6 / 10,7; 16 – 6,9 / 12,2 kg/ha)",
+      "back": "14 i I"
+    },
+    {
+      "front": "Określ dawkę cieczy roboczej dla opryskiwacza, w którym zastosowano rozpylacze żółte (rozmiar 02), przy prędkości roboczej 6 km/h i ciśnieniu cieczy 2 bary. (Tabela dla rozpylaczy 02 przy 2,0 bar: 4 km/h – 195, 5 km/h – 156, 6 km/h – 130, 7 km/h – 111, 8 km/h – 98 l/ha)",
+      "back": "130 l/ha"
+    },
+    {
+      "front": "Przegląd techniczny ciągnika, który powinien być najczęściej wykonywany, to",
+      "back": "P-1"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Przedstawione na ilustracji zmiany na liściach kukurydzy wskazują na niedobór",
+      "options": [
+        "azotu.",
+        "potasu.",
+        "miedzi.",
+        "fosforu."
+      ],
+      "answer": 3,
+      "explain": "Czerwono-fioletowe (antocyjanowe) przebarwienia liści kukurydzy są typowe dla niedoboru fosforu.",
+      "src": "Zad. 1",
+      "img": "img/exam_2020_01/zad1.jpg"
+    },
+    {
+      "q": "Wskaż odmianę kukurydzy o najdłuższym okresie wegetacji. (Klasy wczesności: bardzo wczesna < 190 FAO, wczesna 200-220, średnio wczesna 230-240, średnio późna 250-290, późna > 300)",
+      "options": [
+        "Garrido – FAO 240",
+        "Sumaris – FAO 250",
+        "Ronaldinio – FAO 260",
+        "Agro Vitallo – FAO 280"
+      ],
+      "answer": 3,
+      "explain": "Im wyższa liczba FAO, tym dłuższy okres wegetacji – najwyższą ma Agro Vitallo (FAO 280).",
+      "src": "Zad. 2"
+    },
+    {
+      "q": "Wskaż odpowiednie zmianowanie dla gospodarstwa położonego na glebach lekkich.",
+      "options": [
+        "Ziemniaki, owies, łubin żółty, żyto.",
+        "Żyto, owies, łubin żółty, ziemniaki.",
+        "Ziemniaki, łubin żółty, owies, żyto.",
+        "Owies, żyto, łubin żółty, ziemniaki."
+      ],
+      "answer": 0,
+      "explain": "Ziemniaki otwierają zmianowanie, po nich owies, następnie łubin jako dobry przedplon dla żyta ozimego.",
+      "src": "Zad. 3"
+    },
+    {
+      "q": "W celu utrzymania przepustowości rowu melioracyjnego przedstawionego na ilustracji należy",
+      "options": [
+        "zmniejszyć jego szerokość.",
+        "wykosić roślinność ze skarp i dna rowu.",
+        "wzmocnić skarpy przez posadzenie krzewów.",
+        "zmniejszyć odpływ wody z wylotów drenarskich."
+      ],
+      "answer": 1,
+      "explain": "Zarastająca roślinność spowalnia przepływ wody, dlatego rowy regularnie się wykasza.",
+      "src": "Zad. 4",
+      "img": "img/exam_2020_01/zad4.jpg"
+    },
+    {
+      "q": "W gospodarstwie utrzymywanych jest 60 krów. Jedna krowa produkuje w ciągu roku 10 t obornika. Na jaką powierzchnię gruntów ornych można zastosować obornik, jeśli zaplanowana dawka wynosi 30 t/ha?",
+      "options": [
+        "2 ha",
+        "20 ha",
+        "90 ha",
+        "180 ha"
+      ],
+      "answer": 1,
+      "explain": "60 × 10 t = 600 t obornika; 600 t : 30 t/ha = 20 ha.",
+      "src": "Zad. 5"
+    },
+    {
+      "q": "Który nawóz można stosować dolistnie, łącznie z pestycydami?",
+      "options": [
+        "Mocznik.",
+        "Saletrzak.",
+        "Superfosfat.",
+        "Sól potasową."
+      ],
+      "answer": 0,
+      "explain": "Mocznik dobrze rozpuszcza się w wodzie, nie parzy liści w niskich stężeniach i można go mieszać z pestycydami.",
+      "src": "Zad. 6"
+    },
+    {
+      "q": "Fungicyd do zaprawiania ziarna zbóż – zalecana dawka: 100 ml/100 kg ziarna z dodatkiem 500-900 ml wody. Oblicz, ile preparatu oraz wody należy użyć do zaprawienia 4 ton ziarna jęczmienia jarego.",
+      "options": [
+        "3 l preparatu i 5-9 l wody.",
+        "2 l preparatu i 2-3,6 l wody.",
+        "4 l preparatu i 20-36 l wody.",
+        "5 l preparatu i 50-90 l wody."
+      ],
+      "answer": 2,
+      "explain": "4 t = 40 × 100 kg; preparat: 40 × 100 ml = 4 l; woda: 40 × 500-900 ml = 20-36 l.",
+      "src": "Zad. 7"
+    },
+    {
+      "q": "Określ głębokość siewu pszenicy na podstawie zestawienia: bobik 8-9 cm, kukurydza 4-6 cm, rzepak 1,5-3,5 cm, owies 3-4 cm, pszenica 2-4 cm.",
+      "options": [
+        "8-9 cm",
+        "6-7 cm",
+        "4-6 cm",
+        "2-4 cm"
+      ],
+      "answer": 3,
+      "explain": "Według zestawienia pszenicę sieje się na głębokość 2-4 cm.",
+      "src": "Zad. 8"
+    },
+    {
+      "q": "Na glebach ciężkich, w celu poprawy warunków wodno-powietrznych, należy zastosować",
+      "options": [
+        "iłowanie.",
+        "glinowanie.",
+        "wapnowanie.",
+        "głęboszowanie."
+      ],
+      "answer": 3,
+      "explain": "Głęboszowanie spulchnia zbite warstwy gleby ciężkiej i poprawia jej przewiewność i przepuszczalność (według klucza).",
+      "src": "Zad. 9"
+    },
+    {
+      "q": "Szkodnik przedstawiony na ilustracji to",
+      "options": [
+        "skrzypionka.",
+        "stonka ziemniaczana.",
+        "stonka kukurydziana.",
+        "słodyszek rzepakowy."
+      ],
+      "answer": 2,
+      "explain": "Żółty chrząszcz z czarnymi podłużnymi pasami na pokrywach to stonka kukurydziana.",
+      "src": "Zad. 10",
+      "img": "img/exam_2020_01/zad10.jpg"
+    },
+    {
+      "q": "Który z dostępnych w gospodarstwie środków chemicznej ochrony roślin stosuje się w uprawie pszenicy ozimej w celu ochrony przed chorobami grzybowymi? (Fungicyd – Adexar Plus, herbicyd – Biathlon 4D, insektycyd – Fastac 10 AC, rodentycyd – Klerat K)",
+      "options": [
+        "Klerat K.",
+        "Adexar Plus.",
+        "Biathlon 4D.",
+        "Fastac 10 AC."
+      ],
+      "answer": 1,
+      "explain": "Przeciw chorobom grzybowym stosuje się fungicyd – w tabeli jest to Adexar Plus.",
+      "src": "Zad. 11"
+    },
+    {
+      "q": "Do zwalczania perzu metodą chemiczną stosuje się",
+      "options": [
+        "repelenty.",
+        "fumiganty.",
+        "fungicydy.",
+        "herbicydy."
+      ],
+      "answer": 3,
+      "explain": "Perz to chwast, więc zwalcza się go herbicydami (np. glifosatem).",
+      "src": "Zad. 12"
+    },
+    {
+      "q": "Maszyna przedstawiona na ilustracji służy do",
+      "options": [
+        "zaprawiania ziarna.",
+        "workowania ziemniaków.",
+        "rozdrabniania okopowych.",
+        "owijania bel podsuszonej zielonki."
+      ],
+      "answer": 3,
+      "explain": "To owijarka bel – obraca belę na wałkach i owija ją folią z rolki.",
+      "src": "Zad. 13",
+      "img": "img/exam_2020_01/zad13.jpg"
+    },
+    {
+      "q": "Na podstawie danych z tabeli oblicz potrzebną ilość CaO na pole o powierzchni 5 ha. Wapnowana będzie gleba ciężka, dla której ocenę potrzeb zabiegu określono jako „potrzebne”. (Dawki t CaO/ha dla gleby ciężkiej: konieczne 6,0; potrzebne 3,0; wskazane 2,0; ograniczone 1,0)",
+      "options": [
+        "5 t",
+        "10 t",
+        "15 t",
+        "18 t"
+      ],
+      "answer": 2,
+      "explain": "Gleba ciężka, wapnowanie potrzebne: 3,0 t CaO/ha × 5 ha = 15 t.",
+      "src": "Zad. 14"
+    },
+    {
+      "q": "Przedstawione logo umieszczone na etykiecie opakowania ziemniaków oznacza, że",
+      "options": [
+        "są one produktem regionalnym.",
+        "są one produktem ekologicznym.",
+        "mają Chronioną Nazwę Pochodzenia.",
+        "mają Chronione Oznaczenie Geograficzne."
+      ],
+      "answer": 1,
+      "explain": "Zielony liść z gwiazdek to unijne logo rolnictwa ekologicznego („euroliść”).",
+      "src": "Zad. 15",
+      "img": "img/exam_2020_01/zad15.jpg"
+    },
+    {
+      "q": "Staw pęcinowy jest usytuowany",
+      "options": [
+        "powyżej stawu skokowego.",
+        "poniżej stawu koronowego.",
+        "powyżej stawu kolanowego.",
+        "poniżej stawu nadgarstkowego."
+      ],
+      "answer": 3,
+      "explain": "Na kończynie przedniej staw pęcinowy leży poniżej stawu nadgarstkowego, a powyżej koronowego.",
+      "src": "Zad. 16"
+    },
+    {
+      "q": "Leukocyty są odpowiedzialne w organizmie zwierząt za",
+      "options": [
+        "krzepliwość krwi.",
+        "produkcję fibrynogenu.",
+        "reakcje odpornościowe.",
+        "transport tlenu do komórek."
+      ],
+      "answer": 2,
+      "explain": "Leukocyty (białe krwinki) bronią organizm przed drobnoustrojami – odpowiadają za odporność.",
+      "src": "Zad. 17"
+    },
+    {
+      "q": "Ilustracja przedstawia świnię rasy",
+      "options": [
+        "duroc.",
+        "pietrain.",
+        "hampshire.",
+        "puławskiej."
+      ],
+      "answer": 3,
+      "explain": "Białe umaszczenie z czarnymi łatami i półklapnięte uszy to cechy polskiej rasy puławskiej.",
+      "src": "Zad. 18",
+      "img": "img/exam_2020_01/zad18.jpg"
+    },
+    {
+      "q": "Rasy przeżuwaczy użytkowane w kierunku mlecznym to:",
+      "options": [
+        "jersey, saaneńska, fryzyjska.",
+        "charolaise, alpejska, ile de france.",
+        "polska czerwona, burska, merynos.",
+        "hereford, kaszmirska, czarnogłówka."
+      ],
+      "answer": 0,
+      "explain": "Jersey (bydło), saaneńska (kozy) i fryzyjska (owce) to rasy mleczne.",
+      "src": "Zad. 19"
+    },
+    {
+      "q": "Paszą objętościową jest",
+      "options": [
+        "śruta sojowa.",
+        "siano z lucerny.",
+        "ziarno kukurydzy.",
+        "susz ziemniaczany."
+      ],
+      "answer": 1,
+      "explain": "Siano to pasza objętościowa sucha; pozostałe to pasze treściwe.",
+      "src": "Zad. 20"
+    },
+    {
+      "q": "Objętość silosu potrzebnego do zmagazynowania 6000 dt, jeżeli 1 m³ kiszonki waży około 650 kg, wynosi",
+      "options": [
+        "ok. 600 m3",
+        "ok. 650 m3",
+        "ok. 923 m3",
+        "ok. 1083 m3"
+      ],
+      "answer": 2,
+      "explain": "6000 dt = 600 000 kg; 600 000 kg : 650 kg/m³ ≈ 923 m³.",
+      "src": "Zad. 21"
+    },
+    {
+      "q": "Oblicz zapotrzebowanie na paszę dla brojlera o masie ciała 2,1 kg, jeżeli na 1 kg jego przyrostu zużycie wynosi 2 kg paszy.",
+      "options": [
+        "2,0 kg",
+        "2,2 kg",
+        "4,2 kg",
+        "4,4 kg"
+      ],
+      "answer": 2,
+      "explain": "2,1 kg × 2 kg paszy/kg = 4,2 kg paszy.",
+      "src": "Zad. 22"
+    },
+    {
+      "q": "Przenośnik typu Delta jest wykorzystywany",
+      "options": [
+        "w paszociągach.",
+        "do transportu jaj.",
+        "w magazynach pasz.",
+        "do usuwania gnojowicy."
+      ],
+      "answer": 3,
+      "explain": "Przenośnik (zgarniacz) typu Delta to zgarniacz z rozkładanymi ramionami, przesuwany po kanale – usuwa gnojowicę i odchody.",
+      "src": "Zad. 23"
+    },
+    {
+      "q": "Określ datę odsadzenia prosiąt od lochy, która wyprosiła się 20 lipca, jeżeli prosięta przebywają z matką 28 dni.",
+      "options": [
+        "11 sierpnia.",
+        "17 sierpnia.",
+        "20 sierpnia.",
+        "24 sierpnia."
+      ],
+      "answer": 1,
+      "explain": "20 lipca + 28 dni: do 31 lipca mija 11 dni, pozostałe 17 dni – 17 sierpnia.",
+      "src": "Zad. 24"
+    },
+    {
+      "q": "Korzystając z danych w tabeli określ dzienną dawkę energii oraz białka, które pobrała locha w 95 dniu ciąży. (Lochy prośne 1-90 dzień: 2,4 kg paszy, 11,9 MJ EM/kg, 9,4 g białka strawnego/MJ; lochy prośne 91-111 dzień: 3,2 kg, 11,6 MJ/kg, 10,6 g/MJ; lochy karmiące: 6,2 kg, 12,8 MJ/kg, 10 g/MJ)",
+      "options": [
+        "38 MJ EM oraz 112 g białka",
+        "71,9 MJ EM oraz 762 g białka",
+        "37,1 MJ EM oraz 123 g białka",
+        "37,1 MJ EM oraz 393,5 g białka"
+      ],
+      "answer": 3,
+      "explain": "95 dzień – grupa 91-111: 3,2 kg × 11,6 MJ = 37,1 MJ EM; 37,1 MJ × 10,6 g/MJ ≈ 393,5 g białka.",
+      "src": "Zad. 25"
+    },
+    {
+      "q": "W przypadku wystąpienia w budynkach dla drobiu piórojadów, należy w celu ich zlikwidowania przeprowadzić zabieg",
+      "options": [
+        "deratyzacji.",
+        "dezynfekcji.",
+        "dezynsekcji.",
+        "dekornizacji."
+      ],
+      "answer": 2,
+      "explain": "Piórojady to owady (pasożyty zewnętrzne) – zwalcza się je dezynsekcją.",
+      "src": "Zad. 26"
+    },
+    {
+      "q": "Określ minimalną powierzchnię kojca dla tucznika o masie ciała 80 kg zapewniającą dobrostan zwierząt. (Powierzchnia w kojcu: 10-20 kg – 0,2; 20-30 kg – 0,3; 30-50 kg – 0,40; 51-85 kg – 0,55; 85-110 kg – 0,65; powyżej 110 kg – 1 m²/szt.)",
+      "options": [
+        "0,30 m2/szt.",
+        "0,40 m2/szt.",
+        "0,55 m2/szt.",
+        "1,00 m2/szt."
+      ],
+      "answer": 2,
+      "explain": "Tucznik 80 kg mieści się w przedziale 51-85 kg – 0,55 m²/szt.",
+      "src": "Zad. 27"
+    },
+    {
+      "q": "Posiadacz zwierzęcia jest zobowiązany do jego oznakowania i zgłoszenia tego faktu Agencji przed opuszczeniem przez zwierzę gospodarstwa lub: w terminie do 7 dni od dnia urodzenia zwierzęcia – w przypadku bydła; w terminie do 180 dni od urodzenia – w przypadku owiec i kóz; w terminie 30 dni od dnia urodzenia – w przypadku świń. Zwierzęta kupione z krajów Unii Europejskiej przy wjeździe do Polski zachowują dotychczasowe oznakowanie. Nie wolno usuwać kolczyka lub zastępować go innym. W przypadku utraty lub uszkodzenia kolczyka należy złożyć zamówienie na jego duplikat, a po otrzymaniu kolczyka z tym samym numerem założyć go zwierzęciu. W przypadku zgubienia kolczyka przez kozę kupioną w Holandii hodowca powinien",
+      "options": [
+        "założyć nowy kolczyk w ciągu 7 dni.",
+        "w ciągu 180 dni zgłosić zakup zwierzęcia i wystąpić o nowy kolczyk.",
+        "zgłosić zakup zwierzęcia w Biurze Powiatowym ARiMR w ciągu 30 dni.",
+        "złożyć w Biurze Powiatowym ARiMR zamówienie na jego duplikat, a po otrzymaniu kolczyka z tym samym numerem, założyć go kozie."
+      ],
+      "answer": 3,
+      "explain": "Zwierzę z UE zachowuje swój numer, więc zamawia się duplikat kolczyka z tym samym numerem.",
+      "src": "Zad. 28"
+    },
+    {
+      "q": "Paszporty dla koni huculskich wydaje",
+      "options": [
+        "Ministerstwo Rolnictwa.",
+        "Polski Klub Wyścigów Konnych.",
+        "Polski Związek Hodowców Koni.",
+        "Agencja Restrukturyzacji i Modernizacji Rolnictwa."
+      ],
+      "answer": 2,
+      "explain": "Paszporty koni ras prowadzonych w księgach PZHK, w tym huculskich, wydaje Polski Związek Hodowców Koni.",
+      "src": "Zad. 29"
+    },
+    {
+      "q": "Obsada zwierząt w gospodarstwach ekologicznych nie powinna przekraczać 2 SD/1 ha. Które gospodarstwo spełnia ten wymóg? (I: 40 szt. × 500 kg, 12 ha; II: 20 szt. × 500 kg, 15 ha; III: 20 szt. × 450 kg, 8 ha; IV: 40 szt. × 450 kg, 12 ha; 1 SD = 500 kg masy ciała)",
+      "options": [
+        "Gospodarstwo I.",
+        "Gospodarstwo II.",
+        "Gospodarstwo III.",
+        "Gospodarstwo IV."
+      ],
+      "answer": 1,
+      "explain": "II: 20 × 500 kg = 20 SD / 15 ha ≈ 1,33 SD/ha; pozostałe: I – 3,33, III – 2,25, IV – 3,0 SD/ha.",
+      "src": "Zad. 30"
+    },
+    {
+      "q": "Fitting wykonywany na zwierzętach obejmuje swoim zakresem",
+      "options": [
+        "zabiegi po udoju związane z wymieniem.",
+        "metody leczenia i korygowania wad kończyn.",
+        "zabiegi rehabilitacyjne koni po urazach kończyn.",
+        "czynności pielęgnacyjne przed aukcją lub wystawą."
+      ],
+      "answer": 3,
+      "explain": "Fitting to przygotowanie zwierzęcia do wystawy lub aukcji: mycie, strzyżenie, czesanie.",
+      "src": "Zad. 31"
+    },
+    {
+      "q": "W oparciu o tabelę maksymalnych temperatur przechowywania i transportu produktów do sprzedaży bezpośredniej (produkty rybołówstwa – 2°C; narządy wewnętrzne grubej zwierzyny – 3°C; tuszki drobiowe – 4°C; mleko surowe i śmietana – 6°C; tusze grubej zwierzyny – 7°C) określ maksymalną temperaturę transportu mleka surowego.",
+      "options": [
+        "7°C",
+        "6°C",
+        "4°C",
+        "3°C"
+      ],
+      "answer": 1,
+      "explain": "Według tabeli mleko surowe i śmietana – maksymalnie 6°C.",
+      "src": "Zad. 32"
+    },
+    {
+      "q": "Oblicz wartość sprzedaży brutto 40 sztuk jagniąt o masie ciała 45 kg/szt., jeżeli cena netto wynosi 6,0 zł/kg, a stawka podatku VAT 8%.",
+      "options": [
+        "10 800 zł",
+        "11 664 zł",
+        "18 000 zł",
+        "19 440 zł"
+      ],
+      "answer": 1,
+      "explain": "40 × 45 kg = 1800 kg × 6 zł = 10 800 zł netto; × 1,08 = 11 664 zł brutto.",
+      "src": "Zad. 33"
+    },
+    {
+      "q": "Wałek skrzyni biegów wykonany jest",
+      "options": [
+        "ze stali.",
+        "z miedzi.",
+        "z ołowiu.",
+        "z mosiądzu."
+      ],
+      "answer": 0,
+      "explain": "Wałki i koła zębate skrzyń biegów wykonuje się z wytrzymałej stali (często stopowej, hartowanej).",
+      "src": "Zad. 34",
+      "img": "img/exam_2020_01/zad34.jpg"
+    },
+    {
+      "q": "Urządzenie przedstawione na ilustracji służy do przetwarzania",
+      "options": [
+        "energii słonecznej w cieplną.",
+        "energii elektrycznej w cieplną.",
+        "biogazu w energię elektryczną.",
+        "energii słonecznej w elektryczną."
+      ],
+      "answer": 0,
+      "explain": "Kolektor słoneczny z rurami próżniowymi i zbiornikiem wody zamienia energię słońca na ciepło.",
+      "src": "Zad. 35",
+      "img": "img/exam_2020_01/zad35.jpg"
+    },
+    {
+      "q": "Wskaż działania dotyczące poprawy funkcjonowania urządzeń wodociągowych, które należy podjąć w hali udojowej, jeżeli na podstawie badania próbki wody stwierdzono jej twardość 20°. (Twardość: bardzo miękka < 4°, miękka 4-8°, średnio twarda 8-16°, twarda 16-28°, bardzo twarda > 28°)",
+      "options": [
+        "Zainstalowanie stacji uzdatniania wody.",
+        "Zainstalowanie wodomierza o większej dokładności.",
+        "Przeprowadzenie dezynfekcji instalacji wodociągowej.",
+        "Zastosowanie w instalacji wodociągowej rur o większej średnicy."
+      ],
+      "answer": 0,
+      "explain": "20° to woda twarda – trzeba ją zmiękczać w stacji uzdatniania, by nie osadzał się kamień w instalacji.",
+      "src": "Zad. 36"
+    },
+    {
+      "q": "Na ilustracji przedstawiono elementy",
+      "options": [
+        "deszczowni.",
+        "systemu drenarskiego.",
+        "systemu zadawania pasz.",
+        "instalacji kanalizacyjnej chlewni."
+      ],
+      "answer": 1,
+      "explain": "Karbowana studzienka z dopływami rurek drenarskich to element systemu drenarskiego.",
+      "src": "Zad. 37",
+      "img": "img/exam_2020_01/zad37.jpg"
+    },
+    {
+      "q": "Określ ustawienie dźwigni skrzyni przekładniowej oraz bieg przekładni bezstopniowej przy wysiewie rzepaku w ilości 6 kg/ha. (Rzepak, bieg I / II: dźwignia 10 – 4,4 / 7,8; 12 – 5,2 / 9,7; 14 – 6 / 10,7; 16 – 6,9 / 12,2 kg/ha)",
+      "options": [
+        "12 i I",
+        "12 i II",
+        "14 i I",
+        "14 i II"
+      ],
+      "answer": 2,
+      "explain": "W tabeli dla rzepaku wartość 6 kg/ha odpowiada dźwigni 14 i biegowi I.",
+      "src": "Zad. 38"
+    },
+    {
+      "q": "Określ dawkę cieczy roboczej dla opryskiwacza, w którym zastosowano rozpylacze żółte (rozmiar 02), przy prędkości roboczej 6 km/h i ciśnieniu cieczy 2 bary. (Tabela dla rozpylaczy 02 przy 2,0 bar: 4 km/h – 195, 5 km/h – 156, 6 km/h – 130, 7 km/h – 111, 8 km/h – 98 l/ha)",
+      "options": [
+        "111 l/ha",
+        "120 l/ha",
+        "130 l/ha",
+        "146 l/ha"
+      ],
+      "answer": 2,
+      "explain": "Rozpylacz 02, 2,0 bar, 6 km/h – 130 l/ha.",
+      "src": "Zad. 39"
+    },
+    {
+      "q": "Przegląd techniczny ciągnika, który powinien być najczęściej wykonywany, to",
+      "options": [
+        "P-1",
+        "P-2",
+        "P-3",
+        "P-4"
+      ],
+      "answer": 0,
+      "explain": "P-1 to najprostszy, najczęstszy przegląd okresowy; P-2, P-3 i P-4 wykonuje się coraz rzadziej.",
+      "src": "Zad. 40"
+    }
+  ]
+}

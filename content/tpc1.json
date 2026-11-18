@@ -1,0 +1,2048 @@
+{
+  "id": "tpc1",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Podstawowe informacje o odżywianiu zwierząt",
+  "number": "I",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Pożywienie jest paliwem dla przemian fizjologicznych oraz prawidłowego rozwoju i wzrostu organizmu.",
+        "Od odpowiedniego żywienia zależą zdrowie i produkcyjność zwierząt.",
+        "Nieodpowiednio dobrane dawki, ich zła jakość lub niewłaściwe proporcje mogą być przyczyną stanów chorobowych.",
+        "Ważna jest znajomość skutków zarówno niedoboru, jak i nadmiaru składników pokarmowych."
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia – składniki mineralne i witaminy",
+      "points": [
+        "Makroelementy – występują w organizmie w ilości powyżej 250 mg/kg masy ciała; pełnią rolę budulcową, wchodzą w skład hormonów, regulują ciśnienie osmotyczne, pH, działanie enzymów i witamin.",
+        "Makroelementy: wapń (Ca), fosfor (P), magnez (Mg), siarka (S), sód (Na), potas (K), chlor (Cl).",
+        "Mikroelementy – występują w mniejszych ilościach: żelazo (Fe), cynk (Zn), miedź (Cu), molibden (Mo), selen (Se), jod (I), mangan (Mn), kobalt (Co).",
+        "Orientacyjna zawartość w organizmie (na kg masy ciała, wg Jamroz 2006): P 7–12 g, K 2,00–3,50 g, Na 1,00–1,60 g, S 1,50 g; Zn 10–50 mg, Mn 0,20–0,50 mg, Mo 0,10–0,40 mg, Se 0,10–0,20 mg.",
+        "Witaminy – egzogenne mikroskładniki organiczne, niewytwarzane lub wytwarzane w niewielkim stopniu w organizmie; pełnią rolę bioregulacyjną.",
+        "U przeżuwaczy witaminy rozpuszczalne w wodzie syntetyzowane są przez mikroorganizmy żwacza; szkodliwy jest zarówno niedobór, jak i nadmiar witamin.",
+        "Antywitaminy – związki znoszące działanie witamin: hamują enzymy aktywujące witaminy, blokują receptory lub tworzą nierozpuszczalne kompleksy upośledzające wchłanianie.",
+        "Hiperwitaminoza – stan chorobowy z nadmiaru witaminy; dotyczy witamin magazynowanych w organizmie (głównie A i D, witaminy z grupy B).",
+        "Hipowitaminoza – częściowy niedobór witaminy (niedożywienie, utrudnione wchłanianie, zwiększone zapotrzebowanie, antywitaminy); objawy ustępują po suplementacji.",
+        "Awitaminoza – całkowity brak witaminy wskutek pogłębiającej się hipowitaminozy; nieleczona może prowadzić do wyniszczenia organizmu i zgonu.",
+        "Mikroelementy również warunkują przebieg procesów fizjologicznych.",
+        "Antywitaminy mogą być pochodzenia naturalnego lub otrzymywane sztucznie.",
+        "Witaminy niemagazynowane w organizmie przyswajane są przeważnie w ograniczonej ilości, a ich nadmiar jest wydalany.",
+        "Awitaminoza – objawy chorobowe są bardziej nasilone niż przy hipowitaminozie, leczenie wymaga podawania większych dawek witaminy i może trwać dłużej.",
+        "Zapotrzebowanie na poszczególne witaminy w paszy może być różne w zależności od gatunku zwierzęcia (różne uwarunkowania fizjologiczne)."
+      ],
+      "images": [
+        {
+          "src": "img/tpc1/tabela-skladniki-mineralne.jpg",
+          "caption": "Tabela 1.1. Orientacyjna zawartość składników mineralnych w organizmie zwierząt (na kg masy ciała). Makroelementy w gramach: Ca 10–22, P 7–12, K 2,00–3,50, Na 1,00–1,60, Cl 0,60–1,80, S 1,50, Mg 0,40–0,54. Mikroelementy w miligramach: Fe 40–168, Zn 10–50, Cu 1,30–2,50, I 0,30–0,60, Mn 0,20–0,50, Mo 0,10–0,40, Se 0,10–0,20, Co 0,02–0,10 (Jamroz 2006)."
+        },
+        {
+          "src": "img/tpc1/hiper-hipo-awitaminoza.jpg",
+          "caption": "Hiperwitaminoza – stan chorobowy wskutek nadmiaru witaminy; hipowitaminoza – częściowy niedobór witaminy lub witamin; awitaminoza – całkowity brak witaminy w organizmie, pogłębiająca się hipowitaminoza."
+        }
+      ]
+    },
+    {
+      "heading": "1. Podstawowe pojęcia – skład paszy",
+      "points": [
+        "Sucha masa – substancja organiczna i mineralna pozostająca po odparowaniu wody z paszy.",
+        "Białko ogólne – wszystkie związki paszy zawierające azot: białko właściwe i związki azotowe niebiałkowe.",
+        "Białko ogólne strawne – różnica między białkiem ogólnym pobranym z paszą a białkiem wydalonym z kałem.",
+        "Popiół surowy – część nieorganiczna pozostała po spaleniu całości substancji organicznej paszy.",
+        "Związki organiczne – związki zawierające węgiel, z wyłączeniem m.in. tlenków węgla, kwasu węglowego, węglanów, wodorowęglanów, węglików, cyjanowodoru i cyjanków.",
+        "Związki nieorganiczne – związki niezawierające atomów węgla (z wyjątkiem tlenków węgla, węglanów, cyjanków itp.).",
+        "Schemat składu paszy: pasza = woda + sucha masa; sucha masa = popiół surowy + substancja organiczna.",
+        "Substancja organiczna = białko ogólne i związki azotowe (białko właściwe, związki azotowe niebiałkowe) + substancje bezazotowe (tłuszcz surowy, węglowodany: włókno surowe i związki bezazotowe wyciągowe).",
+        "Dawniej związkami organicznymi nazywano substancje występujące w organizmach żywych i ich syntetyczne pochodne, a nieorganicznymi – związki o strukturze odmiennej od substancji w organizmach żywych.",
+        "Wśród wyjątków zaliczanych do związków nieorganicznych są też kwas cyjanowy, piorunowy i izocyjanowy wraz z ich solami."
+      ],
+      "images": [
+        {
+          "src": "img/tpc1/schemat-skladu-paszy.jpg",
+          "caption": "Rysunek 1.1. Schemat ogólnego składu paszy: pasza = woda + sucha masa; sucha masa = popiół surowy + substancja organiczna; substancja organiczna = białko ogólne i związki azotowe (białko ogólne właściwe, związki azotowe niebiałkowe) + substancje bezazotowe (tłuszcz surowy oraz węglowodany: włókno surowe i związki bezazotowe wyciągowe)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Makroelementy – wapń i fosfor",
+      "points": [
+        "Wapń: 98% wapnia organizmu znajduje się w kościach; stanowi 36,5% popiołu surowego.",
+        "Wapń mineralizuje kości i skorupy jaj, reguluje enzymy, zapobiega nadmiernemu pobudzeniu układu nerwowego, aktywuje protrombinę (krzepnięcie); nadmiar zaburza pracę serca.",
+        "Hiperkalcemia: spadek apetytu, uszkodzenia nerek, ogniska zwapnienia, złogi w moczowodach, wzrost śmiertelności młodych; krowy mleczne i nioski lepiej znoszą nadmiar Ca.",
+        "Hipokalcemia: krzywica u młodych, osteomalacja u dorosłych; długotrwały niedobór – łamikost (głównie lochy i tuczniki); u drobiu objawy jak w syndromie zmęczenia klatkowego.",
+        "Niedobór Ca u niosek: spadek liczby i masy jaj, obniżona wylęgowość, gorsza skorupa; u krów wysokomlecznych trudne porody i zaleganie poporodowe.",
+        "Fosfor: w kościach i krwi 85% fosforu organizmu; składnik fosfoprotein, fosfolipidów, koenzymów i kwasów nukleinowych.",
+        "Ważny jest prawidłowy stosunek P do Ca (wpływa na wchłanianie wapnia); wchłanianie P spada przy wysokim poziomie włókna w paszy.",
+        "Hiperfosfatemia: degeneracja kości u młodych, ścieńczenie skorup jaj.",
+        "Hipofosfatemia: zaburzenia łaknienia, zahamowanie wzrostu, osteomalacja, wadliwa mineralizacja skorup, nieregularne ruje.",
+        "Wapń występuje głównie w kościach, a także we włóknach kolagenowych.",
+        "Hipokalcemia – także: osłabienie i opóźnienie wzrostu u młodych, zaburzenia metabolizmu, wady postawy i chodu, zaburzenia kostnienia; objawy nerwowe – głównie ospałość i zmniejszona aktywność.",
+        "Hiperkalcemia – także nerczyca i ogniska zwapnienia w narządach wewnętrznych.",
+        "Fosfor (w postaci fosforanu, jako składnik koenzymów) bierze udział w przemianach energii i składników pokarmowych, transporcie lipidów, przemianach i wchłanianiu cukrów oraz w metabolizmie tkanki nerwowej.",
+        "Hiperfosfatemia ścieńcza skorupy jaj, bo zaburza pozyskiwanie wapnia na ten cel z kości niosek; hipofosfatemia – także upośledzenie kostnienia i zaburzenia metaboliczne."
+      ]
+    },
+    {
+      "heading": "2. Makroelementy – magnez i siarka",
+      "points": [
+        "Prawidłowe funkcjonowanie magnezu zależy od Ca i P; aktywuje enzymy, współdziała z tiaminą, bierze udział w syntezie białek i oddychaniu tkankowym.",
+        "Wchłanianie Mg: u przeżuwaczy w przedżołądkach (5–30%), u zwierząt monogastrycznych i drobiu w jelicie cienkim (ok. 60%).",
+        "Hipomagnezemia: konwulsje, tężyczka (u przeżuwaczy tężyczka pastwiskowa), u monogastrycznych nadpobudliwość, u drobiu histeria klatkowa.",
+        "Hipermagnezemia – szczególnie wrażliwe owce: biegunki, wymioty (możliwe zielononiebieskie), kolki; łagodzona przez cynk, żelazo i białko.",
+        "Zapotrzebowanie na siarkę nie jest ujmowane w rekomendacjach żywienia przeżuwaczy, świń i drobiu.",
+        "Siarka wchodzi w skład metioniny, cystyny, cysteiny, biotyny, tiaminy, insuliny, koenzymu A; jest składnikiem sierści, wełny i piór.",
+        "Niedobór S – obniżenie syntezy białek; nadmiar S – zaburzenia nerwowe i oddechowe, upośledzenie motoryki żwacza, wtórny niedobór miedzi.",
+        "Magnez jest też niezbędny w metabolizmie cukrów i lipidów.",
+        "Hipermagnezemia – także zaparcia i nadżerki; objawy toksyczności nasilają się przy niedoborze siarki i molibdenu.",
+        "Siarka jest składnikiem ścian ciałek krwi, kości, ścięgien i błon komórkowych, bierze udział w oddychaniu; wydalana z żółcią do przewodu pokarmowego lub z moczem.",
+        "Niedobór siarki obniża syntezę białek zarówno u zwierząt monogastrycznych, jak i przez mikroorganizmy żwacza u przeżuwaczy."
+      ]
+    },
+    {
+      "heading": "2. Makroelementy – sód, potas, chlor",
+      "points": [
+        "Sód: reguluje homeostazę, ciśnienie osmotyczne, odczyn osocza, umożliwia działanie pompy sodowo-potasowej, reguluje poziom potasu.",
+        "Hiponatremia: spadek objętości płynów, ciśnienia tętniczego, syntezy białek; u krów spadek mleczności – suplementacja sodu w postaci lizawek.",
+        "Hipernatremia: zatrucia, odwodnienie, wzrost ciśnienia; u ptaków wyciek z nozdrzy, płyn w wolu; nadmiar soli tolerowany przy nieograniczonym dostępie do wody.",
+        "Potas: niezbędny do pracy serca, aktywuje enzymy, zmniejsza kurczliwość mięśni, jest antagonistą wapnia.",
+        "Hiperkaliemia jest lepiej tolerowana niż hipernatremia; powoduje biegunki, u drobiu może sprzyjać dyschondroplazji.",
+        "Chlor: aktywator enzymów, reguluje gospodarkę elektrolitową, niezbędny do produkcji kwasu solnego, warunkuje mineralizację skorupy jaj.",
+        "Sód jest składnikiem płynów międzykomórkowych i ustrojowych; niezbędny w syntezie białek i procesach mineralizacji.",
+        "Hiponatremia – także zmiany czynnościowe w komórkach, mniejsza elastyczność tkanki podskórnej; u krów przy spadku mleczności rośnie ilość wydalanego azotu i spada wykorzystanie białka i energii.",
+        "Hipernatremia – także nadmierne wydalanie wody, spadek apetytu; u ptaków wzrost nerwowości i śmiertelności.",
+        "Potas aktywuje enzymy wewnątrzkomórkowe i utrzymuje ciśnienie osmotyczne.",
+        "Chlor wpływa na pH przewodu pokarmowego i reguluje trawienie."
+      ]
+    },
+    {
+      "heading": "2. Mikroelementy – żelazo, cynk, miedź",
+      "points": [
+        "Żelazo: synteza hemoglobiny, składnik mioglobiny, krwiotworzenie; magazynowane w śledzionie, wątrobie, przewodzie pokarmowym i szpiku.",
+        "Wchłanianie Fe jest aktywne (wymaga energii); hamują je duże ilości fosforu, kwas fitynowy, nadmiar wapnia i białka.",
+        "Niedobór Fe – spadek hemoglobiny (anemia), spadek apetytu i przyrostów; nadmiar uszkadza narządy.",
+        "Cynk stabilizuje błony komórkowe, wchodzi w skład ok. 200 białek i metaloenzymów; nadmiar wydalany z żółcią.",
+        "Niedobór Zn: parakeratoza skóry i ścian żwacza, schorzenia wymienia i racic, gorsze gojenie ran, spadek libido; nadmiar Zn – wzrost glukozy we krwi.",
+        "Miedź: składnik enzymów antyoksydacyjnych; jej wchłanianie zależy od poziomu molibdenu, siarki i żelaza w paszy.",
+        "Niedobór Cu: anemia, depigmentacja, zmiany włosa/wełny, zamieranie zarodków, spadek mleczności.",
+        "Nadmiar Cu toksyczny; tolerancja największa u świń; u owiec przewlekły nadmiar może powodować śmierć wskutek śpiączki wątrobowej.",
+        "Żelazo jest składnikiem enzymów w erytrocytach i enzymów procesów oksydoredukcyjnych; niedobór Fe może występować w schorzeniach przewodu pokarmowego (spada też aktywność enzymów zawierających żelazo).",
+        "Cynk bierze udział w syntezie i przemianach białek, lipidów i kwasów nukleinowych, we wzroście i ekspresji genów.",
+        "Niedobór Zn – także spadek tempa wzrostu, brak apetytu, gorsze wykorzystanie paszy, zaburzenia regeneracji nabłonków i keratynizacji wytworów skóry (sierści, piór).",
+        "Miedź bierze udział w produkcji neuropeptydów i katecholamin; występuje w wątrobie, mięśniach, kościach, skórze i sierści; wspomaga odporność jelit (eliminuje niektóre bakterie patogenne i wirusy bez wpływu na florę jelitową).",
+        "Niedobór Cu – także zahamowanie wzrostu, zaburzenia układu nerwowego (również u płodu), upośledzenie spermatogenezy, osłabienie więzadeł; nadmiar Cu toksyczny, bo łatwo magazynuje się w organizmie."
+      ]
+    },
+    {
+      "heading": "2. Mikroelementy – molibden, selen, jod, mangan, kobalt",
+      "points": [
+        "Molibden: metabolizm puryn, forma anionowa jest antagonistą siarki i miedzi; nadmiar Mo prowadzi do deficytu miedzi; niedobory Mo praktycznie nie występują.",
+        "Selen: składnik enzymów oksydacyjnych i selenoprotein (odporność), chroni i współdziała z witaminą E, może ją częściowo zastępować.",
+        "Niedobór Se + wit. E: choroba białych mięśni, dystrofia mięśni (cielęta, owce, kurczęta), wysięki surowicze kurcząt.",
+        "Niedobór samego Se: zatrzymanie łożyska, zaburzenia rozrodu u bydła, zwłóknienie trzustki u kurcząt, dystrofie mięśniowe u świń, syndrom MMA.",
+        "Jod: synteza hormonów tarczycy; niedobór – niedoczynność tarczycy, wole, ronienia, zaburzenia rozrodu, spadek mleczności.",
+        "Mangan: aktywator enzymów, tworzenie białek i chrząstek; niedobór – perozy u drobiu, cicha ruja, ronienia, spadek nieśności, zniekształcenia kończyn piskląt.",
+        "Kobalt wchodzi w skład witaminy B12, uczestniczy w erytropoezie; niedobór – anemie makrocytarne i megaloblastyczne.",
+        "Molibden występuje w wątrobie, śledzionie, nerkach i kościach; jest składnikiem enzymów; nadmiar Mo zmniejsza odkładanie miedzi.",
+        "Selen chroni frakcje lipidowe błon komórkowych przed uszkodzeniami i wpływa na metabolizm; niedobór Se z wit. E powoduje też miopatie.",
+        "Niedobór samego selenu – także owrzodzenia żołądka, degeneracja wątroby i nerek, kardiomiopatie.",
+        "Jod reguluje procesy metaboliczne, wzrost i rozwój, wpływa na syntezę białka; wydalany z moczem. Niedobór – także nieskuteczne krycie, wzrost śmiertelności zarodków, wypadanie sierści.",
+        "Mangan bierze udział w metabolizmie tłuszczów i węglowodanów. Niedobór – duża wrażliwość drobiu, osłabienie wzrostu młodych, anomalie kostno-stawowe, spadek odporności, niska masa noworodków, zaburzenia rozwoju zarodków w okresie lęgowym.",
+        "Kobalt jest składnikiem enzymów syntezy białek, uczestniczy w przemianach kwasów nukleinowych i cyklu Krebsa; niedobór – anemie wskutek wadliwego dojrzewania krwinek, zaburzenia syntezy kwasów nukleinowych."
+      ]
+    },
+    {
+      "heading": "2. Witaminy rozpuszczalne w tłuszczach – A i D",
+      "points": [
+        "Witamina A: formy A1 – retinol (dawniej akseroftol), A2 – dehydroretinol; wpływa na tkankę łączną i chrzęstną, widzenie w ciemności, komórki nabłonkowe.",
+        "Hiperwitaminoza A: nudności, wymioty, zaburzenia koordynacji; hipowitaminoza A: kurza ślepota, gorsze gojenie ran, zaburzenia wzrostu kości i zębów.",
+        "Źródła wit. A: β-karoteny (prowitamina A) z marchwi, dyni, pomidorów; forma czynna w mięsie, wątrobie, mleku, jajach, tranie.",
+        "Witamina D – kalcyferol: D3 (cholekalcyferol) i D2 (ergokalcyferol); reguluje gospodarkę fosforanowo-wapniową.",
+        "Hiperwitaminoza D praktycznie nie występuje u zwierząt – promieniowanie UV rozkłada witaminę D do suprasterolu.",
+        "Hipowitaminoza D opóźnia kostnienie i może prowadzić do krzywicy.",
+        "Witamina D powstaje w organizmie z cholesterolu pod wpływem promieni UV; prowitaminą D2 jest ergosterol z roślin.",
+        "Hipowitaminoza A – także osłabienie wzrostu tkanek miękkich, zaburzenia funkcjonowania naskórka, mniejsza odporność na zakażenia; β-karoten także w pomarańczach i mandarynkach.",
+        "Witamina D bywa zaliczana do hormonów steroidowych (budowa); zwiększa wchłanianie Ca i fosforanów w jelitach (synteza białek wiążących) i resorpcję zwrotną w nerkach; może działać przeciwzapalnie i przeciwalergicznie.",
+        "Przedawkowanie wit. D z paszą możliwe tylko przy przewlekłym podawaniu bardzo dużych ilości."
+      ]
+    },
+    {
+      "heading": "2. Witaminy rozpuszczalne w tłuszczach – E, K, F",
+      "points": [
+        "Witamina E – tokoferol: przeciwutleniacz, wzmacnia naczynia, chroni erytrocyty; hipowitaminoza – niedokrwistość hemolityczna, bezpłodność, osłabienie mięśni.",
+        "Źródła wit. E: orzechy, rośliny zielone, jajka, mięso, wątroba.",
+        "Witamina K: krzepnięcie krwi (synteza protrombiny), regulacja gospodarki wapniowej; źródło – rośliny zielone.",
+        "Hipowitaminoza K – skaza krwotoczna; hiperwitaminoza K – rozpad krwinek czerwonych (niedokrwistość), nadmierne pocenie.",
+        "Witamina F – zespół nienasyconych kwasów tłuszczowych (linolowy, linolenowy, arachidonowy); buduje błony, wyjściowa do syntezy prostaglandyn.",
+        "Niedobór wit. F: zmiany skórne (wyprysk, łupież), większa utrata wody, niedorozwój płodu; źródło – oleje roślinne, tłuszcze zwierzęce.",
+        "Witamina E uczestniczy w dostarczaniu substancji odżywczych do komórek; chroni krwinki czerwone przed przedwczesnym rozpadem.",
+        "Hiperwitaminoza E (długotrwałe zawyżone dawki): zmęczenie, osłabienie mięśni, zaburzenia widzenia; hipowitaminoza E – niedokrwistość hemolityczna (skrócone przeżywanie erytrocytów), także nadmierne rogowacenie i starzenie się skóry.",
+        "Witamina K wpływa na syntezę protrombiny i innych osoczowych czynników krzepnięcia; hipowitaminoza K zwiększa ryzyko krwotoków, spowalnia gojenie ran, utrudnia mineralizację kości; u ludzi wit. K syntetyzują bakterie jelitowe.",
+        "Witamina F jest związkiem wyjściowym do syntezy prostaglandyn, leukotrienów i tromboksanów; niedobór – także sucha, szorstka skóra."
+      ]
+    },
+    {
+      "heading": "2. Witaminy rozpuszczalne w wodzie – C, B1, B2",
+      "points": [
+        "Witamina C: forma zredukowana (kwas askorbinowy) i utleniona (kwas dehydroaskorbinowy); przeciwutleniacz, synteza kolagenu.",
+        "Nadmiar wit. C zwykle wydalany z moczem; niedobór – gorsze gojenie ran, krwawienia, podatność na stres; źródło – głównie owoce soczyste.",
+        "Witamina B1 – tiamina: oddychanie tkankowe, przemiany węglowodanów, składnik koenzymu karboksylaz.",
+        "Hiperwitaminoza B1 występuje jedynie przy przedawkowaniu w iniekcjach; niedobór – zaburzenia OUN, oczopląs, obrzęki kończyn.",
+        "Surowe ryby zawierają tiaminazę rozkładającą tiaminę; źródła B1: strączkowe, niełuskane zboża, drożdże, wątroba, wieprzowina.",
+        "Witamina B2 – ryboflawina: koenzymy FMN i FAD; ulega rozpadowi pod wpływem światła.",
+        "Niedobór B2: uszkodzenia rogówki, światłowstręt, zapalenia błon śluzowych, łuszczenie skóry; źródła – zielone części roślin, mięso, mleczarstwo, drożdże.",
+        "Witamina C: procesy oksydoredukcyjne, chroni witaminy wrażliwe na utlenianie (retinol, K3), reguluje krwiotworzenie, kolagen do budowy naczyń, synteza hormonów kory nadnerczy (przeciwzapalne, przeciwwysiękowe).",
+        "Hiperwitaminoza C bardzo rzadka: dolegliwości żołądkowe, biegunki, wymioty, wysypki; hipowitaminoza C przyspiesza starzenie i upośledza krążenie; w produktach suchych i zwierzęcych wit. C znacznie mniej.",
+        "Witamina B1 pobudza wydzielanie hormonów gonadotropowych, wzmaga działanie acetylocholiny, tyroksyny i insuliny, przyspiesza gojenie ran, łagodzi ból.",
+        "Hipowitaminoza B1 – także osłabienie, zmęczenie, depresja, niewydolność krążenia, nudności, wymioty, biegunka, bóle brzucha, brak apetytu; źródła także: groch, fasola, orzechy, słonecznik, serce; syntetyzowana przez bakterie jelitowe.",
+        "Witamina B2: procesy utleniania i redukcji, układ nerwowy, z wit. A – widzenie i nabłonki, przemiany aminokwasów i tłuszczów; słaba rozpuszczalność w jelitach zapobiega nadmiernemu wchłanianiu, nadmiar usuwany z moczem.",
+        "Hipowitaminoza B2 – także pogorszenie widzenia, upośledzenie wzrostu, zaburzenia oddychania, wypadanie włosów, dystrofie mięśni, łuszczenie okolic nosa, warg, głowy, uszu.",
+        "Źródła witaminy B2 – także rośliny strączkowe."
+      ]
+    },
+    {
+      "heading": "2. Witaminy rozpuszczalne w wodzie – B3, B5, B6",
+      "points": [
+        "Witamina B3 (PP) – niacyna i amid kwasu nikotynowego; przemiany cukrów, tłuszczów, aminokwasów, reguluje cholesterol.",
+        "Znaczny brak B3 powoduje pelagrę – 4D: dermatitis, diarrhoea, dementia, death (zapalenie skóry, biegunka, otępienie, śmierć).",
+        "Witamina B5 – kwas pantotenowy (aktywna forma: koenzym A); uczestniczy w syntezie kortykosteroidów.",
+        "Niedobór B5: zahamowanie wzrostu, sztywność stawów, przedwczesne siwienie; u przeżuwaczy B5 syntetyzują mikroorganizmy żwacza.",
+        "Witamina B6 – pirydoksyna: przemiany białka, powstawanie hemoglobiny, funkcjonowanie układu nerwowego.",
+        "Nadmiar pirydoksyny (2 g/kg masy ciała) może być neurotoksyczny – zaleca się fosforan pirydoksalu.",
+        "Niedobór B6: drgawki, apatia, niedokrwistość; źródła – zboża, otręby, nasiona strączkowych, drożdże, mączki mięsne i rybne.",
+        "Witamina B3: przemiany uwalniające energię, krwiotworzenie, rozszerza naczynia, poprawia ukrwienie skóry i kondycję włosów; hiperwitaminoza – zaczerwienienie, świąd, wysypka; nieznaczny niedobór spowalnia metabolizm i zwiększa wrażliwość na zimno; źródła – zboża, orzechy, warzywa, owoce, produkty zwierzęce, bakterie jelitowe.",
+        "Witamina B5 – mieszanina kwasu pantotenowego, panteiny, pantenolu i koenzymu A; metabolizm cukrów, tłuszczów, białek, tkanka nerwowa i skóra, wzrost i pigmentacja włosów, łagodzi stany zapalne.",
+        "Hiperwitaminoza B5 – biegunki, bez działania toksycznego; niedobór B5 – także zmęczenie, zaburzenia snu, uszkodzenie nadnerczy; źródła – pełne ziarna, strączkowe, drożdże, mięso, jaja.",
+        "Witamina B6: powstawanie enzymów, hormonów, prostaglandyn; dekarboksylacja; reguluje pracę serca i ciśnienie krwi; łagodzi ból. Nadmiar powoduje neuropatie obwodowe; niedobór – także depresja, bezsenność, zapalenie nerwów, spadek odporności, stany zapalne skóry."
+      ]
+    },
+    {
+      "heading": "2. Witaminy rozpuszczalne w wodzie – B7, B9, B12",
+      "points": [
+        "Witamina B7 (H) – biotyna: lipogeneza, glukoneogeneza, czynnik wzrostowy; nie stwierdzono toksyczności.",
+        "Niedobór biotyny: stłuszczenie wątroby, schorzenia racic, pękanie opuszków skoków u drobiu; dużo biotyny w zbożach (oprócz kukurydzy), otrębach, żółtku.",
+        "Witamina B11 (B9) – kwas foliowy: synteza kwasów nukleinowych, tworzenie erytrocytów, ochrona układu nerwowego płodu.",
+        "Niedobór kwasu foliowego – anemia megaloblastyczna; źródła: liście, drożdże, wątroba.",
+        "Witamina B12 – cyjanokobalamina: wchłaniana w jelicie po połączeniu z czynnikiem ze śluzówki żołądka.",
+        "Niedobór B12 – anemia makrocytarna, megaloblastyczna (złośliwa), objawy neurologiczne.",
+        "B12 nie występuje w paszach roślinnych; u przeżuwaczy syntetyzowana przez mikroorganizmy żwacza przy dostępności kobaltu.",
+        "Biotyna bierze udział w syntezie białek i zasad purynowych; niedobór – także łuszczenie skóry, wypadanie włosów, wzrost cholesterolu; źródła także nasiona oleiste, drożdże, wątroba; syntetyzowana przez bakterie jelitowe.",
+        "Kwas foliowy: hemoglobina, wzrost i podział komórek, materiał genetyczny, układ pokarmowy (sok żołądkowy). Nadmiar – rozdrażnienie, bezsenność, depresja, alergie skórne, zaburzenia pokarmowe, ryzyko schorzeń oddechowych płodu; niedobór – także zahamowanie wzrostu, lęki, zaburzenia trawienia i wchłaniania, zapalenia błon śluzowych; mało w ziarnach zbóż.",
+        "Witamina B12: procesy anaboliczne, synteza protoporfiryn, struktury nukleinowe; nadmiar nietoksyczny, może dawać alergie; źródła – wątroba, nerki.",
+        "Anemia z niedoboru B12: osłabienie, męczliwość, tachykardia, bladość błon śluzowych i skóry, utrata apetytu, chudnięcie; objawy neurologiczne (parestezje kończyn, osłabienie mięśni, niepewny chód, skurcze, zaburzenia czucia), w skrajnych stanach śpiączka.",
+        "Hipowitaminoza kwasu foliowego (B9) – także przemęczenie, niepokój, depresja, bezsenność; źródła – wegetatywne części roślin (liście), dużo w drożdżach i wątrobie."
+      ]
+    },
+    {
+      "heading": "3. Racjonalne żywienie zwierząt",
+      "points": [
+        "Zadania żywienia: pokrycie zapotrzebowania bytowego i produkcyjnego, zapobieganie schorzeniom, wspomaganie terapii.",
+        "Racjonalne żywienie – pokrycie zapotrzebowania na energię, białko, witaminy i składniki mineralne; u zwierząt hodowlanych uwzględnia potrzeby bytowe i produkcyjne.",
+        "Zapotrzebowanie bytowe – ilość składników niezbędna do podtrzymania podstawowych procesów życiowych bez zmiany masy i składu organizmu.",
+        "Zapotrzebowanie produkcyjne – dodatkowa porcja składników na uzyskanie efektów (np. mleko, przyrosty masy).",
+        "Norma żywieniowa – określa dawkę dobową składników pokarmowych potrzebną do pokrycia zapotrzebowania zwierzęcia.",
+        "Wielkość i skład dawki zależą od: gatunku, stanu fizjologicznego, masy ciała, kierunku produkcji/przeznaczenia, wielkości produkcji/intensywności pracy.",
+        "Nadmiar składników zawyża koszty żywienia; niedobory prowadzą do chorób, kosztów leczenia i strat w produkcji.",
+        "Zapotrzebowanie bytowe pokrywa się przez dostarczenie białka, soli mineralnych, witamin, części lipidów, pierwiastków śladowych oraz energii z tłuszczów i węglowodanów; obejmuje np. krążenie krwi, oddychanie, odnawianie komórek.",
+        "Zapobieganie schorzeniom – dobór diety i specyficznych składników (np. przeciwutleniacze spowalniające starzenie); wspomaganie terapii – np. w rekonwalescencji.",
+        "Racjonalne żywienie opiera się na normach żywieniowych; pozwala uzyskać miarodajne wyniki produkcyjne, ograniczyć wydatki i najlepiej wykorzystać paszę.",
+        "Przykłady czynników dawki: stan fizjologiczny – wzrost młodych, ciąża, laktacja; masa ciała wpływa na zapotrzebowanie bytowe; kierunek – mleczny, mięsny, konie i psy pracujące; intensywność – wydajność laktacji, końcowa masa tucznika, konie sportowe/pociągowe, psy stróżujące/towarzyszące.",
+        "Gatunek zwierzęcia jako czynnik dawki – determinuje sposób odżywiania, rodzaj pokarmu i substancji dostarczanych z pożywieniem.",
+        "Pokrycie zapotrzebowania produkcyjnego – dostarczenie odpowiednich składników w ilości zależnej od kierunku i wielkości produkcji; wspomaganie terapii – wzmocnienie organizmu i dostarczenie substancji pomocniczych przy powrocie do zdrowia."
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Antywitaminy – Związki naturalne lub syntetyczne podobne strukturalnie do witamin, które znoszą ich działanie: hamują enzymy aktywujące witaminy, blokują receptory lub tworzą nierozpuszczalne kompleksy.",
+        "Witamina A – formy, rola, źródła – A1 retinol, A2 dehydroretinol; wzrost (tkanka łączna i chrzęstna), widzenie w ciemności, nabłonki. Źródła: β-karoten (marchew, dynia), wątroba, mleko, jaja, tran.",
+        "Witamina D (kalcyferol) – Reguluje gospodarkę wapniowo-fosforanową; powstaje w skórze z cholesterolu pod wpływem światła, prowitamina ergosterol w roślinach; niedobór – krzywica, opóźnione kostnienie.",
+        "Witamina E (tokoferol) – Przeciwutleniacz, wzmacnia naczynia, chroni krwinki; źródła: orzechy, rośliny zielone, jaja, wątroba; niedobór – niedokrwistość hemolityczna, bezpłodność, osłabienie mięśni.",
+        "Witamina K – Krzepnięcie krwi (synteza protrombiny), gospodarka wapniowa; źródła: rośliny zielone, synteza bakteryjna w jelicie; niedobór – skaza krwotoczna."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Makroelementy – próg zawartości w organizmie",
+      "back": "Powyżej 250 mg/kg masy ciała."
+    },
+    {
+      "front": "Wymień makroelementy (7)",
+      "back": "Wapń, fosfor, magnez, siarka, sód, potas, chlor."
+    },
+    {
+      "front": "Wymień mikroelementy (8)",
+      "back": "Żelazo, cynk, miedź, molibden, selen, jod, mangan, kobalt."
+    },
+    {
+      "front": "Witaminy – definicja",
+      "back": "Egzogenne mikroskładniki organiczne, niewytwarzane lub wytwarzane w niewielkim stopniu w organizmie; pełnią rolę bioregulacyjną."
+    },
+    {
+      "front": "Kto syntetyzuje witaminy rozpuszczalne w wodzie u przeżuwaczy?",
+      "back": "Mikroorganizmy żwacza."
+    },
+    {
+      "front": "Antywitaminy",
+      "back": "Związki naturalne lub sztuczne znoszące działanie witamin."
+    },
+    {
+      "front": "Hiperwitaminoza",
+      "back": "Stan chorobowy wywołany nadmiarem witaminy (głównie witamin magazynowanych: A, D, z grupy B)."
+    },
+    {
+      "front": "Hipowitaminoza",
+      "back": "Częściowy niedobór witaminy; objawy ustępują po suplementacji."
+    },
+    {
+      "front": "Awitaminoza",
+      "back": "Całkowity brak witaminy w organizmie, wynik pogłębiającej się hipowitaminozy."
+    },
+    {
+      "front": "Sucha masa",
+      "back": "Substancja organiczna i mineralna paszy pozostająca po odparowaniu wody."
+    },
+    {
+      "front": "Białko ogólne",
+      "back": "Wszystkie związki paszy zawierające azot: białko właściwe i związki azotowe niebiałkowe."
+    },
+    {
+      "front": "Białko ogólne strawne",
+      "back": "Różnica między białkiem ogólnym pobranym z paszą a białkiem wydalonym z kałem."
+    },
+    {
+      "front": "Popiół surowy",
+      "back": "Część nieorganiczna pozostała po spaleniu substancji organicznej paszy."
+    },
+    {
+      "front": "Z czego składa się sucha masa paszy?",
+      "back": "Z popiołu surowego i substancji organicznej."
+    },
+    {
+      "front": "Składniki węglowodanów w schemacie analizy paszy",
+      "back": "Włókno surowe i związki bezazotowe wyciągowe."
+    },
+    {
+      "front": "Jaki % wapnia organizmu znajduje się w kościach?",
+      "back": "98%."
+    },
+    {
+      "front": "Udział wapnia w popiele surowym",
+      "back": "36,5%."
+    },
+    {
+      "front": "Które zwierzęta lepiej znoszą nadmiar wapnia?",
+      "back": "Krowy mleczne i nioski."
+    },
+    {
+      "front": "Skutek niedoboru Ca u młodych / u dorosłych",
+      "back": "Krzywica u młodych, osteomalacja u dorosłych."
+    },
+    {
+      "front": "Łamikost – u jakich zwierząt głównie?",
+      "back": "U loch i tuczników (długotrwały niedobór Ca)."
+    },
+    {
+      "front": "Jaki % fosforu organizmu jest w kościach i krwi?",
+      "back": "85%."
+    },
+    {
+      "front": "Co obniża wchłanianie fosforu?",
+      "back": "Wysoki poziom włókna w paszy."
+    },
+    {
+      "front": "Wchłanianie magnezu u przeżuwaczy",
+      "back": "W przedżołądkach, 5–30%."
+    },
+    {
+      "front": "Wchłanianie magnezu u zwierząt monogastrycznych i drobiu",
+      "back": "W jelicie cienkim, ok. 60%."
+    },
+    {
+      "front": "Tężyczka pastwiskowa – niedobór czego?",
+      "back": "Magnezu (hipomagnezemia u przeżuwaczy)."
+    },
+    {
+      "front": "Które zwierzęta są szczególnie wrażliwe na hipermagnezemię?",
+      "back": "Owce."
+    },
+    {
+      "front": "Aminokwasy zawierające siarkę",
+      "back": "Metionina, cystyna, cysteina."
+    },
+    {
+      "front": "Nadmiar siarki powoduje wtórny niedobór…",
+      "back": "Miedzi."
+    },
+    {
+      "front": "Jak suplementuje się sód u krów?",
+      "back": "W postaci lizawek."
+    },
+    {
+      "front": "Kiedy nadmiar soli może być tolerowany?",
+      "back": "Przy nieograniczonym dostępie do wody."
+    },
+    {
+      "front": "Antagonista wapnia wśród makroelementów",
+      "back": "Potas."
+    },
+    {
+      "front": "Hiperkaliemia może sprzyjać u drobiu…",
+      "back": "Dyschondroplazji."
+    },
+    {
+      "front": "Pierwiastek niezbędny do produkcji kwasu solnego",
+      "back": "Chlor."
+    },
+    {
+      "front": "Co hamuje wchłanianie żelaza?",
+      "back": "Duże ilości fosforu, kwas fitynowy, nadmiar wapnia, nadmiar białka."
+    },
+    {
+      "front": "Gdzie magazynowane jest żelazo?",
+      "back": "W śledzionie, wątrobie, przewodzie pokarmowym, szpiku kostnym."
+    },
+    {
+      "front": "Parakeratoza – niedobór którego pierwiastka?",
+      "back": "Cynku."
+    },
+    {
+      "front": "W skład ilu białek i metaloenzymów wchodzi cynk?",
+      "back": "Ok. 200."
+    },
+    {
+      "front": "Od czego zależy wchłanianie miedzi?",
+      "back": "Od poziomu molibdenu, siarki i żelaza w paszy."
+    },
+    {
+      "front": "Który gatunek najlepiej toleruje wysokie dawki miedzi?",
+      "back": "Świnie."
+    },
+    {
+      "front": "Skutek przewlekłego nadmiaru miedzi u owiec",
+      "back": "Śmierć wskutek śpiączki wątrobowej."
+    },
+    {
+      "front": "Nadmiar molibdenu prowadzi do…",
+      "back": "Deficytu miedzi."
+    },
+    {
+      "front": "Choroba białych mięśni – niedobór czego?",
+      "back": "Selenu wraz z witaminą E."
+    },
+    {
+      "front": "Z którą witaminą współdziała selen?",
+      "back": "Z witaminą E."
+    },
+    {
+      "front": "Niedobór jodu prowadzi do…",
+      "back": "Niedoczynności tarczycy i wola, zaburzeń rozrodu, ronień, spadku mleczności."
+    },
+    {
+      "front": "Perozy u drobiu – niedobór czego?",
+      "back": "Manganu."
+    },
+    {
+      "front": "Pierwiastek wchodzący w skład witaminy B12",
+      "back": "Kobalt."
+    },
+    {
+      "front": "Formy witaminy A",
+      "back": "A1 – retinol (dawniej akseroftol), A2 – dehydroretinol."
+    },
+    {
+      "front": "Kurza ślepota – niedobór której witaminy?",
+      "back": "Witaminy A."
+    },
+    {
+      "front": "Prowitamina A",
+      "back": "β-karoten (np. marchew, dynia, pomidory)."
+    },
+    {
+      "front": "Formy witaminy D",
+      "back": "D3 – cholekalcyferol, D2 – ergokalcyferol."
+    },
+    {
+      "front": "Dlaczego hiperwitaminoza D praktycznie nie występuje u zwierząt?",
+      "back": "Promieniowanie UV rozkłada witaminę D do suprasterolu."
+    },
+    {
+      "front": "Z czego powstaje witamina D w organizmie?",
+      "back": "Z cholesterolu pod wpływem promieni UV."
+    },
+    {
+      "front": "Prowitamina D2",
+      "back": "Ergosterol (w roślinach)."
+    },
+    {
+      "front": "Witamina E – nazwa chemiczna",
+      "back": "Tokoferol."
+    },
+    {
+      "front": "Niedobór witaminy E powoduje…",
+      "back": "Niedokrwistość hemolityczną, bezpłodność, osłabienie mięśni."
+    },
+    {
+      "front": "Skaza krwotoczna – niedobór której witaminy?",
+      "back": "Witaminy K."
+    },
+    {
+      "front": "Witamina F – co to jest?",
+      "back": "Zespół nienasyconych kwasów tłuszczowych: linolowy, linolenowy, arachidonowy."
+    },
+    {
+      "front": "Formy witaminy C",
+      "back": "Kwas askorbinowy (zredukowana) i dehydroaskorbinowy (utleniona)."
+    },
+    {
+      "front": "Witamina B1 – nazwa",
+      "back": "Tiamina."
+    },
+    {
+      "front": "Enzym w surowych rybach rozkładający tiaminę",
+      "back": "Tiaminaza."
+    },
+    {
+      "front": "Witamina B2 – nazwa i koenzymy",
+      "back": "Ryboflawina; FMN i FAD."
+    },
+    {
+      "front": "Która witamina B ulega rozpadowi pod wpływem światła?",
+      "back": "B2 – ryboflawina."
+    },
+    {
+      "front": "Pelagra – niedobór której witaminy?",
+      "back": "B3 (PP); objawy 4D: zapalenie skóry, biegunka, otępienie, śmierć."
+    },
+    {
+      "front": "Witamina B5 – co to jest?",
+      "back": "Kwas pantotenowy i jego pochodne; aktywna forma – koenzym A."
+    },
+    {
+      "front": "Witamina B6 – nazwa",
+      "back": "Pirydoksyna."
+    },
+    {
+      "front": "Neurotoksyczna dawka pirydoksyny",
+      "back": "2 g/kg masy ciała."
+    },
+    {
+      "front": "Witamina B7 (H) – nazwa",
+      "back": "Biotyna."
+    },
+    {
+      "front": "W którym zbożu jest mało biotyny?",
+      "back": "W kukurydzy."
+    },
+    {
+      "front": "Witamina B11 (B9) – nazwa",
+      "back": "Kwas foliowy."
+    },
+    {
+      "front": "Witamina B12 – nazwa",
+      "back": "Cyjanokobalamina."
+    },
+    {
+      "front": "Czy B12 występuje w paszach roślinnych?",
+      "back": "Nie; u przeżuwaczy syntetyzują ją mikroorganizmy żwacza przy dostępności kobaltu."
+    },
+    {
+      "front": "Zapotrzebowanie bytowe",
+      "back": "Ilość składników do podtrzymania podstawowych procesów życiowych bez zmiany masy i składu organizmu."
+    },
+    {
+      "front": "Zapotrzebowanie produkcyjne",
+      "back": "Dodatkowe składniki potrzebne do uzyskania efektów produkcyjnych (mleko, przyrosty)."
+    },
+    {
+      "front": "Norma żywieniowa",
+      "back": "Określa dawkę dobową składników pokarmowych pokrywającą zapotrzebowanie zwierzęcia."
+    },
+    {
+      "front": "Czynniki wpływające na wielkość i skład dawki (5)",
+      "back": "Gatunek, stan fizjologiczny, masa ciała, kierunek produkcji/przeznaczenia, wielkość produkcji/intensywność pracy."
+    },
+    {
+      "front": "Zadania żywienia (4)",
+      "back": "Pokrycie zapotrzebowania bytowego, pokrycie zapotrzebowania produkcyjnego, zapobieganie schorzeniom, wspomaganie terapii."
+    },
+    {
+      "front": "Związki organiczne – dawne znaczenie",
+      "back": "Substancje występujące w organizmach żywych i ich syntetyczne pochodne."
+    },
+    {
+      "front": "Co dzieje się z nadmiarem witamin niemagazynowanych w organizmie?",
+      "back": "Jest wydalany (przyswajane są w ograniczonej ilości)."
+    },
+    {
+      "front": "Witamina A – formy, rola, źródła",
+      "back": "A1 retinol, A2 dehydroretinol; wzrost (tkanka łączna i chrzęstna), widzenie w ciemności, nabłonki. Źródła: β-karoten (marchew, dynia), wątroba, mleko, jaja, tran."
+    },
+    {
+      "front": "Witamina D (kalcyferol)",
+      "back": "Reguluje gospodarkę wapniowo-fosforanową; powstaje w skórze z cholesterolu pod wpływem światła, prowitamina ergosterol w roślinach; niedobór – krzywica, opóźnione kostnienie."
+    },
+    {
+      "front": "Witamina E (tokoferol)",
+      "back": "Przeciwutleniacz, wzmacnia naczynia, chroni krwinki; źródła: orzechy, rośliny zielone, jaja, wątroba; niedobór – niedokrwistość hemolityczna, bezpłodność, osłabienie mięśni."
+    },
+    {
+      "front": "Witamina K",
+      "back": "Krzepnięcie krwi (synteza protrombiny), gospodarka wapniowa; źródła: rośliny zielone, synteza bakteryjna w jelicie; niedobór – skaza krwotoczna."
+    },
+    {
+      "front": "Objawy hipermagnezemii",
+      "back": "Zaburzenia przewodu pokarmowego, biegunki, wymioty (możliwe zielononiebieskie), kolki, zaparcia, nadżerki; nasilają się przy niedoborze S i Mo, łagodzi je odpowiedni poziom Zn, Fe i białka. Najbardziej wrażliwe owce."
+    },
+    {
+      "front": "Dlaczego hiperfosfatemia powoduje ścieńczenie skorup jaj?",
+      "back": "Zaburza pozyskiwanie wapnia z kości niosek na budowę skorupy."
+    },
+    {
+      "front": "Objawy niedoboru cynku",
+      "back": "Spadek tempa wzrostu, brak apetytu, gorsze wykorzystanie paszy, parakeratoza skóry i ścian żwacza, schorzenia wymienia i racic, zaburzenia keratynizacji sierści/piór, gorsze gojenie ran, spadek libido."
+    },
+    {
+      "front": "Objawy niedoboru miedzi",
+      "back": "Anemia (spadek przemian żelaza), zahamowanie wzrostu, zmiany struktury włosa, depigmentacja, zaburzenia nerwowe (też u płodu), zamieranie zarodków, upośledzona spermatogeneza, osłabienie więzadeł, spadek mleczności."
+    },
+    {
+      "front": "Objawy niedoboru manganu",
+      "back": "Wrażliwość drobiu, osłabienie wzrostu, anomalie kostno-stawowe, spadek odporności, cicha ruja, ronienia, niska masa noworodków, perozy, spadek nieśności, zniekształcenia kończyn piskląt, zaburzenia rozwoju zarodków."
+    },
+    {
+      "front": "Objawy hiperwitaminozy E",
+      "back": "Zmęczenie, osłabienie mięśni, zaburzenia widzenia (przy długotrwałych zawyżonych dawkach)."
+    },
+    {
+      "front": "Które witaminy chroni witamina C przed utlenianiem?",
+      "back": "Retinol (wit. A) i witaminę K3."
+    },
+    {
+      "front": "Witamina B5 – z czego się składa?",
+      "back": "Mieszanina kwasu pantotenowego, panteiny, pantenolu i koenzymu A (forma aktywna)."
+    },
+    {
+      "front": "Dlaczego hiperwitaminoza B2 praktycznie nie występuje?",
+      "back": "Słaba rozpuszczalność w jelitach ogranicza wchłanianie, a nadmiar jest usuwany z moczem."
+    },
+    {
+      "front": "Jaki związek zaleca się zamiast pirydoksyny, by uniknąć neuropatii?",
+      "back": "Fosforan pirydoksalu."
+    },
+    {
+      "front": "Związki powstające z witaminy F",
+      "back": "Prostaglandyny, leukotrieny i tromboksany."
+    },
+    {
+      "front": "Czym różni się awitaminoza od hipowitaminozy w leczeniu?",
+      "back": "Przy awitaminozie objawy są bardziej nasilone, leczenie wymaga większych dawek witaminy i może trwać dłużej; nieleczona prowadzi do wyniszczenia organizmu i zgonu."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Makroelementy to składniki występujące w organizmie w ilości:",
+      "options": [
+        "poniżej 1 mg/kg masy ciała",
+        "powyżej 25 g/kg masy ciała",
+        "powyżej 250 mg/kg masy ciała",
+        "od 1 do 10 mg/kg masy ciała"
+      ],
+      "answer": 2,
+      "explain": "Makroelementy występują w organizmie w ilości powyżej 250 mg/kg masy ciała."
+    },
+    {
+      "q": "Który pierwiastek należy do mikroelementów?",
+      "options": [
+        "Selen",
+        "Magnez",
+        "Sód",
+        "Chlor"
+      ],
+      "answer": 0,
+      "explain": "Selen należy do mikroelementów, obok Fe, Zn, Cu, Mo, I, Mn i Co."
+    },
+    {
+      "q": "Który pierwiastek należy do makroelementów?",
+      "options": [
+        "Cynk",
+        "Jod",
+        "Kobalt",
+        "Siarka"
+      ],
+      "answer": 3,
+      "explain": "Siarka (S) jest jednym z siedmiu makroelementów."
+    },
+    {
+      "q": "Całkowity brak witaminy w organizmie to:",
+      "options": [
+        "hipowitaminoza",
+        "awitaminoza",
+        "hiperwitaminoza",
+        "antywitaminoza"
+      ],
+      "answer": 1,
+      "explain": "Awitaminoza to całkowity brak witaminy wskutek pogłębiającej się hipowitaminozy."
+    },
+    {
+      "q": "Hiperwitaminoza dotyczy głównie witamin:",
+      "options": [
+        "wyłącznie rozpuszczalnych w wodzie",
+        "wyłącznie witaminy C",
+        "magazynowanych w organizmie, np. A i D",
+        "których nadmiar jest zawsze wydalany"
+      ],
+      "answer": 2,
+      "explain": "Hiperwitaminoza dotyczy witamin magazynowanych w organizmie, głównie A i D."
+    },
+    {
+      "q": "Białko ogólne strawne to różnica między białkiem pobranym z paszą a białkiem:",
+      "options": [
+        "wydalonym z kałem",
+        "wydalonym z moczem",
+        "zawartym w mleku",
+        "odłożonym w mięśniach"
+      ],
+      "answer": 0,
+      "explain": "Białko ogólne strawne to różnica między białkiem pobranym a wydalonym z kałem."
+    },
+    {
+      "q": "Część paszy pozostała po spaleniu substancji organicznej to:",
+      "options": [
+        "sucha masa",
+        "włókno surowe",
+        "tłuszcz surowy",
+        "popiół surowy"
+      ],
+      "answer": 3,
+      "explain": "Pozostała część nieorganiczna to popiół surowy."
+    },
+    {
+      "q": "Jaki odsetek wapnia organizmu znajduje się w kościach?",
+      "options": [
+        "50%",
+        "98%",
+        "75%",
+        "85%"
+      ],
+      "answer": 1,
+      "explain": "Wapń występuje głównie w kościach – 98% wapnia organizmu."
+    },
+    {
+      "q": "Długotrwały niedobór wapnia u loch i tuczników może powodować:",
+      "options": [
+        "tężyczkę pastwiskową",
+        "parakeratozę",
+        "łamikost",
+        "pelagrę"
+      ],
+      "answer": 2,
+      "explain": "Długotrwały niedobór Ca może powodować łamikost, głównie u loch i tuczników."
+    },
+    {
+      "q": "Wchłanianie fosforu spada przy wysokim poziomie w paszy:",
+      "options": [
+        "włókna",
+        "białka",
+        "witaminy D",
+        "wody"
+      ],
+      "answer": 0,
+      "explain": "Wchłanianie fosforu spada przy wysokim poziomie włókna w paszy."
+    },
+    {
+      "q": "U przeżuwaczy magnez wchłaniany jest w przedżołądkach w ilości:",
+      "options": [
+        "ok. 60%",
+        "80–90%",
+        "1–2%",
+        "5–30%"
+      ],
+      "answer": 3,
+      "explain": "U przeżuwaczy Mg wchłaniany jest w przedżołądkach w 5–30%."
+    },
+    {
+      "q": "Tężyczka pastwiskowa u przeżuwaczy jest objawem:",
+      "options": [
+        "hiperkalcemii",
+        "hipomagnezemii",
+        "hipernatremii",
+        "niedoboru jodu"
+      ],
+      "answer": 1,
+      "explain": "Hipomagnezemia u przeżuwaczy objawia się tężyczką pastwiskową."
+    },
+    {
+      "q": "Na hipermagnezemię szczególnie wrażliwe są:",
+      "options": [
+        "świnie",
+        "konie",
+        "owce",
+        "kury"
+      ],
+      "answer": 2,
+      "explain": "Na hipermagnezemię szczególnie wrażliwe są owce."
+    },
+    {
+      "q": "Nadmiar siarki w dawce powoduje wtórny niedobór:",
+      "options": [
+        "miedzi",
+        "sodu",
+        "wapnia",
+        "witaminy C"
+      ],
+      "answer": 0,
+      "explain": "Nadmiar siarki powoduje wtórny niedobór miedzi."
+    },
+    {
+      "q": "Sód u krów suplementuje się najczęściej w postaci:",
+      "options": [
+        "iniekcji",
+        "wody z kwasem solnym",
+        "kiszonki",
+        "lizawek"
+      ],
+      "answer": 3,
+      "explain": "Przy niedoborze sodu u krów stosuje się suplementację w postaci lizawek."
+    },
+    {
+      "q": "Antagonistą wapnia jest:",
+      "options": [
+        "fosfor",
+        "potas",
+        "witamina D",
+        "chlor"
+      ],
+      "answer": 1,
+      "explain": "Potas jest antagonistą wapnia."
+    },
+    {
+      "q": "Kwas fitynowy i nadmiar wapnia hamują wchłanianie:",
+      "options": [
+        "sodu",
+        "chloru",
+        "żelaza",
+        "witaminy B12"
+      ],
+      "answer": 2,
+      "explain": "Wchłanianie żelaza mogą hamować duże ilości fosforu, kwas fitynowy, nadmiar wapnia i białka."
+    },
+    {
+      "q": "Parakeratoza skóry i ścian żwacza jest objawem niedoboru:",
+      "options": [
+        "cynku",
+        "żelaza",
+        "jodu",
+        "molibdenu"
+      ],
+      "answer": 0,
+      "explain": "Niedobór cynku powoduje parakeratozę skóry i ścian żwacza."
+    },
+    {
+      "q": "Który gatunek najlepiej toleruje wysokie dawki miedzi?",
+      "options": [
+        "Owce",
+        "Kozy",
+        "Bydło",
+        "Świnie"
+      ],
+      "answer": 3,
+      "explain": "Tolerancja wysokich dawek miedzi jest największa u świń."
+    },
+    {
+      "q": "Nadmiar molibdenu prowadzi do deficytu:",
+      "options": [
+        "cynku",
+        "miedzi",
+        "manganu",
+        "selenu"
+      ],
+      "answer": 1,
+      "explain": "Nadmiar molibdenu zmniejsza odkładanie miedzi, prowadząc do jej deficytu."
+    },
+    {
+      "q": "Choroba białych mięśni u cieląt wynika z niedoboru selenu i witaminy:",
+      "options": [
+        "A",
+        "C",
+        "E",
+        "K"
+      ],
+      "answer": 2,
+      "explain": "Niedobory selenu z witaminą E powodują chorobę białych mięśni."
+    },
+    {
+      "q": "Wole jest konsekwencją niedoboru:",
+      "options": [
+        "jodu",
+        "kobaltu",
+        "manganu",
+        "potasu"
+      ],
+      "answer": 0,
+      "explain": "Niedobór jodu prowadzi do niedoczynności tarczycy i tworzenia wola."
+    },
+    {
+      "q": "Perozy u drobiu są objawem niedoboru:",
+      "options": [
+        "miedzi",
+        "sodu",
+        "witaminy C",
+        "manganu"
+      ],
+      "answer": 3,
+      "explain": "Niedobór manganu powoduje m.in. perozy u drobiu."
+    },
+    {
+      "q": "Kobalt wchodzi w skład witaminy:",
+      "options": [
+        "B1",
+        "B12",
+        "A",
+        "D"
+      ],
+      "answer": 1,
+      "explain": "Kobalt wchodzi w skład witaminy B12."
+    },
+    {
+      "q": "Kurza ślepota jest objawem hipowitaminozy:",
+      "options": [
+        "D",
+        "K",
+        "A",
+        "B1"
+      ],
+      "answer": 2,
+      "explain": "Hipowitaminoza A powoduje zaburzenia widzenia przy ograniczonym oświetleniu – kurzą ślepotę."
+    },
+    {
+      "q": "Prowitaminą witaminy A jest:",
+      "options": [
+        "β-karoten",
+        "ergosterol",
+        "cholesterol",
+        "tiaminaza"
+      ],
+      "answer": 0,
+      "explain": "β-karoteny warzyw i owoców stanowią prowitaminę A."
+    },
+    {
+      "q": "Hiperwitaminoza D jest praktycznie nieobserwowana u zwierząt, ponieważ:",
+      "options": [
+        "witamina D nie jest magazynowana",
+        "witamina D jest rozpuszczalna w wodzie",
+        "zwierzęta nie wytwarzają witaminy D",
+        "promieniowanie UV rozkłada witaminę D do suprasterolu"
+      ],
+      "answer": 3,
+      "explain": "Promieniowanie UV rozkłada witaminę D do suprasterolu i zapobiega nadprodukcji."
+    },
+    {
+      "q": "Hipowitaminoza D może prowadzić do:",
+      "options": [
+        "pelagry",
+        "krzywicy",
+        "skazy krwotocznej",
+        "kurzej ślepoty"
+      ],
+      "answer": 1,
+      "explain": "Hipowitaminoza D opóźnia kostnienie i może prowadzić do krzywicy."
+    },
+    {
+      "q": "Tokoferol to witamina:",
+      "options": [
+        "K",
+        "A",
+        "E",
+        "B6"
+      ],
+      "answer": 2,
+      "explain": "Witamina E to tokoferol."
+    },
+    {
+      "q": "Skaza krwotoczna może być wynikiem hipowitaminozy:",
+      "options": [
+        "K",
+        "E",
+        "B2",
+        "F"
+      ],
+      "answer": 0,
+      "explain": "Hipowitaminoza K może być przyczyną skazy krwotocznej."
+    },
+    {
+      "q": "Witamina F to zespół:",
+      "options": [
+        "aminokwasów siarkowych",
+        "karotenoidów",
+        "steroli roślinnych",
+        "nienasyconych kwasów tłuszczowych"
+      ],
+      "answer": 3,
+      "explain": "Witamina F to zespół nienasyconych kwasów tłuszczowych: linolowego, linolenowego, arachidonowego."
+    },
+    {
+      "q": "Tiaminę rozkłada tiaminaza występująca w:",
+      "options": [
+        "drożdżach",
+        "surowych rybach",
+        "nasionach grochu",
+        "wątrobie"
+      ],
+      "answer": 1,
+      "explain": "W surowych rybach występuje tiaminaza, która rozkłada tiaminę."
+    },
+    {
+      "q": "Pod wpływem światła ulega rozpadowi witamina:",
+      "options": [
+        "B12",
+        "D",
+        "B2",
+        "B7"
+      ],
+      "answer": 2,
+      "explain": "Witamina B2 (ryboflawina) ulega rozpadowi pod wpływem światła."
+    },
+    {
+      "q": "Pelagra jest skutkiem znacznego niedoboru witaminy:",
+      "options": [
+        "B3 (PP)",
+        "B1",
+        "B6",
+        "C"
+      ],
+      "answer": 0,
+      "explain": "Znaczny brak witaminy B3 powoduje pelagrę (4D)."
+    },
+    {
+      "q": "Witamina B12 u przeżuwaczy jest syntetyzowana przez mikroorganizmy żwacza przy dostępności:",
+      "options": [
+        "jodu",
+        "selenu",
+        "manganu",
+        "kobaltu"
+      ],
+      "answer": 3,
+      "explain": "B12 u przeżuwaczy syntetyzowana jest przez mikroorganizmy żwacza przy dostępności kobaltu."
+    },
+    {
+      "q": "Ilość składników potrzebna do podtrzymania procesów życiowych bez zmiany masy ciała to zapotrzebowanie:",
+      "options": [
+        "produkcyjne",
+        "bytowe",
+        "rozrodcze",
+        "wzrostowe"
+      ],
+      "answer": 1,
+      "explain": "Zapotrzebowanie bytowe określa składniki do podtrzymania podstawowych procesów życiowych bez zmiany masy."
+    },
+    {
+      "q": "Dawkę dobową składników pokarmowych dla danego zwierzęcia określa:",
+      "options": [
+        "zapotrzebowanie bytowe",
+        "analiza popiołu",
+        "norma żywieniowa",
+        "białko ogólne strawne"
+      ],
+      "answer": 2,
+      "explain": "Norma żywieniowa określa dawkę dobową składników pokarmowych dla zwierzęcia."
+    },
+    {
+      "q": "Który czynnik NIE jest wymieniany jako wpływający na wielkość i skład dawki pokarmowej?",
+      "options": [
+        "Kolor umaszczenia",
+        "Stan fizjologiczny",
+        "Masa ciała",
+        "Kierunek produkcji"
+      ],
+      "answer": 0,
+      "explain": "Na dawkę wpływają gatunek, stan fizjologiczny, masa ciała, kierunek i wielkość produkcji."
+    },
+    {
+      "q": "Hiperwitaminoza rzadko dotyczy witamin niemagazynowanych w organizmie, ponieważ:",
+      "options": [
+        "ich nadmiar jest wydalany",
+        "nie występują w paszach",
+        "są rozkładane przez promieniowanie UV",
+        "są syntetyzowane wyłącznie w żwaczu"
+      ],
+      "answer": 0,
+      "explain": "Witaminy niemagazynowane przyswajane są w ograniczonej ilości, a ich nadmiar zostaje wydalony."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Które z wymienionych substancji zaliczamy do makroelementów?",
+      "options": [
+        "Fosfor (P).",
+        "Cynk (Zn).",
+        "Żelazo (Fe).",
+        "Wapń (Ca).",
+        "Potas (K).",
+        "Magnez (Mg)."
+      ],
+      "answers": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to substancje występujące w mniejszych ilościach w organizmie, również warunkujące prawidłowy przebieg procesów fizjologicznych.",
+      "options": [
+        "Mikroelementy",
+        "Makroelementy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMakroelementy to substancje, które występują w organizmie w ilości powyżej 250 mg/kg masy ciała i są niezbędne do prawidłowego funkcjonowania organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywają się związki pochodzenia naturalnego lub otrzymywane sztucznie, znoszące działanie witamin?",
+      "options": [
+        "Antywitaminy.",
+        "Witaminy.",
+        "Makroelementy.",
+        "Mikroelementy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to częściowy niedobór witaminy lub witamin, mogący być wynikiem niedożywienia, utrudnionego wchłaniania, zwiększonego zapotrzebowania na daną witaminę lub obecności antywitamin.",
+      "options": [
+        "Awitaminoza",
+        "Hipowitaminoza"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzkodliwy może być tylko niedobór poszczególnych witamin, nadmiar jest w pełni metabolizowany i nieszkodliwy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz te cechy, które charakteryzują wpływ wapnia (Ca) na organizm.",
+      "options": [
+        "Wpływa na metabolizm poprzez regulację enzymów.",
+        "Uczestniczy w metabolizmie tkanki nerwowej.",
+        "Jego namiar zaburza pracę serca.",
+        "Pełni znaczącą rolę w mineralizacji kości i skorup jaj."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… oznacza spadek apetytu, uszkodzenia nerek, nerczyc, ogniska zwapnienia w narządach wewnętrznych, złogi wapnia w moczowodach, wzrost śmiertelności u młodych.",
+      "options": [
+        "Hipokalcemia",
+        "Hiperkalcemia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNieleczona awitaminoza może prowadzić do wyniszczenia organizmu wskutek zaburzeń procesów fizjologicznych, a w konsekwencji do zgonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz te cechy, które charakteryzują wpływ fosforu (P) na organizm.",
+      "options": [
+        "Jego wchłanianie spada przy wysokim poziomie włókna w paszy.",
+        "Fosforany wchodzą w skład kwasów nukleinowych.",
+        "Wpływa na procesy krzepnięcia poprzez aktywację protrombiny.",
+        "Uczestniczy w metabolizmie tkanki nerwowej."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to substancja organiczna i mineralna zawarta w paszy, która pozostaje po odparowaniu wody.",
+      "options": [
+        "Sucha masa",
+        "Popiół surowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrawidłowe działanie magnezu (Mg) w organizmie zależne jest od wapnia (Ca) i fosforu (P).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych cech nie odpowiada oddziaływaniu magnezu (Mg) na organizm?",
+      "options": [
+        "Współdziała z tiaminą.",
+        "To aktywator licznych enzymów.",
+        "Jego namiar zaburza pracę serca.",
+        "Bierze udział w oddychaniu tkankowym."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… oznacza degenerację kości u młodych i ścieńczenie skorup jaj wskutek zaburzenia pozyskiwania wapnia na ten cel z kości niosek.",
+      "options": [
+        "Hiperfosfatemia",
+        "Hipofosfatemia"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapotrzebowanie na siarkę jest ujmowane w rekomendacjach żywienia przeżuwaczy, świń, drobiu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie cechy opisują działanie siarki (S) w organizmie?",
+      "options": [
+        "Stanowi składnik ścian ciałek krwi, kości, ścięgien, błon komórkowych.",
+        "Bierze udział w oddychaniu tkankowym.",
+        "Bierze udział w procesach oddychania.",
+        "Wydalana jest z żółcią do przewodu pokarmowego lub z moczem.",
+        "Stanowi składnik sierści, wełny i piór."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… oznacza zaburzenia nerwowe i oddechowe, upośledzenie motoryki żwacza, powoduje wtórny niedobór miedzi.",
+      "options": [
+        "Niedobór siarki",
+        "Nadmiar siarki"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHipernatremia powoduje zatrucia, nadmierne wydalanie wody z organizmu i odwodnienia, wzrost ciśnienia tętniczego, spadek apetytu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka cecha nie jest cechą potasu (K)?",
+      "options": [
+        "Zmniejsza kurczliwość mięśni.",
+        "Stanowi składnik sierści, wełny i piór.",
+        "Antagonista wapnia.",
+        "Aktywuje enzymy wewnątrzkomórkowe i utrzymuje ciśnienie osmotyczne.",
+        "Jest niezbędny do prawidłowej pracy serca."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… jest niezbędny do produkcji kwasu solnego, wpływa na poziom pH przewodu pokarmowego i reguluje trawienie.",
+      "options": [
+        "Potas (P)",
+        "Chlor (Cl)"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNadmiar żelaza uszkadza narządy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych cech nie odnosi się do cynku (Zn)?",
+      "options": [
+        "Stabilizuje błony komórkowe.",
+        "Antagonista wapnia.",
+        "Uczestniczy w procesach wzrostu i ekspresji genów.",
+        "Wchodzi w skład ok. 200 białek i metaloenzymów.",
+        "Jego nadmiar wydalany jest z żółcią.",
+        "Występuje w mioglobinie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNadmiar cynku oznacza ….",
+      "options": [
+        "brak apetytu",
+        "wzrost poziomu glukozy we krwi"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMiedź wspomaga odporność jelit poprzez eliminację niektórych bakterii patogennych i wirusów, bez wpływu na florę jelitową.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych cech charakteryzują molibden (Mo)?",
+      "options": [
+        "Bierze udział w metabolizmie puryn.",
+        "Forma anionowa jest antagonistą siarki i miedzi.",
+        "Jest składnikiem enzymów.",
+        "Występuje w wątrobie, śledzionie, nerkach, kościach."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOwoce i warzywa są źródłem głównie witaminy ….",
+      "options": [
+        "B",
+        "C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobory molibdenu praktycznie nie występują.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie mogą być objawy niedoboru selenu (Se)?",
+      "options": [
+        "Owrzodzenia żołądka.",
+        "Dystrofie mięśniowe u świń.",
+        "Zwłóknienie trzustki u kurcząt.",
+        "Zaburzenia rozrodu u bydła.",
+        "Syndrom MMA.",
+        "Zatrzymanie łożyska."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… bierze udział w syntezie hormonów tarczycy, a zarazem w regulacji procesów metabolicznych, wzrostu i rozwoju, wpływa na syntezę białka, wydalany jest z moczem.",
+      "options": [
+        "Selen (Se)",
+        "Jod (I)"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMangan stanowi aktywator licznych enzymów, bierze udział w metabolizmie tłuszczów i węglowodanów, tworzeniu białek i chrząstek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych cech nie charakteryzuje kobaltu (Co)?",
+      "options": [
+        "Stanowi składnik enzymów syntezy białek.",
+        "Ochrania przed uszkodzeniami frakcje lipidowe błon komórkowych.",
+        "Uczestniczy w erytropoezie.",
+        "Wchodzi w skład witaminy B12.",
+        "Bierze udział w procesach przemiany kwasów nukleinowych, w cyklu Krebsa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOsłabienie wzrostu kości i tkanek miękkich, zaburzenia rozwoju zębów i funkcjonowania naskórka, upośledzenie gojenia się ran i odporności na zakażenia, zaburzenia widzenia przy ograniczonym oświetleniu zachodzą przy braku ….",
+      "options": [
+        "witaminy A",
+        "kobaltu (Co)"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWitamina A nie ma wpływu na tworzenie tkanki łącznej i chrzęstnej ani nie wpływa na prawidłowe procesy widzenia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Dla jakiej witaminy u zwierząt praktycznie nie występuje hiperwitaminoza?",
+      "options": [
+        "Witaminy A.",
+        "Witaminy E.",
+        "Witaminy C.",
+        "Witaminy K.",
+        "Witaminy B3.",
+        "Witaminy D."
+      ],
+      "answers": [
+        5
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… z uwagi na budowę, według niektórych źródeł zaliczana jest też do hormonów steroidowych.",
+      "options": [
+        "Witamina A",
+        "Witamina D"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWitamina D produkowana jest w organizmie z cholesterolu pod wpływem światła słonecznego (promieni UV).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych produktów są źródłem witaminy E?",
+      "options": [
+        "Orzechy.",
+        "Marchew.",
+        "Jajka.",
+        "Rośliny zielone.",
+        "Wątroba.",
+        "Mięso."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nHipowitaminoza … może być przyczyną skazy krwotocznej, która zwiększa ryzyko krwotoków wewnętrznych i zewnętrznych, spowalnia gojenie się ran, utrudnia mineralizację kości.",
+      "options": [
+        "witaminy K",
+        "witaminy D"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która z wymienionych witamin to zespół nienasyconych kwasów tłuszczowych?",
+      "options": [
+        "K.",
+        "A.",
+        "E.",
+        "C.",
+        "F."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zwierząt hodowlanych racjonalne żywienie opiera się głównie na zapotrzebowaniu produkcyjnym, w niezbędnym tylko stopniu powinno uwzględniać zapotrzebowania bytowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW przypadku witaminy C spowolnienie gojenia się ran, upośledzenie krążenia, czego objawem mogą być krwawienia, zwiększenie podatności na stres są objawami ….",
+      "options": [
+        "hiperwitaminozy",
+        "hipowitaminozy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku witaminy B1 hiperwitaminoza jest częstym zjawiskiem, ponieważ łatwo występuje przekroczenie dopuszczalnych dawek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Co dzieje się z witaminą C w przypadku tworzenia z surowców roślinnych produktów suchych?",
+      "options": [
+        "Jej ilość maleje.",
+        "Nie można określić ilości witaminy C w takiej zależności.",
+        "Jej ilość jest stała niezależnie od formy.",
+        "Jej ilość wzrasta ze względu na proporcjonalne zmniejszenie ilości wody."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… określa ilość składników pokarmowych niezbędnych do podtrzymania podstawowych procesów życiowych (np. krążenie krwi, oddychanie, odnawianie zużytych komórek) bez zmiany masy i składników organizmu.",
+      "options": [
+        "Zapotrzebowanie produkcyjne",
+        "Zapotrzebowanie bytowe"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRacjonalne żywienie jest istotne z punktu widzenia hodowcy, ponieważ pozwala na uzyskanie miarodajnych wyników produkcyjnych i pozwala ograniczyć wydatki poniesione na żywienie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Które z wymienionych substancji zaliczamy do mikroelementów?",
+      "options": [
+        "Magnez (Mg).",
+        "Wapń (Ca).",
+        "Miedź (Cu).",
+        "Żelazo (Fe).",
+        "Cynk (Zn).",
+        "Molibden (Mo)."
+      ],
+      "answers": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWitaminy to egzogenne mikroskładniki organiczne, niewytwarzane lub wytwarzane tylko w niewielkim stopniu w organizmie zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie objawy mogą nastąpić w przypadku hipokalcemii?",
+      "options": [
+        "Zaburzenia kostnienia.",
+        "Wady postawy i chodu.",
+        "Osłabienie i opóźnienie wzrostu u młodych.",
+        "Obniżenia wylęgowości i pogorszenia jakości skorupy.",
+        "Zaburzenia metabolizmu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jak nazywamy wszystkie związki paszy zawierające azot, wśród których możemy wyróżnić białko właściwe i związki azotowe niebiałkowe?",
+      "options": [
+        "Związki organiczne.",
+        "Związki nieorganiczne.",
+        "Białko ogólne strawne.",
+        "Popiół surowy.",
+        "Białko ogólne."
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nHiperwitaminoza to całkowity brak witaminy w organizmie, do którego dochodzi wskutek pogłębiającej się hipowitaminozy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie zwierzęta są szczególnie wrażliwe na niedobory magnezu (hipermagnezemię)?",
+      "options": [
+        "Świnie.",
+        "Drób.",
+        "Owce.",
+        "Konie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Zaznacz te cechy, które charakteryzują wpływ sodu (Na) na organizm.",
+      "options": [
+        "Stanowi składnik sierści, wełny i piór.",
+        "Niezbędny w syntezie białek i procesach mineralizacji.",
+        "Składnik płynów międzykomórkowych i ustrojowych, reguluje homeostazę.",
+        "Wpływa na ciśnienie osmotyczne, odczyn osocza.",
+        "Reguluje poziom potasu.",
+        "Umożliwia działanie pompy jonowej sodowo-potasowej."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobór siarki oznacza obniżenie syntezy białek zarówno u zwierząt monogastrycznych, jak i przez mikroorganizmy żwacza u przeżuwaczy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Miedź łatwo magazynuje się w organizmie, jaki może mieć to wpływ na organizm?",
+      "options": [
+        "Miedź przedawkowana nawet w najmniejszych ilościach jest skrajnie toksyczna.",
+        "Generalnie jest toksyczna, ale tolerancja na miedź jest uzależniona od gatunku.",
+        "Żaden, miedź w nadmiarze jest nieszkodliwa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz te cechy, które charakteryzują wpływ żelaza (Fe) na organizm.",
+      "options": [
+        "Bierze udział w procesach krwiotworzenia.",
+        "Jest magazynowane w śledzionie, wątrobie, przewodzie pokarmowym, szpiku kostnym.",
+        "Bierze udział w syntezie białek przenoszących tlen (hemoglobina).",
+        "Stabilizuje błony komórkowe.",
+        "Występuje w mioglobinie.",
+        "Stanowi składnik enzymów w erytrocytach i enzymach procesów oksydo-redukcyjnych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNiedobory selenu często dotyczą równoczesnego niedoboru z witaminą E, powodują miopatie, chorobę białych mięśni, dystrofię mięśni (cielęta, owce, kurczęta), wysięki surowicze kurcząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych cech charakteryzują selen (Se)?",
+      "options": [
+        "Wchodzi w skład selenoprotein, uczestniczących w procesach odporności swoi-stej i nieswoistej.",
+        "Ochrania witaminę E, współdziała z nią.",
+        "Wpływa na metabolizm.",
+        "Stanowi integralną część enzymów procesów oksydacyjnych.",
+        "Bierze udział w metabolizmie puryn.",
+        "Ochrania przed uszkodzeniami frakcje lipidowe błon komórkowych."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie objawy mogą wystąpić przy hiperwitaminozie w przypadku witaminy E?",
+      "options": [
+        "Nudności, wymioty, zaburzenia koordynacji mięśniowej.",
+        "Opóźnione kostnienie, krzywica.",
+        "Zmęczenie, osłabienie mięśni, zaburzenia widzenia."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku zbyt dużych ilości witaminy A może dojść do zatrucia objawiającego się nudnościami, wymiotami, zaburzeniami koordynacji mięśniowej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku witaminy D bardzo łatwo jest doprowadzić do hiperwitaminozy, ryzyko to wzrasta szczególnie z powodu łatwej nadprodukcji tej witaminy przez organizm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie objawy mogą wystąpić przy hiperwitaminozie w przypadku witaminy K?",
+      "options": [
+        "Bezpłodność, odwapnienie kości.",
+        "Osłabienie mięśni, zaburzenia widzenia.",
+        "Nadmierny rozpad krwinek czerwonych, nadmierne pocenie."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWitamina E pełni rolę przeciwutleniacza, wzmacnia ściany naczyń krwionośnych i chroni czerwone krwinki przed przedwczesnym rozpadem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Która witamina jest związkiem wyjściowym do syntezy prostaglandyn, leukotrienów i trombokosanów?",
+      "options": [
+        "Witamina E.",
+        "Witamina K.",
+        "Witamina D.",
+        "Witamina F."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹródłem witaminy F są oleje roślinne i tłuszcze zwierzęce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz źródła pochodzenia witaminy B1.",
+      "options": [
+        "Orzechy.",
+        "Może być syntetyzowana przez bakterie jelitowe.",
+        "Niełuskane ziarna zbóż.",
+        "Ryby.",
+        "Rośliny strączkowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wybierz czynniki, od których zależą normy żywieniowe zwierząt.",
+      "options": [
+        "Stan fizjologiczny.",
+        "Masa ciała.",
+        "Gatunek zwierzęcia.",
+        "Powierzchni gospodarstwa.",
+        "Kierunek produkcji i przeznaczenie zwierzęcia.",
+        "Zasobności finansowej rolnika."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku witaminy C nadmierne ilości są zazwyczaj wydalane z moczem i hiperwitaminozę obserwuje się bardzo rzadko.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak określa się wymagania żywieniowe dla zwierząt, od których pragniemy uzyskać dodatkowe efekty (np. produkcja mleka od krów, przyrosty masy ciała u świń)?",
+      "options": [
+        "Norma żywieniowa.",
+        "Racjonalne żywienie.",
+        "Zapotrzebowanie bytowe.",
+        "Zapotrzebowanie produkcyjne."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nRacjonalne żywienie zwierząt oznacza pokrycie ich zapotrzebowania na energię, białko, witaminy i składniki mineralne (makro- i mikroelementy) i dostosowane jest do bieżących potrzeb.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nŹródłem witaminy C są surowce roślinne, głównie owoce soczyste, w produktach suchych ilość witaminy C jest znacznie mniejsza.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywają się substancje, które występują w organizmie w ilości powyżej 250 mg/kg masy ciała i są niezbędne do prawidłowego funkcjonowania organizmu?",
+      "options": [
+        "Mikroelementy.",
+        "Makroelementy.",
+        "Witaminy.",
+        "Minerały."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku witamin bardzo szkodliwy jest ich niedobór, nadmiar zaś nie ma negatywnego wpływu na organizm.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZ uwagi na różne uwarunkowania fizjologiczne zapotrzebowanie na poszczególne witaminy w paszy może być różne w zależności od gatunku zwierzęcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak nazywają się związki pochodzenia naturalnego lub otrzymywane sztucznie, znoszące działanie witamin?",
+      "options": [
+        "Hipowitaminoza.",
+        "Awitaminoza.",
+        "Hiperwitaminoza.",
+        "Antywitaminy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDawniej pojęciem związki nieorganiczne określano syntetyczne pochodne substancji występujących w organizmach żywych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych cech charakteryzują witaminę C?",
+      "options": [
+        "Pełni funkcję przeciwutleniacza.",
+        "Bierze udział w procesach oksydoredukcyjnych.",
+        "Uczestniczy w syntezie kolagenu niezbędnego do prawidłowej budowy naczyń krwionośnych.",
+        "Reguluje procesy krwiotwórcze.",
+        "Wpływa na syntezę hormonów kory nadnerczy, które wykazują działanie przeciwzapalne i przeciwwysiękowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych cech charakteryzują witaminę B11 (B9)?",
+      "options": [
+        "Reguluje funkcjonowanie układu pokarmowego, wydzielanie soku żołądkowego.",
+        "Bierze udział w syntezie kwasów nukleinowych.",
+        "Uczestniczy w procesach wzrostu, podziału komórek i zachowaniu materiału genetycznego.",
+        "Reguluje powstawanie hemoglobiny i tworzenie erytrocytów.",
+        "Wpływa pozytywnie na funkcjonowanie systemu nerwowego, chroni rozwój układu nerwowego u płodu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZnamienną cechą technologii żywności jest przekształcanie trwałych surowców naturalnych w środki spożywcze przeznaczone do pośredniej przydatności do spożycia lub wymagające prostego kulinarnego ich przygotowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych określeń odnoszą się do zaburzeń spowodowanych nieprawidłowym poziomem witamin w organizmie?",
+      "options": [
+        "Hipokalcemia.",
+        "Hiperwitaminoza.",
+        "Awitaminoza.",
+        "Demineralizacja.",
+        "Hipowitaminoza."
+      ],
+      "answers": [
+        1,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Jednym z zadań żywienia jest zapobieganie schorzeniom poprzez dobór odpowiedniej diety i dostarczenie specyficznych składników odżywczych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

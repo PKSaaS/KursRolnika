@@ -1,0 +1,2090 @@
+{
+  "id": "tpc7",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Technologie produkcji i pozyskiwania surowców pochodzenia zwierzęcego",
+  "number": "VII",
+  "notes": [
+    {
+      "heading": "Wprowadzenie i podstawowe pojęcia",
+      "points": [
+        "Znajomość predyspozycji zwierzęcia (np. wysokiej wydajności mlecznej) pozwala dobrać kierunek użytkowania i zwiększyć efektywność gospodarstwa.",
+        "Procesy technologiczne w produkcji zwierzęcej muszą spełniać wymagania prawne: warunki środowiskowe dla zwierząt, humanitarny ubój, higiena pozyskiwania, ochrona środowiska.",
+        "Proces produkcyjny – suma działań prowadzących do wytworzenia produktu, półproduktu lub surowca; obejmuje proces technologiczny i działania pomocnicze (transport, magazynowanie, kontrola, konserwacja).",
+        "Technologia produkcji – metoda wytwarzania produktu, półproduktu lub surowca.",
+        "Surowce pochodzenia zwierzęcego – mięso z uboju zwierząt rzeźnych, surowce z drobiu i ryb, mleko i jaja.",
+        "Surowce żywnościowe: mięso, mleko, tłuszcz, jaja, miód; surowce nieżywnościowe: skóry, wełna, włosy, pierze.",
+        "Mięso wg Dz.U. nr 33, poz. 288 – wszystkie części zwierząt rzeźnych i łownych nadające się do spożycia; wg PN-65/A-82000 – mięśnie szkieletowe z tkanką łączną, tłuszczową i kostną z tusz, półtusz, ćwierćtusz.",
+        "Mięso wg Dyrektywy 2000/13/EC – mięśnie szkieletowe ssaków i ptaków z limitem tłuszczu i tkanki łącznej: ssaki 25% i 25%, świnie 30% i 25%, ptaki i króliki 15% i 10%.",
+        "Wymagania prawne dotyczą m.in. budynków, powierzchni użytkowej i temperatury; ich znajomość pozwala uniknąć sankcji i często zwiększa efektywność produkcji.",
+        "Surowce – naturalne produkty roślinne, zwierzęce lub mineralne będące materiałem wyjściowym procesów technologicznych; surowce pochodzenia zwierzęcego to surowiec do przetwórstwa lub produkt sam w sobie."
+      ],
+      "images": [
+        {
+          "src": "img/tpc7/podzial-surowcow-zwierzecych.jpg",
+          "caption": "Rysunek 7.1. Podział surowców pochodzenia zwierzęcego: żywnościowe (mięso, mleko, tłuszcz, jaja, miód) i nieżywnościowe (skóry, wełna, włosy, pierze)."
+        }
+      ]
+    },
+    {
+      "heading": "2. Produkcja mleka krowiego – utrzymanie i dój",
+      "points": [
+        "Systemy utrzymania: uwięziowy (krowy przywiązane do stanowisk) i bezuwięziowy (stado luzem, wydzielona stacja dojenia); latem w obu możliwy wypas.",
+        "Obora uwięziowa – zalety: łatwa obserwacja, indywidualne podejście; wady: ograniczenie ruchu i zachowań, kontakt obornika z wymieniem, uciążliwy dój.",
+        "Obora bezuwięziowa – zalety: swobodny ruch, lepsze zdrowie, łatwiejsze wykrywanie rui, higiena doju i jakość mleka, mechanizacja, wyższa wydajność; wady: trudniejsza opieka indywidualna i kontrola zdrowia, walka o hierarchię, droższe żywienie indywidualne.",
+        "Dój ręczny: osmykiwanie, piąstkowanie.",
+        "Dój mechaniczny: dojarki bańkowe, dojarki przewodowe (mleko rurociągiem do zbiornika), roboty udojowe (pełna automatyzacja, jeden operator).",
+        "Błędy doju: personelu (dój ślepy, pustodój, za długa przerwa między masażem a dojem) i instalacji (sparciałe gumy strzykowe, zły czas fazy ssania i masażu, złe podciśnienie).",
+        "Hale udojowe: „rybia ość”, „bok w bok” (równoległa), „tandem”, „karuzela”.",
+        "„Rybia ość” i „bok w bok” – krowy wpuszczane i wypuszczane grupowo; trzeba dobierać grupy o podobnym czasie doju.",
+        "„Tandem” – stanowiska opuszczane indywidualnie, automatyczne bramki jednokierunkowe; wymaga większego zaangażowania dojarza.",
+        "„Karuzela” – obrotowa platforma z 12–48 stanowiskami; układy „rybia ość”, „tandem”, „bok w bok”; dojarnie zewnętrzne i wewnętrzne.",
+        "Produkcja mleka obejmuje planowanie kolejnych pokryć w celu podtrzymania laktacji; przy wypasie w systemie uwięziowym krowy trzeba odwiązać i po powrocie przywiązać.",
+        "Obora uwięziowa ułatwia obserwację pobierania paszy i oddawania kału; w bezuwięziowej trudniejsze są zabiegi pielęgnacyjne, ale warunki pracy są lepsze.",
+        "Dojarki bańkowe – bańki z mlekiem przenosi się do zbiornika głównego; roboty – elektroniczna kontrola podłączania i pomiar jakości i ilości mleka.",
+        "W „rybiej ości” i „bok w bok” krowy szybciej wydojone czekają na pozostałe; „tandem” jest efektywniejszy – kolejna krowa od razu zajmuje miejsce; elektroniczna identyfikacja i skanery przy bramkach blokują ponowne wejście wydojonych krów (np. też zasuszonych).",
+        "W „karuzeli” prędkość i kierunek obrotu można dowolnie regulować; podział na zewnętrzne i wewnętrzne zależy od położenia stanowiska dojarza."
+      ],
+      "images": [
+        {
+          "src": "img/tpc7/podlaczenie-dojarki.jpg",
+          "caption": "Rysunek 7.3. Podłączenie dojarki – dój mechaniczny: kubki aparatu udojowego założone na strzyki wymienia."
+        },
+        {
+          "src": "img/tpc7/doj-reczny.jpg",
+          "caption": "Rysunek 7.2. Dój ręczny – indywidualne dojenie przez człowieka (techniki: osmykiwanie i piąstkowanie)."
+        }
+      ]
+    },
+    {
+      "heading": "Przebieg doju i rasy bydła mlecznego",
+      "points": [
+        "Przeddój – wykrycie zmian w mleku i stanów zapalnych wymienia.",
+        "Umycie wymienia ciepłą wodą ze środkiem dezynfekcyjnym i wytarcie zmniejsza zawartość bakterii w mleku o 75%.",
+        "Masaż przedudojowy – ok. 1 minuty, okrężnymi ruchami; zwiększa ciśnienie w wymieniu i poziom oksytocyny.",
+        "Po doju mechanicznym – podój mechaniczny i masaż poudojowy (całkowite wydojenie, zapobieganie zastojom).",
+        "Dezynfekcja strzyków zapobiega zakażeniom poudojowym (otwarte kanały strzykowe); krowy nie powinny kłaść się przez 30 min po doju (np. podanie smakowitej paszy).",
+        "Wymagania dla mleka: Rozporządzenie MRiRW z 18 sierpnia 2004 r. w sprawie wymagań weterynaryjnych dla mleka i produktów mlecznych.",
+        "Rasy mleczne: holsztyńsko-fryzyjska, Jersey, Simmental, nizinna czarno-biała, czerwona polska, Brown Swiss.",
+        "Przeddój pozwala zdecydować, czy krowę doić, czy leczyć; wymię wyciera się czystą ściereczką lub jednorazowym ręcznikiem."
+      ],
+      "images": [
+        {
+          "src": "img/tpc7/technologie-pozyskiwania-mleka.jpg",
+          "caption": "Rysunek 7.4. Technologie pozyskiwania mleka: w systemie uwięziowym – dój ręczny lub mechaniczny (dojarki bańkowe, dojarki przewodowe); w systemie bezuwięziowym – stacja dojenia (hala udojowa) z dojem mechanicznym (dojarki przewodowe, roboty udojowe)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Produkcja mleka koziego",
+      "points": [
+        "Pozyskiwanie mleka to podstawowy cel hodowli kóz w Polsce; mleko kozie jest zamiennikiem przy alergii na białka mleka krowiego.",
+        "Kierunki: cele spożywcze, przetwórstwo spożywcze, własne cele przerobowe.",
+        "Systemy utrzymania: uwięziowy (linka/łańcuch przy żłobie, ażurowe przegrody, kontakt wzrokowy) oraz kojcowy (pojedynczy lub grupowy).",
+        "System uwięziowy: indywidualne żywienie, proste leczenie, oszczędność ściółki.",
+        "System kojcowy zachowuje naturalny behawior; kozy bezrożne trzyma się oddzielnie od rogatych; półki ok. 0,5 m nad podłogą do wypoczynku.",
+        "Kozły trzyma się w osobnym budynku (zapach, nerwowość wśród płodnych samic).",
+        "Dój w wydzielonej części koźlarni lub w dojarni poza koźlarnią (preferowane); nigdy nie doić w obecności capa – jego zapach przechodzi do mleka.",
+        "Dój ręczny na ławce lub mechaniczny (robot); w dużych koźlarniach system kolejkowy.",
+        "Przetwory: sery długo dojrzewające, sery miękkie, jogurty, mleko UHT, mleko w proszku.",
+        "Kozy na uwięzi muszą mieć kontakt wzrokowy (dobrostan); system kojcowy nie chroni przed bójkami – stąd oddzielanie bezrożnych od rogatych.",
+        "Kozy to bardzo charakterne i żywotne zwierzęta, mogące narobić sobie i gospodarzowi wiele szkód – dlatego w systemie kojcowym oddziela się bezrożne od rogatych."
+      ]
+    },
+    {
+      "heading": "4. Produkcja mleka owczego",
+      "points": [
+        "Mleczne użytkowanie owiec w Polsce: Podhale, Beskid, Tarnowskie Góry, Rybnik.",
+        "Dój zaczyna się po odsadzeniu jagniąt, 3–3,5 miesiąca po porodzie; na pastwisku dój 3 razy na dobę, ręcznie z boku lub z tyłu.",
+        "Z jednej owcy w okresie pastwiskowym – ok. 60 l mleka.",
+        "Racjonalna laktacja: 250–550 l; owce fryzyjskie – laktacja do 300 dni i nawet 800 l; polska owca górska – 200–300 l w 150 dni.",
+        "Na mleczność wpływają: rasa, liczba karmionych jagniąt, żywienie, wiek, stadium laktacji, kształt i wielkość wymion.",
+        "Skład mleka owczego vs krowiego (%): sucha masa 18,5 vs 12,3; tłuszcz 7,0 vs 3,5; białko 5,6 vs 3,4; cukier mlekowy 5,0 vs 4,7; składniki mineralne 0,9 vs 0,7.",
+        "Produkty: mleko UHT i świeże, sery twarde, kefir, jogurt, bundz, bryndza, oscypek.",
+        "Bundz – ser miękki z mleka podgrzanego do 30°C z podpuszczką; półprodukt do bryndzy i oscypków.",
+        "Żętyca – wysokobiałkowa serwatka powstająca przy wyrobie serów; na napoje lub dla zwierząt.",
+        "W chowie wysokotowarowym dostępne są roboty udojowe dla owiec; polska owca górska to owca użytkowana mlecznie (kombinowana).",
+        "Bryndza – ostry, słony ser twarogowy; oscypek – wędzony twardy ser dojrzewający (oba z bundzu)."
+      ]
+    },
+    {
+      "heading": "5. Produkcja mięsa wołowego",
+      "points": [
+        "Opiera się na zwierzętach czystorasowych lub mieszańcach towarowych; odchów cieląt przy matkach lub mamkach do 6–7 miesięcy.",
+        "Dorosłe żywione bez pasz treściwych, z wykorzystaniem trwałych użytków zielonych; wysoka wydajność pracy, niskie nakłady na budynki.",
+        "Systemy chowu: ekstensywny, intensywny, mieszany.",
+        "Ekstensywny – krycie buhajem, wycielenia zimą lub wczesną wiosną; niskie nakłady, ale niskie zyski.",
+        "Intensywny – odsadzanie przez przenoszenie matek: po 1. miesiącu najmłodsza krowa, po 2. – w najgorszej kondycji, po 3. – reszta; bezstresowe odsadzanie, rozwój odporności.",
+        "Mieszany – krowy z cielętami na pastwisku, wycielenia pod koniec zimy; mieszany i ekstensywny dają niskie przyrosty dzienne.",
+        "Opas: ciężki – do 550–600 kg; buhajków – do 300–400 kg; na białe mięso – cielęta.",
+        "Klasyfikacja umięśnienia półtusz EUROP: E – doskonała, U – bardzo dobra, R – dobra, O – średnia, P – słaba.",
+        "Badania mięsa reguluje Ustawa z 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego.",
+        "Rasy mięsne: Limousine, Charolaise, Aberdeen Angus, Hereford, Simmentaler, belgijska błękitna, Blonde d’Aquitaine, Salers.",
+        "Rozród planuje się z uwzględnieniem sezonowości krycia jałówek i krów oraz sezonowości wycieleń.",
+        "Ekstensywny – obora z wydzielonymi legowiskami, porodówką oraz kojcami lub stanowiskami dla opasów; nie wymaga dużych nakładów finansowych ani wzmożonej pracy.",
+        "Intensywny – opasy utrzymywane osobno na uwięzi lub w kojcach, kontrolowane utrzymanie krów, intensywny odchów cieląt; dobra kontrola krów po porodzie i ochrona ich kondycji.",
+        "Mieszany – opasy na uwięzi lub w kojcach; systemy mieszany i ekstensywny są mniej efektywne niż intensywny.",
+        "Chów cieląt na pastwisku poprawia zdrowotność – młode bydło staje się mało wrażliwe na złe warunki; po powrocie do obory mogą pojawić się problemy z górnymi drogami oddechowymi – leczyć do pełnego wyleczenia.",
+        "Wysoka wydajność pracy w chowie bydła mięsnego oznacza dużą liczbę zwierząt na jednego obsługującego."
+      ]
+    },
+    {
+      "heading": "6. Produkcja mięsa wieprzowego",
+      "points": [
+        "Utrzymanie ściołowe (gruba warstwa słomy) lub bezściołowe (posadzki, ruszta ażurowe/szczelinowe, mieszane).",
+        "Regulacja: Rozporządzenie MRiRW z 15 lutego 2010 r. (gatunki z normami ochrony UE).",
+        "Cykl zamknięty – wszystkie grupy technologiczne i zwierzęta z własnej hodowli; cykl otwarty – część zwierząt dokupywana lub specjalizacja (np. prosięta, warchlaki na sprzedaż).",
+        "Tucz mięsny: porkerowy do 70 kg, bekonowy do 90 kg, szynkowy do 105–110 kg.",
+        "Tucz mięsno-tłuszczowy od 120 kg; mięsno-słoninowy 150–250 kg; słoninowy do 400 kg.",
+        "Tucz mięsny i mięsno-tłuszczowy – intensywny (szybki); mięsno-słoninowy i słoninowy – wolny, ekstensywny.",
+        "Punkt maksymalnej mięsności – masa ciała przy największym przyroście mięsa, zwykle 80–95 kg; powyżej rośnie tłuszcz, gorsze wykorzystanie paszy, spada wartość tuszy.",
+        "Wyręby m.in.: głowa, karkówka, podgardle, łopatka, golonki, słonina grzbietowa, schab, żeberka, boczek, biodrówka, pachwina, polędwiczka, szynka, ogon, nóżki.",
+        "Rasy mięsne: PBZ, WBP, złotnicka biała, Duroc, Hampshire; mięsno-tłuszczowe: puławska, średnia biała angielska, Berkshire; mięsno-słoninowa: złotnicka pstra; słoninowa: Mangalica.",
+        "Końcowa masa tucznika zależy od typu użytkowego i opłacalności produkcji.",
+        "Posadzki: betonowe, polimerobetonowe, plastikowe, żeliwne; w systemie mieszanym posadzkę można ścielić sieczką, by nie zatykać szczelin; trzeba zapewnić odpowiednią temperaturę, wilgotność, wentylację, żywienie i dobrostan (zapobieganie technopatiom).",
+        "Cykl otwarty to np. wyłącznie produkcja zwierząt rozrodowych albo prosiąt lub warchlaków na tucz.",
+        "Po przekroczeniu punktu maksymalnej mięsności rosną też koszty utrzymania (dłuższy pobyt w chlewni); procent mięsa w tuszy decyduje o cenie skupu żywca.",
+        "Pełna lista wyrębów obejmuje też: nogę przednią, nogę tylną i płat słoniny grzbietowej; złotnicka pstra nadaje się też do tuczu słoninowego."
+      ],
+      "images": [
+        {
+          "src": "img/tpc7/tusza-wieprzowa.jpg",
+          "caption": "Rysunek 7.5. Tusza wieprzowa – wyręby: głowa, podgardle, karkówka, łopatka, golonka, nóżki, schab z polędwiczką, boczek, pachwina, biodrówka, szynka."
+        }
+      ]
+    },
+    {
+      "heading": "7. Produkcja mięsa drobiowego",
+      "points": [
+        "Drób rzeźny: kury, indyki, kaczki, gęsi, strusie; od gęsi także pierze i puch, od strusi skóry i jaja.",
+        "Indyki mają szczególnie dobrą wydajność rzeźną.",
+        "Typ lekki (mini): indyczki 4–6 kg, indory 8–12 kg; wczesna dojrzałość, duża nieśność.",
+        "Typ średni: samice 6–8 kg, samce 12–16 kg; bardzo dobre cechy mięsne.",
+        "Typ ciężki: indyczki 11–15 kg, indory 18–25 kg; mniej nieśne.",
+        "Systemy chowu: podłogowy (ściółkowy, rusztowy – kaczki i gęsi, rusztowo-ściółkowy) oraz wolierowy.",
+        "Normy: Rozporządzenie Komisji (EWG) nr 1538/91 z 5 czerwca 1991 r. (normy handlowe dla drobiu).",
+        "U kur wyróżnia się rasy nieśne (jaja) i mięsne; rozporządzenie 1538/91 jest przepisem wykonawczym do rozporządzenia Rady (EWG) nr 1906/90 o normach handlowych drobiu."
+      ]
+    },
+    {
+      "heading": "8. Produkcja wełny owczej",
+      "points": [
+        "Wełna żywa – ze strzyży żywych zwierząt; martwa – ze zwierząt martwych lub skór.",
+        "Wełna biała – po praniu barwa od śnieżnobiałej do kremowej (dopuszczalne zażółcenie 1%); kolorowa – ponad 3% kolorowych włókien.",
+        "Wełna osłabiona zrywa się przy niewielkiej sile; słaba – bez oporu.",
+        "Typy wełny: jednolita (włosy bezrdzeniowe) i mieszana (bezrdzeniowe, przejściowe, rdzeniowe).",
+        "Efektywność zależy od: rasy i rejonizacji, pracy hodowlanej, warunków chowu, żywienia, pielęgnacji przed strzyżą (zapobieganie zaobroczeniu), terminu strzyży, postępowania po strzyży.",
+        "Pierwsza strzyża (szkicówka): jarki w wieku 10–12 miesięcy, tryczki 7–9 miesięcy.",
+        "Dorosłe: maciorki 1–1,5 miesiąca przed wykotem, tryki 1–1,5 miesiąca przed stanówką; owce o długiej wełnie mieszanej – 2 razy w roku (wiosna, jesień).",
+        "Po strzyży: usunięcie zanieczyszczeń, obrzezanie runa, sortowanie, kondycjonowanie (wystudzenie i wypocenie), magazynowanie (jak najkrócej), przygotowanie do sprzedaży.",
+        "Oznaczenia: Wo – dorosłe, Wor – roczniaki, Woj – jagnięca; J – jednolita, M – mieszana; klasy długości 1–6; styl I super – V wadliwa; R – runa, Ro – runa obrzeżone; zanieczyszczenia roślinne A–E, K.",
+        "Wełna zażółcona – od białych owiec, ale pod wpływem różnych czynników zmieniła kolor od żółtego do brązowego.",
+        "Klimat (rejonizacja) wpływa na wzrost okrywy; liczy się też genetyczne doskonalenie włosa, dostęp do wybiegów i pastwisk; zaobroczeniu zapobiega właściwe zadawanie paszy, a obłożeniu – pielęgnacja użytków zielonych.",
+        "Owce o długiej wełnie mieszanej strzyże się jesienią po sezonie pastwiskowym (i wiosną).",
+        "Obrzezanie runa – oddzielenie wełny zbyt zanieczyszczonej (zażółconej, zaobroczonej, z odchodami) i zbyt krótkiej z głowy, brzucha i dolnych partii kończyn; przygotowanie do sprzedaży – podział wg rasy, płci i wieku owiec.",
+        "Tabela 7.4 – style: I super, II wyborna, III dobra, IV średnia, V wadliwa; sposób podania: R – runa, Ro – runa obrzeżone, Wk – kawałki, O – obrzeżyny, Od – odpadki.",
+        "Przykład oznaczenia: SWW 4251 – Wo – J – Ro – 37 – kl. 2 – III – C = wełna owcza potna krajowa, z owiec dorosłych, jednolita, z run obrzeżonych, średnica włókien 37 µm, klasa długości 2, styl III, zanieczyszczenia roślinne stopnia C."
+      ]
+    },
+    {
+      "heading": "9. Produkcja skór owczych",
+      "points": [
+        "Skóry owcze to główny surowiec kożuchów i futer; skóry futrzarskie z bicia jesiennego (przełom października i listopada).",
+        "Skórę z głowy, nóg i ogona odcina się jako odpadkową; reszta to skóra sprofilowana.",
+        "Konserwacja: solenie, solenie z solankowaniem (szybsze, równomierne przesycenie solą), suszenie (do 10–15% wody), solenie i suszenie.",
+        "Kwalifikacja czterostopniowa; skóra użytkowa: odrost włosa powyżej 1 cm, ciągłość skóry, brak wyłysień i zmian chorobowych, równy miękki włos.",
+        "Golce – skóry z włosem do 1 cm; skóry futrzarskie – powyżej 1 cm.",
+        "Wielkość skór: jagnięta mleczaki do 20 dm²; jagnięta starsze 21–35 dm²; owce starsze: małe 36–50, średnie 51–70, duże ponad 70 dm².",
+        "Owce kożuchowe w Polsce: wrzosówka i górska; długość włosa 4–10 cm; najlepsze skóry z owiec kilkumiesięcznych.",
+        "Smużki – od jednodniowych jagniąt karakuł (czarny, lekko skręcony włos); wyporki – od płodów martwo urodzonych lub wyjętych przed porodem (lekka fala).",
+        "Gatunek skóry wg udziału uszkodzeń: I – do 10%, II – do 30%, III – do 50%, IV (odpadowy) – ponad 50%; wady mierzy się w cm z dodatkiem 3–5 mm.",
+        "Wady: łamliwość włosów, bolak, gąbczastość, gnicie, sfilcowanie, łysina, molowatość, wystrzyżenie, plamy solne/krwiste/rdzewne, zacięcie, drągowina, blizny i dziury.",
+        "Warunki produkcji skór: dobór rasy do terenu i przeznaczenia, genetyczne doskonalenie wełny, dobre utrzymanie (profilaktyka, pastwiska, mikroklimat, obsada), właściwe żywienie, racjonalny termin uboju (wiek, pora roku), prawidłowy ubój i konserwacja.",
+        "Solenie ma odciągnąć wodę ze skóry (w źródle: 5–65%).",
+        "Tabela 7.5 – grubość wełny: cienkowełniste (J – Ab, B, BC), krzyżówki (J – C, CD), grubowełniste (M – D, DE, E, EF, F).",
+        "Skóry owiec mięsno-wełnistych są produktem ubocznym (na wyroby futrzarskie lub ozdobne); skóra maciorki/skopa – równa w środku, zgrubiała w części karkowej; tryka – bardzo gruba w karku, cieńsza w środku; jagnięcia – równomiernie gruba.",
+        "Wady opisowo: bolak – niezabliźniona rana po ropniu; gąbczastość – pęcherzykowatość tkanki skórnej; gnicie – rozkład osłabiający osadzenie włosa; sfilcowanie płytkie i głębokie; także skłębienie i wytarcie; proces gnilny może wykluczyć skórę z klas.",
+        "Tabela 7.6 – stopnie wad: łamliwość włosów i gąbczastość mają po trzy stopnie rozległości, gnicie – trzy stopnie zaawansowania, sfilcowanie – płytkie i głębokie; drągowina to zniekształcenie; wady tkanki skórnej to blizna, dziura, skaleczenie; plamy rdzewne liczą się jako wada w stanie zaawansowanym."
+      ]
+    },
+    {
+      "heading": "10. Produkcja skór zwierząt futerkowych",
+      "points": [
+        "Polska rocznie ubija ok. 600 tys. norek, 250 tys. lisów i 20 tys. szynszyli; największe fermy norek (do 10 tys. samic) w północno-zachodniej Polsce; fermy lisów – ok. 1000 samic.",
+        "Skóry od: lisów pospolitych i polarnych, jenotów, norek, tchórzy, szynszyli, królików, nutrii.",
+        "Lisice muszą mieć domki na okres wykotów i odchowu, norki zawsze; nutrie – stały dostęp do wody; utrzymanie klatkowe.",
+        "Żywienie mięsożernych – 4 fazy: przygotowanie do rozrodu, wykoty i karmienie, żywienie młodzieży, dojrzewanie okrywy włosowej.",
+        "Założenie fermy wymaga zgody władz, m.in. Powiatowego Lekarza Weterynarii.",
+        "Pomieszczenia fermy: kuchnia, chłodnia, magazyn paszy, skórownia, suszarka, magazyn skór.",
+        "Wymogi weterynaryjne: zabezpieczenie przed osobami i zwierzętami, podział na część czystą i brudną, odpływ wody, dezynfekcja sprzętu, czyszczenie rozdrabniaczy, zwalczanie ptaków, gryzoni i owadów.",
+        "Ubój próbny 2–3 sztuk: ocena okrywy w okolicy lędźwiowo-krzyżowej (siodło – włos rośnie tam najpóźniej) i mizdry (plamy pigmentu = trzeba odczekać).",
+        "Terminy uboju: jenot 20.10–30.11; lis pospolity 15.11–31.12; lis polarny 1.11–15.12; norka 20.11–10.12; nutria 15.12–15.03 (8–10 mies., 4 kg); szynszyle w wieku 10–12 miesięcy niezależnie od pory roku.",
+        "Metody uboju: lisy i jenoty – prąd elektryczny; norki – CO₂ lub CO; nutrie i króliki – ogłuszenie i wykrwawienie; szynszyle – prąd lub chloroform.",
+        "Pozyskanie skór: skórowanie workowe (szynszyle płaskie), mizdrowanie, trocinowanie (16–20 obr./min, trociny liściaste; szynszyle – trzepanie), naciąganie na prawidła.",
+        "Suszenie powietrzem 18–20°C i wilgotności 60–65%; przechowywanie w pozycji wiszącej w ok. 0°C; sprzedaż w stanie surowym (niegarbowane).",
+        "Fermy prowadzone zgodnie z przepisami uwzględniają dobrostan i humanitarne metody chowu i uboju; względy ekologiczne dotyczą usytuowania fermy oraz gospodarki odpadami i odchodami.",
+        "Funkcje pomieszczeń: kuchnia – przygotowanie karmy; chłodnia – przechowywanie surowców; skórownia – pozyskiwanie skór; suszarka – suszenie skór.",
+        "Uboczne produkty zwierzęce przechowuje się tak, by zapobiec gniciu i namnażaniu drobnoustrojów; wewnętrzne kontrole higieny obejmują otoczenie i sprzęt fermy.",
+        "Na jakość futer wpływają czynniki biologiczne (praca hodowlana, genetyka) i środowiskowe – przyżyciowe (żywienie, pielęgnacja, utrzymanie) i poubojowe (obróbka).",
+        "Inne terminy uboju: tchórz hodowlany – I miot 15.12–15.01, II miot 15.01–15.02; nutria – też ubój letni maj–czerwiec; króliki normalno- i krótkowłose – grudzień–styczeń; termin uboju norek zależy od odmiany barwnej.",
+        "Skórki szynszyli suszy się płasko, przypięte szpilkami, mizdrą na zewnątrz; skóry na prawidłach suszy się nadmuchem powietrza do wnętrza; przed sprzedażą – trzepanie i czesanie.",
+        "Skórowanie zwierząt futerkowych wykonuje się bez rozcinania brzucha (system workowy); szynszyle skóruje się systemem płaskim."
+      ]
+    },
+    {
+      "heading": "11. Produkcja jaj kurzych",
+      "points": [
+        "Ok. 1000 ferm przemysłowych w Polsce produkuje rocznie 10 mld jaj; ferma musi mieć pomieszczenia dezynfekujące i prześwietlające.",
+        "Jaja zbiera się kilka razy dziennie, oczyszcza (nie myje!) i odkaża.",
+        "Wolny wybieg: maks. 1000 kur/ha lub 10 m² na nioskę; co najmniej 1/3 kurnika ze ściółką; grzędy min. 15 cm na nioskę.",
+        "Intensywny chów wybiegowy: maks. 4000 kur/ha lub 2,5 m² na nioskę.",
+        "Chów wolierowy: maks. 7–9 niosek/m²; grzędy 10–20 cm nad wybiegiem; karmidła ok. 10 cm, poidła ok. 4 cm na sztukę; wysokość woliery ok. 3 m.",
+        "Chów bateryjny: min. 550 cm² podłogi na nioskę; karmidło 10 cm; poidło podłużne 10 cm lub 2 poidła kropelkowe na klatkę; urządzenia do ścierania pazurów.",
+        "System alternatywny: maks. 9 szt./m²; karmidła podłużne 10 cm, okrągłe 4 cm; poidła podłużne 2,5 cm, okrągłe 1 cm lub 1 kropelkowe na 10 kur; 1 gniazdo na 7 kur lub 1 m² gniazda grupowego na maks. 120 kur.",
+        "Od 1 stycznia 2012 r. tylko klatki wzbogacone: min. 750 cm² na nioskę (600 cm² użytkowej), klatka min. 2000 cm², gniazdo, grzebalisko, grzęda 15 cm, przejście 90 cm, dolny rząd min. 35 cm nad podłogą.",
+        "Kod na jaju: cyfra systemu, kod kraju, weterynaryjny numer identyfikacyjny; 0 – ekologiczny, 1 – wolnowybiegowy, 2 – ściółkowy, 3 – klatkowy.",
+        "Wielkości: S poniżej 53 g; M 53–63 g; L 63–73 g; XL powyżej 73 g.",
+        "Klasy: A ekstra – do 7 dni od pakowania; A – niemyte, nie przechowywane poniżej 5°C; B – utrwalone, do przetwórstwa; C – niesortowane, nie do detalu.",
+        "Przetwory: jaja w proszku, żółtko i białko w proszku, albumina, masa jajowa i białko/żółtko płynne pasteryzowane.",
+        "Produkty płynne: wybijanie i separowanie, filtrowanie, pasteryzacja, schładzanie, pakowanie; suszone – dodatkowo ultrafiltracja i suszenie.",
+        "Jaja przeznacza się na cele reprodukcyjne i konsumpcyjne; nioski mogą być w 5 systemach: wolnowybiegowym, intensywnym wybiegowym, bateryjnym, klatkowym, wolierowym.",
+        "Wolny wybieg i intensywny wybiegowy – swobodny dostęp przez cały dzień do wybiegu w przeważającej części porośniętego.",
+        "Woliera – ograniczony wybieg ogrodzony siatką i zadaszony, o powierzchni porównywalnej z kurnikiem; grzędy najlepiej w formie trójkąta, bez ostrych krawędzi; piaskownice do kąpieli piaskowej.",
+        "W chowie bateryjnym zamiast poidła podłużnego – 2 poidła kropelkowe lub kubeczkowe na klatkę; w systemie alternatywnym podłoże musi dawać oparcie wszystkim pazurom skierowanym do przodu.",
+        "Klatka wzbogacona ma też urządzenie do ścierania pazurów; grzebalisko to ściółka umożliwiająca dziobanie i grzebanie; przejście między bateriami 90 cm.",
+        "Kod 0 – chów ekologiczny: wolny wybieg, naturalne karmienie bez pasz przemysłowych; jaja klasy A myte oznacza się jako „umyte”, a przechowywane poniżej 5°C – jako „chłodzone”.",
+        "Przetwory obejmują też jaja świeże; albumina w proszku to odcukrzone, wysokopieniste białko w proszku."
+      ]
+    },
+    {
+      "heading": "12. Produkty pszczele",
+      "points": [
+        "W produkcji ekologicznej zakazane są substancje dodatkowe wspomagające produkcję miodu.",
+        "Punkty krytyczne miodu: zawartość wody maks. 18%, podgrzewanie i dekrystalizacja w 30°C, przechowywanie w 14°C.",
+        "Produkty pszczele: miód, mleczko pszczele, pyłek, propolis, miód nektarowy, pierzga, jad pszczeli, wosk, kit pszczeli, obnóże, apidycyna."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Proces produkcyjny",
+      "back": "Suma działań prowadzących do wytworzenia produktu/półproduktu/surowca: proces technologiczny + działania pomocnicze."
+    },
+    {
+      "front": "Surowce zwierzęce żywnościowe",
+      "back": "Mięso, mleko, tłuszcz, jaja, miód."
+    },
+    {
+      "front": "Surowce zwierzęce nieżywnościowe",
+      "back": "Skóry, wełna, włosy, pierze."
+    },
+    {
+      "front": "Limit tłuszczu w mięsie wieprzowym wg Dyrektywy 2000/13/EC",
+      "back": "30%."
+    },
+    {
+      "front": "Limit tłuszczu w mięsie ptaków i królików wg Dyrektywy 2000/13/EC",
+      "back": "15% (tkanka łączna 10%)."
+    },
+    {
+      "front": "Dwa systemy utrzymania krów mlecznych",
+      "back": "Uwięziowy i bezuwięziowy."
+    },
+    {
+      "front": "Wady obory uwięziowej",
+      "back": "Ograniczenie ruchu i zachowań, kontakt obornika z wymieniem, uciążliwy dój ręczny."
+    },
+    {
+      "front": "Zalety obory bezuwięziowej",
+      "back": "Swobodny ruch, lepsze zdrowie, łatwiejsze wykrywanie rui, higiena doju, mechanizacja, wyższa wydajność."
+    },
+    {
+      "front": "Techniki doju ręcznego",
+      "back": "Osmykiwanie i piąstkowanie."
+    },
+    {
+      "front": "Rodzaje dojarek mechanicznych",
+      "back": "Bańkowe, przewodowe, roboty udojowe."
+    },
+    {
+      "front": "Błędy instalacji dojarskiej",
+      "back": "Sparciałe gumy strzykowe, zły czas fazy ssania i masażu, nieprawidłowe podciśnienie."
+    },
+    {
+      "front": "Rodzaje hal udojowych",
+      "back": "Rybia ość, bok w bok, tandem, karuzela."
+    },
+    {
+      "front": "Hala, w której krowy opuszczają stanowisko indywidualnie",
+      "back": "Tandem."
+    },
+    {
+      "front": "Liczba stanowisk w dojarni karuzelowej",
+      "back": "12–48."
+    },
+    {
+      "front": "O ile umycie i wytarcie wymienia zmniejsza liczbę bakterii w mleku?",
+      "back": "O 75%."
+    },
+    {
+      "front": "Czas masażu przedudojowego i jego efekt",
+      "back": "Ok. 1 minuty; wzrost ciśnienia w wymieniu i poziomu oksytocyny."
+    },
+    {
+      "front": "Jak długo krowa nie powinna się kłaść po doju?",
+      "back": "30 minut."
+    },
+    {
+      "front": "Akt prawny – wymagania weterynaryjne dla mleka",
+      "back": "Rozporządzenie MRiRW z 18 sierpnia 2004 r."
+    },
+    {
+      "front": "Rasy bydła mlecznego (przykłady)",
+      "back": "Holsztyńsko-fryzyjska, Jersey, nizinna czarno-biała, czerwona polska, Brown Swiss."
+    },
+    {
+      "front": "Podstawowy cel hodowli kóz w Polsce",
+      "back": "Pozyskiwanie mleka."
+    },
+    {
+      "front": "Systemy utrzymania kóz mlecznych",
+      "back": "Uwięziowy i kojcowy (pojedynczy lub grupowy)."
+    },
+    {
+      "front": "Zalety uwięziowego utrzymania kóz",
+      "back": "Indywidualne żywienie, proste leczenie, oszczędność ściółki."
+    },
+    {
+      "front": "Dlaczego nie doi się kóz przy capie?",
+      "back": "Jego zapach szybko przechodzi do mleka – nie nadaje się do obróbki."
+    },
+    {
+      "front": "Preferowany system doju kóz",
+      "back": "Dojarnia kozia poza koźlarnią."
+    },
+    {
+      "front": "Regiony mlecznego użytkowania owiec",
+      "back": "Podhale, Beskid, Tarnowskie Góry, Rybnik."
+    },
+    {
+      "front": "Kiedy zaczyna się dój owiec?",
+      "back": "Po odsadzeniu jagniąt, 3–3,5 miesiąca po porodzie."
+    },
+    {
+      "front": "Ile razy na dobę doi się owce na pastwisku?",
+      "back": "3 razy."
+    },
+    {
+      "front": "Ilość mleka od owcy w okresie pastwiskowym",
+      "back": "Ok. 60 l."
+    },
+    {
+      "front": "Wydajność owiec fryzyjskich",
+      "back": "Laktacja do 300 dni, nawet 800 l."
+    },
+    {
+      "front": "Wydajność polskiej owcy górskiej",
+      "back": "200–300 l w laktacji trwającej 150 dni."
+    },
+    {
+      "front": "Zawartość tłuszczu: mleko owcze vs krowie",
+      "back": "7,0% vs 3,5%."
+    },
+    {
+      "front": "Zawartość białka: mleko owcze vs krowie",
+      "back": "5,6% vs 3,4%."
+    },
+    {
+      "front": "Sucha masa mleka owczego",
+      "back": "18,5%."
+    },
+    {
+      "front": "Bundz",
+      "back": "Ser miękki z mleka owczego podgrzanego do 30°C z podpuszczką."
+    },
+    {
+      "front": "Żętyca",
+      "back": "Wysokobiałkowa serwatka z wyrobu serów owczych."
+    },
+    {
+      "front": "Do jakiego wieku cielęta mięsne odchowuje się przy matkach?",
+      "back": "Do 6–7 miesięcy."
+    },
+    {
+      "front": "Systemy chowu bydła mięsnego",
+      "back": "Ekstensywny, intensywny, mieszany."
+    },
+    {
+      "front": "Kolejność odsadzania w chowie intensywnym",
+      "back": "Po 1. mies. najmłodsza krowa, po 2. – w najgorszej kondycji, po 3. – reszta."
+    },
+    {
+      "front": "Opas ciężki – masa końcowa",
+      "back": "550–600 kg."
+    },
+    {
+      "front": "Opas buhajków – masa końcowa",
+      "back": "300–400 kg."
+    },
+    {
+      "front": "Klasy EUROP",
+      "back": "E – doskonała, U – bardzo dobra, R – dobra, O – średnia, P – słaba."
+    },
+    {
+      "front": "Rasy bydła mięsnego (przykłady)",
+      "back": "Limousine, Charolaise, Aberdeen Angus, Hereford, belgijska błękitna."
+    },
+    {
+      "front": "Cykl zamknięty w produkcji świń",
+      "back": "Wszystkie grupy technologiczne i zwierzęta z własnej hodowli."
+    },
+    {
+      "front": "Tucz porkerowy",
+      "back": "Do 70 kg."
+    },
+    {
+      "front": "Tucz bekonowy",
+      "back": "Do 90 kg."
+    },
+    {
+      "front": "Tucz szynkowy",
+      "back": "Do 105–110 kg."
+    },
+    {
+      "front": "Tucz mięsno-słoninowy",
+      "back": "150–250 kg."
+    },
+    {
+      "front": "Tucz słoninowy",
+      "back": "Do 400 kg."
+    },
+    {
+      "front": "Punkt maksymalnej mięsności",
+      "back": "Masa ciała, przy której przyrost mięsa jest największy – zwykle 80–95 kg."
+    },
+    {
+      "front": "Rasy świń typu mięsnego",
+      "back": "PBZ, WBP, złotnicka biała, Duroc, Hampshire."
+    },
+    {
+      "front": "Rasa świń typu słoninowego",
+      "back": "Mangalica."
+    },
+    {
+      "front": "Rasa świń mięsno-słoninowa",
+      "back": "Złotnicka pstra."
+    },
+    {
+      "front": "Indyki typu ciężkiego – masa",
+      "back": "Indyczki 11–15 kg, indory 18–25 kg."
+    },
+    {
+      "front": "Indyki typu lekkiego – masa",
+      "back": "Indyczki 4–6 kg, indory 8–12 kg."
+    },
+    {
+      "front": "Wełna żywa vs martwa",
+      "back": "Żywa – ze strzyży żywych owiec; martwa – ze zwierząt martwych lub skór."
+    },
+    {
+      "front": "Wełna kolorowa",
+      "back": "Ponad 3% kolorowych włókien."
+    },
+    {
+      "front": "Dopuszczalne zażółcenie wełny białej",
+      "back": "1%."
+    },
+    {
+      "front": "Szkicówka – kiedy?",
+      "back": "Pierwsza strzyża: jarki 10–12 mies., tryczki 7–9 mies."
+    },
+    {
+      "front": "Strzyża maciorek",
+      "back": "1–1,5 miesiąca przed wykotem."
+    },
+    {
+      "front": "Kondycjonowanie wełny",
+      "back": "Wystudzenie i wypocenie wełny."
+    },
+    {
+      "front": "Oznaczenie Woj",
+      "back": "Wełna jagnięca."
+    },
+    {
+      "front": "Termin bicia owiec na skóry futrzarskie",
+      "back": "Przełom października i listopada."
+    },
+    {
+      "front": "Do ilu % wody suszy się skóry owcze?",
+      "back": "10–15%."
+    },
+    {
+      "front": "Golce",
+      "back": "Skóry owcze z włosem do 1 cm."
+    },
+    {
+      "front": "Rasy owiec kożuchowych w Polsce",
+      "back": "Wrzosówka i górska."
+    },
+    {
+      "front": "Smużki",
+      "back": "Skóry z jednodniowych jagniąt karakuł."
+    },
+    {
+      "front": "Wyporki",
+      "back": "Skóry z płodów martwo urodzonych lub wyjętych przed porodem."
+    },
+    {
+      "front": "Gatunek I skóry owczej – maks. uszkodzeń",
+      "back": "10% powierzchni."
+    },
+    {
+      "front": "Skóra gatunku IV",
+      "back": "Uszkodzenie ponad 50% – odpadowa."
+    },
+    {
+      "front": "Które zwierzęta futerkowe zawsze muszą mieć domki?",
+      "back": "Norki."
+    },
+    {
+      "front": "4 fazy żywienia mięsożernych zwierząt futerkowych",
+      "back": "Przygotowanie do rozrodu, wykoty i karmienie, żywienie młodzieży, dojrzewanie okrywy."
+    },
+    {
+      "front": "Ubój próbny – co się ocenia?",
+      "back": "Okrywę w okolicy lędźwiowo-krzyżowej (siodło) i mizdrę (plamy pigmentu)."
+    },
+    {
+      "front": "Termin uboju norek",
+      "back": "20 listopada – 10 grudnia."
+    },
+    {
+      "front": "Metoda uboju norek",
+      "back": "Dwutlenek węgla lub tlenek węgla."
+    },
+    {
+      "front": "Wiek uboju szynszyli",
+      "back": "10–12 miesięcy, niezależnie od pory roku."
+    },
+    {
+      "front": "Mizdrowanie",
+      "back": "Usuwanie resztek tłuszczu, tkanki mięśniowej i łącznej ze skóry."
+    },
+    {
+      "front": "Warunki suszenia skór futerkowych",
+      "back": "Powietrze 18–20°C, wilgotność 60–65%."
+    },
+    {
+      "front": "Przechowywanie skór futerkowych",
+      "back": "W pozycji wiszącej, ok. 0°C."
+    },
+    {
+      "front": "Czy jaja konsumpcyjne się myje?",
+      "back": "Nie – oczyszcza się je i odkaża."
+    },
+    {
+      "front": "Obsada na wolnym wybiegu",
+      "back": "Maks. 1000 kur/ha lub 10 m² na nioskę."
+    },
+    {
+      "front": "Obsada w intensywnym chowie wybiegowym",
+      "back": "Maks. 4000 kur/ha lub 2,5 m² na nioskę."
+    },
+    {
+      "front": "Obsada w wolierze",
+      "back": "7–9 niosek/m²."
+    },
+    {
+      "front": "Klatka wzbogacona – powierzchnia na nioskę",
+      "back": "Min. 750 cm² (600 cm² użytkowej)."
+    },
+    {
+      "front": "Od kiedy tylko klatki wzbogacone?",
+      "back": "Od 1 stycznia 2012 r."
+    },
+    {
+      "front": "Kod 0 / 1 / 2 / 3 na jajach",
+      "back": "Ekologiczny / wolnowybiegowy / ściółkowy / klatkowy."
+    },
+    {
+      "front": "Jajo rozmiaru L",
+      "back": "63–73 g."
+    },
+    {
+      "front": "Jaja klasy A ekstra",
+      "back": "Nie starsze niż 7 dni od pakowania."
+    },
+    {
+      "front": "Maksymalna zawartość wody w miodzie",
+      "back": "18%."
+    },
+    {
+      "front": "Temperatura dekrystalizacji miodu",
+      "back": "30°C."
+    },
+    {
+      "front": "Temperatura przechowywania miodu",
+      "back": "14°C."
+    },
+    {
+      "front": "Najbardziej efektywny system chowu bydła mięsnego",
+      "back": "Intensywny (ekstensywny i mieszany dają niskie przyrosty dzienne)."
+    },
+    {
+      "front": "Problem cieląt z pastwiska po powrocie do obory",
+      "back": "Schorzenia górnych dróg oddechowych – leczyć do pełnego wyleczenia."
+    },
+    {
+      "front": "Zalety intensywnego systemu odsadzania cieląt mięsnych",
+      "back": "Kontrola krów po porodzie, ochrona ich kondycji, bezstresowe odsadzanie, rozwój układu immunologicznego."
+    },
+    {
+      "front": "Nazwij wyręby tuszy wieprzowej oznaczone numerami 1–9.",
+      "back": "1 – głowa, 2 – karkówka, 3 – schab (owal w nim to polędwiczka), 4 – łopatka, 5 – boczek, 6 – szynka, 7 – golonka, 8 – podgardle, 9 – biodrówka.",
+      "img": "img/tpc7/tusza-wieprzowa-numery.jpg"
+    },
+    {
+      "front": "Wełna zażółcona",
+      "back": "Wełna od białych owiec, która pod wpływem różnych czynników zmieniła barwę od żółtej do brązowej."
+    },
+    {
+      "front": "Obrzezanie runa – na czym polega?",
+      "back": "Oddzielenie wełny zbyt zanieczyszczonej (zażółconej, zaobroczonej, z odchodami) i zbyt krótkiej z głowy, brzucha i dolnych partii kończyn."
+    },
+    {
+      "front": "Odczytaj: Wo – J – Ro – 37 – kl. 2 – III – C",
+      "back": "Wełna z owiec dorosłych, jednolita, z run obrzeżonych, średnica włókien 37 µm, klasa długości 2, styl III (dobra), zanieczyszczenia roślinne stopnia C."
+    },
+    {
+      "front": "Style wełny I–V",
+      "back": "I – super, II – wyborna, III – dobra, IV – średnia, V – wadliwa."
+    },
+    {
+      "front": "Bolak (wada skóry)",
+      "back": "Niezabliźniona rana po ropniu."
+    },
+    {
+      "front": "Termin uboju królików i tchórzy hodowlanych",
+      "back": "Króliki normalno- i krótkowłose – grudzień–styczeń; tchórz – I miot 15.12–15.01, II miot 15.01–15.02."
+    },
+    {
+      "front": "Czynniki wpływające na jakość futer",
+      "back": "Biologiczne (praca hodowlana, genetyka) i środowiskowe: przyżyciowe (żywienie, pielęgnacja, utrzymanie) i poubojowe (obróbka)."
+    },
+    {
+      "front": "Albumina w proszku",
+      "back": "Odcukrzone, wysokopieniste białko jaja w proszku."
+    },
+    {
+      "front": "Pięć systemów utrzymania niosek",
+      "back": "Wolnowybiegowy, intensywny wybiegowy, bateryjny, klatkowy, wolierowy."
+    },
+    {
+      "front": "Dlaczego po przekroczeniu punktu maksymalnej mięsności tucz jest mniej opłacalny?",
+      "back": "Rośnie udział tłuszczu, gorzej wykorzystuje się paszę, rosną koszty utrzymania, spada procent mięsa w tuszy i wartość kilograma tuszy (cena skupu)."
+    },
+    {
+      "front": "Jak skóruje się zwierzęta futerkowe?",
+      "back": "Bez rozcinania brzucha – system workowy (szynszyle – system płaski); potem mizdrowanie, trocinowanie (szynszyle – trzepanie), naciąganie na prawidła, suszenie, przechowywanie, przygotowanie do sprzedaży."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Do surowców pochodzenia zwierzęcego nieżywnościowych zalicza się:",
+      "options": [
+        "wełnę",
+        "miód",
+        "jaja",
+        "tłuszcz"
+      ],
+      "answer": 0,
+      "explain": "Surowce nieżywnościowe to skóry, wełna, włosy i pierze."
+    },
+    {
+      "q": "Osmykiwanie i piąstkowanie to techniki:",
+      "options": [
+        "doju mechanicznego",
+        "strzyży owiec",
+        "korekcji racic",
+        "doju ręcznego"
+      ],
+      "answer": 3,
+      "explain": "Dój ręczny obejmuje osmykiwanie i piąstkowanie."
+    },
+    {
+      "q": "Halą udojową, w której krowy opuszczają stanowisko indywidualnie, jest hala typu:",
+      "options": [
+        "rybia ość",
+        "bok w bok",
+        "tandem",
+        "kanałowa"
+      ],
+      "answer": 2,
+      "explain": "W hali typu tandem stanowisko opuszczane jest indywidualnie."
+    },
+    {
+      "q": "Dojarnia karuzelowa może mieć:",
+      "options": [
+        "2–4 stanowiska",
+        "12–48 stanowisk",
+        "100–200 stanowisk",
+        "dokładnie 8 stanowisk"
+      ],
+      "answer": 1,
+      "explain": "Dojarnie karuzelowe to platformy z 12–48 stanowiskami doju."
+    },
+    {
+      "q": "Umycie i wytarcie wymienia przed dojem zmniejsza zawartość bakterii w mleku o:",
+      "options": [
+        "10%",
+        "75%",
+        "25%",
+        "99%"
+      ],
+      "answer": 1,
+      "explain": "Takie postępowanie zmniejsza zawartość bakterii w mleku o 75%."
+    },
+    {
+      "q": "Masaż przedudojowy zwiększa w organizmie krowy poziom:",
+      "options": [
+        "oksytocyny",
+        "insuliny",
+        "adrenaliny",
+        "kortyzolu"
+      ],
+      "answer": 0,
+      "explain": "Masaż zwiększa ciśnienie wewnętrzne wymienia i poziom oksytocyny."
+    },
+    {
+      "q": "Po doju krowy nie powinny się kłaść przez około:",
+      "options": [
+        "5 minut",
+        "3 godziny",
+        "12 godzin",
+        "30 minut"
+      ],
+      "answer": 3,
+      "explain": "Zapobiega się kładzeniu się krów przez 30 min po doju."
+    },
+    {
+      "q": "Sparciałe gumy strzykowe to przykład:",
+      "options": [
+        "błędu personelu",
+        "choroby wymienia",
+        "wady instalacji dojarskiej",
+        "wady budowy wymienia"
+      ],
+      "answer": 2,
+      "explain": "Do wad instalacji dojarskiej zalicza się sparciałe gumy strzykowe."
+    },
+    {
+      "q": "Kóz nie należy doić w obecności capa, ponieważ:",
+      "options": [
+        "cap wywołuje ruję",
+        "spada zawartość tłuszczu",
+        "jego zapach przechodzi do mleka",
+        "kozy przestają oddawać mleko na stałe"
+      ],
+      "answer": 2,
+      "explain": "Zapach capa bardzo szybko przechodzi do mleka i produkt nie nadaje się do obróbki."
+    },
+    {
+      "q": "Preferowanym miejscem doju kóz jest:",
+      "options": [
+        "kojec z capem",
+        "dojarnia kozia poza koźlarnią",
+        "pastwisko",
+        "korytarz paszowy"
+      ],
+      "answer": 1,
+      "explain": "Dojarnia kozia poza koźlarnią to system preferowany."
+    },
+    {
+      "q": "Dój owiec rozpoczyna się po odsadzeniu jagniąt, czyli około:",
+      "options": [
+        "3–3,5 miesiąca po porodzie",
+        "1 tydzień po porodzie",
+        "1 miesiąc po porodzie",
+        "6 miesięcy po porodzie"
+      ],
+      "answer": 0,
+      "explain": "Owce nadają się do doju po odsadzeniu jagniąt, 3–3,5 miesiąca po porodzie."
+    },
+    {
+      "q": "Zawartość tłuszczu w mleku owczym wynosi około:",
+      "options": [
+        "3,5%",
+        "1,5%",
+        "12,3%",
+        "7,0%"
+      ],
+      "answer": 3,
+      "explain": "Mleko owcze zawiera 7,0% tłuszczu, a krowie 3,5%."
+    },
+    {
+      "q": "Bundz to ser wytwarzany z mleka owczego podgrzanego do:",
+      "options": [
+        "15°C",
+        "60°C",
+        "90°C",
+        "30°C"
+      ],
+      "answer": 3,
+      "explain": "Bundz to ser miękki z podgrzanego do 30°C mleka owczego z podpuszczką."
+    },
+    {
+      "q": "Wysokobiałkowa serwatka powstająca przy wyrobie serów owczych to:",
+      "options": [
+        "bryndza",
+        "maślanka",
+        "żętyca",
+        "siara"
+      ],
+      "answer": 2,
+      "explain": "Podczas wyrobu serów powstaje żętyca – wysokobiałkowa serwatka."
+    },
+    {
+      "q": "W chowie bydła mięsnego cielęta odchowuje się przy matkach do wieku:",
+      "options": [
+        "1–2 tygodni",
+        "6–7 miesięcy",
+        "2 miesięcy",
+        "12–14 miesięcy"
+      ],
+      "answer": 1,
+      "explain": "Odchów cieląt odbywa się przy matkach lub mamkach do wieku 6–7 miesięcy."
+    },
+    {
+      "q": "W intensywnym chowie bydła mięsnego po 1 miesiącu od porodu odsadza się:",
+      "options": [
+        "najmłodszą krowę",
+        "krowę w najgorszej kondycji",
+        "wszystkie krowy",
+        "najstarszą krowę"
+      ],
+      "answer": 0,
+      "explain": "Po 1 miesiącu od porodu przenosi się najmłodszą krowę."
+    },
+    {
+      "q": "Opas ciężki bydła prowadzi się do masy ciała:",
+      "options": [
+        "550–600 kg",
+        "150–200 kg",
+        "300–400 kg",
+        "800–900 kg"
+      ],
+      "answer": 0,
+      "explain": "Opas ciężki – bydło do masy ciała 550–600 kg."
+    },
+    {
+      "q": "Litera R w klasyfikacji EUROP oznacza umięśnienie:",
+      "options": [
+        "doskonałe",
+        "średnie",
+        "słabe",
+        "dobre"
+      ],
+      "answer": 3,
+      "explain": "R – dobra klasa umięśnienia."
+    },
+    {
+      "q": "Do ras bydła mięsnego należy:",
+      "options": [
+        "Jersey",
+        "holsztyńsko-fryzyjska",
+        "Hereford",
+        "Brown Swiss"
+      ],
+      "answer": 2,
+      "explain": "Hereford jest wymieniony wśród ras bydła mięsnego."
+    },
+    {
+      "q": "Tucz bekonowy prowadzi się do masy ciała:",
+      "options": [
+        "70 kg",
+        "90 kg",
+        "110 kg",
+        "150 kg"
+      ],
+      "answer": 1,
+      "explain": "Tucz bekonowy prowadzi się do 90 kg."
+    },
+    {
+      "q": "Punkt maksymalnej mięsności u tuczników przypada zwykle przy masie:",
+      "options": [
+        "30–40 kg",
+        "80–95 kg",
+        "120–150 kg",
+        "200–250 kg"
+      ],
+      "answer": 1,
+      "explain": "Wartość ta kształtuje się zwykle pomiędzy 80–95 kg."
+    },
+    {
+      "q": "Rasą świń typu słoninowego jest:",
+      "options": [
+        "Mangalica",
+        "Duroc",
+        "puławska",
+        "wielka biała polska"
+      ],
+      "answer": 0,
+      "explain": "Do typu słoninowego należy Mangalica."
+    },
+    {
+      "q": "Cykl zamknięty produkcji świń oznacza, że:",
+      "options": [
+        "gospodarstwo kupuje warchlaki na tucz",
+        "produkuje się tylko prosięta",
+        "tuczniki kupuje się od sąsiadów",
+        "wszystkie zwierzęta pochodzą z własnej hodowli"
+      ],
+      "answer": 3,
+      "explain": "W cyklu zamkniętym wszystkie zwierzęta pochodzą z własnej hodowli."
+    },
+    {
+      "q": "Indory typu ciężkiego osiągają masę:",
+      "options": [
+        "4–6 kg",
+        "8–12 kg",
+        "18–25 kg",
+        "12–16 kg"
+      ],
+      "answer": 2,
+      "explain": "Indory typu ciężkiego osiągają 18–25 kg."
+    },
+    {
+      "q": "Wełna kolorowa to wełna, w której kolorowe włókna stanowią ponad:",
+      "options": [
+        "1%",
+        "10%",
+        "3%",
+        "50%"
+      ],
+      "answer": 2,
+      "explain": "Wełna kolorowa – ilość kolorowych włókien przekracza 3%."
+    },
+    {
+      "q": "Pierwszą strzyżę (szkicówkę) jarek wykonuje się w wieku:",
+      "options": [
+        "1–2 miesięcy",
+        "10–12 miesięcy",
+        "3–4 miesięcy",
+        "2 lat"
+      ],
+      "answer": 1,
+      "explain": "Młode owce (jarki) strzyże się po raz pierwszy w wieku 10–12 miesięcy."
+    },
+    {
+      "q": "Maciorki strzyże się:",
+      "options": [
+        "1–1,5 miesiąca przed wykotem",
+        "tuż po wykocie",
+        "w trakcie stanówki",
+        "1–1,5 miesiąca po wykocie"
+      ],
+      "answer": 0,
+      "explain": "Maciorki strzyże się 1–1,5 miesiąca przed wykotem."
+    },
+    {
+      "q": "Skóry owcze z włosem o długości do 1 cm to:",
+      "options": [
+        "smużki",
+        "wyporki",
+        "runa",
+        "golce"
+      ],
+      "answer": 3,
+      "explain": "Wybrakowane skóry owcze z włosem do 1 cm nazywane są golcami."
+    },
+    {
+      "q": "Smużki pozyskuje się od:",
+      "options": [
+        "dorosłych tryków",
+        "owiec wrzosówek w wieku 2 lat",
+        "jagniąt merynosa po odsadzeniu",
+        "jednodniowych jagniąt rasy karakuł"
+      ],
+      "answer": 3,
+      "explain": "Smużki pozyskuje się od jednodniowych jagniąt rasy karakuł."
+    },
+    {
+      "q": "Skóra owcza I gatunku może mieć uszkodzenia nieprzekraczające:",
+      "options": [
+        "30% powierzchni",
+        "50% powierzchni",
+        "10% powierzchni",
+        "70% powierzchni"
+      ],
+      "answer": 2,
+      "explain": "W skórach pierwszego gatunku stosunek ten nie może przekraczać 10%."
+    },
+    {
+      "q": "Norki ubija się w terminie:",
+      "options": [
+        "1 maja – 30 czerwca",
+        "20 listopada – 10 grudnia",
+        "15 grudnia – 15 marca",
+        "1 sierpnia – 31 sierpnia"
+      ],
+      "answer": 1,
+      "explain": "Termin uboju norek to 20 listopada–10 grudnia."
+    },
+    {
+      "q": "Podczas uboju próbnego zwierząt futerkowych ocenia się okrywę w okolicy:",
+      "options": [
+        "lędźwiowo-krzyżowej (siodło)",
+        "głowy",
+        "ogona",
+        "brzucha"
+      ],
+      "answer": 0,
+      "explain": "Ocenia się okrywę w partii lędźwiowo-krzyżowej, bo tam włos najpóźniej wzrasta."
+    },
+    {
+      "q": "Skóry futerkowe przechowuje się w temperaturze około:",
+      "options": [
+        "0°C",
+        "20°C",
+        "-30°C",
+        "10°C"
+      ],
+      "answer": 0,
+      "explain": "Przechowywanie odbywa się w pozycji wiszącej w temperaturze około 0°C."
+    },
+    {
+      "q": "Obsada kur na wolnym wybiegu nie może przekraczać:",
+      "options": [
+        "4000 kur na 1 ha",
+        "100 kur na 1 ha",
+        "10 000 kur na 1 ha",
+        "1000 kur na 1 ha"
+      ],
+      "answer": 3,
+      "explain": "Gęstość obsady nie przekracza 1000 kur na 1 ha lub 10 m² na nioskę."
+    },
+    {
+      "q": "Klatka wzbogacona musi zapewnić każdej niosce co najmniej:",
+      "options": [
+        "550 cm² powierzchni",
+        "300 cm² powierzchni",
+        "750 cm² powierzchni",
+        "2000 cm² powierzchni"
+      ],
+      "answer": 2,
+      "explain": "Powierzchnia klatki wzbogaconej to co najmniej 750 cm² na nioskę."
+    },
+    {
+      "q": "Cyfra 3 w kodzie na jajku oznacza chów:",
+      "options": [
+        "ekologiczny",
+        "klatkowy",
+        "wolnowybiegowy",
+        "ściółkowy"
+      ],
+      "answer": 1,
+      "explain": "3 – chów klatkowy."
+    },
+    {
+      "q": "Jajo o masie 65 g należy do klasy wagowej:",
+      "options": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "answer": 1,
+      "explain": "Klasa L to jaja o masie 63–73 g."
+    },
+    {
+      "q": "Dopuszczalna zawartość wody w miodzie wynosi:",
+      "options": [
+        "18%",
+        "8%",
+        "25%",
+        "35%"
+      ],
+      "answer": 0,
+      "explain": "Dopuszczalna zawartość wody w miodzie to 18%."
+    },
+    {
+      "q": "Miód przechowuje się w temperaturze:",
+      "options": [
+        "0°C",
+        "30°C",
+        "-5°C",
+        "14°C"
+      ],
+      "answer": 3,
+      "explain": "Temperatura przechowywania miodu wynosi 14°C."
+    },
+    {
+      "q": "Jaja klasy A ekstra nie mogą być starsze niż:",
+      "options": [
+        "1 dzień od zniesienia",
+        "28 dni od pakowania",
+        "7 dni od daty pakowania",
+        "3 miesiące"
+      ],
+      "answer": 2,
+      "explain": "A ekstra – najświeższe, nie starsze niż 7 dni od daty pakowania."
+    },
+    {
+      "q": "Po powrocie z pastwiska do obory u młodego bydła mięsnego mogą pojawić się problemy z:",
+      "options": [
+        "racicami",
+        "wymieniem",
+        "górnymi drogami oddechowymi",
+        "układem moczowym"
+      ],
+      "answer": 2,
+      "explain": "Po powrocie do obory u cieląt z pastwiska mogą wystąpić schorzenia górnych dróg oddechowych."
+    },
+    {
+      "q": "Wyręb tuszy wieprzowej oznaczony na schemacie numerem 6 to:",
+      "options": [
+        "łopatka",
+        "szynka",
+        "boczek",
+        "karkówka"
+      ],
+      "answer": 1,
+      "explain": "Numer 6 to szynka – tylna część tuszy nad nogą tylną. Łopatka (4) leży z przodu, boczek (5) w środku, karkówka (2) za głową.",
+      "img": "img/tpc7/tusza-wieprzowa-numery.jpg"
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Co zaliczamy do surowców pochodzenia zwierzęcego?",
+      "options": [
+        "Surowce z drobiu i ryb.",
+        "Warzywa i owoce.",
+        "Mleko i jaja.",
+        "Mięso pochodzące z uboju zwierząt rzeźnych."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to metoda wytwarzania produktu, półproduktu lub surowca.",
+      "options": [
+        "Proces produkcyjny",
+        "Technologia produkcji"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProces produkcyjny to suma wszystkich działań podejmowanych w celu wytworzenia gotowego produktu, półproduktu lub surowca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakich zwierząt nie hoduje się w Polsce w celu pozyskania futra?",
+      "options": [
+        "Kotów.",
+        "Szynszyli.",
+        "Nutrii.",
+        "Tchórzy."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZastosowanie … umożliwia pełną mechanizację doju, elektroniczną kontrolę podłączania wymienia, pomiar jakości i ilości mleka, wymaga jednego operatora.",
+      "options": [
+        "robotów udojowych",
+        "dojarek przewodowych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZałożenie fermy zwierząt futerkowych nie wymaga żadnej specyficznej zgody władz administracyjnych oprócz wpisu do ewidencji albo KRS.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakim symbolem oznacza się jaja kurze uzyskane podczas chowu kur w systemie wolnowybiegowym?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJaja utrwalone, nadające się do przetwórstwa spożywczego, to jaja klasy ….",
+      "options": [
+        "C",
+        "B"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW chowie i hodowli zwierząt futerkowych należy przestrzegać specyficznych przepisów lekarsko–weterynaryjnych i wymogów hodowli.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zaznacz, które z wymienionych produktów pozyskiwane są od pszczół.",
+      "options": [
+        "Pierzga.",
+        "Apidycyna.",
+        "Propolis.",
+        "Jad pszczeli."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… są produktem pozyskiwanym od urodzonych martwo płodów lub jagniąt sztucznie wyjętych z macicy przed porodem, dzięki czemu zamiast skrętu futra uzyskuje się lekką falę.",
+      "options": [
+        "Smużki",
+        "Wyporki"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU owiec fryzyjskich laktacja może trwać do 200 dni, co daje możliwość uzyskania nawet 900 l mleka od jednej maciorki w tym okresie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jak nazywają się wybrakowane skóry owcze z włosem do 1 cm?",
+      "options": [
+        "Golce.",
+        "Smużki.",
+        "Łyski.",
+        "Wyporki."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo wypędzeniu owiec na pastwiska zielone prowadzi się dój … razy na dobę.",
+      "options": [
+        "dwa",
+        "trzy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZwierzęta futerkowe utrzymuje się na fermach w systemie klatkowym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaka powinna być długość włosa u owiec?",
+      "options": [
+        "Od 6 do 15 cm.",
+        "Od 1 do 5 cm.",
+        "Od 4 do 10 cm.",
+        "Od 3 do 8 cm."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzed ubojem właściwym zwierząt futerkowych w celu lepszego określenia właściwego terminu przeprowadza się tzw. ubój próbny … sztuk zwierząt z wybranej grupy.",
+      "options": [
+        "5-10",
+        "2-3"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJaja kurze znakowane są w sposób umożliwiający identyfikację sposobu utrzymania niosek oraz pochodzenia surowca.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych wad odnoszą się do bezuwięziowego systemu utrzymania krów?",
+      "options": [
+        "Ograniczenie zachowań.",
+        "Gorsza kontrola stanu zdrowia krów.",
+        "Łatwy kontakt obornika z wymieniem.",
+        "Utrudnione zabiegi pielęgnacyjne."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Skóra owcza z głowy, nóg i ogona powinna być odcięta jako ….",
+      "options": [
+        "sprofilowana",
+        "odpadkowa"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nChów intensywny bydła mięsnego zakłada osobne utrzymanie opasów na uwięzi lub w kojcach, kontrolowane utrzymanie krów oraz intensywny odchów cieląt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które z wymienionych zwrotów odnoszą się do metod udoju ręcznego krów?",
+      "options": [
+        "Piąstkowanie.",
+        "Uciskanie.",
+        "Wyciskanie.",
+        "Osmykiwanie."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… to ser miękki, wyprodukowany z podgrzanego do 30°C mleka owczego z dodatkiem podpuszczki.",
+      "options": [
+        "Żętyca",
+        "Bundz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKozły powinny być trzymane w osobnym budynku ze względu na specyficzny zapach oraz nerwowość, jaką wprowadza obecność samców wśród płodnych samic.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie typy hal wyróżniamy zależnie od organizacji stacji udojowych?",
+      "options": [
+        "„Karuzela”.",
+        "„Tandem”.",
+        "„Bok w bok”.",
+        "„Rybia ość”."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… używa się do przygotowania napojów lub skarmiana zwierząt.",
+      "options": [
+        "Żętycy",
+        "Mleka UHT"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTylko uwięziowe utrzymanie bydła mlecznego umożliwia wypasanie zwierząt na pastwisku w okresie letnim.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W jakich systemach utrzymuje się kozy mleczne?",
+      "options": [
+        "Bezuwięziowym.",
+        "Wolnostanowiskowym.",
+        "Uwięziowym.",
+        "Kojcowym."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSystem … pozwala kozom mlecznym zachować naturalny behawioryzm, w tym także zachowania socjalne.",
+      "options": [
+        "kojcowy",
+        "bezuwięziowy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… pozwala na określenie wszelkich zmian w mleku, a dzięki temu wykrycie stanów zapalnych wymienia i zadecydowanie o przeznaczeniu do doju lub leczenia.",
+      "options": [
+        "Masaż przedudojowy",
+        "Przeddój"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jakie wyróżniamy sposoby utrzymania świń do tuczu?",
+      "options": [
+        "Wolnostanowiskowy.",
+        "Bezściołowy.",
+        "Uwięziowy.",
+        "Ściołowy."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nO … cyklu produkcji trzody mówimy, gdy w danym gospodarstwie utrzymywane są wszystkie grupy technologiczne, prowadzona jest praca hodowlana, a wszystkie zwierzęta pochodzą z własnej hodowli.",
+      "options": [
+        "zamkniętym",
+        "otwartym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTemperatura podgrzewania i dekrystalizacji miodu to …°C.",
+      "options": [
+        "30",
+        "40"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie wyróżniamy systemy chowu bydła mięsnego?",
+      "options": [
+        "Ekstensywny.",
+        "Intensywny.",
+        "Mieszany.",
+        "Zbilansowany."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW chowie … bydło utrzymywane jest w oborze z wydzielonymi legowiskami, porodówką oraz kojcami lub stanowiskami dla opasów.",
+      "options": [
+        "intensywnym",
+        "ekstensywnym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZarówno sposób mieszany, jak i ekstensywny chów bydła mięsnego dają bardzo duże dzienne przyrosty, przez co są bardziej efektywne w porównaniu z systemem intensywnym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Do jakiego typu użytkowego należy bekonowy (do 90 kg) podtyp trzody chlewnej?",
+      "options": [
+        "Mięsno-słoninowej.",
+        "Mięsno-tłuszczowej.",
+        "Słoninowej.",
+        "Mięsnej."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy ekologicznej produkcji miodu dopuszczalne jest stosowanie niektórych substancji dodatkowych i składników wspomagających produkcję.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku kur wyróżniamy rasy nieśne do produkcji jaj i rasy mięsne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wśród wymienionych gatunków drobiu zaznacz ten, który oprócz użyteczności rzeźnej jest też źródłem skóry i jaj.",
+      "options": [
+        "Gęsi.",
+        "Kury.",
+        "Kaczki.",
+        "Strusie."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDobrą wydajnością rzeźną charakteryzują się indyki i można wśród nich wyróżnić … rodzaje typów użytkowych.",
+      "options": [
+        "dwa",
+        "trzy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPoprawnie zbudowana ferma produkująca jaja konsumpcyjne nie musi posiadać urządzeń dezynfekujących i prześwietlających.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Jaka wełna owcza zrywa się przy użyciu niewielkiej siły?",
+      "options": [
+        "Wełna osłabiona.",
+        "Wełna martwa.",
+        "Wełna słaba.",
+        "Wełna zażółcona."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSkóry owcze futrzarskie pozyskuje się z bicia jesiennego na przełomie ….",
+      "options": [
+        "września i października",
+        "października i listopada"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku hodowli owiec ma znaczenie odpowiedni dobór ras, za to żadnego wpływu nie ma rejonizacja produkcji, ponieważ klimat nie może wpływać na wzrost okrywy włosowej owiec.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Co może składać się na działania pomocnicze w procesie produkcji zwierzęcej?",
+      "options": [
+        "Kontrola.",
+        "Transport.",
+        "Magazynowanie.",
+        "Konserwacja."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKury są hodowane na cele rzeźne i produkcję nieśną, a pozyskiwane jaja przeznaczane są na cele reprodukcyjne oraz do konsumpcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki produkt definiujemy jako mięśnie szkieletowe wraz z przynależną tkanką łączną, tłuszczową i kostną, pochodzące z tusz, półtusz lub ćwierćtusz zwierząt rzeźnych?",
+      "options": [
+        "Surowce nieżywnościowe.",
+        "Surowce żywnościowe.",
+        "Mięso.",
+        "Odpadki mięsne."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wskaż zaletę utrzymania bydła mlecznego odnoszącą się do obory uwięziowej.",
+      "options": [
+        "Większa higiena doju i jakość mleka.",
+        "Poprawa stanu zdrowia krów.",
+        "Łatwa obserwacja zwierząt.",
+        "Możliwość swobodnego ruchu zwierząt."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSurowce pochodzenia zwierzęcego to elementy uzyskiwane od zwierząt będące surowcem wyjściowym do dalszego przetwórstwa lub produktem samym w sobie.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Na czym opiera się produkcja mleka krowiego?",
+      "options": [
+        "Na hodowli bydła w celu pozyskania skór.",
+        "Na chowie i hodowli bydła mlecznego.",
+        "Na planowaniu kolejnych pokryć w celu podtrzymania laktacji i pozyskiwania mleka.",
+        "Na uboju mięsnym bydła."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jakim czasie od porodu następuje odsadzenie jagniąt (owce nadają się wówczas do rozpoczęcia udoju)?",
+      "options": [
+        "4–5 miesięcy.",
+        "3–3,5 miesiąca.",
+        "1–2 miesiące.",
+        "2,5–3 miesięcy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nElektroniczna identyfikacja i skanery przy bramkach stosowane w hali typu „tandem” usprawniają działanie hali poprzez ograniczenie krowom już wydojonym ponownego dostępu na halę przed upływem określonego czasu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jak może być ukierunkowana produkcja w zakresie pozyskiwania mleka koziego?",
+      "options": [
+        "Do własnych celów przerobowych.",
+        "Do celów technicznych i kosmetycznych.",
+        "Do celów spożywczych.",
+        "Do przetwórstwa spożywczego."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W którym systemie lub podsystemie kozy przywiązuje się linką bądź łańcuchem do żłobu?",
+      "options": [
+        "Uwięziowym.",
+        "Kojcowym.",
+        "Pojedynczym.",
+        "Grupowym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZaletą systemu kojcowego w hodowli kóz mlecznych jest możliwość zastosowania indywidualnego żywienia, prostego leczenia oraz oszczędność ściółki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych czynników wpływają na mleczność owiec?",
+      "options": [
+        "Wiek.",
+        "Umaszczenie.",
+        "Kształt i wielkość wymion.",
+        "Stadium laktacji."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Po jakim czasie od porodu przy intensywnym chowie bydła na cele mięsne przeprowadza się odsadzenie cielęcia od krowy w najgorszej kondycji?",
+      "options": [
+        "Po 3 miesiącach.",
+        "Po 1 miesiącu.",
+        "Po 4 miesiącach.",
+        "Po 2 miesiącach."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBundz nie może być spożywany samodzielnie, stanowi jedynie półprodukt do produkcji ostrego i słonego sera twarogowego – bryndzy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem klasyfikacji mięsa dla półtuszy wołowej pod względem umięśnienia opiera się o system EUROP.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do jakiego typu użytkowego świń zalicza się podtyp porkerowy?",
+      "options": [
+        "Mięsnego.",
+        "Słoninowego.",
+        "Mięsno-słoninowego.",
+        "Mięsno-tłuszczowego."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW produkcji wieprzowiny funkcjonuje określenie punktu maksymalnej mięsności, które oznacza masę ciała świni, kiedy przyrost mięsa osiąga największą wartość.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie opasy bydła mięsnego wyróżniamy, przyjmując za kryterium oczekiwania wobec produktu końcowego?",
+      "options": [
+        "Na białe mięso.",
+        "Ciężki.",
+        "Bardzo ciężki.",
+        "Buhajków."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCzas magazynowania wełny owczej nie wpływa na jej jakość.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Od jakiego gatunku drobiu rzeźnego dodatkowo pozyskuje się pierze i puch?",
+      "options": [
+        "Indyków.",
+        "Kur.",
+        "Strusi.",
+        "Gęsi."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Które z wymienionych elementów należą do wyrębów tuszy świńskiej?",
+      "options": [
+        "Nóżki.",
+        "Łopatka.",
+        "Antrykot.",
+        "Podgardle."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkóry owcze stanowią główny surowiec produkcyjny kożuchów i futer.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Kiedy dokonuje się pierwszej strzyży młodych owiec (jarek)?",
+      "options": [
+        "W wieku 7–9 miesięcy.",
+        "W wieku 12–14 miesięcy.",
+        "1–1,5 miesiąca przed wykotem.",
+        "W wieku 10–12 miesięcy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Jakim symbolem oznacza się jaja kurze o masie 63–73 g?",
+      "options": [
+        "L.",
+        "M.",
+        "S.",
+        "XL."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakie z wymienionych oznaczeń stosuje się w celu oznaczenia klasy jaj (świeżość, przeznaczenie)?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "A ekstra"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jakie rozróżniamy typy użytkowe indyków?",
+      "options": [
+        "Lekki.",
+        "Średni.",
+        "Nieśny.",
+        "Ciężki."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczególnie dobrą wydajnością rzeźną charakteryzują się gęsi, z których poza mięsem nie pozyskuje się żadnych innych surowców.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Od jakich gatunków zwierząt hodowlanych można pozyskiwać skóry?",
+      "options": [
+        "Jenotów.",
+        "Nutrii.",
+        "Norek.",
+        "Królików."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "W jakiej temperaturze powinno przebiegać suszenie skór pozyskanych ze zwierząt futerkowych?",
+      "options": [
+        "10–15°C",
+        "20–23°C",
+        "18–20°C",
+        "15–18°C"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Jaka jest dopuszczalna zawartość wody w miodzie?",
+      "options": [
+        "18%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jakich oznaczeń wełny owczej używa się według masy włóknistej?",
+      "options": [
+        "M",
+        "R",
+        "J",
+        "Wor"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jaki może być maksymalny procent uszkodzonej powierzchni skóry owczej, aby można ją było zaliczyć do pierwszego gatunku ?",
+      "options": [
+        "20%",
+        "5%",
+        "30%",
+        "10%"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNajwiększe fermy zwierząt futerkowych, liczące nawet do 20 tys. samic norek, znajdują się w południowo-wschodniej Polsce.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z wymienionych warunków sprzyjają produkcji skór owczych?",
+      "options": [
+        "Prawidłowy ubój owiec i konserwację skór.",
+        "Racjonalny wybór terminu uboju z uwagi na wiek owiec i porę roku.",
+        "Prawidłowy wybór rasy owiec, w zależności od terenu i przeznaczenia produkowanych skór."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWłaściwa temperatura do przechowywania miodu to 30°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ]
+}

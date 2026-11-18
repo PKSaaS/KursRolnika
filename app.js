@@ -8,7 +8,9 @@
   const BOX_INTERVAL_DAYS = [0, 1, 2, 4, 8, 16];
   const BATCH_SIZE = 10;
   const MODULE_QUIZ_SIZE = 10;
-  const EXAM_SIZE = 30;
+  const EXAM_SIZE = 40; // the real RL.03 written exam: 40 questions, 20 to pass
+  const KNOWLEDGE_TEST_SIZE = 35; // Moodle "Test wiedzy": 35 graded questions, 60% to pass
+  const KNOWLEDGE_TEST_PASS_PERCENT = 60;
 
   const modules = COURSE_DATA;
   const moduleById = Object.fromEntries(modules.map((m) => [m.id, m]));
@@ -23,6 +25,7 @@
     return { cards: {}, quiz: {} };
   }
   const progress = loadProgress();
+  progress.selftest = progress.selftest || {}; // best scores: "<moduleId>:practice" and "<moduleId>:test"
   function saveProgress() {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(progress)); } catch (e) { /* storage unavailable */ }
   }
@@ -56,7 +59,21 @@
     }
     return copy;
   }
-  const moduleLabel = (m) => (m.course === "Teoria BHP" ? "BHP" : "Produkcja roślinna") + " · Moduł " + m.number;
+  const COURSE_SHORT_NAMES = {
+    "Teoria BHP": "BHP",
+    "Podstawy produkcji roślinnej": "Produkcja roślinna",
+    "Uprawa roślin": "Uprawa roślin",
+    "Podstawy produkcji zwierzęcej": "Podst. prod. zwierzęcej",
+    "Produkcja zwierzęca": "Produkcja zwierzęca",
+    "Technika w rolnictwie": "Technika",
+    "Rolnictwo ekologiczne": "Rolnictwo ekologiczne",
+    "Biologiczne podstawy chowu i hodowli zwierząt": "Biol. podst. chowu",
+    "Technologiczne podstawy chowu i hodowli zwierząt": "Technol. podst. chowu",
+  };
+  // Past CKE exam papers have no notes: only a full-length test and one flashcard per question.
+  const isExamPaper = (m) => m.notes.length === 0;
+  const unitName = (m) => (isExamPaper(m) ? "Arkusz " : "Moduł ") + m.number;
+  const moduleLabel = (m) => (isExamPaper(m) ? "Egzamin CKE" : COURSE_SHORT_NAMES[m.course] || m.course) + " · " + unitName(m);
 
   function setNav(name) {
     document.querySelectorAll(".topnav button").forEach((b) => b.classList.toggle("on", b.dataset.go === name));
@@ -88,12 +105,12 @@
       ${courses.map((course) => {
         const list = modules.filter((m) => m.course === course);
         return `<section class="course">
-          <h2>${escapeHtml(course)} <small>${list.length} ${list.length === 1 ? "moduł" : list.length < 5 ? "moduły" : "modułów"}</small></h2>
+          <h2>${escapeHtml(course)} <small>${list.length} ${isExamPaper(list[0]) ? (list.length < 5 ? "arkusze" : "arkuszy") : list.length === 1 ? "moduł" : list.length < 5 ? "moduły" : "modułów"}</small></h2>
           <div class="grid">${list.map((m) => {
             const mastery = moduleMastery(m);
             const best = progress.quiz[m.id];
             return `<button class="mod" data-module="${m.id}">
-              <span class="num">Moduł ${escapeHtml(m.number)}</span>
+              <span class="num">${escapeHtml(unitName(m))}</span>
               <span class="t">${escapeHtml(m.title)}</span>
               <span class="meta">${m.flashcards.length} fiszek · ${m.quiz.length} pytań${best != null ? " · test: " + best + "%" : ""}</span>
               <span class="bar"><i style="width:${mastery}%"></i></span>
@@ -109,27 +126,34 @@
     const module = moduleById[id];
     if (!module) return go("home");
     setNav("");
-    const current = tab || "notes";
+    const tabs = [["notes", "📖 Notatki"], ["cards", "🃏 Fiszki"], ["quiz", "✅ Test"], ["selftest", "📝 Moodle"]]
+      .filter(([key]) => (key !== "notes" || !isExamPaper(module)) && (key !== "selftest" || hasMoodleQuestions(module)));
+    const current = tab || tabs[0][0];
     view.innerHTML = `
       <button class="back" data-go="home">← Wszystkie moduły</button>
       <div class="mod-head"><span class="num" style="color:var(--wheat);font-weight:800;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase">${escapeHtml(moduleLabel(module))}</span>
       <h1>${escapeHtml(module.title)}</h1></div>
       <div class="tabs">
-        ${[["notes", "📖 Notatki"], ["cards", "🃏 Fiszki"], ["quiz", "✅ Test"]].map(([key, label]) =>
+        ${tabs.map(([key, label]) =>
           `<button data-tab="${key}" class="${key === current ? "on" : ""}">${label}</button>`).join("")}
       </div>
       <div id="tabBody"></div>`;
     view.querySelectorAll("[data-tab]").forEach((b) => b.addEventListener("click", () => go("module/" + id + "/" + b.dataset.tab)));
     const body = document.getElementById("tabBody");
     if (current === "notes") renderNotes(module, body);
-    if (current === "cards") startFlashcards(body, allCards([id]), "Moduł " + module.number);
-    if (current === "quiz") startQuiz(body, shuffle(module.quiz.map((q) => ({ ...q, moduleId: id }))).slice(0, MODULE_QUIZ_SIZE), id);
+    if (current === "cards") startFlashcards(body, allCards([id]), unitName(module));
+    if (current === "quiz") startQuiz(body, shuffle(module.quiz.map((q) => ({ ...q, moduleId: id }))).slice(0, isExamPaper(module) ? module.quiz.length : MODULE_QUIZ_SIZE), id);
+    if (current === "selftest") renderSelftestMenu(module, body);
   }
+
+  // Optional pictures (course PDF figures, videocast slides): section.images [{src, caption}], card.img, question.img.
+  const figureHtml = (src, caption) => `<figure class="pic"><img src="${escapeHtml(src)}" alt="${escapeHtml(caption || "")}" loading="lazy">${caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : ""}</figure>`;
 
   function renderNotes(module, body) {
     body.innerHTML = module.notes.map((section) => `
       <div class="section"><h3>${escapeHtml(section.heading)}</h3>
-      <ul>${section.points.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul></div>`).join("") +
+      <ul>${section.points.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul>
+      ${(section.images || []).map((image) => figureHtml(image.src, image.caption)).join("")}</div>`).join("") +
       `<div class="actions"><button class="btn primary" id="toCards">Przejdź do fiszek →</button></div>`;
     body.querySelector("#toCards").addEventListener("click", () => go("module/" + module.id + "/cards"));
   }
@@ -165,8 +189,8 @@
       const done = batch.length - queue.length;
       body.innerHTML = `
         <div class="fc-top"><span>${escapeHtml(title)}</span><span style="white-space:nowrap">${done + 1} / ${batch.length}</span></div>
-        <div class="fc-wrap"><div class="fc" id="fc">
-          <div class="face front"><div class="q">${escapeHtml(card.front)}</div><span class="hint">Dotknij, aby odwrócić</span></div>
+        <div class="fc-wrap"><div class="fc${card.img ? " has-img" : ""}" id="fc">
+          <div class="face front">${card.img ? `<img class="fc-img" src="${escapeHtml(card.img)}" alt="">` : ""}<div class="q">${escapeHtml(card.front)}</div><span class="hint">Dotknij, aby odwrócić</span></div>
           <div class="face back"><div>${escapeHtml(card.back)}</div><span class="hint">${escapeHtml(moduleLabel(moduleById[card.moduleId]))}</span></div>
         </div></div>
         <div class="actions">
@@ -212,7 +236,7 @@
       body.innerHTML = `
         <div class="fc-top" style="max-width:none;margin-bottom:10px"><span>Pytanie ${index + 1} / ${questions.length}</span><span>✓ ${correct}</span></div>
         <div class="qcard">
-          <div class="qtxt">${escapeHtml(q.q)}</div>
+          ${q.img ? figureHtml(q.img, "") : ""}<div class="qtxt">${escapeHtml(q.q)}</div>
           <div class="opts">${order.map((optionIndex, position) =>
             `<button class="opt" data-i="${optionIndex}"><b>${"ABCD"[position]}</b><span>${escapeHtml(q.options[optionIndex])}</span></button>`).join("")}</div>
           <div id="after"></div>
@@ -236,6 +260,108 @@
     show();
   }
 
+  // ---------- Moodle self-evaluation and knowledge test ----------
+  // Questions copied from the course's Moodle quizzes, as {q, options, answers: [indices], multi?, img?}:
+  // module.selftest = "Samoewaluacja" (ungraded), module.knowledgetest = "Test wiedzy" (the graded test's own questions).
+  const hasMoodleQuestions = (m) => (m.selftest || []).length + (m.knowledgetest || []).length > 0;
+
+  function renderSelftestMenu(module, body) {
+    const selftest = (module.selftest || []).map((q) => ({ ...q, moduleId: module.id }));
+    const knowledgetest = (module.knowledgetest || []).map((q) => ({ ...q, moduleId: module.id }));
+    // Test wiedzy uses the real test's questions; without them, a random draw from Samoewaluacja.
+    const testQuestions = knowledgetest.length ? knowledgetest : selftest;
+    const testSize = Math.min(KNOWLEDGE_TEST_SIZE, testQuestions.length);
+    const modes = [
+      selftest.length && { key: "practice", title: "Samoewaluacja", button: "Rozpocznij",
+        about: `wszystkie ${selftest.length} pytań, wynik po każdej odpowiedzi.`,
+        start: () => startMoodleTest(body, selftest, { instant: true, scoreKey: module.id + ":practice", module }) },
+      knowledgetest.length && { key: "testpractice", title: "Test wiedzy – nauka", button: "Rozpocznij",
+        about: `wszystkie ${knowledgetest.length} pytań z Testu wiedzy, wynik po każdej odpowiedzi.`,
+        start: () => startMoodleTest(body, knowledgetest, { instant: true, scoreKey: module.id + ":testpractice", module }) },
+      { key: "test", title: "Test wiedzy", button: "Rozpocznij test",
+        about: `${testSize} pytań${knowledgetest.length ? " z prawdziwego testu" : " losowych"}, wyniki dopiero na końcu, zaliczenie od ${KNOWLEDGE_TEST_PASS_PERCENT}%.`,
+        start: () => startMoodleTest(body, shuffle(testQuestions).slice(0, testSize), { instant: false, scoreKey: module.id + ":test", module }) },
+    ].filter(Boolean);
+    body.innerHTML = `
+      <p style="color:var(--muted)">Pytania z platformy Moodle. Zaznacz wszystkie poprawne odpowiedzi, gdy pytanie ma ich kilka.</p>
+      ${modes.map((mode) => {
+        const best = progress.selftest[module.id + ":" + mode.key];
+        return `<div class="hit" style="cursor:default"><b>${mode.title}</b> – ${mode.about}
+          ${best != null ? `<div class="from">Najlepszy wynik: ${best}%</div>` : ""}
+          <div class="actions" style="justify-content:flex-start"><button class="btn primary" data-mode="${mode.key}">${mode.button}</button></div></div>`;
+      }).join("")}`;
+    modes.forEach((mode) => body.querySelector(`[data-mode="${mode.key}"]`).addEventListener("click", mode.start));
+  }
+
+  function startMoodleTest(body, questions, { instant, scoreKey, module }) {
+    let index = 0;
+    let correct = 0;
+    const mistakes = [];
+    const sameAnswers = (chosen, q) => chosen.length === q.answers.length && chosen.every((i) => q.answers.includes(i));
+    const answerText = (q) => q.answers.map((i) => q.options[i]).join(" · ");
+
+    function finish() {
+      const percent = Math.round((correct / questions.length) * 100);
+      progress.selftest[scoreKey] = Math.max(progress.selftest[scoreKey] || 0, percent);
+      saveProgress();
+      const verdict = instant ? "" : percent >= KNOWLEDGE_TEST_PASS_PERCENT
+        ? `<p style="font-weight:700;color:var(--green)">✓ Zaliczony (próg ${KNOWLEDGE_TEST_PASS_PERCENT}%)</p>`
+        : `<p style="font-weight:700;color:var(--red)">✗ Niezaliczony – potrzeba ${KNOWLEDGE_TEST_PASS_PERCENT}%</p>`;
+      body.innerHTML = `<div class="result"><div class="big">${percent}%</div>${verdict}
+        <p>${correct} z ${questions.length} poprawnych odpowiedzi.</p>
+        <div class="actions"><button class="btn primary" id="menu">Wróć do wyboru</button></div></div>
+        ${mistakes.length ? `<h3>Do poprawy</h3>` + mistakes.map((q) => `<div class="hit">${q.img ? figureHtml(q.img, "") : ""}
+          <b style="white-space:pre-line">${escapeHtml(q.q)}</b><br>✓ ${escapeHtml(answerText(q))}</div>`).join("") : ""}`;
+      body.querySelector("#menu").addEventListener("click", () => renderSelftestMenu(module, body));
+    }
+
+    function show() {
+      if (index >= questions.length) return finish();
+      const q = questions[index];
+      const isTrueFalse = q.options.length === 2 && q.options[0] === "Prawda";
+      const order = isTrueFalse ? [0, 1] : shuffle(q.options.map((_, i) => i));
+      const chosen = new Set();
+      body.innerHTML = `
+        <div class="fc-top" style="max-width:none;margin-bottom:10px"><span>Pytanie ${index + 1} / ${questions.length}</span><span>${instant ? "✓ " + correct : ""}</span></div>
+        <div class="qcard">
+          ${q.img ? figureHtml(q.img, "") : ""}<div class="qtxt" style="white-space:pre-line">${escapeHtml(q.q)}</div>
+          ${q.multi ? `<p class="from" style="color:var(--muted);margin:0 0 8px">Wybierz jedną lub więcej odpowiedzi.</p>` : ""}
+          <div class="opts">${order.map((optionIndex, position) =>
+            `<button class="opt" data-i="${optionIndex}"><b>${q.multi ? "☐" : "ABCDEFGHI"[position]}</b><span>${escapeHtml(q.options[optionIndex])}</span></button>`).join("")}</div>
+          <div id="after"></div>
+          <div class="actions"><button class="btn primary" id="next" disabled>${instant ? "Sprawdź" : index + 1 < questions.length ? "Dalej →" : "Zakończ test"}</button></div>
+        </div>`;
+      const next = body.querySelector("#next");
+      const optionButtons = [...body.querySelectorAll(".opt")];
+      optionButtons.forEach((button) => button.addEventListener("click", () => {
+        const i = Number(button.dataset.i);
+        if (!q.multi) chosen.clear();
+        if (chosen.has(i)) chosen.delete(i); else chosen.add(i);
+        optionButtons.forEach((b) => {
+          const on = chosen.has(Number(b.dataset.i));
+          b.classList.toggle("picked", on);
+          if (q.multi) b.querySelector("b").textContent = on ? "☑" : "☐";
+        });
+        next.disabled = chosen.size === 0;
+      }));
+      next.addEventListener("click", () => {
+        if (next.dataset.checked) { index++; return show(); }
+        const right = sameAnswers([...chosen], q);
+        if (right) correct++; else mistakes.push(q);
+        if (!instant) { index++; return show(); }
+        optionButtons.forEach((b) => {
+          const i = Number(b.dataset.i);
+          b.disabled = true;
+          if (q.answers.includes(i)) b.classList.add("ok"); else if (chosen.has(i)) b.classList.add("bad");
+        });
+        body.querySelector("#after").innerHTML = `<div class="explain">${right ? "✓ Dobrze!" : "✗ Poprawna odpowiedź: <b>" + escapeHtml(answerText(q)) + "</b>"}</div>`;
+        next.dataset.checked = "1";
+        next.textContent = index + 1 < questions.length ? "Dalej →" : "Wynik";
+      });
+    }
+    show();
+  }
+
   // ---------- review, exam, search ----------
   function renderReview() {
     setNav("review");
@@ -247,7 +373,7 @@
   function renderExam() {
     setNav("exam");
     view.innerHTML = `<h1>Egzamin próbny</h1>
-      <p style="color:var(--muted)">${EXAM_SIZE} losowych pytań z wybranych modułów.</p>
+      <p style="color:var(--muted)">${EXAM_SIZE} losowych pytań, jak na prawdziwym egzaminie RL.03 (zdajesz od 50%).</p>
       <div class="chips">${[["all", "Cały kurs"], ...courses.map((c) => [c, c])].map(([key, label]) =>
         `<button class="chip ${key === examCourse ? "on" : ""}" data-c="${escapeHtml(key)}">${escapeHtml(label)}</button>`).join("")}</div>
       <div id="tabBody"></div>`;

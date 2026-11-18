@@ -1,0 +1,1715 @@
+{
+  "id": "tpc4",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Żywienie zwierząt gospodarskich i towarzyszących",
+  "number": "IV",
+  "notes": [
+    {
+      "heading": "Wprowadzenie",
+      "points": [
+        "Po wyborze surowców kluczowy jest dobór pasz i ich dawek do gatunku, przeznaczenia i rozmiaru produkcji.",
+        "Żywienie zależy też od rodzaju i skali produkcji roślinnej – nie każdy teren nadaje się pod uprawę określonych roślin.",
+        "Klimat sprawia, że nie można żywić zwierząt w ten sam sposób przez cały rok.",
+        "Skala produkcji roślinnej determinuje skalę produkcji zwierzęcej – niedobory wymuszają zakup, co wpływa na ekonomię.",
+        "Grupy technologiczne mają specyficzne wymagania żywieniowe uwzględniane przy komponowaniu dawek.",
+        "Preliminarz pasz łączy planowanie produkcji zwierzęcej i upraw paszowych; wymaga znajomości zapotrzebowania bytowego i produkcyjnego oraz skali produkcji roślinnej."
+      ]
+    },
+    {
+      "heading": "1. Mierniki wartości pokarmowej pasz",
+      "points": [
+        "Wartość skrobiowa – liczba kg skrobi, które mogą zastąpić 100 kg paszy pod względem wartości tłuszczotwórczej (1 kg skrobi = 248 g tłuszczu).",
+        "Jednostka owsiana – wartość energetyczna (netto) wyrażona w kg owsa; 1 kg owsa średniej jakości podany dorosłemu bydłu ponad bytowo daje odłożenie 150 g tłuszczu.",
+        "Jednostki owsiane używa się tylko w odniesieniu do przeżuwaczy.",
+        "Jednostka jęczmienna – wartość 1 kg jęczmienia, który skarmiony ponad paszą bytową wystarcza krowie do wyprodukowania 3 l mleka o tłuszczu 3,25–3,50%.",
+        "MJ (megadżul) – 1 MJ odpowiada 239 kaloriom; wyraża wartość energetyczną pasz dla zwierząt monogastrycznych.",
+        "EM – energia metaboliczna; podstawa wartościowania i normowania pasz dla zwierząt monogastrycznych i drobiu.",
+        "Stosunek odżywczy – stosunek białka ogólnego strawionego do sumy pozostałych strawnych składników.",
+        "Wartość EM zależy od ilości składników strawnych i określonych przeliczników."
+      ]
+    },
+    {
+      "heading": "1. Zapotrzebowanie, norma, dawka",
+      "points": [
+        "Zapotrzebowanie bytowe – ilość składników do podtrzymania podstawowych procesów życiowych, przy której zwierzę ani nie chudnie, ani nie przybiera na wadze.",
+        "Zapotrzebowanie produkcyjne – dodatkowa porcja składników na uzyskanie efektów (np. mleko, przyrosty).",
+        "Norma żywieniowa – dawka dobowa składników pokarmowych pokrywająca zapotrzebowanie; dotyczy potrzeb bytowych i produkcyjnych.",
+        "Dawka pokarmowa – zestaw pasz pokrywający dzienne zapotrzebowanie; prawidłowo zbilansowana odpowiada normie żywieniowej.",
+        "Bilansowanie dawki – dobór dostępnych pasz wg ich składu tak, by odpowiadały zapotrzebowaniu; szkodliwy jest zarówno niedobór, jak i nadmiar.",
+        "Zarówno niedobór, jak i nadmiar składników w dawce może być szkodliwy i pociąga konsekwencje ekonomiczne."
+      ]
+    },
+    {
+      "heading": "1. Systemy żywienia",
+      "points": [
+        "NEL – system wprowadzony w Niemczech; ocena pasz dla krów mlecznych i w odchowie młodego bydła; mierzy energię netto (wyliczaną z energii metabolicznej).",
+        "INRA – system francuski: energetyczna ocena pasz i potrzeb przeżuwaczy, białkowa ocena pasz i potrzeb, wartość wypełnieniowa pasz i zdolność ich pobierania.",
+        "DLG – niemiecki system normowania energii i składników dla wysokowydajnych krów mlecznych; szerzej stosowany w Polsce ze względu na podobieństwo geograficzne i klimatyczne."
+      ]
+    },
+    {
+      "heading": "1. Preliminarz i bilans pasz – pojęcia",
+      "points": [
+        "Preliminarz pasz – roczne rozplanowanie produkcji roślinnej i zwierzęcej z uwzględnieniem pasz gospodarskich i dokupowanych.",
+        "Preliminarz uwzględnia co najmniej dwa okresy żywieniowe: w naszym klimacie 200 dni zimowych i 165 dni letnich.",
+        "Elementy preliminarza: obliczenie rocznego zapotrzebowania paszowego zwierząt, określenie ilości produkowanych pasz, bilans pasz, ukierunkowanie rozmiarów produkcji paszowej i zwierzęcej.",
+        "Bilans pasz – porównanie ilości pasz produkowanych w gospodarstwie z przewidywanymi potrzebami zwierząt.",
+        "Preliminarz uwzględnia pasze gospodarskie i dokupowane oraz wielkość i kierunek produkcji zwierzęcej; prawidłowy bilans wymaga dobrej znajomości produkcji zwierzęcej i roślinnej oraz warunków gospodarstwa."
+      ],
+      "images": [
+        {
+          "src": "img/tpc4/preliminarz-pasz-schemat.jpg",
+          "caption": "Rysunek 4.1. Przygotowanie preliminarza pasz – kolejne etapy: 1) obliczenie zapotrzebowania paszowego utrzymywanych zwierząt w ciągu roku → 2) określenie ilości produkowanych pasz → 3) bilans pasz → 4) ukierunkowanie rozmiarów produkcji paszowej i zwierzęcej na podstawie bilansu."
+        }
+      ]
+    },
+    {
+      "heading": "2. Ustalanie zapotrzebowania na składniki pokarmowe",
+      "points": [
+        "Tabele w „Normach żywieniowych” podają orientacyjny skład pasz (białko, tłuszcze, energia, sucha masa) i doświadczalnie wyznaczone zapotrzebowanie gatunków.",
+        "U zwierząt produkcyjnych trzeba pokryć zapotrzebowanie bytowe i produkcyjne – całkowite zapotrzebowanie to ich suma.",
+        "Zapotrzebowanie produkcyjne podawane jest często jednostkowo (np. na 1 l mleka) i mnoży się je przez oczekiwaną wielkość produkcji.",
+        "Przykład: krowa 500 kg, 12 l mleka o tłuszczu 3,5% – bytowe 4,6 JO i 280 g białka strawnego, produkcyjne 5,6 JO i 636 g.",
+        "Łącznie dla tej krowy: 10,2 jednostek owsianych i 916 g białka strawnego dziennie, sucha masa 11–16 kg.",
+        "Podobną regułę (zapotrzebowanie jednostkowe × oczekiwana produkcja) stosuje się w tuczu – zależnie od oczekiwanych przyrostów i masy końcowej – oraz w innych gałęziach produkcji zwierzęcej."
+      ],
+      "images": [
+        {
+          "src": "img/tpc4/norma-zywieniowa-krowy.jpg",
+          "caption": "Tabela 4.1. Norma żywieniowa krowy 500 kg, 12 l mleka (3,5% tłuszczu): bytowe – 4,6 jednostki owsianej i 280 g białka strawnego; produkcyjne – 5,6 JO i 636 g; razem 10,2 JO i 916 g białka strawnego; sucha masa 11–16 kg."
+        },
+        {
+          "src": "img/tpc4/przyklad-krowa-500kg.jpg",
+          "caption": "Przykład z wideocastu: krowa mleczna 500 kg ma dawać dziennie ok. 12 litrów mleka o zawartości tłuszczu 3,5%. Zapotrzebowanie np. na białko strawne do produkcji 1 litra takiego mleka mnożymy przez pożądaną liczbę litrów (i dodajemy potrzeby bytowe); podobną regułę stosuje się w tuczu."
+        }
+      ]
+    },
+    {
+      "heading": "2. Bilansowanie dawki pokarmowej – przykład",
+      "points": [
+        "Dawkę układa się zawsze od pasz objętościowych (soczystych i suchych), a następnie uzupełnia paszami treściwymi.",
+        "Trzeba zachować proporcje rodzajów pasz – zbyt mało lub zbyt dużo danej paszy obniża pobranie i zaburza trawienie mimo zbilansowania.",
+        "Ważna jest forma paszy – np. świniom podaje się ziemniaki parowane, nie surowe.",
+        "Przykładowa dawka: 6 kg siana łąkowego (I pokos przed kwitnieniem) + 30 kg kiszonki z całej kukurydzy w dojrzałości mleczno-woskowej.",
+        "Dawka ta dostarcza 9,44 JO, 738 g białka strawnego i 11,16 kg s.m. – niedobór JO i białka strawnego (178 g) uzupełnia się mieszanką treściwą.",
+        "Rozbieżność między składem dawki a zapotrzebowaniem nie powinna przekraczać 5%.",
+        "Ilość składnika dostarczana przez paszę = zawartość składnika w 1 kg paszy × liczba kg tej paszy w dawce.",
+        "Często wybranych pasz nie da się prawidłowo zbilansować – trzeba uzupełnić niedobory lub zredukować nadmiar.",
+        "Szczegóły tabeli 4.2: siano łąkowe 6 kg × 0,62 JO = 3,74 JO, 78 g białka strawnego/kg = 468 g, s.m. 0,85 kg/kg = 5,16 kg; kiszonka z kukurydzy 30 kg × 0,19 JO = 5,70 JO, 9 g/kg = 270 g, s.m. 0,2 kg/kg = 6,0 kg; razem 36 kg, 9,44 JO, 738 g, 11,16 kg s.m.; niedobór 0,8 JO i 178 g białka strawnego."
+      ],
+      "images": [
+        {
+          "src": "img/tpc4/dawka-zywieniowa-krowy.jpg",
+          "caption": "Tabela 4.2. Przykładowa dawka dla tej krowy: 6 kg siana łąkowego (I pokos przed kwitnieniem) + 30 kg kiszonki z kukurydzy (cała roślina, dojrzałość mleczno-woskowa) = 36 kg; daje 9,44 JO i 738 g białka strawnego oraz 11,16 kg s.m. Niedobór względem normy: 0,8 JO i 178 g białka strawnego – uzupełnia się go mieszanką treściwą (rozbieżność nie powinna przekraczać 5%)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Obliczanie rocznego zapotrzebowania paszowego",
+      "points": [
+        "Najpierw ustala się liczbę zwierząt każdego gatunku i grupy technologicznej latem i zimą (obrót stada).",
+        "Potrzebna jest znajomość aktualnego stanu, planów kryć i porodów (wycieleń, wyproszeń, wykotów, wyźrebień) oraz zwierząt z zakupu (tucz, remont stada).",
+        "Do obliczeń najlepiej użyć „Norm żywienia zwierząt gospodarskich” i normatywów rocznego zapotrzebowania.",
+        "Metoda średniej dawki: dawka dla gatunku/grupy w okresie zimowym i letnim × liczba zwierząt × liczba dni; bardziej pracochłonna, ale daje własne normatywy.",
+        "Metoda dla tuczu/opasu: planowane przyrosty × jednostkowe zużycie paszy, np. 3,5 kg paszy na 1 kg przyrostu w tuczu od 25 do 90 kg.",
+        "Przy przeżuwaczach trzeba uwzględnić pasze objętościowe.",
+        "W metodzie dla tuczu/opasu jednostkowe zużycie paszy przyjmuje się na podstawie wyników z poprzednich lat i mnoży przez przewidywaną łączną wartość przyrostów.",
+        "Tabela 4.3 – dni żywienia loch w przykładowym preliminarzu (zima/lato): locha jałowa 30/23, nisko prośna 103/77, wysoko prośna 28/20, karmiąca 49/35 – łącznie 365 dni cyklu; zapotrzebowanie na każdą paszę liczy się osobno dla każdej grupy i okresu, a potem sumuje i dolicza rezerwę."
+      ],
+      "images": [
+        {
+          "src": "img/tpc4/preliminarz-pasz-tabela.jpg",
+          "caption": "Tabela 4.3. Fragment preliminarza pasz dla loch (jałowa, nisko prośna, wysoko prośna, karmiąca) z podziałem na okres zimowy i letni oraz dni żywienia; dla każdej paszy (drożdże piwne, ziemniaki parowane kiszone, zielonka z lucerny, śruta pszenna i jęczmienna, provit, ziemniaki parowane, marchew czerwona, susz z lucerny, otręby pszenne) sumuje się zapotrzebowanie i dolicza rezerwę: 10% dla pasz treściwych, 20% dla pozostałych."
+        }
+      ]
+    },
+    {
+      "heading": "3. Określenie ilości produkowanych pasz",
+      "points": [
+        "Potrzebna jest znajomość struktury użytków i zasiewów, powierzchni i plonów (także produktów ubocznych) z trzech ostatnich lat.",
+        "Ustala się, jaka część zbioru pójdzie na paszę – czasem opłaca się sprzedać plon i dokupić mieszanki lub koncentraty; część plonu przeznacza się na siew.",
+        "Od ilości pasz odejmuje się straty i ubytki podczas konserwowania i przechowywania.",
+        "Warto badać próbki własnych pasz – rzeczywista wartość pokarmowa może znacznie odbiegać od tabel, zwłaszcza siana i kiszonek.",
+        "Ilość dostępnych pasz porównuje się z zapotrzebowaniem w poszczególnych okresach roku i cyklu produkcyjnego."
+      ]
+    },
+    {
+      "heading": "3. Bilans pasz i ukierunkowanie produkcji",
+      "points": [
+        "Bilans – porównanie zasobów z potrzebami pokazuje niedobór lub nadmiar pasz w okresie letnim i zimowym.",
+        "Przy niedoborach – korekta lub określenie ilości do zakupu; nadwyżki można sprzedać lub wykorzystać (np. zielonkę na siano lub kiszonkę).",
+        "Bilans pozwala też zaplanować zwiększenie lub rozszerzenie produkcji zwierzęcej.",
+        "Należy utrzymać rezerwę pasz ok. 20% zapotrzebowania, szczególnie kiszonek; w przykładowym preliminarzu: 10% dla pasz treściwych i 20% dla pozostałych.",
+        "Rezerwa zapewnia niezależność gospodarstwa przy trudnej pogodzie latem i wahaniach rynku."
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Jednostka owsiana – Wartość energetyczna 1 kg owsa średniej jakości – podana dorosłemu bydłu ponad bytowe potrzeby odkłada 150 g tłuszczu; stosowana tylko dla przeżuwaczy.",
+        "Preliminarz pasz – Roczny plan łączący produkcję roślinną i zwierzęcą: zapotrzebowanie paszowe zwierząt, produkcja pasz, bilans pasz; dwa okresy żywieniowe – 200 dni zimowych i 165 letnich."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Wartość skrobiowa",
+      "back": "Liczba kg skrobi, które mogą zastąpić 100 kg danej paszy pod względem wartości tłuszczotwórczej."
+    },
+    {
+      "front": "Ile tłuszczu odpowiada 1 kg skrobi?",
+      "back": "248 g tłuszczu."
+    },
+    {
+      "front": "Jednostka owsiana – definicja",
+      "back": "Wartość energetyczna (netto) paszy wyrażona w kg owsa; 1 kg owsa średniej jakości."
+    },
+    {
+      "front": "Ile tłuszczu odkłada bydło z 1 kg owsa podanego ponad bytowo?",
+      "back": "150 g."
+    },
+    {
+      "front": "Dla jakich zwierząt stosuje się jednostki owsiane?",
+      "back": "Tylko dla przeżuwaczy."
+    },
+    {
+      "front": "Jednostka jęczmienna",
+      "back": "Wartość 1 kg jęczmienia wystarczająca (ponad bytowo) na wyprodukowanie przez krowę 3 l mleka."
+    },
+    {
+      "front": "Ile mleka daje krowa z 1 jednostki jęczmiennej?",
+      "back": "3 l mleka o tłuszczu 3,25–3,50%."
+    },
+    {
+      "front": "1 MJ odpowiada…",
+      "back": "239 kaloriom."
+    },
+    {
+      "front": "Dla jakich zwierząt wartość energetyczną wyraża się w MJ?",
+      "back": "Dla zwierząt monogastrycznych."
+    },
+    {
+      "front": "EM – co oznacza?",
+      "back": "Energię metaboliczną."
+    },
+    {
+      "front": "Do wartościowania pasz dla jakich zwierząt służy EM?",
+      "back": "Monogastrycznych i drobiu."
+    },
+    {
+      "front": "Stosunek odżywczy",
+      "back": "Stosunek białka ogólnego strawionego do sumy pozostałych strawnych składników."
+    },
+    {
+      "front": "Zapotrzebowanie bytowe",
+      "back": "Ilość składników pozwalająca podtrzymać procesy życiowe bez chudnięcia i przybierania na wadze."
+    },
+    {
+      "front": "Zapotrzebowanie produkcyjne",
+      "back": "Dodatkowe składniki na uzyskanie efektów produkcyjnych (mleko, przyrosty)."
+    },
+    {
+      "front": "Norma żywieniowa",
+      "back": "Dawka dobowa składników pokarmowych pokrywająca zapotrzebowanie bytowe i produkcyjne."
+    },
+    {
+      "front": "Dawka pokarmowa",
+      "back": "Zestaw pasz pokrywający dzienne zapotrzebowanie na składniki pokarmowe."
+    },
+    {
+      "front": "Kiedy dawka jest prawidłowo zbilansowana?",
+      "back": "Gdy odpowiada normie żywieniowej."
+    },
+    {
+      "front": "Bilansowanie dawki pokarmowej",
+      "back": "Dobieranie dostępnych pasz wg ich składu tak, by pokryć zapotrzebowanie organizmu."
+    },
+    {
+      "front": "System NEL – kraj pochodzenia",
+      "back": "Niemcy."
+    },
+    {
+      "front": "System NEL – zastosowanie",
+      "back": "Ocena pasz dla krów mlecznych i w odchowie młodego bydła."
+    },
+    {
+      "front": "Co mierzy system NEL?",
+      "back": "Energię netto (wyliczaną z energii metabolicznej)."
+    },
+    {
+      "front": "System INRA – kraj pochodzenia",
+      "back": "Francja."
+    },
+    {
+      "front": "Trzy składowe systemu INRA",
+      "back": "Ocena energetyczna, ocena białkowa, wartość wypełnieniowa pasz i zdolność ich pobierania."
+    },
+    {
+      "front": "System DLG – dla jakich zwierząt?",
+      "back": "Dla wysokowydajnych krów mlecznych (system niemiecki)."
+    },
+    {
+      "front": "Dlaczego system DLG jest szerzej stosowany w Polsce?",
+      "back": "Ze względu na podobieństwo geograficzne i klimatyczne."
+    },
+    {
+      "front": "Preliminarz pasz",
+      "back": "Roczne rozplanowanie produkcji roślinnej i zwierzęcej w gospodarstwie."
+    },
+    {
+      "front": "Okresy żywieniowe w preliminarzu (w Polsce)",
+      "back": "200 dni zimowych i 165 dni letnich."
+    },
+    {
+      "front": "Cztery elementy preliminarza pasz",
+      "back": "Roczne zapotrzebowanie zwierząt, ilość produkowanych pasz, bilans pasz, ukierunkowanie produkcji."
+    },
+    {
+      "front": "Bilans pasz",
+      "back": "Porównanie ilości pasz produkowanych w gospodarstwie z potrzebami zwierząt."
+    },
+    {
+      "front": "Co zawierają tabele w „Normach żywieniowych”?",
+      "back": "Orientacyjny skład pasz (białko, tłuszcze, energia, sucha masa) i zapotrzebowanie zwierząt."
+    },
+    {
+      "front": "Jak liczy się całkowite zapotrzebowanie zwierzęcia produkcyjnego?",
+      "back": "Zapotrzebowanie bytowe + produkcyjne."
+    },
+    {
+      "front": "Jak oblicza się zapotrzebowanie produkcyjne krowy?",
+      "back": "Wartość na 1 l mleka × planowana liczba litrów."
+    },
+    {
+      "front": "Zapotrzebowanie bytowe krowy 500 kg (przykład)",
+      "back": "4,6 JO i 280 g białka strawnego."
+    },
+    {
+      "front": "Zapotrzebowanie produkcyjne krowy 500 kg na 12 l mleka 3,5%",
+      "back": "5,6 JO i 636 g białka strawnego."
+    },
+    {
+      "front": "Całkowite dzienne zapotrzebowanie krowy 500 kg, 12 l mleka 3,5%",
+      "back": "10,2 JO i 916 g białka strawnego."
+    },
+    {
+      "front": "Zapotrzebowanie na suchą masę krowy 500 kg (przykład)",
+      "back": "11–16 kg."
+    },
+    {
+      "front": "Od jakich pasz zaczyna się układanie dawki?",
+      "back": "Od objętościowych (soczystych i suchych), potem uzupełnia się treściwymi."
+    },
+    {
+      "front": "Skutek złych proporcji pasz w dawce",
+      "back": "Zmniejszone pobieranie, zaburzenia trawienia, niedobory mimo zbilansowania."
+    },
+    {
+      "front": "Ziemniaki dla świń – w jakiej formie?",
+      "back": "Parowane, nie surowe."
+    },
+    {
+      "front": "Pasze w przykładowej dawce dla krowy",
+      "back": "6 kg siana łąkowego + 30 kg kiszonki z kukurydzy."
+    },
+    {
+      "front": "Zawartość JO w 1 kg siana łąkowego I pokosu (przykład)",
+      "back": "0,62 JO."
+    },
+    {
+      "front": "Zawartość białka strawnego w 1 kg kiszonki z kukurydzy (przykład)",
+      "back": "9 g."
+    },
+    {
+      "front": "Ile białka strawnego dostarcza przykładowa dawka siano + kiszonka?",
+      "back": "738 g (niedobór 178 g)."
+    },
+    {
+      "front": "Czym uzupełnia się niedobór JO i białka w dawce objętościowej?",
+      "back": "Mieszanką treściwą."
+    },
+    {
+      "front": "Dopuszczalna rozbieżność dawki i zapotrzebowania",
+      "back": "Nie więcej niż 5%."
+    },
+    {
+      "front": "Pierwszy krok obliczania rocznego zapotrzebowania pasz",
+      "back": "Ustalenie liczby zwierząt każdego gatunku i grupy latem i zimą (obrót stada)."
+    },
+    {
+      "front": "Co trzeba znać do sporządzenia obrotu stada?",
+      "back": "Aktualny stan zwierząt, plany kryć i porodów, zakupy zwierząt."
+    },
+    {
+      "front": "Normatywy",
+      "back": "Przykładowe roczne zapotrzebowanie pasz, aktualizowane w zależności od potrzeb."
+    },
+    {
+      "front": "Metoda średniej dawki – wzór",
+      "back": "Dawka (zima/lato) × liczba zwierząt × liczba dni żywienia."
+    },
+    {
+      "front": "Zaleta metody średniej dawki",
+      "back": "Pozwala wypracować własne normatywy gospodarstwa (choć jest pracochłonna)."
+    },
+    {
+      "front": "Przykładowe zużycie paszy w tuczu świń 25–90 kg",
+      "back": "3,5 kg paszy na 1 kg przyrostu."
+    },
+    {
+      "front": "Z ilu lat zbiera się dane o plonach do preliminarza?",
+      "back": "Z trzech ostatnich lat."
+    },
+    {
+      "front": "Co odejmuje się od zbiorów przy liczeniu dostępnych pasz?",
+      "back": "Straty i ubytki podczas konserwowania i przechowywania."
+    },
+    {
+      "front": "Dlaczego warto badać próbki własnych pasz?",
+      "back": "Rzeczywista wartość może znacznie odbiegać od tabel – zwłaszcza siana i kiszonek."
+    },
+    {
+      "front": "Co zrobić z nadwyżką zielonki?",
+      "back": "Przeznaczyć na siano lub kiszonkę (albo sprzedać)."
+    },
+    {
+      "front": "Co zrobić przy niedoborze pasz w bilansie?",
+      "back": "Skorygować produkcję lub określić ilość pasz do zakupu."
+    },
+    {
+      "front": "Zalecana rezerwa pasz",
+      "back": "Ok. 20% zapotrzebowania, szczególnie kiszonek."
+    },
+    {
+      "front": "Rezerwa w przykładowym preliminarzu",
+      "back": "10% dla pasz treściwych, 20% dla pozostałych."
+    },
+    {
+      "front": "Po co utrzymuje się rezerwę pasz?",
+      "back": "Dla niezależności przy trudnej pogodzie latem i wahaniach rynku."
+    },
+    {
+      "front": "Czy można żywić zwierzęta tak samo przez cały rok?",
+      "back": "Nie – ze względu na klimat (okres zimowy i letni)."
+    },
+    {
+      "front": "Jak obliczyć ilość składnika dostarczaną przez paszę w dawce?",
+      "back": "Zawartość składnika w 1 kg paszy × liczba kg tej paszy w dawce."
+    },
+    {
+      "front": "Jednostka owsiana",
+      "back": "Wartość energetyczna 1 kg owsa średniej jakości – podana dorosłemu bydłu ponad bytowe potrzeby odkłada 150 g tłuszczu; stosowana tylko dla przeżuwaczy."
+    },
+    {
+      "front": "Ile JO dostarcza 6 kg siana łąkowego, a ile 30 kg kiszonki z kukurydzy w przykładzie?",
+      "back": "Siano: 3,74 JO (0,62 JO/kg); kiszonka: 5,70 JO (0,19 JO/kg); razem 9,44 JO."
+    },
+    {
+      "front": "Zawartość białka strawnego w 1 kg siana łąkowego I pokosu (przykład)",
+      "back": "78 g (6 kg daje 468 g)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wartość skrobiowa określa, ile kg skrobi może zastąpić pod względem wartości tłuszczotwórczej:",
+      "options": [
+        "1 kg danej paszy",
+        "10 kg danej paszy",
+        "100 kg danej paszy",
+        "1 tonę danej paszy"
+      ],
+      "answer": 2,
+      "explain": "Wartość skrobiowa wskazuje, ile kg skrobi może zastąpić 100 kg paszy."
+    },
+    {
+      "q": "Przy obliczaniu wartości skrobiowej przyjmuje się, że 1 kg skrobi odpowiada:",
+      "options": [
+        "248 g tłuszczu",
+        "150 g tłuszczu",
+        "239 g tłuszczu",
+        "100 g tłuszczu"
+      ],
+      "answer": 0,
+      "explain": "1 kg skrobi = 248 g tłuszczu."
+    },
+    {
+      "q": "Jednostki owsiane stosuje się w odniesieniu do:",
+      "options": [
+        "drobiu",
+        "świń",
+        "psów i kotów",
+        "przeżuwaczy"
+      ],
+      "answer": 3,
+      "explain": "Jednostki owsiane używane są tylko w odniesieniu do przeżuwaczy."
+    },
+    {
+      "q": "1 kg owsa średniej jakości, podany dorosłemu bydłu ponad bytowo, powoduje odłożenie:",
+      "options": [
+        "248 g tłuszczu",
+        "150 g tłuszczu",
+        "1 kg tłuszczu",
+        "50 g białka"
+      ],
+      "answer": 1,
+      "explain": "1 kg owsa powoduje odłożenie w ciele bydła 150 g tłuszczu."
+    },
+    {
+      "q": "Jednostka jęczmienna to wartość 1 kg jęczmienia wystarczająca krowie (ponad bytowo) do wyprodukowania:",
+      "options": [
+        "1 l mleka",
+        "10 l mleka",
+        "3 l mleka",
+        "0,5 l mleka"
+      ],
+      "answer": 2,
+      "explain": "1 kg jęczmienia wystarcza krowie do wyprodukowania 3 l mleka o tłuszczu 3,25–3,50%."
+    },
+    {
+      "q": "1 MJ odpowiada:",
+      "options": [
+        "239 kaloriom",
+        "248 kaloriom",
+        "150 kaloriom",
+        "1000 kaloriom"
+      ],
+      "answer": 0,
+      "explain": "1 MJ odpowiada 239 kaloriom."
+    },
+    {
+      "q": "Energia metaboliczna (EM) jest podstawą normowania pasz dla:",
+      "options": [
+        "wyłącznie krów mlecznych",
+        "wyłącznie owiec",
+        "koni sportowych",
+        "zwierząt monogastrycznych i drobiu"
+      ],
+      "answer": 3,
+      "explain": "EM stanowi podstawę wartościowania pasz dla zwierząt monogastrycznych i drobiu."
+    },
+    {
+      "q": "Stosunek białka ogólnego strawionego do sumy pozostałych strawnych składników to:",
+      "options": [
+        "wartość skrobiowa",
+        "stosunek odżywczy",
+        "jednostka owsiana",
+        "norma żywieniowa"
+      ],
+      "answer": 1,
+      "explain": "Stosunek odżywczy to stosunek białka strawionego do pozostałych strawnych składników."
+    },
+    {
+      "q": "Ilość składników, przy której zwierzę ani nie chudnie, ani nie przybiera na wadze, to zapotrzebowanie:",
+      "options": [
+        "produkcyjne",
+        "laktacyjne",
+        "bytowe",
+        "rozpłodowe"
+      ],
+      "answer": 2,
+      "explain": "Zapotrzebowanie bytowe nie pozwala, by zwierzę schudło ani przybrało na wadze."
+    },
+    {
+      "q": "Zestaw pasz pokrywający dzienne zapotrzebowanie na składniki pokarmowe to:",
+      "options": [
+        "dawka pokarmowa",
+        "preliminarz pasz",
+        "bilans pasz",
+        "wartość skrobiowa"
+      ],
+      "answer": 0,
+      "explain": "Dawka pokarmowa to zestaw pasz pokrywający dzienne zapotrzebowanie."
+    },
+    {
+      "q": "Prawidłowo zbilansowana dawka pokarmowa powinna odpowiadać:",
+      "options": [
+        "preliminarzowi pasz",
+        "wartości skrobiowej",
+        "obrotowi stada",
+        "normie żywieniowej"
+      ],
+      "answer": 3,
+      "explain": "Prawidłowo zbilansowana dawka powinna odpowiadać normie żywieniowej."
+    },
+    {
+      "q": "System NEL, mierzący energię netto, wprowadzono w:",
+      "options": [
+        "Francji",
+        "Niemczech",
+        "Polsce",
+        "Holandii"
+      ],
+      "answer": 1,
+      "explain": "NEL wprowadzono w Niemczech; mierzy energię netto."
+    },
+    {
+      "q": "System NEL stosuje się w ocenie pasz dla:",
+      "options": [
+        "drobiu",
+        "świń",
+        "krów mlecznych i młodego bydła",
+        "koni"
+      ],
+      "answer": 2,
+      "explain": "NEL używany jest w ocenie pasz dla krów mlecznych i w odchowie młodego bydła."
+    },
+    {
+      "q": "System żywienia obejmujący ocenę energetyczną, białkową i wartość wypełnieniową pasz to:",
+      "options": [
+        "INRA",
+        "NEL",
+        "DLG",
+        "EM"
+      ],
+      "answer": 0,
+      "explain": "Francuski system INRA ma trzy składowe: energetyczną, białkową i wypełnieniową."
+    },
+    {
+      "q": "System INRA pochodzi z:",
+      "options": [
+        "Niemiec",
+        "Danii",
+        "Polski",
+        "Francji"
+      ],
+      "answer": 3,
+      "explain": "INRA to system francuski."
+    },
+    {
+      "q": "System DLG znajduje szersze zastosowanie w Polsce ze względu na:",
+      "options": [
+        "najniższy koszt",
+        "podobieństwo geograficzne i klimatyczne",
+        "brak innych systemów",
+        "przepisy UE"
+      ],
+      "answer": 1,
+      "explain": "DLG jest szerzej stosowany w Polsce z uwagi na podobieństwo geograficzne i klimatyczne."
+    },
+    {
+      "q": "Roczne rozplanowanie produkcji roślinnej i zwierzęcej w gospodarstwie to:",
+      "options": [
+        "bilans pasz",
+        "norma żywieniowa",
+        "preliminarz pasz",
+        "dawka pokarmowa"
+      ],
+      "answer": 2,
+      "explain": "Preliminarz pasz to roczne rozplanowanie produkcji roślinnej i zwierzęcej."
+    },
+    {
+      "q": "W polskich warunkach klimatycznych okres żywienia zimowego w preliminarzu wynosi:",
+      "options": [
+        "200 dni",
+        "165 dni",
+        "100 dni",
+        "250 dni"
+      ],
+      "answer": 0,
+      "explain": "Preliminarz uwzględnia 200 dni zimowych i 165 dni letnich."
+    },
+    {
+      "q": "Okres żywienia letniego w preliminarzu pasz wynosi:",
+      "options": [
+        "200 dni",
+        "120 dni",
+        "180 dni",
+        "165 dni"
+      ],
+      "answer": 3,
+      "explain": "Okres letni w preliminarzu to 165 dni."
+    },
+    {
+      "q": "Porównanie ilości pasz produkowanych w gospodarstwie z potrzebami zwierząt to:",
+      "options": [
+        "dawka pokarmowa",
+        "bilans pasz",
+        "stosunek odżywczy",
+        "norma żywieniowa"
+      ],
+      "answer": 1,
+      "explain": "Bilans pasz porównuje produkcję pasz z przewidywanymi potrzebami zwierząt."
+    },
+    {
+      "q": "Który element NIE należy do czterech podstawowych elementów preliminarza pasz?",
+      "options": [
+        "Obliczenie rocznego zapotrzebowania paszowego",
+        "Bilans pasz",
+        "Ustalenie ceny sprzedaży mleka",
+        "Określenie ilości produkowanych pasz"
+      ],
+      "answer": 2,
+      "explain": "Preliminarz obejmuje zapotrzebowanie, ilość pasz, bilans i ukierunkowanie produkcji."
+    },
+    {
+      "q": "Całkowite zapotrzebowanie zwierzęcia produkcyjnego to:",
+      "options": [
+        "suma zapotrzebowania bytowego i produkcyjnego",
+        "tylko zapotrzebowanie bytowe",
+        "tylko zapotrzebowanie produkcyjne",
+        "różnica produkcyjnego i bytowego"
+      ],
+      "answer": 0,
+      "explain": "Dawkę ustala się, dodając zapotrzebowanie bytowe i produkcyjne."
+    },
+    {
+      "q": "Zapotrzebowanie bytowe krowy o masie 500 kg w przykładzie wynosi:",
+      "options": [
+        "5,6 JO i 636 g białka strawnego",
+        "10,2 JO i 916 g białka strawnego",
+        "9,44 JO i 738 g białka strawnego",
+        "4,6 JO i 280 g białka strawnego"
+      ],
+      "answer": 3,
+      "explain": "Bytowe zapotrzebowanie przykładowej krowy to 4,6 JO i 280 g białka strawnego."
+    },
+    {
+      "q": "Całkowite dzienne zapotrzebowanie krowy 500 kg dającej 12 l mleka o tłuszczu 3,5% wynosi:",
+      "options": [
+        "4,6 JO i 280 g białka strawnego",
+        "10,2 JO i 916 g białka strawnego",
+        "5,6 JO i 636 g białka strawnego",
+        "12 JO i 1200 g białka strawnego"
+      ],
+      "answer": 1,
+      "explain": "Łącznie: 10,2 jednostek owsianych i 916 g białka strawnego."
+    },
+    {
+      "q": "Zapotrzebowanie na suchą masę krowy 500 kg dającej 12 l mleka wynosi:",
+      "options": [
+        "2–4 kg",
+        "20–25 kg",
+        "11–16 kg",
+        "30–36 kg"
+      ],
+      "answer": 2,
+      "explain": "W tabeli normy sucha masa dla tej krowy to 11–16 kg."
+    },
+    {
+      "q": "Układanie dawki pokarmowej należy zaczynać od pasz:",
+      "options": [
+        "objętościowych",
+        "treściwych",
+        "mineralnych",
+        "witaminowych"
+      ],
+      "answer": 0,
+      "explain": "Układanie dawek zaczyna się od pasz objętościowych, a uzupełnia treściwymi."
+    },
+    {
+      "q": "W żywieniu trzody ziemniaki podaje się w formie:",
+      "options": [
+        "surowej",
+        "kiszonej z liśćmi",
+        "suszonej w całości",
+        "parowanej"
+      ],
+      "answer": 3,
+      "explain": "W żywieniu trzody nie podaje się surowych ziemniaków, lecz parowane."
+    },
+    {
+      "q": "W przykładowej dawce dla krowy zastosowano siano łąkowe i:",
+      "options": [
+        "ziemniaki parowane",
+        "kiszonkę z kukurydzy",
+        "śrutę jęczmienną",
+        "wysłodki buraczane"
+      ],
+      "answer": 1,
+      "explain": "Przykładowa dawka to siano łąkowe i kiszonka z kukurydzy."
+    },
+    {
+      "q": "Niedobór jednostek owsianych i białka w dawce z pasz objętościowych uzupełnia się:",
+      "options": [
+        "słomą",
+        "wodą",
+        "mieszanką treściwą",
+        "większą ilością siana"
+      ],
+      "answer": 2,
+      "explain": "Brak można wyrównać mieszanką treściwą."
+    },
+    {
+      "q": "Rozbieżność między składem dawki a zapotrzebowaniem nie powinna przekraczać:",
+      "options": [
+        "5%",
+        "15%",
+        "25%",
+        "50%"
+      ],
+      "answer": 0,
+      "explain": "Rozbieżność w składzie dawki a zapotrzebowaniem nie powinna przekraczać 5%."
+    },
+    {
+      "q": "Przy obliczaniu zapotrzebowania na pasze w pierwszej kolejności należy ustalić:",
+      "options": [
+        "cenę pasz",
+        "plony z ostatniego roku",
+        "termin ważności mieszanek",
+        "liczbę zwierząt danego gatunku i grupy latem i zimą"
+      ],
+      "answer": 3,
+      "explain": "Najpierw ustala się liczbę zwierząt w gospodarstwie latem i zimą."
+    },
+    {
+      "q": "Przy tuczu świń od 25 do 90 kg przykładowo przyjmuje się zużycie paszy na 1 kg przyrostu:",
+      "options": [
+        "1 kg",
+        "3,5 kg",
+        "7 kg",
+        "10 kg"
+      ],
+      "answer": 1,
+      "explain": "Przykład: 3,5 kg paszy na 1 kg przyrostu w tuczu od 25 do 90 kg."
+    },
+    {
+      "q": "Dane o plonach do określenia ilości produkowanych pasz zbiera się z okresu:",
+      "options": [
+        "ostatniego miesiąca",
+        "dziesięciu lat",
+        "trzech ostatnich lat",
+        "jednego sezonu"
+      ],
+      "answer": 2,
+      "explain": "Dane o strukturze zasiewów i plonach zbiera się z trzech ostatnich lat."
+    },
+    {
+      "q": "Badanie próbek własnych pasz ma szczególne znaczenie w przypadku:",
+      "options": [
+        "siana i kiszonek",
+        "premiksów",
+        "soli pastewnej",
+        "mieszanek pełnoporcjowych"
+      ],
+      "answer": 0,
+      "explain": "Rzeczywista wartość pokarmowa może odbiegać od tabel, zwłaszcza siana i kiszonek."
+    },
+    {
+      "q": "Rezerwa pasz, szczególnie kiszonek, powinna wynosić około:",
+      "options": [
+        "5% zapotrzebowania",
+        "50% zapotrzebowania",
+        "100% zapotrzebowania",
+        "20% zapotrzebowania"
+      ],
+      "answer": 3,
+      "explain": "Rezerwy powinny wynosić około 20% zapotrzebowania."
+    },
+    {
+      "q": "Nadwyżkę zielonki wykazaną w bilansie pasz można:",
+      "options": [
+        "tylko zutylizować",
+        "przeznaczyć na siano lub kiszonkę",
+        "dodać do rezerwy pasz treściwych",
+        "przechowywać w kopcach"
+      ],
+      "answer": 1,
+      "explain": "Nadwyżki można sprzedać lub wykorzystać, np. zielonki na siano lub kiszonkę."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Ilu kaloriom, które wyrażają wartość energetyczną pasz dla zwierząt monogastrycznych, odpowiada MJ?",
+      "options": [
+        "283",
+        "258",
+        "239",
+        "197"
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nJednostka jęczmienna to wartość pokarmowa 1 kg jęczmienia, który skarmiony (ponad paszą bytową) wystarcza krowie do wyprodukowania … mleka o zawartości tłuszczu 3,25–3,50%.",
+      "options": [
+        "3 kg",
+        "4 kg"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy obliczaniu zapotrzebowania paszowego utrzymywanych zwierząt w ciągu roku w pierwszej kolejności należy uwzględnić plany kryć poszczególnych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z systemów żywienia mają zastosowanie dla krów mlecznych?",
+      "options": [
+        "DLG.",
+        "NEL.",
+        "TMR.",
+        "INRA."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nW celu określenia ilości produkowanych pasz zbiera się dane z okresu ostatnich … lat.",
+      "options": [
+        "trzech",
+        "pięciu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkreślić czy występuje niedobór czy nadmiar surowców w okresie letnim i zimowym możemy poprzez porównanie zasobów z potrzebami zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Stosunek odżywczy to stosunek sumy pozostałych strawnych składników do...",
+      "options": [
+        "węglowodanów strawionych.",
+        "produktów syntetycznych strawionych.",
+        "składników witaminowych strawionych.",
+        "białka ogólnego strawionego."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Rezerwy pasz powinny wynosić ok. …% zapotrzebowania.",
+      "options": [
+        "5",
+        "20"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPasze i ich dawki dobieramy biorąc pod uwagę docelowe gatunki zwierząt, ich przeznaczenie i rozmiar produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Skarmienie zbyt małej lub zbyt dużej ilości danego typu paszy może:",
+      "options": [
+        "powodować jej zmniejszone pobieranie.",
+        "być przyczyną przedawkowania mimo odpowiednio zbilansowanej dawki.",
+        "być przyczyną niedoborów pomimo odpowiedniego zbilansowania dawki.",
+        "powodować zaburzenia przewodu pokarmowego."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZapotrzebowanie bytowe określa ilość składników pokarmowych, niezbędnych do podtrzymania podstawowych procesów, czyli taka ilość, która … by zwierzę przybrało na wadze.",
+      "options": [
+        "pozwoli",
+        "nie pozwoli"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem żywienia DLG obejmuje białkową ocenę pasz i potrzeb białkowych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Którym z systemów żywienia mierzy się Energię Netto?",
+      "options": [
+        "DLG.",
+        "SDO.",
+        "NEL.",
+        "INRA."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy obliczaniu rocznego zapotrzebowania można skorzystać z przykładowego rocznego zapotrzebowania pasz, zwanych …, które można aktualizować w zależności od potrzeb.",
+      "options": [
+        "tabelą produkcji i zużycia",
+        "normatywami"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku trzody chlewnej żywienie może wyglądać tak samo przez cały rok.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz pasze objętościowe.",
+      "options": [
+        "Zioła.",
+        "Soja.",
+        "Kiszonki.",
+        "Chwasty."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNorma żywieniowa określa dawkę … składników pokarmowych dla danego zwierzęcia, które należy dostarczyć, by pokryć zapotrzebowania organizmu.",
+      "options": [
+        "tygodniową",
+        "dobową"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo przygotowania preliminarza pasz wystarczy znajomość zapotrzebowania bytowego i produkcyjnego zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W miernikach wartości pokarmowej pasz jednostki owsiane używane są w odniesieniu do...",
+      "options": [
+        "przeżuwaczy.",
+        "świniokształtnych.",
+        "koni.",
+        "drobiu."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDzięki przemnożeniu dawek pokarmowych przez przewidywaną liczbę zwierząt w gospodarstwie i …, otrzymujemy zapotrzebowanie roczne.",
+      "options": [
+        "liczbę dni żywienia",
+        "planów kryć"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nStosując miarę jednostki owsianej przyjęto, że wartość energetyczna pasz (wartość netto) będzie wyrażona za pomocą liczby kg owsa przyjętego za 10 jednostek.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zawarte w „Normach żywieniowych” tabele wartości pokarmowej przedstawiają orientacyjny skład pasz pod względem takich składników, jak:",
+      "options": [
+        "tłuszcze.",
+        "woda.",
+        "energia.",
+        "białko."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzy obliczaniu zapotrzebowania paszowego należy pamiętać o uwzględnieniu … przy chowie przeżuwaczy.",
+      "options": [
+        "pasz treściwych",
+        "pasz objętościowych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBilans pasz stanowi porównanie potrzeb zakupowych paszy z przewidywanymi potrzebami utrzymywanych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wartość odżywcza 1 kg owsa średniej jakości, podanej dorosłemu bydłu jako pasza ponadbytowa, powoduje odłożenie w jego ciele ilu gram tłuszczu?",
+      "options": [
+        "130",
+        "100",
+        "80",
+        "170",
+        "150"
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBy prawidłowo określić dawkę żywieniową należy pamiętać o zapewnieniu odpowiedniego zapotrzebowania bytowego i ….",
+      "options": [
+        "rozrodczego",
+        "produkcyjnego"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapotrzebowanie produkcyjne określa wymagania żywieniowe dla zwierząt, przy hodowli których pragniemy uzyskać dodatkowe efekty (np. produkcja mleka od krów, przyrosty masy ciała u świń).",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Skala produkcji roślinnej determinuje:",
+      "options": [
+        "skalę produkcji zwierzęcej.",
+        "kierunek produkcji zwierzęcej.",
+        "bilans pasz.",
+        "niedobory surowców."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nEnergia metaboliczna stanowi podstawę do wartościowania energetycznego i normowania pasz w żywieniu … oraz drobiu.",
+      "options": [
+        "przeżuwaczy",
+        "zwierząt monogastrycznych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Energetyczną ocenę wartości pasz i potrzeb pokarmowych przeżuwaczy obejmuje niemiecki system NEL.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W miernikach wartości pokarmowej pasz 1 kg skrobi odpowiada ilu gramom tłuszczu?",
+      "options": [
+        "296",
+        "216",
+        "171",
+        "273",
+        "248"
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMJ stosuje się do wyrażenia wartości energetycznej pasz dla ….",
+      "options": [
+        "zwierząt monogastrycznych",
+        "przeżuwaczy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDawka pokarmowa to zestaw przygotowanych pasz mających na celu pokrycie dziennego zapotrzebowania na składniki pokarmowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Preliminarz pasz składa się z czterech podstawowych elementów, do których należą m.in.",
+      "options": [
+        "określenie ilości produkowanych pasz.",
+        "bilans pasz.",
+        "obliczenia zapotrzebowania paszowego utrzymywanych zwierząt w ciągu roku.",
+        "podział na cztery okresy żywieniowe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSystem żywienia … jest stosowany dla wysokowydajnych krów mlecznych.",
+      "options": [
+        "INRA",
+        "DLG"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla określonej grupy technologicznej możemy przyjąć określone wartości dla zapotrzebowania bytowego. W przypadku zapotrzebowania produkcyjnego należy uwzględnić także rodzaj i wielkość oczekiwanych efektów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wartość pokarmowa 1 kg jęczmienia, który skarmiony (ponad paszą bytową) wystarcza krowie do wyprodukowania 3 l mleka o zawartości tłuszczu 3,25–3,50% to:",
+      "options": [
+        "wartość jęczmienna.",
+        "dawka pokarmowa.",
+        "zapotrzebowanie produkcyjne.",
+        "jednostka jęczmienna."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nBy ułatwić zorganizowanie prac w gospodarstwie i zaplanować zarówno produkcję zwierzęcą, jak i uprawy roślin paszowych, tworzy się ….",
+      "options": [
+        "bilans pasz",
+        "preliminarz pasz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo obliczenia zapotrzebowania na pasze najlepiej jest skorzystać z „Norm żywienia zwierząt gospodarskich”.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Dodatkowymi efektami, które można uzyskać przy hodowli zwierząt są np.:",
+      "options": [
+        "produkcja mleka.",
+        "przyrost masy ciała.",
+        "pozyskanie włókna."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDLG jest … systemem normowania energii.",
+      "options": [
+        "niemieckim",
+        "francuskim"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWartość skrobiowa to liczba wskazująca ile kg skrobi może zastąpić 10 kg danej paszy pod względem wartości tłuszczotwórczej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Który z systemów żywienia ma zastosowanie w odchowie młodego bydła?",
+      "options": [
+        "SDO.",
+        "INRA.",
+        "NEL.",
+        "TMR."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUkładanie dawek należy zaczynać zawsze od pasz … a następnie uzupełniać.",
+      "options": [
+        "treściwych",
+        "objętościowych, soczystych i suchych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBilansowanie dawki pokarmowej to dobieranie dostępnych pasz z uwzględnieniem ich składu w celu stworzenia odpowiedniej porcji składników pokarmowych odpowiadających zapotrzebowaniu organizmu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Jednostka jęczmienna to wartość pokarmowa 1 kg jęczmienia, który skarmiony (ponad paszą bytową) wystarcza krowie do wyprodukowania 3 kg mleka, o ilu procentowej zawartości tłuszczu?",
+      "options": [
+        "3,25–3,50.",
+        "2,00–3,50.",
+        "0,50–1,50.",
+        "1,50–2,00."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy obliczaniu rocznego zapotrzebowania można skorzystać z przykładowego rocznego zapotrzebowania pasz, zwanych tabelą produkcji i zużycia, które można aktualizować w zależności od potrzeb.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Które z systemów żywienia mają zastosowanie dla krów mlecznych?",
+      "options": [
+        "NEL.",
+        "SDO.",
+        "INRA.",
+        "DLG."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Który z systemów żywienia ma zastosowanie w odchowie młodego bydła?",
+      "options": [
+        "INRA.",
+        "NEL.",
+        "DLG.",
+        "TMR."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy obliczaniu zapotrzebowania paszowego należy pamiętać o uwzględnieniu pasz treściwych przy chowie przeżuwaczy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W podstawowy skład preliminarza pasz nie wchodzi...",
+      "options": [
+        "obliczenie zapotrzebowania paszowego utrzymywanych zwierząt w ciągu roku.",
+        "bilans pasz.",
+        "podział na cztery okresy żywieniowe.",
+        "określenie ilości produkowanych pasz."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "W miernikach wartości pokarmowej pasz 1 kg skrobi odpowiada ilu gramom tłuszczu?",
+      "options": [
+        "248",
+        "216",
+        "273",
+        "296"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZawarte w „Normach żywieniowych” tabele wartości pokarmowej przedstawiają orientacyjny skład pasz pod względem takich składników jak tłuszcze, białko, popiół.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Megadżule stosuje się do wyrażenia wartości energetycznej pasz dla...",
+      "options": [
+        "przeżuwaczy.",
+        "świniokształtnych.",
+        "bydła w trakcie ciąży.",
+        "zwierząt monogastrycznych."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Skarmienie zbyt małej lub zbyt dużej ilości danego typu paszy może:",
+      "options": [
+        "powodować zaburzenia przewodu pokarmowego.",
+        "być przyczyną niekontrolowanego przybierania na wadzę.",
+        "być przyczyną przedawkowania mimo odpowiednio zbilansowanej dawki.",
+        "powodować jej zmniejszone pobieranie."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDodatkowym efektem, które można uzyskać przy hodowli zwierząt jest np. produkcja mleka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wartość odżywcza 1 kg owsa średniej jakości, podanej dorosłemu bydłu jako pasza ponadbytowa, powoduje odłożenie w jego ciele ilu gram tłuszczu?",
+      "options": [
+        "150",
+        "170",
+        "100",
+        "130"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Stosunek odżywczy to stosunek sumy pozostałych strawnych składników do...",
+      "options": [
+        "białka ogólnego strawionego.",
+        "węglowodanów strawionych.",
+        "składników tuczących strawionych.",
+        "składników witaminowych strawionych."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDLG jest niemieckim systemem normowania energii.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBy ułatwić zorganizowanie prac w gospodarstwie i zaplanować zarówno produkcję zwierzęcą, jak i uprawy roślin paszowych, tworzy się bilans pasz.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Ilu kaloriom, które wyrażają wartość energetyczną pasz dla zwierząt monogastrycznych, odpowiada MJ?",
+      "options": [
+        "197",
+        "283",
+        "258",
+        "239"
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nBy prawidłowo określić dawkę żywieniową należy pamiętać o zapewnieniu odpowiedniego zapotrzebowania bytowego i produkcyjnego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Którym z systemów żywienia mierzy się Energię Netto?",
+      "options": [
+        "DLG.",
+        "INRA.",
+        "SDO.",
+        "NEL."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem żywienia INRA jest stosowany dla wysokowydajnych krów mlecznych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W miernikach wartości pokarmowej pasz jednostki owsiane używane są w odniesieniu do...",
+      "options": [
+        "drobiu.",
+        "zwierząt monogastrycznych.",
+        "świniokształtnych.",
+        "przeżuwaczy."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Energia metaboliczna stanowi podstawę do wartościowania energetycznego i normowania pasz w żywieniu drobiu oraz",
+      "options": [
+        "bydła w trakcie ciąży.",
+        "zwierząt monogastrycznych.",
+        "ras szlachetnych.",
+        "świniokształtnych.",
+        "przeżuwaczy."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSystem żywienia DLG obejmuje białkową ocenę pasz i potrzeb białkowych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zapotrzebowanie roczne na pasze otrzymujemy dzięki przemnożeniu dawek pokarmowych przez przewidywaną liczbę zwierząt w gospodarstwie przez...",
+      "options": [
+        "liczbę dni żywienia.",
+        "liczbę zwierząt w ciąży.",
+        "podział technologiczny.",
+        "plany kryć."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDawka pokarmowa to zestaw przygotowanych pasz mających na celu pokrycie dziennego zapotrzebowania na składniki pokarmowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo przygotowania preliminarza pasz wystarczy znajomość zapotrzebowania bytowego i produkcyjnego zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Norma żywieniowa określa dawkę składników pokarmowych dla danego zwierzęcia, które należy dostarczyć, by pokryć zapotrzebowania organizmu na okres czasu równy",
+      "options": [
+        "dobie.",
+        "6 miesiącom.",
+        "tygodniowi.",
+        "miesiącowi."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSkala produkcji roślinnej determinuje kierunek produkcji zwierzęcej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOkreślić czy występuje niedobór czy nadmiar surowców w okresie letnim i zimowym możemy poprzez porównanie zasobów z potrzebami zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile procent zapotrzebowania powinny wynosić rezerwy paszy?",
+      "options": [
+        "Ok. 10%.",
+        "Ok. 20%.",
+        "Ok. 5%.",
+        "Ok. 30%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapotrzebowanie bytowe określa ilość składników pokarmowych, niezbędnych do podtrzymania podstawowych procesów, czyli taka ilość, która pozwoli by zwierzę przybrało na wadze.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Zaznacz pasze objętościowe:",
+      "options": [
+        "siano.",
+        "chwasty.",
+        "kiszonki.",
+        "soja."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "W celu określenia ilości produkowanych pasz zbiera się dane z okresu ilu ostatnich lat?",
+      "options": [
+        "Roku.",
+        "Pięciu.",
+        "Trzech.",
+        "Dwóch."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzy obliczaniu zapotrzebowania paszowego utrzymywanych zwierząt w ciągu roku w pierwszej kolejności należy uwzględnić plany kryć poszczególnych zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Układanie dawek należy zaczynać zawsze od pasz:",
+      "options": [
+        "treściwych.",
+        "soczystych.",
+        "objętościowych.",
+        "suchych."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Jednostka jęczmienna to wartość pokarmowa 1 kg jęczmienia, który skarmiony (ponad paszą bytową) wystarcza krowie do wyprodukowania jakiej ilości mleka o zawartości tłuszczu 3,25–3,50%?",
+      "options": [
+        "2 kg.",
+        "4 kg.",
+        "3 kg.",
+        "1 kg."
+      ],
+      "answers": [
+        2
+      ]
+    }
+  ]
+}

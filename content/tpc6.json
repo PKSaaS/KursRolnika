@@ -1,0 +1,2098 @@
+{
+  "id": "tpc6",
+  "course": "Technologiczne podstawy chowu i hodowli zwierząt",
+  "title": "Zdrowie zwierząt gospodarskich i towarzyszących",
+  "number": "VI",
+  "notes": [
+    {
+      "heading": "Wstęp – czynniki pielęgnacyjne",
+      "points": [
+        "Jakość, terminowość i fachowe wykonanie zabiegów pielęgnacyjnych wpływa na zdrowotność i samopoczucie zwierząt.",
+        "Pielęgnacja = czynniki pośrednie (utrzymanie, żywienie, profilaktyka, zabiegi okresowe) + czynniki bezpośrednie + identyfikacja.",
+        "Jakość utrzymania: temperatura, wilgotność, stężenie gazów, zapylenie, ruch powietrza, oświetlenie, higiena ściółki/posłania.",
+        "Żywienie: higiena poideł, żłobów, misek; karma; pojenie; pory karmienia.",
+        "Profilaktyka u zwierząt sportowych: masaże, odnowa biologiczna, krioterapia, hydroterapia, solarium, bieżnia wodna.",
+        "Zabiegi okresowe: korekta kopyt/racic/pazurków, podkuwanie, szczepienia, odrobaczanie, strzyżenie/trymowanie, tarnikowanie/usuwanie kamienia, profilaktyka pcheł i kleszczy.",
+        "Czynniki bezpośrednie: czyszczenie strzałek/łap/kopyt/racic, szczotkowanie i wyczesywanie, mycie, czyszczenie gruczołów okołoodbytowych.",
+        "Identyfikacja: tatuowanie, karbowanie, wypalanie, kolczyki, czipowanie, książeczki zdrowia, paszporty.",
+        "Suma czynników pielęgnacyjnych składa się na dobrostan zwierzęcia.",
+        "Warunki dobrostanu reguluje szereg aktów prawnych w Polsce i UE; aby poprawnie udzielić zwierzęciu pierwszej pomocy, trzeba mieć podstawowo wyposażoną apteczkę."
+      ]
+    },
+    {
+      "heading": "1. Świnie – pielęgnacja",
+      "points": [
+        "Znakowanie: kolczykowanie, karbowanie, tatuowanie; kolczyki są niepolecane, bo świnie usuwają je sobie nawzajem.",
+        "Karbuje się głównie rasy białe, a tatuuje rasy kolorowe; karbowanie (nacinanie uszu) pozwala rozpoznać zwierzę z daleka.",
+        "Tatuowanie i karbowanie w 21. dniu życia, zawsze z określeniem liczby sutków.",
+        "Poskramianie: poskrom, pętla ryjowa lub płotek (dociśnięcie do ściany).",
+        "Odrobaczanie w każdym cyklu produkcyjnym.",
+        "Standardowe szczepienia dorosłych świń: różyca, kolibakterioza, parwowiroza; dodatkowo m.in. mykoplazmoza, pleuropneumonia, zakaźne zapalenie nosa, streptokokoza.",
+        "Warchlaki szczepi się na mykoplazmozę, pleuropneumonię i adenomatozę; każde nowe szczepienie powtarza się po 4 tygodniach.",
+        "Lochę przenosi się na porodówkę 2 tygodnie przed wykotem; przed porodem podaje się otręby zalane wrzątkiem (wypróżnienia, profilaktyka MMA).",
+        "Prosięta mają niesprawną termoregulację – muszą być dogrzewane; ostre kiełki się przycina; podaje się żelazo przeciw anemii prosiąt.",
+        "Świnie usuwają sobie kolczyki „dla zabicia nudy”.",
+        "Cele znakowania: określenie pochodzenia, identyfikacja zabiegów, odnalezienie zwierzęcia w stadzie, wytypowanie zdolności produkcyjnych i użytkowych.",
+        "W kojcu porodowym locha przygotowuje się do porodu i wytwarza przeciwciała przeciw patogenom nowego pomieszczenia; kiełki prosiąt ucina się, by nie kaleczyły wymienia."
+      ]
+    },
+    {
+      "heading": "Konie – pielęgnacja",
+      "points": [
+        "Poskramianie: dutka kleszczowa i pętlowa na górnej wardze; metody naturalne – zgięcie nogi, łagodny głos, zakrycie oka, fałd skóry na szyi, chwyt za ucho, pukanie w czoło.",
+        "Źrebięta poskramia się chwytem za nasadę ogona i klatkę piersiową; do położenia konia – rzucadło berlińskie, farmakologia, wywiązywanie pęcinowe.",
+        "Karmienie 3 razy dziennie; konia poi się przed karmieniem; wiadro 30 cm nad podłogą.",
+        "Ruch i kontakt z innymi zwierzętami – minimum godzina dziennie; regularne sprzątanie boksu zapobiega gniciu strzałek.",
+        "Ściółki: słoma, torf, trociny, papierowe brykiety.",
+        "Korekcja kopyt (rozczyszczanie, werkowanie) co 4–6 tygodni; podkuwanie obowiązkowe przy twardym podłożu i chorobach kopyt.",
+        "Kopyta smaruje się dziegciem od spodu raz w tygodniu; zęby tarnikuje się ok. raz na pół roku; ogon obcina się do połowy nadpęcia.",
+        "Odrobaczanie (gzy, owsiki, tasiemce, glisty) 2–4 razy w roku; szczepienie na grypę 2 razy w roku, na tężec raz na 4 lata, na wściekliznę i ronienie zakaźne co roku.",
+        "Stajnię odkaża się raz do roku.",
+        "Znakowanie: wypalanie, wymrażanie, tatuowanie, czipowanie; piętno rasowe na lewym udzie, znak hodowcy na siodle, numer stadny na lewym siodle.",
+        "Siwe konie wyłącznie się wypala; czip umieszcza się pod skórą na szyi po lewej stronie.",
+        "Lekarze najczęściej badają konie w poskromach; regularnie sprawdza się czystość poidła i żłobu (piach, odchody).",
+        "Konie niebiegające nie ścierają rogu kopytowego – trzeba obcinać róg strzałki, podeszwy i ściany; podkowy robi się z tworzyw sztucznych lub specjalnych stopów metali.",
+        "Kopyta myje się, od spodu smaruje dziegciem raz w tygodniu, z wierzchu regularnie nawilża i natłuszcza; grzywę rozczesuje lub rozcina; konia myje się i zaplata ogon i grzywę na specjalne okazje.",
+        "Można przycinać koniom szczotki i strzyc konie sportowe po zimie; regularnie sprawdza się stan ogrodzeń.",
+        "Na lewym siodle wybija się numer stadny źrebięcia; wypalanie może być niewidoczne u koni ras rodzimych."
+      ]
+    },
+    {
+      "heading": "Owce – pielęgnacja i kalendarz",
+      "points": [
+        "Znakowanie nietrwałe przy kotelni, stanówce, zabiegach; trwałe – do 30. dnia życia przez karbowanie lub kolczykowanie.",
+        "Selekcja jagniąt: pierwsza wiosną, powtórna jesienią.",
+        "Ogony jagniętom ucina się w 10–14 dniu życia emaskulatorem między 3. a 4. kręgiem.",
+        "Wspomagająco podaje się witaminy A, D3, E oraz Fe i Se (przeciw anemii i chorobie białych mięśni).",
+        "Korekcja racic: samice obowiązkowo przed stanówką, przed sezonem pastwiskowym i po wypasach; tryki raz na kwartał; zwalczanie kulawki zanokcicowej.",
+        "Kąpiele po strzyży: pierwsza tydzień po strzyżeniu, druga 2 tygodnie po pierwszej.",
+        "Odrobaczanie jesienią i wiosną, najczęściej iniekcją domięśniową.",
+        "Kalendarz: marzec – wstępna selekcja; kwiecień – remont stada; przełom kwietnia i maja – racice, odrobaczanie, strzyża tryków.",
+        "Przygotowanie do stanówki: tryki od kwietnia przez 6 tygodni, maciorki 3 tygodnie od maja; stanówka 6 tygodni na przełomie czerwca i lipca.",
+        "Wrzesień – usunięcie obornika i dezynfekcja owczarni; październik – selekcja młodzieży, strzyża matek, racice; listopad–grudzień – wykoty; luty – licencja hodowlana maciorek.",
+        "Karbowanie wykonuje się najczęściej podczas selekcji jagniąt; witaminy A, D3, E podaje się wspomagająco na wzrost.",
+        "Pielęgnacja racic obejmuje też kąpiele lecznicze i profilaktyczne; owce regularnie się szczepi i zwalcza pasożyty wewnętrzne i skórne.",
+        "Od listopada do grudnia – wykoty, wychów jagniąt i pozostałe zabiegi; sprawy hodowlane załatwia się od listopada do lutego."
+      ]
+    },
+    {
+      "heading": "Krowy – pielęgnacja",
+      "points": [
+        "Udój: przedzdajanie (pierwsze strugi mają najwięcej bakterii – ocena barwy i jakości), dezynfekcja wymienia, masaż przedudojowy.",
+        "Po udoju: masaż poudojowy, dodajanie, dezynfekcja wymienia; zimą maść do wymion, latem żele ujędrniające; unikać doju ślepego i pustodoju.",
+        "Krowy znakuje się trwale kolczykowaniem.",
+        "Wycielenia przypadają na listopad i luty; szczyt laktacji 2 miesiące po wycieleniu.",
+        "Przed wycieleniem zmniejsza się pasze treściwe na rzecz objętościowych – profilaktyka ketozy poporodowej.",
+        "Cielęta oddziela się od matek po podaniu siary; dekornizacja (wypalanie/wycinanie rogów) w 2–3 tygodniu życia.",
+        "Krowy bez rogów są łagodniejsze i nie niszczą sprzętu (np. dojarek).",
+        "Korekcja profilaktyczna racic – przełom lutego i marca.",
+        "Szczepienia krów: BVD (zakaźna biegunka bydła), parainfluenza typu 3, IBR (zakaźne zapalenie nosa i tchawicy), syncytialny wirus oddechowy bydła, clostridiozy.",
+        "Dój może być ręczny lub mechaniczny – na hali udojowej lub stanowisku udojowym."
+      ],
+      "images": [
+        {
+          "src": "img/tpc6/kolczyki.jpg",
+          "caption": "Kolczyki (znaczniki uszne) z numerem identyfikacyjnym, np. z kodem kreskowym – krowy znakuje się trwale przez kolczykowanie; kolczyki stosuje się też u owiec i kóz."
+        }
+      ]
+    },
+    {
+      "heading": "Psy i koty – pielęgnacja",
+      "points": [
+        "Psy: ustawowo obowiązkowe coroczne szczepienie przeciw wściekliźnie; pozostałe dobrowolne.",
+        "Szczenięta szczepi się trzykrotnie w odstępach maks. 4-tygodniowych: 1) nosówka i parwowiroza, 2) + wirusowe zapalenie wątroby, 3) pełny komplet z kaszlem kenelowym i leptospirozą.",
+        "Szczepionki donosowe dla psów: przeciw Bordetella bronchiseptica i parainfluenzie.",
+        "Psy odrobacza się raz na kwartał; szczenięta przed każdym szczepieniem; preparaty na pchły i kleszcze w sezonie wiosenno-jesiennym.",
+        "Pielęgnacja psów: obcinanie paznokci, czyszczenie uszu, toaleta gruczołów okołoodbytowych, wyczesywanie podszerstka; kamień nazębny usuwa się ultradźwiękami.",
+        "Koty: pierwsze szczepienie w 6–8 tygodniu życia, powtórka po miesiącu; podstawowe – panleukopenia, kaliciviroza, herpeswiroza typu I; dodatkowo chlamydia i białaczka kotów.",
+        "Koty odrobacza się przed każdym szczepieniem; koty domowe raz w roku (najlepiej po badaniu kału); wychodzące regularnie (spot on, tabletki, pasty) + ochrona przed pchłami i kleszczami.",
+        "Kocięta często mają świerzb uszny; nadmierną wydzielinę z uszu bada się pod mikroskopem; koty długowłose czesze się i podaje preparaty odkłaczające.",
+        "Niektóre rasy psów myje się częściej i obcina im włos; należy regularnie oglądać psa (choroby, sierść, pasożyty zewnętrzne); zęby można czyścić pastami bogatymi w enzymy.",
+        "Świerzb uszny mają często kocięta wolnożyjących rodziców; kotom obcina się pazurki, a u starszych kotów usuwa kamień skalerem ultradźwiękowym."
+      ]
+    },
+    {
+      "heading": "2. Dobrostan – definicja i historia",
+      "points": [
+        "Dobrostan – stan zdrowia psychicznego i fizycznego w warunkach harmonii ustroju ze środowiskiem; zespół warunków pokrywających potrzeby biologiczne i psychiczne.",
+        "Do 1997 r. w prawie polskim zwierzęta były rzeczami; Kartezjusz (XVIII w.) uważał je za bezduszne maszyny.",
+        "Pierwsza deklaracja praw zwierząt UNESCO – 1978 r.; pierwsze polskie towarzystwo opieki nad zwierzętami – 1864 r.; Polska Liga Ochrony Praw Zwierząt – 1925 r.; pierwsze rozporządzenie o ochronie zwierząt – 1928 r.",
+        "Ustawa z 21 sierpnia 1997 r. o ochronie zwierząt: „zwierzę jako istota żywa, zdolna do odczuwania cierpienia, nie jest rzeczą”.",
+        "Nauki wpływające na dobrostan: etologia, fizjologia, patofizjologia, zoohigiena, psychosomatyka, psychoneuroendokrynologia, prawo.",
+        "Pięć wolności (Rada Europy): od głodu i pragnienia; od dyskomfortu; od bólu, urazów i chorób; od strachu i stresu; swoboda wyrażania normalnego behawioru.",
+        "Wskaźniki bezpośrednie (fizjologiczne): hormony stresowe, białka ostrej fazy, wskaźniki biochemiczne i hematologiczne, immunokompetencja, zdolność do rozrodu.",
+        "Wskaźniki uzupełniające: zoohigieniczne (temperatura, wilgotność, ruch powietrza, wentylacja, hałas, gazy i pyły), gęstość obsady, podłoże, oświetlenie, sprzęt, skład socjalny, technopatie.",
+        "Pełny cytat ustawy: „zwierzę jako istota żywa, zdolna do odczuwania cierpienia, nie jest rzeczą, a człowiek jest im winien poszanowanie, ochronę i opiekę”.",
+        "Wysoki poziom dobrostanu zapewnia normalny wzrost i rozwój fizyczny i psychiczny; każdego posiadacza zwierzęcia obowiązują ustalenia Rady Europy i komitetu ds. dobrostanu zwierząt.",
+        "Tabela 6.1 – wymagania dla pięciu wolności: od głodu i pragnienia → świeża woda i pasza pokrywające potrzeby wzrostu, zdrowia i żywotności; od dyskomfortu → powierzchnia wypoczynku, schronienie, optymalne warunki środowiska; od bólu, urazów i chorób → prewencja, profilaktyka, szybka diagnostyka, skuteczne leczenie; od strachu i stresu → eliminacja czynników stresowych (psychogennych i somatycznych); normalny behawior → odpowiednia przestrzeń życiowa i skład socjalny grupy."
+      ],
+      "images": [
+        {
+          "src": "img/tpc6/nauki-dobrostan.jpg",
+          "caption": "Rysunek 6.1. Nauki mające wpływ na dobrostan zwierząt: zoohigiena, fizjologia, prawo, patofizjologia, etologia, psychosomatyka, psychoneuroendokrynologia."
+        }
+      ]
+    },
+    {
+      "heading": "Stres i stereotypie",
+      "points": [
+        "Stres jest odwrotnością dobrostanu; adaptacja – mechanizmy nerwowe, hormonalne, hemodynamiczne, odpornościowe i metaboliczne.",
+        "Skutki stresu: u świń zaleganie pokarmu pod nabłonkiem żołądka, u cieląt zaleganie mleka w trawieńcu; przed ubojem spadek glikogenu w mięśniach → mięso PSE (blade, miękkie, wodniste).",
+        "Stres powoduje supresję rozrodu (oś podwzgórze–przysadka) i immunosupresję.",
+        "Stereotypie – proste, zrytualizowane, powtarzane czynności bez celu; nowoczesny wskaźnik dobrostanu.",
+        "Konie: oralne – obgryzanie żłobu, żucie drewna, łykawość; motoryczne – chodzenie wokół boksu, tkanie, kołysanie głową.",
+        "Świnie: żucie łańcucha, obgryzanie ogrodzenia, lizanie ścian; uderzanie głową o ogrodzenie. Cielęta: zabawa językiem, lizanie, ssanie.",
+        "Psy: oralne (lizanie, polifagia, polidypsja), motoryczne (łapanie ogona, behawior zamrożenia), wokalne (rytmiczne szczekanie), agresywne (samoagresja).",
+        "Drób: wzmożona wokalizacja, nadmierna ruchliwość, kanibalizm, zjadanie piór. Pszczoły: opijanie się miodem przed rójką, tańce.",
+        "U typów introwertycznych i dominujących przeważa reakcja hormonalna; nadmierna odpowiedź hormonalna → choroby psychosomatyczne, nadmierna odpowiedź czynna → stereotypie.",
+        "Stereotypie obniżają poziom hormonów stresowych we krwi – chronią przed chorobami stresowymi.",
+        "Żywieniowe przyczyny stereotypii: rzadkie posiłki, zbyt duża koncentracja składników, mało włókna surowego, głód, zły poziom soli kamiennej (cielęta, świnie).",
+        "Autonarkotyzm – stereotypia polegająca na zadawaniu sobie bólu (uwalnianie opioidów, sensytyzacja receptorów).",
+        "Stereotypie nie prowadzą do zaspokojenia faktycznych fizjologicznych potrzeb organizmu.",
+        "Inne formy stereotypii: konie – obgryzanie poidła, przestępowanie z nogi na nogę (tkanie), wyginanie szyi; świnie – żucie uwiązów, żucie drewna z legowisk, „zabawa różnymi przedmiotami”; psy – żucie kończyn, bieganie wkoło, skakanie w miejscu, odgryzanie własnych kończyn, warczenie na widok własnych tylnych łap.",
+        "Żywieniowe przyczyny stereotypii obejmują też: nieodpowiedni skład paszy (konie, bydło), spadek ilości pokarmu, skrócenie czasu pobierania paszy, słabe wypełnienie przewodu pokarmowego.",
+        "Stereotypie wg wideocastu: konie – obgryzanie i żucie, połykanie powietrza, tkanie i kołysanie; świnie – żucie uwiązów, obgryzanie ogrodzenia, lizanie ścian, uderzanie o ogrodzenie; psy – żucie kończyn, bieganie wkoło, bezruch, autoagresja.",
+        "Stres to dążenie organizmu pod presją obciążających bodźców do przeciwstawienia się im i przetrwania w nowych warunkach; u świń pokarm zalega pod łuskowym nabłonkiem żołądka, u cieląt mleko w części odźwiernikowej trawieńca.",
+        "Cielęta: wkładanie języka do nozdrzy, żucie różnych przedmiotów; psy także: drapanie, ssanie pachwiny, spaczone łaknienie, skakanie w miejscu, natrętne lizanie, atakowanie miski lub obcych obiektów, nagła niesprowokowana agresja wobec ludzi.",
+        "Drób – agresja wobec słabszych aż do zabicia (np. wyszarpywanie jelit przez powłoki brzuszne).",
+        "Zwierzęta w zoo: wzmożona wokalizacja, chodzenie w kółko w klatkach (kotowate), rytmiczne ruchy ciała (małpy, niedźwiedzie), kiwanie głową i szyją (żyrafy).",
+        "Owady społeczne (pszczoły, trzmiele): opijanie się miodem przed rójką, tańce i drgania odwłoka przy braku kontaktu z matką, chodzenie po ósemce i agresywne drgania odwłoka.",
+        "O popadaniu w stereotypie decyduje konstytucja psychofizyczna (typ silny/słaby, odporny, wrażliwy itd.) oraz wcześniejsze doświadczenia i przyzwyczajenie do stresu.",
+        "Behawioralne odreagowanie stresu: ucieczka, walka, drapanie, krzyk; gdy zwierzę nie może odreagować, powstaje behawior patologiczny (wymuszone stereotypie).",
+        "Adaptacja obejmuje szeroki zakres reakcji – od prostych regulacji homeostatycznych do skomplikowanych czynności systemowych różnych układów i narządów; organizm powinien umieć określić stan zagrożenia, przeanalizować sytuację i dostosować się.",
+        "Mózg jest genetycznie zaprogramowany na konkretną odpowiedź; nawarstwiona odpowiedź hormonalna działa na każdą komórkę organizmu, a wymuszone stereotypie chronią organizm przed zmianami wywołanymi nadmierną odpowiedzią hormonalną.",
+        "Stereotypie oralne psów obejmują też lizanie się aż do ostrych zapaleń skóry oraz żucie lub lizanie różnych przedmiotów."
+      ],
+      "images": [
+        {
+          "src": "img/tpc6/odpowiedz-na-zagrozenie.jpg",
+          "caption": "Rysunek 6.2. Odpowiedź organizmu na zagrożenie: czynnik zagrażający → „stan mózgu” (czynniki genetyczne, wcześniejsze doświadczenia) → odpowiedź hormonalna → odpowiedź behawioralna (norma lub stereotypia) → likwidacja źródła zagrożenia."
+        },
+        {
+          "src": "img/tpc6/autonarkotyzm.jpg",
+          "caption": "Rysunek 6.3. Błędne koło autonarkotyzmu (stereotypia polegająca na zadawaniu sobie bólu): powodowanie bólu → uwalnianie opioidów → doznanie przyjemności → sensytyzacja receptorów → dyskomfort psychofizyczny → ponowne powodowanie bólu."
+        },
+        {
+          "src": "img/tpc6/przyczyny-stereotypii.jpg",
+          "caption": "Przyczyny stereotypii (żywieniowe): rzadko organizowane opasy i nieodpowiedni skład paszy (konie, bydło); zbyt duża koncentracja składników odżywczych (konie, bydło, świnie); spadek udziału włókna surowego (konie, świnie, bydło); spadek ilości pokarmu, skrócenie czasu opasu, głód oraz zły poziom soli kamiennej (cielęta, świnie)."
+        },
+        {
+          "src": "img/tpc6/stereotypie-koni.jpg",
+          "caption": "Stereotypie koni: obgryzanie i żucie, połykanie powietrza, tkanie i kołysanie."
+        },
+        {
+          "src": "img/tpc6/stereotypie-swin.jpg",
+          "caption": "Stereotypie świń: żucie uwiązów, obgryzanie ogrodzenia, lizanie ścian, uderzanie o ogrodzenie."
+        },
+        {
+          "src": "img/tpc6/stereotypie-psow.jpg",
+          "caption": "Stereotypie psów: żucie kończyn, bieganie wkoło, bezruch, autoagresja."
+        }
+      ]
+    },
+    {
+      "heading": "Zwierzęta laboratoryjne, hierarchia, akty prawne",
+      "points": [
+        "Dobrostan zwierząt laboratoryjnych chronią komisje etyczne; Krajowa komisja etyczna ma siedzibę w Warszawie.",
+        "Inwazyjność doświadczenia ocenia się w skali 1–4; doświadczenia są zabronione, chyba że to niezbędna konieczność.",
+        "Reorganizacja hierarchii: dzikie konie i jelenie – kilka do kilkunastu miesięcy; drób – po dojrzałości płciowej; bydło – 12–18 miesięcy; świnie – dominacja już od urodzenia.",
+        "Walka o pozycję w stadzie: stres, agresja, straty, przyrosty słabsze o ok. 20%.",
+        "Akty prawne: Ustawa o ochronie zwierząt (21.08.1997), Ustawa o ochronie zdrowia zwierząt i zwalczaniu chorób zakaźnych (11.03.2004), rozporządzenia MRiRW z 2.09.2003, 18.09.2003, 15.02.2010, 28.06.2010, 28.04.2004 (ewidencja leczenia).",
+        "Zwierzę laboratoryjne – o znanych, ukierunkowanych właściwościach genetycznych, rozmnażane wyłącznie do badań i testów, pod kontrolą.",
+        "Doświadczenie musi mieć cel i ocenę korzyści poznawczych (nauka) lub utylitarnych (np. testy toksykologiczne nowych leków).",
+        "Dominacja utrudnia odłączanie osobników, tworzenie nowych grup technologicznych i przemieszczenia; walka o pozycję to też silne pobudzenie, stłoczenie i wzrost agresji.",
+        "Treść rozporządzeń MRiRW: 2.09.2003 – minimalne warunki utrzymywania gatunków zwierząt gospodarskich; 18.09.2003 – warunki weterynaryjne dla gospodarstw wprowadzających zwierzęta lub żywność pochodzenia zwierzęcego na rynek; 28.04.2004 – ewidencja leczenia zwierząt i dokumentacja lekarsko-weterynaryjna.",
+        "U świń dominacja zaczyna się już po urodzeniu, a zachowania te mają dużą trwałość; zwierzę laboratoryjne podlega określonym warunkom hodowli i rozmnażania i ma charakterystykę określającą jego przydatność do badań."
+      ]
+    },
+    {
+      "heading": "3. Pomoc przedlekarska – zasady",
+      "points": [
+        "Chore lub zranione zwierzę należy natychmiast otoczyć opieką; pomoc lekarza weterynarii odnotowuje się w książce leczenia.",
+        "Gospodarstwo musi mieć możliwość izolowania chorych zwierząt; chorym zapewnia się suche, wygodne podłoże ze ściółką.",
+        "Zabiegi ingerujące w organizm wykonują tylko uprawnieni – lekarze i technicy weterynarii.",
+        "Skracanie kłów u świń tylko przy poranieniu sutków macior; obcinanie ogonów tylko przy uszkodzeniach przez inne świnie – nie „na wszelki wypadek”.",
+        "Kastracja i obcinanie ogonów u świń – przed ukończeniem 7. dnia życia; po 7. dniu kastracja tylko w znieczuleniu i tylko przez lekarza weterynarii.",
+        "Pomoc przedlekarska ma usunąć zagrożenie życia, ograniczyć cierpienie i zapobiec pogłębieniu urazu; należy zachować spokój.",
+        "Monitoruje się parametry życiowe: oddechy, ciepłotę ciała, tętno.",
+        "Przed skracaniem kłów lub obcinaniem ogonów właściciel musi sprawdzić, czy poprawa warunków środowiskowych nie rozwiąże problemu; potrzebę kastracji rolnik zgłasza odpowiednio wcześnie.",
+        "Pomocy przedlekarskiej ma obowiązek udzielić każdy właściciel; pośpiech i panika mogą wyrządzić więcej szkody niż pożytku."
+      ]
+    },
+    {
+      "heading": "Parametry życiowe zwierząt",
+      "points": [
+        "Temperaturę najlepiej mierzyć w maksimach dobowych: 6:00–9:00 i 16:00–19:00; po wypadku, urazie, wychłodzeniu, operacji – co 15 minut.",
+        "Temperatura ciała: konie 37,5–38,0°C; bydło 37,5–39,0°C; owce i kozy 38,5–39,0°C; świnie 38,0–40,0°C; psy i koty 38,0–39,0°C.",
+        "Tętno mierzy się: koń – tętnica szczękowa zewnętrzna (wcięcie naczyniowe żuchwy); bydło – tętnica twarzowa przed mięśniem żwaczem; psy i koty – tętnica udowa; świnie – awaryjnie tętnica ogonowa.",
+        "Tętno bada się przez 60 s; u psa występuje fizjologiczna arytmia oddechowa.",
+        "Tętno/min: konie 30–45; bydło 50–80; owce, kozy 70–80; świnie 60–70; koty 120–140; psy 60–120; lisy 80–240; kanarki ok. 1000.",
+        "Oddechy/min (obserwacja klatki piersiowej): konie 8–16; bydło 10–25; owce, kozy 15–30; koty 20–30; świnie 15–20; psy 14–24.",
+        "U zwierząt ośrodek termoregulacji jest mniej doskonały niż u ludzi – występują fizjologiczne wahania temperatury.",
+        "U świń pomiar tętna utrudnia duże otłuszczenie.",
+        "Przyspieszenie oddechów wiąże się zwykle z przyspieszeniem akcji serca (i odwrotnie)."
+      ],
+      "images": [
+        {
+          "src": "img/tpc6/pomiar-temperatury.jpg",
+          "caption": "Pomiar temperatury wewnętrznej ciała termometrem (pod ogonem, w odbycie). Mierzymy w maksimach dobowych 6:00–9:00 i 16:00–19:00; po wypadku, urazie, wychłodzeniu, zabiegu – co 15 minut. Normy: konie 37,5–38,0°C, bydło 37,5–39,0°C, owce i kozy 38,5–39,0°C, świnie 38,0–40,0°C, psy i koty 38,0–39,0°C."
+        }
+      ]
+    },
+    {
+      "heading": "Apteczka weterynaryjna",
+      "points": [
+        "Sprzęt iniekcyjny: strzykawki 2, 5, 10, 20 ml; igły 0,5–1,2 mm.",
+        "Dojścia dożylne: rękawiczki, wenflony żółte 0,7 mm, niebieskie 0,8 mm, różowe 0,9 mm, plaster, staza, dezynfektant, golarka.",
+        "Opatrunki: podkład z ligniny, bandaże 5 cm i 10 cm, taśma typu flexus.",
+        "Dodatkowo: źródło białego światła, stetoskop, peany, nożyczki, cewnik, skalpel, pinceta; wlewy NaCl, glukoza 5%, PWE, roztwór Ringera, wężyki do kroplówek.",
+        "Środki odkażające: nadmanganian potasu, jodyna, woda utleniona.",
+        "Leki: antybiotyki i bakteriostatyki, sterydowe i niesterydowe przeciwzapalne, diuretyki, witaminy, makro- i mikroelementy, przeciwkrwotoczne, przeciwpasożytnicze, maść ichtiolowa, krople do oczu, środki do narkozy i eutanazji.",
+        "Strzykawki to insulinówki; do dojść dożylnych golarka lub żyletki; nożyczki ostro i tępo zakończone.",
+        "Opcjonalnie: igłotrzymacz, nici wchłanialne i niewchłanialne, sterylne rękawiczki; lekarz ma też podkłady jednorazowe, termometr, baterie, czytnik czipów, gumki; zestaw leków zależy od rodzaju pracy i zgłoszenia."
+      ],
+      "images": [
+        {
+          "src": "img/tpc6/peany.jpg",
+          "caption": "Peany – narzędzia z wyposażenia apteczki weterynaryjnej (obok źródła białego światła, stetoskopu, nożyczek ostro i tępo zakończonych, cewnika, skalpela i pincety)."
+        }
+      ]
+    },
+    {
+      "heading": "Pierwsza pomoc – krwotok, złamania, zadławienia",
+      "points": [
+        "Krwotok: odszukać źródło, uciskać opatrunkiem; nie zdejmować przyłożonej gazy, tylko dokładać kolejną.",
+        "Opaskę uciskową poluźnia się co 20 minut, by nie doszło do martwicy; przy dużej utracie krwi – płyn (najlepiej HES), leki przeciwwstrząsowe, transfuzja.",
+        "Złamanie zamknięte: unieruchomić zwierzę, wezwać lekarza z RTG lub przewieźć do przychodni.",
+        "Złamanie otwarte: tkanki przykryć mokrą gazą i zwilżać sterylnym 0,9% NaCl, by nie wyschły.",
+        "Zadławienia u dużych zwierząt (ziemniaki u świń, buraki u krów) – sondowanie: sonda przepycha ciało obce do żołądka i zostaje kilkanaście sekund, by upuścić gazy.",
+        "U psów i kotów sondowania nie wykonuje się w domu (wymaga laryngoskopu); ciało obce wyjmuje się kleszczykami/pincetą, w stanie ostrym potrząsa zwierzęciem trzymanym za tylne nogi głową w dół.",
+        "Przy krwotoku ocenia się głębokość rany i wielkość przeciętych naczyń; przy przerwaniu dużych naczyń gwałtownie spada ciśnienie; duże naczynie można zamknąć kleszczykami hemostatycznymi.",
+        "Tabela 6.6 (krwotok): narzędzia – peany, nożyczki, zestaw do szycia; sprzęt – lampa bezcieniowa lub źródło białego światła, golarka, staza uciskowa; materiały – gazy, wenflon, plaster, urządzenie do przetoczeń i wlewy, leki przeciwwstrząsowe, nici, rękawice, pole operacyjne.",
+        "Złamanie: przemieszczanie odłamków grozi przerwaniem naczyń lub nerwów; krwawienie przy złamaniu otwartym tamuje się uciskiem okolicznych tkanek. Tabela 6.7: lampa/źródło białego światła, stop box, RTG, staza uciskowa, nożyczki, gazy, 0,9% NaCl.",
+        "Sonda – sztywna gumowa rura, gładko zakończona, z otworami przy końcu; pomocnik sztywno trzyma głowę; wydobywającą się treść zbiera się do wiadra do oceny. Tabela 6.8: sonda żołądkowa dla bydła/świń, źródło białego światła, wiadro, pean, pinceta.",
+        "U psów i kotów sondowanie wymaga laryngoskopu i specjalistycznej sondy; w mniej radykalnej sytuacji lewa ręka pod klatką piersiową, głowa w dół, prawą ręką opukuje się płuca od strony grzbietu; następnie RTG w lecznicy.",
+        "Niektórych krwotoków nie da się zatamować inaczej niż opaską uciskową – zakłada się ją ostrożnie; przetoczenie krwi pochodzi od innego zwierzęcia.",
+        "Przy zadławieniu dużego zwierzęcia, jeśli stan nie wymaga natychmiastowej pomocy, wzywa się lekarza weterynarii; u psa/kota najpierw otwiera się szeroko pysk i szuka ciała obcego, a po udzieleniu pomocy monitoruje oddech."
+      ]
+    },
+    {
+      "heading": "Pierwsza pomoc – porody i przewód pokarmowy",
+      "points": [
+        "Porody z komplikacjami to ok. 10% porodów; ropny, krwisto-szary lub zielony wypływ – wezwać lekarza; nie uciskać brzucha i nie ciągnąć zapartych płodów.",
+        "Narzędzia porodowe: szczudło Kina, haki porodowe, haki oczodołowe, zawłoczki (ciężkie Sanda, lekkie Szylwera).",
+        "Krowa: sprawdzić ułożenie płodu, pociągać na zmianę za przednie nóżki; cielę nacierać słomą, pępowinę zdezynfekować i podwiązać, dać siarę; łożysko do 12 godzin – nie usuwać samodzielnie.",
+        "Locha: poród 25 min – 8 godz.; średnio 15 min między prosiętami; 30% prosiąt w położeniu pośladkowym; pępowina ucinana na ok. 5 cm; temperatura dla prosiąt 32–34°C; łożysko do 4 godz.; knurki kastruje się w ciągu 7 dni.",
+        "Owce: do kojca porodowego 3–4 dni przed porodem; pomoc potrzebna tylko w 3% porodów; łożysko do 12 godz.; w miocie średnio 2–3 jagnięta.",
+        "Suka: nie wkłada się rąk do kanału rodnego; drażni się pochwę (odruch Fergusona); zielony śluz = podejrzenie duszenia płodów → natychmiastowe cesarskie cięcie.",
+        "Konie: ostre niedyspozycje to np. morzysko lub ostre rozszerzenie żołądka – zawsze zagrożenie życia, zawsze wezwać lekarza.",
+        "Ostre wzdęcie żwacza – trokarowanie w lewym dole głodowym w kierunku prawego guza łokciowego; gaz wypuszczać wolno, z przerwami (przeciw wstrząsowi).",
+        "Biegunki i wymioty u młodych psów i kotów – zwykle choroba zakaźna (psy: parwowiroza, koronawiroza; koty: panleukopenia, kaliciviroza); przy ostrych wymiotach nic nie podawać do pyska.",
+        "Przy przenoszonym terminie poród wywołuje się farmakologicznie; gdy parcia ustają, nie naciska się na powłoki brzuszne; haki oczodołowe są tępe lub ostre.",
+        "Krowa: lekarz używa łańcuszków porodowych na kończyny i kleszczy w oczodołach cielęcia; słabe cielę można podnieść za kończyny, by wydalić płyny z dróg oddechowych; nieumiejętne usuwanie łożyska (urwanie kotyledonów) grozi skrwawieniem.",
+        "Locha: kanał rodny jest szeroki – można omacać prosię; przy zaparciu wpycha się je do macicy i odwraca przed kością łonową; prosiętom oczyszcza się pyszczek, dosadza do wymienia, ewentualnie przycina kiełki i podaje żelazo domięśniowo.",
+        "Owca: pomocy udziela osoba o bardzo szczupłej ręce; jagnię wpycha się do macicy i odwraca, zabezpieczając kopytka, by nie uszkodziły macicy.",
+        "Suka: część suk nie urodzi samodzielnie przez za duże płody (dymorfizm); worek owodniowy przerywa się, płyn z dróg oddechowych usuwa gruszką, pępowinę podwiązuje; szczenięta w zamartwicy masuje się kilkanaście minut.",
+        "Koń: przy podejrzeniu gazu w żołądku można (mając sprzęt i umiejętności) sondować przez nos.",
+        "Problemy trawienne krów: ostre wzdęcie żwacza, przeładowanie żwacza, zatkanie ksiąg, zapalenie czepca, zapalenie trawieńca, przemieszczenie i skręt trawieńca; miejsce trokarowania się goli i dezynfekuje.",
+        "Choroby biegunkowe młodych psów i kotów zabijają przez odwodnienie i utratę elektrolitów – potrzebne dojście dożylne, często surowica; przy silnej biegunce u psa można podać loperamid lub smectę; zawsze kontroluje się temperaturę. Tabela 6.9: termometr, wiadro/miska, sonda nosowo-żołądkowa, trokar, pean, pinceta, podkłady higieniczne.",
+        "Przy ostrych wymiotach nie podaje się nic do pyska, aby nie prowokować torsji i nie pogłębiać odwodnienia; u owcy zabezpiecza się kopytka jagnięcia, by nie spowodowały pęknięcia macicy."
+      ]
+    },
+    {
+      "heading": "Słownik (z kursu)",
+      "points": [
+        "Dobrostan zwierząt – Stan fizyczny i psychiczny zwierzęcia w odniesieniu do warunków, w których żyje i umiera; harmonia organizmu ze środowiskiem. Deklaracja praw zwierząt UNESCO – 1978; pierwsze polskie rozporządzenie o ochronie zwierząt – 1928.",
+        "Stereotypie – Wskaźnik złego dobrostanu: proste, zrytualizowane, często powtarzane czynności bez celu, niezaspokajające potrzeb fizjologicznych."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Trzy grupy czynników pielęgnacyjnych",
+      "back": "Pośrednie (utrzymanie, żywienie, profilaktyka, zabiegi okresowe), bezpośrednie i identyfikacja."
+    },
+    {
+      "front": "Metody identyfikacji zwierząt",
+      "back": "Tatuowanie, karbowanie, wypalanie, kolczyki, czipowanie, książeczki zdrowia, paszporty."
+    },
+    {
+      "front": "Dlaczego kolczyki są niepolecane u świń?",
+      "back": "Świnie usuwają je sobie nawzajem z uszu."
+    },
+    {
+      "front": "Które świnie się karbuje, a które tatuuje?",
+      "back": "Karbuje się rasy białe, tatuuje rasy kolorowe."
+    },
+    {
+      "front": "W którym dniu życia tatuuje się i karbuje prosięta?",
+      "back": "W 21. dniu życia (z określeniem liczby sutków)."
+    },
+    {
+      "front": "Czym poskramia się świnie?",
+      "back": "Poskromem, pętlą ryjową lub płotkiem."
+    },
+    {
+      "front": "Standardowe szczepienia dorosłych świń",
+      "back": "Różyca, kolibakterioza, parwowiroza."
+    },
+    {
+      "front": "Szczepienia warchlaków",
+      "back": "Mykoplazmoza, pleuropneumonia, adenomatoza."
+    },
+    {
+      "front": "Po ilu tygodniach powtarza się nowe szczepienie u świń?",
+      "back": "Po 4 tygodniach."
+    },
+    {
+      "front": "Kiedy lochę przenosi się na porodówkę?",
+      "back": "2 tygodnie przed wykotem."
+    },
+    {
+      "front": "Po co lochom podaje się otręby przed porodem?",
+      "back": "Ułatwienie wypróżnień i profilaktyka MMA."
+    },
+    {
+      "front": "Dlaczego prosiętom podaje się żelazo?",
+      "back": "Profilaktyka anemii prosiąt."
+    },
+    {
+      "front": "Czym poskramia się konia?",
+      "back": "Dutką kleszczową lub pętlową na górnej wardze."
+    },
+    {
+      "front": "Rzucadło berlińskie – zastosowanie",
+      "back": "Przymusowe położenie konia."
+    },
+    {
+      "front": "Ile razy dziennie karmi się konia?",
+      "back": "3 razy; poi się przed karmieniem."
+    },
+    {
+      "front": "Na jakiej wysokości wiesza się wiadro z wodą dla konia?",
+      "back": "30 cm nad podłogą."
+    },
+    {
+      "front": "Minimalny czas ruchu i kontaktu konia z innymi zwierzętami",
+      "back": "Godzina dziennie."
+    },
+    {
+      "front": "Jak często korekcja kopyt konia?",
+      "back": "Co 4–6 tygodni."
+    },
+    {
+      "front": "Kiedy podkuwanie konia jest obowiązkowe?",
+      "back": "Przy chodzeniu po twardym podłożu i chorobach kopyt."
+    },
+    {
+      "front": "Jak często tarnikuje się zęby konia?",
+      "back": "Ok. raz na pół roku."
+    },
+    {
+      "front": "Szczepienia koni – częstotliwość",
+      "back": "Grypa 2× w roku, tężec raz na 4 lata, wścieklizna i ronienie zakaźne co roku."
+    },
+    {
+      "front": "Odrobaczanie konia – częstotliwość",
+      "back": "2–4 razy w roku."
+    },
+    {
+      "front": "Gdzie wypala się piętno rasowe u konia?",
+      "back": "Na lewym udzie."
+    },
+    {
+      "front": "Jak znakuje się konie siwe?",
+      "back": "Wyłącznie przez wypalanie."
+    },
+    {
+      "front": "Gdzie wszczepia się czip koniowi?",
+      "back": "Pod skórę na szyi, po lewej stronie."
+    },
+    {
+      "front": "Do którego dnia znakuje się trwale jagnięta?",
+      "back": "Do 30. dnia życia (karbowanie lub kolczykowanie)."
+    },
+    {
+      "front": "Kiedy i jak obcina się ogony jagniętom?",
+      "back": "W 10–14 dniu życia, emaskulatorem między 3. a 4. kręgiem."
+    },
+    {
+      "front": "Fe i Se u jagniąt – cel",
+      "back": "Zapobieganie anemii i chorobie białych mięśni."
+    },
+    {
+      "front": "Korekcja racic u tryków",
+      "back": "Raz na kwartał."
+    },
+    {
+      "front": "Kąpiele owiec po strzyży",
+      "back": "Pierwsza tydzień po strzyżeniu, druga 2 tygodnie po pierwszej."
+    },
+    {
+      "front": "Kiedy odbywa się stanówka owiec?",
+      "back": "Na przełomie czerwca i lipca, trwa 6 tygodni."
+    },
+    {
+      "front": "Kiedy dezynfekuje się owczarnię?",
+      "back": "We wrześniu."
+    },
+    {
+      "front": "Przedzdajanie – cel",
+      "back": "Usunięcie pierwszych strug mleka (najwięcej bakterii) i ocena barwy i jakości mleka."
+    },
+    {
+      "front": "Czego unikać przy doju?",
+      "back": "Doju ślepego i pustodoju."
+    },
+    {
+      "front": "Kiedy krowa osiąga szczyt laktacji?",
+      "back": "2 miesiące po wycieleniu."
+    },
+    {
+      "front": "Profilaktyka ketozy poporodowej",
+      "back": "Przed wycieleniem zmniejszenie pasz treściwych na rzecz objętościowych."
+    },
+    {
+      "front": "Dekornizacja cieląt – termin",
+      "back": "2–3 tydzień życia."
+    },
+    {
+      "front": "Kiedy korekcja profilaktyczna racic u krów?",
+      "back": "Na przełomie lutego i marca."
+    },
+    {
+      "front": "BVD",
+      "back": "Zakaźna biegunka bydła."
+    },
+    {
+      "front": "IBR",
+      "back": "Zakaźne zapalenie nosa i tchawicy bydła."
+    },
+    {
+      "front": "Obowiązkowe szczepienie psów",
+      "back": "Coroczne szczepienie przeciw wściekliźnie."
+    },
+    {
+      "front": "Pierwsze szczepienie szczeniąt",
+      "back": "Przeciw nosówce i parwowirozie."
+    },
+    {
+      "front": "Jak często odrobacza się psy?",
+      "back": "Raz na kwartał."
+    },
+    {
+      "front": "Kiedy pierwsze szczepienie kota?",
+      "back": "W 6–8 tygodniu życia, powtórka po miesiącu."
+    },
+    {
+      "front": "Podstawowe szczepienie kota",
+      "back": "Panleukopenia, kaliciviroza, herpeswiroza typu I."
+    },
+    {
+      "front": "Odrobaczanie kotów domowych",
+      "back": "Raz w roku, najlepiej po badaniu kału."
+    },
+    {
+      "front": "Dobrostan – definicja",
+      "back": "Stan zdrowia psychicznego i fizycznego w warunkach harmonii ustroju ze środowiskiem."
+    },
+    {
+      "front": "Do kiedy zwierzęta były w polskim prawie rzeczami?",
+      "back": "Do 1997 r."
+    },
+    {
+      "front": "Ustawa o ochronie zwierząt – data",
+      "back": "21 sierpnia 1997 r."
+    },
+    {
+      "front": "Pierwsza deklaracja praw zwierząt UNESCO",
+      "back": "1978 r."
+    },
+    {
+      "front": "Pięć wolności zwierząt",
+      "back": "Od głodu i pragnienia, od dyskomfortu, od bólu/urazów/chorób, od strachu i stresu, wyrażanie normalnego behawioru."
+    },
+    {
+      "front": "Mięso PSE",
+      "back": "Blade, miękkie i wodniste – skutek stresu przedubojowego (spadek glikogenu)."
+    },
+    {
+      "front": "Stereotypie",
+      "back": "Proste, zrytualizowane, powtarzane czynności bez celu – wskaźnik dobrostanu."
+    },
+    {
+      "front": "Łykawość i tkanie – u jakiego gatunku?",
+      "back": "U koni (łykawość – oralna, tkanie – motoryczna)."
+    },
+    {
+      "front": "Stereotypie drobiu oparte o agresję",
+      "back": "Kanibalizm, zjadanie piór."
+    },
+    {
+      "front": "Autonarkotyzm",
+      "back": "Stereotypia polegająca na zadawaniu sobie bólu (uwalnianie opioidów)."
+    },
+    {
+      "front": "Skala inwazyjności doświadczeń na zwierzętach",
+      "back": "1–4."
+    },
+    {
+      "front": "W jakim wieku bydło reorganizuje hierarchię stada?",
+      "back": "12–18 miesięcy."
+    },
+    {
+      "front": "O ile słabsze przyrosty przy walce o hierarchię?",
+      "back": "O ok. 20%."
+    },
+    {
+      "front": "Kto może wykonywać zabiegi ingerujące w organizm zwierzęcia?",
+      "back": "Lekarze i technicy weterynarii."
+    },
+    {
+      "front": "Do którego dnia życia kastracja i obcinanie ogonów u prosiąt?",
+      "back": "Przed ukończeniem 7. dnia życia."
+    },
+    {
+      "front": "Kastracja prosiąt po 7. dniu życia",
+      "back": "Tylko w znieczuleniu i tylko przez lekarza weterynarii."
+    },
+    {
+      "front": "Kiedy mierzyć temperaturę (maksima dobowe)?",
+      "back": "6:00–9:00 i 16:00–19:00."
+    },
+    {
+      "front": "Jak często mierzyć temperaturę po urazie/operacji?",
+      "back": "Co 15 minut."
+    },
+    {
+      "front": "Temperatura ciała konia",
+      "back": "37,5–38,0°C."
+    },
+    {
+      "front": "Temperatura ciała bydła",
+      "back": "37,5–39,0°C."
+    },
+    {
+      "front": "Temperatura ciała świni",
+      "back": "38,0–40,0°C."
+    },
+    {
+      "front": "Temperatura ciała owiec i kóz",
+      "back": "38,5–39,0°C."
+    },
+    {
+      "front": "Tętno konia",
+      "back": "30–45/min."
+    },
+    {
+      "front": "Tętno bydła",
+      "back": "50–80/min."
+    },
+    {
+      "front": "Tętno kota",
+      "back": "120–140/min."
+    },
+    {
+      "front": "Gdzie mierzy się tętno u bydła?",
+      "back": "Na tętnicy twarzowej, przed przednią krawędzią mięśnia żwacza."
+    },
+    {
+      "front": "Gdzie mierzy się tętno u psa i kota?",
+      "back": "Na tętnicy udowej."
+    },
+    {
+      "front": "Oddechy konia na minutę",
+      "back": "8–16."
+    },
+    {
+      "front": "Oddechy bydła na minutę",
+      "back": "10–25."
+    },
+    {
+      "front": "Kolory wenflonów 0,7 / 0,8 / 0,9 mm",
+      "back": "Żółty / niebieski / różowy."
+    },
+    {
+      "front": "Co ile minut poluźniać opaskę uciskową?",
+      "back": "Co 20 minut."
+    },
+    {
+      "front": "Czy wymieniać przesiąkniętą gazę przy krwotoku?",
+      "back": "Nie – dokłada się kolejną."
+    },
+    {
+      "front": "Czym zwilżać tkanki przy złamaniu otwartym?",
+      "back": "Sterylnym 0,9% NaCl (mokra gaza)."
+    },
+    {
+      "front": "Sondowanie – kiedy?",
+      "back": "Przy ostrym zadławieniu dużych zwierząt (np. ziemniak u świni, burak u krowy)."
+    },
+    {
+      "front": "Odsetek porodów z komplikacjami u zwierząt",
+      "back": "Ok. 10%."
+    },
+    {
+      "front": "Do kiedy krowa powinna wydalić łożysko?",
+      "back": "Do 12 godzin po porodzie."
+    },
+    {
+      "front": "Czas porodu lochy",
+      "back": "25 min – 8 godz.; średnio 15 min między prosiętami."
+    },
+    {
+      "front": "Temperatura dla nowonarodzonych prosiąt",
+      "back": "32–34°C."
+    },
+    {
+      "front": "Do kiedy locha wydala łożysko?",
+      "back": "Do 4 godzin po porodzie."
+    },
+    {
+      "front": "Odsetek porodów owiec wymagających pomocy",
+      "back": "3%."
+    },
+    {
+      "front": "Odruch Fergusona",
+      "back": "Wzmożenie parcia przez drażnienie zakończeń nerwowych w pochwie (pomoc porodowa u suki)."
+    },
+    {
+      "front": "Gdzie trokaruje się żwacz?",
+      "back": "W lewym dole głodowym, w kierunku prawego guza łokciowego."
+    },
+    {
+      "front": "Najgroźniejsze choroby biegunkowe młodych psów",
+      "back": "Parwowiroza i koronawiroza."
+    },
+    {
+      "front": "Tkanie u koni",
+      "back": "Przestępowanie z nogi na nogę – stereotypia motoryczna."
+    },
+    {
+      "front": "Stereotypie psów oparte o agresję (przykłady)",
+      "back": "Samoagresja, odgryzanie własnych kończyn, warczenie na widok własnych tylnych łap."
+    },
+    {
+      "front": "Co przedstawia ilustracja i do czego służy?",
+      "back": "Kolczyki (znaczniki uszne) z numerem identyfikacyjnym – trwałe znakowanie zwierząt gospodarskich, np. kolczykowanie bydła.",
+      "img": "img/tpc6/kolczyki.jpg"
+    },
+    {
+      "front": "Jak nazywają się narzędzia ze zdjęcia, wymienione w składzie apteczki weterynaryjnej?",
+      "back": "Peany.",
+      "img": "img/tpc6/peany.jpg"
+    },
+    {
+      "front": "Dobrostan zwierząt",
+      "back": "Stan fizyczny i psychiczny zwierzęcia w odniesieniu do warunków, w których żyje i umiera; harmonia organizmu ze środowiskiem. Deklaracja praw zwierząt UNESCO – 1978; pierwsze polskie rozporządzenie o ochronie zwierząt – 1928."
+    },
+    {
+      "front": "Wymagania dla 5 wolności (Rada Europy) – co trzeba zapewnić?",
+      "back": "Głód/pragnienie → świeża woda i pasza; dyskomfort → miejsce wypoczynku, schronienie, optymalne warunki; ból/choroby → prewencja, profilaktyka, szybka diagnostyka, leczenie; strach/stres → eliminacja stresorów; normalny behawior → przestrzeń życiowa i właściwy skład socjalny grupy."
+    },
+    {
+      "front": "Behawioralne sposoby odreagowania stresu",
+      "back": "Ucieczka, walka, drapanie, krzyk."
+    },
+    {
+      "front": "Zwierzę laboratoryjne – definicja",
+      "back": "Zwierzę o znanych, ukierunkowanych właściwościach genetycznych, rozmnażane wyłącznie do badań naukowych i testów, pod kontrolą."
+    },
+    {
+      "front": "Dlaczego nie wolno samodzielnie usuwać łożyska krowy?",
+      "back": "Urwanie kotyledonów łożyskowych może spowodować skrwawienie się krowy."
+    },
+    {
+      "front": "Postępowanie przy zaparciu prosięcia lub jagnięcia",
+      "back": "Wpycha się noworodka do macicy i próbuje odwrócić (u lochy przed kością łonową); u owcy zabezpiecza się kopytka."
+    },
+    {
+      "front": "Przyczyna śmierci w parwowirozie/panleukopenii i postępowanie",
+      "back": "Odwodnienie i utrata elektrolitów; dojście dożylne, często surowica; przy ostrych wymiotach nic do pyska; u psa przy biegunce loperamid lub smecta."
+    },
+    {
+      "front": "Problemy przewodu pokarmowego krów (ostre)",
+      "back": "Ostre wzdęcie żwacza, przeładowanie żwacza, zatkanie ksiąg, zapalenie czepca, zapalenie trawieńca, przemieszczenie i skręt trawieńca."
+    },
+    {
+      "front": "Stereotypie zwierząt w ogrodach zoologicznych",
+      "back": "Wzmożona wokalizacja, chodzenie w kółko (kotowate), rytmiczne ruchy ciała (małpy, niedźwiedzie), kiwanie głową i szyją (żyrafy)."
+    },
+    {
+      "front": "Wskaźniki bezpośrednie (fizjologiczne) dobrostanu – Tabela 6.2",
+      "back": "Poziom hormonów stresowych, poziom białek ostrej fazy, wskaźniki biochemiczne i hematologiczne, immunokompetencja zwierzęcia, zdolność do rozrodu."
+    },
+    {
+      "front": "Wskaźniki uzupełniające dobrostanu – Tabela 6.2",
+      "back": "Zoohigieniczne (temperatura, wilgotność, ruch powietrza, sprawność wentylacji, hałas, szkodliwe gazy i pyły), gęstość obsady, rodzaj podłoża, oświetlenie, sprzęt, skład socjalny i hierarchia stadna, technopatie."
+    },
+    {
+      "front": "Tętno/min: owce i kozy, świnie, psy",
+      "back": "Owce, kozy 70–80; świnie 60–70; psy 60–120 (lisy 80–240, kanarki ok. 1000)."
+    },
+    {
+      "front": "Oddechy/min: owce i kozy, świnie, psy, koty",
+      "back": "Owce, kozy 15–30; świnie 15–20; psy 14–24; koty 20–30."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Prosięta tatuuje się i karbuje w:",
+      "options": [
+        "21. dniu życia",
+        "1. dniu życia",
+        "7. dniu życia",
+        "42. dniu życia"
+      ],
+      "answer": 0,
+      "explain": "Tatuowanie i karbowanie wykonuje się w dwudziestym pierwszym dniu życia."
+    },
+    {
+      "q": "Karbowanie stosuje się głównie u świń:",
+      "options": [
+        "ras kolorowych",
+        "dzików",
+        "knurów rozpłodowych powyżej 2 lat",
+        "ras białych"
+      ],
+      "answer": 3,
+      "explain": "Karbuje się głównie białe rasy, a tatuuje rasy kolorowe."
+    },
+    {
+      "q": "Standardowy cykl szczepień dorosłych świń obejmuje:",
+      "options": [
+        "wściekliznę, tężec i grypę",
+        "nosówkę i parwowirozę",
+        "różycę, kolibakteriozę i parwowirozę",
+        "BVD i IBR"
+      ],
+      "answer": 2,
+      "explain": "W standardowym cyklu szczepień dorosłych świń jest różyca, kolibakterioza i parwowiroza."
+    },
+    {
+      "q": "Lochę przenosi się na porodówkę na:",
+      "options": [
+        "2 dni przed wykotem",
+        "2 tygodnie przed wykotem",
+        "6 tygodni przed wykotem",
+        "dzień porodu"
+      ],
+      "answer": 1,
+      "explain": "Na 2 tygodnie przed wykotem oddziela się lochę i przenosi na porodówkę."
+    },
+    {
+      "q": "Prosiętom podaje się profilaktycznie żelazo, aby zapobiec:",
+      "options": [
+        "chorobie białych mięśni",
+        "anemii prosiąt",
+        "krzywicy",
+        "MMA"
+      ],
+      "answer": 1,
+      "explain": "Żelazo podaje się prosiętom, aby nie rozwinęła się anemia prosiąt."
+    },
+    {
+      "q": "Wiadro do pojenia konia powinno znajdować się:",
+      "options": [
+        "30 cm nad podłogą",
+        "na podłodze",
+        "100 cm nad podłogą",
+        "60 cm nad podłogą"
+      ],
+      "answer": 0,
+      "explain": "Wiadro znajduje się zawsze 30 cm nad podłogą."
+    },
+    {
+      "q": "Korekcję kopyt konia wykonuje się regularnie co:",
+      "options": [
+        "1 tydzień",
+        "6 miesięcy",
+        "rok",
+        "4–6 tygodni"
+      ],
+      "answer": 3,
+      "explain": "Rozczyszczanie, werkowanie wykonuje się co 4–6 tygodni."
+    },
+    {
+      "q": "Konia szczepi się przeciw tężcowi:",
+      "options": [
+        "2 razy w roku",
+        "co roku",
+        "raz na 4 lata",
+        "raz w życiu"
+      ],
+      "answer": 2,
+      "explain": "Konia szczepi się raz na 4 lata w kierunku tężca."
+    },
+    {
+      "q": "Konie siwe znakuje się:",
+      "options": [
+        "wyłącznie przez wymrażanie",
+        "tylko kolczykiem",
+        "wyłącznie przez wypalanie",
+        "przez karbowanie uszu"
+      ],
+      "answer": 2,
+      "explain": "Siwe konie trzeba tylko i wyłącznie wypalać."
+    },
+    {
+      "q": "Czip elektroniczny umieszcza się koniowi:",
+      "options": [
+        "w prawym uchu",
+        "pod skórą na szyi po lewej stronie",
+        "na prawym udzie",
+        "pod skórą na grzbiecie"
+      ],
+      "answer": 1,
+      "explain": "Czipy umiejscawia się na szyi pod skórą, po lewej stronie."
+    },
+    {
+      "q": "Ogony jagniętom obcina się:",
+      "options": [
+        "w 10–14 dniu życia",
+        "w 1–2 dniu życia",
+        "w 30–40 dniu życia",
+        "po odsadzeniu"
+      ],
+      "answer": 0,
+      "explain": "Ogony jagniętom ucina się od 10 do 14 dnia życia."
+    },
+    {
+      "q": "Drugą kąpiel owiec po strzyży wykonuje się:",
+      "options": [
+        "dzień po pierwszej",
+        "tydzień po strzyży",
+        "miesiąc po strzyży",
+        "2 tygodnie po pierwszej"
+      ],
+      "answer": 3,
+      "explain": "Pierwsza kąpiel tydzień po strzyżeniu, druga 2 tygodnie po pierwszej."
+    },
+    {
+      "q": "Stanówka owiec odbywa się na przełomie:",
+      "options": [
+        "stycznia i lutego",
+        "września i października",
+        "listopada i grudnia",
+        "czerwca i lipca"
+      ],
+      "answer": 3,
+      "explain": "Stanówka trwająca 6 tygodni odbywa się na przełomie czerwca i lipca."
+    },
+    {
+      "q": "Przedzdajanie polega na:",
+      "options": [
+        "masażu wymienia po udoju",
+        "dezynfekcji strzyków po doju",
+        "usunięciu pierwszych strug mleka i ocenie jego jakości",
+        "zakładaniu kubków udojowych"
+      ],
+      "answer": 2,
+      "explain": "Przedzdajanie to spuszczenie pierwszych strug mleka zawierających najwięcej bakterii."
+    },
+    {
+      "q": "Krowa osiąga szczyt laktacji:",
+      "options": [
+        "tydzień po wycieleniu",
+        "2 miesiące po wycieleniu",
+        "6 miesięcy po wycieleniu",
+        "tuż przed zasuszeniem"
+      ],
+      "answer": 1,
+      "explain": "Krowa osiąga szczyt laktacji dwa miesiące po wycieleniu."
+    },
+    {
+      "q": "Aby zapobiec ketozie poporodowej, przed wycieleniem:",
+      "options": [
+        "zmniejsza się udział pasz treściwych na rzecz objętościowych",
+        "zwiększa się udział pasz treściwych",
+        "ogranicza się pojenie",
+        "podaje się wyłącznie kiszonkę z kukurydzy"
+      ],
+      "answer": 0,
+      "explain": "Przed wycieleniem zmniejsza się ilość pasz treściwych na korzyść objętościowych."
+    },
+    {
+      "q": "Dekornizację cieląt przeprowadza się:",
+      "options": [
+        "między 2 a 3 tygodniem życia",
+        "w pierwszym dniu życia",
+        "w 6 miesiącu życia",
+        "po pierwszym wycieleniu"
+      ],
+      "answer": 0,
+      "explain": "Dekornizację wykonuje się między 2 a 3 tygodniem życia."
+    },
+    {
+      "q": "Skrót IBR oznacza:",
+      "options": [
+        "zakaźną biegunkę bydła",
+        "gąbczastą encefalopatię bydła",
+        "białaczkę bydła",
+        "zakaźne zapalenie nosa i tchawicy bydła"
+      ],
+      "answer": 3,
+      "explain": "IBR to zakaźne zapalenie nosa i tchawicy bydła."
+    },
+    {
+      "q": "Obowiązkowe ustawowo szczepienie psów dotyczy:",
+      "options": [
+        "nosówki",
+        "parwowirozy",
+        "wścieklizny",
+        "leptospirozy"
+      ],
+      "answer": 2,
+      "explain": "Ustawa nakazuje coroczne szczepienie psów na wściekliznę."
+    },
+    {
+      "q": "Podstawowe szczepienie kota obejmuje:",
+      "options": [
+        "wściekliznę, tężec i grypę",
+        "panleukopenię, kalicivirozę i herpeswirozę",
+        "nosówkę i parwowirozę",
+        "kaszel kenelowy i leptospirozę"
+      ],
+      "answer": 1,
+      "explain": "Podstawowe szczepienie kota obejmuje panleukopenię, kalicivirozę oraz herpesvirozę typu I."
+    },
+    {
+      "q": "Ustawa o ochronie zwierząt pochodzi z:",
+      "options": [
+        "11 marca 2004 r.",
+        "21 sierpnia 1997 r.",
+        "1928 r.",
+        "1864 r."
+      ],
+      "answer": 1,
+      "explain": "Obowiązuje Ustawa z dnia 21 sierpnia 1997 o ochronie zwierząt."
+    },
+    {
+      "q": "Mięso PSE to mięso:",
+      "options": [
+        "blade, miękkie i wodniste",
+        "ciemne, twarde i suche",
+        "marmurkowe",
+        "o podwyższonym pH"
+      ],
+      "answer": 0,
+      "explain": "Wskutek stresu przedubojowego mięso staje się blade, miękkie i wodniste (PSE)."
+    },
+    {
+      "q": "Łykawość u koni to przykład stereotypii:",
+      "options": [
+        "motorycznej",
+        "wokalnej",
+        "opartej o agresję",
+        "oralnej"
+      ],
+      "answer": 3,
+      "explain": "Połykanie powietrza (łykawość) to stereotypia oralna."
+    },
+    {
+      "q": "Kanibalizm i zjadanie piór to stereotypie występujące u:",
+      "options": [
+        "koni",
+        "bydła",
+        "drobiu",
+        "owiec"
+      ],
+      "answer": 2,
+      "explain": "U drobiu stereotypie oparte o agresję to kanibalizm i zjadanie piór."
+    },
+    {
+      "q": "Bydło zaczyna reorganizować hierarchię stada w wieku:",
+      "options": [
+        "1–2 miesięcy",
+        "3–4 lat",
+        "12–18 miesięcy",
+        "zaraz po urodzeniu"
+      ],
+      "answer": 2,
+      "explain": "Bydło zaczyna reorganizować stado w wieku 12–18 miesięcy."
+    },
+    {
+      "q": "Kastrację prosiąt bez znieczulenia można przeprowadzić:",
+      "options": [
+        "do 21. dnia życia",
+        "przed ukończeniem 7. dnia życia",
+        "do odsadzenia",
+        "w dowolnym wieku"
+      ],
+      "answer": 1,
+      "explain": "Po 7 dniu życia kastracja możliwa tylko po znieczuleniu i przez lekarza weterynarii."
+    },
+    {
+      "q": "Skracanie kłów u prosiąt jest dopuszczalne:",
+      "options": [
+        "gdy zauważono poranienie sutków macior",
+        "zawsze profilaktycznie",
+        "tylko u loszek",
+        "tylko w gospodarstwach ekologicznych"
+      ],
+      "answer": 0,
+      "explain": "Skracanie kłów dopuszczalne jest tylko po zauważeniu poranienia sutków macior."
+    },
+    {
+      "q": "Fizjologiczna temperatura wewnętrzna ciała konia wynosi:",
+      "options": [
+        "38,5–39,0°C",
+        "38,0–40,0°C",
+        "36,0–36,6°C",
+        "37,5–38,0°C"
+      ],
+      "answer": 3,
+      "explain": "Temperatura ciała konia wynosi 37,5–38,0°C."
+    },
+    {
+      "q": "Fizjologiczna temperatura wewnętrzna ciała świni wynosi:",
+      "options": [
+        "37,5–38,0°C",
+        "36,5–37,0°C",
+        "40,5–41,5°C",
+        "38,0–40,0°C"
+      ],
+      "answer": 3,
+      "explain": "Temperatura ciała świń wynosi 38,0–40,0°C."
+    },
+    {
+      "q": "Prawidłowe tętno konia wynosi:",
+      "options": [
+        "60–70 uderzeń/min",
+        "120–140 uderzeń/min",
+        "30–45 uderzeń/min",
+        "80–240 uderzeń/min"
+      ],
+      "answer": 2,
+      "explain": "Prawidłowe tętno konia wynosi 30–45 na minutę."
+    },
+    {
+      "q": "U bydła tętno bada się na tętnicy:",
+      "options": [
+        "udowej",
+        "twarzowej",
+        "szczękowej zewnętrznej",
+        "szyjnej"
+      ],
+      "answer": 1,
+      "explain": "U bydła mierzy się tętno na tętnicy twarzowej przed mięśniem żwaczem."
+    },
+    {
+      "q": "Prawidłowa liczba oddechów u bydła wynosi:",
+      "options": [
+        "10–25/min",
+        "8–16/min",
+        "40–60/min",
+        "2–5/min"
+      ],
+      "answer": 0,
+      "explain": "U bydła prawidłowa liczba oddechów to 10–25 na minutę."
+    },
+    {
+      "q": "Opaskę uciskową przy krwotoku należy poluźniać co:",
+      "options": [
+        "20 minut",
+        "5 minut",
+        "2 godziny",
+        "12 godzin"
+      ],
+      "answer": 0,
+      "explain": "Opaskę należy poluźniać co dwadzieścia minut, aby nie doszło do martwicy."
+    },
+    {
+      "q": "Odsłonięte tkanki przy złamaniu otwartym zwilża się:",
+      "options": [
+        "jodyną",
+        "wodą utlenioną",
+        "spirytusem",
+        "sterylnym roztworem 0,9% NaCl"
+      ],
+      "answer": 3,
+      "explain": "Mokrą gazę zwilża się regularnie sterylnym roztworem 0,9% NaCl."
+    },
+    {
+      "q": "Krowa powinna wydalić łożysko w ciągu:",
+      "options": [
+        "1 godziny",
+        "3 dni",
+        "12 godzin po porodzie",
+        "tygodnia"
+      ],
+      "answer": 2,
+      "explain": "Krowa powinna wydalić łożysko do dwunastu godzin po porodzie."
+    },
+    {
+      "q": "Nowonarodzonym prosiętom należy zapewnić temperaturę:",
+      "options": [
+        "18–20°C",
+        "32–34°C",
+        "24–26°C",
+        "38–40°C"
+      ],
+      "answer": 1,
+      "explain": "Prosiętom zapewnia się temperaturę 32–34°C."
+    },
+    {
+      "q": "Ostre wzdęcie żwacza wymaga zabiegu:",
+      "options": [
+        "sondowania przez nos",
+        "trokarowania w lewym dole głodowym",
+        "cesarskiego cięcia",
+        "trokarowania w prawym dole głodowym"
+      ],
+      "answer": 1,
+      "explain": "Trokaruje się w lewym dole głodowym, kierując trokar w stronę prawego guza łokciowego."
+    },
+    {
+      "q": "Przy ostrym zadławieniu krowy burakiem zabiegiem ratującym życie jest:",
+      "options": [
+        "sondowanie",
+        "trokarowanie",
+        "podanie środka przeczyszczającego",
+        "zakładanie opaski uciskowej"
+      ],
+      "answer": 0,
+      "explain": "Zabiegiem ratującym życie przy zadławieniu ostrym jest sondowanie."
+    },
+    {
+      "q": "Pomoc porodowa u owiec jest potrzebna w około:",
+      "options": [
+        "10% porodów",
+        "30% porodów",
+        "50% porodów",
+        "3% porodów"
+      ],
+      "answer": 3,
+      "explain": "Pomoc porodowa u owiec zdarza się tylko w 3% porodów."
+    },
+    {
+      "q": "Warczenie na widok własnych tylnych łap to stereotypia występująca u:",
+      "options": [
+        "koni",
+        "świń",
+        "bydła",
+        "psów"
+      ],
+      "answer": 3,
+      "explain": "Warczenie na widok własnych tylnych łap to stereotypia psów oparta o agresję."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Wskaż rodzaje identyfikacji zwierząt.",
+      "options": [
+        "Czipowanie.",
+        "Trymowanie.",
+        "Podkuwanie.",
+        "Tarnikowanie."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDla zapobiegania ... i chorobie białych mięśni u owcy podajemy Fe i Se.",
+      "options": [
+        "alergii",
+        "anemii"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKolczyki są często polecaną formą identyfikacji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż witaminy podawane owcom, wspomagające wzrost.",
+      "options": [
+        "A",
+        "D",
+        "E",
+        "B"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDzięki ... uszu z daleka możemy rozpoznać konkretne zwierzę.",
+      "options": [
+        "karbowaniu",
+        "czipowaniu"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nLekarze najczęściej badają konie w poskromach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do istotnych zabiegów pielęgnacyjnych świń zaliczamy:",
+      "options": [
+        "mycie.",
+        "znakowanie.",
+        "czyszczenie strzałek.",
+        "krioterapia."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKrowa osiąga szczyt laktacji ... miesiące po wycieleniu.",
+      "options": [
+        "trzy",
+        "dwa"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKorekcje racic u owcy, odrobaczanie i strzyżę tryków wykonujemy na przełomie kwietnia i maja.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Świnie poskramiamy za pomocą:",
+      "options": [
+        "pętli ryjowej.",
+        "płotka.",
+        "poskromu.",
+        "dutki kleszczowej."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\n… świnie w każdym cyklu produkcyjnym, aby zapewnić czystość stada.",
+      "options": [
+        "Szczepimy",
+        "Odrobaczamy"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKarbuje się głównie rasy kolorowe, a tatuuje białe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W przypadku przymusu położenia konia stosuje się:",
+      "options": [
+        "środki farmakologiczne.",
+        "wywiązywanie pęcinowe.",
+        "rzucadło berlińskie.",
+        "hydroterapię."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU cieląt między ... tygodniem życia przeprowadza się dekornizację, czyli wypalanie bądź wycinanie rogów.",
+      "options": [
+        "drugim a trzecim",
+        "trzecim a czwartym"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nEtologia to nauka mająca wpływ na dobrostan zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Każde nowo wprowadzane do organizmu szczepienie powtarzamy po:",
+      "options": [
+        "dwóch tygodniach.",
+        "trzech tygodniach.",
+        "czterech tygodniach.",
+        "tygodniu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.... to nowoczesny wskaźnik dobrostanu zwierząt.",
+      "options": [
+        "Psychosematyka",
+        "Stereotypie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDój możemy wykonać wyłącznie w sposób ręczny na hali udojowej lub stanowisku udojowym",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W którym momencie przed wykotem oddzielamy lochę od stada i przenosimy na porodówkę?",
+      "options": [
+        "Na trzy tygodnie przed wykotem.",
+        "Na dwa tygodnie przed wykotem.",
+        "Na tydzień przed wykotem.",
+        "Na cztery tygodnie przed wykotem."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrzed porodem powinno się lochom podawać … w celu ułatwienia wypróżnień i profilaktyki MMA.",
+      "options": [
+        "otręby",
+        "żelazo"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nProsięta rodzą się z niesprawną regulacją cieplną, dlatego muszą być dogrzewane.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż naturalne metody poskramiania koni.",
+      "options": [
+        "Łapanie i skręcanie fałdu skóry na szyi.",
+        "Poskramianie delikatnym głosem.",
+        "Łapanie za ucho.",
+        "Pukanie w czoło."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPolska liga ochrony praw zwierząt datuje swoje powstanie na ...",
+      "options": [
+        "1952 r.",
+        "1925 r."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDo naturalnych metod poskramiania koni należy zakrycie jednego oka.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż mikroelementy podawane profilaktycznie prosiętom, aby nie rozwinęła się u nich anemia prosiąt.",
+      "options": [
+        "Żelazo.",
+        "Cynk.",
+        "Magnez.",
+        "Potas."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPierwsze Polskie towarzystwo opieki nad zwierzętami zostało założone w ...",
+      "options": [
+        "1864 r.",
+        "1846 r."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDobrostan to stan zdrowia psychicznego i fizycznego spełniany w warunkach harmonii ustroju ze środowiskiem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż sposoby znakowania koni.",
+      "options": [
+        "Tatuowanie.",
+        "Wypalanie.",
+        "Czipowanie.",
+        "Wymrażanie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nU koni na ... udzie wybijamy piętno rasowe.",
+      "options": [
+        "prawym",
+        "lewym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nNa lewym siodle wybijamy numer stadny źrebięcia.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, w którym dniu tatuujemy i karbujemy zwierzęta.",
+      "options": [
+        "Dwudziestym trzecim dniu życia.",
+        "Dwudziestym pierwszym dniu życia.",
+        "Dwudziestym drugim dniu życia.",
+        "Dwudziestym dniu życia"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPodkowy robi się z ... lub specjalnych stopów metali.",
+      "options": [
+        "drewna",
+        "tworzyw sztucznych"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodkuwanie jest obowiązkowe u koni chodzących po twardym podłożu i z chorobami kopyt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do okresowych zabiegów pielęgnacyjnych u koni należą:",
+      "options": [
+        "werkowanie.",
+        "czyszczenie konia.",
+        "obcinanie rogu strzałki.",
+        "korekcja kopyt – rozczyszczanie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nKonia poimy przed karmieniem, wiadro znajduje się zawsze ... nad podłogą.",
+      "options": [
+        "50 cm",
+        "30 cm"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nPierwsze rozporządzenie o ochronie zwierząt zostało wydane w Polsce w roku 1928.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Zapewniamy koniom kontakt z innymi zwierzętami minimum na:",
+      "options": [
+        "jedną godzinę dziennie.",
+        "pół godziny dziennie",
+        "dwie godziny dziennie.",
+        "dwa razy w tygodniu po jednej godzinie."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPierwsza deklaracja praw zwierząt UNESCO miała miejsce w ...",
+      "options": [
+        "1978 r",
+        "1968 r."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nAutonarkotyzm jest specjalnym rodzajem setereotypii, polegającym na zadawaniu sobie bólu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Do ściółek stosowanych w stajniach należą:",
+      "options": [
+        "torf.",
+        "słoma.",
+        "trociny.",
+        "papierowe brykiety."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nUstawa nakazuje ... szczepienie psów na wściekliznę.",
+      "options": [
+        "raz na rok",
+        "raz na dwa lata"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nMłode psy zaleca się szczepić dwukrotnie w odstępach maksymalnie czterotygodniowych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Koty szczepimy pierwszy raz pomiędzy:",
+      "options": [
+        "siódmym a dziewiątym tygodniem życia.",
+        "ósmym a dziewiątym tygodniem życia.",
+        "szóstym a siódmym tygodniem życia.",
+        "szóstym a ósmym tygodniem życia."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nWiele małych kociąt, posiadających wolnożyjących rodziców, jest zarażonych ....",
+      "options": [
+        "świerzbem usznym",
+        "paciorkowcem"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPierwsze szczepienie u psów stosuje się w kierunku nosówki i leptospirozy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Wskaż wartość fizjologiczną temperatury wewnętrznej ciała u psa.",
+      "options": [
+        "36,0–37,0°C.",
+        "39,0–40,0°C.",
+        "37,0–38,0°C.",
+        "38,0–39,0°C."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDla zapobiegania anemii i chorobie białych mięśni u owcy podajemy Fe i Se.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wymień sprzęt niezbędny do udzielenia pierwszej pomocy w przypadku zadławień.",
+      "options": [
+        "Wiadro.",
+        "Pinceta.",
+        "Sonda żołądkowa dla bydła lub świń.",
+        "Źródło światła białego."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wymień sprzęt niezbędny do udzielenia pierwszej pomocy w przypadku złamania kości.",
+      "options": [
+        "Staza uciskowa.",
+        "Stop box.",
+        "Lampa bezcieniowa lub źródło światła białego.",
+        "RTG."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nDzięki czipowaniu z daleka możemy rozpoznać konkretne zwierzę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż prawidłową wartość tętna u konia.",
+      "options": [
+        "55–60.",
+        "25–30.",
+        "45–55.",
+        "30–45."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż prawidłową ilość oddechów na minutę u świni.",
+      "options": [
+        "15–20.",
+        "20–25.",
+        "35–40.",
+        "30–35."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKrowa osiąga szczyt laktacji miesiąc po wycieleniu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż prawidłową ilość oddechów na minutę u kozy.",
+      "options": [
+        "20–25.",
+        "15–30.",
+        "30–35.",
+        "35–40."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "W skład apteczki weterynaryjnej wchodzą:",
+      "options": [
+        "urządzenia do zakładania dojść dożylnych.",
+        "sprzęt opatrunkowy.",
+        "nożyczki.",
+        "strzykawki insulinówki."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdrobaczamy świnie w każdym cyklu produkcyjnym, aby zapewnić czystość stada.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż niezbędne narzędzia do udzielenia pierwszej pomocy w przypadku niedyspozycji żołądkowo-jelitowej o przebiegu ostrym.",
+      "options": [
+        "Termometr.",
+        "Trokar.",
+        "Podkłady higieniczne.",
+        "Sonda nosowo żołądkowa."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wymień sprzęt niezbędny do udzielenia pierwszej pomocy w przypadku krwotoku.",
+      "options": [
+        "Leki przeciwwstrząsowe.",
+        "Pole operacyjne.",
+        "Staza uciskowa.",
+        "Wenflon."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU cieląt między pierwszym a drugim tygodniem życia przeprowadza się dekornizację, czyli wypalanie bądź wycinanie rogów.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Stereotypia to nowoczesny wskaźnik dobrostanu zwierząt.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, jaki procent porodów u prosiąt występuje w położeniu pośladkowym.",
+      "options": [
+        "20%.",
+        "30%.",
+        "10%.",
+        "40%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrzed porodem powinno się lochom podawać otręby w celu ułatwienia wypróżnień i profilaktyki MMA.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Narzędzia lekarskie używane przy odbieraniu porodów to:",
+      "options": [
+        "staza uciskowa.",
+        "stop box.",
+        "sonda żołądkowa dla bydła lub świń.",
+        "haki oczodołowe."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPolska liga ochrony praw zwierząt datuje swoje powstanie na 1952 r.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Problemy z układem trawiennym krów mogą oznaczać:",
+      "options": [
+        "zatkanie ksiąg.",
+        "przeładowanie żwacza.",
+        "zapalenie czepca.",
+        "zapalenie trawieńca."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż prawidłową wartość tętna u kota.",
+      "options": [
+        "80–100.",
+        "100–120.",
+        "140–160.",
+        "120–140."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPierwsze Polskie towarzystwo opieki nad zwierzętami zostało założone w 1864 r.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż formy stereotypii motorycznej występujące u zwierząt w ogrodach zoologicznych.",
+      "options": [
+        "Rytmiczne ruchy całego ciała.",
+        "Chodzenie po ósemce i agresywne drgania odwłoka.",
+        "Wzmożona wokalizacja.",
+        "Odgryzanie własnych kończyn."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nU koni na lewym udzie wybijamy piętno rasowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPodkowy robi się z tworzyw sztucznych lub specjalnych stopów metali.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Porody z komplikacjami przebiegające w świecie zwierząt stanowią około:",
+      "options": [
+        "5% wszystkich porodów.",
+        "20% wszystkich porodów.",
+        "10% wszystkich porodów.",
+        "15% wszystkich porodów."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nKonia poimy przed karmieniem, wiadro znajduje się zawsze 30 cm nad podłogą.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPierwsza deklaracja praw zwierząt UNESCO miała miejsce w 1978 r.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Temperaturę zwierzęcia po wypadku, silnym urazie, wychłodzonego, po zabiegu operacyjnym należy sprawdzać co:",
+      "options": [
+        "20 min.",
+        "10 min.",
+        "5 min.",
+        "15 min."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nUstawa nakazuje raz na rok szczepienie psów na wściekliznę.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż formy stereotypii u drobiu.",
+      "options": [
+        "Stereotypie motoryczne.",
+        "Stereotypie oparte o agresję – kanibalizm.",
+        "Stereotypie pokarmowe.",
+        "Stereotypie wokalne."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Pomiarów temperatury najbardziej diagnostycznych powinno się dokonywać w maximach dobowych pomiędzy:",
+      "options": [
+        "5:00 a 8:00.",
+        "12:00 a 15:00.",
+        "9:00 a 12:00.",
+        "6:00 a 9:00."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nWiele małych kociąt, posiadających wolnożyjących rodziców, jest zarażonych świerzbem usznym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż formy stereotypii motorycznej u psów.",
+      "options": [
+        "Bezruch.",
+        "Bieganie wkoło.",
+        "Polifagia.",
+        "Polidypsja"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż skalę punktu inwazyjności doświadczenia określaną przez komisję etyczną.",
+      "options": [
+        "1–4.",
+        "1–5.",
+        "1–6.",
+        "1–3."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2126 @@
+{
+  "id": "ur3",
+  "course": "Uprawa roślin",
+  "title": "Rośliny zbożowe jare",
+  "number": "III",
+  "notes": [
+    {
+      "heading": "Wprowadzenie i znaczenie gospodarcze",
+      "points": [
+        "Zboża mają największe znaczenie gospodarcze wśród roślin uprawnych – dostarczają ponad 50% żywności w skali świata.",
+        "O ich znaczeniu decyduje łatwe przystosowanie do środowiska, prosta technologia, niskie koszty produkcji i przechowywania, uniwersalność użycia.",
+        "Zboża uprawia się dla ziarna; na świecie stanowią ok. 50% produkcji roślinnej.",
+        "W Polsce (GUS) zboża zajmują ponad 70% powierzchni zasiewów; Polska jest 3. w Europie pod względem powierzchni zbóż, ale plony są stosunkowo niskie.",
+        "Zużycie ziarna: ok. 40% – spożycie bezpośrednie, ok. 50% – pasza, reszta – przemysł.",
+        "Z ziarna: mąki, kasze, oleje (kukurydza, ryż, kiełki pszenicy), syropy (np. z jęczmienia); zastosowanie w piwowarstwie, gorzelnictwie, farmacji, młynarstwie.",
+        "Słoma – pasza, ściółka, surowiec energetyczny i do produkcji celulozy.",
+        "Zboża ozime wysiewa się jesienią, jare – wiosną; zwykle powierzchnie obu grup są zbliżone, ale w 2012 r. (pogoda) jare zajęły ponad 60% zbóż.",
+        "Zboża rozprzestrzeniły się w różnych strefach klimatycznych dzięki łatwemu przystosowaniu; za ich rolą przemawiają też tradycje żywieniowe i różnorodność użytkowania – są podstawową gałęzią produkcji rolniczej.",
+        "Prowadzi się badania nad wykorzystaniem ziarna zbóż jako surowca energetycznego."
+      ]
+    },
+    {
+      "heading": "2. Gatunki i odmiany zbóż jarych",
+      "points": [
+        "Zboża w Polsce: jednoroczne trawy – pszenica, żyto, jęczmień, owies, pszenżyto, kukurydza, proso; pseudozboża – gryka (rdestowate) i szarłat (szarłatowate).",
+        "Pszenica, jęczmień i pszenżyto mają formy jare i ozime; żyto – tylko jedną odmianę jarą; pozostałe zboża tylko formy jare.",
+        "Rejestr COBORU obejmuje kilkadziesiąt odmian zbóż jarych.",
+        "Pszenica: odmiany twarde, orkiszowe, zwyczajne.",
+        "Jęczmień: odmiany browarne, pastewne i przeznaczone jedynie do wywozu.",
+        "Owies: nagoziarnisty i zwyczajny; kukurydza: na ziarno, na kiszonkę, na CCM.",
+        "Żyto jare: pierwsza odmiana Abago (1999 r.), w 2005 r. Bojko; siew zwykle przełom marca i kwietnia (możliwy luty lub maj).",
+        "Odmiana Bojko: duża odporność na wyleganie, odporność na choroby jak forma ozima, ziarno z 13,8% białka, wyższa MTZ; możliwy plon do 7 t/ha."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/klosy-zboz-jarych.jpg",
+          "caption": "Kłosy i wiecha podstawowych zbóż (wg podpisu w materiale, kolejno: górny rząd, potem dolny): jęczmień, owies (wiecha), pszenica, żyto."
+        },
+        {
+          "src": "img/ur3/pszenzyto.jpg",
+          "caption": "Pszenżyto – kłos z ościami."
+        },
+        {
+          "src": "img/ur3/pszenica-jara-zalety-wady-pelne.jpg",
+          "caption": "Pszenica jara w porównaniu z ozimą: wady – niższa plenność i większa zawodność plonów; zalety – wyższa jakość technologiczna, wyższa wartość wypiekowa mąki, ziarno zawiera więcej białka i tłuszczu, a mniej włókna surowego."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wymagania glebowe",
+      "points": [
+        "Największe znaczenie wśród jarych mają jęczmień i pszenica, mniejsze owies, pszenżyto i żyto; udział pozostałych nie przekracza 1%.",
+        "Gryka zajmuje w Polsce 76 tys. ha.",
+        "Wymagania glebowe malejąco: pszenica jara > jęczmień jary > pszenżyto jare > owies > żyto jare.",
+        "Pszenica i jęczmień jary: gleby o dobrej strukturze, pojemności wodnej i zasobności, odczyn zbliżony do obojętnego; kompleks pszenny bardzo dobry i dobry.",
+        "Jęczmień daje zadowalające plony też na kompleksie pszenno-żytnim i żytnim dobrym.",
+        "Pszenżyto jare: kompleks żytni bardzo dobry i żytni dobry o wysokiej kulturze, pH powyżej 5,5 (toleruje do 5).",
+        "Owies i żyto jare: najmniejsze wymagania, kompleks żytni; mało wrażliwe na odczyn, znoszą gleby lekko kwaśne.",
+        "Owies uprawia się najczęściej na kompleksach: żytnim słabym, zbożowo-pastewnym mocnym i słabym, owsiano-pastewnym górskim, owsiano-ziemniaczanym górskim – gleby nie mogą być zbyt suche.",
+        "Pszenica jara w porównaniu z ozimą ma niższą plenność i większą zawodność plonów, ale zawiera więcej białka i tłuszczu, a mniej włókna surowego; większa zawartość glutenu decyduje o wartości wypiekowej mąki (jakości technologicznej).",
+        "Pszenica jara ma słabiej rozwinięty system korzeniowy – dlatego jej wymagania glebowe i klimatyczne są najwyższe ze wszystkich zbóż jarych.",
+        "Owies, pszenżyto jare i żyto jare można też uprawiać na glebach lepszych kompleksów, gdzie plonują znacznie lepiej; owies na słabszych kompleksach uprawia się ze względów ekonomicznych."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/pszenica-jara-wymagania.jpg",
+          "caption": "Wymagania pszenicy jarej. Glebowe: dobra struktura gleby, duża pojemność wodna, zasobność w składniki pokarmowe, obojętny odczyn. Klimatyczne: klimat umiarkowanie ciepły i wilgotny; jest odporna na krótkotrwałe wiosenne przymrozki."
+        }
+      ]
+    },
+    {
+      "heading": "3. Wymagania klimatyczne i gryka",
+      "points": [
+        "Pszenica jara: klimat umiarkowanie ciepły i wilgotny; kiełkuje w 1–3°C, jarowizacja w 3–4°C (dlatego siew jak najwcześniej), krzewienie najlepiej w 8–12°C.",
+        "Pszenica jara źle znosi upał w fazie strzelania w źdźbło; najbardziej wrażliwa na niedobór wody; największe potrzeby wodne od krzewienia do dojrzewania.",
+        "Jęczmień browarny – klimat oceaniczny: wczesne wiosny, umiarkowane, równomierne opady, niezbyt upalne lata; pastewny – także klimat kontynentalny.",
+        "Jęczmień kiełkuje w 3–4°C, najlepiej rośnie w ok. 18°C; zwiększone potrzeby wodne od krzewienia do kłoszenia.",
+        "Pszenżyto jare: wschody i krzewienie optymalnie 6–8°C; strzelanie w źdźbło 12–14°C; po zawiązaniu ziarna 16–17°C; największe potrzeby wodne od krzewienia do końca strzelania.",
+        "Owies: małe wymagania cieplne, kiełkuje w 2–3°C, znosi przymrozki; duże potrzeby wodne od strzelania w źdźbło do wyrzucania wiechy.",
+        "Gryka należy do rdestowatych; nasiona bez glutenu, spożywane głównie jako kasza.",
+        "Gryka jest rośliną fitosanitarną – skutecznie zwalcza nicienie; uprawiana na glebach lżejszych, lekko kwaśnych, chętnie z żytem lub łubinem.",
+        "Grykę siejemy dopiero po ustąpieniu przymrozków; znane odmiany: Hruszowska, Kora, Panda, Luba.",
+        "Pszenica jara jest odporna na krótkotrwałe wiosenne przymrozki.",
+        "Wszystkie zboża jare są w zasadzie dostosowane do warunków klimatycznych Polski.",
+        "Pszenżyto jare: wyższe temperatury w czasie wschodów i krzewienia są niekorzystne – zmniejszają liczbę pędów bocznych; nawet niewielkie opady w okresie dojrzewania wydłużają ten okres.",
+        "Owies dobrze toleruje wiosenne przymrozki i niższe temperatury także w późniejszych fazach rozwoju.",
+        "Grykę zalicza się do zbóż ze względu na podobny skład chemiczny nasion i sposób uprawy (taki sam jak zbóż jarych); znane są tylko 4 odmiany."
+      ]
+    },
+    {
+      "heading": "4. Stanowisko w zmianowaniu",
+      "points": [
+        "Stanowisko dobiera się wg wymagań glebowych i pokarmowych oraz ryzyka chorób i szkodników.",
+        "Dobre przedplony: okopowe (ziemniaki, buraki, marchew pastewna), motylkowate drobnonasienne (lucerna, koniczyna), strączkowe (bobik, łubin), kukurydza, poplony ścierniskowe.",
+        "Złe przedplony to zboża; unikać pszenicy jarej po pszenicy ozimej i jęczmienia jarego po jęczmieniu ozimym.",
+        "Warunkowo można je uprawiać po życie na lepszych kompleksach glebowych.",
+        "Owies jest dobrym przedplonem dla innych zbóż – hamuje choroby podsuszkowe; sam może być uprawiany po wszystkich roślinach.",
+        "Przykład: burak cukrowy → pszenica jara + wsiewka koniczyny czerwonej → koniczyna czerwona → pszenica ozima → owies.",
+        "Przykład: ziemniaki późne → jęczmień jary → kukurydza na ziarno → pszenica ozima → żyto ozime.",
+        "Przedplony dla pszenicy jarej: najlepsze – rzepak i strączkowe (np. łubin); zadowalające – okopowe (ziemniaki) i motylkowate wieloletnie (koniczyny); najgorsze – zboża, zwłaszcza jęczmień i pszenica.",
+        "Przykład: ziemniaki → pszenica jara + wsiewka koniczyny czerwonej → koniczyna czerwona → jęczmień ozimy + poplon ścierniskowy.",
+        "Przykład: ziemniaki wczesne → pszenica ozima → owies → pszenżyto jare → kukurydza na kiszonkę.",
+        "Przykład: ziemniaki → pszenica jara + wsiewka koniczyny → koniczyna czerwona → pszenżyto jare → owies.",
+        "Unikanie pszenicy jarej po ozimej i jęczmienia jarego po ozimym wynika z porażenia chorobami; warunkowo zboża te można uprawiać po życie na lepszych kompleksach.",
+        "Zmianowanie w rolnictwie zrównoważonym omawia broszura Ministerstwa Rolnictwa „Rolnictwo zrównoważone”."
+      ]
+    },
+    {
+      "heading": "5. Nawożenie organiczne i wapnowanie",
+      "points": [
+        "Nawożenie organiczne pod zboża jare stosuje się w gospodarstwach ekologicznych; nie jest konieczne.",
+        "Obornik lub kompost 25–30 t/ha stosuje się pod przedplon – głównie jako źródło azotu.",
+        "Zboża jare pobierają ogółem 30–80 kg N/ha; w uprawie tradycyjnej uprawia się je w 2. roku po oborniku.",
+        "Dawki nawozów zależą od zasobności gleby, plonu i przedplonu; wapnowanie – od wymagań rośliny i pH.",
+        "Potrzeby wapnowania – gleby bardzo lekkie: konieczne do pH 4,0, zbędne od 5,6.",
+        "Gleby lekkie: konieczne do 4,5; potrzebne 4,6–5,0; wskazane 5,1–5,5; ograniczone 5,6–6,0; zbędne od 6,1.",
+        "Gleby średnie: konieczne do 5,0; zbędne od 6,6; gleby ciężkie: konieczne do 5,5; potrzebne 5,6–6,0; wskazane 6,1–6,5; ograniczone 6,6–7,0; zbędne od 7,1.",
+        "Dawki CaO na glebach lekkich: pH <4,1 – 3,5 t/ha; 4,1–4,5 – 3,0; 4,6–5,0 – 2,0; 5,1–5,5 – 1,0 t/ha; wyżej – nie wapnuje się.",
+        "Efektywność nawożenia zbóż w dużym stopniu zależy od kwasowości gleby – dlatego konieczne jest wapnowanie.",
+        "Tab. 3.1 – potrzeby wapnowania (pH): bardzo lekkie – konieczne do 4,0, potrzebne 4,1–4,5 (w tabeli źródłowej wydrukowano 4,1–5,5), wskazane 4,6–5,0, ograniczone 5,1–5,5, zbędne od 5,6.",
+        "Tab. 3.1 – gleby średnie: konieczne do 5,0; potrzebne 5,1–5,5; wskazane 5,6–6,0; ograniczone 6,1–6,5; zbędne od 6,6.",
+        "Tab. 3.2 – dawki CaO (t/ha) wg pH <4,1 / 4,1–4,5 / 4,6–5,0 / 5,1–5,5 / 5,6–6,0 / 6,1–6,5: bardzo lekkie 3,5 / 3,0 / 2,0 / – / – / –; lekkie 3,5 / 3,0 / 2,0 / 1,0 / – / –.",
+        "Tab. 3.2 – gleby średnie: 5,5 / 5,0 / 4,0 / 2,5 / 1,0 / –; gleby ciężkie: 6,0 / 6,0 / 4,5 / 3,0 / 2,0 / 1,5 t CaO/ha.",
+        "Odczyn: pH <4,6 – bardzo kwaśny; 4,6–5,5 – kwaśny; 5,6–6,5 – lekko kwaśny (wg nagłówków tab. 3.2)."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/tab-wapnowanie-zboza-jare.jpg",
+          "caption": "Tabele 3.1 i 3.2 – potrzeby wapnowania wg pH i kategorii agronomicznej gleby oraz dawki wapna (t CaO/ha) na gruntach ornych."
+        }
+      ]
+    },
+    {
+      "heading": "5. Nawożenie mineralne",
+      "points": [
+        "Jęczmień jary – plon 6/7/8 t/ha: N 80/100/120, P2O5 55/60/70, K2O 65/75/85, MgO 20/20/25 kg/ha.",
+        "Pszenica jara – plon 3/4/5/6 t/ha: N 80/110/140/160, P2O5 35/50/60/70, K2O 70/100/130/150, MgO 12/16/20/25 kg/ha.",
+        "Pszenżyto jare (dawki zbliżone do pszenicy) – plon 3/4/5/6 t/ha: N 70/80/100/120, P2O5 30/40/50/60, K2O 70/90/120/140, MgO 15/20/25/30 kg/ha.",
+        "Nawożenie pszenicy jarej zależy od zasobności i rodzaju gleby, pogody i wielkości plonu.",
+        "Coraz powszechniejsze jest dokarmianie dolistne, zwłaszcza przy produkcji ziarna wysokiej jakości.",
+        "Kolor roślin: jasnozielony – niski poziom azotu, ciemnozielony – wysoki; można też wykonać testy.",
+        "Dokarmianie dolistne zwykle dwukrotnie po 5–8 kg N/ha – w strzelaniu w źdźbło i w kłoszeniu.",
+        "P i K w całości przed siewem; N w 2–3 dawkach: przed siewem 50–60%, pozostałe (20–30%) w fazie strzelania w źdźbło.",
+        "Mikroelementy stosuje się po stwierdzeniu niedoboru.",
+        "Owies – plon 4/5/7/8 t/ha: N 40/60/120/140, P2O5 40/50/65/75, K2O 45/60/80/95, MgO 10/10/15/20 kg/ha.",
+        "Mieszanki zbożowe na ziarno (trzyskładnikowe) – plon 4/5/7/8 t/ha: N 55/75/110/145, P2O5 40/50/75/85, K2O 55/65/95/110, MgO 15/15/20/25 kg/ha.",
+        "Ilość azotu podawana dolistnie zależy od jego zawartości w roślinie.",
+        "Dawki dla pszenicy jarej zależą wg zaleceń Instytutu Hodowli i Aklimatyzacji Roślin przede wszystkim od zasobności i rodzaju gleby, warunków atmosferycznych i wielkości plonu; dla pszenżyta jarego są zbliżone do dawek dla pszenicy."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/tab-nawozenie-owies-mieszanki.jpg",
+          "caption": "Tabela 3.3 (cd.) – zalecane dawki nawozów (kg/ha) wg plonu; kolumny: roślina, plon t/ha, N, P2O5, K2O, MgO. Wiersze: jęczmień jary 7–8 t, owies, mieszanki zbożowe na ziarno (trzyskładnikowe)."
+        },
+        {
+          "src": "img/ur3/tab-nawozenie-pszenica-pszenzyto-jare.jpg",
+          "caption": "Tabele 3.4 i 3.5 (w źródle obie oznaczone jako 3.4) – proponowane dawki nawozów (kg/ha) wg plonu dla pszenicy jarej i pszenżyta jarego."
+        }
+      ]
+    },
+    {
+      "heading": "6. Zabiegi uprawowe",
+      "points": [
+        "Cele: poprawa struktury warstwy ornej i retencji wody zimowej, szybszy rozkład resztek, zwalczanie chwastów, chorób i szkodników, dobre warunki kiełkowania.",
+        "Zespoły zabiegów: uprawki pożniwne (brak po okopowych), orka przedzimowa, uprawki przedsiewne (wiosenne).",
+        "Podorywki z zasady się nie wykonuje; gdy przedplon schodzi wcześnie (lipiec, sierpień) – podorywka i mechaniczne zwalczanie chwastów przed orką przedzimową; można siać poplon.",
+        "Głębokość orki: po wieloletnich i kukurydzy 25–30 cm, po okopowych 15–20 cm.",
+        "Wiosną: włókowanie lub bronowanie (mniejsze parowanie, szybsze ogrzanie gleby), potem zestaw: kultywator o wąskich łapach + wał strunowy.",
+        "Uproszczona uprawa: po okopowych tylko bronowanie i orka zimowa; po wcześnie schodzących przedplonach herbicydy zamiast mechanicznego odchwaszczania + orka zimowa.",
+        "Siew po przepadłych oziminach: podorywka, bronowanie, siew.",
+        "Obornik/kompost przed orką zimową; P i K w całości przedsiewnie; N – pierwsza dawka przedsiewnie, kolejne pogłównie.",
+        "Mechaniczne zwalczanie chwastów przed orką przedzimową (po wcześnie schodzącym przedplonie): bronowanie, płytkie kultywatorowanie."
+      ]
+    },
+    {
+      "heading": "7. Materiał siewny i siew",
+      "points": [
+        "Ziarno o właściwej czystości i sile kiełkowania, najlepiej kwalifikowane, zaprawione przeciw chorobom grzybowym.",
+        "Ilość wysiewu zależy od terminu siewu i gleby; optymalnie 400–650 ziaren/m² (zależnie od gatunku i odmiany).",
+        "Głębokość siewu 2–5 cm, rozstaw rzędów 10–15 cm – im mniejsza ilość wysiewu, tym większy rozstaw.",
+        "Im wcześniejszy siew i lepsza gleba, tym mniejsza ilość wysiewu.",
+        "Ilości wysiewu: pszenica jara 180–260, jęczmień jary 130–170, pszenżyto jare 160–200, owies 160–200, żyto jare 110–160 kg/ha.",
+        "Termin siewu – możliwie najwcześniejszy; optymalny zależy od gatunku i regionu.",
+        "Kolejność siewu: owies → pszenica jara → pszenżyto jare → jęczmień jary; sieje się siewnikami zbożowymi.",
+        "Pszenica jara wymaga wczesnego siewu – wtedy silnie się ukorzenia i jest odporna na niekorzystną pogodę w wegetacji; ostateczny termin siewu to początek kwietnia.",
+        "Pszenica jara (wideokast): głębokość siewu 2–4 cm, rozstawa rzędów 8–15 cm.",
+        "Ilość wysiewu ma zapewnić równomierną i wystarczającą obsadę kłosów na jednostce powierzchni.",
+        "Zestawienia specjalistyczne podają też dopuszczalne, opóźnione terminy siewu poszczególnych zbóż."
+      ]
+    },
+    {
+      "heading": "8–9. Zapobieganie chorobom, technologie uprawy",
+      "points": [
+        "Zapobieganie chorobom: zdrowy materiał siewny, zaprawianie, właściwy przedplon; zaprawy chronią przed chorobami grzybowymi i wirusowymi.",
+        "Zapobieganie szkodnikom: właściwa agrotechnika, stanowisko w zmianowaniu, ochrona chemiczna.",
+        "Chwasty: bronowanie przed wschodami i w fazie 3–4 liści; przy silnym zachwaszczeniu herbicydy.",
+        "Technologie zbóż jarych zasadniczo się nie różnią; modyfikacje: owies na zielonkę, mieszanki zbożowe, jęczmień browarny.",
+        "Jęczmień browarny – azot tylko 2–3 tygodnie przed siewem, w niewielkich dawkach (określona zawartość białka).",
+        "Technologia obejmuje termin i gęstość siewu, nawożenie, regulację wzrostu, zwalczanie chorób i chwastów w odniesieniu do fazy wzrostu.",
+        "Popularne mieszanki: jęczmień + owies; jęczmień + pszenica; jęczmień + owies + pszenżyto; jęczmień + pszenica + owies.",
+        "W pszenicy jarej zwalczanie chwastów jest łatwiejsze i tańsze niż w ozimej – nie trzeba zwalczać miotły zbożowej (słabiej się rozrasta, jest mniej konkurencyjna), a jedynie chwasty dwuliścienne.",
+        "Bronowanie najskuteczniej niszczy chwasty w fazie liścieni lub pierwszych liści właściwych."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/fazy-rozwojowe-zboza.jpg",
+          "caption": "Fazy rozwojowe zboża (skala BBCH): 7 – stadium 1 liścia, 10–13 – stadium 3 liści, 21 – początek krzewienia, 25 – pełnia krzewienia, 29 – koniec krzewienia, 30 – początek strzelania w źdźbło, 31 – stadium 1. kolanka, 32 – 2. kolanka, 37 – ukazanie się ostatniego liścia, 39 – stadium języczka liściowego, 49 – otwarcie pochwy liściowej, 51 – początek kłoszenia, 59 – koniec kłoszenia, 61–69 – kwitnienie, 71–92 – dojrzałość."
+        },
+        {
+          "src": "img/ur3/technologia-bbch-pszenzyto.jpg",
+          "caption": "Przykład technologii uprawy pszenżyta jarego (odmiana Nagano) na skali BBCH: siew nasionami zaprawionymi, 400–450 ziaren/m², 170–200 kg/ha; 70 kg N przed siewem i 50 kg N w strzelaniu w źdźbło; herbicyd w fazie krzewienia; regulator wzrostu na początku strzelania w źdźbło; insektycyd i fungicyd od 2. kolanka do kłoszenia."
+        }
+      ]
+    },
+    {
+      "heading": "10–11. Pielęgnacja i środki ochrony",
+      "points": [
+        "Pielęgnacja: bronowanie przy zaskorupieniu i wschodach chwastów przed wschodami zboża, zwalczanie chwastów, chorób, szkodników, przeciwdziałanie wyleganiu.",
+        "Herbicydy specjalistyczne: Atlantis – miotła zbożowa i stokłosy; Puma – owies głuchy.",
+        "Wyleganiu przeciwdziała się regulatorami wzrostu (od początku strzelania w źdźbło), np. Medax Top – szczególnie przy intensywnym nawożeniu N.",
+        "Insektycydy (np. Decis Mega 050 EC, Decis 2,5 EC, Karate, Fastac 100 EC) stosuje się po przekroczeniu progów zagrożenia.",
+        "Próg: płoniarka zbożówka w krzewieniu – 6 larw na 100 roślin.",
+        "Próg: pryszczek pszeniczny w kłoszeniu – 8 larw na 1 kłosie.",
+        "Próg: mszyce zbożowe w kłoszeniu lub tuż po – 5 mszyc na 1 kłosie.",
+        "Próg: skrzypionki zbożowe w fazie wyrzucania liścia flagowego – 1–1,5 larwy na źdźble."
+      ],
+      "images": [
+        {
+          "src": "img/ur3/szkodniki-zboz.jpg",
+          "caption": "Szkodniki zbóż: skrzypionka zbożowa (chrząszcz z rudym przedpleczem i niebieskozielonymi pokrywami) i mszyce (na zdjęciu zjadane przez biedronkę)."
+        },
+        {
+          "src": "img/ur3/ochrona-pszenzyta-jarego.jpg",
+          "caption": "Przykład programu ochrony pszenżyta jarego: zaprawa Kinto Duo 080 FS 200 ml/dt; Mocarz 75 WG 0,2 kg/ha (wczesne fazy, do krzewienia); regulator wzrostu (początek strzelania w źdźbło); Duett Ultra 497 SC 0,6 l/ha – choroby podstawy źdźbła, mączniak, rdza, brunatna plamistość liści, septorioza liści i kłosów, fuzarioza kłosów, czerń; Fastac 100 EC 0,1–0,15 l/ha – mszyce, płoniarka, skrzypionki, pryszczarek."
+        }
+      ]
+    },
+    {
+      "heading": "12. Zbiór i przechowywanie",
+      "points": [
+        "Zboża jare zbiera się jednoetapowo kombajnami zbożowymi.",
+        "Do przechowywania nadaje się ziarno o wilgotności 13–14%.",
+        "Dosuszanie: ziarno siewne w 45–50°C, ziarno paszowe w 60–70°C.",
+        "Ziarno przechowuje się zwykle w silosach zbożowych.",
+        "Bez możliwości dosuszenia: składowanie w warstwach 20–50 cm i szuflowanie co najmniej raz dziennie do uzyskania właściwej wilgotności."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Jaki odsetek żywności na świecie dostarczają zboża?",
+      "back": "Ponad 50%."
+    },
+    {
+      "front": "Udział zbóż w strukturze zasiewów w Polsce",
+      "back": "Ponad 70% powierzchni uprawnej."
+    },
+    {
+      "front": "Miejsce Polski w Europie pod względem powierzchni zbóż",
+      "back": "3. miejsce (przy stosunkowo niskich plonach)."
+    },
+    {
+      "front": "Struktura zużycia ziarna zbóż",
+      "back": "Ok. 40% spożycie, ok. 50% pasza, reszta przemysł."
+    },
+    {
+      "front": "Zastosowania słomy",
+      "back": "Pasza, ściółka, surowiec energetyczny, produkcja celulozy."
+    },
+    {
+      "front": "Zboża ozime a jare – termin siewu",
+      "back": "Ozime – jesienią; jare – wiosną."
+    },
+    {
+      "front": "Udział zbóż jarych w 2012 r.",
+      "back": "Ponad 60% uprawy zbóż (z powodu warunków pogodowych)."
+    },
+    {
+      "front": "Pseudozboża i ich rodziny",
+      "back": "Gryka (rdestowate) i szarłat (szarłatowate)."
+    },
+    {
+      "front": "Które zboża mają formy jare i ozime?",
+      "back": "Pszenica, jęczmień, pszenżyto (żyto – tylko jedna odmiana jara)."
+    },
+    {
+      "front": "Typy odmian pszenicy",
+      "back": "Twarda, orkiszowa, zwyczajna."
+    },
+    {
+      "front": "Typy odmian jęczmienia",
+      "back": "Browarny, pastewny, przeznaczony jedynie do wywozu."
+    },
+    {
+      "front": "Typy odmian owsa",
+      "back": "Nagoziarnisty i zwyczajny."
+    },
+    {
+      "front": "Pierwsza odmiana żyta jarego",
+      "back": "Abago (1999 r.); w 2005 r. – Bojko."
+    },
+    {
+      "front": "Zawartość białka w ziarnie żyta jarego Bojko",
+      "back": "13,8%."
+    },
+    {
+      "front": "Możliwy plon żyta jarego Bojko",
+      "back": "Do 7 t/ha."
+    },
+    {
+      "front": "Termin siewu żyta jarego",
+      "back": "Zwykle przełom marca i kwietnia (możliwy luty lub maj)."
+    },
+    {
+      "front": "Powierzchnia uprawy gryki w Polsce",
+      "back": "76 tys. ha."
+    },
+    {
+      "front": "Kolejność zbóż jarych wg wymagań glebowych (od największych)",
+      "back": "Pszenica jara, jęczmień jary, pszenżyto jare, owies, żyto jare."
+    },
+    {
+      "front": "Kompleks glebowy dla pszenicy i jęczmienia jarego",
+      "back": "Pszenny bardzo dobry i dobry."
+    },
+    {
+      "front": "Wymagania pszenżyta jarego co do pH",
+      "back": "Powyżej 5,5, toleruje do 5."
+    },
+    {
+      "front": "Zboża jare najmniej wrażliwe na odczyn",
+      "back": "Owies i żyto jare – znoszą gleby lekko kwaśne."
+    },
+    {
+      "front": "Temperatura kiełkowania pszenicy jarej",
+      "back": "1–3°C."
+    },
+    {
+      "front": "W jakiej temperaturze pszenica jara przechodzi jarowizację?",
+      "back": "3–4°C – dlatego siew jak najwcześniej."
+    },
+    {
+      "front": "Optymalna temperatura krzewienia pszenicy jarej",
+      "back": "8–12°C."
+    },
+    {
+      "front": "Okres największych potrzeb wodnych pszenicy jarej",
+      "back": "Od krzewienia do dojrzewania."
+    },
+    {
+      "front": "Klimat właściwy dla jęczmienia browarnego",
+      "back": "Oceaniczny: wczesne wiosny, umiarkowane równomierne opady, niezbyt upalne lata."
+    },
+    {
+      "front": "Temperatura kiełkowania i optimum rozwoju jęczmienia",
+      "back": "Kiełkuje w 3–4°C, najlepiej rozwija się w ok. 18°C."
+    },
+    {
+      "front": "Optymalna temperatura wschodów i krzewienia pszenżyta jarego",
+      "back": "6–8°C."
+    },
+    {
+      "front": "Optymalna temperatura pszenżyta jarego w strzelaniu w źdźbło",
+      "back": "12–14°C (po zawiązaniu ziarna 16–17°C)."
+    },
+    {
+      "front": "Temperatura kiełkowania owsa",
+      "back": "2–3°C."
+    },
+    {
+      "front": "Okres największych potrzeb wodnych owsa",
+      "back": "Od strzelania w źdźbło do wyrzucania wiechy."
+    },
+    {
+      "front": "Dlaczego gryka jest rośliną fitosanitarną?",
+      "back": "Skutecznie zwalcza nicienie."
+    },
+    {
+      "front": "Czy nasiona gryki zawierają gluten?",
+      "back": "Nie; spożywa się je głównie jako kaszę."
+    },
+    {
+      "front": "Kiedy wysiewa się grykę?",
+      "back": "Nie wcześniej niż po ustąpieniu przymrozków."
+    },
+    {
+      "front": "Odmiany gryki",
+      "back": "Hruszowska, Kora, Panda, Luba."
+    },
+    {
+      "front": "Dobre przedplony dla zbóż jarych",
+      "back": "Okopowe, motylkowate drobnonasienne, strączkowe, kukurydza, poplony ścierniskowe."
+    },
+    {
+      "front": "Złe przedplony dla zbóż jarych",
+      "back": "Zboża (np. pszenica jara po pszenicy ozimej, jęczmień jary po ozimym)."
+    },
+    {
+      "front": "Dlaczego owies jest dobrym przedplonem dla zbóż?",
+      "back": "Hamuje rozwój chorób podsuszkowych."
+    },
+    {
+      "front": "Po jakich roślinach można uprawiać owies?",
+      "back": "Po wszystkich."
+    },
+    {
+      "front": "Dawka obornika pod przedplon zbóż jarych",
+      "back": "25–30 t/ha (głównie źródło azotu)."
+    },
+    {
+      "front": "Ile azotu pobierają ogółem zboża jare?",
+      "back": "30–80 kg N/ha."
+    },
+    {
+      "front": "W którym roku po oborniku uprawia się tradycyjnie zboża jare?",
+      "back": "W drugim roku."
+    },
+    {
+      "front": "Wapnowanie gleb lekkich – kiedy konieczne, kiedy zbędne?",
+      "back": "Konieczne do pH 4,5; zbędne od pH 6,1."
+    },
+    {
+      "front": "Wapnowanie gleb ciężkich – kiedy konieczne, kiedy zbędne?",
+      "back": "Konieczne do pH 5,5; zbędne od pH 7,1."
+    },
+    {
+      "front": "Dawka CaO na glebie lekkiej o pH < 4,1",
+      "back": "3,5 t CaO/ha."
+    },
+    {
+      "front": "Dawka N dla jęczmienia jarego przy plonie 6 t/ha",
+      "back": "80 kg N/ha."
+    },
+    {
+      "front": "Dawka N dla pszenicy jarej przy plonie 6 t/ha",
+      "back": "160 kg N/ha."
+    },
+    {
+      "front": "Dawka N dla pszenżyta jarego przy plonie 6 t/ha",
+      "back": "120 kg N/ha."
+    },
+    {
+      "front": "Objaw niedoboru azotu w zbożu",
+      "back": "Jasnozielony kolor roślin."
+    },
+    {
+      "front": "Dokarmianie dolistne azotem – dawka i terminy",
+      "back": "Dwukrotnie po 5–8 kg N/ha: strzelanie w źdźbło i kłoszenie."
+    },
+    {
+      "front": "Podział dawki azotu pod zboża jare",
+      "back": "Przed siewem 50–60%, reszta (20–30%) w strzelaniu w źdźbło."
+    },
+    {
+      "front": "Kiedy stosuje się P i K pod zboża jare?",
+      "back": "W całości przed siewem."
+    },
+    {
+      "front": "Zespoły zabiegów uprawowych pod zboża jare",
+      "back": "Uprawki pożniwne, orka przedzimowa, uprawki przedsiewne."
+    },
+    {
+      "front": "Głębokość orki po wieloletnich i kukurydzy / po okopowych",
+      "back": "25–30 cm / 15–20 cm."
+    },
+    {
+      "front": "Pierwszy zabieg wiosenny pod zboża jare",
+      "back": "Włókowanie lub bronowanie – mniej parowania, szybsze ogrzanie gleby."
+    },
+    {
+      "front": "Zestaw uprawowy przed siewem zbóż jarych",
+      "back": "Kultywator o wąskich łapach z wałem strunowym."
+    },
+    {
+      "front": "Uprawa przed siewem zbóż jarych po przepadłych oziminach",
+      "back": "Podorywka i bronowanie, potem siew."
+    },
+    {
+      "front": "Optymalna liczba ziaren na m² dla zbóż jarych",
+      "back": "400–650."
+    },
+    {
+      "front": "Głębokość siewu i rozstaw rzędów zbóż jarych",
+      "back": "2–5 cm; 10–15 cm."
+    },
+    {
+      "front": "Ilość wysiewu pszenicy jarej",
+      "back": "180–260 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu jęczmienia jarego",
+      "back": "130–170 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu owsa i pszenżyta jarego",
+      "back": "160–200 kg/ha."
+    },
+    {
+      "front": "Ilość wysiewu żyta jarego",
+      "back": "110–160 kg/ha."
+    },
+    {
+      "front": "Kolejność siewu zbóż jarych",
+      "back": "Owies, pszenica jara, pszenżyto jare, jęczmień jary."
+    },
+    {
+      "front": "Kiedy bronuje się zboża przeciw chwastom?",
+      "back": "Przed wschodami i w fazie 3–4 liści."
+    },
+    {
+      "front": "Nawożenie azotem jęczmienia browarnego",
+      "back": "Tylko 2–3 tygodnie przed siewem, w niewielkich dawkach."
+    },
+    {
+      "front": "Popularne mieszanki zbożowe",
+      "back": "Jęczmień + owies, jęczmień + pszenica, jęczmień + owies + pszenżyto, jęczmień + pszenica + owies."
+    },
+    {
+      "front": "Herbicyd Atlantis – przeciw czemu?",
+      "back": "Miotle zbożowej i stokłosom."
+    },
+    {
+      "front": "Herbicyd Puma – przeciw czemu?",
+      "back": "Owsowi głuchemu."
+    },
+    {
+      "front": "Czym przeciwdziała się wyleganiu zbóż?",
+      "back": "Regulatorami wzrostu od początku strzelania w źdźbło (np. Medax Top)."
+    },
+    {
+      "front": "Kiedy stosować insektycydy w zbożach?",
+      "back": "Po przekroczeniu progów zagrożenia."
+    },
+    {
+      "front": "Próg zagrożenia – płoniarka zbożówka",
+      "back": "6 larw na 100 roślin w okresie krzewienia."
+    },
+    {
+      "front": "Próg zagrożenia – pryszczek pszeniczny",
+      "back": "8 larw na 1 kłosie w okresie kłoszenia."
+    },
+    {
+      "front": "Próg zagrożenia – mszyce zbożowe",
+      "back": "5 mszyc na 1 kłosie w kłoszeniu lub zaraz po."
+    },
+    {
+      "front": "Próg zagrożenia – skrzypionki zbożowe",
+      "back": "1–1,5 larwy na źdźble w fazie wyrzucania liścia flagowego."
+    },
+    {
+      "front": "Sposób zbioru zbóż jarych",
+      "back": "Jednoetapowo kombajnem zbożowym."
+    },
+    {
+      "front": "Wilgotność ziarna do przechowywania",
+      "back": "13–14%."
+    },
+    {
+      "front": "Temperatura dosuszania ziarna siewnego / paszowego",
+      "back": "45–50°C / 60–70°C."
+    },
+    {
+      "front": "Przechowywanie wilgotnego ziarna bez suszarni",
+      "back": "Warstwy 20–50 cm, szuflowanie co najmniej raz dziennie."
+    },
+    {
+      "front": "Pszenica jara a ozima – porównanie",
+      "back": "Jara: niższa plenność i większa zawodność plonów, ale więcej białka, tłuszczu i glutenu (lepsza wartość wypiekowa), mniej włókna surowego."
+    },
+    {
+      "front": "Dlaczego pszenica jara ma najwyższe wymagania wśród zbóż jarych?",
+      "back": "Ma słabiej rozwinięty system korzeniowy."
+    },
+    {
+      "front": "Najlepsze i najgorsze przedplony dla pszenicy jarej",
+      "back": "Najlepsze: rzepak i strączkowe (łubin); zadowalające: okopowe i motylkowate wieloletnie; najgorsze: zboża, zwłaszcza jęczmień i pszenica."
+    },
+    {
+      "front": "Ostateczny termin siewu pszenicy jarej",
+      "back": "Początek kwietnia; wczesny siew zapewnia silne ukorzenienie i odporność na niekorzystną pogodę."
+    },
+    {
+      "front": "Dlaczego w pszenicy jarej nie zwalcza się miotły zbożowej?",
+      "back": "Miotła zbożowa w zbożach jarych słabiej się rozrasta i jest mniej konkurencyjna – zwalcza się tylko chwasty dwuliścienne."
+    },
+    {
+      "front": "Kiedy bronowanie najskuteczniej niszczy chwasty?",
+      "back": "Gdy chwasty są w fazie liścieni lub pierwszych liści właściwych."
+    },
+    {
+      "front": "Nazwij zboża: górny rząd (2) i dolny rząd (2).",
+      "back": "Wg podpisu w materiale: jęczmień, owies (wiecha); pszenica, żyto.",
+      "img": "img/ur3/klosy-zboz-jarych.jpg"
+    },
+    {
+      "front": "Jakie to zboże?",
+      "back": "Pszenżyto.",
+      "img": "img/ur3/pszenzyto.jpg"
+    },
+    {
+      "front": "Skala BBCH zbóż: co oznaczają liczby 21, 30, 31, 51 i 61–69?",
+      "back": "21 – początek krzewienia, 30 – początek strzelania w źdźbło, 31 – stadium 1. kolanka, 51 – początek kłoszenia, 61–69 – kwitnienie.",
+      "img": "img/ur3/fazy-rozwojowe-zboza.jpg"
+    },
+    {
+      "front": "Jaki szkodnik zbóż jest na zdjęciu?",
+      "back": "Skrzypionka zbożowa – próg zagrożenia 1–1,5 larwy na źdźble w fazie wyrzucania liścia flagowego.",
+      "img": "img/ur3/skrzypionka-zbozowa.jpg"
+    },
+    {
+      "front": "Jakie szkodniki zbóż widać na łodydze (obok biedronki)?",
+      "back": "Mszyce – próg zagrożenia 5 mszyc na 1 kłosie w kłoszeniu lub zaraz po.",
+      "img": "img/ur3/mszyce.jpg"
+    },
+    {
+      "front": "Głębokość siewu i rozstawa rzędów pszenicy jarej (wg wideokastu)",
+      "back": "Głębokość 2–4 cm, rozstawa rzędów 8–15 cm."
+    },
+    {
+      "front": "Dawki NPK i Mg dla owsa przy plonie 5 t/ha",
+      "back": "N 60, P2O5 50, K2O 60, MgO 10 kg/ha."
+    },
+    {
+      "front": "Dawki N dla owsa przy plonie 4 / 8 t/ha",
+      "back": "40 / 140 kg N/ha."
+    },
+    {
+      "front": "Dawki NPK i Mg dla mieszanek zbożowych trzyskładnikowych przy plonie 7 t/ha",
+      "back": "N 110, P2O5 75, K2O 95, MgO 20 kg/ha."
+    },
+    {
+      "front": "Wapnowanie gleb średnich – progi pH",
+      "back": "Konieczne do 5,0; potrzebne 5,1–5,5; wskazane 5,6–6,0; ograniczone 6,1–6,5; zbędne od 6,6."
+    },
+    {
+      "front": "Dawki CaO na glebach ciężkich (pH <4,1 → 6,1–6,5)",
+      "back": "6,0 / 6,0 / 4,5 / 3,0 / 2,0 / 1,5 t CaO/ha."
+    },
+    {
+      "front": "Dawki CaO na glebach średnich (pH <4,1 → 5,6–6,0)",
+      "back": "5,5 / 5,0 / 4,0 / 2,5 / 1,0 t CaO/ha; przy pH 6,1–6,5 – nie wapnuje się."
+    },
+    {
+      "front": "Dlaczego wysoka temperatura podczas wschodów i krzewienia szkodzi pszenżytu jaremu?",
+      "back": "Zmniejsza liczbę pędów bocznych (optimum 6–8°C)."
+    },
+    {
+      "front": "Zmianowanie z owsem i pszenżytem jarym po ziemniakach wczesnych (przykład)",
+      "back": "Ziemniaki wczesne → pszenica ozima → owies → pszenżyto jare → kukurydza na kiszonkę."
+    },
+    {
+      "front": "Dlaczego grykę zalicza się do zbóż, choć należy do rdestowatych?",
+      "back": "Ze względu na podobny skład chemiczny nasion i taki sam sposób uprawy jak zbóż jarych."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla pszenicy jarej przy plonie 4 t/ha",
+      "back": "N 110, P2O5 50, K2O 100, MgO 16 kg/ha."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla pszenżyta jarego przy plonie 4 t/ha",
+      "back": "N 80, P2O5 40, K2O 90, MgO 20 kg/ha."
+    },
+    {
+      "front": "Dawki N, P2O5, K2O, MgO dla jęczmienia jarego przy plonie 8 t/ha",
+      "back": "N 120, P2O5 70, K2O 85, MgO 25 kg/ha."
+    },
+    {
+      "front": "Potrzeby wapnowania gleb bardzo lekkich wg pH (Tab. 3.1)",
+      "back": "Konieczne do 4,0; potrzebne 4,1–4,5 (w tabeli wydrukowano 4,1–5,5); wskazane 4,6–5,0; ograniczone 5,1–5,5; zbędne od 5,6."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Zboża w strukturze zasiewów w Polsce zajmują:",
+      "options": [
+        "ok. 20% powierzchni",
+        "ok. 35% powierzchni",
+        "ponad 70% powierzchni",
+        "ok. 50% powierzchni"
+      ],
+      "answer": 2,
+      "explain": "Wg GUS zboża zajmują ponad 70% powierzchni uprawnej."
+    },
+    {
+      "q": "Na paszę dla zwierząt zużywa się około:",
+      "options": [
+        "50% ziarna zbóż",
+        "10% ziarna zbóż",
+        "25% ziarna zbóż",
+        "90% ziarna zbóż"
+      ],
+      "answer": 0,
+      "explain": "Ok. 50% zbóż zużywa się na paszę, ok. 40% na spożycie."
+    },
+    {
+      "q": "Gryka należy do rodziny:",
+      "options": [
+        "traw",
+        "szarłatowatych",
+        "bobowatych",
+        "rdestowatych"
+      ],
+      "answer": 3,
+      "explain": "Gryka to pseudozboże z rodziny rdestowatych."
+    },
+    {
+      "q": "Formy jare i ozime posiada:",
+      "options": [
+        "owies",
+        "pszenżyto",
+        "proso",
+        "gryka"
+      ],
+      "answer": 1,
+      "explain": "Pszenica, jęczmień i pszenżyto mają formy jare i ozime."
+    },
+    {
+      "q": "Pierwszą odmianą żyta jarego w Polsce była:",
+      "options": [
+        "Bojko",
+        "Abago",
+        "Nagano",
+        "Kora"
+      ],
+      "answer": 1,
+      "explain": "Pierwszą była wprowadzona w 1999 r. odmiana Abago."
+    },
+    {
+      "q": "Ziarno żyta jarego odmiany Bojko zawiera białka:",
+      "options": [
+        "8,5%",
+        "10,2%",
+        "18,0%",
+        "13,8%"
+      ],
+      "answer": 3,
+      "explain": "Ziarno odmiany Bojko zawiera aż 13,8% białka."
+    },
+    {
+      "q": "Największe wymagania glebowe spośród zbóż jarych ma:",
+      "options": [
+        "pszenica jara",
+        "owies",
+        "żyto jare",
+        "pszenżyto jare"
+      ],
+      "answer": 0,
+      "explain": "Największe wymagania glebowe ze zbóż jarych ma pszenica jara."
+    },
+    {
+      "q": "Pszenżyto jare wymaga gleb o pH:",
+      "options": [
+        "poniżej 4,0",
+        "4,0–4,5",
+        "powyżej 5,5 (toleruje do 5)",
+        "powyżej 8,0"
+      ],
+      "answer": 2,
+      "explain": "Pszenżyto jare wymaga gleb o pH powyżej 5,5 z tolerancją do 5."
+    },
+    {
+      "q": "Zbożem jarym mało wrażliwym na odczyn, znoszącym gleby lekko kwaśne, jest:",
+      "options": [
+        "pszenica jara",
+        "jęczmień browarny",
+        "pszenica twarda",
+        "owies"
+      ],
+      "answer": 3,
+      "explain": "Owies i żyto jare są mało wrażliwe na odczyn i dobrze znoszą gleby lekko kwaśne."
+    },
+    {
+      "q": "Pszenicę jarą należy siać jak najwcześniej, ponieważ jarowizacja zachodzi w temperaturze:",
+      "options": [
+        "8–12°C",
+        "15–18°C",
+        "3–4°C",
+        "20–25°C"
+      ],
+      "answer": 2,
+      "explain": "Pszenica jara przechodzi jarowizację w temperaturze 3–4°C."
+    },
+    {
+      "q": "Pszenica jara najlepiej krzewi się w temperaturze:",
+      "options": [
+        "1–3°C",
+        "8–12°C",
+        "18–20°C",
+        "25–30°C"
+      ],
+      "answer": 1,
+      "explain": "Pszenica jara najlepiej krzewi się w temperaturze 8–12°C."
+    },
+    {
+      "q": "Odmiany jęczmienia browarnego najlepiej uprawiać w warunkach klimatu:",
+      "options": [
+        "oceanicznego",
+        "kontynentalnego suchego",
+        "górskiego",
+        "pustynnego"
+      ],
+      "answer": 0,
+      "explain": "Odmiany browarne powinny być uprawiane w warunkach charakterystycznych dla klimatu oceanicznego."
+    },
+    {
+      "q": "Optymalna temperatura wschodów i krzewienia pszenżyta jarego to:",
+      "options": [
+        "1–2°C",
+        "16–17°C",
+        "6–8°C",
+        "22–24°C"
+      ],
+      "answer": 2,
+      "explain": "Optymalna temperatura wschodów i krzewienia pszenżyta jarego to 6–8°C."
+    },
+    {
+      "q": "Największe potrzeby wodne owies ma w okresie:",
+      "options": [
+        "od strzelania w źdźbło do wyrzucania wiechy",
+        "kiełkowania",
+        "dojrzałości pełnej",
+        "po zbiorze"
+      ],
+      "answer": 0,
+      "explain": "Owies ma wysokie potrzeby wodne od strzelania w źdźbło do wyrzucania wiechy."
+    },
+    {
+      "q": "Gryka jest rośliną fitosanitarną, ponieważ:",
+      "options": [
+        "wiąże azot z powietrza",
+        "zawiera gluten",
+        "wymaga wapnowania",
+        "skutecznie zwalcza nicienie"
+      ],
+      "answer": 3,
+      "explain": "Gryka należy do roślin fitosanitarnych, ponieważ skutecznie zwalcza nicienie."
+    },
+    {
+      "q": "Grykę należy wysiewać:",
+      "options": [
+        "w lutym",
+        "po ustąpieniu przymrozków",
+        "jesienią",
+        "w zimie na śnieg"
+      ],
+      "answer": 1,
+      "explain": "Siew gryki powinien nastąpić nie wcześniej niż po ustąpieniu przymrozków."
+    },
+    {
+      "q": "Złym przedplonem dla jęczmienia jarego jest:",
+      "options": [
+        "ziemniak",
+        "jęczmień ozimy",
+        "koniczyna",
+        "bobik"
+      ],
+      "answer": 1,
+      "explain": "Należy unikać uprawy jęczmienia jarego po jęczmieniu ozimym ze względu na choroby."
+    },
+    {
+      "q": "Owies jest dobrym przedplonem dla innych zbóż, ponieważ:",
+      "options": [
+        "wiąże azot atmosferyczny",
+        "pozostawia dużo obornika",
+        "zwiększa zakwaszenie gleby",
+        "hamuje rozwój chorób podsuszkowych"
+      ],
+      "answer": 3,
+      "explain": "Owies hamuje rozwój chorób podsuszkowych."
+    },
+    {
+      "q": "Zboża jare pobierają ogółem azotu:",
+      "options": [
+        "30–80 kg/ha",
+        "5–10 kg/ha",
+        "150–200 kg/ha",
+        "250–300 kg/ha"
+      ],
+      "answer": 0,
+      "explain": "Zboża jare pobierają ogółem 30–80 kg/ha azotu."
+    },
+    {
+      "q": "W uprawie tradycyjnej zboża jare uprawia się zazwyczaj:",
+      "options": [
+        "bezpośrednio na oborniku",
+        "w piątym roku po oborniku",
+        "w drugim roku po oborniku",
+        "wyłącznie na gnojowicy"
+      ],
+      "answer": 2,
+      "explain": "W uprawie tradycyjnej zboża jare uprawia się zazwyczaj w drugim roku po oborniku."
+    },
+    {
+      "q": "Na glebach lekkich wapnowanie jest zbędne od pH:",
+      "options": [
+        "4,6",
+        "5,1",
+        "7,1",
+        "6,1"
+      ],
+      "answer": 3,
+      "explain": "Dla gleb lekkich wapnowanie jest zbędne od pH 6,1."
+    },
+    {
+      "q": "Na glebach ciężkich wapnowanie jest konieczne do pH:",
+      "options": [
+        "4,0",
+        "4,5",
+        "5,5",
+        "5,0"
+      ],
+      "answer": 2,
+      "explain": "Na glebach ciężkich wapnowanie jest konieczne do pH 5,5."
+    },
+    {
+      "q": "Zalecana dawka azotu dla jęczmienia jarego przy plonie 6 t/ha wynosi:",
+      "options": [
+        "20 kg N/ha",
+        "80 kg N/ha",
+        "160 kg N/ha",
+        "220 kg N/ha"
+      ],
+      "answer": 1,
+      "explain": "Dla jęczmienia jarego przy plonie 6 t/ha zaleca się 80 kg N/ha."
+    },
+    {
+      "q": "Jasnozielony kolor zbóż w okresie wegetacji wskazuje na:",
+      "options": [
+        "niski poziom azotu",
+        "nadmiar azotu",
+        "nadmiar potasu",
+        "optymalne odżywienie"
+      ],
+      "answer": 0,
+      "explain": "Kolor jasnozielony oznacza niski poziom azotu, a ciemnozielony wysoki."
+    },
+    {
+      "q": "Dolistne dokarmianie zbóż azotem stosuje się zwykle:",
+      "options": [
+        "jednorazowo 100 kg N/ha",
+        "pięciokrotnie po 30 kg N/ha",
+        "dwukrotnie po 5–8 kg N/ha",
+        "tylko przed siewem"
+      ],
+      "answer": 2,
+      "explain": "Dokarmianie stosujemy zazwyczaj dwukrotnie w ilości 5–8 kg N/ha."
+    },
+    {
+      "q": "Przedsiewnie stosuje się następującą część dawki azotu pod zboża jare:",
+      "options": [
+        "50–60%",
+        "5–10%",
+        "20–30%",
+        "100%"
+      ],
+      "answer": 0,
+      "explain": "Pierwszą dawkę azotu przed siewem stosujemy w ilości 50–60%."
+    },
+    {
+      "q": "Po roślinach wieloletnich i kukurydzy orka pod zboża jare powinna mieć głębokość:",
+      "options": [
+        "5–8 cm",
+        "10–12 cm",
+        "40–50 cm",
+        "25–30 cm"
+      ],
+      "answer": 3,
+      "explain": "Po roślinach wieloletnich i kukurydzy głębokość orki powinna wynosić 25–30 cm."
+    },
+    {
+      "q": "Wiosenną uprawę pod zboża jare rozpoczyna się od:",
+      "options": [
+        "orki głębokiej",
+        "włókowania lub bronowania",
+        "podorywki",
+        "wałowania wałem Cambridge"
+      ],
+      "answer": 1,
+      "explain": "Wiosenną uprawę roli rozpoczynamy od włókowania lub bronowania."
+    },
+    {
+      "q": "Optymalna liczba wysiewanych ziaren zbóż jarych na 1 m² to:",
+      "options": [
+        "50–100",
+        "400–650",
+        "150–250",
+        "1000–1500"
+      ],
+      "answer": 1,
+      "explain": "Optymalna ilość ziaren na m² waha się od 400 do 650."
+    },
+    {
+      "q": "Ilość wysiewu jęczmienia jarego wynosi:",
+      "options": [
+        "40–60 kg/ha",
+        "250–300 kg/ha",
+        "350–400 kg/ha",
+        "130–170 kg/ha"
+      ],
+      "answer": 3,
+      "explain": "Przykładowa ilość wysiewu jęczmienia jarego to 130–170 kg/ha."
+    },
+    {
+      "q": "Jako pierwsze spośród zbóż jarych wysiewa się:",
+      "options": [
+        "owies",
+        "jęczmień jary",
+        "pszenżyto jare",
+        "grykę"
+      ],
+      "answer": 0,
+      "explain": "Kolejność siewu: owies, pszenica jara, pszenżyto jare, jęczmień jary."
+    },
+    {
+      "q": "Rozstaw rzędów przy siewie zbóż jarych wynosi:",
+      "options": [
+        "2–5 cm",
+        "30–45 cm",
+        "10–15 cm",
+        "60–75 cm"
+      ],
+      "answer": 2,
+      "explain": "Rozstaw rzędów zbóż jarych wynosi od 10 do 15 cm."
+    },
+    {
+      "q": "Bronowanie zbóż przeciw chwastom wykonuje się:",
+      "options": [
+        "tylko w fazie kłoszenia",
+        "w dojrzałości woskowej",
+        "po zbiorze",
+        "przed wschodami i w fazie 3–4 liści"
+      ],
+      "answer": 3,
+      "explain": "Chwasty zwalcza się bronowaniem przed wschodami i w fazie 3–4 liści."
+    },
+    {
+      "q": "Jęczmień browarny nawozi się azotem:",
+      "options": [
+        "w fazie kłoszenia dużą dawką",
+        "pogłównie trzykrotnie",
+        "2–3 tygodnie przed siewem w niewielkich dawkach",
+        "obornikiem bezpośrednio przed siewem"
+      ],
+      "answer": 2,
+      "explain": "W uprawie jęczmienia browarnego azot stosuje się jedynie 2–3 tygodnie przed siewem w niewielkich dawkach."
+    },
+    {
+      "q": "Herbicyd Puma stosuje się do zwalczania:",
+      "options": [
+        "miotły zbożowej",
+        "owsa głuchego",
+        "skrzypionki",
+        "mszyc"
+      ],
+      "answer": 1,
+      "explain": "Puma służy do zwalczania owsa głuchego."
+    },
+    {
+      "q": "Próg zagrożenia dla mszyc zbożowych w okresie kłoszenia wynosi:",
+      "options": [
+        "5 mszyc na 1 kłosie",
+        "1 mszyca na 100 roślin",
+        "50 mszyc na 1 kłosie",
+        "100 mszyc na źdźble"
+      ],
+      "answer": 0,
+      "explain": "Próg dla mszyc zbożowych w kłoszeniu to 5 mszyc na 1 kłosie."
+    },
+    {
+      "q": "Próg zagrożenia dla płoniarki zbożówki w okresie krzewienia to:",
+      "options": [
+        "1 larwa na 1000 roślin",
+        "8 larw na 1 kłosie",
+        "6 larw na 100 roślin",
+        "5 larw na źdźble"
+      ],
+      "answer": 2,
+      "explain": "Próg dla płoniarki zbożówki w krzewieniu wynosi 6 larw na 100 roślin."
+    },
+    {
+      "q": "Regulatory wzrostu w zbożach stosuje się w celu:",
+      "options": [
+        "zapobiegania wyleganiu",
+        "zwalczania mszyc",
+        "przyspieszenia kiełkowania",
+        "zwalczania miotły zbożowej"
+      ],
+      "answer": 0,
+      "explain": "W celu zapobiegania wyleganiu zbóż stosujemy regulatory wzrostu, np. Medax Top."
+    },
+    {
+      "q": "Ziarno zbóż do przechowywania powinno mieć wilgotność:",
+      "options": [
+        "8–9%",
+        "18–20%",
+        "25–30%",
+        "13–14%"
+      ],
+      "answer": 3,
+      "explain": "Do przechowywania nadaje się ziarno o wilgotności 13–14%."
+    },
+    {
+      "q": "Ziarno siewne dosusza się w temperaturze:",
+      "options": [
+        "20–25°C",
+        "45–50°C",
+        "60–70°C",
+        "90–100°C"
+      ],
+      "answer": 1,
+      "explain": "Ziarno siewne dosusza się w temperaturze 45–50°C, paszowe w 60–70°C."
+    },
+    {
+      "q": "Który przedplon jest najgorszy dla pszenicy jarej?",
+      "options": [
+        "Rzepak",
+        "Łubin",
+        "Ziemniaki",
+        "Jęczmień"
+      ],
+      "answer": 3,
+      "explain": "Najgorszymi przedplonami dla pszenicy jarej są zboża, zwłaszcza jęczmień i pszenica."
+    },
+    {
+      "q": "Czym pszenica jara różni się od ozimej?",
+      "options": [
+        "Ma wyższą plenność i mniejszą zawodność plonów",
+        "Zawiera więcej białka i glutenu, ale ma niższą plenność",
+        "Ma silniej rozwinięty system korzeniowy",
+        "Ma najniższe wymagania glebowe wśród zbóż jarych"
+      ],
+      "answer": 1,
+      "explain": "Pszenica jara plonuje niżej i bardziej zawodnie, ale ma więcej białka i glutenu, co poprawia wartość wypiekową."
+    },
+    {
+      "q": "Początek kłoszenia zboża w skali BBCH oznacza liczba:",
+      "options": [
+        "21",
+        "31",
+        "51",
+        "71"
+      ],
+      "answer": 2,
+      "explain": "21 – początek krzewienia, 31 – 1. kolanko, 51 – początek kłoszenia, 71–92 – dojrzewanie.",
+      "img": "img/ur3/fazy-rozwojowe-zboza.jpg"
+    },
+    {
+      "q": "Owad na zdjęciu to szkodnik zbóż:",
+      "options": [
+        "stonka ziemniaczana",
+        "skrzypionka zbożowa",
+        "mszyca zbożowa",
+        "pryszczarek"
+      ],
+      "answer": 1,
+      "explain": "Skrzypionka zbożowa – mały chrząszcz z rudym przedpleczem i ciemnoniebieskimi pokrywami.",
+      "img": "img/ur3/skrzypionka-zbozowa.jpg"
+    },
+    {
+      "q": "Jaka jest dawka CaO na glebie średniej o pH 4,6–5,0 (tab. 3.2)?",
+      "options": [
+        "2,0 t/ha",
+        "4,0 t/ha",
+        "5,5 t/ha",
+        "1,0 t/ha"
+      ],
+      "answer": 1,
+      "explain": "Gleby średnie: <4,1 – 5,5; 4,1–4,5 – 5,0; 4,6–5,0 – 4,0; 5,1–5,5 – 2,5; 5,6–6,0 – 1,0 t CaO/ha."
+    },
+    {
+      "q": "Ile azotu zaleca się pod owies przy plonie 7 t/ha?",
+      "options": [
+        "60 kg/ha",
+        "80 kg/ha",
+        "100 kg/ha",
+        "120 kg/ha"
+      ],
+      "answer": 3,
+      "explain": "Tab. 3.3: owies 4 t – 40, 5 t – 60, 7 t – 120, 8 t – 140 kg N/ha."
+    }
+  ],
+  "selftest": [
+    {
+      "q": "Jakie produkty są wytwarzane z ziaren zbóż do celów konsumpcyjnych?",
+      "options": [
+        "Kiszonka.",
+        "Kasza.",
+        "Syropy.",
+        "Olej.",
+        "Mąka."
+      ],
+      "answers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nZboża stanowią około … światowej produkcji roślinnej.",
+      "options": [
+        "70%",
+        "50%"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nSzczególne znaczenie zbóż wynika z ich właściwości biologicznych, a przede wszystkim z ich zdolności łatwego przystosowania do warunków środowiska.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Ile procent powierzchni uprawnej w Polsce zajmują zboża?",
+      "options": [
+        "Ok. 50%.",
+        "Ok. 60%.",
+        "Ponad 70%.",
+        "65–70%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nSłoma wykorzystywana jest jako surowiec …, jako pasza i ściółka w produkcji zwierzęcej oraz do produkcji celulozy.",
+      "options": [
+        "energetyczny",
+        "leczniczy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica, żyto, jęczmień i pszenżyto posiadają formy jare i ozime, natomiast pozostałe reprezentowane są jedynie przez formy jare.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Które ze zbóż należy wysiać najwcześniej?",
+      "options": [
+        "Owies.",
+        "Jęczmień jary.",
+        "Pszenicę jarą.",
+        "Pszenżyto jare."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPo roślinach wieloletnich i kukurydzy głębokość orki powinna wynosić 25–30 cm, a po roślinach okopowych powinna być nieco płytsza … cm.",
+      "options": [
+        "20–25",
+        "15–20"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe. Spośród zbóż jarych największe wymagania glebowe ma owies, pszenżyto jare, następnie jęczmień jary, pszenica jara i żyto jare.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż typy pszenicy.",
+      "options": [
+        "Nagoziarnista.",
+        "Orkiszowa.",
+        "Browarna.",
+        "Twarda.",
+        "Zwyczajna."
+      ],
+      "answers": [
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOwies i żyto jare mają … wymagania glebowe.",
+      "options": [
+        "największe",
+        "najmniejsze"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica jara daje najlepsze plony w klimacie ciepłym i suchym.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż okres, w którym jęczmień ma zwiększone zapotrzebowanie na wodę.",
+      "options": [
+        "Od krzewienia do kłoszenia.",
+        "Faza kłoszenia.",
+        "Faza dojrzewania.",
+        "Faza strzelania w źdźbło."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOdczyn gleby przeznaczonej pod uprawę pszenicy jarej i jęczmienia jarego powinien być ….",
+      "options": [
+        "kwaśny.",
+        "zbliżony do obojętnego."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwies ma duże wymagania termiczne i wysokie potrzeby wodne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż dobre przedplony zbóż jarych.",
+      "options": [
+        "Motylkowate drobnonasienne (lucerna, koniczyna).",
+        "Kapustowate (kalafior, kapusta).",
+        "Okopowe (ziemniaki, buraki).",
+        "Strączkowe (bobik, łubin).",
+        "Astrowate (karczoch, słonecznik).",
+        "Kukurydza i plony ścierniskowe."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nOwies hamuje rozwój chorób podsuszkowych, dlatego jest … przedplonem dla innych zbóż.",
+      "options": [
+        "złym",
+        "dobrym"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nCelem zabiegów uprawowych przygotowujących glebę do siewu zbóż jarych jest poprawa właściwości fizycznych warstwy ornej, przyśpieszenie rozpadu resztek pożniwowych, zwalczanie chwastów, chorób i szkodników.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Jaki procent plonów zbóż jest zużywany na bezpośrednie spożycie przez ludzi?",
+      "options": [
+        "Ok. 50%.",
+        "Ok. 40%.",
+        "Ok. 60%."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDolistne nawożenie zbóż jest coraz powszechniejsze szczególnie, kiedy celem produkcji jest uzyskanie … wysokiej jakości.",
+      "options": [
+        "słomy",
+        "ziaren"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNawozy fosforowe, potasowe i azotowe stosuje się w całości, w postaci jednej dawki, przed siewem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż efekty wiosennego włókowania pola.",
+      "options": [
+        "Lepsze przygotowanie pola pod zasiew.",
+        "Szybsze ogrzewanie gleby.",
+        "Zmniejszenie parowania wody z gleby."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nNawozy organiczne (obornik, kompost) stosuje się przed ….",
+      "options": [
+        "siewem",
+        "orką zimową"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJesienna uprawa roli uzależniona jest od przedplonu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż odpowiednią głębokość orki przedzimowej po kukurydzy, zbożach i roślinach wieloletnich.",
+      "options": [
+        "20–25 cm.",
+        "10–15 cm.",
+        "15–20 cm.",
+        "25–30 cm."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDla pszenżyta najodpowiedniejsze są gleby kompleksów: żytniego bardzo dobrego oraz żytniego dobrego o wysokiej kulturze i kwasowości … 5,5 pH z tolerancją do 5 pH.",
+      "options": [
+        "poniżej",
+        "powyżej"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nNie ma potrzeby zaprawiania nasion kwalifikowanych zbóż przeciw chorobom grzybowym przed siewem.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż główne czynniki związane z nawożeniem pszenicy jarej.",
+      "options": [
+        "Rodzaj gleby.",
+        "Przedplon.",
+        "Zasobności gleby w składniki pokarmowe.",
+        "Warunki atmosferyczne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nMechaniczne zwalczanie chwastów w uprawie zbóż polega na zastosowaniu … przed wschodami i w fazie 3–4 liścia.",
+      "options": [
+        "włókowania",
+        "bronowania"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPo pojawieniu się chorób na uprawie, rozpoczynamy ich zwalczanie odpowiednimi środkami ochrony roślin.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż sposób zapobiegania wyleganiu.",
+      "options": [
+        "Bronowanie.",
+        "Włókninowanie.",
+        "Stosowanie regulatorów wzrostu."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nDo zwalczania szkodników w uprawach zbóż jarych stosujemy ….",
+      "options": [
+        "insektycydy",
+        "fungicydy"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPrawidłowy zbiór zbóż jarych odbywa się jednoetapowo za pomocą kombajnów do zbioru zbóż.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż prawidłową grubość warstwy składowania zboża o wilgotności powyżej zalecanej.",
+      "options": [
+        "20–50 cm.",
+        "10–20 cm.",
+        "< 1 m.",
+        "30–70 cm."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPrawidłowe jest dosuszanie ziarna siewnego ogrzewanym powietrzem w temperaturze ….",
+      "options": [
+        "60–70°C",
+        "45–50°C"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZiarno o wilgotności do 20% nadaje się do przechowywania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż elementy pielęgnacji zbóż jarych.",
+      "options": [
+        "Zwalczanie chwastów.",
+        "Zwalczanie ewentualnych chorób.",
+        "Obornikowanie.",
+        "Przeciwdziałanie wyleganiu.",
+        "Utrzymanie sprawności gleby."
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nTechnologie uprawy zbóż jarych zasadniczo … od siebie.",
+      "options": [
+        "nie różnią się",
+        "różnią się"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nTechnologia uprawy roślin uwzględnia nawożenie, regulację wzrostu, zwalczanie chorób i zwalczanie chwastów w odniesieniu do etapu wzrostu. Nie ma natomiast wytycznych, jeśli chodzi o termin i gęstość siewu.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż najpopularniejsze mieszanki zbóż.",
+      "options": [
+        "Jęczmień + owies.",
+        "Jęczmień + pszenica.",
+        "Jęczmień + owies + pszenżyto.",
+        "Jęczmień + pszenica + owies.",
+        "Jęczmień + pszenica + żyto.",
+        "Jęczmień + owies + żyto."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź. Chorobom zbóż jarych zapobiegamy, stosując środki chemiczne przeciw rozprzestrzenianiu się chorób grzybowych i ….",
+      "options": [
+        "wirusowych",
+        "bakteryjnych"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZapobieganie występowaniu szkodników zbóż polega na stosowaniu: odpowiedniej agrotechniki uprawy gleby, odpowiedniego stanowiska w zmianowaniu i odpowiedniej ochrony chemicznej.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Pod względem powierzchni uprawy zbóż, Polska należy do czołówki Europy. Uzyskiwane plony, w porównaniu z innymi krajami Europy, są:",
+      "options": [
+        "wysokie",
+        "niskie",
+        "bardzo wysokie"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Uzupełnij poniższe zdanie, wybierając odpowiedź.\nPszenica, żyto, jęczmień, owies, pszenżyto, kukurydza, proso to jednoroczne gatunki z rodziny ….",
+      "options": [
+        "traw",
+        "astrów"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nW przypadku siewu zbóż jarych po przepadłych zbożach ozimych należy wykonać podrywkę i bronowanie, a następnie siew.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ],
+  "knowledgetest": [
+    {
+      "q": "Po jakich roślinach można uprawiać owies?",
+      "options": [
+        "Tylko po strączkowych.",
+        "Tylko po okopowych.",
+        "Po wszystkich roślinach.",
+        "Tylko po kukurydzy."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZiarno przeznaczone na paszę może być suszone w suszarkach w temperaturze 60–70°C.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż, od czego zależy wapnowanie.",
+      "options": [
+        "Od napowietrzenia gleby.",
+        "Od ilości chwastów.",
+        "Od pH gleby.",
+        "Od wymagań roślin."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe , czy fałszywe.\nW uprawach tradycyjnych zboża jare uprawiane są na ogół w pierwszym roku po oborniku.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPlan nawożenia i dobór dawek nawozów mineralnych pod zboża ustalany jest na podstawie zasobności gleby w składniki pokarmowe.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż nawozy mineralne stosowane w całości przedsiewnie.",
+      "options": [
+        "Azot.",
+        "Potas.",
+        "Fosfor."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż fazę rozwojową zbóż, w której można zacząć bronować uprawy zbóż.",
+      "options": [
+        "3-4 liście.",
+        "4–5 liści.",
+        "1–2 liście."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJedyną formą zapobiegania chorobom zbóż jarych jest zaprawianie nasion.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż dobre przedplony zbóż jarych.",
+      "options": [
+        "Motylkowate grubonasienne.",
+        "Strączkowe (bobik, łubin).",
+        "Okopowe (ziemniaki, buraki, marchew pastewna).",
+        "Zboża ozime.",
+        "Motylkowate drobnonasienne.",
+        "Kukurydza i poplony ścierniskowe."
+      ],
+      "answers": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "multi": true
+    },
+    {
+      "q": "Który z wymienionych środków ochrony roślin chroni przed szkodnikami?",
+      "options": [
+        "Caryx.",
+        "Medax Top.",
+        "Karate.",
+        "Tolurex 500 S.C."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJeżeli ziarno ma wilgotność wyższą od zalecanej, można je składować w warstwach 20–70 cm i szuflować co najmniej 4 razy dziennie do osiągnięcia odpowiedniej wilgotności.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż wilgotność, w której ziarno nadaje się do przechowywania.",
+      "options": [
+        "16–17%.",
+        "15–16%.",
+        "13–14%."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Wskaż wymagania, które należy wziąć pod uwagę, ustalając zmianowanie dla zbóż jarych.",
+      "options": [
+        "Występowanie szkodników.",
+        "Występowanie chorób.",
+        "Wymagania pokarmowe.",
+        "Wymagania glebowe.",
+        "Wrażliwość na choroby."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Wskaż techniki zwalczania chwastów.",
+      "options": [
+        "Chemiczna (herbicydy).",
+        "Mieszana: bronowanie z równoczesnym użyciem herbicydów.",
+        "Ręczna.",
+        "Mechaniczna (bronowanie)."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy.\nTechnologie uprawy zbóż jarych są w zasadzie takie same. Pewne modyfikacje wprowadza się ze względu na cel produkcji.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż czynniki, które mają wpływ na zapobieganie występowaniu szkodników zbóż.",
+      "options": [
+        "Agrotechnika uprawy roślin.",
+        "Nawożenie.",
+        "Zmianowanie.",
+        "Odczyn (pH).",
+        "Ochrona chemiczna."
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nTermin siewu zbóż jarych powinien być możliwie najwcześniejszy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Co wpływa na wybór optymalnego terminu siewu?",
+      "options": [
+        "Odczyn pH gleby.",
+        "Gatunek zboża.",
+        "Region kraju.",
+        "Zastosowane nawozy."
+      ],
+      "answers": [
+        1,
+        2
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nIm wcześniejszy siew, tym ilość wysiewu powinna być większa.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zboże jare wymagające największej ilości wysiewu.",
+      "options": [
+        "Owies.",
+        "Pszenżyto jare.",
+        "Jęczmień jary.",
+        "Pszenica jara."
+      ],
+      "answers": [
+        3
+      ]
+    },
+    {
+      "q": "Wskaż wymagania klimatyczno-glebowe owsa.",
+      "options": [
+        "Wysokie potrzeby wodne.",
+        "Małe wymagania termiczne.",
+        "Małe potrzeby wodne.",
+        "Dobra tolerancja na wiosenne przymrozki.",
+        "Duże wymagania termiczne."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nJęczmień jary ma zróżnicowane wymagania klimatyczne, zależne od kierunku użytkowania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż okres, w którym owies ma szczególnie duże zapotrzebowanie na wodę.",
+      "options": [
+        "Od strzelania w źdźbło do wyrzucania wiech.",
+        "Przed wschodami.",
+        "Nigdy.",
+        "W fazie 3–4 liścia."
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nPszenica jara źle znosi wysokie temperatury w fazie strzelania w źdźbło, szczególnie przy dużych opadach.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOdmiany browarne jęczmienia dają dobre plony w warunkach klimatu kontynentalnego umiarkowanie suchego.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zabieg agrotechniczny stosowany do zmiany pH gleby.",
+      "options": [
+        "Stosowanie nawozu azotowego (mineralnego).",
+        "Wapnowanie.",
+        "Nawożenie fosforem i potasem.",
+        "Bronowanie."
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższy tekst jest prawdziwy, czy fałszywy. Spośród zbóż jarych uprawianych w Polsce największe znaczenie ma żyto. Plony uzyskiwane w Polsce są stosunkowo wysokie w porównaniu z innymi krajami Europy.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOwies ma małe wymagania termiczne i wodne.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż czynniki, które wpływają na duży procentowy udział zbóż w strukturze zasiewów w Polsce.",
+      "options": [
+        "Uniwersalność wykorzystania.",
+        "Wysokie ceny skupu zbóż.",
+        "Tradycje żywieniowe.",
+        "Względnie niskie koszty produkcji i przechowywania.",
+        "Prosta technologia upraw.",
+        "Bardzo duże plony."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nOptymalny odczyn gleby jest warunkiem dobrego plonowania zbóż jarych.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        0
+      ]
+    },
+    {
+      "q": "Wskaż gałęzie przemysłu wykorzystujące zboża.",
+      "options": [
+        "Farmaceutyka.",
+        "Piwowarstwo.",
+        "Młynarstwo.",
+        "Gorzelnictwo.",
+        "Energetyka."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Kiedy wysiewa się zboża jare?",
+      "options": [
+        "Jesienią.",
+        "Latem.",
+        "Wiosną."
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "q": "Oceń, czy poniższe zdanie jest prawdziwe, czy fałszywe.\nZboża skutecznie konkurują z chwastami i są roślinami stosunkowo odpornymi na choroby i szkodniki.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "q": "Wskaż zboża posiadające formy ozime i jare.",
+      "options": [
+        "Pszenica.",
+        "Owies.",
+        "Żyto.",
+        "Jęczmień.",
+        "Pszenżyto.",
+        "Gryka."
+      ],
+      "answers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "multi": true
+    },
+    {
+      "q": "Które z wymienionych zbóż jarych ma największe wymagania glebowe?",
+      "options": [
+        "Pszenica jara.",
+        "Żyto jare.",
+        "Pszenżyto jare.",
+        "Owies."
+      ],
+      "answers": [
+        0
+      ]
+    }
+  ]
+}
