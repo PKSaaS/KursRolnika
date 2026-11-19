@@ -23,6 +23,8 @@ for module_id in order:
     images = [i["src"] for s in m["notes"] for i in s.get("images", [])] + [x["img"] for x in m["flashcards"] + m["quiz"] + m.get("selftest", []) + m.get("knowledgetest", []) if "img" in x]
     for src in images:
         assert os.path.exists(os.path.join(here, src)), (module_id, "missing image", src)
+    if "video" in m:
+        assert os.path.exists(os.path.join(here, m["video"])), (module_id, "missing video", m["video"])
     modules.append(m)
     print(module_id, len(m["notes"]), "sections", len(m["flashcards"]), "cards", len(m["quiz"]), "questions", len(m.get("selftest", [])), "selftest", len(m.get("knowledgetest", [])), "knowledgetest", len(images), "images")
 print("TOTAL", len(modules), "modules", sum(len(m["flashcards"]) for m in modules), "cards", sum(len(m["quiz"]) for m in modules), "questions",

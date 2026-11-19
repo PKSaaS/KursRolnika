@@ -110,7 +110,7 @@
             const mastery = moduleMastery(m);
             const best = progress.quiz[m.id];
             return `<button class="mod" data-module="${m.id}">
-              <span class="num">${escapeHtml(unitName(m))}</span>
+              <span class="num">${escapeHtml(unitName(m))}${m.video ? ` <span class="has-video" title="Zawiera wideo">🎬</span>` : ""}</span>
               <span class="t">${escapeHtml(m.title)}</span>
               <span class="meta">${m.flashcards.length} fiszek · ${m.quiz.length} pytań${best != null ? " · test: " + best + "%" : ""}</span>
               <span class="bar"><i style="width:${mastery}%"></i></span>
@@ -126,8 +126,8 @@
     const module = moduleById[id];
     if (!module) return go("home");
     setNav("");
-    const tabs = [["notes", "📖 Notatki"], ["cards", "🃏 Fiszki"], ["quiz", "✅ Test"], ["selftest", "📝 Moodle"]]
-      .filter(([key]) => (key !== "notes" || !isExamPaper(module)) && (key !== "selftest" || hasMoodleQuestions(module)));
+    const tabs = [["notes", "📖 Notatki"], ["video", "🎬 Wideo"], ["cards", "🃏 Fiszki"], ["quiz", "✅ Test"], ["selftest", "📝 Moodle"]]
+      .filter(([key]) => (key !== "notes" || !isExamPaper(module)) && (key !== "video" || module.video) && (key !== "selftest" || hasMoodleQuestions(module)));
     const current = tab || tabs[0][0];
     view.innerHTML = `
       <button class="back" data-go="home">← Wszystkie moduły</button>
@@ -141,6 +141,7 @@
     view.querySelectorAll("[data-tab]").forEach((b) => b.addEventListener("click", () => go("module/" + id + "/" + b.dataset.tab)));
     const body = document.getElementById("tabBody");
     if (current === "notes") renderNotes(module, body);
+    if (current === "video") renderVideo(module, body);
     if (current === "cards") startFlashcards(body, allCards([id]), unitName(module));
     if (current === "quiz") startQuiz(body, shuffle(module.quiz.map((q) => ({ ...q, moduleId: id }))).slice(0, isExamPaper(module) ? module.quiz.length : MODULE_QUIZ_SIZE), id);
     if (current === "selftest") renderSelftestMenu(module, body);
@@ -148,6 +149,13 @@
 
   // Optional pictures (course PDF figures, videocast slides): section.images [{src, caption}], card.img, question.img.
   const figureHtml = (src, caption) => `<figure class="pic"><img src="${escapeHtml(src)}" alt="${escapeHtml(caption || "")}" loading="lazy">${caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : ""}</figure>`;
+
+  // The lesson's videocast from the course (module.video), converted to MP4.
+  function renderVideo(module, body) {
+    body.innerHTML = `<video class="lesson-video" src="${escapeHtml(module.video)}" controls preload="metadata" playsinline></video>
+      <div class="actions"><button class="btn primary" id="toNotes">Przejdź do notatek →</button></div>`;
+    body.querySelector("#toNotes").addEventListener("click", () => go("module/" + module.id + "/notes"));
+  }
 
   function renderNotes(module, body) {
     body.innerHTML = module.notes.map((section) => `
